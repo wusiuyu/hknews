@@ -1,4 +1,19 @@
 title,date,summary,scrape_time,section,source,link,description
+"Netflix, tech stocks boost Dow and S&P to record highs",2024-10-19 10:26,,2024-10-19 10:44,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1775233-20241019.htm,"The Dow Jones Industrial Average and S&P 500 chalked up record closing highs on Friday, with the Nasdaq also in positive territory, as markets were boosted by an earnings-driven jump in Netflix shares and broader gains across technology stocks.
+
+All three major Wall Street benchmarks also comfortably secured a sixth straight weekly gain, their longest weekly winning streaks since late 2023.
+
+The Dow Jones rose 0.09 percent s to close at 43,277. The S&P gained 0.4 percent to end at 5,864, while the Nasdaq rose 0.63 percent, to 18,488.
+
+Shares of Netflix jumped 11.1 percent to a record closing high after the streaming giant topped Wall Street estimates for subscriber additions and said it expected continued growth through the end of the year.
+
+Many of the so-called Magnificent Seven tech stocks, which have driven much of Wall Street's rally this year, rose.
+
+Apple gained 1.2 percent after data showed a sharp increase in new iPhone sales in China, while chip heavyweight Nvidia advanced 0.8 percent after BofA Global Research hiked its price target on the stock.
+
+Netflix's increase lifted the communication services sector 0.9 percent, making it the largest gainer among the 11 S&P 500 sectors, while information technology rose 0.5 percent.
+
+""It's kind of the 'what's not to like' market,"" said David Waddell, chief executive of Waddell & Associates, citing positive economic data, disinflation and upbeat earnings and forecasts from corporate America. (Reuters)"
 施政報告2024 | 政府擬輸入1萬名技工5萬空缺留予港人,2024-10-19 09:49,,2024-10-19 09:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775250-20241019.htm,"政務司司長陳國基表示，本港未來欠缺18萬人才和人力，包括6萬名技術人員，例如維修技工。當局計劃輸入1萬名技工，其餘5萬留予港人，保障本地勞工就業。
 
 陳國基在一個電台節目表示，輸入的技工必須有牌照，來港後只能夠從事本身的行業，當局希望揀選到年輕人，令勞動人口較年輕化，他們亦更願意留在港發展。他補充說會繼續本地技工的培訓工作，包括由職訓局去做，希望未來幾年可以紓緩問題。
@@ -113,16 +128,16 @@ title,date,summary,scrape_time,section,source,link,description
 民主黨總統候選人、副總統賀錦麗到密歇根州拉票時說，競選活動可能導致特朗普筋疲力盡，令他不得不會迴避見傳媒，質疑對方是否適合擔任總統，又指特朗普面對美國民眾的訴求，根本無應對計劃，關注的只有自己。
 
 特朗普回應賀錦麗的言論時，聲稱自己48日無休息過，又形容賀錦麗才是能量不足的失敗者。特朗普在密歇根州亦有行程。當地是所謂三大藍牆州份之一，有機會左右大局，其餘兩州分別是賓夕法尼亞及威斯康星州。"
-紐約期金高收逾0.8%,2024-10-19 05:10,,2024-10-19 05:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775232-20241019.htm,"外圍金價再創新高。中東緊張局勢升級、美國大選不確定，以及主要央行寬鬆貨幣政策環境，都推高金價。
-
-紐約12月期金收市報每盎士2730美元，升22.5美元，升幅0.83%。
-
-現貨金較早時在2722美元附近。"
 紐約期油低收逾2%,2024-10-19 05:10,,2024-10-19 05:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775231-20241019.htm,"原油期貨價格下跌。中國經濟增長放緩，投資者關注對未來原油需求的影響。
 
 紐約11月期油收市報每桶69.22美元，跌1.45美元，跌幅2.05%。
 
 布蘭特12月期油收市報海桶73.06美元，跌1.39美元，跌幅1.87%。"
+紐約期金高收逾0.8%,2024-10-19 05:10,,2024-10-19 05:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775232-20241019.htm,"外圍金價再創新高。中東緊張局勢升級、美國大選不確定，以及主要央行寬鬆貨幣政策環境，都推高金價。
+
+紐約12月期金收市報每盎士2730美元，升22.5美元，升幅0.83%。
+
+現貨金較早時在2722美元附近。"
 歐洲主要股市個別發展　英股收市偏軟,2024-10-19 05:09,,2024-10-19 05:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775230-20241019.htm,"歐洲主要股市個別發展。
 
 倫敦富時指數收市報8358點，跌26點。
@@ -387,17 +402,17 @@ The blueprint, expected to be promulgated later this year, will outline the visi
 施政報告2024｜金管局推措施釋放銀行資本並擴大中小企定義,2024-10-18 18:12,,2024-10-18 18:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775188-20241018.htm,"金管局公布支援中小企措施，即日起將逆周期緩衝資本水平，由1%降至0.5%，釋放銀行資本；中小企的定義亦擴闊，由全年銷售額1億港元，擴大至5億港元，更多企業能夠以中小企的名義向銀行貸款。
 
 金管局副總裁阮國恒表示，明白高息環境對中小企有影響，但不能因為要支援中小企就「夾硬㩒低」利息，這並非商業運作的原則。"
-永安旅遊今季增設4間分行　目標明年出團人次升30%,2024-10-18 18:06,,2024-10-18 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775184-20241018.htm,"永安旅遊表示，今季將增設4間分行，分別位於屯門、觀塘、鰂魚涌及將軍澳，明年初於新界北開設多一間分行，預計明年首季分行總數翻倍至10間分行。
-
-公司表示，由於航空運力未完全回復，機位供應量仍然短缺，旅行團收客數量受限，大約回復至疫情前70%，自由行業務則回復至接近2019年水平。
-
-公司指，10月受到股市暢旺帶動，出團人次按月急升兩成，第3季營運收益按季增長兩成。隨著公司第4季擴張，目標明年出團人次按年升30%。"
 永安旅遊旅行團收客數量達疫情前七成　目標明年出團人次升三成,2024-10-18 18:06,,2024-10-18 18:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775184-20241018.htm,"永安旅遊表示，旅行團收客數量大約回復至疫情前70%，受到航空運力未完全回復，機位供應量仍然短缺所限制。至於自由行業務則回復至接近2019年水平。
 
 公司指，10月股市暢旺，帶動出團人次按月急升兩成，第3季營運收益按季增長兩成。
 隨著公司計劃第4季擴張，目標明年出團人次按年升30%。
 
 公司計劃今季增設4間分行，分別位於屯門、觀塘、鰂魚涌及將軍澳，明年初於新界北開設多一間分行，預計明年首季分行總數翻倍至10間分行。"
+永安旅遊今季增設4間分行　目標明年出團人次升30%,2024-10-18 18:06,,2024-10-18 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775184-20241018.htm,"永安旅遊表示，今季將增設4間分行，分別位於屯門、觀塘、鰂魚涌及將軍澳，明年初於新界北開設多一間分行，預計明年首季分行總數翻倍至10間分行。
+
+公司表示，由於航空運力未完全回復，機位供應量仍然短缺，旅行團收客數量受限，大約回復至疫情前70%，自由行業務則回復至接近2019年水平。
+
+公司指，10月受到股市暢旺帶動，出團人次按月急升兩成，第3季營運收益按季增長兩成。隨著公司第4季擴張，目標明年出團人次按年升30%。"
 9隻猴子死亡因感染類鼻疽　當局排除食物中毒等原因,2024-10-18 18:03,,2024-10-18 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775186-20241018.htm, 
 施政報告2024｜運輸及物流局：並非要求的士司機學習阿拉伯語,2024-10-18 18:02,,2024-10-18 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775185-20241018.htm,"施政報告提出，開拓中東和東盟旅客客源，包括鼓勵的士車隊以阿拉伯語提供車隊服務資訊。運輸及物流局表示，運輸署會鼓勵的士車隊透過車隊網頁或手機應用程式，以阿拉伯語介紹車隊的士種類、收費模式等方便溝通，並非要求司機學習阿拉伯語。
 
@@ -407,10 +422,10 @@ The blueprint, expected to be promulgated later this year, will outline the visi
 證監會企業融資部執行董事戴霖表示，證監會一直致力提升上市監管的透明度、問責和效率，全力支持優化審批流程時間表，這項舉措符合證監會策略重點，有助提升香港資本市場的全球競爭力及吸引力。
 
 港交所上市主管伍潔鏇表示，港交所致力履行前線監管機構職責，審慎並有效率地審批新上市申請。她相信，優化審批流程時間表，包括推行合資格A股公司快速審批時間表，將有助提升新上市申請審批程序的清晰度及確定性，有助申請人及其顧問制定上市計劃，進一步提升香港作為國際金融中心的吸引力。她期待，在各方支持和配合下，高效、及時地處理上市審批。"
-施政報告2024｜楊潤雄不認為特首多次催促文創藍圖,2024-10-18 17:53,,2024-10-18 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775183-20241018.htm,"行政長官李家超在《施政報告》附件提及，去年《施政報告》提出的《文藝創意產業發展藍圖》未有如期公布，已指示文化體育及旅遊局必須盡快完成。
+施政報告2024｜楊潤雄不認為特首多次催促公布文創藍圖,2024-10-18 17:53,,2024-10-18 18:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775183-20241018.htm,"行政長官李家超在《施政報告》附件提及，去年《施政報告》提出的《文藝創意產業發展藍圖》未有如期公布，已指示文化體育及旅遊局必須盡快完成。
 
 文體旅局局長楊潤雄不認為特首多次公開催促他工作。他強調《藍圖》已差不多完成，之前是因為藝文界的意見和社會經濟變化，要大規模修改建議。楊潤雄相信，修改後的《藍圖》能為香港文化及創意產業指出方向，為業界發展帶來正面影響及幫助。"
-施政報告2024｜楊潤雄不認為特首多次催促公布文創藍圖,2024-10-18 17:53,,2024-10-18 18:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775183-20241018.htm,"行政長官李家超在《施政報告》附件提及，去年《施政報告》提出的《文藝創意產業發展藍圖》未有如期公布，已指示文化體育及旅遊局必須盡快完成。
+施政報告2024｜楊潤雄不認為特首多次催促文創藍圖,2024-10-18 17:53,,2024-10-18 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775183-20241018.htm,"行政長官李家超在《施政報告》附件提及，去年《施政報告》提出的《文藝創意產業發展藍圖》未有如期公布，已指示文化體育及旅遊局必須盡快完成。
 
 文體旅局局長楊潤雄不認為特首多次公開催促他工作。他強調《藍圖》已差不多完成，之前是因為藝文界的意見和社會經濟變化，要大規模修改建議。楊潤雄相信，修改後的《藍圖》能為香港文化及創意產業指出方向，為業界發展帶來正面影響及幫助。"
 許正宇：優化上市審批時間表　便利企業來港上市,2024-10-18 17:51,,2024-10-18 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775182-20241018.htm,"證監會與聯交所聯合發布，有關優化新上市申請審批流程時間表的聲明，優化審批流程包括合資格新上市申請和合資格A股公司快速審批時間表，令上市申請審批時間更具確定性，提升整體審批程序的透明度，便利準發行人在香港上市。
