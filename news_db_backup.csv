@@ -29,7 +29,7 @@ title,date,summary,scrape_time,section,source,link,description
 
 較早前，多個傳媒報道，在以色列對伊朗襲擊前，白宮已收到通知，但美國並沒有參與。"
 昂坪360今早纜車服務暫停　天氣好轉後恢復,2024-10-26 08:58,,2024-10-26 09:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776281-20241026.htm,昂坪360宣布，受強烈熱帶風暴的影響，今早的纜車服務暫停，並將於天氣好轉後，盡快恢復纜車服務。
-三號強風信號將生效　香港迪士尼樂園有限度運作,2024-10-26 08:56,,2024-10-26 09:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776280-20241026.htm,"香港迪士尼樂園度假區宣布，天文台將發出三號強風信號後，樂園會作有限度運作。
+三號強風信號生效後　香港迪士尼樂園將有限度運作,2024-10-26 08:56,,2024-10-26 10:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776280-20241026.htm,"香港迪士尼樂園度假區宣布，在天文台發出三號強風信號後，樂園會作有限度運作。
 
 迪欣湖活動中心照常開放，腳踏船及腳踏遊覽車租賃服務或會因惡劣天氣情況而暫停。
 
@@ -37,6 +37,13 @@ title,date,summary,scrape_time,section,source,link,description
 
 入園人士可向演藝人員查詢表演節目場次及遊樂設施開放的最新安排。"
 三號強風信號生效　香港迪士尼樂園有限度運作,2024-10-26 08:56,,2024-10-26 09:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776280-20241026.htm,"香港迪士尼樂園度假區宣布，天文台發出三號強風信號後，樂園會作有限度運作。
+
+迪欣湖活動中心照常開放，腳踏船及腳踏遊覽車租賃服務或會因惡劣天氣情況而暫停。
+
+三號強風信號生效期間，樂園戶外遊樂設施會暫停運作，並將於改發一號戒備信號後陸續恢復。
+
+入園人士可向演藝人員查詢表演節目場次及遊樂設施開放的最新安排。"
+三號強風信號將生效　香港迪士尼樂園有限度運作,2024-10-26 08:56,,2024-10-26 09:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776280-20241026.htm,"香港迪士尼樂園度假區宣布，天文台將發出三號強風信號後，樂園會作有限度運作。
 
 迪欣湖活動中心照常開放，腳踏船及腳踏遊覽車租賃服務或會因惡劣天氣情況而暫停。
 
@@ -97,11 +104,6 @@ title,date,summary,scrape_time,section,source,link,description
 現貨金報2747.69美元，升幅0.4%。現貨金在周三曾升至2758.37美元的歷史高位，本周累計上升約1%，連升3星期。
 
 紐約期金收市報每盎司2754.6美元，升幅0.2%。"
-美元本周累升近1%　連升4星期,2024-10-26 06:10,,2024-10-26 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776267-20241026.htm,"美元上升，美元指數報104.32，升幅近0.3%。全星期累計升近1%，連升4星期，受到一系列強勁經濟數據支持。
-
-歐元兌美元跌0.3%，報1.0793美元。英鎊兌美元跌0.1%，報1.2959美元。
-
-美元兌日圓升0.3%，報152.3日圓。"
 國際油價本周累升近4%或以上　市場關注地緣政局及總統大選,2024-10-26 06:10,,2024-10-26 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776268-20241026.htm,"國際期油價格收市升逾2%，本周累升近4%或以上，市場關注中東緊張局勢以及下月美國總統大選。
 
 倫敦布蘭特期油收市報每桶76.05美元，升1.67美元，升幅逾2.2%。
@@ -109,13 +111,11 @@ title,date,summary,scrape_time,section,source,link,description
 紐約期油收報每桶71.78美元，升1.59美元，升幅近2.3%。
 
 全星期計，布蘭特期油升近4.1%，紐約期油升近3.7%。"
-HKO to issue T3 between 9am and 11am,2024-10-26 06:00,"The Observatory may upgrade Standby Signal to Strong Wind Signal 3 between 9am-11am due to Severe Tropical Storm Trami near SAR. Winds expected to increase in Hong Kong, some previously sheltered areas becoming exposed. Storm to ease off Sunday morning as it moves towards South China Sea, south of Hainan Island.",2024-10-26 06:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1776266-20241026.htm,"The Observatory says it may replace the Standby Signal Number one with a Strong Wind Signal No. 3 between 9am and 11am as Severe Tropical Storm Trami skirts the SAR.
+美元本周累升近1%　連升4星期,2024-10-26 06:10,,2024-10-26 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776267-20241026.htm,"美元上升，美元指數報104.32，升幅近0.3%。全星期累計升近1%，連升4星期，受到一系列強勁經濟數據支持。
 
-It said local winds are expected to pick up gradually in Hong Kong as the winds veer to the east later on, and some places which were previously sheltered become exposed. 
+歐元兌美元跌0.3%，報1.0793美元。英鎊兌美元跌0.1%，報1.2959美元。
 
-The Observatory said winds will ease off gradually on Sunday morning as Trami leaves. 
-
-It said Trami was an estimated 540 kilometres south of Hong Kong, and is forecast to move across the South China Sea in the direction of the waters south of Hainan Island."
+美元兌日圓升0.3%，報152.3日圓。"
 HKO to issue T3 at 10.40am as Trami nears HK,2024-10-26 06:00,"Severe Tropical Storm Trami approaching SAR, Strong Wind Signal No. 3 issued at 10.40am. Kindergartens and schools for disabled children suspended. Winds expected to increase, veer east, exposing previously sheltered areas. Gradual easing expected on Sunday morning as Trami moves south of Hainan Island. Trami currently 560km south of Hong Kong.",2024-10-26 08:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1776266-20241026.htm,"The Observatory says it will issue the Strong Wind Signal No. 3 at 10.40am as Severe Tropical Storm Trami skirts the SAR.
 
 The Education Bureau said kindergartens and schools for children with physical and intellectual disabilities would be suspended for the day.
@@ -127,6 +127,13 @@ However, it expects the winds to ease off gradually on Sunday morning as Trami l
 It said Trami was an estimated 560 kilometres south of Hong Kong, and is forecast to move across the South China Sea in the direction of the waters south of Hainan Island.
 _____________________________
 Last updated: 2024-10-26 HKT 008:30 "
+HKO to issue T3 between 9am and 11am,2024-10-26 06:00,"The Observatory may upgrade Standby Signal to Strong Wind Signal 3 between 9am-11am due to Severe Tropical Storm Trami near SAR. Winds expected to increase in Hong Kong, some previously sheltered areas becoming exposed. Storm to ease off Sunday morning as it moves towards South China Sea, south of Hainan Island.",2024-10-26 06:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1776266-20241026.htm,"The Observatory says it may replace the Standby Signal Number one with a Strong Wind Signal No. 3 between 9am and 11am as Severe Tropical Storm Trami skirts the SAR.
+
+It said local winds are expected to pick up gradually in Hong Kong as the winds veer to the east later on, and some places which were previously sheltered become exposed. 
+
+The Observatory said winds will ease off gradually on Sunday morning as Trami leaves. 
+
+It said Trami was an estimated 540 kilometres south of Hong Kong, and is forecast to move across the South China Sea in the direction of the waters south of Hainan Island."
 US stocks close mixed ahead of big earnings reports,2024-10-26 05:59,"The Nasdaq rose on Friday, driven by megacap shares like Tesla, Amazon, Apple, and Microsoft. Tesla's sales forecast boosted investor optimism. The Dow fell due to banking shares and fast-food chain McDonald's, affected by an E. coli outbreak. The 10-year Treasury yield edged higher, awaiting US employment data. Only the Nasdaq closed the week with gains, with the S&P and Dow declining.",2024-10-26 06:14,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1776265-20241026.htm,"The Nasdaq ended higher on Friday, driven by megacap shares, as investors awaited quarterly results from some of Wall Street's biggest companies next week.
 
 Tesla shares rose 3.36 percent a day after surging 22 percent on the electric vehicle maker's sales forecast. Amazon, Apple and Microsoft also rose.
@@ -336,11 +343,6 @@ At another booth was Umesh, who was enjoying a glass of Finnish wine. He said he
 “We’ve tried Finland’s. We’ve tried China’s. We’ve tried France’s. Not disappointed yet. I can’t wait to see the others, because I’ll probably find stuff that I don’t know existed,” he said of his first Wine and Dine Festival experience.
 
 The five-day festival will end on Sunday."
-美國9月耐用品訂單按月跌0.8%　跌幅低於預期,2024-10-25 21:39,,2024-10-25 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776239-20241025.htm,"美國9月耐用品訂單按月跌0.8%，跌幅低於市場預期的1%，與8月相同。
-
-扣除運輸的耐用品訂單出乎意料升0.4%，好過市場原先估計跌0.1%，但升幅比8月收窄。
-
-扣除飛機的非國防資本貨物訂單按月升0.5%，升幅比8月加快0.2個百分點，並好過預期。這項數據又稱為核心資本貨物訂單，反映企業開支計劃。"
 美股初段造好　道指升逾百點,2024-10-25 21:39,,2024-10-25 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776240-20241025.htm,"美股3大指數初段造好。
 
 道瓊斯指數較早時報42530點，升155點，升幅0.37%。
@@ -348,6 +350,11 @@ The five-day festival will end on Sunday."
 納斯達克指數報18561點，升146點，升幅0.79%。
 
 標準普爾500指數報5842點，升32點，升幅0.57%。"
+美國9月耐用品訂單按月跌0.8%　跌幅低於預期,2024-10-25 21:39,,2024-10-25 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776239-20241025.htm,"美國9月耐用品訂單按月跌0.8%，跌幅低於市場預期的1%，與8月相同。
+
+扣除運輸的耐用品訂單出乎意料升0.4%，好過市場原先估計跌0.1%，但升幅比8月收窄。
+
+扣除飛機的非國防資本貨物訂單按月升0.5%，升幅比8月加快0.2個百分點，並好過預期。這項數據又稱為核心資本貨物訂單，反映企業開支計劃。"
 特朗普與賀錦麗轉戰得州　分別做博客嘉賓及與著手歌手同台,2024-10-25 21:38,,2024-10-25 21:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776241-20241025.htm,"美國大選距離投票日不足兩星期，兩名候選人從關鍵搖擺州份轉戰得州造勢。
 
 共和黨候選人、爭取再度入主白宮的特朗普，行程包括到州首府奧斯汀為一個在美國非常受歡迎、經常邀請到重量級嘉賓的播客節目錄製節目。報道指這是競選團隊精心策劃的選舉策略一部分，爭取相比傳統媒體更喜愛播客節目的年輕男性觀眾支持。民主黨候選人、副總統賀錦麗的行程包括出席休斯敦一場競選活動，很可能與著名歌手Beyoncé同台。分析指賀錦麗需要吸納民主黨基本盤以外的選民才能在大選中獲勝。
@@ -484,12 +491,12 @@ The five-day festival will end on Sunday."
 劉嘉輝預期，發展商往後推盤定價會較低，短期一手樓價難以大幅回升。至於二手樓價雖然仍受壓，但聯儲局有望於11月再度減息，加上股市近期反彈，二手樓價有望企穩。
 
 他估計，今年全年整體樓價或跌5%。假設利率持續回落，租金回報上升，明年整體樓價有機會企穩甚至回升。"
-米歇爾認為歐盟必須停止向發展中國家說教,2024-10-25 18:48,,2024-10-25 19:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776214-20241025.htm,"歐洲理事會主席米歇爾表示，歐盟的夥伴國家參與俄羅斯總統普京在喀山主持的金磚峰會，是向布魯塞爾發出應該停止向世界其他地區說教的信息。
+米歇爾認為歐盟必須停止說教發展中國家,2024-10-25 18:48,,2024-10-25 18:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776214-20241025.htm,"歐洲理事會主席米歇爾表示，歐盟的夥伴國家參與俄羅斯總統普京在喀山主持的金磚峰會，是向布魯塞爾發出應該停止向世界其他地區說教的信息。
 
 米歇爾接受英國《金融時報》訪問時舉例說，在軍事角度與歐盟及美國非常接近的埃及，以及經濟關係與歐盟密切的阿聯酋，都選擇到喀山出席峰會，表明他們想向世界其他地方傳達一些信息。
 
 米歇爾認為，很多國家希望實現經濟和安全聯盟多元化，減少對中俄的依賴，但歐盟要採取新的方式來取得這些國家的支持，如果歐盟想抗衡中俄在非洲、拉丁美洲和東南亞擴大的影響力，就必須對與歐盟簽署戰略、貿易或政治合作協議的發展中國家，表現出更多尊重。"
-米歇爾認為歐盟必須停止說教發展中國家,2024-10-25 18:48,,2024-10-25 18:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776214-20241025.htm,"歐洲理事會主席米歇爾表示，歐盟的夥伴國家參與俄羅斯總統普京在喀山主持的金磚峰會，是向布魯塞爾發出應該停止向世界其他地區說教的信息。
+米歇爾認為歐盟必須停止向發展中國家說教,2024-10-25 18:48,,2024-10-25 19:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776214-20241025.htm,"歐洲理事會主席米歇爾表示，歐盟的夥伴國家參與俄羅斯總統普京在喀山主持的金磚峰會，是向布魯塞爾發出應該停止向世界其他地區說教的信息。
 
 米歇爾接受英國《金融時報》訪問時舉例說，在軍事角度與歐盟及美國非常接近的埃及，以及經濟關係與歐盟密切的阿聯酋，都選擇到喀山出席峰會，表明他們想向世界其他地方傳達一些信息。
 
@@ -2420,12 +2427,12 @@ The pair were arrested on suspicion of trafficking in dangerous drugs."
 廉署拘148人涉以貪污手段取得進行挖泥或電力工程相關資格,2024-10-23 18:15,,2024-10-23 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775880-20241023.htm,"廉政公署拘捕148人，涉嫌以貪污手段取得建造業及電力的相關資格，以進行建造業挖泥或電力工程。署方批評有關做法嚴重破壞政府制度，影響工程安全，不排除有更多人被捕。
 
 被捕人士包括工程公司東主及電工，以及勞工處認可訓練課程營辦機構職員。勞工處宣布，已撤銷100張涉案挖掘機操作員證書。機電署證實，經調查後已取消相關 A級電業工程人員註冊牌照。"
-會德豐及信置均認為樓市已止跌,2024-10-23 18:13,,2024-10-23 23:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775879-20241023.htm,"地產建設商會相信，啟德綠色集體運輸系統一定會落實，明年可望正式招標，對啟德區發展充滿信心。
-
-另外，會德豐地產及信置表示，樓市已止跌，對後市有信心。"
 會德豐及信置均認為樓市已止跌回升,2024-10-23 18:13,,2024-10-23 18:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775879-20241023.htm,"地產建設商會相信，啟德綠色集體運輸系統一定會落實，明年可望正式招標，對啟德區發展充滿信心。
 
 另外，會德豐地產及信置表示，樓市已止跌回升，對後市有信心。"
+會德豐及信置均認為樓市已止跌,2024-10-23 18:13,,2024-10-23 23:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775879-20241023.htm,"地產建設商會相信，啟德綠色集體運輸系統一定會落實，明年可望正式招標，對啟德區發展充滿信心。
+
+另外，會德豐地產及信置表示，樓市已止跌，對後市有信心。"
 進食友人尼泊爾帶來蜂蜜　35歲女子懷疑狂蜜病中毒情況穩定,2024-10-23 18:12,,2024-10-23 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775878-20241023.htm,"一名35歲女子昨日進食外地蜂蜜後，出現頭暈、抽搐及失去知覺等病徵，要送往急症室，並入院治療，現時情況穩定。臨床診斷為懷疑狂蜜病中毒。
 
 衞生防護中心表示，該名女子進食友人由尼泊爾帶到香港的蜂蜜，懷疑個案由梫木毒素引致。
@@ -2828,6 +2835,11 @@ Yeung said the government is looking into whether there is any room to build new
 在立法會大會上，工聯會的吳秋北說，有指英特爾和高通的芯片有很多安全漏洞，關注當局的選舉系統會否排除有關芯片。曾國衞回應，政府有很多措施確保系統，不會受人為干預的風險，其中在系統設計方面，除政府部門之外，亦有聘請獨立承建商檢視系統安全及私隱保障情況，政府內部同時設立由專家組成的委員會，嚴格審視相關系統。
 
 社福界的狄志遠指出，上次立法會選舉的投票率偏低，擔心會影響立法會的認受性，關注政府有無措施提升投票率。曾國衞表示，不認同投票率人偏高或偏低，政府亦無硬指標，但他指出，政府在完善選舉制度後，透過更多宣傳教育，讓市民明白投票所選出的愛國愛港人士，能幫助香港發展及改善民生，日後政府會繼續加強宣傳工作。"
+元朗獨立屋業主不遵從清拆令被判罰款八萬元,2024-10-23 12:56,,2024-10-23 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775815-20241023.htm,"元朗一幢獨立屋業主不遵從清拆令，本月初於屯門裁判法院被定罪及判罰款逾8萬元，當中53600元屬罪行持續的日數所判的罰款。
+
+屋宇署表示，有關個案涉及獨立屋天台及地下的兩個僭建物，面積合共約33平方米。該名業主由於沒有履行清拆令，早前曾遭署方檢控，並被法庭定罪及判罰款逾6千元。該名業主被檢控後，曾清拆其中一個天台僭建物，但後來又被發現在該天台重新搭建僭建物，由於仍不履行清拆令，屋宇署於是再次提出檢控。
+
+屋宇署發言人說，僭建物可導致嚴重後果，有關業主必須盡快遵從清拆令。對於一直不遵從清拆令的業主，屋宇署會繼續採取執法行動，並會再次提出檢控，以保障樓宇安全。"
 Mainland visitors up after solo travel scheme expanded,2024-10-23 12:56,"The article states that Hong Kong saw a 16% increase in visitors from ten mainland cities in Q3, following Beijing's decision to allow individual visits. This increase is attributed to the expansion of the Individual Visit Scheme in March and May, involving cities like Qingdao and Xi'an. The Tourism Bureau reported over 140,000 visitors from these cities and distributed discount vouchers. They plan to continue promoting two-way tourism exchanges.",2024-10-23 13:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775805-20241023.htm,"The government on Wednesday said Hong Kong saw a 16-percent jump in visitors from ten mainland cities in the third quarter, following Beijing's decision to allow individual visits from these places.
 
 The Individual Visit Scheme was expanded in March and May, and it involved the cities of Qingdao, Xi'an, Taiyuan, Hohhot, Harbin, Lhasa, Lanzhou, Xining, Yinchuan and Urumqi. 
@@ -2839,11 +2851,6 @@ It said more than 140,000 inbound visitors came from the ten cities between July
 ""Since April this year, the Tourism Board has distributed nearly 30,000 sets of discount vouchers, each valued at HK$200, to visitors from the ten cities through travel agents and airlines,"" the bureau said in a written reply.
 
 It added that it will continue to work with the trade to look for business opportunities and promote two-way tourism exchanges with mainland cities."
-元朗獨立屋業主不遵從清拆令被判罰款八萬元,2024-10-23 12:56,,2024-10-23 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775815-20241023.htm,"元朗一幢獨立屋業主不遵從清拆令，本月初於屯門裁判法院被定罪及判罰款逾8萬元，當中53600元屬罪行持續的日數所判的罰款。
-
-屋宇署表示，有關個案涉及獨立屋天台及地下的兩個僭建物，面積合共約33平方米。該名業主由於沒有履行清拆令，早前曾遭署方檢控，並被法庭定罪及判罰款逾6千元。該名業主被檢控後，曾清拆其中一個天台僭建物，但後來又被發現在該天台重新搭建僭建物，由於仍不履行清拆令，屋宇署於是再次提出檢控。
-
-屋宇署發言人說，僭建物可導致嚴重後果，有關業主必須盡快遵從清拆令。對於一直不遵從清拆令的業主，屋宇署會繼續採取執法行動，並會再次提出檢控，以保障樓宇安全。"
 有議員倡中央派航母訪港　楊潤雄稱盡量利用郵輪碼頭舉辦不同活動,2024-10-23 12:55,,2024-10-23 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775814-20241023.htm,"文化體育及旅遊局局長楊潤雄說，今年共有30間郵輪公司派船來港，較去年增加12間，與疫情前相若。今年預計非本地郵輪乘客人次增加至約33萬人次，較去年增加50% ，而未來一年將有新的郵輪公司首度來港，亦有公司推出新的航程吸引不同客源。
 
 楊潤雄在立法會回應議員陳月明質詢表示，早前已經廣泛徵求本地和國際郵輪業界持份者意見，並制定行動計劃，進一步推動郵輪到訪香港，有關計劃在年底公布的《香港旅遊業發展藍圖2.0》時宣布。
@@ -2894,11 +2901,6 @@ It added that it will continue to work with the trade to look for business oppor
 海洋公園表示，新設計大熊貓產品及主題餐飲，過去兩個月銷情強勁。
 
 學者建議，把大熊貓塑造成為香港吉祥物，估計一年可為本港帶來約幾十億收入。"
-孫明揚離世享年80歲　李家超哀悼　葉劉淑儀讚揚對一國兩制貢獻,2024-10-23 12:28,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775804-20241023.htm,"前教育局局長孫明揚離世，享年80歲。行政長官李家超表示哀悼，讚揚對方多年熱心服務市民，為特區貢獻良多。
-
-行政會議召集人、保安局前局長葉劉淑儀曾與孫明揚共事，讚揚他人緣非常好，對年輕同事很關照，對一國兩制有很大貢獻。
-
-孫明揚回歸後曾擔任多個政策局局長，最為人所熟知的包括推出穩定樓市的「孫九招」，對本港房地產市場影響深遠。"
 蔡若蓮稱孫明揚看問題非常透徹　經常說「條條大路通羅馬」,2024-10-23 12:28,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775806-20241023.htm,"教育局局長蔡若蓮對前教育局局長孫明揚辭世深表哀悼，向他的家人致以深切慰問。
 
 蔡若蓮表示，孫明揚竭力為市民和政府服務數十載，貢獻良多，深受社會各界人士尊敬。擔任教育局局長期間，制訂和落實多項重要教育政策，包括推動高等院校發展、拓展多元升學出路、落實高中及高等教育新學制，即「三三四」學制、微調中學教學語言，以及小學實施小班教學，惠及眾多莘莘學子，影響深遠。 
@@ -2908,6 +2910,11 @@ It added that it will continue to work with the trade to look for business oppor
 她憶述孫明揚當年擔任教育局局長時，推出教育語言調整政策，自己當時在教育局負責語文支援工作，經常要走訪不同學校，她說印象最深刻的是，當年的政府，局長甚少會見前線員工，但孫明揚卻會與教育局的前線員工見面，就政策作解說，希望將思路與前線同事分享，令前線同事與學校溝通時，都可以明白政策背後理念。
 
 她又認為，孫明揚是一個肯聽意見的人，對方經常都說「條條大路通羅馬」，做好一件事方法有好多。"
+孫明揚離世享年80歲　李家超哀悼　葉劉淑儀讚揚對一國兩制貢獻,2024-10-23 12:28,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775804-20241023.htm,"前教育局局長孫明揚離世，享年80歲。行政長官李家超表示哀悼，讚揚對方多年熱心服務市民，為特區貢獻良多。
+
+行政會議召集人、保安局前局長葉劉淑儀曾與孫明揚共事，讚揚他人緣非常好，對年輕同事很關照，對一國兩制有很大貢獻。
+
+孫明揚回歸後曾擔任多個政策局局長，最為人所熟知的包括推出穩定樓市的「孫九招」，對本港房地產市場影響深遠。"
 Nation's industry chief meets Apple boss in Beijing,2024-10-23 12:27,"China's Industry Minister Jin Zhuanglong urged Apple CEO Tim Cook to deepen Apple's presence in China, increase investment in innovation, and share in the benefits of high-quality investment. Jin expressed China's commitment to providing a better environment for global investors. Cook is in China for the second time this year, discussing topics like Apple's development, network security, and cloud services. Apple's iPhone sales in China have faced pressure from local competitors, resulting in a drop from third to sixth place in smartphone vendor rankings.",2024-10-23 12:44,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1775803-20241023.htm,"The nation's industry chief told Apple CEO Tim Cook in Beijing on Wednesday that he hoped the US tech giant would continue to deepen its presence in the country, an official statement on their meeting showed.
 
 China is a vital market for Apple, but recent years have seen the firm battle slumping sales in the face of increasingly stiff competition in the smartphone sector from local rivals.
@@ -2967,6 +2974,11 @@ The firm fell to number six in a ranking of smartphone vendors in China during t
 華潤電力低收近6%，公司以折讓5%向獨立第三方及控股股東配股，合共集資近72億元。
 
 包裝飲用水企業華潤飲料首日掛牌，高見16.6元，最多較上市價高出14.5%，中午收市報16.34元，較上市價高近13%。"
+天文台稱明日稍後至周五發出一號信號　之後評估是否需要改發三號,2024-10-23 12:11,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775798-20241023.htm,"天文台表示，根據現時預測，熱帶氣旋潭美會在明日稍後至星期五初時進入本港800公里範圍，天文台屆時會發出一號戒備信號，並會視乎潭美的動向及本地風力變化，評估是否需要改發三號強風信號。
+
+天文台預料潭美會向西移動並逐漸增強，大致移向海南島一帶。同時，一股東北季候風補充會在接近週末抵達華南。在潭美與東北季候風的共同影響下，星期五及周末期間華南沿岸風勢頗大，漸轉多雲及有幾陣驟雨。
+
+天文台說，隨後潭美的移動路徑及強度存在變數，有機會在下週初於海南島附近徘徊。"
 Regal Oriental Hotel to become a youth hostel,2024-10-23 12:11,"Government approves Regal Oriental Hotel in Kowloon City to become a 160-bed youth hostel named ""YOT Hub"" by Yan Oi Tong. Fifth project under the Subsidy Scheme. Provides young people with a comfortable living environment, broadens horizons, and offers training/internship programs.",2024-10-23 12:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775795-20241023.htm,"The government on Wednesday gave the green light for the Regal Oriental Hotel in Kowloon City to be turned into a youth hostel.
 
 Non-governmental organisation Yan Oi Tong will convert the 80-room hotel into a 160-bed hostel named ""YOT Hub"". 
@@ -2976,15 +2988,10 @@ It is the fifth such project to be granted approval under the Subsidy Scheme for
 ""YOT Hub is well connected by public transport with comprehensive community facilities in the vicinity. This project not only provides young people with a comfortable living environment but also enables them to broaden their horizons and achieve their personal development goals through various self-enhancement activities,"" a government spokesman said in a statement.
 
 Programmes such as training and internship will be provided for tenants to deepen their understanding of national development opportunities."
-天文台稱明日稍後至周五發出一號信號　之後評估是否需要改發三號,2024-10-23 12:11,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775798-20241023.htm,"天文台表示，根據現時預測，熱帶氣旋潭美會在明日稍後至星期五初時進入本港800公里範圍，天文台屆時會發出一號戒備信號，並會視乎潭美的動向及本地風力變化，評估是否需要改發三號強風信號。
-
-天文台預料潭美會向西移動並逐漸增強，大致移向海南島一帶。同時，一股東北季候風補充會在接近週末抵達華南。在潭美與東北季候風的共同影響下，星期五及周末期間華南沿岸風勢頗大，漸轉多雲及有幾陣驟雨。
-
-天文台說，隨後潭美的移動路徑及強度存在變數，有機會在下週初於海南島附近徘徊。"
-港交所第3季盈利31.45億元　按年增長7%,2024-10-23 12:06,,2024-10-23 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775797-20241023.htm, 
 港交所第3季盈利按年增長7%　收入創歷年第3季新高,2024-10-23 12:06,,2024-10-23 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775797-20241023.htm,"港交所第3季盈利31.45億元，按年增長7%。季內收入及其他收益53.72億元，增長6%，創歷年第3季新高。
 
 主要業務收入按年上升3%。現貨、衍生產品及商品市場成交量上升令交易及結算費增加，但保證金投資收益淨額減少抵銷部分升幅。"
+港交所第3季盈利31.45億元　按年增長7%,2024-10-23 12:06,,2024-10-23 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775797-20241023.htm, 
 Emma Raducanu becomes latest to pull out of HK Open,2024-10-23 12:00,"Emma Raducanu, former US Open champion, will not participate in the Hong Kong Tennis Open due to foot injury rehabilitation. Organizers assure a strong lineup with top players like defending champion Leylah Fernandez, Simona Halep, and Lulu Sun. Raducanu's spot is filled by Sofia Kenin.",2024-10-23 12:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775789-20241023.htm,"Hong Kong Tennis Open organisers on Wednesday announced that former US Open champion Emma Raducanu will not take part in the tournament, a development that comes on the heels of star player Naomi Osaka's decision to drop out.
 
 With two of the big names out, organisers stressed there will still be an ""incredible line-up of marquee stars"" at the event.
@@ -3019,13 +3026,13 @@ The 21-year-old Briton continues to rehab from a foot injury she sustained in th
 “I’m sorry to say that I will not be able to play in Hong Kong next week,"" Raducanu said in a statement through the association. ""While my foot is making good progress, I need a little more time before I am match fit,"" she added.
 
 Raducanu's spot in the draw has since been filled by 2020 Australian Open winner Sofia Kenin."
-Former education chief Michael Suen dies aged 80,2024-10-23 11:50,"Former Minister Michael Suen, known for combating a housing crisis in 2002, passed away at 80. Served in government since 1966, he halted land auctions, suspended home ownership scheme, and sold public housing to revive market after 1997 crisis. Critics argued his measures led to housing shortages and high prices. Serving as education minister from 2007-2012, Suen made significant contributions to government, according to Chief Executive John Lee.",2024-10-23 12:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775796-20241023.htm,"Former education and housing minister Michael Suen, who was best known for his measures to combat a housing crisis two decades ago, has died at the age of 80. 
+Former govt minister Michael Suen dies aged 80,2024-10-23 11:50,"Former Education and Housing Minister Michael Suen, known for combating a housing crisis in the 2000s, passed away at 80. He joined the government in 1966, implemented nine measures to revive the property market in 2002, and served as Education Minister from 2007-2012. Critics argued his measures led to housing shortages and high prices. Chief Executive John Lee and others praised his contributions to government policy and Hong Kong's development. Suen also faced health issues in 2011.",2024-10-23 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775796-20241023.htm,"Former education and housing minister Michael Suen, who was best known for his measures to combat a housing crisis two decades ago, has died at the age of 80. 
 
 Suen joined the government in 1966 and held various positions.
 
 During his tenure as housing minister, he rolled out nine measures to revive the property market in 2002, after it plummeted to record lows following the Asian financial crisis in 1997. 
 
-The measures included halting regular land auctions, suspending the home ownership scheme, and the selling of public housing.  
+The measures included halting regular land auctions, as well as suspending the Home Ownership Scheme and the selling of public housing.  
 
 Critics argued that the drastic reduction in housing supply brought on by the measures led to housing shortages and soaring property prices.
 
@@ -3040,13 +3047,13 @@ Executive Council convenor and New People’s Party lawmaker Regina Ip said Suen
 ""He was in charge of many important policy areas, including constitutional development, land, housing and planning, and before his retirement, education. When I first met him, he was a district officer in Sha Tin, and he was responsible for clearance of Tai Wai to make room for the construction of Sha Tin City One. So he really played a very important role in Hong Kong's development over many decades,"" Ip said.
 
 In 2011, Suen was diagnosed with kidney failure and contracted Legionnaires’ disease the same year."
-Former govt minister Michael Suen dies aged 80,2024-10-23 11:50,"Former Education and Housing Minister Michael Suen, known for combating a housing crisis in the 2000s, passed away at 80. He joined the government in 1966, implemented nine measures to revive the property market in 2002, and served as Education Minister from 2007-2012. Critics argued his measures led to housing shortages and high prices. Chief Executive John Lee and others praised his contributions to government policy and Hong Kong's development. Suen also faced health issues in 2011.",2024-10-23 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775796-20241023.htm,"Former education and housing minister Michael Suen, who was best known for his measures to combat a housing crisis two decades ago, has died at the age of 80. 
+Former education chief Michael Suen dies aged 80,2024-10-23 11:50,"Former Minister Michael Suen, known for combating a housing crisis in 2002, passed away at 80. Served in government since 1966, he halted land auctions, suspended home ownership scheme, and sold public housing to revive market after 1997 crisis. Critics argued his measures led to housing shortages and high prices. Serving as education minister from 2007-2012, Suen made significant contributions to government, according to Chief Executive John Lee.",2024-10-23 12:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775796-20241023.htm,"Former education and housing minister Michael Suen, who was best known for his measures to combat a housing crisis two decades ago, has died at the age of 80. 
 
 Suen joined the government in 1966 and held various positions.
 
 During his tenure as housing minister, he rolled out nine measures to revive the property market in 2002, after it plummeted to record lows following the Asian financial crisis in 1997. 
 
-The measures included halting regular land auctions, as well as suspending the Home Ownership Scheme and the selling of public housing.  
+The measures included halting regular land auctions, suspending the home ownership scheme, and the selling of public housing.  
 
 Critics argued that the drastic reduction in housing supply brought on by the measures led to housing shortages and soaring property prices.
 
@@ -3363,16 +3370,16 @@ Tokyo Metro posted a net profit of 46.3 billion yen for the fiscal year that end
 祖雲達斯作客史特加在補時階段失守，最終1球飲恨。
 
 賽後祖雲達斯3戰得6分，史特加4分，AC米蘭同布魯日同得3分。"
-國際油價高收逾2%　連升兩日,2024-10-23 06:34,,2024-10-23 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775745-20241023.htm,"國際期油價格連升兩日，升幅逾2%，中東地緣政局持續緊張。
-
-倫敦布蘭特期油收市報每桶76.04美元，升1.75美元，升幅近2.4%。
-
-紐約期油收報每桶72.09美元，升1.53美元，升幅約2.2%。"
 港股美國預託證券普遍較本港收市上升,2024-10-23 06:34,,2024-10-23 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775746-20241023.htm,"港股美國預託證券(ADR)普遍較本港收市上升。
 
 金融股方面，友邦、港交所和滙控ADR較本港收市升近1%至近2%。
 
 至於科技股，美團和京東ADR較本港收市升逾1%至近2%。"
+國際油價高收逾2%　連升兩日,2024-10-23 06:34,,2024-10-23 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775745-20241023.htm,"國際期油價格連升兩日，升幅逾2%，中東地緣政局持續緊張。
+
+倫敦布蘭特期油收市報每桶76.04美元，升1.75美元，升幅近2.4%。
+
+紐約期油收報每桶72.09美元，升1.53美元，升幅約2.2%。"
 金價再創新高　分析料最快年底前觸及3000美元,2024-10-23 06:33,,2024-10-23 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775744-20241023.htm,"金價再創新高，美國大選的不確定性，以及中東地緣政局緊張等因素都刺激避險需求。
 
 現貨金高見每盎司2748.78美元，較早時報2746.96美元。紐約期金收市報2759.8美元，升幅近0.8%。
@@ -3704,11 +3711,6 @@ Tam added that the burgled flat is 1 kilometre away from Tsang's home, which was
 
 食環署表示，成交價反映市場現況，除底價外，亦有高於底價的投標價，會繼續觀察情況。"
 南華會資料外洩　私隱專員指伺服器兩年前已被安裝惡意程式,2024-10-22 18:20,,2024-10-22 18:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775675-20241022.htm,南華體育會今年3月有資料外洩，涉及超過七萬個會員資料。個人資料私隱專員公署調查發現，黑客早在前年，已經在相關伺服器安裝惡意程式，又指南華會對保障個人資料意識薄弱，已經要求採取措施，防止類似事件再發生。
-議員不同意新展館與新田科技城撥款綑綁　發展局決定分拆申請,2024-10-22 18:11,,2024-10-22 18:29,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775692-20241022.htm,"立法會發展事務委員會討論約300億元的新田科技城撥款申請，當中包括動用約6至7億元，在灣仔北海濱用地、演藝學院對出興建新展覽館，介紹北部都會區及交椅洲人工島。多名議員不同意新展館項目與新田科技城整體300億元撥款「綑綁」，發展局官員會上宣布，會把新展館項目分拆為另一項目作撥款申請。
-
-委員會主席、經民聯盧偉國表示，將展館項目與新田科技城的撥款申請「綑綁」討論，做法太粗疏，將會令議員不夠時間討論，他指現時灣仔的選址相當珍貴，興建展館要深思熟慮，地盡其用。另一名議員張欣宇亦說，興建展館涉及的金額不少，認為單獨作討論的安排會較好，又指當局提供的文件應該更詳盡。
-
-發展局常任秘書長何珮玲回應時承認，現時向議員提供有關興建新大型展館的文件內容簡單，會在工務小組委員會討論時更詳細交代，並表示聽到議員的意見，當局會將項目抽出，分為兩個撥款項目，向立法會申請撥款，讓議員有充分時間討論和投票。"
 兩名持雙程證男子涉爆竊被捕　遇竊獨立屋距曾偉雄住所約一公里,2024-10-22 18:11,,2024-10-22 18:29,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775693-20241022.htm,"警方拘捕兩名持雙程證男子，相信他們涉及大埔康樂園一間獨立屋被爆竊，以及嘗試爆竊華樂豪庭一個村屋單位，兩人涉嫌爆竊、企圖爆竊、刑事毀壞及襲警被捕。
 
 新界北總區重案組總督察譚子偉表示，昨日晚上10時半接報，指大埔康樂園一間獨立屋被爆竊，損失3隻錶，總值約29萬元。另外警方亦接報，華樂豪庭一間村屋外有可疑人士出現，警方派員到場搜索，發現兩人在華樂豪庭對開村屋的電單車附近位置，警員表明身份後，其中1人嘗試逃去，並導致1名警員的手指骨折，兩人其後拘捕。
@@ -3716,6 +3718,11 @@ Tam added that the burgled flat is 1 kilometre away from Tsang's home, which was
 被捕兩人分別31歲及36歲，持雙程證，分別報稱無業及裝修工人，警方正追查他們來港多久。
 
 被問到案件是否與警務處前處長曾偉雄住所被爆竊有關，譚子偉說，會再調查這兩人是否涉及其他爆竊案件，又說兩人涉及的康樂園獨立屋爆竊案，位置與曾偉雄住所，相距約1公里。"
+議員不同意新展館與新田科技城撥款綑綁　發展局決定分拆申請,2024-10-22 18:11,,2024-10-22 18:29,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775692-20241022.htm,"立法會發展事務委員會討論約300億元的新田科技城撥款申請，當中包括動用約6至7億元，在灣仔北海濱用地、演藝學院對出興建新展覽館，介紹北部都會區及交椅洲人工島。多名議員不同意新展館項目與新田科技城整體300億元撥款「綑綁」，發展局官員會上宣布，會把新展館項目分拆為另一項目作撥款申請。
+
+委員會主席、經民聯盧偉國表示，將展館項目與新田科技城的撥款申請「綑綁」討論，做法太粗疏，將會令議員不夠時間討論，他指現時灣仔的選址相當珍貴，興建展館要深思熟慮，地盡其用。另一名議員張欣宇亦說，興建展館涉及的金額不少，認為單獨作討論的安排會較好，又指當局提供的文件應該更詳盡。
+
+發展局常任秘書長何珮玲回應時承認，現時向議員提供有關興建新大型展館的文件內容簡單，會在工務小組委員會討論時更詳細交代，並表示聽到議員的意見，當局會將項目抽出，分為兩個撥款項目，向立法會申請撥款，讓議員有充分時間討論和投票。"
 歷史博物館獲贈中國有關影像藏品　楊潤雄稱通過文物說好中國故事,2024-10-22 18:08,,2024-10-22 18:21,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775691-20241022.htm,"香港歷史博物館獲贈超過24000多張與中國有關的影像藏品，以捐贈機構命名展廳，並舉行有關展覽開幕禮。文化體育及旅遊局局長楊潤雄表示，希望有關機構無私捐贈及推動中國文化熱誠，能鼓勵更多人捐贈與中國文化歷史相關文物，通過文物說好中國故事。
 
 楊潤雄出席活動開幕禮時表示，這批相片大部分在清末和民國時期拍攝，內容非常豐富，覆蓋的地域十分廣闊，早期在中國活動最重要攝影師的作品都在其中，藏品也包括了反映早期攝影術發展的各種攝影質材和照片格式，可以說是全球罕見的早期中國影像藏品。
@@ -3919,8 +3926,13 @@ The fair will feature nearly 400 stalls at Victoria Park for a week starting fro
 應俄羅斯總統普京邀請，習近平由今日至星期四，出席金磚國家領導人第十六次會晤。中共中央政治局常委、中央辦公廳主任蔡奇，以及中共中央政治局委員、外交部部長王毅等官員，陪同習近平出訪。
 
 今次領導人會晤是金磚國家實現歷史性擴員後的首次峰會，亦是「大金磚合作」的新開局，為30多個國家及國際組織嘅領導人提供機會，共商合作發展大計。"
-外交部：中梵決定將主教任命協議再延期4年,2024-10-22 16:00,,2024-10-22 16:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775664-20241022.htm,在北京，外交部發言人林劍表示，《中梵雙方關於主教任命的臨時性協議》自2018年簽署以來，已於2020年和2022年兩次延期，中梵雙方均對協議執行的成效予以積極評價。經友好協商，雙方決定將協議再延期4年，雙方將本著建設性精神保持接觸，持續推進中梵關係改善。
 外交部：中梵決定將主教任命協議再延長4年,2024-10-22 16:00,,2024-10-22 16:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775664-20241022.htm,在北京，外交部發言人林劍表示，《中梵雙方關於主教任命的臨時性協議》自2018年簽署以來，已於2020年和2022年兩次延長，中梵雙方均對協議執行的成效予以積極評價。經友好協商，雙方決定將協議再延長4年，雙方將本著建設性精神保持接觸，持續推進中梵關係改善。
+外交部：中梵決定將主教任命協議再延期4年,2024-10-22 16:00,,2024-10-22 16:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775664-20241022.htm,在北京，外交部發言人林劍表示，《中梵雙方關於主教任命的臨時性協議》自2018年簽署以來，已於2020年和2022年兩次延期，中梵雙方均對協議執行的成效予以積極評價。經友好協商，雙方決定將協議再延期4年，雙方將本著建設性精神保持接觸，持續推進中梵關係改善。
+荔枝角道近大南西街鹹水管緊急維修　現場實施臨時交通措施,2024-10-22 15:58,,2024-10-22 16:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775663-20241022.htm,"水務署表示，早上接獲報告指荔枝角道近大南西街有水管運作事故，經了解後確認涉事水管為一條直徑300毫米鹹水供水管，於是暫停相關喉管的供水。
+
+署方在社交網頁說，為配合緊急維修工程，現場實施臨時交通措施，荔枝角道、往葵涌方向近通州街的慢線及中線暫時封閉，荔枝角道往葵涌方向的車輛要右轉入大南西街。荔枝角工廠區及荔枝角懲教所的沖廁水供應暫時受到影響。
+
+運輸署說，上址部份行車線仍然封閉，駕駛人士只可使用餘下行車線。"
 國泰未來7年投資逾千億元　2026年接收第2批空中巴士飛機,2024-10-22 15:58,,2024-10-22 16:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775662-20241022.htm,"國泰集團及空中巴士就150架飛機訂單舉行慶祝典禮。
 
 國泰航空行政總裁林紹波致辭時表示，未來7年投資逾1000億港元，大部分用於機隊建設，計劃2026年交付的空中巴士第2張訂單，用於國泰航空和香港快運；2027年交付的飛機則用作加強貨運運力；2028年及以後開始交付A330新機型。
@@ -3930,11 +3942,6 @@ The fair will feature nearly 400 stalls at Victoria Park for a week starting fro
 他提到，國泰正提升貴賓室設備，擬明年在北京及紐約機場推出新的貴賓室，香港的貴賓室則於2026年完成更新。
 
 國泰營運及航空服務總裁麥皓雲指，對香港長遠成為航空中心非常有信心，認為本港有良好的貨運基建，以及5小時航程覆蓋全球一半人口等優勢。"
-荔枝角道近大南西街鹹水管緊急維修　現場實施臨時交通措施,2024-10-22 15:58,,2024-10-22 16:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775663-20241022.htm,"水務署表示，早上接獲報告指荔枝角道近大南西街有水管運作事故，經了解後確認涉事水管為一條直徑300毫米鹹水供水管，於是暫停相關喉管的供水。
-
-署方在社交網頁說，為配合緊急維修工程，現場實施臨時交通措施，荔枝角道、往葵涌方向近通州街的慢線及中線暫時封閉，荔枝角道往葵涌方向的車輛要右轉入大南西街。荔枝角工廠區及荔枝角懲教所的沖廁水供應暫時受到影響。
-
-運輸署說，上址部份行車線仍然封閉，駕駛人士只可使用餘下行車線。"
 甯漢豪稱目前不需為交椅洲人工島整個項目估算最終成本,2024-10-22 15:53,,2024-10-22 16:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775660-20241022.htm,"發展局局長甯漢豪說，政府爭取2027年啟動交椅洲人工島填海，她出席立法會發展事務委員會時指出，目前主要進行環評，稍後展開詳細工程設計，未詳細構思如何融資。她說，當局已放慢交椅洲人工島發展步速，未來十年「熟地」供應預測，交椅洲只佔300公頃。
 
 立法會議員李梓敬關注，本港正面對龐大財赤，建築業人手亦短缺，政府能否同時負擔交椅洲填海及北部都會區發展的開支，又會否考慮訂立緩急先後。
@@ -4124,6 +4131,19 @@ The Chief Executive also stressed that the people in general agree with the need
 李家超：繼續監察猴子死亡事件　楊潤雄應變快,2024-10-22 12:32,,2024-10-22 12:46,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775633-20241022.htm,"香港動植物公園至今有11隻猴子死亡。行政長官李家超強調會繼續監察情況，又表示文化體育及旅遊局局長楊潤雄在今次事件上應變快。
 
 對外有大學揭發學生懷疑用假學歷入學，李家超強調政府重視將香港打造成國際高等教育樞紐，會嚴厲打擊違法個案。"
+First phase of plastics ban went smoothly: John Lee,2024-10-22 12:28,"The six-month grace period for a plastic ban ended, with violators now facing fines up to HK$100,000. CE John Lee mentioned good results in sectors like catering and hotels, saving disposable cutlery. The government will consider factors before moving to the next phase, focusing on affordability.",2024-10-22 12:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775628-20241022.htm,"Chief Executive John Lee on Tuesday said a six-month ""adaption period"" following the start of a ban on various single-use plastics went smoothly.
+
+The end of a grace period means violators can now face fines of up to HK$100,000.
+
+Talking to reporters ahead of an Executive Council meeting, Lee said the aim is to bring about behavioural change rather than punish people.
+
+""I am glad to see that there are good results in the catering sector, in the building management sector, in the hotel sector, which indicated that there has been a lot of disposable cutlery saved as a result of this plastic-free culture we want to build,"" he said.
+
+Lee said the government needs to consider a range of factors before moving on to the next phase of the plastics ban which will cover takeaway items, among other things.
+
+""We will, first of all prepare society and businesses, particular when we decide as to how we will go to the next stage, i.e. whether there are sufficient alternative products available in the market for society to use smoothly into the next stage,"" he said.
+
+""And more importantly affordable prices. Because what we learnt from the first phase is despite the fact that we all subscribe to this plastic-free culture, it is an important change of behaviour, we also want businesses to be able to go through the process in a smooth manner and people will be paying an affordable price for all these changes of behaviour."""
 李家超：香港要改革求變　6項績效指標未完成均有可接受原因,2024-10-22 12:28,,2024-10-22 12:46,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775632-20241022.htm,"行政長官李家超表示，上任以來發表3份施政報告有連續性和關聯性，按時勢和需要演進，目前本港處於關鍵的經濟轉型期，要改革求變。
 
 李家超又提到，去年施政報告150項績效指標有6項未完成，均有可接受的原因，強調政府整體表現符合他的要求。"
@@ -4140,19 +4160,6 @@ The Chief Executive also stressed that the people in general agree with the need
 施政報告2024 ｜李家超：6項績效指標未完成均有可接受原因,2024-10-22 12:28,,2024-10-22 16:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775632-20241022.htm,"行政長官李家超表示，上任以來發表3份施政報告有連續性和關聯性，按時勢和需要演進，目前本港處於關鍵的經濟轉型期，要改革求變。
 
 李家超又提到，去年施政報告150項績效指標有6項未完成，均有可接受的原因，強調政府整體表現符合他的要求。"
-First phase of plastics ban went smoothly: John Lee,2024-10-22 12:28,"The six-month grace period for a plastic ban ended, with violators now facing fines up to HK$100,000. CE John Lee mentioned good results in sectors like catering and hotels, saving disposable cutlery. The government will consider factors before moving to the next phase, focusing on affordability.",2024-10-22 12:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1775628-20241022.htm,"Chief Executive John Lee on Tuesday said a six-month ""adaption period"" following the start of a ban on various single-use plastics went smoothly.
-
-The end of a grace period means violators can now face fines of up to HK$100,000.
-
-Talking to reporters ahead of an Executive Council meeting, Lee said the aim is to bring about behavioural change rather than punish people.
-
-""I am glad to see that there are good results in the catering sector, in the building management sector, in the hotel sector, which indicated that there has been a lot of disposable cutlery saved as a result of this plastic-free culture we want to build,"" he said.
-
-Lee said the government needs to consider a range of factors before moving on to the next phase of the plastics ban which will cover takeaway items, among other things.
-
-""We will, first of all prepare society and businesses, particular when we decide as to how we will go to the next stage, i.e. whether there are sufficient alternative products available in the market for society to use smoothly into the next stage,"" he said.
-
-""And more importantly affordable prices. Because what we learnt from the first phase is despite the fact that we all subscribe to this plastic-free culture, it is an important change of behaviour, we also want businesses to be able to go through the process in a smooth manner and people will be paying an affordable price for all these changes of behaviour."""
 港股半日升107點　汽車股上揚,2024-10-22 12:22,,2024-10-22 12:46,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775630-20241022.htm,"港股反覆靠穩，恒生指數低開逾40點後，一度升逾150點，中午收市報20585點，升107點，升幅0.52%，半日主板成交額近902億元。
 
 科技指數報4555點，升幅1.4%。美團升近4%，但阿里巴巴跌近1%。聯想集團跌近3%，百度跌逾2%。
@@ -4283,6 +4290,9 @@ Lee said the government needs to consider a range of factors before moving on to
 身兼環境運動委員會主席的黃傑龍認為，部分人士因為工作關係，不方便自携餐具，但如果買外賣到辦公室進食的話，部份人會用自備餐具，這亦做到立法原意。而近半年來，市場上可供選擇的即棄餐具大增，當然價錢和質素都有不同，但要轉用合法即棄餐具的難度不高。
 
 至於法例的第二階段何時實施，黃傑龍認為，難度較大，部分食物容器質量仍未算合適，他舉例指出，手搖飲品的賣相會直接影響生意，所以他認為如果社會及業界未準備好，希望可以給予有更多時間準備。"
+日股半日跌逾1%,2024-10-22 10:42,,2024-10-22 12:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775604-20241022.htm,"日本股市半日跌逾1%。
+
+日經平均指數一度跌逾750點，低見38200點，半日收市報38399點，跌555點，跌幅1.43%。"
 共同社報道中國將恢復進口日本錦鯉,2024-10-22 10:42,,2024-10-22 12:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775605-20241022.htm,"共同社報道，中國將恢復進口日本錦鯉。
 
 報道引述相關人士指，中國改變去年11月暫停進口錦鯉的政策，將接受新潟、廣島、福岡3縣共6個養殖場的出口，預計經過出口所需檢疫等手續後將恢復出口。
@@ -4290,9 +4300,6 @@ Lee said the government needs to consider a range of factors before moving on to
 日本錦鯉作為觀賞魚類，2022年的出口額達到63億日圓，其中對華出口佔12億日圓，在各國和地區中排第一。
 
 去年8月福島第一核電站核污水排海後，中國暫停日本水產品進口，直至上月兩國政府就中國逐步恢復日本水產品進口達成共識。"
-日股半日跌逾1%,2024-10-22 10:42,,2024-10-22 12:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775604-20241022.htm,"日本股市半日跌逾1%。
-
-日經平均指數一度跌逾750點，低見38200點，半日收市報38399點，跌555點，跌幅1.43%。"
 恒指反覆向上　汽車股造好,2024-10-22 10:31,,2024-10-22 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1775602-20241022.htm,"港股反覆向上，恒生指數低開逾40點後掉頭，較早時報20586點，升108點。
 
 科技指數升約1%。汽車股受資金追捧。吉利汽車較早時升逾8%，理想汽車升逾6%。"
