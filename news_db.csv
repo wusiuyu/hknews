@@ -1,4 +1,13 @@
 title,date,summary,scrape_time,section,source,link,description
+"HK, mainland markets open higher,",2024-10-29 10:03,,2024-10-29 10:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1776633-20241029.htm,"Hong Kong stocks opened higher on Tuesday, gaining more than half a percent in the opening minutes.
+
+The Hang Seng Index gained 130.62 points, or 0.63 percent, to 20,729.98 on Tuesday.  
+
+Meanwhile, the Shanghai Composite Index gained 0.18 percent in opening trade to 3,328.09.
+
+The Shenzhen Component Index opened 0.19 percent higher at 10,706.02.
+
+Earlier, Wall Street closed higher ahead of quarterly earnings from major tech companies, including Google's parent, Alphabet, Microsoft, Meta and Apple and Amazon. (Xinhua)"
 李家超：下月前往上海出席進博會　冀為香港創造更多投資機會,2024-10-29 10:01,,2024-10-29 10:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776646-20241029.htm, 
 李家超：積極推進啟德體育園演練　11月中再進行測試賽及演練,2024-10-29 09:56,,2024-10-29 10:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776645-20241029.htm, 
 遠洋集團擬向大股東中人壽及其他債權人發行強制可轉換債券,2024-10-29 09:44,,2024-10-29 10:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776644-20241029.htm,"遠洋集團公布，計劃待重組生效日期落實後，向債權人發行強制可轉換債券及永續權益總額的強制可轉換債券，涉及金額最高約40.18億美元，包括向大股東中國人壽發行相關債券。
@@ -57,8 +66,8 @@ title,date,summary,scrape_time,section,source,link,description
 航天員乘組由蔡旭哲、宋令東、王浩澤組成，蔡旭哲擔任指令長。
 
 蔡旭哲執行過神舟十四號載人飛行任務；宋令東和王浩澤均為我國第三批太空人，兩人都是」90後」，都是首次執行飛行任務。"
-神舟十九號載人飛船將在明日凌晨4時27分發射,2024-10-29 08:34,,2024-10-29 10:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776631-20241029.htm,中國載人航天工程辦公室表示，神舟十九號載人飛船將在明日凌晨04時27分發射。
 神舟十九號將在明日凌晨4時27分發射,2024-10-29 08:34,,2024-10-29 08:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776631-20241029.htm,中國載人航天工程辦公室表示，神舟十九號將在明日凌晨04時27分發射。
+神舟十九號載人飛船將在明日凌晨4時27分發射,2024-10-29 08:34,,2024-10-29 10:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776631-20241029.htm,中國載人航天工程辦公室表示，神舟十九號載人飛船將在明日凌晨04時27分發射。
 日本9月失業率回落至2.4%勝預期,2024-10-29 08:30,,2024-10-29 08:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1776628-20241029.htm,"日本厚生勞動省公布，日本9月經季節調整的失業率回落至2.4%，低過8月的2.5%，好過市場預期。
 
 數據又顯示，9月求才求職比升至1.24，高過8月及預期的1.23。"
