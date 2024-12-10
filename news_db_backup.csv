@@ -1,4 +1,24 @@
 title,date,summary,scrape_time,section,source,link,description
+滬股半日升約1.6%　未能突破3500點關口,2024-12-10 11:48,,2024-12-10 11:59,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782820-20241210.htm,"滬深股市顯著造好，半日升近2%或以上。消費股顯著造好，保險、AI及機器人概念股亦向上。
+
+上證指數上試3500點關口，初段觸及3494點，創逾1個月新高，升幅達2.7%。半日收報3456點，升53點，升幅1.57%。
+
+深證成份指數報10955點，升223點，升幅2.08%。
+
+創業板指數於2300點水平得而復失，早段最多升約4.9%，半日升幅收窄至2.2%，報2298點，升49點。"
+'10 minutes to visit pandas sufficient',2024-12-10 11:37,,2024-12-10 11:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782818-20241210.htm,"Ocean Park chairman Paulo Pong on Tuesday said 10-minute limits placed on visits to the giant pandas An An and Ke Ke helped prevent overcrowding.
+
+Thousands of people flocked to the park when the pandas made their public debut on Sunday. 
+
+""The crowd-control measures were taken after considering the visitor experience and safety concerns. They're necessary because the exhibit can't hold too many people,"" Pong said on an RTHK radio programme.
+
+""With regard to the 10-minute visiting time, we looked at other places and this isn't too short. Some places only allow visitors to stay for three or four minutes.""
+
+Pong also said the public were able to meet the pandas sooner than originally expected, as the animals were adopting very well to their new habitat and are very energetic.
+
+He added that twin panda cubs at the park are in good shape, with the heavier male starting to develop its baby teeth. 
+
+The pair could be able to meet the public from around Lunar New Year, Pong said."
 '10 minutes long enough to visit An An and Ke Ke',2024-12-10 11:37,"Ocean Park chairman defends 10-minute visit limit for pandas, citing crowd control and safety concerns. Thousands flocked during debut. Pong mentions shorter visit times at other places. Twin cubs are doing well, may meet public soon.",2024-12-10 11:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782818-20241210.htm,"Ocean Park chairman Paulo Pong on Tuesday defended the decision to limit visiting times for giant pandas An An and Ke Ke, saying 10 minutes is long enough.
 
 Thousands of people flocked to the park when the pandas made their public debut on Sunday. 
@@ -428,12 +448,12 @@ Nvidia涉嫌違反反壟斷法　國家市監總局決定立案調查,2024-12-09
 外交部：關注敘利亞局勢  敘利亞主權領土完整應獲尊重,2024-12-09 18:51,,2024-12-09 19:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782746-20241209.htm,"敘利亞反對派攻入首都大馬士革，推翻巴沙爾政府後，俄羅斯國營傳媒報道，前總統巴沙爾與家人已到莫斯科，獲俄方政治庇護。
 
 中方密切關注敘利亞局勢發展，外交部發言人毛寧表示，敘利亞的主權和領土完整應當得到尊重，而敘利亞的前途和命運應當由敘利亞人民來決定，希望各相關方本著對敘利亞人民長遠和根本利益負責的原則，盡快找到恢復穩定秩序的政治解決方案。"
+孫東︰超算中心將成香港人工智能發展重要支柱,2024-12-09 18:35,,2024-12-09 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782738-20241209.htm,數碼港人工智能超算中心及人工智能實驗室，今日舉行開幕典禮。創新科技及工業局局長孫東說，人工智能超算中心將會成為香港人工智能發展中不可或缺的重要支柱。
 羅淑佩：藝術有製造經濟價值能力才可持久發展,2024-12-09 18:35,,2024-12-09 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782744-20241209.htm,"新任文化體育及旅遊局局長羅淑佩到立法會，解說局方早前發表的《文藝創意產業發展藍圖》，指出藝術必須產業化，有製造經濟價值能力，才能夠持久發展。
 
 有議員關注如何能夠吸引商界更支持藝術產業化，例如會否有稅收優惠。羅淑佩表示，香港的稅收已相當低，會再研究現時政府財政情況有多大空間，提供一個吸引的稅收優惠。
 
 至於《藍圖》提出將工廈改建成小型劇場等，羅淑佩指，政府正為工廈改變用途拆牆鬆綁，又指除了工廈，若有其他地方稍微轉變就可以做表演場地，亦應好好加以利用。"
-孫東︰超算中心將成香港人工智能發展重要支柱,2024-12-09 18:35,,2024-12-09 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782738-20241209.htm,數碼港人工智能超算中心及人工智能實驗室，今日舉行開幕典禮。創新科技及工業局局長孫東說，人工智能超算中心將會成為香港人工智能發展中不可或缺的重要支柱。
 霍啟剛促檢討精英體育評核準則,2024-12-09 18:33,,2024-12-09 18:44,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782737-20241209.htm,體育、演藝、文化及出版界立法會議員霍啟剛發表報告，促請檢討現行的精英體育項目評核準則，納入奧運和亞運以外的大型賽事作考慮。
 外電：中證監要求大型投行協助加快內地企業在海外上市,2024-12-09 18:32,,2024-12-09 18:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782735-20241209.htm,"外電報道，內地和香港監管機構已要求全球性大型投資銀行，協助加快內地企業在海外上市，以加強海外融資及推動中國經濟。報道引述消息人士說，摩根大通、摩根士丹利、高盛、瑞銀及中金公司等10多家銀行和律師事務所都有參加會議。
 
@@ -1023,13 +1043,13 @@ Tasks, such as the restoration of the chevet and sacristy, as well as the instal
 
 第3季GDP經修訂後，按季增長0.3%，高過市場預期和初值的0.2%。"
 韓股初段跌逾1%,2024-12-09 08:14,,2024-12-09 08:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782654-20241209.htm,南韓股市在開市初段跌逾1%，首爾綜合指數較早時報2393點，跌34點，跌幅1.44%。
+南韓漁船與運沙船相撞　6人心肺停止,2024-12-09 08:13,,2024-12-09 08:28,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782655-20241209.htm,"南韓一艘漁船和一艘運沙船，在慶州市甘浦港東南大約6公里的海域相撞。漁船之後傾覆。韓聯社引述海警說，在漁船船艙內發現6名船員，全部心肺驟停。
+
+報道說，事發在當地時間清晨5時許，漁船上有8名船員，運沙船上有10名船員，無人員傷亡或財產損失。海警已出動巡邏艇、救援艇和直升機，全力搜救。"
 南韓漁船與運沙船相撞後傾覆　6人心肺停止,2024-12-09 08:13,,2024-12-09 08:43,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782655-20241209.htm,"南韓一艘漁船和一艘運沙船，在慶州市甘浦港東南大約6公里的海域相撞。漁船之後傾覆。韓聯社引述海警說，在漁船船艙內發現6名船員，全部心肺驟停。
 
 報道說，事發在當地時間清晨5時許，漁船上有8名船員，運沙船上有10名船員，無人員傷亡或財產損失。海警已出動巡邏艇、救援艇和直升機，全力搜救。"
 日股初段升逾100點,2024-12-09 08:13,,2024-12-09 08:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782653-20241209.htm,日本股市在開市初段上升，日經平均指數較早時報39243點，升152點，升幅0.39%。
-南韓漁船與運沙船相撞　6人心肺停止,2024-12-09 08:13,,2024-12-09 08:28,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782655-20241209.htm,"南韓一艘漁船和一艘運沙船，在慶州市甘浦港東南大約6公里的海域相撞。漁船之後傾覆。韓聯社引述海警說，在漁船船艙內發現6名船員，全部心肺驟停。
-
-報道說，事發在當地時間清晨5時許，漁船上有8名船員，運沙船上有10名船員，無人員傷亡或財產損失。海警已出動巡邏艇、救援艇和直升機，全力搜救。"
 英超車路士4:3反勝熱刺　阿仙奴1:1逼和富咸,2024-12-09 07:17,,2024-12-09 07:29,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782650-20241209.htm,"英格蘭超級足球聯賽，車路士在倫敦打吡，在落後0:2下，最終作客4:3反勝熱刺。
 
 主隊憑蘇蘭基及古路錫斯基的入波，開賽11分鐘內領先2:0。車路士在17分鐘由辛祖追回一球。熱刺上半場領先2:1。
@@ -1347,12 +1367,12 @@ The Travel Industry Council, meanwhile, said it expects overall tourist arrivals
 ""The launch of the Kai Tak Sports Park, the commencement of the airport's three-runway system, and the official debut of giant pandas, also encourages more tourists to come and see the cityscape of Hong Kong.""
 
 The council and a number of tourism sector groups called on the industry to reinforce Hong Kong's brand as a hospitable destination."
-香港哥爾夫球會會長郭永亮：開心見到粉嶺高球場歷史價值得以顯現,2024-12-08 16:06,,2024-12-08 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782600-20241208.htm,"香港哥爾夫球會就政府收回粉嶺高球場部分用地興建公營房屋提出司法覆核，高等法院早前裁定哥爾夫球會大部分勝訴。香港哥爾夫球會會長郭永亮對裁決表示尊重和歡迎，又說球會一向與政府的目標一致，希望為香港好。
+香港哥爾夫球會：開心見到粉嶺高球場歷史價值得以顯現,2024-12-08 16:06,,2024-12-08 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782600-20241208.htm,"香港哥爾夫球會就政府收回粉嶺高球場部分用地興建公營房屋提出司法覆核，高等法院早前裁定哥爾夫球會大部分勝訴。香港哥爾夫球會會長郭永亮對裁決表示尊重和歡迎，又說球會一向與政府的目標一致，希望為香港好。
 
 郭永亮說，球會非常開心見到「舊球場」文化、生態、歷史價值的重要性得以顯現，他認為「舊球場」的32公頃土地最好是維持原狀，作為一個高爾夫球設施，幫助香港繼續舉辦大型國際體育盛事，繼續為香港的盛事經濟及旅遊經濟出一分力。
 
 他指出，球會將繼續利用三個國際級球場吸引更多大型國際賽事落戶香港，從中振興盛事經濟，支持政府推動體育旅遊，做到無處不旅遊，利用球場說好香港故事。"
-香港哥爾夫球會：開心見到粉嶺高球場歷史價值得以顯現,2024-12-08 16:06,,2024-12-08 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782600-20241208.htm,"香港哥爾夫球會就政府收回粉嶺高球場部分用地興建公營房屋提出司法覆核，高等法院早前裁定哥爾夫球會大部分勝訴。香港哥爾夫球會會長郭永亮對裁決表示尊重和歡迎，又說球會一向與政府的目標一致，希望為香港好。
+香港哥爾夫球會會長郭永亮：開心見到粉嶺高球場歷史價值得以顯現,2024-12-08 16:06,,2024-12-08 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782600-20241208.htm,"香港哥爾夫球會就政府收回粉嶺高球場部分用地興建公營房屋提出司法覆核，高等法院早前裁定哥爾夫球會大部分勝訴。香港哥爾夫球會會長郭永亮對裁決表示尊重和歡迎，又說球會一向與政府的目標一致，希望為香港好。
 
 郭永亮說，球會非常開心見到「舊球場」文化、生態、歷史價值的重要性得以顯現，他認為「舊球場」的32公頃土地最好是維持原狀，作為一個高爾夫球設施，幫助香港繼續舉辦大型國際體育盛事，繼續為香港的盛事經濟及旅遊經濟出一分力。
 
@@ -1499,7 +1519,7 @@ Taking part in events in the city allows people in the arts and creative industr
 陳茂波表示，來港參與大型國際文創盛事的設計師、品牌負責人和文創企業家都高度肯定香港在策展和活動統籌方面的質素、水平和能力。香港不單擁有開放包容、東西薈萃的文化特色，亦有聯繫內地和國際市場的貿易及交通網絡以至人文聯繫，到港參展，他們可以更便捷地接觸更多來自海內外的潛在客戶和伙伴，促成更多交易和合作。
 
 陳茂波強調，香港作為國際金融、貿易和航運中心，商業活動蓬勃，一直以來吸引世界各地企業和人才前來尋找發展機會。專業主題的展會，為企業與項目的對接，以及人才互動交流提供理想的平台；而多元豐富的文創內容和文化產業，更有助人際間的理解和互動，以及思想和文化的交流。兩者兼備將有助香港打造更豐富和更優質的城市品牌，倍增對企業和人才的吸引力。"
-Govt mulling rewards for exposing future poor SDUs,2024-12-08 12:41,The government is proposing to regulate sub-divided units (SDUs) with a minimum size of 8 sqm and certain features. Violators could face a maximum 3-year jail term. The housing chief suggests incentivizing informants to report poor-quality SDUs. Some tenants have complained about being forced out due to the proposed regulations.,2024-12-08 12:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782577-20241208.htm,"Housing chief Winnie Ho said officials could reward informants who alert authorities to poor quality sub-divided units (SDUs), when the flats are subject to a future regulatory regime. 
+Govt mulls rewards for exposing future poor SDUs,2024-12-08 12:41,"The government is considering a reward system for informants who report poor-quality sub-divided units (SDUs), proposing a minimum size of 8 sqm and certain features. Violators could face up to 3 years in jail. The public finds the proposed standards reasonable, but some SDU tenants have complained about forced evictions due to the proposal. Officials will assess the effectiveness of the new system and consider offering rewards for compliance.",2024-12-08 16:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782577-20241208.htm,"Housing chief Winnie Ho said officials could reward informants who alert authorities to poor quality sub-divided units (SDUs), when the flats are subject to a future regulatory regime. 
 
 The government is now collecting public views on its proposal to require each SDU to be no less than less than eight square metres in size, or 86 square feet, as well as having features like at least one window and an individual toilet. 
 
@@ -1514,7 +1534,7 @@ The minister said the public has seen the proposed standards and finds them reas
 ""We'll see how effective the new system is - and we'll see if we need to offer rewards, in addition to the regular reporting system.""
 
 Ho added that the Rating and Valuation Department has received two complaints so far from sub-divided flat tenants who said they were forced out by landlords because of the proposed regime, and officials will handle different complaints regarding rental issues."
-Govt mulls rewards for exposing future poor SDUs,2024-12-08 12:41,"The government is considering a reward system for informants who report poor-quality sub-divided units (SDUs), proposing a minimum size of 8 sqm and certain features. Violators could face up to 3 years in jail. The public finds the proposed standards reasonable, but some SDU tenants have complained about forced evictions due to the proposal. Officials will assess the effectiveness of the new system and consider offering rewards for compliance.",2024-12-08 16:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782577-20241208.htm,"Housing chief Winnie Ho said officials could reward informants who alert authorities to poor quality sub-divided units (SDUs), when the flats are subject to a future regulatory regime. 
+Govt mulling rewards for exposing future poor SDUs,2024-12-08 12:41,The government is proposing to regulate sub-divided units (SDUs) with a minimum size of 8 sqm and certain features. Violators could face a maximum 3-year jail term. The housing chief suggests incentivizing informants to report poor-quality SDUs. Some tenants have complained about being forced out due to the proposed regulations.,2024-12-08 12:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782577-20241208.htm,"Housing chief Winnie Ho said officials could reward informants who alert authorities to poor quality sub-divided units (SDUs), when the flats are subject to a future regulatory regime. 
 
 The government is now collecting public views on its proposal to require each SDU to be no less than less than eight square metres in size, or 86 square feet, as well as having features like at least one window and an individual toilet. 
 
@@ -1746,7 +1766,7 @@ Ho added that the Rating and Valuation Department has received two complaints so
 在連串開放慶典後，巴黎聖母院正式開放讓公眾入內參觀。參觀費用暫時仍然是全免。不過，巴黎聖母院現時可供網上預約的時段，日前網站開放後幾分鐘內已全部爆滿。
 
 擁有850年歷史的巴黎聖母院是哥德式建築，每年吸引遊客約1300萬人次。法國預期，復修後的巴黎聖母院每年將吸引更多遊客。"
-南韓最大在野黨：周三召開臨時國會　重新推動彈劾總統尹錫悅,2024-12-07 22:39,,2024-12-07 23:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782541-20241207.htm,"南韓最大在野黨共同民主黨表示，將於星期三召開臨時國會，重新推動彈劾總統尹錫悅。
+南韓最大在野黨：周三召開臨時國會　重新推進彈劾總統尹錫悅,2024-12-07 22:39,,2024-12-07 22:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782541-20241207.htm,"南韓最大在野黨共同民主黨表示，將於星期三召開臨時國會，重新推進彈劾總統尹錫悅。
 
 黨魁李在明強烈譴責執政國民力量黨缺席總統彈劾議案表決，聲言必將彈劾尹錫悅。他又為由於共同民主黨的不足而未能取得理想結果致歉。
 
@@ -1755,7 +1775,7 @@ Ho added that the Rating and Valuation Department has received two complaints so
 在野黨早前發起在國會彈劾尹錫悅的議案，由於出席議員未達到表決所需的法定人數，表決落空。在國會外集會的民眾，知道尹錫悅避過被彈劾後，有人表現激動，有人失望落淚。
 
 尹錫悅上午發表電視講話，就日前一度頒布實施緊急戒嚴令，鞠躬向國民致歉，承諾不會再有下次。他在直播中未有提及會否辭職。"
-南韓最大在野黨：周三召開臨時國會　重新推進彈劾總統尹錫悅,2024-12-07 22:39,,2024-12-07 22:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782541-20241207.htm,"南韓最大在野黨共同民主黨表示，將於星期三召開臨時國會，重新推進彈劾總統尹錫悅。
+南韓最大在野黨：周三召開臨時國會　重新推動彈劾總統尹錫悅,2024-12-07 22:39,,2024-12-07 23:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782541-20241207.htm,"南韓最大在野黨共同民主黨表示，將於星期三召開臨時國會，重新推動彈劾總統尹錫悅。
 
 黨魁李在明強烈譴責執政國民力量黨缺席總統彈劾議案表決，聲言必將彈劾尹錫悅。他又為由於共同民主黨的不足而未能取得理想結果致歉。
 
@@ -2110,12 +2130,12 @@ She also said the government will monitor fare levels for the new systems."
 中國駐敘利亞大使館呼籲，在當地的中國公民盡快回國或離境。
 
 聯合國秘書長古特雷斯呼籲各方立即採取行動，結束14年戰亂帶來的苦難。"
-南韓執政黨黨魁稱尹錫悅提前辭職在所難免,2024-12-07 09:28,,2024-12-07 09:34,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782480-20241207.htm,"南韓執政黨國民力量黨黨魁韓東勳表示，總統尹錫悅的狀況已經不可能正常履職，提前辭職是在所難免。
+南韓執政黨黨魁稱尹錫悅提前離職在所難免,2024-12-07 09:28,,2024-12-07 10:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782480-20241207.htm,"南韓執政黨國民力量黨黨魁韓東勳表示，總統尹錫悅的狀況已經不可能正常履職，提前離職是在所難免。
 
 尹錫悅發表電視直播講話，為當日頒布戒嚴令及引起的混亂，鞠躬向國民致歉，承諾不會再有下次。他又說不會逃避法律指控，已經委託執政黨及政府管理政務。
 
 韓東昨日已經要求尹錫悅停止執行總統職務，他說如果尹錫悅繼續履職，好像緊急戒嚴等行動或再上演，令國家及國民陷入巨大危險。"
-南韓執政黨黨魁稱尹錫悅提前離職在所難免,2024-12-07 09:28,,2024-12-07 10:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782480-20241207.htm,"南韓執政黨國民力量黨黨魁韓東勳表示，總統尹錫悅的狀況已經不可能正常履職，提前離職是在所難免。
+南韓執政黨黨魁稱尹錫悅提前辭職在所難免,2024-12-07 09:28,,2024-12-07 09:34,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782480-20241207.htm,"南韓執政黨國民力量黨黨魁韓東勳表示，總統尹錫悅的狀況已經不可能正常履職，提前辭職是在所難免。
 
 尹錫悅發表電視直播講話，為當日頒布戒嚴令及引起的混亂，鞠躬向國民致歉，承諾不會再有下次。他又說不會逃避法律指控，已經委託執政黨及政府管理政務。
 
@@ -2508,6 +2528,11 @@ Lee added that he believes the new appointees will steer the universities to new
 一名40歲男子昨日從法國巴黎飛抵本港，海關人員清關時在他的寄艙行李內檢獲該批偽裝成蛋白粉的懷疑氯胺酮，於是將他拘捕。
 
 被捕男子已被落案起訴販運危險藥物罪，案件明天在西九龍裁判法院提堂。"
+招國偉稱華富邨重建第3期住戶提早6年遷置整體是好事,2024-12-06 18:12,,2024-12-06 18:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782422-20241206.htm,"房委會宣布，華富邨重建計劃第3期會提前約6年推行，華翠樓和華景樓租戶預計可於2034年第二季遷入新華富邨第1期。房委會委員、公屋聯會總幹事招國偉表示歡迎，他說，整個重建項目原本要去到2040年後，現時第3期的住戶可以提早6年遷置到新的大廈，整體是好事。
+
+另外，房委會表示，彩虹邨重建計劃第1期清拆涉及約1970戶，可遷往新美東邨，預計於 2028至2029年開始入伙，資源許可下，受影響住戶尤其是長者亦可申請邨內調遷至第2、3期的樓宇。招國偉說，據他了解，可以騰空的第2、3期單位數量不多，相信要審視每宗申請，考慮其特殊狀況，再決定提供邨內調遷。
+
+對於當局會為華富邨及彩虹邨特定商戶推出特設招標安排，讓他們在重建後的新屋邨或其他房委會屋邨繼續經營，招國偉表示，他近期到區內諮詢居民時都聽到希望保留特色小店，延續情懷，新安排可滿足居民要求。"
 Firefighters battle No 3 alarm blaze in Aberdeen,2024-12-06 18:12,"Fire at Aberdeen shipyard leads to evacuation of at least 9 people. Fire started at 4:10pm, upgraded to No 3 alarm. Three jets, two breathing apparatus teams deployed. Large smoke plumes seen. Public advised to close doors, windows, stay calm due to smoke and unusual odor.",2024-12-06 18:29,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782419-20241206.htm,"At least nine people were evacuated over a fire in Aberdeen on Friday afternoon.
 
 The fire broke out at a shipyard on Shum Wan Road at around 4.10pm, and was upgraded to a No 3 alarm half an hour later.
@@ -2517,11 +2542,6 @@ At least three jets as well as two breathing apparatus teams were deployed to th
 Videos circulating online showed large plumes of thick smoke billowing into the sky.
 
 ""Members of the public who are being affected by the smoke and an unusual odour carried by the wind are advised to close their doors and windows and stay calm,"" the Fire Services Department said."
-招國偉稱華富邨重建第3期住戶提早6年遷置整體是好事,2024-12-06 18:12,,2024-12-06 18:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782422-20241206.htm,"房委會宣布，華富邨重建計劃第3期會提前約6年推行，華翠樓和華景樓租戶預計可於2034年第二季遷入新華富邨第1期。房委會委員、公屋聯會總幹事招國偉表示歡迎，他說，整個重建項目原本要去到2040年後，現時第3期的住戶可以提早6年遷置到新的大廈，整體是好事。
-
-另外，房委會表示，彩虹邨重建計劃第1期清拆涉及約1970戶，可遷往新美東邨，預計於 2028至2029年開始入伙，資源許可下，受影響住戶尤其是長者亦可申請邨內調遷至第2、3期的樓宇。招國偉說，據他了解，可以騰空的第2、3期單位數量不多，相信要審視每宗申請，考慮其特殊狀況，再決定提供邨內調遷。
-
-對於當局會為華富邨及彩虹邨特定商戶推出特設招標安排，讓他們在重建後的新屋邨或其他房委會屋邨繼續經營，招國偉表示，他近期到區內諮詢居民時都聽到希望保留特色小店，延續情懷，新安排可滿足居民要求。"
 衞生署牙科街症本月30日起改為網上登記　取代親身排隊取籌,2024-12-06 18:10,,2024-12-06 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782421-20241206.htm,"衞生署的牙科街症服務，本月30日起推行網上登記，取代親身到牙科診所排隊取籌的安排，會以電腦抽籤分配牙科街症名額。署方同日起停止牙科街症服務的初步登記安排。
 
 衞生署表示，市民可於早上9時30分至11時30分登入系統，登記指定牙科診所翌日的牙科街症服務，市民須實名登記一次，系統會以電腦抽籤方式分配街症名額，當中一半名額會優先分配給65歲或以上的長者。
@@ -2796,15 +2816,6 @@ American artist Kurt Perschke, the creator of the RedBall project, said he was h
 他指出，2018年美國佔中國近五分之一出口，但現時中東、東南亞、拉美、中東歐等與中國地緣政治關係較友好的新興市場，佔中國出口的43%，中國對美國的直接依賴程度下降。隨著特朗普展開第二個任期，他相信，中國企業和供應鏈在應對關稅方面能更得心應手。
 
 他又說，香港在中美地緣政治變化過程中具有巨大戰略作用，尤其本港金融市場開放性提供了3項優勢，包括民眾可享受東西方市場回報、支持新質生產力生態系統發展，以及為地緣政治提供緩衝。"
-報告倡策略投放資源　推出政府資助青少年護齒先導計劃,2024-12-06 13:58,,2024-12-06 15:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782374-20241206.htm,"口腔健康及牙科護理工作小組發表總結報告，建議採用「做闊做淺、做窄做深」的策略投放資源和發展政府牙科護理體系，包括推出「青少年護齒共同治理先導計劃」、為弱勢社群提供「社區牙科支援計劃」，以及推出牙科街症網上派籌服務等。
-
-「青少年護齒共同治理先導計劃」的受惠對象是年齡介乎13至17歲的青少年，他們可以獲政府資助使用私營牙科機構的部分服務，包括牙科評估、洗牙等，政府資助額為200元，但家長需要支付「共付額」，政府建議金額為200元，私營牙科機構可以自訂收費，但必須公開透明。當局表示，這項先導計劃將於明年第一季推出，可以銜接現時的小學學童牙科保健服務，預計每年約有37萬名青少年受惠。
-
-「社區牙科支援計劃」的對象是有經濟困難的弱勢社群，除了牙科檢查、脫牙和止痛藥物，亦會加入補牙服務，已獲醫管局豁免全部醫療費用的人士，政府會資助全數費用；已獲豁免部分醫療費用的人士、65至74歲長者生活津貼的受惠人、由社工轉介的有需要人士等，政府會資助超過九成費用，但有關市民每顆牙需要支付50元行政費。這項計劃將於明年第二季推出，名額最少4萬個。
-
-至於市民可以使用的牙科街症服務，將於本月30日推出網上登記服務，市民、尤其是長者毋須親身深宵排隊取籌。市民必須實名證記，並以抽籤方式分配籌額，避免出現代人取籌的情況。
-
-工作小組主席、醫務衞生局常任秘書長陳松青表示，政府已預留足夠資源推行有關計劃，預計未來對牙科護理人員和牙醫的人手需求非常大，當局密切留意是否需要增加培訓名額。"
 報告倡策略投放資源及發展牙科護理體系包括青少年及社區支援等,2024-12-06 13:58,,2024-12-06 14:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782374-20241206.htm,"口腔健康及牙科護理工作小組發表總結報告，建議採用「做闊做淺、做窄做深」的策略投放資源和發展政府牙科護理體系，包括推出「青少年護齒共同治理先導計劃」、為弱勢社群提供「社區牙科支援計劃」，以及推出牙科街症網上派籌服務等。
 
 工作小組主席、醫務衞生局常任秘書長陳松青表示，政府已預留足夠資源推行有關計劃，預計未來對牙科護理人員和牙醫的人手需求非常大，當局密切留意是否需要增加培訓名額。
@@ -2814,6 +2825,15 @@ American artist Kurt Perschke, the creator of the RedBall project, said he was h
 「社區牙科支援計劃」的對象是有經濟困難的弱勢社群，除了牙科檢查、脫牙和止痛藥物，亦會加入補牙服務，已獲醫管局豁免全部醫療費用的人士，政府會資助全數費用；已獲豁免部分醫療費用的人士、65至74歲長者生活津貼的受惠人、由社工轉介的有需要人士等，政府會資助超過九成費用，但有關市民每顆牙需要支付50元行政費。這項計劃將於明年第二季推出，名額最少4萬個。
 
 至於市民可以使用的牙科街症服務，將於本月30推出網上登記服務，市民、尤其是長者毋須親身深宵排隊取籌。市民必須實名證記，並以抽籤方式分配籌額，避免出現代人取籌的情況。"
+報告倡策略投放資源　推出政府資助青少年護齒先導計劃,2024-12-06 13:58,,2024-12-06 15:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782374-20241206.htm,"口腔健康及牙科護理工作小組發表總結報告，建議採用「做闊做淺、做窄做深」的策略投放資源和發展政府牙科護理體系，包括推出「青少年護齒共同治理先導計劃」、為弱勢社群提供「社區牙科支援計劃」，以及推出牙科街症網上派籌服務等。
+
+「青少年護齒共同治理先導計劃」的受惠對象是年齡介乎13至17歲的青少年，他們可以獲政府資助使用私營牙科機構的部分服務，包括牙科評估、洗牙等，政府資助額為200元，但家長需要支付「共付額」，政府建議金額為200元，私營牙科機構可以自訂收費，但必須公開透明。當局表示，這項先導計劃將於明年第一季推出，可以銜接現時的小學學童牙科保健服務，預計每年約有37萬名青少年受惠。
+
+「社區牙科支援計劃」的對象是有經濟困難的弱勢社群，除了牙科檢查、脫牙和止痛藥物，亦會加入補牙服務，已獲醫管局豁免全部醫療費用的人士，政府會資助全數費用；已獲豁免部分醫療費用的人士、65至74歲長者生活津貼的受惠人、由社工轉介的有需要人士等，政府會資助超過九成費用，但有關市民每顆牙需要支付50元行政費。這項計劃將於明年第二季推出，名額最少4萬個。
+
+至於市民可以使用的牙科街症服務，將於本月30日推出網上登記服務，市民、尤其是長者毋須親身深宵排隊取籌。市民必須實名證記，並以抽籤方式分配籌額，避免出現代人取籌的情況。
+
+工作小組主席、醫務衞生局常任秘書長陳松青表示，政府已預留足夠資源推行有關計劃，預計未來對牙科護理人員和牙醫的人手需求非常大，當局密切留意是否需要增加培訓名額。"
 南韓最大在野黨黨魁籲各方從速推進彈劾及調查尹錫悅進程,2024-12-06 13:46,,2024-12-06 13:59,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782373-20241206.htm,"南韓最大在野黨共同民主黨黨魁李在明呼籲有關各方從速推進針對總統尹錫悅的彈劾及調查進程。
 
 李在明就尹錫悅日前一度頒布實施戒嚴令，在國會發表特別聲明，形容尹錫悅是國內亂局的罪魁禍首，質疑他為了謀取私利及加強自身權力，濫用民主憲政秩序實施戒嚴。李在明歡迎執政國民力量黨黨魁韓東勳提出需盡快停止尹錫悅履職的倡議，提議兩黨會晤商討。
@@ -2967,14 +2987,14 @@ Hong Kong will be the vessel's seasonal home port, and the cruise line is expect
 沙特央行行長Ayman Al-Sayari指，會議進一步鞏固雙方的持續合作，凸顯對促進國際合作、知識共享和推動創新的共同承諾，以支持穩健和具韌性的金融體系。
 
 今次是繼去年7月於利雅得舉行雙邊會議後，雙方再度舉行會議。"
+日股半日跌0.9%　險守39000點,2024-12-06 10:48,,2024-12-06 10:59,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782350-20241206.htm,"日股半日顯著向下，險守39000點關口。
+
+日經指數低見39006點，半日報39042點，跌353點，跌幅0.9%。"
 特朗普提名戴維珀杜出任美國駐華大使,2024-12-06 10:48,,2024-12-06 10:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782352-20241206.htm,"美國當選總統特朗普提名戴維珀杜出任美國駐華大使。
 
 特朗普是在名下社交媒體宣布有關決定，指自己的策略是維護地區和平，以及與中國領導人建立富有成效的工作關係，相信戴維珀杜將在當中發揮重要作用。
 
 將於明年1月20日就任總統的特朗普曾經表示，除非北京採取更多措施阻止芬太尼販運，否則他將對中國商品額外徵收10%關稅。在北京，外交部回應特朗普有關言論時指芬太尼是美國的問題，中方本著人道主義精神，為美方應對芬太尼問題提供支援，中方願意在平等互利、相互尊重的基礎上，繼續與美方開展禁毒合作，美方應該珍惜中方的善意，維護中美禁毒合作來之不易的良好局面。"
-日股半日跌0.9%　險守39000點,2024-12-06 10:48,,2024-12-06 10:59,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782350-20241206.htm,"日股半日顯著向下，險守39000點關口。
-
-日經指數低見39006點，半日報39042點，跌353點，跌幅0.9%。"
 特朗普提名前參議員戴維珀杜出任美國駐華大使,2024-12-06 10:48,,2024-12-06 11:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782352-20241206.htm,"美國當選總統特朗普提名佐治亞州前參議員戴維珀杜出任美國駐華大使。
 
 特朗普是在名下社交媒體宣布有關決定，指自己的策略是維護地區和平，以及與中國領導人建立富有成效的工作關係，相信戴維珀杜將在當中發揮重要作用。
@@ -3107,6 +3127,13 @@ Separately, the Shanghai Composite Index was up 0.06 percent at 3,370.94 and the
 阿巴斯說，政府軍正與極端組織進行激烈而持續的戰鬥，反對派武裝背後有外部勢力支持。政府軍需要「採取適當的戰略」，政府軍在哈馬市外重新部署是「保護平民生命的戰術措施，是臨時性措施」。
 
 阿巴斯又指責反對派武裝利用政府軍撤離進行虛假宣傳來誤導公眾。"
+港股美國預託證券普遍向下　友邦跌約0.6%,2024-12-06 06:13,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782324-20241206.htm,"港股美國預託證券(ADR)普遍下跌。
+
+友邦ADR比本港昨日收市價跌約0.6%，以港元計折合報56.3元。
+
+京東集團、平保、建行、中行ADR亦偏軟。
+
+滙控ADR則升逾1%，折合報74.8元。美團、騰訊ADR靠穩。"
 OPEC+推遲增產計劃至明年4月　2026年底全面解除減產,2024-12-06 06:13,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782322-20241206.htm,"石油輸出國組織及俄羅斯等盟友組成的OPEC+表示，將增產計劃推遲至明年4月，比原來計劃推遲3個月；全面解除減產的時間表，亦推遲1年，至2026年底，由於需求疲弱，以及聯盟以外的產油國產量增加。
 
 路透估算，OPEC+明年4月開始，逐步解除每日220萬桶的減產行動，每月的日產量增加13.8萬桶行動將持續18個月。
@@ -3117,13 +3144,11 @@ OPEC+石油產量佔全球總量約一半，曾計劃今年10月開始退出減�
 現貨金低見每盎司約2623.36美元，跌約26.4美元，跌幅約1%，較早時徘徊2631美元附近。
 
 紐約期油收報每盎司2648.4美元，跌27.8美元，跌幅1%。"
-港股美國預託證券普遍向下　友邦跌約0.6%,2024-12-06 06:13,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782324-20241206.htm,"港股美國預託證券(ADR)普遍下跌。
+英美期油低收0.3%或以上,2024-12-06 06:12,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782320-20241206.htm,"國際油價跌勢持續，投資者關注明年供應前景，OPEC+將增產計劃推遲至明年4月，全面解除減產的時間表亦推遲1年至2026年底。另外，美元偏軟，亦支撐油價表現。
 
-友邦ADR比本港昨日收市價跌約0.6%，以港元計折合報56.3元。
+倫敦布蘭特期油收報每桶72.09美元，跌22美仙，跌幅0.3%。
 
-京東集團、平保、建行、中行ADR亦偏軟。
-
-滙控ADR則升逾1%，折合報74.8元。美團、騰訊ADR靠穩。"
+紐約期油收報每桶68.3美元，跌24美仙，跌幅0.35%。"
 法股創近1個月新高　德股再創新高,2024-12-06 06:12,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782319-20241206.htm,"歐洲股市靠穩，銀行股造好。法國總統馬克龍接受總理巴尼耶辭職，並表示將於未來數日公布新總理人選。市場關注法國政治局勢，期望籌組新政府後能夠通過預算案。
 
 德法股市連升6日，法國CAC指數收報7330點，升27點，升幅0.37%，創近1個月新高。
@@ -3133,11 +3158,6 @@ OPEC+石油產量佔全球總量約一半，曾計劃今年10月開始退出減�
 英國富時100指數反覆回穩，收報8349點，升13點，升幅0.16%。
 
 另外，意大利及西班牙股市升幅較大，同樣升約1.6%收市。"
-英美期油低收0.3%或以上,2024-12-06 06:12,,2024-12-06 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782320-20241206.htm,"國際油價跌勢持續，投資者關注明年供應前景，OPEC+將增產計劃推遲至明年4月，全面解除減產的時間表亦推遲1年至2026年底。另外，美元偏軟，亦支撐油價表現。
-
-倫敦布蘭特期油收報每桶72.09美元，跌22美仙，跌幅0.3%。
-
-紐約期油收報每桶68.3美元，跌24美仙，跌幅0.35%。"
 美國加州北部海域7級地震沒傷亡報告　海嘯警報取消,2024-12-06 05:47,,2024-12-06 06:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782321-20241206.htm,"美國加州北部海域發生強烈地震，當局一度發出海嘯警報，沒有接獲傷亡報告。
 
 地震於當地時間星期四上午10時44分，即本港時間凌晨2時44分發生。美國地質勘探局最初說，地震強度6.6級，之後修訂為7級，震源深度10公里。震央位於小鎮費倫代爾以西大約63公里的太平洋海域。
@@ -3274,12 +3294,12 @@ OPEC+石油產量佔全球總量約一半，曾計劃今年10月開始退出減�
 林定國下午與代表團及廣東省法律界及企業代表座談，透過就常見實務問題交流，探討廣東省企業「走出去」需要應對的涉外法律問題，包括涉外融資、商業糾紛等議題，並就處理相關議題分享經驗。與會人士亦探討兩地律所如何深化合作，提供高質量法律服務，共同助力國家涉外法治建設。林定國與代表團明日將前往深圳，繼續行程。
 
 林定國在社交專頁說，粵港澳三地親如同兄弟，相信只要繼續同心協力，必定能夠做到優勢互補、合作共贏，通過此次訪問，香港法律界將能更好融入國家發展大局，為大灣區建設注入更多專業力量，攜手推動中國式現代化發展。"
-陳茂波參觀創意設計博覽　呼籲公眾參與這場設計和文化盛會,2024-12-05 22:39,,2024-12-05 22:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782298-20241205.htm,"創意設計博覽DesignInspire今日起一連三日在灣仔會展舉行，財政司司長陳茂波今日到場參觀。他在社交專頁表示，展覽以「設想生活 開創未來」為主題，匯聚全球設計精英、藝術家和策展人，橫跨不同地域和界別的展品、多元的展演活動，為市民帶來精彩體驗，他呼籲公眾把握機會，參與這場設計和文化盛會。
+陳茂波參觀創意設計博覽　稱去年訪問巴黎時邀請參展機構來港,2024-12-05 22:39,,2024-12-05 23:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782298-20241205.htm,"創意設計博覽DesignInspire今日起一連三日在灣仔會展舉行，財政司司長陳茂波今日到場參觀。他在社交專頁表示，展覽以「設想生活 開創未來」為主題，匯聚全球設計精英、藝術家和策展人，橫跨不同地域和界別的展品、多元的展演活動，為市民帶來精彩體驗，他呼籲公眾把握機會，參與這場設計和文化盛會。
 
 陳茂波表示，歐洲最大設計展覽機構Maison&Objet是參展機構之一。去年他到訪法國巴黎，曾與該機構會面，參觀它們的工藝設計概念店，並邀請他們來港參展。
 
 該機構今次展示超過100個來自歐洲和亞洲的品牌和設計師作品。"
-陳茂波參觀創意設計博覽　稱去年訪問巴黎時邀請參展機構來港,2024-12-05 22:39,,2024-12-05 23:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782298-20241205.htm,"創意設計博覽DesignInspire今日起一連三日在灣仔會展舉行，財政司司長陳茂波今日到場參觀。他在社交專頁表示，展覽以「設想生活 開創未來」為主題，匯聚全球設計精英、藝術家和策展人，橫跨不同地域和界別的展品、多元的展演活動，為市民帶來精彩體驗，他呼籲公眾把握機會，參與這場設計和文化盛會。
+陳茂波參觀創意設計博覽　呼籲公眾參與這場設計和文化盛會,2024-12-05 22:39,,2024-12-05 22:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782298-20241205.htm,"創意設計博覽DesignInspire今日起一連三日在灣仔會展舉行，財政司司長陳茂波今日到場參觀。他在社交專頁表示，展覽以「設想生活 開創未來」為主題，匯聚全球設計精英、藝術家和策展人，橫跨不同地域和界別的展品、多元的展演活動，為市民帶來精彩體驗，他呼籲公眾把握機會，參與這場設計和文化盛會。
 
 陳茂波表示，歐洲最大設計展覽機構Maison&Objet是參展機構之一。去年他到訪法國巴黎，曾與該機構會面，參觀它們的工藝設計概念店，並邀請他們來港參展。
 
@@ -3423,6 +3443,17 @@ Central ferris wheel malfunction leaves 200 stranded,2024-12-05 18:13,"Hong Kong
 The wheel reportedly stopped at around 5pm leaving at least 200 people stranded.
 
 Two fire trucks arrived at the scene to assist."
+200 led to safety after observation wheel malfunction,2024-12-05 18:13,"Over 100 people were momentarily trapped on Hong Kong Observation Wheel due to malfunction, but all safely evacuated. Operator investigating cause, wheel continued turning slowly with lights on. Fire trucks responded, no ladder rescue needed.",2024-12-05 18:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782270-20241205.htm,"Police said on Thursday that nearly 200 people were trapped for less than an hour on board the Hong Kong Observation Wheel in Central, after it apparently malfunctioned. 
+
+The wheel's operator said all passengers have returned to safety, and it's trying to find out what caused the breakdown. 
+
+It added the wheel was still able to turn slowly. The lights were still on for the popular attraction after the evacuation.
+
+Officers said they received calls seeking for help at 5.17pm. 
+
+A number of fire trucks were sent to the scene, but firefighters didn't need to use ladders to rescue passengers.
+_____________________________
+Last updated: 2024-12-05 HKT 18:30"
 200 led to safety in observation wheel malfunction,2024-12-05 18:13,"Over 100 people were trapped on Hong Kong Observation Wheel for an hour due to malfunction, but all safely evacuated. Operator investigating cause. Wheel continued to turn slowly with lights on. Fire trucks dispatched, but not needed for rescue.",2024-12-05 20:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782270-20241205.htm,"Police said on Thursday that nearly 200 people were trapped for less than an hour on board the Hong Kong Observation Wheel in Central, after it apparently malfunctioned. 
 
 The wheel's operator said all passengers have returned to safety, and it's trying to find out what caused the breakdown. 
@@ -3455,17 +3486,6 @@ Last updated: 2024-12-05 HKT 20:10
 
 
 *The Grounds and Vitality Hub will continue to operate as usual this evening."
-200 led to safety after observation wheel malfunction,2024-12-05 18:13,"Over 100 people were momentarily trapped on Hong Kong Observation Wheel due to malfunction, but all safely evacuated. Operator investigating cause, wheel continued turning slowly with lights on. Fire trucks responded, no ladder rescue needed.",2024-12-05 18:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782270-20241205.htm,"Police said on Thursday that nearly 200 people were trapped for less than an hour on board the Hong Kong Observation Wheel in Central, after it apparently malfunctioned. 
-
-The wheel's operator said all passengers have returned to safety, and it's trying to find out what caused the breakdown. 
-
-It added the wheel was still able to turn slowly. The lights were still on for the popular attraction after the evacuation.
-
-Officers said they received calls seeking for help at 5.17pm. 
-
-A number of fire trucks were sent to the scene, but firefighters didn't need to use ladders to rescue passengers.
-_____________________________
-Last updated: 2024-12-05 HKT 18:30"
 中環摩天輪故障被困車廂乘客已安全返回地面,2024-12-05 18:04,,2024-12-05 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782269-20241205.htm,"中環摩天輪下午5時許懷疑發生故障，超過190人一度被困摩天輪。摩天輪方面表示，被困車廂的乘客，已安全返回地面，摩天輪仍能緩慢轉動，現時仍在了解故障原因。
 
 消防員到場協助，最後毋須動用雲梯救援。"
@@ -3643,6 +3663,9 @@ Lau said the new culture and transport chiefs are expected to outperform their p
 ""If that is the case, it is not surprising that he is going to replace two officials. He will be more comfortable with the new ministers and be confident that they can get the job done and to enhance the popularity and the authority of the government.""
 
 Lau added that he thinks the two new ministers are hardworking and willing to face the media, and will work closely with professionals in their bureaus."
+中國成功發射千帆極軌03組衛星進入預定軌道,2024-12-05 15:27,,2024-12-05 15:43,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782237-20241205.htm,"中國下午12時41分，在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌03組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。
+
+新華社報道，今次任務是長征系列運載火箭的第550次飛行。"
 陳茂波稱要準確識變科學應變主動求變　創新思維推動創科產業發展,2024-12-05 15:27,,2024-12-05 15:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782239-20241205.htm,"財政司司長陳茂波出席一個有關媒體創新論壇的活動上致辭時表示，二十屆三中全會指示，要健全因地制宜發展新質生產力體制機制。他引述中央港澳辦主任夏寶龍早前與香港工商界人士舉行的座談會中指出，香港必須銳意改革，主動作為，大力推動創科發展。
 
 陳茂波說，特區政府銳意發展香港成為國際創科技中心，過去已投放了大量資源，不斷提升創科相關基建設施、完善創科生態圈，並促進上中下游鏈條相互促進發展。
@@ -3650,9 +3673,6 @@ Lau added that he thinks the two new ministers are hardworking and willing to fa
 他指出，過去兩年多以來，引進重點企業辦公室積極招商引資，並設立多個計劃，不斷加強對本地創科和數字經濟的系統性投入。
 
 陳茂波認為，國家一直對香港愛護有加，同時也是香港發展的最強後盾和底氣所在，香港也要準確識變、科學應變、主動求變，以創新思維、革新做法，推動創科產業發展，為國家培育新質生產力以及高質量發展作出貢獻。"
-中國成功發射千帆極軌03組衛星進入預定軌道,2024-12-05 15:27,,2024-12-05 15:43,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782237-20241205.htm,"中國下午12時41分，在太原衛星發射中心使用長征六號改運載火箭，成功將千帆極軌03組衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。
-
-新華社報道，今次任務是長征系列運載火箭的第550次飛行。"
 楊潤雄免去局長職務　體育專員蔡健斌稱繼續堅守崗位貢獻社會,2024-12-05 15:22,,2024-12-05 15:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782236-20241205.htm,"國務院任命羅淑佩為文化體育及旅遊局局長，免去楊潤雄的局長職務。
 
 體育專員蔡健斌出席啟德體育園活動時回應指，他和團隊一定會繼續堅守崗位，亦會很努力貢獻香港社會。"
@@ -3686,16 +3706,16 @@ Lau added that he thinks the two new ministers are hardworking and willing to fa
 當局在距離事故現場幾百米的路口，設立封鎖線，禁止車輛和行人進入，附近停泊拖架消防車戒備，亦有校車接載學生離開。深圳當局發通告指，搶險期間臨時封閉部分道路，呼籲駕駛人士按指示通行，服從交通警察指揮。
 
 事故發生至今10多小時，目前知道最少13人失聯。應急管理部調度救援處置工作，派出工作組趕赴現場。"
-南韓執政黨反對彈劾總統　黨魁稱非擁護違憲行為但要防亂局,2024-12-05 15:12,,2024-12-05 15:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782230-20241205.htm,"南韓六大在野黨發起彈劾總統尹錫悅，指他前晚宣布緊急戒嚴的做法，違反憲法與法律規定。彈劾議案已提交至國會全體會議，最大在野黨共同民主黨將推動於星期六表決。
-
-執政國民力量黨反對彈劾總統。黨魁韓東勳說，為防止國家在總統被彈劾後，因毫無準備而陷入亂局，以致影響國民，他作為黨魁將努力阻止彈劾議案獲通過。他強調國民力量黨並非擁護總統宣布戒嚴的違憲行為，他在尹錫悅宣布戒嚴後，已第一時間選擇與國民站在同一陣線，今後亦會如此。韓東勳又說作為黨魁，他再次要求尹錫悅退黨，而他自己將負起責任，帶頭收拾殘局。
-
-另外，尹錫悅批准金龍顯請辭國防部長職務。報道指建議尹錫悅實施戒嚴的正是金龍顯。檢方已經以涉嫌內亂罪為由，禁止金龍顯出國。"
 陳茂波期待與兩名新局長及整個管治團隊全力以赴更好服務市民,2024-12-05 15:12,,2024-12-05 15:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782232-20241205.htm,"財政司司長陳茂波說，新獲任命為運輸及物流局局長的陳美寶、文化體育及旅遊局局長的羅淑佩，均是資深政務官，經驗豐富、領導能力強，分別帶領兩個政策局推動改革創新，貫徹落實行政長官的施政理念和政策措施。
 
 他表示，行政長官的領導下，期待和兩名新局長和整個管治團隊繼續全力以赴，更好服務市民、推動社會經濟更好發展、為香港創造更大價值。
 
 陳茂波亦衷心感謝林世雄和楊潤雄，多年來在政府不同崗位上竭力服務市民，祝願他們一切順利、生活愉快。"
+南韓執政黨反對彈劾總統　黨魁稱非擁護違憲行為但要防亂局,2024-12-05 15:12,,2024-12-05 15:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782230-20241205.htm,"南韓六大在野黨發起彈劾總統尹錫悅，指他前晚宣布緊急戒嚴的做法，違反憲法與法律規定。彈劾議案已提交至國會全體會議，最大在野黨共同民主黨將推動於星期六表決。
+
+執政國民力量黨反對彈劾總統。黨魁韓東勳說，為防止國家在總統被彈劾後，因毫無準備而陷入亂局，以致影響國民，他作為黨魁將努力阻止彈劾議案獲通過。他強調國民力量黨並非擁護總統宣布戒嚴的違憲行為，他在尹錫悅宣布戒嚴後，已第一時間選擇與國民站在同一陣線，今後亦會如此。韓東勳又說作為黨魁，他再次要求尹錫悅退黨，而他自己將負起責任，帶頭收拾殘局。
+
+另外，尹錫悅批准金龍顯請辭國防部長職務。報道指建議尹錫悅實施戒嚴的正是金龍顯。檢方已經以涉嫌內亂罪為由，禁止金龍顯出國。"
 陳美寶羅淑佩分別獲任命為局長　李家超早上為兩人監誓,2024-12-05 15:11,,2024-12-05 15:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782229-20241205.htm,"政府公布，陳美寶獲任命為運輸及物流局局長，羅淑佩出任文化體育及旅遊局局長，行政長官李家超早上為兩人監誓。
 
 李家超指出，陳美寶和羅淑佩都是資深政務主任，在政府服務超過35年，表現卓越，具備豐富行政和管理經驗、領導能力、解說能力和主動性。有信心兩人會不屈不撓、全力以赴帶領相關決策局，服務市民，貢獻香港社會。
@@ -3833,10 +3853,10 @@ The cryptocurrency has climbed dramatically from US$69,374 on Election Day and r
 How long bitcoin will stay above the coveted US$100,000 mark is uncertain. 
 
 As with everything in the volatile cryptoverse, the future is impossible to predict. And while some are bullish on future gains, other experts continue to warn of investment risks. (AP)"
-羅淑佩及陳美寶分別出任文化體育及旅遊局局長、運輸及物流局局長,2024-12-05 12:24,,2024-12-05 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782205-20241205.htm,"羅淑佩及陳美寶分別出任文化體育及旅遊局局長及運輸及物流局局長。
+兩名新任局長羅淑佩及陳美寶均曾擔任運輸署署長,2024-12-05 12:24,,2024-12-05 16:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782205-20241205.htm,"羅淑佩及陳美寶分別出任文化體育及旅遊局局長及運輸及物流局局長。
 
 兩名新任女局長同樣曾擔任過運輸署署長。 其中羅淑佩出任房屋署署長期間，著力打擊濫用公屋及檢討富戶政策，並推出多項措施。"
-兩名新任局長羅淑佩及陳美寶均曾擔任運輸署署長,2024-12-05 12:24,,2024-12-05 16:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782205-20241205.htm,"羅淑佩及陳美寶分別出任文化體育及旅遊局局長及運輸及物流局局長。
+羅淑佩及陳美寶分別出任文化體育及旅遊局局長、運輸及物流局局長,2024-12-05 12:24,,2024-12-05 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782205-20241205.htm,"羅淑佩及陳美寶分別出任文化體育及旅遊局局長及運輸及物流局局長。
 
 兩名新任女局長同樣曾擔任過運輸署署長。 其中羅淑佩出任房屋署署長期間，著力打擊濫用公屋及檢討富戶政策，並推出多項措施。"
 楊潤雄任內美斯訪港無上場　林世雄任內颱風襲港旅客滯留機場,2024-12-05 12:22,,2024-12-05 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782204-20241205.htm,"楊潤雄出任文化體育及旅遊局局長期間發生多宗與其政策局相關的事件，包括阿根廷球星美斯來港，沒有在表演賽上場。
@@ -4375,7 +4395,7 @@ ADP報告：11月私人市場新增職位14.6萬個　遜預期,2024-12-04 21:46
 貿促會表示，維護包括半導體行業在內的全球產業鏈供應鏈韌性和穩定，是推動世界經濟可持續發展的重要保障，符合國際社會和各國企業的共同利益。
 
 中國工商界呼籲美方立即停止採取單邊限制措施，遵守國際經貿規則，以實際行動促進全球半導體產業健康發展，維護全球產業鏈供應鏈安全穩定，將全球產業鏈供應鏈打造成「世界共贏鏈」。"
-外交部稱不評論南韓內政　促韓方保障中國公民和機構安全,2024-12-04 20:13,,2024-12-04 21:28,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782119-20241204.htm,"南韓總統尹錫悅昨晚突然宣布緊急戒嚴令，約6小時後宣布接受國會要求，解除戒嚴令。
+外交部稱不評論南韓內政　中方對朝鮮半島問題立場沒有變化,2024-12-04 20:13,,2024-12-04 20:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782119-20241204.htm,"南韓總統尹錫悅昨晚突然宣布緊急戒嚴令，約6小時後宣布接受國會要求，解除戒嚴令。
 
 中國外交發言人林劍書面回覆傳媒提問時說，中方不評論南韓內政。中方已提醒在韓中國公民加強安全防範，希望韓方採取有效措施，切實保障中國公民和機構在韓安全。中方在朝鮮半島問題上的立場沒有變化。
 
@@ -4384,7 +4404,7 @@ ADP報告：11月私人市場新增職位14.6萬個　遜預期,2024-12-04 21:46
 日方亦表示格外關注南韓局勢，首相石破茂原定下月訪韓的計劃或會受到影響。
 
 瑞典首相克里斯特松表示，決定推遲原定本周星期的訪韓行程，原因是當地政局不穩。目前在日本訪問的克里斯特松，原定明日轉到南韓訪問，後天與尹錫悅會談。"
-外交部稱不評論南韓內政　中方對朝鮮半島問題立場沒有變化,2024-12-04 20:13,,2024-12-04 20:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782119-20241204.htm,"南韓總統尹錫悅昨晚突然宣布緊急戒嚴令，約6小時後宣布接受國會要求，解除戒嚴令。
+外交部稱不評論南韓內政　促韓方保障中國公民和機構安全,2024-12-04 20:13,,2024-12-04 21:28,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782119-20241204.htm,"南韓總統尹錫悅昨晚突然宣布緊急戒嚴令，約6小時後宣布接受國會要求，解除戒嚴令。
 
 中國外交發言人林劍書面回覆傳媒提問時說，中方不評論南韓內政。中方已提醒在韓中國公民加強安全防範，希望韓方採取有效措施，切實保障中國公民和機構在韓安全。中方在朝鮮半島問題上的立場沒有變化。
 
@@ -4470,10 +4490,10 @@ The group also recommended the government start large-scale restoration of terre
 另一名負責監視警員供稱，2020年3月7日早上10時在西環梅芳街外進行監視行動，至約10時51分，他接獲指示駕車跟蹤一輛的士，經西區海底隧道，到達旺角登打士街後停車。警員看見李嘉濱下車，取出相片比對，用了5秒確認李嘉濱的身分。同日下午約2時許，李嘉濱在上海街上了的士，警員從登打士街開始駕車跟蹤，的士到達近宏創方路邊停下，李嘉濱手持一個有重量的紅色膠袋，衣着與之前一樣，警員亦再次用相片比對及確認李嘉濱身分。
 
 當晚9時27分，警員稱當時再次接報，得知李嘉濱與不知名男人在登打士街近東安街登上了一輛紅色私家車，警員便駕車跟蹤，期間跟蹤至將軍澳尚德邨附近交通燈時，李嘉濱向尚德邨方向拍攝，並一度把手機遞給司機，由司機向尚德連儂牆方向拍攝。私家車之後經將軍澳隧道、觀塘繞道和太子道，駛至通州街近楓樹街停車，晚上11時許，私家車駛經通州街、塘尾道、大角咀道、晏架街、槐樹街、福全街、旺角道及彌敦道，至近弼街停車；警員稱李嘉濱下車，由其他同事接手監視，他則繼續監視該紅色車。"
-李家超︰香港若不改革便會被淘汱,2024-12-04 18:01,,2024-12-04 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782106-20241204.htm,"行政長官李家超接受本台節目《盤點政策》訪問時說，本港正處於經濟轉型期，以前成功的元素，現在可能已不再成功。旅客及個人消費習慣改變，周邊包括內地城市進步得很快，本港如果不改革會被淘汰。
+李家超︰香港若不改革便會被淘汰,2024-12-04 18:01,,2024-12-04 18:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782106-20241204.htm,"行政長官李家超接受本台節目《盤點政策》訪問時說，本港正處於經濟轉型期，以前成功的元素，現在可能已不再成功。旅客及個人消費習慣改變，周邊包括內地城市進步得很快，本港如果不改革會被淘汰。
 
 李家超又說，政府內部亦要改革，要求各司局長經常透過傳媒回應，並在社交平台發放訊息，當有事件發生，要立刻擔當主導角色，效率方面要提高。"
-李家超︰香港若不改革便會被淘汰,2024-12-04 18:01,,2024-12-04 18:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782106-20241204.htm,"行政長官李家超接受本台節目《盤點政策》訪問時說，本港正處於經濟轉型期，以前成功的元素，現在可能已不再成功。旅客及個人消費習慣改變，周邊包括內地城市進步得很快，本港如果不改革會被淘汰。
+李家超︰香港若不改革便會被淘汱,2024-12-04 18:01,,2024-12-04 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782106-20241204.htm,"行政長官李家超接受本台節目《盤點政策》訪問時說，本港正處於經濟轉型期，以前成功的元素，現在可能已不再成功。旅客及個人消費習慣改變，周邊包括內地城市進步得很快，本港如果不改革會被淘汰。
 
 李家超又說，政府內部亦要改革，要求各司局長經常透過傳媒回應，並在社交平台發放訊息，當有事件發生，要立刻擔當主導角色，效率方面要提高。"
 「國家憲法日」成立十周年　鄭雁雄：絕不能「好了傷疤忘了疼」,2024-12-04 17:58,,2024-12-04 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782105-20241204.htm,"今天是「國家憲法日」成立十周年，特區政府與中聯辦舉辦座談會。中聯辦主任鄭雁雄表示，香港正走向由治及興的新階段關鍵期，絕對不能夠「好了傷疤忘了疼」，絕不能「一廂情願做好人」，認為無論甚麼時候，都要堅定維護《憲法》和《基本法》確定的特別行政區憲制秩序，堅定維護國家安全。
@@ -4931,23 +4951,6 @@ Researchers said the technology can also assess the risk of bowel cancer among I
 南韓戒嚴令實施6小時後解除　尹錫悅稱戒嚴是要剷除親北韓勢力,2024-12-04 12:45,,2024-12-04 12:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782040-20241204.htm,"南韓總統尹錫悅於昨晚深夜，突然宣布實施緊急戒嚴，解釋是要剷除親北韓勢力，維護自由憲政秩序。報道指建議尹錫悅實施戒嚴的是國防部長金龍顯。
 
 國會凌晨召開全體會議，表決通過要求總統解除緊急戒嚴的決議案，在席議員全票通過。議長隨後宣布戒嚴令無效，尹錫悅亦宣布解除實施約6個小時的戒嚴令。"
-Follow the Constitution when deepening reform: CE,2024-12-04 12:36,"CEO John Lee emphasizes the importance of upholding the Constitution during legislative and policy changes to ensure reform stays on the right track. He stresses the Constitution as the country's supreme law, crucial for policy formulation. Constitutional education and implementation are necessary for a healthy respect for the law. Hong Kong can contribute via its unique strengths under ""One Country, Two Systems,"" with Zheng Yanxiong encouraging continued high-quality development, reform, and innovation under the rule of law.",2024-12-04 12:48,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782038-20241204.htm,"Chief Executive John Lee on Wednesday said it is important to uphold the Constitution when making legislative and policy changes, to ensure reform is in the right direction. 
-
-Speaking at a seminar on Constitution Day, Lee said the Constitution is the country's supreme law and provides the legal framework for policy formulation. 
-
-""In further deepening reform comprehensively, we must regard the Constitution as our country's fundamental law by upholding and implementing the Constitution's requirements, principles, and spirit,"" he said. 
-
-""Only then can we ensure our reform stays on the right track and proceeds in the right way at a steady pace.""
-
-The CE added that constitutional education and implementation must go hand in hand to ensure that people respect and comply with the law.
-
-""This is because a solid grasp of the Constitution's substance and spirit among the entire populace is crucial to a healthy atmosphere of respect for the law and compliance,"" he said. 
-
-Lee said Hong Kong can play its role by maximising its unique strengths under the ""One Country, Two Systems"" framework. 
-
-Zheng Yanxiong, director of the liaison office, told the same seminar that the SAR should continue to pursue high-quality development and deepen reform under the rule of law. 
-
-""We must also embark on innovations. We have accumulated new experience, and we have also designated a Constitution Day and other measures. So all these have been taken under our new innovative spirit, and this is a result of the rule of law and reform,"" he said."
 Govt urges HK residents to be careful in South Korea,2024-12-04 12:36,"Tourists from Hong Kong heading to South Korea are unaffected by the brief martial law declaration, with some expressing concern but believing the situation will improve. The South Korean government has ended martial law hours after declaring it. Tour groups in South Korea are not affected and have no plans to return early. The Hong Kong government urges caution for residents in South Korea.",2024-12-04 12:48,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782035-20241204.htm,"Hong Kong tourists heading to South Korea on Wednesday said they were not fazed about the short-lived martial law in the country as the government called on residents to remain cautious.
 
 South Korean President Yoon Suk-yeol ended martial law hours after the declaration last night.
@@ -4991,6 +4994,23 @@ Still, the SAR government urged Hong Kong residents who are in the country or pl
 The Security Bureau said social order in South Korea is normal for now, and it would closely monitor the situation.
 
 So far, no one has asked for assistance from the Immigration Department."
+Follow the Constitution when deepening reform: CE,2024-12-04 12:36,"CEO John Lee emphasizes the importance of upholding the Constitution during legislative and policy changes to ensure reform stays on the right track. He stresses the Constitution as the country's supreme law, crucial for policy formulation. Constitutional education and implementation are necessary for a healthy respect for the law. Hong Kong can contribute via its unique strengths under ""One Country, Two Systems,"" with Zheng Yanxiong encouraging continued high-quality development, reform, and innovation under the rule of law.",2024-12-04 12:48,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1782038-20241204.htm,"Chief Executive John Lee on Wednesday said it is important to uphold the Constitution when making legislative and policy changes, to ensure reform is in the right direction. 
+
+Speaking at a seminar on Constitution Day, Lee said the Constitution is the country's supreme law and provides the legal framework for policy formulation. 
+
+""In further deepening reform comprehensively, we must regard the Constitution as our country's fundamental law by upholding and implementing the Constitution's requirements, principles, and spirit,"" he said. 
+
+""Only then can we ensure our reform stays on the right track and proceeds in the right way at a steady pace.""
+
+The CE added that constitutional education and implementation must go hand in hand to ensure that people respect and comply with the law.
+
+""This is because a solid grasp of the Constitution's substance and spirit among the entire populace is crucial to a healthy atmosphere of respect for the law and compliance,"" he said. 
+
+Lee said Hong Kong can play its role by maximising its unique strengths under the ""One Country, Two Systems"" framework. 
+
+Zheng Yanxiong, director of the liaison office, told the same seminar that the SAR should continue to pursue high-quality development and deepen reform under the rule of law. 
+
+""We must also embark on innovations. We have accumulated new experience, and we have also designated a Constitution Day and other measures. So all these have been taken under our new innovative spirit, and this is a result of the rule of law and reform,"" he said."
 南韓最大在野黨譴責尹錫悅頒布戒嚴違憲　要求立即辭職,2024-12-04 12:32,,2024-12-04 12:48,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782039-20241204.htm,"南韓的緊急戒嚴令實施約6小時後解除。頒布戒嚴的總統尹錫悅表示，戒嚴是了堅決應對反國家勢力，譴責在野黨以彈劾等手段癱瘓國家，但他接受國會要求，解除戒嚴，撤走投入戒嚴行動的兵力。
 
 韓聯社報道，總統府高級幕僚集體請辭。執政國民力量黨領導層召開緊急會議討論對策。最大在野黨共同民主黨指尹錫悅違憲，要求他立即辭職，否則推進彈劾。"
@@ -5258,12 +5278,12 @@ It later regained ground at the start of Asian trading, ahead of an extraordinar
 At 0030 GMT, it was trading at 1,414.49 won against the dollar.
 
 Tokyo's stocks started the day cautiously, with blue-chip Nikkei down 0.11 percent to 39,205 points at the open. (AFP)"
-南韓總統府首席秘書及室長等多名幕僚據報集體請辭,2024-12-04 09:18,,2024-12-04 09:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782003-20241204.htm,"南韓總統尹錫悅解除實施大約6小時的戒嚴令後，韓聯社報道，總統府首席秘書、室長等幕僚，集體提出辭職。
+南韓總統府多名幕僚據報請辭　國會議長指戒嚴事件見證民主,2024-12-04 09:18,,2024-12-04 09:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782003-20241204.htm,"南韓總統尹錫悅解除實施大約6小時的戒嚴令後，韓聯社報道，總統府首席秘書、室長等幕僚，集體提出辭職。
 
 最大在野黨共同民主黨在國會召開緊急議員會議，並發表決議文，要求尹錫悅應立即主動辭職，指尹錫悅宣布緊急戒嚴違反憲法，沒有遵守發布緊急戒嚴令所必需的任何條件，若果他不主動辭職，共同民主黨將推進彈劾。
 
 國會議長禹元植形容今次事件見證國會是維護南韓民主主義的最後堡壘，國會必將與民共同捍衛民主憲政秩序，採取一切必要措施穩定國家混亂局面。禹元植積極評價軍方在戒嚴事態中的突出表現，指軍方雖然根據戒嚴指令向國會派遣兵力，但在國會通過相關議案後，立即撤離，展現伴隨民主主義同步發展成熟的一面。"
-南韓總統府多名幕僚據報請辭　國會議長指戒嚴事件見證民主,2024-12-04 09:18,,2024-12-04 09:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782003-20241204.htm,"南韓總統尹錫悅解除實施大約6小時的戒嚴令後，韓聯社報道，總統府首席秘書、室長等幕僚，集體提出辭職。
+南韓總統府首席秘書及室長等多名幕僚據報集體請辭,2024-12-04 09:18,,2024-12-04 09:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782003-20241204.htm,"南韓總統尹錫悅解除實施大約6小時的戒嚴令後，韓聯社報道，總統府首席秘書、室長等幕僚，集體提出辭職。
 
 最大在野黨共同民主黨在國會召開緊急議員會議，並發表決議文，要求尹錫悅應立即主動辭職，指尹錫悅宣布緊急戒嚴違反憲法，沒有遵守發布緊急戒嚴令所必需的任何條件，若果他不主動辭職，共同民主黨將推進彈劾。
 
@@ -5274,13 +5294,6 @@ Tokyo's stocks started the day cautiously, with blue-chip Nikkei down 0.11 perce
 李家超說，他上任以來在推動改革，政府願意改革，步伐要再推進，現時與他心目中的目標仍有一條路要走，需要共同努力。他表示，每年《施政報告》訂下百多個績效指標KPI，大致上符合他的要求，但認為仍不足夠，需要繼續做，希望國際亦認同本港是有進步。
 
 李家超上月率團到秘魯利馬出席亞太區經濟合作組織會議，他總結行程說，達到「天時地利人和」，包括中國在秘魯投資興建的錢凱港碼頭開幕，縮短拉丁美洲貨物到中國的時間，減少營運費用，而香港和秘魯簽訂《自由貿易協定》，亦開展了新增長點。"
-李家超：本港處於經濟轉型期　如不改革會被淘汰,2024-12-04 09:03,,2024-12-04 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782000-20241204.htm,"行政長官李家超說，本港正處於經濟轉型期，旅客消費習慣改變、個人消費習慣改變，與及周邊包括內地城市亦進步得很快，本港如果不改革會被淘汰。
-
-李家超接受本台電視節目《盤點政策》訪問時表示，本港以前成功的元素，在現在的環境下，可能已不再成功，內地有制度優勢，對改革較為接受，他舉例說「點解隔離舖頭排長龍，另外幾間有位都無人入去」，認為需要研究如何吸引客人。
-
-至於政府的搶人才措施，李家超說，本港過往是用「吸引」或「引進」人才字眼，現時改用「搶」，是要改變文化，代表積極、主動出擊，強調政府很全面去搶人才。
-
-李家超說，培育本地人才是優先，但仍然是不夠，香港只有750萬人，很多研究報告指香港如果要保持競爭力，作為領先城市，應該有1000萬人。他又說，以 750萬人計算，人才庫有限，一定要吸納外地人才，增強人才庫。"
 香港11月PMI回落至51.2　企業憂經濟前景及貿易壁壘風險,2024-12-04 09:03,,2024-12-04 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781999-20241204.htm,"香港11月採購經理指數(PMI)回落至51.2，低於10月的52.2，連續兩個月處於50以上，反映企業經營活動持續擴張，但擴張速度減慢。
 
 新訂單增幅收窄，尤其海外及內地新接業務量都由升轉跌，反而需求轉弱，由於客戶縮減預算及競爭劇烈等因素。
@@ -5288,6 +5301,13 @@ Tokyo's stocks started the day cautiously, with blue-chip Nikkei down 0.11 perce
 數據亦顯示，私營企業未來數月將持續增產，積壓訂單14個月以來首次轉升。就業人數結束多個月跌勢，企業重新增聘人手。投入成本通脹降溫，紓緩銷售價格通脹，產出價格升幅亦放緩。
 
 標普全球表示，10月及11月數據反映，營商環境臨近年底持續好轉，今季經濟增長好轉，但產出增長近月放緩，企業悲觀情緒亦升至13個月高位，營商信心仍低迷，企業憂慮經濟前景、貿易壁壘風險、競爭加劇。"
+李家超：本港處於經濟轉型期　如不改革會被淘汰,2024-12-04 09:03,,2024-12-04 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1782000-20241204.htm,"行政長官李家超說，本港正處於經濟轉型期，旅客消費習慣改變、個人消費習慣改變，與及周邊包括內地城市亦進步得很快，本港如果不改革會被淘汰。
+
+李家超接受本台電視節目《盤點政策》訪問時表示，本港以前成功的元素，在現在的環境下，可能已不再成功，內地有制度優勢，對改革較為接受，他舉例說「點解隔離舖頭排長龍，另外幾間有位都無人入去」，認為需要研究如何吸引客人。
+
+至於政府的搶人才措施，李家超說，本港過往是用「吸引」或「引進」人才字眼，現時改用「搶」，是要改變文化，代表積極、主動出擊，強調政府很全面去搶人才。
+
+李家超說，培育本地人才是優先，但仍然是不夠，香港只有750萬人，很多研究報告指香港如果要保持競爭力，作為領先城市，應該有1000萬人。他又說，以 750萬人計算，人才庫有限，一定要吸納外地人才，增強人才庫。"
 中方指菲律賓四船企圖侵闖黃岩島領海並危險接近中國海警船隻,2024-12-04 08:50,,2024-12-04 08:58,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781997-20241204.htm,"中方指菲律賓船隻企圖侵闖中國黃岩島。
 
 海警局新聞發言人劉德軍表示，菲律賓兩艘海警船及兩艘公務船，今日企圖侵闖黃岩島領海，並危險接近中國海警正常執法巡查的船隻，中方依法依規實施管控。"
@@ -5452,14 +5472,14 @@ Tesla dropped 1.6 percent after a US judge upheld her decision to reject Elon Mu
 期間，南韓軍方試圖破窗進入國會逮捕參加會議的議員。
 
 直至深夜，南韓國會大樓外仍有大批民眾聚集。最大在野黨共同民主黨黨魁李在明向國會外軍警發表講話，指違反憲法的緊急戒嚴令已經失效，軍警繼續行使權力是違法”要求國會外軍警撤退。"
-特區政府暫無提升對南韓外遊警示　提醒當地港人注意安全,2024-12-04 01:15,,2024-12-04 01:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781967-20241204.htm,"南韓宣布實施緊急戒嚴，特區政府提醒身在南韓或計劃前赴當地的港人要注意人身安全。保安局鑑於當地戒嚴事件，已更新外遊警示網頁有關韓國的附加資料，並無提升外遊警示。
+特區政府提醒身在南韓或計劃前赴當地港人注意人身安全,2024-12-04 01:15,,2024-12-04 10:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781967-20241204.htm,"南韓宣布實施緊急戒嚴，特區政府提醒身在南韓或計劃前赴當地的港人要注意人身安全。保安局鑑於當地戒嚴事件，已更新外遊警示網頁有關韓國的附加資料，並無提升外遊警示。
 
 政府會繼續密切留意當地局勢，如有進一步消息，會透過媒體、保安局流動應用程式及外遊警示網頁，發布當地最新情況。
 
 入境處至今未有接獲港人求助。入境處已透過外交部駐香港特別行政區特派員公署、中國駐大韓民國大使館、旅遊業監管局及香港旅遊業議會了解情況。
 
 政府發言人提醒，計劃前赴或已在韓感的港人應留意局勢，提高警惕，注意安全，避開人群聚集的地方，並留意當地就最新情況的公布。"
-特區政府提醒身在南韓或計劃前赴當地港人注意人身安全,2024-12-04 01:15,,2024-12-04 10:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781967-20241204.htm,"南韓宣布實施緊急戒嚴，特區政府提醒身在南韓或計劃前赴當地的港人要注意人身安全。保安局鑑於當地戒嚴事件，已更新外遊警示網頁有關韓國的附加資料，並無提升外遊警示。
+特區政府暫無提升對南韓外遊警示　提醒當地港人注意安全,2024-12-04 01:15,,2024-12-04 01:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781967-20241204.htm,"南韓宣布實施緊急戒嚴，特區政府提醒身在南韓或計劃前赴當地的港人要注意人身安全。保安局鑑於當地戒嚴事件，已更新外遊警示網頁有關韓國的附加資料，並無提升外遊警示。
 
 政府會繼續密切留意當地局勢，如有進一步消息，會透過媒體、保安局流動應用程式及外遊警示網頁，發布當地最新情況。
 
@@ -5823,6 +5843,9 @@ The security chief said authorities would continue to monitor online communicati
 Hong Kong stocks close higher,2024-12-03 16:38,"Hong Kong's Hang Seng Index rose 1% to 19,746, Shanghai Composite gained 0.4% to 3,378, while Shenzhen Component decreased 0.4% to 10,713. (Xinhua)",2024-12-03 18:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1781907-20241203.htm,"Hong Kong stocks ended higher on Tuesday, with the benchmark Hang Seng Index up 1 percent at 19,746.
 
 The Shanghai Composite Index finished up 0.4 percent at 3,378, while the Shenzhen Component Index closed 0.4 percent lower at 10,713. (Xinhua)"
+葵涌邨78歲巴基斯坦裔父親疑被兒子生果刀襲擊多處受傷送院,2024-12-03 16:25,,2024-12-03 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781905-20241203.htm,"葵涌邨一名78歲巴基斯坦裔父親，懷疑被34歲兒子以生果刀及叉襲擊，父親頭部及身體多處受傷送院，兒子逃去。
+
+現場是葵泰樓一個單位，下午近2時，大廈保案報案，指一名男子懷疑被兒子襲擊受傷，送往瑪嘉烈醫院治理。警方將案件列作傷人，暫未有人被捕。"
 恒指升近200點收市　據報內地下周召開中央經濟工作會議,2024-12-03 16:25,,2024-12-03 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781903-20241203.htm,"港股下午升幅擴大，據報內地將於下周三召開中央經濟工作會議。
 
 恒指一度升至近220點，收市升196點，報19746點，是逾半個月以來最高，升幅1%，主板成交額近1267億元。
@@ -5832,10 +5855,7 @@ The Shanghai Composite Index finished up 0.4 percent at 3,378, while the Shenzhe
 藥明康德及藥明生物升逾6%至近8%，是表現最好的兩隻恒指成份股。金融股上升，恒生銀行升逾3%，工行、建行及中人壽升逾2%。3桶油升逾1%至近3%。
 
 個別內需股偏軟。"
-葵涌邨78歲巴基斯坦裔父親疑被兒子生果刀襲擊多處受傷送院,2024-12-03 16:25,,2024-12-03 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781905-20241203.htm,"葵涌邨一名78歲巴基斯坦裔父親，懷疑被34歲兒子以生果刀及叉襲擊，父親頭部及身體多處受傷送院，兒子逃去。
-
-現場是葵泰樓一個單位，下午近2時，大廈保案報案，指一名男子懷疑被兒子襲擊受傷，送往瑪嘉烈醫院治理。警方將案件列作傷人，暫未有人被捕。"
-商務部決定加強相關兩用物項對美國出口管制,2024-12-03 16:18,,2024-12-03 18:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781902-20241203.htm,"在北京，商務部決定加強相關兩用物項對美國出口管制。
+商務部決定加強鎵、鍺等相關兩用物項對美國出口管制,2024-12-03 16:18,,2024-12-03 18:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781902-20241203.htm,"在北京，商務部決定加強相關兩用物項對美國出口管制。
 
 發言人說，近年來，美方泛化國家安全概念，將經貿科技問題政治化、武器化，濫用出口管制措施，無端限制有關產品對華出口，並將多家中國企業列入制裁清單進行打壓遏制，嚴重破壞國際貿易規則，嚴重損害企業正當合法權益，嚴重破壞全球產業鏈供應鏈穩定。
 
@@ -5849,7 +5869,7 @@ The Shanghai Composite Index finished up 0.4 percent at 3,378, while the Shenzhe
 在北京，外交部被問到能否證實有關消息時，發言人林劍建議記者向有關主管部門了解，但表示中方願與澳方一同繼續通過對話協商，妥善解決彼此關切問題，令中澳關係更加成熟穩定，更好造福兩國人民。
 
 澳洲貿易數據顯示，中國是繼美國後澳洲牛肉的第二大市場，近年每年進口約20萬噸，價值約15億美元。"
-商務部決定加強鎵、鍺等相關兩用物項對美國出口管制,2024-12-03 16:18,,2024-12-03 18:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781902-20241203.htm,"在北京，商務部決定加強相關兩用物項對美國出口管制。
+商務部決定加強相關兩用物項對美國出口管制,2024-12-03 16:18,,2024-12-03 18:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781902-20241203.htm,"在北京，商務部決定加強相關兩用物項對美國出口管制。
 
 發言人說，近年來，美方泛化國家安全概念，將經貿科技問題政治化、武器化，濫用出口管制措施，無端限制有關產品對華出口，並將多家中國企業列入制裁清單進行打壓遏制，嚴重破壞國際貿易規則，嚴重損害企業正當合法權益，嚴重破壞全球產業鏈供應鏈穩定。
 
@@ -5886,13 +5906,6 @@ The Shanghai Composite Index finished up 0.4 percent at 3,378, while the Shenzhe
 天文台指出，熱帶氣旋銀杏、桃芝及萬宜在風季尾段接二連三影響本港，導致自1946年以來首次在11月三度發出熱帶氣旋警告信號。上月總雨量194.1毫米，是有紀錄以來11月的第二高。
 
 在天文大潮、東北季候風及萬宜的共同影響下，11月18日晚上本港水位特別高。鰂魚涌、大澳及大埔滘水位分別上升至海圖基準面以上3.36、3.36及3.52米，全部皆是有紀錄以來11月份最高。部分低窪地區包括城門河兩旁、鯉魚門、大澳及沙頭角，出現輕微水浸。"
-滙豐私銀料明年內地經濟放緩至4.5%　中央推更多財政刺激措施,2024-12-03 15:29,,2024-12-03 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781891-20241203.htm,"滙豐環球私人銀行預計，今年內地經濟按年增長4.9%，明年放緩至4.5%，估計中央會推出更多刺激經濟的財政政策，應對明年環球市場不明朗因素帶來的風險。
-
-滙豐環球私人銀行及財富管理北亞首席投資總監何偉華預計，面對複雜的貿易環境，市場雙向波動性將會提高，下一步需要密切關注12月召開的中央經濟工作會議和政治局會議，以及明年3月的全國人大會議。他認為，中國股市回報很大程度取決於刺激需求措施的規模、時間和執行細節，對內地和香港股票保持中性看法。
-
-何偉華提到，美國潛在對其他國家加徵關稅的風險，有可能為亞洲區內貿易和跨境投資增添動力，明年日本以外的亞洲區國內生產總值增速將保持在4.4%，加上企業管治改革取得積極進展，企業盈利將推動股息增長逾7%，香港企業股息則增長3.9%。
-
-滙豐私銀相信，環球央行減息有助支持各類風險資產估值，而減稅和放寬監管將帶動美國資產，偏好配置美股及環球股票。"
 鄧炳強：港人疑被誘騙到東南亞禁錮從事非法工作有死灰復燃跡象,2024-12-03 15:29,,2024-12-03 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781890-20241203.htm,"保安局局長鄧炳強表示，今年第二季開始，港人懷疑被誘騙到東南亞國家被禁錮從事非法工作的情況有死灰復燃的跡象，執法部門陸續收到零星求助個案。今年截至11月25日，執法部門共接獲23宗相關求助個案，當中11人已回港，餘下12宗個案， 其人身自由報稱受到限制，但仍安全並能聯絡家人或當局。
 
 鄧炳強出席立法會保安事務委員會會議時說，入境處已透過外交部駐港特派員公署及國家駐當地使領館跟進，保安局專責小組亦會繼續協調執法部門的相關跟進工作。
@@ -5902,6 +5915,13 @@ The Shanghai Composite Index finished up 0.4 percent at 3,378, while the Shenzhe
 選委界周文港認為，應從源頭堵截方式入手，建議做更多網上巡邏工作，避免更多市民被誘騙到東南亞。鄧炳強說，政府會做更多宣傳教育工作，強調比起事後營救更有效率和減低傷害；同時會做好情報相關工作，包括網上巡邏和與國際合作。
 
 另外，今年截至10月底，入境處「協助在外香港居民小組」共接獲60宗港人在外遇上交通意外的求助個案。鄧炳強說，數字有所回升是因為疫後港人外遊增多有關，沒有求助個案涉及「港車北上」。"
+滙豐私銀料明年內地經濟放緩至4.5%　中央推更多財政刺激措施,2024-12-03 15:29,,2024-12-03 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781891-20241203.htm,"滙豐環球私人銀行預計，今年內地經濟按年增長4.9%，明年放緩至4.5%，估計中央會推出更多刺激經濟的財政政策，應對明年環球市場不明朗因素帶來的風險。
+
+滙豐環球私人銀行及財富管理北亞首席投資總監何偉華預計，面對複雜的貿易環境，市場雙向波動性將會提高，下一步需要密切關注12月召開的中央經濟工作會議和政治局會議，以及明年3月的全國人大會議。他認為，中國股市回報很大程度取決於刺激需求措施的規模、時間和執行細節，對內地和香港股票保持中性看法。
+
+何偉華提到，美國潛在對其他國家加徵關稅的風險，有可能為亞洲區內貿易和跨境投資增添動力，明年日本以外的亞洲區國內生產總值增速將保持在4.4%，加上企業管治改革取得積極進展，企業盈利將推動股息增長逾7%，香港企業股息則增長3.9%。
+
+滙豐私銀相信，環球央行減息有助支持各類風險資產估值，而減稅和放寬監管將帶動美國資產，偏好配置美股及環球股票。"
 越南法院駁回張美蘭上訴　維持死刑判決,2024-12-03 15:20,,2024-12-03 18:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1781889-20241203.htm,"越南官方傳媒報道，當地一個法院駁回地產大亨張美蘭貪污受賄罪的上訴，維持死刑判決。
 
 68歲的張美蘭被控金融欺詐，金額涉及125億美元，是越南歷來最大規模，她在今年4月被判處死刑。
