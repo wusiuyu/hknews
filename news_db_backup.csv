@@ -1,5 +1,5 @@
 title,date,summary,scrape_time,section,source,link,description
-'Oxfam data breach due to outdated firewalls',2025-01-23 13:10,,2025-01-23 13:16,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1788806-20250123.htm,"The Office of the Privacy Commissioner for Personal Data on Thursday said outdated firewalls and ineffective detection measures led to the data breach incident at Oxfam Hong Kong last year. 
+'Oxfam data breach due to outdated firewalls',2025-01-23 13:10,"Oxfam Hong Kong experienced a ransomware attack in July 2021, resulting in data exfiltration of over 330 GB affecting about 550,000 individuals. Leaked data included sensitive information of staff, donors, job applicants, and governance members. The Privacy Commissioner found outdated firewalls and inadequate detection measures were the cause. Oxfam retained personal data longer than necessary and was served an enforcement notice for contravention.",2025-01-23 13:16,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1788806-20250123.htm,"The Office of the Privacy Commissioner for Personal Data on Thursday said outdated firewalls and ineffective detection measures led to the data breach incident at Oxfam Hong Kong last year. 
 
 In July, the organisation suffered a ransomware attack, affecting its information systems and resulting in file encryption and data exfiltration.
 
@@ -16,7 +16,7 @@ Privacy Commissioner Ada Chung said Oxfam had not updated its firewalls since 20
 Chung added Oxfam retained some personal data for a period longer than necessary, including multiple items being held for over seven years. 
 
 The watchdog said it served an enforcement notice on Oxfam, as it contravened the data protection principle, in which the organisation will have to take measures to prevent similar contraventions in the future."
-'SME business confidence shaken by Trump policies',2025-01-23 13:09,,2025-01-23 13:16,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1788805-20250123.htm,"US President Donald Trump's incoming policies are casting a shadow over business confidence among small and medium-sized enterprises (SMEs) in the city, an economist said on Thursday. 
+'SME business confidence shaken by Trump policies',2025-01-23 13:09,"Trump's policies are causing uncertainty among SMEs in Hong Kong, leading to a drop in business confidence. Uncertainties include US rate cut expectations and potential tariffs. Around 38% of local firms cited these factors as affecting their business confidence. Lau hopes for policy easing from US and China to help maintain a modest recovery.",2025-01-23 13:16,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1788805-20250123.htm,"US President Donald Trump's incoming policies are casting a shadow over business confidence among small and medium-sized enterprises (SMEs) in the city, an economist said on Thursday. 
 
 Kelvin Lau, a senior economist at Standard Chartered Bank, said Washington has contributed to global economic uncertainties. 
 
