@@ -1,4 +1,40 @@
 title,date,summary,scrape_time,section,source,link,description
+'Oxfam data breach due to outdated firewalls',2025-01-23 13:10,,2025-01-23 13:16,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1788806-20250123.htm,"The Office of the Privacy Commissioner for Personal Data on Thursday said outdated firewalls and ineffective detection measures led to the data breach incident at Oxfam Hong Kong last year. 
+
+In July, the organisation suffered a ransomware attack, affecting its information systems and resulting in file encryption and data exfiltration.
+
+The privacy watchdog’s investigation revealed that over 330 GB of data was exfiltrated from Oxfam’s systems, potentially affecting about 550,000 subjects. 
+
+The leaked data included identity card and passport copies, credit card and bank account numbers of Oxfam staff members, donors, job applicants and governance members. 
+
+Privacy Commissioner Ada Chung said Oxfam had not updated its firewalls since 2023, and it failed to take any action despite multiple detections of suspicious activities prior to the incident.
+
+“It is a very regrettable situation, because basically we found that the data security measures adopted by Oxfam before the incident were neither adequate nor effective,” Chung said. 
+
+“That was why it was relatively easy for the hacker to gain access into Oxfam’s system, because basically the firewalls were outdated, and some of the servers had significant vulnerabilities as well.”
+
+Chung added Oxfam retained some personal data for a period longer than necessary, including multiple items being held for over seven years. 
+
+The watchdog said it served an enforcement notice on Oxfam, as it contravened the data protection principle, in which the organisation will have to take measures to prevent similar contraventions in the future."
+'SME business confidence shaken by Trump policies',2025-01-23 13:09,,2025-01-23 13:16,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1788805-20250123.htm,"US President Donald Trump's incoming policies are casting a shadow over business confidence among small and medium-sized enterprises (SMEs) in the city, an economist said on Thursday. 
+
+Kelvin Lau, a senior economist at Standard Chartered Bank, said Washington has contributed to global economic uncertainties. 
+
+""One of the biggest uncertainties recently is the retrenchment of US rate cut expectations. Secondly, it's the uncertainty around Trump's tariffs, how fast and how far he would take them higher,"" Lau said. 
+
+According to the results of a Productivity Council survey, the Standard Chartered Hong Kong SME Leading Business Index fell to 42.8 in the January-to-March period, down 2.9 points from the previous three months. Figures below 50 indicate a negative outlook, while those above 50 show a positive one. 
+
+The drop indicated the overall business confidence of local SMEs ""has become more conservative under the uncertain global economic outlook"", the council said. 
+
+Of the more than 800 local firms polled, around 38 percent said the US presidential transition had affected their business confidence. 
+
+They cited potential tariffs and changes in the economic environment as primary factors. Trump had warned of imposing a 10 percent duty on Chinese imports as soon as February 1. 
+
+“A lot of things are less to do with local issues, but more to do with external issues. But then the downside is, because it's external, there are a very few things that we can actually control about it,"" Lau said. 
+
+“We're just hoping that we can also benefit from more policy easing from the US and from China as well. Hopefully the achievement of a global soft landing will help Hong Kong maintain a modest pace of recovery.""
+
+Lau added that the first round of potential tariffs would be ""in line with market expectations"", and further hikes, which might not come until 2026, would bring more certainty to enterprises."
 調查：本港中小企營商信心轉趨保守　降至去年第3季水平,2025-01-23 12:55,,2025-01-23 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788804-20250123.htm,"生產力局公布，今年第一季「渣打香港中小企領先營商指數」綜合營商指數按季下跌2.9，降至42.8，重返去年第三季水平 ，反映環球經濟前景不明朗，本地中小企整體營商信心轉趨保守。
 
 綜合營商行業指數11個行業中，僅「地產業」輕微上升，其餘10個行業指數均下跌，當中「製造業」、「運輸、倉庫及速遞服務業」、「建造業」、「住宿及膳食服務業」，以及「進出口貿易及批發業」，錄得較大跌幅。
@@ -207,16 +243,16 @@ The financial secretary also told the founder and executive chairman of the Worl
 陳茂波之後與美國加密貨幣交易平台上市企業Coinbase的負責人員，又與瑞士再保險的高級管理層會晤，介紹香港在強化作為國際風險管理中心的工作，包括推動巨災債券等創新產品的發展。他表示，香港會繼續積極推動更多參與大型基礎設施、投資項目的各地企業，進一步利用香港進行全方位風險管理，以及爭取更多海內外企業在港設立專屬自保公司。
 
 陳茂波今日會繼續在瑞士的行程。"
-吳清：延長保險資金考核周期有助緩和市場波動對業績影響,2025-01-23 10:01,,2025-01-23 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788776-20250123.htm,"中央金融辦、中證監、人行等聯合公布推動中長期資金入市實施方案，提出要提升商業保險資金A股投資比例與穩定性等。
-
-中證監主席吳清表示，方案明確穩步提高A股投資比例規模安排，並延長保險資金考核周期，有助緩和市場波動對業績的影響，加強長期資金投資行為穩定性；建立3年以上長期考核制度等，對中長期資金入市而言是非常重要的突破，可解決多年來制約長期資金擴大投資A股的「堵點」，有利改善中長期資金投資回報並實現共贏。
-
-他舉例指，全國社保基金一直是積極參與股票投資的長期投資者，平均年化收益率達11.6%，屬於很高水平，認為主要是堅持長期價值投資的結果，未來會繼續與多部門協同配合，形成具體有利的政策舉措，各項舉措落地後，相信有助加強長期資金配置能力，穩定擴大入市規模，改善資金供應結構，鞏固資本市場回升向好，提升長期投資回報，推動資本市場平穩運行，形成良好循環。"
 伊朗當局指槍殺法官案疑犯與恐怖組織有聯繫,2025-01-23 10:01,,2025-01-23 12:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788777-20250123.htm,"伊朗當局指日前槍殺兩名法官的襲擊者，無疑是與恐怖組織有關聯的滲透者。
 
 司法部門發言人賈漢吉爾在首都德黑蘭表示，已有多名涉案疑犯落網，當中至少3人與恐怖組織有聯繫，他們正接受問話，當局稍後會公布消息。
 
 一名襲擊者於過去的星期六，在德黑蘭的伊朗最高法院大樓前開槍，擊斃法官穆吉塞及拉齊尼，一名保安人員受傷送院。事發後，襲擊者自殺身亡。根據司法部，兩名被殺法官在打擊危害國安、間諜及恐怖主義罪行中，發揮重要作用。"
+吳清：延長保險資金考核周期有助緩和市場波動對業績影響,2025-01-23 10:01,,2025-01-23 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788776-20250123.htm,"中央金融辦、中證監、人行等聯合公布推動中長期資金入市實施方案，提出要提升商業保險資金A股投資比例與穩定性等。
+
+中證監主席吳清表示，方案明確穩步提高A股投資比例規模安排，並延長保險資金考核周期，有助緩和市場波動對業績的影響，加強長期資金投資行為穩定性；建立3年以上長期考核制度等，對中長期資金入市而言是非常重要的突破，可解決多年來制約長期資金擴大投資A股的「堵點」，有利改善中長期資金投資回報並實現共贏。
+
+他舉例指，全國社保基金一直是積極參與股票投資的長期投資者，平均年化收益率達11.6%，屬於很高水平，認為主要是堅持長期價值投資的結果，未來會繼續與多部門協同配合，形成具體有利的政策舉措，各項舉措落地後，相信有助加強長期資金配置能力，穩定擴大入市規模，改善資金供應結構，鞏固資本市場回升向好，提升長期投資回報，推動資本市場平穩運行，形成良好循環。"
 人行開展4800億元人民幣14日期逆回購操作,2025-01-23 09:54,,2025-01-23 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788773-20250123.htm,人民銀行公開市場開展4800億元人民幣14日期逆回購操作，利率維持1.65厘。對沖今日3405億元逆回購到期量後，公開市場單日淨投放1395億元。
 中證監：公募基金將多方面改革　今年起進一步降低基金銷售費率,2025-01-23 09:51,,2025-01-23 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1788775-20250123.htm,"中國證監會主席吳清表示，明確公募基金持有A股流通市值，未來3年每年至少增長10%，公募基金將多方面改革，包括強化監管分類評價，引導提高權益類基金規模佔比及長期業績等指標，引導基金公司將每年利潤的約定比例，自購旗下權益類基金。
 
