@@ -1,4 +1,5 @@
 title,date,summary,scrape_time,section,source,link,description
+台股早段反彈近1%,2025-02-04 09:07,,2025-02-04 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790169-20250204.htm,台灣股市上升。加權指數較早時報22920點，升225點，升幅0.99%。
 寒冷天氣警告生效　衞生防護中心呼籲市民採取適當措施保障健康,2025-02-04 08:43,,2025-02-04 08:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790168-20250204.htm,"衞生防護中心表示，由於天氣寒冷，市民特別是長者和長期病患者應採取適當措施，保障健康。
 
 發言人提醒市民，寒冷天氣容易引起或加劇疾病，長者、心臟或呼吸系統疾病患者和其他長期病患者應特別小心。部分長者可能因為行動不便以致身體產生及保存熱能的能力減低。長者如患有慢性疾病如高血壓、糖尿病或內分泌失調等，會令他們體弱及減慢新陳代謝率，因而減少製造熱能。此外，慢性呼吸系統疾病或心臟病等長期病患者，亦會較易因氣溫驟降而令病情惡化。
@@ -59,13 +60,6 @@ title,date,summary,scrape_time,section,source,link,description
 寒冷天氣警告生效　本港今早氣溫普遍下降至約12度,2025-02-04 06:53,,2025-02-04 07:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790157-20250204.htm,"寒冷天氣警告現正生效。天文台說，受強烈東北季候風影響，本港今早氣溫普遍下降至12度左右，較昨日低兩三度。此外，覆蓋華南沿岸的雲帶將會逐漸轉薄。
 
 天文台預測，今日漸轉天晴，早上寒冷。日間乾燥，最高氣溫約17度。"
-港股美國預託證券較本港收市普遍上升,2025-02-04 06:51,,2025-02-04 07:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790155-20250204.htm,"阿里巴巴美國預託證券折合96.06港元，較本港收市升逾2%。
-
-騰訊、小米及美團的美國預託證券較本港收市升逾1%。
-
-港交所及友邦的美國預託證券較本港收市亦升逾1%。
-
-多隻內銀股的美國預託證券較本港收市升近1%。"
 美股低收　納指跌1.2%收市,2025-02-04 06:51,,2025-02-04 07:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790154-20250204.htm,"紐約股市下跌，受美國總統特朗普的關稅政策影響。
 
 道瓊斯指數收市報44421點，跌122點，跌幅0.28%。
@@ -75,6 +69,18 @@ title,date,summary,scrape_time,section,source,link,description
 標準普爾500指數報5994點，跌45點，跌幅0.76%。
 
 資訊科技同非必需消費品相關股份表現較差。晶片股沽壓仍然較大，Nvidia低收近3%。"
+港股美國預託證券較本港收市普遍上升,2025-02-04 06:51,,2025-02-04 07:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790155-20250204.htm,"阿里巴巴美國預託證券折合96.06港元，較本港收市升逾2%。
+
+騰訊、小米及美團的美國預託證券較本港收市升逾1%。
+
+港交所及友邦的美國預託證券較本港收市亦升逾1%。
+
+多隻內銀股的美國預託證券較本港收市升近1%。"
+特朗普同意暫緩對加拿大及墨西哥加徵關稅措施,2025-02-04 06:50,,2025-02-04 07:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790156-20250204.htm,"美國總統特朗普分別同加拿大總理魯多，及墨西哥辛鮑姆通電話，同意暫緩對兩國加徵關稅。至於對中國加徵關稅的問題，特朗普說，可能會在24小時內，與中國進行談判。
+
+特朗普星期一兩度同加拿大總理杜魯多通電話，在最新一次通話後，證實美國對加拿大加徵關稅的措施，將暫緩30天實施。杜魯多表示，加拿大亦放棄實施報復性關稅，並實施一系列邊境措施，包括在用新的直升機及技術，又會在邊境部署近1萬名前線人員加強保衛邊境。
+
+特朗普較早時同墨西哥總統辛鮑姆通電話後，亦同意將加徵關稅措施立即暫緩一個月執行，墨西哥將立即派遣1萬名國民警衛隊人員加強北部邊境巡邏，以阻止非法毒品、特別是芬太尼進入美國境內。"
 美元匯價反覆,2025-02-04 06:50,,2025-02-04 07:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790153-20250204.htm,"美元兌主要貨幣走勢反覆。
 
 歐元兌美元曾跌至1.0125，跌幅逾2%，跌至2022年11月以來低位，隨後回升，較早時報1.034美元。
@@ -82,11 +88,6 @@ title,date,summary,scrape_time,section,source,link,description
 美元兌日圓跌至154.7左右。
 
 墨西哥披索兌美元曾跌至近3年低位，但墨西哥同意加派國民警衛隊到北部邊境加強打擊販毒活動後，美國暫緩對墨西哥加徵關稅一個月以進行磋商，刺激墨西哥披索兌美元反彈逾1%。"
-特朗普同意暫緩對加拿大及墨西哥加徵關稅措施,2025-02-04 06:50,,2025-02-04 07:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790156-20250204.htm,"美國總統特朗普分別同加拿大總理魯多，及墨西哥辛鮑姆通電話，同意暫緩對兩國加徵關稅。至於對中國加徵關稅的問題，特朗普說，可能會在24小時內，與中國進行談判。
-
-特朗普星期一兩度同加拿大總理杜魯多通電話，在最新一次通話後，證實美國對加拿大加徵關稅的措施，將暫緩30天實施。杜魯多表示，加拿大亦放棄實施報復性關稅，並實施一系列邊境措施，包括在用新的直升機及技術，又會在邊境部署近1萬名前線人員加強保衛邊境。
-
-特朗普較早時同墨西哥總統辛鮑姆通電話後，亦同意將加徵關稅措施立即暫緩一個月執行，墨西哥將立即派遣1萬名國民警衛隊人員加強北部邊境巡邏，以阻止非法毒品、特別是芬太尼進入美國境內。"
 杜魯多︰美國同意推遲30天徵收關稅,2025-02-04 05:53,,2025-02-04 06:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790152-20250204.htm,加拿大總理杜魯多表示，同美國總統特朗普通電話後，美國同意推遲30天徵收關稅。
 US stocks join global markets' retreat on tariff news,2025-02-04 05:35,"US markets decreased on Monday, influenced by international market drops after Trump announced tariffs on Canada, Mexico, and China. Trump later suspended tariffs on Mexico for 30 days. Major indices fell: Dow -0.3%, S&P 500 -0.8%, Nasdaq -1.2%. Tariffs expected to increase costs and lower growth. Sectors like automakers, homebuilders, and agricultural equipment manufacturers were impacted the most, while finance, insurance, and telecom saw muted reactions. Key upcoming events include earnings from Alphabet and Ford, along with US jobs data.",2025-02-04 05:44,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1790151-20250204.htm,"US markets ended lower on Monday, following falls in overseas markets after US President Trump announced tariffs on Canada, Mexico and China.
 
@@ -164,12 +165,12 @@ Apart from trade talks, key events this week include quarterly earnings from Goo
 
 夏巴茲指出，中國援建的瓜達爾新國際機場已正式投入運營，標誌著俾路支省在加強區域互聯互通上邁出重要一步。與此同時，瓜達爾港具有廣闊發展前景，有助於加強巴基斯坦與中亞、東南亞等地的交流。"
 解放軍南部戰區稱中方艦艇編隊正常過航　批評菲方污蔑炒作,2025-02-04 00:39,,2025-02-04 00:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790139-20250204.htm,解放軍南部戰區新聞發言人表示，南部戰區昨日組織海空兵力，經巴西蘭海峽赴遠海開展演訓，相關行動始終保持安全、規範和專業操作，完全符合國際法和國際實踐，批評菲方就中方艦艇編隊正常過航行為進行污蔑炒作，嚴重損害包括中國在內的其他國家正常航運航行權利。
-特朗普暫緩對墨西哥徵收關稅一個月　兩國繼續談判,2025-02-04 00:19,,2025-02-04 04:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790138-20250204.htm,"美國總統特朗普決定，暫緩對墨西哥徵收關稅一個月，並將繼續談判以達成兩國之間的協議。
+特朗普決定暫緩對墨西哥徵收關稅一個月,2025-02-04 00:19,,2025-02-04 00:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790138-20250204.htm,"美國總統特朗普決定，暫緩對墨西哥徵收關稅一個月，並將繼續談判以達成兩國之間的協議。
 
 特朗普與墨西哥總統辛鮑姆當地星期一通電話，他在社交網站表示，在經過非常友好的談話後，同意立即暫停對墨西哥徵收關稅，又說將與美國國務院、財政部和商務部的負責人商談。
 
 辛鮑姆表示，她與特朗普達成一系列協議。墨西哥將立即派遣1萬名國民警衛隊人員加強北部邊境巡邏，以防止從墨西哥向美國販運芬太尼等毒品。美國承諾努力防止向墨西哥販運大威力武器。雙方團隊將從即日起在安全和貿易兩個方面繼續開展工作。"
-特朗普決定暫緩對墨西哥徵收關稅一個月,2025-02-04 00:19,,2025-02-04 00:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790138-20250204.htm,"美國總統特朗普決定，暫緩對墨西哥徵收關稅一個月，並將繼續談判以達成兩國之間的協議。
+特朗普暫緩對墨西哥徵收關稅一個月　兩國繼續談判,2025-02-04 00:19,,2025-02-04 04:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790138-20250204.htm,"美國總統特朗普決定，暫緩對墨西哥徵收關稅一個月，並將繼續談判以達成兩國之間的協議。
 
 特朗普與墨西哥總統辛鮑姆當地星期一通電話，他在社交網站表示，在經過非常友好的談話後，同意立即暫停對墨西哥徵收關稅，又說將與美國國務院、財政部和商務部的負責人商談。
 
@@ -726,11 +727,6 @@ In a statement, Hong Kong's Security Bureau said a task force it set up in respo
 It added that the task force will ""continue to actively assist and follow up on all relevant request-for-assistance cases of Hong Kong residents who have yet to return"".
 
 Several SAR residents are still believed to be being held prisoner by criminal gangs in Southeast Asia."
-特朗普稱將與加墨領導人討論關稅問題　又稱值得付出代價,2025-02-03 11:40,,2025-02-03 11:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790057-20250203.htm,"美國總統特朗普簽署行政命令，向中國、加拿大、墨西哥進口商品加徵關稅後，表示將會與加墨兩國領導人姆通話。
-
-特朗普說，加徵關稅可能帶來痛苦，但值得付出代價。
-
-加拿大和墨西哥已下令對美國進口產品徵收報復式關稅。"
 余偉文：利率仍向下調方向走　減速或不及預期快,2025-02-03 11:40,,2025-02-03 11:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790056-20250203.htm,"金管局總裁余偉文預計，未來1年投資環境困難，例如有某些政策推出，今早無論匯價、 股市都波動。
 
 余偉文在立法會財經事務委員會會議上說，利率仍向下調方向走，但減速可能沒有預期快，好處是外匯基金的債券收入會保持穩定，因為是利率收入，但若利率因為關稅、通脹、或美國財政情況而上升，對債價有影響，當局會以穩健方式作部署，有防禦性配置，例如投資較短期債券、持有較多現金及分散投資。
@@ -742,6 +738,11 @@ Several SAR residents are still believed to be being held prisoner by criminal g
 他強調，現時環境下要詳細考慮，因為外圍環境變化大，若進行調撥，要考慮會否影響市場對外匯儲備是否有足夠防禦貨幣金融穩定的信心，亦要考慮觀感問題，市場會否猜測有第二次調撥等，若信心動搖，資金會移動得好快，影響很難逆轉，因此要小心。
 
 他強調，與政府分帳安排在2007年開始，一直行之有效，亦較有預測性，不會令庫房突然失預算。"
+特朗普稱將與加墨領導人討論關稅問題　又稱值得付出代價,2025-02-03 11:40,,2025-02-03 11:58,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790057-20250203.htm,"美國總統特朗普簽署行政命令，向中國、加拿大、墨西哥進口商品加徵關稅後，表示將會與加墨兩國領導人姆通話。
+
+特朗普說，加徵關稅可能帶來痛苦，但值得付出代價。
+
+加拿大和墨西哥已下令對美國進口產品徵收報復式關稅。"
 疑被誘騙到東南亞港人家屬到泰國駐港總領館遞請願信,2025-02-03 11:24,,2025-02-03 11:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790055-20250203.htm,"兩名懷疑被誘騙到東南亞遭禁錮從事非法工作的港人，他們的家屬到泰國駐港總領事館遞交請願信，希望泰國當局協助事主回港。
 
 家屬表示，知道昨日再有多一名港人獲救，感到百感交集，一方面為對方高興，另一方面自己的家人仍然被困；之前仍然可以報平安，但日前透露可能會轉到另一個園區後便失去聯絡。家屬希望特區政府和泰國政府提供協助，讓家人能夠平安回港。
@@ -830,7 +831,7 @@ Asked when the probiotics would be available for sale, Ng said the university wo
 他又提到，利率在未來一段時間是不明朗，方向仍然向下，但幅度和步伐要視乎通脹發展。
 
 另外，余偉文表示，最近因為外圍環境較波動，市場有意見表達聯匯是否最適合香港，但部分專業評論員、分析員都差不多一致認為，聯匯是最適合香港的貨幣制度，國際貨幣基金組織亦認為聯匯最適合香港。金管局早前文章亦指出，香港是細小又開放的經濟體，非常依賴貿易和金融，這些對貨幣穩定是極其重要，他重申無須要亦無意改變聯匯制度。"
-陳茂波稱對港股表現有堅定信心　謹慎看好蛇年市況亦樂見更好,2025-02-03 10:30,,2025-02-03 10:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790044-20250203.htm,"財政司司長陳茂波表示，謹慎看好蛇年市況，亦樂見更好。
+陳茂波稱對港股表現有堅定信心　審慎看好蛇年市況亦樂見更好,2025-02-03 10:30,,2025-02-03 11:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790044-20250203.htm,"財政司司長陳茂波表示，審慎看好蛇年市況，亦樂見更好。
 
 他出席港交所新春開市儀式致辭說，今年投資環境面對地緣政治、貿易關稅、減息速度慢於預期等挑戰。他曾詢問數個熱門人工智能大模型，綜合推論，來年包括要「巧若靈蛇、順勢前行」，對危機及變化敏銳，再多障礙亦無阻前進的大方向。
 
@@ -839,7 +840,7 @@ Asked when the probiotics would be available for sale, Ng said the university wo
 陳茂波提到政府與監管機構及交易所一直從多方面優化香港市場，拓展內聯外通獨特優勢，包括簡化上市流程等，未來一年將會有更多制度創新，接通不同地域市場。
 
 他說在目前的地緣政治格局下，香港成為內地企業境外上市的首選據點，亦是國際企業要佈局中國與亞洲市場的首選通道，當局會把握好歷史機遇，在變局中開新局，全面發揮香港國際化、高效及專業的平台角色及功能，更好匯聚境內外資金、人才、企業及項目，讓香港成為區內最便捷的一站式資源匯聚中心。"
-陳茂波稱對港股表現有堅定信心　審慎看好蛇年市況亦樂見更好,2025-02-03 10:30,,2025-02-03 11:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790044-20250203.htm,"財政司司長陳茂波表示，審慎看好蛇年市況，亦樂見更好。
+陳茂波稱對港股表現有堅定信心　謹慎看好蛇年市況亦樂見更好,2025-02-03 10:30,,2025-02-03 10:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790044-20250203.htm,"財政司司長陳茂波表示，謹慎看好蛇年市況，亦樂見更好。
 
 他出席港交所新春開市儀式致辭說，今年投資環境面對地緣政治、貿易關稅、減息速度慢於預期等挑戰。他曾詢問數個熱門人工智能大模型，綜合推論，來年包括要「巧若靈蛇、順勢前行」，對危機及變化敏銳，再多障礙亦無阻前進的大方向。
 
@@ -900,14 +901,14 @@ Asked when the probiotics would be available for sale, Ng said the university wo
 離島工商業聯合會會長楊景開說，新措施可平衡居民和旅客出行安全，避免人車爭路，同時亦希望透過節日的社區活動，帶動內部和旅客線下消費。
 
 他又提到，近年出現商舖租金急升又或舖位空置的兩極現象，希望政府研究對策，包括如何優化申領牌照手續等，以減低中小企的營商憂慮和壓力。"
+本港九九金蛇年高開　開市報每両25928元,2025-02-03 09:27,,2025-02-03 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790033-20250203.htm,"香港黃金交易所舉行新春開市儀式，本港九九金高開，每両開市報25928元，較龍年最後一個交易日高328元。
+
+離岸人民幣公斤條第一口成交價每克660.08元人民幣。"
 特朗普稱將與加拿大及墨西哥領導人通話,2025-02-03 09:27,,2025-02-03 09:43,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790034-20250203.htm,"美國總統特朗普說，將於當地星期一早上，同加拿大總理杜魯多及墨西哥總統辛鮑姆通話。
 
 他又說， 將會「很快 」對來自歐盟的商品徵收關稅。
 
 特朗普早前在社交平台談論自己早前簽署行政命令，對從中國進口的商品額外加徵10%關稅，以及對進口自墨西哥、加拿大兩國的商品加徵25%關稅的決定。他在帖文中說，加徵關稅「或者會，或者不會」帶來痛苦，但認為值得付出代價。"
-本港九九金蛇年高開　開市報每両25928元,2025-02-03 09:27,,2025-02-03 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790033-20250203.htm,"香港黃金交易所舉行新春開市儀式，本港九九金高開，每両開市報25928元，較龍年最後一個交易日高328元。
-
-離岸人民幣公斤條第一口成交價每克660.08元人民幣。"
 農曆新年首個交易日　港股低開176點　考驗2萬點支持,2025-02-03 09:25,,2025-02-03 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790032-20250203.htm,"港股農曆新年首個交易日開市偏軟，考驗2萬點支持。
 
 恒生指數競價時段報20048點，跌176點，跌幅0.87%。
@@ -934,18 +935,18 @@ ATMXJ個別發展，京東集團跌近3%，阿里巴巴升近5%。"
 中大醫學院香港微生物菌群創新中心聯合總監陳家亮表示，以往的家長會讓子女在地上爬行活動，但現時家長則較為緊張，很多時都要消毒清潔所有東西才讓子女接觸。他強調過份著重消毒的衞生習慣，趕走人體的好菌及壞菌，導致腸道微生態生衡惡化，如市民繼續沿用疫情時的過度消毒習慣，擔心相關情況會持續。
 
 中大醫學院表示，兒童要有健康身體，飲食需要均衡，多吃蔬果等纖維，有助製造益菌，而充足的戶外活動同樣重要。"
-歐盟對美國向加拿大、墨西哥和中國加徵關稅表示遺憾,2025-02-03 07:52,,2025-02-03 08:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790025-20250203.htm,"歐盟對美國決定對進口自加拿大、墨西哥和中國的商品加徵關稅表示遺憾，認為關稅會造成不必要的經濟混亂並推動通脹，對各方都有害。
-
-歐盟委員會發言人說，開放市場和尊重國際貿易規則對於實現強勁和可持續的經濟增長至關重要。歐盟仍然致力於通過低關稅促進增長和經濟穩定，並維護一個強而有力、基於規則的貿易體系。
-
-發言人又說，目前尚未獲悉任何針對歐盟產品的額外關稅，歐盟將「堅決回應」任何對歐盟商品不公平或任意加徵關稅的貿易伙伴。
-
-美國總統特朗普早前多次威脅對歐盟輸往美國的商品加徵關稅。"
 歐盟稱將堅決回應任何對歐盟商品加徵關稅做法,2025-02-03 07:52,,2025-02-03 08:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790025-20250203.htm,"歐盟委員會說，目前尚未獲悉任何針對歐盟產品的額外關稅，歐盟將「堅決回應」任何對歐盟商品不公平或任意加徵關稅的貿易伙伴。
 
 發言人說，歐盟對美國決定向進口自加拿大、墨西哥和中國的商品加徵關稅表示遺憾，認為關稅會造成不必要的經濟混亂並帶動通脹，對各方都有害。
 
 發言人說，開放市場和尊重國際貿易規則對於實現強勁和可持續的經濟增長至關重要。歐盟仍然致力於在一個強而有力、基於規則的貿易體系內，通過低關稅促進增長和經濟穩定，並重申歐盟對維持與美國貿易和投資關係的承諾。
+
+美國總統特朗普早前多次威脅對歐盟輸往美國的商品加徵關稅。"
+歐盟對美國向加拿大、墨西哥和中國加徵關稅表示遺憾,2025-02-03 07:52,,2025-02-03 08:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790025-20250203.htm,"歐盟對美國決定對進口自加拿大、墨西哥和中國的商品加徵關稅表示遺憾，認為關稅會造成不必要的經濟混亂並推動通脹，對各方都有害。
+
+歐盟委員會發言人說，開放市場和尊重國際貿易規則對於實現強勁和可持續的經濟增長至關重要。歐盟仍然致力於通過低關稅促進增長和經濟穩定，並維護一個強而有力、基於規則的貿易體系。
+
+發言人又說，目前尚未獲悉任何針對歐盟產品的額外關稅，歐盟將「堅決回應」任何對歐盟商品不公平或任意加徵關稅的貿易伙伴。
 
 美國總統特朗普早前多次威脅對歐盟輸往美國的商品加徵關稅。"
 曼聯前鋒拉舒福特外借阿士東維拉,2025-02-03 07:24,,2025-02-03 07:44,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790024-20250203.htm,"英超曼聯陣中不受重用的拉舒福特，以借用形式轉投阿士東維拉。
@@ -1114,17 +1115,17 @@ Officials in Zhuhai said people were having to wait more than 40 minutes for ins
 中方堅決反對，並表示會採取相應反制措施，會向世貿組織提出訴訟。
 
 同樣被美國加徵關稅的加拿大和墨西哥宣布，會向美國徵收報復性關稅，加拿大總理杜魯多說，關稅將對美國民眾產生實際影響，批評關稅違反兩國的自由貿易協定。"
-截至下午4時　逾18萬4千人次本地居民返港,2025-02-02 17:58,,2025-02-02 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789992-20250202.htm, 
-截至下午4時　逾32萬人次入境　逾18萬4千人次為香港居民,2025-02-02 17:58,,2025-02-02 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789992-20250202.htm,"入境處表示，截至下午4時，各口岸共有58萬8千人次出入境，其中有超過18萬4千人次本地居民回港，最多人經羅湖口岸入境，另有超過14萬人次內地旅客來港。
-
-出境方面，有約24萬5千人次出境，其中內地旅客有6萬3千多人次，最多人經港珠澳大橋離港，接近1萬5千人次。
-
-珠海口岸微信小程序顯示，小客車出境港澳的通道下午一度出現極度高峰，檢查點車龍超過500米，候檢需時超過40分鐘。"
 截至下午4時　逾34萬人次入境　逾18萬4千人次為香港居民,2025-02-02 17:58,,2025-02-02 18:43,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789992-20250202.htm,"入境處表示，截至下午4時，各口岸共有58萬8千人次出入境，其中有超過18萬4千人次本地居民回港，最多人經羅湖口岸入境，另有超過14萬人次內地旅客來港。
 
 出境方面，有約24萬5千人次出境，其中內地旅客有6萬3千多人次，最多人經港珠澳大橋離港，接近1萬5千人次。
 
 珠海口岸微信小程序顯示，小客車出境港澳的通道下午一度出現極度高峰，檢查點車龍超過500米，候檢需時超過40分鐘。"
+截至下午4時　逾32萬人次入境　逾18萬4千人次為香港居民,2025-02-02 17:58,,2025-02-02 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789992-20250202.htm,"入境處表示，截至下午4時，各口岸共有58萬8千人次出入境，其中有超過18萬4千人次本地居民回港，最多人經羅湖口岸入境，另有超過14萬人次內地旅客來港。
+
+出境方面，有約24萬5千人次出境，其中內地旅客有6萬3千多人次，最多人經港珠澳大橋離港，接近1萬5千人次。
+
+珠海口岸微信小程序顯示，小客車出境港澳的通道下午一度出現極度高峰，檢查點車龍超過500米，候檢需時超過40分鐘。"
+截至下午4時　逾18萬4千人次本地居民返港,2025-02-02 17:58,,2025-02-02 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789992-20250202.htm, 
 啟德體育園主場館周二晚再演練　將首次打開天幕並監察音量,2025-02-02 17:57,,2025-02-02 18:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789990-20250202.htm,"啟德體育園主場館將於周二晚再次演練，會舉行一場港超聯U-22足球賽，預計有5萬人參與。
 
 當局表示，當晚將首次打開天幕，環保署會監察場內場外的音量水平，以減低對附近居民的影響。"
@@ -1177,7 +1178,7 @@ But the resulting inflationary pressures in the US will also affect Hong Kong, h
 ""This adds to the burden of business and affects the business environment and to a degree adds constraints to asset markets. These are things that we have to fully consider.""
 
 Chan said the SAR government has made plans to deal with potential Trump policies, describing the president's governance style as ""rather extreme at times""."
-'Subsidies for the elderly must be retained',2025-02-02 15:40,"Community activists urge Financial Secretary Paul Chan to prioritize elderly support spending. Elderly individuals express concerns about potential changes to public transport subsidies, affecting their livelihoods and access to healthcare. Lawmaker Tik Chi-yuen highlights the social mobility benefits of the subsidy, while SoCo calls for protection of various subsidies, including carer allowance and community healthcare schemes. Elderly individuals share financial struggles, including skipping meals and difficulty accessing medical care. Lawmaker Lam Chun-sing suggests relaxing carer allowance eligibility requirements.",2025-02-03 16:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789976-20250202.htm,"Community activists are urging Financial Secretary Paul Chan to ring-fence spending on support for elderly people and look elsewhere as he seeks to balance the books.
+Subsidies for the elderly must be retained: SoCo,2025-02-02 15:40,"Community activists urge Financial Secretary to prioritize elderly support, with concerns about public transport subsidy changes affecting elderly workers. SoCo advocates protecting subsidies like carer allowance and community healthcare. Elderly individuals share struggles with living expenses, including skipping meals and difficulty accessing medical care. Lawmaker Lam Chun-sing suggests relaxing carer allowance eligibility requirements.",2025-02-02 15:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789976-20250202.htm,"Community activists are urging Financial Secretary Paul Chan to ring-fence spending on support for elderly people and look elsewhere as he seeks to balance the books.
 
 The Society for Community Organisation (SoCo) invited lawmakers Andrew Lam, Lam Chun-sing, David Lam and Tik Chi-yuen to a sharing session on Sunday to hear public concerns about living expenses, including worries about possible changes to a scheme that allows the over 60s to use public transport for just HK$2 per trip.
 
@@ -1204,7 +1205,7 @@ Meanwhile a woman in her seventies told the lawmakers that she struggled to look
 The woman said she is not eligible for a carer allowance of up to HK$3,000 because she gets Comprehensive Social Security Assistance and the Old Age Living Allowance.
 
 In response, Lam Chun-sing said the government should consider relaxing the eligibility requirements for the carer allowance so people in the woman's situation can receive a portion of the subsidy."
-Subsidies for the elderly must be retained: SoCo,2025-02-02 15:40,"Community activists urge Financial Secretary to prioritize elderly support, with concerns about public transport subsidy changes affecting elderly workers. SoCo advocates protecting subsidies like carer allowance and community healthcare. Elderly individuals share struggles with living expenses, including skipping meals and difficulty accessing medical care. Lawmaker Lam Chun-sing suggests relaxing carer allowance eligibility requirements.",2025-02-02 15:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789976-20250202.htm,"Community activists are urging Financial Secretary Paul Chan to ring-fence spending on support for elderly people and look elsewhere as he seeks to balance the books.
+'Subsidies for the elderly must be retained',2025-02-02 15:40,"Community activists urge Financial Secretary Paul Chan to prioritize elderly support spending. Elderly individuals express concerns about potential changes to public transport subsidies, affecting their livelihoods and access to healthcare. Lawmaker Tik Chi-yuen highlights the social mobility benefits of the subsidy, while SoCo calls for protection of various subsidies, including carer allowance and community healthcare schemes. Elderly individuals share financial struggles, including skipping meals and difficulty accessing medical care. Lawmaker Lam Chun-sing suggests relaxing carer allowance eligibility requirements.",2025-02-03 16:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789976-20250202.htm,"Community activists are urging Financial Secretary Paul Chan to ring-fence spending on support for elderly people and look elsewhere as he seeks to balance the books.
 
 The Society for Community Organisation (SoCo) invited lawmakers Andrew Lam, Lam Chun-sing, David Lam and Tik Chi-yuen to a sharing session on Sunday to hear public concerns about living expenses, including worries about possible changes to a scheme that allows the over 60s to use public transport for just HK$2 per trip.
 
@@ -1326,16 +1327,16 @@ The minister said, however, that the government will minimise the effects of exp
 
 周一鳴又說，今次演練的日子與之前不同，並非安排在周末，而是平日的星期二，翌日需要上班，預料散場時觀眾都會隨即離開園區，以便測試短時間內消化人流的能力。"
 周二啟德主場館足球賽演練5萬人參與　首次開天幕並監測音量水平,2025-02-02 11:17,,2025-02-02 11:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789963-20250202.htm, 
-陳茂波稱政府各部門須加大力度節流　教育醫療有節約空間,2025-02-02 10:59,,2025-02-02 11:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789962-20250202.htm,"財政司司長陳茂波表示，面對財政赤字，政府要開源節流，以「節流」為主，「開源」為輔，政府各部門都要加大力度節流，部門開支必定要減少，在教育、醫療支出方面亦有節約空間。本港大學有一定的財政儲備，需要善用儲備並開拓其他收入，讓政府有2至3年時間鞏固財政實力。
-
-對於有意見提出公務員減薪或凍薪，陳茂波出席一個節目時說，要考慮公務員薪津的任何變動對私人市場的影響。不少私人企業調整薪金時都會參考政府薪酬，現時本港經濟正在增長，失業率很低，與2003年公務員凍薪時的經濟環境不同。他認為，政府節流同時亦要兼顧社會現實，不能操之過急，令政府削減開支時不影響公共服務，並將對社會的負面影響減至最低。 
-
-他又指，「長者2元乘車優惠」政策原意非常好，但受惠年齡當年由65歲下調至60歲後，受惠人群和增長幅度很大，社會有共識認為相關政策不作改動的話，財政上並不可行。至於如何調整，政府會收集意見和評估，正研究不同方案，同時亦要打擊濫用優惠。"
 中方堅決反對美國加徵關稅　將向世貿提出訴訟並採取反制措施,2025-02-02 10:59,,2025-02-02 11:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789961-20250202.htm,"中國商務部對美國對中國輸美產品加徵10%關稅表達強烈不滿，堅決反對。 
 
 發言人說，美方單邊加徵關稅嚴重違反世貿組織規則，不僅無益於解決自身問題，也對中美正常經貿合作造成破壞。對於美方的錯誤做法，中方將向世貿組織提出訴訟，並將採取相應反制措施堅定維護自身權益。 
 
 商務說，中方希望美方客觀、理性看待和處理自身芬太尼等問題，而不是動輒以關稅手段威脅他國。中方敦促美方糾正錯誤做法，與中方相向而行，在平等互利、相互尊重基礎上，直面問題，坦誠對話，加強合作，管控分歧。"
+陳茂波稱政府各部門須加大力度節流　教育醫療有節約空間,2025-02-02 10:59,,2025-02-02 11:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789962-20250202.htm,"財政司司長陳茂波表示，面對財政赤字，政府要開源節流，以「節流」為主，「開源」為輔，政府各部門都要加大力度節流，部門開支必定要減少，在教育、醫療支出方面亦有節約空間。本港大學有一定的財政儲備，需要善用儲備並開拓其他收入，讓政府有2至3年時間鞏固財政實力。
+
+對於有意見提出公務員減薪或凍薪，陳茂波出席一個節目時說，要考慮公務員薪津的任何變動對私人市場的影響。不少私人企業調整薪金時都會參考政府薪酬，現時本港經濟正在增長，失業率很低，與2003年公務員凍薪時的經濟環境不同。他認為，政府節流同時亦要兼顧社會現實，不能操之過急，令政府削減開支時不影響公共服務，並將對社會的負面影響減至最低。 
+
+他又指，「長者2元乘車優惠」政策原意非常好，但受惠年齡當年由65歲下調至60歲後，受惠人群和增長幅度很大，社會有共識認為相關政策不作改動的話，財政上並不可行。至於如何調整，政府會收集意見和評估，正研究不同方案，同時亦要打擊濫用優惠。"
 陳茂波：未來要加快經濟增長　創造好的就業職位,2025-02-02 10:40,,2025-02-02 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789960-20250202.htm,"財政司司長陳茂波表示，本港經濟穩步向前，未來要加快經濟增長，創造好的就業職位。
 
 陳茂波出席一個電台節目時又說，在現時全球格局之下，多邊合作、雙邊合作和區域合作將越來越重要，不同國家都會合作追求共同利益，西方國家認為香港是比較熟識的市場，可通過香港投資內地，縱使全球地緣政治風雲變幻，香港仍要發揮自身優勢，舉辦多些盛事活動，吸引一些有影響力的人士訪港，然後讓他們到內地進一步了解中國市場。
@@ -1343,9 +1344,9 @@ The minister said, however, that the government will minimise the effects of exp
 被問到特朗普再次擔任美國總統後，部分國家會否要被迫選邊站隊，陳茂波說，各國都會計算自身的利益，例如東南亞國家犯不著得失美國，亦不會被美國牽著鼻子走，他們會嘗試作出平衡、左右逢源，近年不少中國企業為免受美國關稅影響，亦已將部分生產線遷到東南亞。
 
 美國總統特朗普簽署行政命令，對中國進口美國的商品加徵10% 關稅，陳茂波說，對於美國可能採取的不同措施，特區政府都有預案應對，他亦相信增加關稅可能對美國本土的影響更大，商家會將成本轉嫁給消費者，加上美國增加本土基建，預計美國的通脹會加劇。"
-杜魯多：加拿大將對總值1550億加元美國商品徵收25%關稅,2025-02-02 10:36,,2025-02-02 16:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789959-20250202.htm,"美國總統特朗普簽署行政命令，星期二起對從加拿大、墨西哥和中國進口的商品加徵關稅。墨西哥、加拿大兩國進口的商品加徵25%的關稅，加拿大的能源產品稅率10%，而中國的商品將在現有基礎上，加徵10%關稅。
+杜魯多：加拿大將對總值1550億加元的美國商品徵收25%關稅,2025-02-02 10:36,,2025-02-02 10:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789959-20250202.htm,"美國總統特朗普簽署行政命令，星期二起對從加拿大、墨西哥和中國進口的商品加徵關稅。墨西哥、加拿大兩國進口的商品加徵25%的關稅，加拿大的能源產品稅率10%，而中國的商品將在現有基礎上，加徵10%關稅。
 
-加拿大總理杜魯多宣布，將對總值1550億加元的美國商品徵收25%的關稅，並從星期二起先對價值300億加元的商品徵稅，隨後在21日內對其餘1250億加元的美國產品徵收進一步關稅。
+加拿大總理杜魯多宣布，將對總值1550億加元的美國商品徵收25%的關稅，並從星期二起先對價值300億加元的商品徵稅，隨後在21日內對其餘1250億美元的美國產品徵收進一步關稅。
 
 加拿大將對美國的啤酒、葡萄酒、食品和家用電器加徵關稅，並考慮對關鍵礦產採取措施。
 
@@ -1354,9 +1355,9 @@ The minister said, however, that the government will minimise the effects of exp
 他敦促加拿大人購買加拿大產品，考慮在加拿大度假。
 
 而墨西哥總統辛鲍姆說，墨西哥將採取反制措施，包括報復性關稅。"
-杜魯多：加拿大將對總值1550億加元的美國商品徵收25%關稅,2025-02-02 10:36,,2025-02-02 10:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789959-20250202.htm,"美國總統特朗普簽署行政命令，星期二起對從加拿大、墨西哥和中國進口的商品加徵關稅。墨西哥、加拿大兩國進口的商品加徵25%的關稅，加拿大的能源產品稅率10%，而中國的商品將在現有基礎上，加徵10%關稅。
+杜魯多：加拿大將對總值1550億加元美國商品徵收25%關稅,2025-02-02 10:36,,2025-02-02 16:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789959-20250202.htm,"美國總統特朗普簽署行政命令，星期二起對從加拿大、墨西哥和中國進口的商品加徵關稅。墨西哥、加拿大兩國進口的商品加徵25%的關稅，加拿大的能源產品稅率10%，而中國的商品將在現有基礎上，加徵10%關稅。
 
-加拿大總理杜魯多宣布，將對總值1550億加元的美國商品徵收25%的關稅，並從星期二起先對價值300億加元的商品徵稅，隨後在21日內對其餘1250億美元的美國產品徵收進一步關稅。
+加拿大總理杜魯多宣布，將對總值1550億加元的美國商品徵收25%的關稅，並從星期二起先對價值300億加元的商品徵稅，隨後在21日內對其餘1250億加元的美國產品徵收進一步關稅。
 
 加拿大將對美國的啤酒、葡萄酒、食品和家用電器加徵關稅，並考慮對關鍵礦產採取措施。
 
@@ -1557,14 +1558,14 @@ Ho explained that the figure includes completed units that are still unsold, uni
 The housing minister stressed that the administration has been consistent in how they release data, and such information can be traced back for more than a decade to avoid confusion. 
 
 She also noted that nearly 19,000 private flats had been completed each year over the past five years, saying this shows the government’s success in balancing demand and supply."
-19個月大男童未有接種流感疫苗　感染甲流後情況危殆,2025-02-01 19:45,,2025-02-01 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789925-20250201.htm,"一名19個月大男童感染甲型流感後情況危殆，臨床診斷為甲型流感併發嚴重肺炎，目前仍然留醫，他未有接種季節性流感疫苗。
+19個大男童未有接種流感疫苗　感染甲流後情況危殆,2025-02-01 19:45,,2025-02-01 19:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789925-20250201.htm,"一名19個月大男童感染甲型流感後情況危殆，臨床診斷為甲型流感併發嚴重肺炎，目前仍然留醫，他未有接種季節性流感疫苗。
 
 本港上月進入流感季節以來，已累計接獲9宗兒童感染流感病毒嚴重個案，當中7宗未有撞種疫苗。當局預計，流感活躍程度會進一步攀升，其他呼吸道傳染病的活躍程度亦可能會上升。
 
 衞生防護中心表示，這宗最新個案，男童以往健康良好，自星期四起發燒及咳嗽，昨日到浸會醫院求醫，其後被轉介至廣華醫院，目前仍在兒童深切治療部留醫。男童在潛伏期內並無外遊，他的家居接觸者暫時沒有病徵。
 
 中心表示，截至1月26日，6個月至未滿兩歲幼兒的季節性流感疫苗接種率仍處於較低水平，約為20.9%。雖然較去年同期輕微上升，但仍比其他年齡組群兒童的接種率為低。中心呼籲仍未接種季節性流感疫苗的人士，立即行動，以減低重症和死亡的風險。"
-19個大男童未有接種流感疫苗　感染甲流後情況危殆,2025-02-01 19:45,,2025-02-01 19:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789925-20250201.htm,"一名19個月大男童感染甲型流感後情況危殆，臨床診斷為甲型流感併發嚴重肺炎，目前仍然留醫，他未有接種季節性流感疫苗。
+19個月大男童未有接種流感疫苗　感染甲流後情況危殆,2025-02-01 19:45,,2025-02-01 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789925-20250201.htm,"一名19個月大男童感染甲型流感後情況危殆，臨床診斷為甲型流感併發嚴重肺炎，目前仍然留醫，他未有接種季節性流感疫苗。
 
 本港上月進入流感季節以來，已累計接獲9宗兒童感染流感病毒嚴重個案，當中7宗未有撞種疫苗。當局預計，流感活躍程度會進一步攀升，其他呼吸道傳染病的活躍程度亦可能會上升。
 
@@ -2029,6 +2030,11 @@ Concerns over Trump's trade tactics pushed gold to new records above US$2,800 an
 其他抽籤結果還有，比斯特對巴黎聖日耳門，賓菲加對摩納哥，祖雲達斯對燕豪芬，飛燕諾對AC米蘭，布魯日對阿特蘭大，以及士砵亭對多蒙特。
 
 首回合賽事將在本月11或者12進行，次回合則在18和19日。"
+國際油價微跌收市,2025-02-01 06:19,,2025-02-01 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789856-20250201.htm,"國際油價微跌收市，市場關注美國關稅政策。
+
+周五到期的3月倫敦布蘭特期油收市報每桶76.76美元，跌11美仙。交投更活躍的4月份期貨報75.67美元，跌22美仙。
+
+紐約期油收市報每桶72.53美元，跌20美仙。"
 道指低收337點　市場關注特朗普關稅政策,2025-02-01 06:19,,2025-02-01 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789855-20250201.htm,"美股3大指數先高後低，市場關注美國總統特朗普的關稅政策。
 
 道瓊斯指數初段最多曾升逾170點，收市報44544點，跌337點，跌幅0.75%。納斯達克指數一度升逾1%，收市報19627點，跌54點，跌幅近0.3%。標準普爾500指數報6040點，跌30點，跌幅0.5%。
@@ -2040,11 +2046,6 @@ Concerns over Trump's trade tactics pushed gold to new records above US$2,800 an
 全星期計，道指升近0.3%，納指跌1.6%，標指跌1%。1月道指升4.7%，納指升1.6%，標指升2.7%。
 
 美國總統特朗普表示，中國、加拿大和墨西哥無法阻止關稅的實施。白宮發言人萊維特確認，特朗普星期六將宣布，對加拿大和墨西哥進口產品徵收25%的關稅，以及對中國商品徵收10%關稅，並立即生效。"
-國際油價微跌收市,2025-02-01 06:19,,2025-02-01 06:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789856-20250201.htm,"國際油價微跌收市，市場關注美國關稅政策。
-
-周五到期的3月倫敦布蘭特期油收市報每桶76.76美元，跌11美仙。交投更活躍的4月份期貨報75.67美元，跌22美仙。
-
-紐約期油收市報每桶72.53美元，跌20美仙。"
 現貨金突破每盎司2800美元創新高,2025-02-01 05:51,,2025-02-01 06:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789853-20250201.htm,"現貨金突破每盎司2800美元創新高，美國總統特朗普發出關稅威脅，加劇市場對全球經濟增長和通脹壓力的憂慮，促使投資者買入避險資產。
 
 現貨金一度升穿2817美元，其後在2800美元以下徘徊，較早時報2798.41美元，升幅近0.2%。1月累計上升近7%。
@@ -2071,14 +2072,14 @@ Concerns over Trump's trade tactics pushed gold to new records above US$2,800 an
 338名議員投票支持法案，350名議員反對，5名議員棄權。
 
 在剛過去的星期三，德國議會已投票通過由聯盟黨提出、關於大幅收緊移民庇護政策的5項動議，包括要求永久邊境管制、拒絕尋求庇護的人以及拘留依法有義務離開該國的外國人。"
-美國白宮︰周六是對加拿大和墨西哥加徵關稅最後期限,2025-02-01 03:06,,2025-02-01 03:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789850-20250201.htm,"美國白宮發言人萊維特表示，總統特朗普將推進從星期六起，對加拿大、墨西哥和中國商品加徵關稅的計劃。
+美國白宮︰特朗普周六將宣布對中國、加拿大和墨西哥加徵關稅,2025-02-01 03:06,,2025-02-01 05:28,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789850-20250201.htm,"美國白宮發言人萊維特表示，總統特朗普星期六將宣布，對加拿大、墨西哥和中國商品加徵關稅的計劃，並立即生效。
 
 萊維特說，可以確認對墨西哥和加拿大商品徵收25%關稅的計劃，會如期執行，而對中國貨品就會加徵10%關稅。
 
 加拿大總理杜魯多表示，加拿大準備好對任何關稅作出有目的、有力、合理和即時的回應。墨西哥總統辛鮑姆說，將冷靜等待特朗普的關稅決定，並準備繼續就邊境問題進行對話。
 
 中方多次重申，中美經貿關係的本質是互利共贏，關稅戰、貿易戰、產業戰、科技戰，不會有贏家。"
-美國白宮︰特朗普周六將宣布對中國、加拿大和墨西哥加徵關稅,2025-02-01 03:06,,2025-02-01 05:28,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789850-20250201.htm,"美國白宮發言人萊維特表示，總統特朗普星期六將宣布，對加拿大、墨西哥和中國商品加徵關稅的計劃，並立即生效。
+美國白宮︰周六是對加拿大和墨西哥加徵關稅最後期限,2025-02-01 03:06,,2025-02-01 03:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789850-20250201.htm,"美國白宮發言人萊維特表示，總統特朗普將推進從星期六起，對加拿大、墨西哥和中國商品加徵關稅的計劃。
 
 萊維特說，可以確認對墨西哥和加拿大商品徵收25%關稅的計劃，會如期執行，而對中國貨品就會加徵10%關稅。
 
@@ -2146,12 +2147,12 @@ Concerns over Trump's trade tactics pushed gold to new records above US$2,800 an
 以色列和哈馬斯周六再交換被扣押人員,2025-01-31 20:06,,2025-01-31 20:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789836-20250131.htm,"以色列和巴勒斯坦武裝組織哈馬斯，明日會再交換被扣押人員。哈馬斯旗下武裝派別卡桑旅將釋放3名男人質，他們年齡介乎34至65歲，其中一人擁有美國和以色列雙重國籍。以色列則會釋放90名巴勒斯坦囚犯，其中9人被判終身監禁。
 
 另外，歐盟外交與安全政策高級代表卡拉斯表示，歐盟民事特派團星期五部署至拉法口岸，為巴勒斯坦邊境地區的人員提供醫療護理等支援。"
-美麗華旅遊上海團遇車禍男領隊死亡　旅議會稱團友導遊司機無受傷,2025-01-31 19:23,,2025-01-31 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789833-20250131.htm,"美麗華旅遊一個本港旅行團在上海浦東機場附近發生車禍，旅行團一名男領隊死亡。
+美麗華旅遊一個旅行團在上海遇車禍　一名男領隊死亡,2025-01-31 19:23,,2025-01-31 19:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789833-20250131.htm,"美麗華旅遊一個本港旅行團在上海浦東機場附近發生車禍，旅行團一名男領隊死亡。
 
 旅遊業議會發表聲明，指涉事是本月26日出發的華東6天旅行團，今日回港前往機場途中發生交通意外，全團16人包括當地導遊和司機均沒有受傷，但領隊在意外中離世。美麗華旅遊已聯絡領隊家屬，以及與上海交通部跟進善後手續。
 
 旅議會表示，對意外造成傷亡感到非常難過，旅行代理商已向旅監局通報事件，旅監局會密切跟進，照顧受影響團友，並為離世領隊家屬提供一切可行協助。"
-美麗華旅遊一個旅行團在上海遇車禍　一名男領隊死亡,2025-01-31 19:23,,2025-01-31 19:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789833-20250131.htm,"美麗華旅遊一個本港旅行團在上海浦東機場附近發生車禍，旅行團一名男領隊死亡。
+美麗華旅遊上海團遇車禍男領隊死亡　旅議會稱團友導遊司機無受傷,2025-01-31 19:23,,2025-01-31 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789833-20250131.htm,"美麗華旅遊一個本港旅行團在上海浦東機場附近發生車禍，旅行團一名男領隊死亡。
 
 旅遊業議會發表聲明，指涉事是本月26日出發的華東6天旅行團，今日回港前往機場途中發生交通意外，全團16人包括當地導遊和司機均沒有受傷，但領隊在意外中離世。美麗華旅遊已聯絡領隊家屬，以及與上海交通部跟進善後手續。
 
@@ -2174,12 +2175,12 @@ Concerns over Trump's trade tactics pushed gold to new records above US$2,800 an
 旅遊促進會總幹事崔定邦表示，今個農曆新年訪港的過夜與不過夜旅客，大約各佔一半，內地入境旅客數目增加，相信與深圳恢復及擴展來港「一簽多行」有關；至於出境團數目亦有增加。"
 上海浦東機場附近車禍　美麗華旅遊證實一名死者為旅行團男領隊,2025-01-31 18:37,,2025-01-31 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789829-20250131.htm, 
 上海浦東機場附近大巴撞護欄釀1死2傷,2025-01-31 18:36,,2025-01-31 18:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789828-20250131.htm,上海市公安局國際機場分局在官方微博通報，下午2時20分左右，S32高速浦東機場方向近機務區發生一宗交通事故。經初步調查， 53歲男司機駕駛大巴至上址彎道時，因操作不當撞到道路護攔，導致一名乘客跌落車外死亡，另有兩名乘客輕微擦傷。事故調查處置工作正在進一步開展。
-馬會：今天8.6萬人到沙田馬場　旅客中九成是內地人,2025-01-31 18:35,,2025-01-31 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789827-20250131.htm,"沙田馬場舉行《農曆新年賽馬日》，吸引大批市民和旅客到場，不少人在馬場開門前1個多小時已經排隊等候入場。
+馬會：8.6萬人到沙田馬場　包括近萬名旅客當中九成為內地客,2025-01-31 18:35,,2025-01-31 22:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789827-20250131.htm,"沙田馬場舉行《農曆新年賽馬日》，吸引大批市民和旅客到場，不少人在馬場開門前1個多小時已經排隊等候入場。
 
 有入場人士先前往觀眾看台轉動新春風車，並在新春裝飾前拍照留念，又說現場氣氛非常熱鬧。
 
 馬會表示，今日近8萬6千人入場，當中來自內地及海外旅客人數創歷來賽馬日新高，共9654人，內地旅客佔九成。"
-馬會：8.6萬人到沙田馬場　包括近萬名旅客當中九成為內地客,2025-01-31 18:35,,2025-01-31 22:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789827-20250131.htm,"沙田馬場舉行《農曆新年賽馬日》，吸引大批市民和旅客到場，不少人在馬場開門前1個多小時已經排隊等候入場。
+馬會：今天8.6萬人到沙田馬場　旅客中九成是內地人,2025-01-31 18:35,,2025-01-31 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789827-20250131.htm,"沙田馬場舉行《農曆新年賽馬日》，吸引大批市民和旅客到場，不少人在馬場開門前1個多小時已經排隊等候入場。
 
 有入場人士先前往觀眾看台轉動新春風車，並在新春裝飾前拍照留念，又說現場氣氛非常熱鬧。
 
@@ -2240,6 +2241,9 @@ After being rescued, he was airlifted by the Government Flying Service to Easter
 為了改善居住質素，聯會認為政府及房委會可以首先在綠置居項目中，進一步增大單位面積的數目及比例，吸引綠表住戶申請，加快公屋單位流轉，亦要檢視新發展區的公私營房屋比例，或可調整至五比五。
 
 聯會又提出，考慮結合舊屋邨及傳統文化的特點，整合更多深度遊的旅遊產品，政府增撥資源，作相關建議的研究及推動。"
+貨櫃車出獅隧時起火　往九龍方向交通受阻,2025-01-31 16:25,,2025-01-31 17:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789812-20250131.htm,"一部沿獅子山隧道往九龍方向的貨櫃車，在離開管道時被發現車尾起火，現場交通受阻，事件中無人受傷。
+
+警方表示，事發在下午約三時半，運輸署表示，往九龍方向的管道全線封閉。"
 緬甸當局決定繼續延長全國緊急狀態6個月,2025-01-31 16:25,,2025-01-31 17:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789813-20250131.htm,"緬甸國防和安全委員會決定，繼續延長全國緊急狀態6個月。
 
 國營傳媒報道，國防和安全委員會在內比都召開會議，會議指出，為進一步促進國家和平、穩定及充分完成大選前各項籌備工作，決定繼續延長全國緊急狀態6個月。會議又討論了緬甸當前國家安全形勢、經濟發展、選舉等問題。
@@ -2247,10 +2251,7 @@ After being rescued, he was airlifted by the Government Flying Service to Easter
 緬甸當局早前表示，計劃在今年舉行大選。有分析指出，由於在緊急狀態下不能舉行選舉，因此緬甸大選最早亦要到今年下半年才會舉行。
 
 2021年2月，緬甸代總統敏瑞宣布全國進入為期一年的緊急狀態，當局其後多次將全國緊急狀態延長。去年7月31日，緬甸國防和安全委員會決定將全國緊急狀態再延長6個月。"
-貨櫃車出獅隧時起火　往九龍方向交通受阻,2025-01-31 16:25,,2025-01-31 17:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789812-20250131.htm,"一部沿獅子山隧道往九龍方向的貨櫃車，在離開管道時被發現車尾起火，現場交通受阻，事件中無人受傷。
-
-警方表示，事發在下午約三時半，運輸署表示，往九龍方向的管道全線封閉。"
-Tens of thousands turnout for CNY raceday at Sha Tin,2025-01-31 16:21,"Large crowd of around 63,000 attended Chinese New Year Raceday at Sha Tin Racecourse. Secretary for Culture, Sports and Tourism, Rosanna Law, delighted by turnout. Italian tourist excited by unique horse racing culture in Hong Kong. Canadian tourist enjoyed festive atmosphere and special Chinese New Year features. 216,000 travelers visited SAR on Thursday, majority from mainland. Hotel accommodation tax of 3% resumed, seen as having minimal impact on visitors. Financial Secretary Paul Chan present at opening ceremony.",2025-01-31 16:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789810-20250131.htm,"The racecourse has rolled out the red carpet for around 63,000 people on Friday for the Chinese New Year Raceday.
+Tens of thousands turnout for CNY raceday in Sha Tin,2025-01-31 16:21,"Large crowd of around 63,000 attended Chinese New Year Raceday at Sha Tin Racecourse. Secretary for Culture, Sports and Tourism, Rosanna Law, delighted with turnout. Italian tourist finds horse racing culture unique and different from Italy. Canadian tourist enjoys festive atmosphere and special Chinese New Year features. 216,000 travelers visited SAR on Thursday, majority from mainland. 3% hotel accommodation tax resumed after suspension, deemed acceptable by visitors. Financial Secretary Paul Chan also present.",2025-01-31 17:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789810-20250131.htm,"The racecourse has rolled out the red carpet for around 63,000 people on Friday for the Chinese New Year Raceday.
 
 The Secretary for Culture, Sports and Tourism, Rosanna Law was in attendance and said she's delighted to see such a huge turnout at Sha Tin Racecourse. 
 
@@ -2302,7 +2303,7 @@ The tourism minister said the tax is here to stay, as people have adapted to the
 She noted that with many hotels reaching an occupancy rate of 100 percent these days, it showed that visitors were attracted by Hong Kong's festive spirit.
 
 Financial Secretary Paul Chan was also at the Sha Tin racecourse to officiate the opening ceremony with Law."
-Tens of thousands turnout for CNY raceday in Sha Tin,2025-01-31 16:21,"Large crowd of around 63,000 attended Chinese New Year Raceday at Sha Tin Racecourse. Secretary for Culture, Sports and Tourism, Rosanna Law, delighted with turnout. Italian tourist finds horse racing culture unique and different from Italy. Canadian tourist enjoys festive atmosphere and special Chinese New Year features. 216,000 travelers visited SAR on Thursday, majority from mainland. 3% hotel accommodation tax resumed after suspension, deemed acceptable by visitors. Financial Secretary Paul Chan also present.",2025-01-31 17:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789810-20250131.htm,"The racecourse has rolled out the red carpet for around 63,000 people on Friday for the Chinese New Year Raceday.
+Tens of thousands turnout for CNY raceday at Sha Tin,2025-01-31 16:21,"Large crowd of around 63,000 attended Chinese New Year Raceday at Sha Tin Racecourse. Secretary for Culture, Sports and Tourism, Rosanna Law, delighted by turnout. Italian tourist excited by unique horse racing culture in Hong Kong. Canadian tourist enjoyed festive atmosphere and special Chinese New Year features. 216,000 travelers visited SAR on Thursday, majority from mainland. Hotel accommodation tax of 3% resumed, seen as having minimal impact on visitors. Financial Secretary Paul Chan present at opening ceremony.",2025-01-31 16:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789810-20250131.htm,"The racecourse has rolled out the red carpet for around 63,000 people on Friday for the Chinese New Year Raceday.
 
 The Secretary for Culture, Sports and Tourism, Rosanna Law was in attendance and said she's delighted to see such a huge turnout at Sha Tin Racecourse. 
 
@@ -2491,16 +2492,16 @@ The company hopes that customers are attracted to buy the latest iPhone models b
 Along with Apple, other tech giants like Google, Microsoft and Amazon are convinced that generative AI's powers are the next chapter of computing and are boosting spending so as not to be left behind.
 
 Apple lost its status as the best selling smartphone brand in the Chinese market last year after a pair of local rivals surpassed it with surging shipments, according to industry data provider Canalys. (AFP)"
-蕭澤頤：警方近月發現投資騙案有所增加　通常由網戀開始,2025-01-31 11:17,,2025-01-31 11:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789790-20250131.htm,"大年初三「赤口」，不少市民到沙田車公廟參拜，警方實施單向人潮管制措施。警務處處長蕭澤頤到場視察，表示秩序良好，又說近月警方發現投資騙案有所增加，多數涉及加密貨幣。
-
-蕭澤頤指出，相關騙案通常由網戀開始，騙徒先向事主噓寒問暖，再提供連結，騙徒亦會給予事主一些甜頭，他強調「無咁大隻蛤乸隨街跳」，市民亦不應相信。蕭澤頤又說，另一類騙案是涉及假冒官員，重申如果對方聲稱是內地官員，即使沒有索取金錢，市民亦應立即收線。如果市民有所懷疑，可致電防騙熱線18222，並下載「防騙視伏器」應用程式。
-
-蕭澤頤提到，留意到來港的內地留學生被騙數字有所增加，當局正密鑼緊鼓採取不同措施，希望從源頭堵截，包括做更多宣傳教育工作，發放防騙資訊。"
 韓美防長通電話　就進一步拓展韓美同盟合作達成共識,2025-01-31 11:17,,2025-01-31 11:29,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789789-20250131.htm,"南韓代理國防部長金善鎬與美國新任國防部長海格塞斯通電話。
 
 韓聯社報道，雙方就進一步拓展韓美同盟的合作深度與廣度達成共識，海格塞斯重申美方對南韓的協防承諾非常堅固，將與韓方保持緊密合作，進一步鞏固基於兩國持久互信和友誼的同盟關係。
 
 兩人一致認為，當前最重要的是堅定不移維持聯合防衛態勢，有效遏制不斷升級的北韓核威脅，並穩定管理同盟事務，維繫同盟關係。雙方對朝俄不斷深化軍事合作深表擔憂，認為對朝鮮半島以至全球安全構成嚴重威脅，商定同國際社會保持緊密合作予以應對，又商定基於韓美同盟關係，深化韓美日安全合作，在朝鮮半島和印太地區遏止北韓核威脅。"
+蕭澤頤：警方近月發現投資騙案有所增加　通常由網戀開始,2025-01-31 11:17,,2025-01-31 11:28,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789790-20250131.htm,"大年初三「赤口」，不少市民到沙田車公廟參拜，警方實施單向人潮管制措施。警務處處長蕭澤頤到場視察，表示秩序良好，又說近月警方發現投資騙案有所增加，多數涉及加密貨幣。
+
+蕭澤頤指出，相關騙案通常由網戀開始，騙徒先向事主噓寒問暖，再提供連結，騙徒亦會給予事主一些甜頭，他強調「無咁大隻蛤乸隨街跳」，市民亦不應相信。蕭澤頤又說，另一類騙案是涉及假冒官員，重申如果對方聲稱是內地官員，即使沒有索取金錢，市民亦應立即收線。如果市民有所懷疑，可致電防騙熱線18222，並下載「防騙視伏器」應用程式。
+
+蕭澤頤提到，留意到來港的內地留學生被騙數字有所增加，當局正密鑼緊鼓採取不同措施，希望從源頭堵截，包括做更多宣傳教育工作，發放防騙資訊。"
 日本埼玉縣路陷事故至今逾72小時　跌落坑洞貨車司機仍未獲救,2025-01-31 11:10,,2025-01-31 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789788-20250131.htm,"日本埼玉縣八潮市發生路陷事故至今超過72小時，跌落坑洞的貨車司機仍未獲救。
 
 央視新聞報道，路陷範圍不斷擴大，產生的大坑直徑已達40米左右、深約15米。為清除坑內堆積物、搜尋被困司機，當地政府從昨日開始在塌陷範圍附近開建一條濶約4米、長約30米的坡道。預計坡道將在數日內完工，政府將投入重型機械開展清理和搜救工作。
@@ -2592,12 +2593,12 @@ The public have until February 21 to submit their views on the proposal to the B
 事發在當地星期三晚，太平洋西南航空公司一架載有64人的客機，在華盛頓列根國家機場降落期間，與一架載有3名軍人的黑鷹直升機相撞，兩機墜落波托馬克河，救援人員至今找到幾十具遺體。
 
 總統特朗普較早時說，事故中沒有倖存者。中國駐美大使館表示，經初步了解，遇難者包括兩名中國公民。"
-韓股初段跌逾1%,2025-01-31 08:40,,2025-01-31 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789769-20250131.htm,"南韓股市假期後復市，初段跌逾1%。
-
-首爾綜合指數較早時報2507點，跌28點，跌幅1.14%。"
 日股初段靠穩,2025-01-31 08:40,,2025-01-31 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789770-20250131.htm,"東京股市初段靠穩。
 
 日經指數較早時報39569點，升55點，升幅0.14%。"
+韓股初段跌逾1%,2025-01-31 08:40,,2025-01-31 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789769-20250131.htm,"南韓股市假期後復市，初段跌逾1%。
+
+首爾綜合指數較早時報2507點，跌28點，跌幅1.14%。"
 日本上月失業率回落至2.4%　工業生產按月增加0.3%,2025-01-31 08:39,,2025-01-31 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789768-20250131.htm,"日本上月經季節調整失業率2.4%，低於市場預期，按月回落0.1個百分點。
 
 求才求職比維持在1.25。
@@ -3029,15 +3030,6 @@ Shares of Tesla rose 4.4 percent in after-hours trading. (AFP)"
 劉業強表示，在政府財赤下，希望下月公布的財政預算案能量入為出，亦要顧及中產及基層，同時推動經濟。
 
 另外，沙田鄉事委員會主席莫錦貴為沙田求得第82籤下籤。"
-溫嘉煒料本港今年按息回落速度頗慢　供樓人士負擔仍較大,2025-01-30 12:34,,2025-01-30 12:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789686-20250130.htm,"美國聯儲局1月會議按兵不動，議息聲明刪去「通脹率已向2%的目標取得進展」的措辭，只保留「物價增速仍然較快」的字眼。主席鮑威爾解釋，只是精簡句子，並非發出任何訊號。
-
-大新金融集團首席經濟及策略師溫嘉煒表示，市場解讀聲明措辭轉變，暗示聯儲局未來不急於減息，因為通脹回落進度不及預期。他說，就業市場穩健，經濟衰退風險不大，但美國總統特朗普的政策不明朗，相信聯儲局因此暫停減息，以觀望通脹及就業市場發展。
-
-溫嘉煒預料，聯儲局3月減息機會不大，市場預料較大可能要到5月或6月會議才恢復減息，視乎未來數月通脹回落走勢是否明確。聯儲局亦要觀望關稅等各項措施詳情，才可釐定對通脹及就業前景帶來多大影響。
-
-香港方面，他說，去年樓價跌逾7%，本來預計今年有稍為大幅度減息，但現時估計可能只會減息1次，樓市要明顯復蘇難度增加，預期今年樓價或跌5%，但跌幅少過去年。
-
-他又說，按息平均水平由去年的逾4厘高位，回落至現時略低於4厘，預計今年按息回落速度頗慢，回落至3.5厘以上，供樓人士負擔仍較大。"
 溫嘉煒料本港今年按息回落幅度頗慢　供樓人士負擔仍較大,2025-01-30 12:34,,2025-01-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789686-20250130.htm,"美國聯儲局1月會議按兵不動，議息聲明刪去「通脹率已向2%的目標取得進展」的措辭，只保留「物價增速仍然較快」的字眼。主席鮑威爾解釋，只是精簡句子，並非發出任何訊號。
 
 大新金融集團首席經濟及策略師溫嘉煒表示，市場解讀聲明措辭轉變，暗示聯儲局未來不急於減息，因為通脹回落進度不及預期。他說，就業市場穩健，經濟衰退風險不大，但美國總統特朗普的政策不明朗，相信聯儲局因此暫停減息，以觀望通脹及就業市場發展。
@@ -3047,6 +3039,15 @@ Shares of Tesla rose 4.4 percent in after-hours trading. (AFP)"
 香港方面，他說，去年樓價跌逾7%，本來預計今年有稍為大幅度減息，但現時估計可能只會減息1次，樓市要明顯復蘇難度增加，預期今年樓價或跌5%，但跌幅少過去年。
 
 他又說，按息平均水平由去年的逾4厘高位，回落至現時略低於4厘，預計今年按息回落幅度頗慢，回落至3.5厘以上，供樓人士負擔仍較大。"
+溫嘉煒料本港今年按息回落速度頗慢　供樓人士負擔仍較大,2025-01-30 12:34,,2025-01-30 12:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789686-20250130.htm,"美國聯儲局1月會議按兵不動，議息聲明刪去「通脹率已向2%的目標取得進展」的措辭，只保留「物價增速仍然較快」的字眼。主席鮑威爾解釋，只是精簡句子，並非發出任何訊號。
+
+大新金融集團首席經濟及策略師溫嘉煒表示，市場解讀聲明措辭轉變，暗示聯儲局未來不急於減息，因為通脹回落進度不及預期。他說，就業市場穩健，經濟衰退風險不大，但美國總統特朗普的政策不明朗，相信聯儲局因此暫停減息，以觀望通脹及就業市場發展。
+
+溫嘉煒預料，聯儲局3月減息機會不大，市場預料較大可能要到5月或6月會議才恢復減息，視乎未來數月通脹回落走勢是否明確。聯儲局亦要觀望關稅等各項措施詳情，才可釐定對通脹及就業前景帶來多大影響。
+
+香港方面，他說，去年樓價跌逾7%，本來預計今年有稍為大幅度減息，但現時估計可能只會減息1次，樓市要明顯復蘇難度增加，預期今年樓價或跌5%，但跌幅少過去年。
+
+他又說，按息平均水平由去年的逾4厘高位，回落至現時略低於4厘，預計今年按息回落速度頗慢，回落至3.5厘以上，供樓人士負擔仍較大。"
 吳卓殷料聯儲局6月才恢復減息　港銀今年或至少減息0.25厘,2025-01-30 12:30,,2025-01-30 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789685-20250130.htm,"美國聯儲局一如預期維持利率不變，主席鮑威爾表示，不急於調整利率或政策立場，強調要保持耐性。聯儲局正評估總統特朗普的行政命令，要先明確政策，才能合理評估對經濟的影響。
 
 議息聲明刪去「通脹率已向2%的目標取得進展」的措辭，只保留「物價增速仍然較快」的字眼。鮑威爾表示，只是精簡句子，並非發出任何訊號。
@@ -3161,7 +3162,6 @@ Lau initially announced the number 20 stick, but later clarified he had mistaken
 Separately, the chairman of the Sha Tin Rural Committee drew an ill-omened No 82 stick for the Sha Tin community. 
 
 Of the 96 sticks in the cup, 35 are “positive” sticks, 17 are “negative” ones, while 44 are ""neutral""."
-海事處提醒市民出海觀賞煙花匯演時注意海上安全,2025-01-30 11:01,,2025-01-30 11:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789681-20250130.htm,因應今晚舉行的農曆新年煙花匯演，海事處提醒市民出海觀賞匯演時須注意海上安全。家長或成年人須照顧同行的兒童，確保他們全程穿着救生衣；船長需備有一份乘客和船員名單，以備不時之需。啓航前，乘客應了解船上緊急逃生出口位置，須知道救生衣擺放的位置和穿着方法；船隻切勿超速、超載。
 列根國家機場上空有飛機與直升機相撞後墮河　特朗普已知悉事件,2025-01-30 11:01,,2025-01-30 11:14,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789679-20250130.htm,"美國華盛頓特區消防部門表示，一架小型飛機在列根華盛頓國家機場附近的波托馬克河墜毀。
 
 機場方面表示，已經暫停所有航班升降。
@@ -3171,6 +3171,7 @@ Of the 96 sticks in the cup, 35 are “positive” sticks, 17 are “negative”
 警方表示，多個部門正在波托馬克河進行搜救工作。
 
 白宮表示，似乎是軍用直升機與飛機相撞，總統特朗普已知悉事件，多個部門正在工作，並盡可能拯救生命。"
+海事處提醒市民出海觀賞煙花匯演時注意海上安全,2025-01-30 11:01,,2025-01-30 11:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789681-20250130.htm,因應今晚舉行的農曆新年煙花匯演，海事處提醒市民出海觀賞匯演時須注意海上安全。家長或成年人須照顧同行的兒童，確保他們全程穿着救生衣；船長需備有一份乘客和船員名單，以備不時之需。啓航前，乘客應了解船上緊急逃生出口位置，須知道救生衣擺放的位置和穿着方法；船隻切勿超速、超載。
 餐務業界稱農曆年中式酒樓市道較好　生意額及訂座率有一成增長,2025-01-30 10:56,,2025-01-30 11:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789678-20250130.htm,"香港餐務管理協會主席梁振華表示，農曆新年中式酒樓市道較好，生意額及訂座率都有一成增長。
 
 梁振華在本台節目「千禧年代」表示，過年是中國人傳統高興的節日，雖然有市民外遊，但留港的市民會外出用膳。在家庭客方面，人均消費350至400元，與去年相若。至於公司團年飯方面，訂座率亦有一至一成半的增長，人均消費約400至500元。
@@ -3436,12 +3437,12 @@ Trump Media & Technology Group gained 7.3 percent as it announced a venture with
 五角大樓說，海格塞斯在通話中表示，美國「完全支持以色列自衛的權利」。
 
 以色列國防部辦公室的聲明表示，兩人討論加強兩國安全合作和促進共同利益的問題，決定保持聯繫並儘快會面。"
-內塔尼亞胡會見美國中東問題特使維特科夫,2025-01-30 04:35,,2025-01-30 04:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789623-20250130.htm,"以色列總理內塔尼亞胡會見到訪的美國中東問題特使維特科夫。
-
-以色列傳媒報道，威特科夫周三訪問加沙地帶，視察停火執行情況，這是十多年來首位美國官員訪問該地區。"
 內塔尼亞胡會見美國中東問題特使威特科夫,2025-01-30 04:35,,2025-01-30 04:59,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789623-20250130.htm,"以色列總理內塔尼亞胡當地周三傍晚，會見到訪的美國中東問題特使威特科夫。
 
 以色列傳媒報道，威特科夫會面前，當天亦訪問加沙地帶，視察停火執行情況，這是十多年來首位美國官員訪問該地區。"
+內塔尼亞胡會見美國中東問題特使維特科夫,2025-01-30 04:35,,2025-01-30 04:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789623-20250130.htm,"以色列總理內塔尼亞胡會見到訪的美國中東問題特使維特科夫。
+
+以色列傳媒報道，威特科夫周三訪問加沙地帶，視察停火執行情況，這是十多年來首位美國官員訪問該地區。"
 鮑威爾不評論特朗普要求減息言論　關稅潛在影響可能非常大,2025-01-30 04:33,,2025-01-30 04:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789638-20250130.htm,"聯儲局維持利率不變，主席鮑威爾表示，聯儲局不急於調整政策立場，聯儲局正評估美國總統特朗普的行政命令，又指政策不確定性偏高，要先明確政策，才能合理評估對經濟的影響。
 
 特朗普上周在瑞士達沃斯世界經濟論壇上表示，要求立即減息，世界各地亦應跟隨。鮑威爾說，不會對特朗普的言論作出任何回應或評論，因為並不合適。而在有關言論後，他並沒有與特朗普接觸。
@@ -3578,12 +3579,12 @@ Earlier, organiser Hong Kong Tourism Board said it expected around 100,000 peopl
 As part of the Spring Festival celebrations, Lee added that the floats and some of Wednesday night's performances will move to Lam Tsuen for Thursday's Hong Kong Well-wishing Festival. The floats will be on display there until February 13.
 
 Other festivities include a 23-minute firework show on both sides of Victoria Harbour on the second day of the Lunar New Year, as well as horse racing at Sha Tin on the third day."
-花車途經街道人頭湧湧　有旅客稱花車巡遊後留港等待明晚煙花匯演,2025-01-29 21:38,,2025-01-29 22:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789614-20250129.htm,"「新春花車巡遊匯演」晚上在尖沙咀舉行。在花車途經的街道都人頭湧湧，兩旁迫滿遊客和市民。不少市民一家大小觀看表演。
+有四川旅客說觀看花車巡遊後留港等待明晚煙花匯演,2025-01-29 21:38,,2025-01-29 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789614-20250129.htm,"「新春花車巡遊匯演」晚上在尖沙咀舉行。在花車途經的街道都人頭湧湧，兩旁迫滿遊客和市民。不少市民一家大小觀看表演。
 
 在廣東道兩旁，不少家長帶同小朋友等待花車經過，由於現場人多擠迫，有小朋友騎在爸爸的肩膞上觀看。有小朋友說，卡通動物造型的花車有趣，亦有家長說，現場氣氛十分熱鬧。
 
 有來自四川的旅客說，特意來港觀看花車巡遊，覺得活動很國際化及多元化，並打算看完花車巡遊後留港，等待明晚的煙花匯演；有來自東莞的女士說，覺得花車巡遊活動很有新年氣氛，而在現場觀看較在電視看更有趣。"
-有四川旅客說觀看花車巡遊後留港等待明晚煙花匯演,2025-01-29 21:38,,2025-01-29 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789614-20250129.htm,"「新春花車巡遊匯演」晚上在尖沙咀舉行。在花車途經的街道都人頭湧湧，兩旁迫滿遊客和市民。不少市民一家大小觀看表演。
+花車途經街道人頭湧湧　有旅客稱花車巡遊後留港等待明晚煙花匯演,2025-01-29 21:38,,2025-01-29 22:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789614-20250129.htm,"「新春花車巡遊匯演」晚上在尖沙咀舉行。在花車途經的街道都人頭湧湧，兩旁迫滿遊客和市民。不少市民一家大小觀看表演。
 
 在廣東道兩旁，不少家長帶同小朋友等待花車經過，由於現場人多擠迫，有小朋友騎在爸爸的肩膞上觀看。有小朋友說，卡通動物造型的花車有趣，亦有家長說，現場氣氛十分熱鬧。
 
@@ -3625,12 +3626,12 @@ Other festivities include a 23-minute firework show on both sides of Victoria Ha
 北京廟會吸引大批民眾感受新春氣氛　多國有慶祝活動,2025-01-29 18:53,,2025-01-29 19:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789598-20250129.htm,"今年是春節獲納入聯合國教科文組織非物質文化遺產代表作名錄後首個春節，在北京，設有超過200個攤位的地壇廟會，吸引大批市民和遊客來感受節日氣氛。
 
 身在中國太空站的神舟十九號三名航天員，亦向民眾送上祝福。俄羅斯等多國有舞獅表演慶祝，有中國留學生表示，感覺就如回到家鄉般。"
-陳國基視察羅湖管制站　籲訪港旅客留港過夜,2025-01-29 18:48,,2025-01-29 18:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789597-20250129.htm,"政務司司長陳國基在年初一視察羅湖管制站，實地觀察清關、疏導人流，維持秩序等方面的安排和運作情況。他呼籲農曆年假期訪港旅客提前規劃行程，並鼓勵留港過夜。
-
-另外，財政司司長陳茂波、律政司司長林定國及多名局長均透過社交平台，送上賀年祝福。"
 機管局預期農曆新年假期客量增三成,2025-01-29 18:48,,2025-01-29 18:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789596-20250129.htm,"農曆新年假期第一天，大批市民一家大小，出外旅遊慶新年。機管局表示，過去數天是出入境高峰期，每日有約20萬人次進出，預計農曆新年假期客量會較去年增長約30%，而現時機場人手充足，運作大致暢順。
 
 近期接連有港人懷疑被誘騙到東南亞國家，被禁錮從事非法工作，有去泰國的市民說不擔心安全，相信去旅行問題不大。"
+陳國基視察羅湖管制站　籲訪港旅客留港過夜,2025-01-29 18:48,,2025-01-29 18:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789597-20250129.htm,"政務司司長陳國基在年初一視察羅湖管制站，實地觀察清關、疏導人流，維持秩序等方面的安排和運作情況。他呼籲農曆年假期訪港旅客提前規劃行程，並鼓勵留港過夜。
+
+另外，財政司司長陳茂波、律政司司長林定國及多名局長均透過社交平台，送上賀年祝福。"
 南韓釜山航空原定飛香港客機火警　176人撤離7人傷,2025-01-29 18:47,,2025-01-29 19:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789599-20250129.htm,"南韓釜山金海國際機場星期二晚一班原定飛往香港的客機，起飛前著火，消防隨即撲救，機上176名乘客及機組人員經緊急逃生滑梯撤離，7人受傷。
 
 釜山消防災難本部正聯同國土部飛機鐵路事故調查委員會聯合鑒定事故。"
@@ -3665,10 +3666,10 @@ Protesters accused Rwanda and Uganda of actively supporting the armed group M23 
 The main city in eastern DR Congo has become a battleground since fighters from the Tutsi-led M23 armed group backed by Rwandan forces entered central Goma on Sunday night after a weeks-long advance through the region.
 
 Former colonial ruler Belgium has close ties with DR Congo and a large Congolese diaspora lives in the country. (AFP)"
-市民按照傳統到林村拋寶碟　羅淑佩對假期旅客人數樂觀,2025-01-29 18:25,,2025-01-29 18:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789606-20250129.htm,"在大年初一早上，不少市民按照傳統到林村拋寶碟，祝願新一年順順利利、家人身體健康，新一年香港會越來越好。亦有外國人特意到林村，感受節日氣氛。
+市民按照傳統到林村拋寶牒　羅淑佩對假期旅客人數樂觀,2025-01-29 18:25,,2025-01-29 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789606-20250129.htm,"在大年初一早上，不少市民按照傳統到林村拋寶牒，祝願新一年順順利利、家人身體健康，新一年香港會越來越好。亦有外國人特意到林村，感受節日氣氛。
 
 文化體育及旅遊局局長羅淑佩亦到場拋寶牒，她對今個假期的旅客人數感樂觀。"
-市民按照傳統到林村拋寶牒　羅淑佩對假期旅客人數樂觀,2025-01-29 18:25,,2025-01-29 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789606-20250129.htm,"在大年初一早上，不少市民按照傳統到林村拋寶牒，祝願新一年順順利利、家人身體健康，新一年香港會越來越好。亦有外國人特意到林村，感受節日氣氛。
+市民按照傳統到林村拋寶碟　羅淑佩對假期旅客人數樂觀,2025-01-29 18:25,,2025-01-29 18:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789606-20250129.htm,"在大年初一早上，不少市民按照傳統到林村拋寶碟，祝願新一年順順利利、家人身體健康，新一年香港會越來越好。亦有外國人特意到林村，感受節日氣氛。
 
 文化體育及旅遊局局長羅淑佩亦到場拋寶牒，她對今個假期的旅客人數感樂觀。"
 民眾和遊客大年初一到北京地壇公園的新春廟會,2025-01-29 18:23,,2025-01-29 18:43,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789605-20250129.htm,"在北京，不少民眾和遊客趁大年初一，到地壇公園舉行的新春廟會，感受節日氣氛。有民眾說，今年的新年氣氛比以往濃厚，亦有遊客說，氣氛比家鄉更好。
@@ -3689,9 +3690,9 @@ Former colonial ruler Belgium has close ties with DR Congo and a large Congolese
 財政司司長陳茂波祝願全港市民龍馬精神，經營生意的朋友人財兩旺。
 
 保安局局長鄧炳強等人就祝賀市民新一年幸福美滿，香港繁榮昌盛。"
-People gather in Tsim Sha Tsui for New Year Parade,2025-01-29 18:09,"Lunar New Year parade in Tsim Sha Tsui, themed ""Unfold a Year of Good Fortune,"" features 9 floats and 46 global performing groups. Road closures and traffic diversions. Crowds gather, including Leung supporting her daughter performing, Jia seeking festive atmosphere, and Huang improving viewing spot. Expected 100,000 attendees.",2025-01-29 18:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789595-20250129.htm,"Crowds gathered in Tsim Sha Tsui on Wednesday for the Lunar New Year parade . 
+Crowds gather for Lunar New Year parade,2025-01-29 18:09,"Lunar New Year parade in Tsim Sha Tsui, themed ""Unfold a Year of Good Fortune,"" features 9 floats and 46 global performing groups. Road closures and traffic diversions. Thousands gather, including supporters and tourists, expecting 100,000 attendees.",2025-01-29 18:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789595-20250129.htm,"People have been gathering in Tsim Sha Tsui for Wednesday's Lunar New Year parade . 
 
-Themed ""Unfold a Year of Good Fortune"", it features nine floats showcasing unique elements from the SAR, alongside 46 performing groups from around the globe. 
+Themed ""Unfold a Year of Good Fortune"", the parade will feature nine floats showcasing unique elements from the SAR, alongside 46 performing groups from around the globe. 
 
 It will start at the Hong Kong Cultural Centre Piazza, then head down Canton Road, Haiphong Road, and Nathan Road, before ending at the Sheraton Hong Kong Hotel and Towers.
 
@@ -3703,11 +3704,11 @@ A woman surnamed Leung said she came to support her daughter, who will be perfor
 
 A tourist surnamed Jia from Northeast China said she had come to Hong Kong for the festive atmosphere.
 
-""I think Hong Kong has a very strong Lunar New Year vibe and I love the culture around the Greater Bay Area. I know there will be a parade tonight and fireworks tomorrow, and I booked my hotel last November,"" she said. 
+""I think Hong Kong has a very strong Lunar New Year vibe, and I love culture around the Greater Bay Area. I know there will be a parade tonight and fireworks tomorrow, and I booked my hotel last November,"" she said. 
 
 A Shenzhen tourist surnamed Huang said this is her second time at the parade.. 
 
-""Last year, I did not pick a good spot. So this year, I learned from my past experience and arrived at 2.30 pm. The location I am in is the performance area, so the lighting will be nicer,"" she said. 
+""Last year, I did not pick a good spot. So this year, I learned from my past experience and arrived at 2.30 pm. The location, I am in is the performance area, so the lighting will be nicer,"" she said. 
 
 Huang said she found the float designs delicate and the performing groups from around the world very attractive. 
 
@@ -3735,9 +3736,9 @@ A Shenzhen tourist surnamed Huang said this is her second time at the parade..
 Huang said she found the float designs delicate and the performing groups from around the world very attractive. 
 
 The Tourism Board expects around 100,000 people to turn up for the event."
-Crowds gather for Lunar New Year parade,2025-01-29 18:09,"Lunar New Year parade in Tsim Sha Tsui, themed ""Unfold a Year of Good Fortune,"" features 9 floats and 46 global performing groups. Road closures and traffic diversions. Thousands gather, including supporters and tourists, expecting 100,000 attendees.",2025-01-29 18:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789595-20250129.htm,"People have been gathering in Tsim Sha Tsui for Wednesday's Lunar New Year parade . 
+People gather in Tsim Sha Tsui for New Year Parade,2025-01-29 18:09,"Lunar New Year parade in Tsim Sha Tsui, themed ""Unfold a Year of Good Fortune,"" features 9 floats and 46 global performing groups. Road closures and traffic diversions. Crowds gather, including Leung supporting her daughter performing, Jia seeking festive atmosphere, and Huang improving viewing spot. Expected 100,000 attendees.",2025-01-29 18:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789595-20250129.htm,"Crowds gathered in Tsim Sha Tsui on Wednesday for the Lunar New Year parade . 
 
-Themed ""Unfold a Year of Good Fortune"", the parade will feature nine floats showcasing unique elements from the SAR, alongside 46 performing groups from around the globe. 
+Themed ""Unfold a Year of Good Fortune"", it features nine floats showcasing unique elements from the SAR, alongside 46 performing groups from around the globe. 
 
 It will start at the Hong Kong Cultural Centre Piazza, then head down Canton Road, Haiphong Road, and Nathan Road, before ending at the Sheraton Hong Kong Hotel and Towers.
 
@@ -3749,11 +3750,11 @@ A woman surnamed Leung said she came to support her daughter, who will be perfor
 
 A tourist surnamed Jia from Northeast China said she had come to Hong Kong for the festive atmosphere.
 
-""I think Hong Kong has a very strong Lunar New Year vibe, and I love culture around the Greater Bay Area. I know there will be a parade tonight and fireworks tomorrow, and I booked my hotel last November,"" she said. 
+""I think Hong Kong has a very strong Lunar New Year vibe and I love the culture around the Greater Bay Area. I know there will be a parade tonight and fireworks tomorrow, and I booked my hotel last November,"" she said. 
 
 A Shenzhen tourist surnamed Huang said this is her second time at the parade.. 
 
-""Last year, I did not pick a good spot. So this year, I learned from my past experience and arrived at 2.30 pm. The location, I am in is the performance area, so the lighting will be nicer,"" she said. 
+""Last year, I did not pick a good spot. So this year, I learned from my past experience and arrived at 2.30 pm. The location I am in is the performance area, so the lighting will be nicer,"" she said. 
 
 Huang said she found the float designs delicate and the performing groups from around the world very attractive. 
 
@@ -3919,13 +3920,6 @@ Speaking on a RTHK programme, Lo Hiu-fung said he expects at least a ten percent
 ""We saw a lot of nearby residents and tourists coming to the bazaar at night, last year. So this year, we decided to host the event again, and we made it bigger. The number of food stalls have doubled to more than twenty,"" he said. 
 
 He added that the event will feature floats this year again, along with a placard that emits light."
-陳國基視察羅湖口岸了解出入境情況　鼓勵旅客過夜感受新春氣氛,2025-01-29 12:59,,2025-01-29 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789572-20250129.htm,"政務司司長陳國基在今日年初一上午到訪羅湖管制站，了解口岸部門應對農曆新年期間出入境人流上升的各項安排和運作，並向當值人員送上新年祝福，感謝他們在佳節期間如常辛勤履職，沿途又向市民和旅客拜年。
-　　 
-陳國基在保安局局長鄧炳強、入境事務處處長郭俊峯和海關關長陳子達陪同下，視察羅湖管制站，探訪當值的前線人員，並實地觀察管制站在農曆年期間就清關、疏導人流、維持秩序等方面的安排和運作情況。
-　　 
-為方便彈性調配人手、加開檢查櫃枱及通道以疏導人流和車流，口岸部門減少了前線人員在農曆新年期間休假。由警務處、入境處、香港海關及相關部門成立的跨部門聯合指揮中心，以及運輸署的緊急事故交通協調中心，在黃金周期間會24小時運作，密切監察口岸和交通情況。
-　 
-陳國基呼籲農曆年假期訪港旅客提前規劃行程，鼓勵他們在港參與各項賀年活動後留港過夜，體驗各區豐富多元的慶新春活動。他同時指示各相關部門聯同公共交通營辦商等不同持份者，加強資訊發布，方便市民和旅客按最新情況規劃行程。"
 印度北方邦宗教活動人踩人　官員籲民眾勿信謠言並遵守指示,2025-01-29 12:59,,2025-01-29 13:13,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789573-20250129.htm,"印度北方邦宗教活動人踩人事故，北方邦首席部長呼籲民眾不要輕信謠言，遵守在場工作人員指示，並與他們合作。
 
 英國廣播公司在當地的通訊員說，事發地點是一處岸邊，現場一片混亂，衣服、鞋、毛毯及背包散滿一地。報道指事發時在岸邊休息的信眾，被在聖河中沐浴完上岸的信眾時踩踏，最終釀成事故。
@@ -3933,17 +3927,24 @@ He added that the event will feature floats this year again, along with a placar
 事發在普拉亞格拉傑市，當地凌晨2時半左右，趁大壺節前往印度教聖河恆河和亞穆納河交匯處沐浴的人群，離開現場時引發人踩人。由於人數眾多，當地政府及現場管理人員難以及時管控，傷者已被送往附近醫院治療。
 
 大壺節又稱為聖水沐浴節，是印度教的盛大節日。今年的大壺節自1月13日開始，至2月25日結束，官方預計超過4億人參與活動。"
+陳國基視察羅湖口岸了解出入境情況　鼓勵旅客過夜感受新春氣氛,2025-01-29 12:59,,2025-01-29 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789572-20250129.htm,"政務司司長陳國基在今日年初一上午到訪羅湖管制站，了解口岸部門應對農曆新年期間出入境人流上升的各項安排和運作，並向當值人員送上新年祝福，感謝他們在佳節期間如常辛勤履職，沿途又向市民和旅客拜年。
+　　 
+陳國基在保安局局長鄧炳強、入境事務處處長郭俊峯和海關關長陳子達陪同下，視察羅湖管制站，探訪當值的前線人員，並實地觀察管制站在農曆年期間就清關、疏導人流、維持秩序等方面的安排和運作情況。
+　　 
+為方便彈性調配人手、加開檢查櫃枱及通道以疏導人流和車流，口岸部門減少了前線人員在農曆新年期間休假。由警務處、入境處、香港海關及相關部門成立的跨部門聯合指揮中心，以及運輸署的緊急事故交通協調中心，在黃金周期間會24小時運作，密切監察口岸和交通情況。
+　 
+陳國基呼籲農曆年假期訪港旅客提前規劃行程，鼓勵他們在港參與各項賀年活動後留港過夜，體驗各區豐富多元的慶新春活動。他同時指示各相關部門聯同公共交通營辦商等不同持份者，加強資訊發布，方便市民和旅客按最新情況規劃行程。"
 陳茂波祝願市民龍馬精神　生意經營者人財兩旺,2025-01-29 12:55,,2025-01-29 13:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789571-20250129.htm,"財政司司長陳茂波於社交平台發文祝願全港市民龍馬精神，經營生意的朋友人財兩旺。
 
 他說香港在國家的堅實支持下，經濟正穩步向前。
 
 新一年政府會繼續全力拼經濟、謀發展、惠民生，發揮好「一國兩制」下「內聯外通」的優勢，銳意改革、勇於創新、搶抓機遇，為香港更好的持續發展、為市民更好的生活，全力打拼。"
-盧寵茂：蛇年致力推動醫療改革　楊何蓓茵：公務員將發揮更大力量,2025-01-29 12:47,,2025-01-29 14:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789570-20250129.htm,"多名局長在社交專頁發文或上載片段，向市民送上新年祝福。
+盧寵茂:蛇年致力推動醫療改革　楊何蓓茵:公務員將發揮更大力量,2025-01-29 12:47,,2025-01-29 12:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789570-20250129.htm,"多名局長在社交專頁發文或上載片段，向市民送上新年祝福。
 
 醫務衞生局局長盧寵茂祝願廣大市民事事如意，歲歲平安。他說，展望蛇年，醫務衞生局將會致力推動醫療改革，為香港市民帶來更健康、更幸福、更美好的新一年。
 
 公務員事務局局長楊何蓓茵就祝願各位市民，蛇年萬事如意，生活幸福美滿，新一年百業興旺。她說新一年，公務員事務局會在人力資源管理和運用上變革求新，致力尋求突破，使公務員隊伍能發揮出更大力量，更敏銳地回應社會和市民的需要。"
-盧寵茂:蛇年致力推動醫療改革　楊何蓓茵:公務員將發揮更大力量,2025-01-29 12:47,,2025-01-29 12:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789570-20250129.htm,"多名局長在社交專頁發文或上載片段，向市民送上新年祝福。
+盧寵茂：蛇年致力推動醫療改革　楊何蓓茵：公務員將發揮更大力量,2025-01-29 12:47,,2025-01-29 14:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789570-20250129.htm,"多名局長在社交專頁發文或上載片段，向市民送上新年祝福。
 
 醫務衞生局局長盧寵茂祝願廣大市民事事如意，歲歲平安。他說，展望蛇年，醫務衞生局將會致力推動醫療改革，為香港市民帶來更健康、更幸福、更美好的新一年。
 
@@ -4478,10 +4479,10 @@ Their remarks came as the city's Hang Seng Index rose for the third straight ses
 
 至於新春花車巡遊匯演，將會在明晚、大年初一晚上在尖沙咀舉行。匯演下午綵排，除了花車，來自世界各地的表演隊伍，包括K-Pop女團Kep1er和泰國男團LYKN都有亮相。"
 王毅：中印要抓住機遇，相向而行,2025-01-28 18:55,,2025-01-28 19:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789483-20250128.htm,中共中央政治局委員、外長王毅，周一在北京會見印度外交秘書唐勇勝時表示，中印要抓住機遇，相向而行，探討採取更多實質性舉措，致力於相互理解，相互支持，相互成就。另外，兩國同意加強戰略溝通，增進政治互信，及恢復兩國之間直航航班。
-陳茂波逛維園花市　冀人財兩旺,2025-01-28 18:52,,2025-01-28 19:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789477-20250128.htm,財政司司長陳茂波於年廿九下午，到 維園的年宵市場，買了大熊貓公仔、坐墊及蘭花等，消費了約1000元。陳茂波與檔主傾談，又與市民合照，他希望市民多逛花市 ，帶動人財兩旺。
 DeepSeek成黑客攻擊目標　一度限制新用戶註冊,2025-01-28 18:52,,2025-01-28 19:13,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789480-20250128.htm,"近日成為科技界熱話的DeepSeek人工智能模型，成為黑客攻擊目標。公司表示，由於受到大規模惡意網絡攻擊，一度暫時限制新用戶註冊。
 
 另外，美國總統特朗普表示，中國初創企業DeepSeek的出現導致科技股暴跌，對美國公司敲響警鐘。"
+陳茂波逛維園花市　冀人財兩旺,2025-01-28 18:52,,2025-01-28 19:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789477-20250128.htm,財政司司長陳茂波於年廿九下午，到 維園的年宵市場，買了大熊貓公仔、坐墊及蘭花等，消費了約1000元。陳茂波與檔主傾談，又與市民合照，他希望市民多逛花市 ，帶動人財兩旺。
 李強︰確保群眾出行平安順利,2025-01-28 18:50,,2025-01-28 18:58,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789482-20250128.htm,中共中央政治局常委、國務院總理李強，到交通運輸部檢查指導春運工作時強調，要深入貫徹落實中共中央總書記習近平關於春運工作的重要指示精神，統籌做好春運服務保障和交通運輸安全生產各項工作，確保群眾出行平安順利、物流運輸暢通高效。
 李家超到屯門逛花市　鼓勵市民多消費,2025-01-28 18:49,,2025-01-28 18:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789475-20250128.htm,"行政長官李家超於年廿九的下午，到屯門天后廟廣場年宵市場，購買了劍蘭、風車及以大熊貓為主題的「福」字賀年裝飾物，李家超與部分逛花市的市民交談，鼓勵他們多消費。
 
@@ -4585,12 +4586,12 @@ The minister said he hopes more citizens will visit Lunar New Year fairs across 
 數據又顯示，上月貸款與墊款總額上升0.3%，去年全年則跌2.8%。其中在香港使用的貸款（包括貿易融資）上月上升0.8%，在香港境外使用的貸款則跌1.3%。
 　　 
 上季在香港使用的貸款（包括貿易融資）按季跌幅收窄至0.1%。按經濟用途分析，對金融公司的貸款上升，對建造業、物業發展與投資的貸款則下跌。"
-衞生防護中心錄得1宗新增類鼻疽個案　涉及有長期病患70歲男子,2025-01-28 16:56,,2025-01-28 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789466-20250128.htm,"衞生防護中心表示，過去4日錄得1宗新增類鼻疽個案，涉及有長期病患的70歲男子。他居於深水埗，在本月21日出現排尿疼痛和排尿困難，翌日到明愛醫院求診並入院接受治療。他的臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
+衞生防護中錄得1宗新增類鼻疽個案　涉及有長期病患70歲男子,2025-01-28 16:56,,2025-01-28 17:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789466-20250128.htm,"衞生防護中心表示，過去4日錄得1宗新增類鼻疽個案，涉及有長期病患的70歲男子。他居於深水埗，在本月21日出現排尿疼痛和排尿困難，翌日到明愛醫院求診並入院接受治療。他的臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
  
 中心正調查個案的感染源頭，流行病學調查仍在進行。
  
 本港今年共錄得兩宗類鼻疽個案。去年共錄得23宗類鼻疽個案。"
-衞生防護中錄得1宗新增類鼻疽個案　涉及有長期病患70歲男子,2025-01-28 16:56,,2025-01-28 17:13,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789466-20250128.htm,"衞生防護中心表示，過去4日錄得1宗新增類鼻疽個案，涉及有長期病患的70歲男子。他居於深水埗，在本月21日出現排尿疼痛和排尿困難，翌日到明愛醫院求診並入院接受治療。他的臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
+衞生防護中心錄得1宗新增類鼻疽個案　涉及有長期病患70歲男子,2025-01-28 16:56,,2025-01-28 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789466-20250128.htm,"衞生防護中心表示，過去4日錄得1宗新增類鼻疽個案，涉及有長期病患的70歲男子。他居於深水埗，在本月21日出現排尿疼痛和排尿困難，翌日到明愛醫院求診並入院接受治療。他的臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
  
 中心正調查個案的感染源頭，流行病學調查仍在進行。
  
@@ -4610,7 +4611,7 @@ The minister said he hopes more citizens will visit Lunar New Year fairs across 
 貨幣發行局帳目顯示，截至去年底貨幣基礎19576億元，按月增加74億元，主要受已發行外匯基金票據及債券折價攤銷及負債證明書總額增加。
 
 截至12月底支持資產總額增加36億元，增至21446億元，主要是來自投資利息及發行負債證明書，有關增幅因投資按市價重估而被部分抵銷。支持比率則下降0.23個百分點，降至109.56%。"
-Businesses cautiously optimistic ahead of LNY holiday,2025-01-28 16:49,"Vendors anticipate varied revenue from Lunar New Year's reunion dinners due to price increases. A man spends over HK$1,000 on seafood, pricier but expected. Vegetable seller struggles, but poultry vendor sees no concern due to demand for fresh chickens. Restaurant business activity surpasses expectations with residents opting to dine out instead of traveling.",2025-01-28 16:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789456-20250128.htm,"Vendors were on the fence on Tuesday about how much revenue they would generate as people went to wet markets to buy food for their family reunion dinners.  
+Businesses cautiously optimistic ahead of LNY,2025-01-28 16:49,"Vendors anticipate increased revenue for Lunar New Year's reunion dinners, with some items like clams and shrimp priced 10% higher. Despite rough sales for some vegetables, poultry vendors are optimistic due to high demand for fresh chickens. The catering sector, led by dining out, has seen better-than-expected business activity, with a reported 10% increase over last year's Lunar New Year holiday.",2025-01-28 17:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789456-20250128.htm,"Vendors were on the fence on Tuesday about how much revenue they would generate as people went to wet markets to buy food for their family reunion dinners.  
 
 Reunion dinner on Lunar New Year’s Eve is traditionally regarded as the most important meal of the year in Chinese culture. 
 
@@ -4631,7 +4632,7 @@ Meanwhile, Simon Wong, president of the Federation of Restaurants and Related Tr
 He said that while many Hongkongers travel to the mainland during the holiday, those who stay in the city are more willing to dine out.
 
 “Overall, I believe business over the Lunar New Year holiday is more than 10 percent better than last year,” he said."
-Businesses cautiously optimistic ahead of LNY,2025-01-28 16:49,"Vendors anticipate increased revenue for Lunar New Year's reunion dinners, with some items like clams and shrimp priced 10% higher. Despite rough sales for some vegetables, poultry vendors are optimistic due to high demand for fresh chickens. The catering sector, led by dining out, has seen better-than-expected business activity, with a reported 10% increase over last year's Lunar New Year holiday.",2025-01-28 17:14,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789456-20250128.htm,"Vendors were on the fence on Tuesday about how much revenue they would generate as people went to wet markets to buy food for their family reunion dinners.  
+Businesses cautiously optimistic ahead of LNY holiday,2025-01-28 16:49,"Vendors anticipate varied revenue from Lunar New Year's reunion dinners due to price increases. A man spends over HK$1,000 on seafood, pricier but expected. Vegetable seller struggles, but poultry vendor sees no concern due to demand for fresh chickens. Restaurant business activity surpasses expectations with residents opting to dine out instead of traveling.",2025-01-28 16:59,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1789456-20250128.htm,"Vendors were on the fence on Tuesday about how much revenue they would generate as people went to wet markets to buy food for their family reunion dinners.  
 
 Reunion dinner on Lunar New Year’s Eve is traditionally regarded as the most important meal of the year in Chinese culture. 
 
@@ -4761,10 +4762,10 @@ He said that while many Hongkongers travel to the mainland during the holiday, t
 88名巴西公民上星期五被美國遣送回國，包機抵達巴西北部城市馬瑙斯時，到場迎接的巴西外長維埃看到他們雙手依然戴著手銬，非常不滿，認為做法是有辱人格及不可接受。巴西外交部其後發聲明抗議，要求美國政府解釋，又指事件違反兩國簽署的條約。
 
 巴西聯邦警察局說，被遣返人員在航班上使用手銬是美國的常見做法，但慣例是在抵達巴西之前將手銬取下。"
-電盈向李澤楷收購《信報》等媒體公司　作價7千萬元,2025-01-28 14:39,,2025-01-28 14:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789438-20250128.htm,"電訊盈科公布，以7000萬元現金向主席李澤楷為委託人的一項信託，收購《信報》及《信報財經月刊》等業務，包括經營HKEJ.COM網站及信報流動應用程式，提供免費及付費訂閱內容。
+電盈向李澤楷旗下信託收購《信報》等媒體公司　作價7千萬元,2025-01-28 14:39,,2025-01-28 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789438-20250128.htm,"電訊盈科公布，以7000萬元現金向主席李澤楷為委託人的一項信託，收購《信報》及《信報財經月刊》等業務，包括經營HKEJ.COM網站及信報流動應用程式，提供免費及付費訂閱內容。
 
 公告指，交易將擴大電盈相關領域業務，通過加強現有新聞頻道內容及優化電盈各類型媒體平台的體驗以擴大廣告及訂閱收入，並利用電盈的廣泛資源以提高營運效率。"
-電盈向李澤楷旗下信託收購《信報》等媒體公司　作價7千萬元,2025-01-28 14:39,,2025-01-28 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789438-20250128.htm,"電訊盈科公布，以7000萬元現金向主席李澤楷為委託人的一項信託，收購《信報》及《信報財經月刊》等業務，包括經營HKEJ.COM網站及信報流動應用程式，提供免費及付費訂閱內容。
+電盈向李澤楷收購《信報》等媒體公司　作價7千萬元,2025-01-28 14:39,,2025-01-28 14:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789438-20250128.htm,"電訊盈科公布，以7000萬元現金向主席李澤楷為委託人的一項信託，收購《信報》及《信報財經月刊》等業務，包括經營HKEJ.COM網站及信報流動應用程式，提供免費及付費訂閱內容。
 
 公告指，交易將擴大電盈相關領域業務，通過加強現有新聞頻道內容及優化電盈各類型媒體平台的體驗以擴大廣告及訂閱收入，並利用電盈的廣泛資源以提高營運效率。"
 萬洲分拆史密斯菲爾德周二於美國掛牌,2025-01-28 14:20,,2025-01-28 14:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789436-20250128.htm,"萬洲國際分拆獨立上市史密斯菲爾德股份定價每股20美元，相當於約155.6港元。股份將於紐約時間周二，於納斯達克全球精選市場開始買賣。
@@ -4847,19 +4848,6 @@ Yeung also said that there was a need to boost sales to make customers happy on 
 年廿九公共交通工具加強服務　陸路過境口岸無延長通關安排,2025-01-28 12:25,,2025-01-28 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789431-20250128.htm,"今日農曆年廿九，多項公共交通工具會加強服務，港鐵多條本地鐵路綫將通宵行駛，專營巴士公司會調整超過200條路線，加密或延長服務時間，電車亦會延長服務至大年初一凌晨1時半。
 
 陸路過境口岸並無延長通關安排，港粵直通巴士協會副理事長張劍平表示，會將資源集中在日間繁忙時間加強服務，又估計港人北上高峰會在大年初一至初三。"
-恒指高收27點　龍年累計升逾28%　結束3個農曆年跌勢,2025-01-28 12:19,,2025-01-28 13:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789429-20250128.htm,"港股在龍年最後一個交易日半日市，恒生指數反覆靠穩，初段高見20337點，創逾1個半月高位，其後一度輕微倒跌，收市報20225點，升27點，升幅0.14%，主板成交額近517億元。
-
-科技指數報4723點，升幅近0.8%。ATMXJ個別發展，小米高見38.45元創新高，收市升逾3%。騰訊及阿里巴巴升逾1%，美團跌1%，京東集團偏軟。
-
-中國初創企業DeepSeek推出低成本人工智能(AI)模型引起市場關注，AI概念股造好，百度升近4%，金山軟件升近6%，美圖急升逾15%。
-
-阿里健康是單日升幅最大藍籌股，升幅逾4%；表現最差的是中生製藥，跌近4%。中資金融、資源股受壓，中國宏橋跌逾3%，紫金礦業跌逾2%。
-
-龍年恒指全年累計升逾28%，結束連續3個農曆年的跌勢，亦是7個農曆年以來表現最好。科指累計升51%。
-
-今次龍年恒指升幅高於過去4次龍年平均升幅14%，只僅次於1988年龍年33%的升幅。
-
-至於1月恒指升165點，累計升幅0.8%；科指升5.7%，兩者都連升兩個月。"
 恒指高收27點　龍年累升逾28%　結束3個農曆年跌勢,2025-01-28 12:19,,2025-01-28 12:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789429-20250128.htm,"港股在龍年最後一個交易日半日市，恒生指數反覆靠穩，初段高見20337點，創逾1個半月高位，其後一度輕微倒跌，收市報20225點，升27點，升幅0.14%，主板成交額近517億元。
 
 科技指數報4723點，升幅近0.8%。
@@ -4878,6 +4866,19 @@ Yeung also said that there was a need to boost sales to make customers happy on 
 根據水務署的大數據分析，現時全港約有百分之一的客戶群，包括住宅及非住宅客戶，其用水量已佔去全港總用水量超過百分之30。「慳水特攻隊」計劃旨在為他們提供針對性的節水支援，將有效減少總用水量。
 
 水務署自去年2月推出新一輪慳水運動，經過接近1年的努力，住宅每日人均淡水用水量已由疫情高峰時期約151公升，下降至約133公升，幅度達百分之12，與疫情前相若，顯示署方的節水工作漸見成效。"
+恒指高收27點　龍年累計升逾28%　結束3個農曆年跌勢,2025-01-28 12:19,,2025-01-28 13:14,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789429-20250128.htm,"港股在龍年最後一個交易日半日市，恒生指數反覆靠穩，初段高見20337點，創逾1個半月高位，其後一度輕微倒跌，收市報20225點，升27點，升幅0.14%，主板成交額近517億元。
+
+科技指數報4723點，升幅近0.8%。ATMXJ個別發展，小米高見38.45元創新高，收市升逾3%。騰訊及阿里巴巴升逾1%，美團跌1%，京東集團偏軟。
+
+中國初創企業DeepSeek推出低成本人工智能(AI)模型引起市場關注，AI概念股造好，百度升近4%，金山軟件升近6%，美圖急升逾15%。
+
+阿里健康是單日升幅最大藍籌股，升幅逾4%；表現最差的是中生製藥，跌近4%。中資金融、資源股受壓，中國宏橋跌逾3%，紫金礦業跌逾2%。
+
+龍年恒指全年累計升逾28%，結束連續3個農曆年的跌勢，亦是7個農曆年以來表現最好。科指累計升51%。
+
+今次龍年恒指升幅高於過去4次龍年平均升幅14%，只僅次於1988年龍年33%的升幅。
+
+至於1月恒指升165點，累計升幅0.8%；科指升5.7%，兩者都連升兩個月。"
 陳國基發信感謝公務員及地區人士等參與啟德體育園演練,2025-01-28 12:13,,2025-01-28 12:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789428-20250128.htm,"政務司司長陳國基向公務員發信，感謝所有參與啟德體育園演練的公務員同事、親友以及地區人士，及過往各項演練的參與者。他說預計今年3月正式啟用的啟德體育園，是香港歷來最大型的體育基建，政府高度重視體育園由建造、籌備、開幕，以至將來營運等各個環節的工作。
 
 陳國基在信中表示，1月24日首次使用全部3個場館進行演練，政府全部77個政策局和部門透過超前部署及靈活調配下，確保對公共服務影響滅至最小的前提下，共派出48000名同事等人士參與。同事的積極投入，向全港市民展現公務員團隊上下一心，眾志成城為啟德體育園順利啟用作出重要貢獻，讓各項人群管理和公共交通壓力測試得以圓滿完成。
@@ -4918,12 +4919,12 @@ Yeung also said that there was a need to boost sales to make customers happy on 
 美國傳媒報道，美國國務院日前暫停現有絕大多數對外援助項目，為期90天。古特雷斯透過發言人發表聲明，呼籲美方考慮對其中關鍵的發展和人道主義援助給予豁免，從而確保繼續幫助世界上最脆弱的人群。
 
 他說，美國是世界上最大的對外援助提供國之一，期待與新一屆美國政府展開接觸，為發展中國家應對最艱難挑戰的人提供急需的發展支持。"
-有市民稱今年大除夕餸菜較去年貴　菜檔指生菜來貨價加近一倍,2025-01-28 11:21,,2025-01-28 11:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789423-20250128.htm,"今日農曆年廿九大除夕，不少市民到街市買餸，準備團年飯。
+有市民花千元買餸準備團年飯　菜檔指生菜來貨價加價最多,2025-01-28 11:21,,2025-01-28 11:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789423-20250128.htm,"今日農曆年廿九大除夕，不少市民到街市買餸，準備團年飯。
 
 在九龍城街市，有市民花費過千元，買了象拔蚌及蝦蟹等海鮮，又說食材價格較去年增加約一成，但認為可以接受，又表示這幾天留港消費，過年之後才外遊。亦有市民表示，前幾天已經買一些餸菜，今日再到街市補充，又說部分蔬菜相比往年，每斤加了近10元。
 
 有雞檔檔主表示，今年稍為加價，但對市民的消費意欲並沒大影響，他們普遍買一至兩隻活雞過年。她表示，每年都會有熟客提早預訂雞隻，但今年相對較少，她對銷情仍然樂觀。有菜檔檔主表示，蔬菜類加價較多，當中生菜加價近一倍，入貨亦相對少，以免有剩貨。"
-有市民花千元買餸準備團年飯　菜檔指生菜來貨價加價最多,2025-01-28 11:21,,2025-01-28 11:58,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789423-20250128.htm,"今日農曆年廿九大除夕，不少市民到街市買餸，準備團年飯。
+有市民稱今年大除夕餸菜較去年貴　菜檔指生菜來貨價加近一倍,2025-01-28 11:21,,2025-01-28 11:43,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1789423-20250128.htm,"今日農曆年廿九大除夕，不少市民到街市買餸，準備團年飯。
 
 在九龍城街市，有市民花費過千元，買了象拔蚌及蝦蟹等海鮮，又說食材價格較去年增加約一成，但認為可以接受，又表示這幾天留港消費，過年之後才外遊。亦有市民表示，前幾天已經買一些餸菜，今日再到街市補充，又說部分蔬菜相比往年，每斤加了近10元。
 
