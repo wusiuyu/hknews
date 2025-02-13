@@ -1,4 +1,5 @@
 title,date,summary,scrape_time,section,source,link,description
+日股半日升1.3%,2025-02-13 10:36,,2025-02-13 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791435-20250213.htm,日本股市半日升逾1%，日經平均指數上午收市報39474點，升511點，升幅1.31%。
 恒指升穿22000點關口　創逾4個月高位　,2025-02-13 10:27,,2025-02-13 10:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791433-20250213.htm,"港股連升兩日，恒生指數升穿22000點關口，曾高見22170點，創逾4個月高位，較早時報22114點，升256點，升幅1.17%。
 
 科技指數較早時升逾2%，ATMXJ普遍上升，阿里巴巴和美團升近4%或以上，但京東集團偏軟。
@@ -60,8 +61,8 @@ title,date,summary,scrape_time,section,source,link,description
 港股競價時段升100點,2025-02-13 09:25,,2025-02-13 09:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791423-20250213.htm,"港股在競價時段上升，恒生指數報21958點，升100點，升幅0.46%。
 
 科技指數報5321點，升40點，升幅0.77%。"
-人民幣兌美元中間價微跌　創逾3周新低,2025-02-13 09:18,,2025-02-13 09:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791421-20250213.htm,人民幣中間價報7.1719兌1美元，創逾3周新低，較上日中間價跌9點子，較市場預測偏離近1300點子。
 人民幣兌美元中間價微跌,2025-02-13 09:18,,2025-02-13 09:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791421-20250213.htm,人民幣中間價報7.1719兌1美元，較上日中間價跌9點子。
+人民幣兌美元中間價微跌　創逾3周新低,2025-02-13 09:18,,2025-02-13 09:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791421-20250213.htm,人民幣中間價報7.1719兌1美元，創逾3周新低，較上日中間價跌9點子，較市場預測偏離近1300點子。
 台股初段變動不大,2025-02-13 09:08,,2025-02-13 09:29,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791420-20250213.htm,台灣股市在開市初段變動不大，加權指數較早時報23305點，升15點，升幅0.07%。
 法國東南部一間酒吧發生手榴彈爆炸12人傷,2025-02-13 08:45,,2025-02-13 08:59,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1791419-20250213.htm,"法國東南部城市格勒諾布爾一間酒吧發生手榴彈爆炸，造成12人受傷。
 
@@ -2932,7 +2933,6 @@ Another focus for RTHK would be on the use of technology such as artificial inte
 公司又建議發行金額5億元於2026年到期的1.5厘可換股債券，初步換股價為每股6.325元，較配售價有15%溢價，較上周五收市溢價4.2%。假設悉數轉換，最多可轉換為約7900萬股新可換股債券股份，相當於已發行股本約2.95%，佔經擴大已發行股本約2.86%。
 
 公司表示，認購及債券發行所得款項淨額約9.85億元，淨認購價約為5.42元，假設債券按初步換股價獲悉數轉換，每股新可換股債券股份的淨發行價約6.22元。所得款項將用於進一步發展旗下品牌的面向消費者業務模式、推廣等，並作為營運資金支持一般企業用途。"
-人民幣兌美元中間價微跌,2025-02-10 09:21,,2025-02-10 09:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790967-20250210.htm,人民幣中間價報7.1707兌1美元，較上日中間價下跌8點子。
 Chinese businesses shrug off Trump tariffs,2025-02-10 09:21,"Traders in Yiwu, China's largest wholesale hub for manufactured items, are unfazed by US tariffs and Trump's trade policies. Beisi Group, a clothing and water bottle seller, prepared for adjustments after Trump's election and opened a factory in Tennessee. They expect minimal impact, with some price increases passed to consumers. Vendors continue to receive orders, and traders believe the additional costs will ultimately be borne by consumers.",2025-02-10 09:44,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1790966-20250210.htm,"Traders in China's export manufacturing hub of Yiwu shrugged off US President Donald Trump's tariffs and moves against China on Sunday, with some saying they made preparations to soften the blow.
 
 Yiwu city in eastern Zhejiang province is the world's largest wholesale hub for small manufactured items, exporting products ranging from Christmas trees to costume jewellery globally, including to the United States.
@@ -2960,6 +2960,7 @@ Abby Jin, who buys products in Yiwu on behalf of other customers in markets such
 ""We can respond by slighting reducing our profit margins or adjusting costs. In the end, the additional costs will be passed on to the end consumers in their country, meaning they will ultimately bear the consequences of their own economic policies,” she said.
 
 “For the U.S., whether they can find a suitable country to replace us (as a trade partner) is a question they need to consider themselves."" (Reuters)"
+人民幣兌美元中間價微跌,2025-02-10 09:21,,2025-02-10 09:44,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1790967-20250210.htm,人民幣中間價報7.1707兌1美元，較上日中間價下跌8點子。
 HK demand punishment after ice hockey players attacked,2025-02-10 09:20,"Hong Kong's ice hockey players were injured during handshakes after a game against Turkmenistan at the Asian Winter Games. Two players are stable after medical checks. Scuffles broke out, with videos showing multiple Hong Kong players attacked. Turkmen players received game misconduct penalties. Hong Kong's Sports Federation strongly condemns the incident and demands disciplinary action for safety. Hong Kong advances to a quarter-final match against Kyrgyzstan.",2025-02-10 16:44,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1790968-20250210.htm,"The Sports Federation and Olympic Committee of Hong Kong, China (SF&OC) is demanding action from relevant authorities after two SAR ice hockey players were injured by their Turkmen counterparts at the Asian Winter Games on Sunday.
 
 The two players are in a stable condition after getting checks by the team doctor and a local hospital.
