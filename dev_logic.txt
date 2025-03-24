@@ -68,7 +68,7 @@ media_newspage_parse_pages (E)
 - Create an Updater Object per Website
 - Override Scrapers per each Website Updater Object
 
-7 Cloud Deployment
+7. Cloud Deployment
 - Azure App Function
 - Create and Setup an Azure Func with VS Code Ext using Side Bar
 - Create an Empty Project Folder in Windows
@@ -77,3 +77,8 @@ media_newspage_parse_pages (E)
 - Install Python lib in .venv via pip
 - Update requirement.txt
 - Update function_app.py, unique Timer Function name
+
+8. TODO
+- Fix Pandas Date Warning
+- Structure Project Folders
+- Streamlit UI
