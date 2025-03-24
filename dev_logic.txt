@@ -1,0 +1,79 @@
+History of Development
+
+1. Basic Scraper
+- One-Off, One-URL
+- Save data as DF or csv
+
+2. Structure of Target Websites
+- FrontPage, News Headline with URL
+- Each URL to a News
+- Some Websites with Multiple Sections
+
+2.1 Corresponding Program Function
+- Scrape_One_Page
+- Scrape_All_Pages
+- Scrape_One_Section
+- Scrape_All_Sections
+
+3 Multiple Sites
+- RSS, HTML, API
+- Data Scheme
+-- title, date, summary, scrape_time, section, source, url, content
+- Date Cleansing
+
+4. News Update
+- Run Scraper every 15 mins
+- How to Properly Store the data
+-- Latest Scraped Data + Stored Data
+-- Remove Duplicates by date and title
+-- Data Retention
+-- Count Added Entry
+
+5. Logging
+- Finished Time, Media, Added Entry
+
+6.Code Structing
+6.1 Scraper
+media_frontpage_parse_sections
+|- media_frontpage_parse_a_section (E)
+|- |- media_fetch_url (E)
+|- |- media_frontpage_get_paragraphs (E)
+|- |- media_frontpage_parse_paragraph (E)
+
+media_newspage_parse_pages (E)
+|- media_newspage_parse_a_page (E)
+|- |- media_fetch_url (E)
+|- |- media_remove_elements
+|- |- media_newspage_get_paragraphs (E)
+|- |- media_newspage_parse_paragraphs (E)
+
+6.2 Utilities
+- DB_Read, DB_Write
+- Logging
+- Retention, Num_Latest_News
+
+6.3 Updater
+- Scrape_All_Sections (D)
+- DB_Read
+- DB_Write, backup
+- Join Scrape_All_Sections and DB_Read
+- Drop Duplicates
+- Retention
+- Scrape_All_Pages (D) 
+- Num_Latest_News, Logging
+- DB_Write
+
+6.4 Updater Class and Object
+- Define Updater as a Class
+- Create an Updater Object per Website
+- Override Scrapers per each Website Updater Object
+
+7 Cloud Deployment
+- Azure App Function
+- Create and Setup an Azure Func with VS Code Ext using Side Bar
+- Create an Empty Project Folder in Windows
+- Map Azure Func to Folder
+- Create .venv Env
+- Install Python lib in .venv via pip
+- Update requirement.txt
+- Update function_app.py, unique Timer Function name
