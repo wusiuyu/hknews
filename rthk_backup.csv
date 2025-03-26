@@ -1,4 +1,8 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
+韓股初段約0.3%,2025-03-26 08:43,,2025-03-26 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797415-20250326.htm,南韓股市初段上升，首爾綜合指數較早時報2623點，升7點，升幅0.28%。,,
+日股初段升逾200點　重上38000點,2025-03-26 08:43,,2025-03-26 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797414-20250326.htm,"日股初段造好，重上38000點水平。
+
+日經指數較早時報38029點，升248點，升幅0.66%。",,
 河北永清縣凌晨發生4.2級地震　暫沒傷亡和損毀報告,2025-03-26 08:25,,2025-03-26 08:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797413-20250326.htm,"河北廊坊市永清縣凌晨發生4.2級地震，震源深度20公里，中國地震局啟動三級應急服務響應，暫時無傷亡和損毀報告。
 　　
 地震在凌晨1時21分發生，河北省、北京和天津市地震局事後派出工作隊趕赴震區，協助地方政府開展應急處置工作。
@@ -87,11 +91,6 @@ title,date,summary,scrape_time,section,source,url,news_content,link,description
 德國DAX指數收報23109點，升257點，升幅1.13%。
 
 法國CAC指數收報8108點，升86點，升幅1.08%。",,
-金價曾升約0.8%　受避險資金支撐,2025-03-26 06:49,,2025-03-26 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797397-20250326.htm,"金價造好，受避險資金支撐，市場觀望美國總統特朗普下星期宣布的關稅措施，憂慮或會拖累經濟增長，進一步令貿易緊張局勢加劇，並推高通脹。
-
-現貨金高見每盎司3035.71美元，升約0.8%，較早時徘徊3020美元附近。
-
-紐約期金收報3025.9美元，升10.3美元，升幅0.3%。",,
 英美期油創逾3星期新高後個別發展,2025-03-26 06:49,,2025-03-26 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797396-20250326.htm,"英美期油曾觸及逾3星期高位，收市個別發展。
 
 美國威脅對購買委內瑞拉石油及天然氣的國家徵收25%關稅，市場憂慮全球供應收緊。不過，美國分別與俄羅斯及烏克蘭就黑海停火達成協議，分析預料對俄羅斯石油的制裁或會減少。
@@ -101,6 +100,11 @@ title,date,summary,scrape_time,section,source,url,news_content,link,description
 紐約期油曾升0.8%，觸及69.68美元，收報69美元，跌11美仙，跌幅約0.2%。
 
 另外，外電據消息人士引用美國石油協會(API)數據，美國上星期原油庫存減少460萬桶，汽油庫存減少328萬桶，兩者減幅都遠超市場預期。上星期蒸餾油庫存亦減少135萬桶，減幅少過預期。",,
+金價曾升約0.8%　受避險資金支撐,2025-03-26 06:49,,2025-03-26 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797397-20250326.htm,"金價造好，受避險資金支撐，市場觀望美國總統特朗普下星期宣布的關稅措施，憂慮或會拖累經濟增長，進一步令貿易緊張局勢加劇，並推高通脹。
+
+現貨金高見每盎司3035.71美元，升約0.8%，較早時徘徊3020美元附近。
+
+紐約期金收報3025.9美元，升10.3美元，升幅0.3%。",,
 特朗普稱華爾茲不需為記者加入通訊群組道歉　民主黨人促官員辭職,2025-03-26 06:37,,2025-03-26 06:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797403-20250326.htm,"美國一名記者無意中被加入華府高層討論打擊也門胡塞武裝行動的通訊群組的事件，引發外界對政府洩密的憂慮。
 
 總統特朗普在事件揭發後一日為團隊辯護，認為錯誤將記者加到通訊群組的白宮國家安全顧問華爾茲已汲取教訓及盡了最大努力，不需要道歉。特朗普稱讚參與群組討論的官員，又批評報道洩密事件的記者。華爾茲說，正調查記者如何進入群組。
@@ -275,16 +279,16 @@ To earn a spot in the 2027 Asian Cup finals in Saudi Arabia, the SAR squad has t
 
 根據積分榜，國足已無法以小組前兩名直接晉級世界盃。",,
 世界盃亞洲區外圍賽國足主場0:2澳洲,2025-03-25 21:08,,2025-03-25 21:15,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797364-20250325.htm, ,,
-美軍兩架魚鷹運輸機分別在日本兩個機場緊急降落,2025-03-25 21:06,,2025-03-25 21:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797363-20250325.htm,"共同社報道，兩架美軍魚鷹運輸機分別在日本兩個機場緊急降落。
-
-第一架魚鷹運輸機當地下午三時許，在長野縣松本市的松本機場緊急著陸。防衛省透露，運輸機是隸屬沖繩美軍，據稱無人受傷。另一架魚鷹運輸機30分鐘後在松本機場著陸，不久後便離開。松本機場的跑道一度關閉約45分鐘。
-
-另外，高知縣南國市的高知機場下午二時許，也有1架美軍飛機緊急著陸，是一架隸屬於山口縣岩國市美軍基地的F-35戰機。消息稱事件也沒有人受傷。",,
 政府積極籌備成立香港海運港口發展局　期待與業界緊密合作,2025-03-25 21:06,,2025-03-25 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797362-20250325.htm,"政府正積極籌備在今年年中成立新的「香港海運港口發展局」，運輸及物流局期待在新架構下繼續與業界緊密合作，共同以求新求變的精神，為香港航運業創造美好篇章。
 
 局方在社交網頁表示，香港海運港口局昨天舉行最後一次會議，自本屆去年上任以來，港口局及轄下三個委員會及五個專責工作小組合共舉行了24次會議，在多個範疇取得實質進展，包括有序落實《海運及港口發展策略行動綱領》、推動香港發展為綠色船用燃料加注中心、完成「海運及空運人才培訓基金」的檢討工作及優化海運專業人才的培育等。
 
 香港海運周去年更創下18000名現場參與者和650萬線上觀看人次的紀錄，多國政府和業界領袖參與，是歷屆以來最高度國際化的香港海運周之一。在政府與業界努力下，香港船舶註冊的競爭力穩固，最新港口國監督滯留率僅為0.69%，遠低於全球平均水平的3.30%，並在全球十大商船註冊地中位列前三名，目前香港註冊船舶的總註冊噸位達1億3220萬噸，處於近十年來的高位。",,
+美軍兩架魚鷹運輸機分別在日本兩個機場緊急降落,2025-03-25 21:06,,2025-03-25 21:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797363-20250325.htm,"共同社報道，兩架美軍魚鷹運輸機分別在日本兩個機場緊急降落。
+
+第一架魚鷹運輸機當地下午三時許，在長野縣松本市的松本機場緊急著陸。防衛省透露，運輸機是隸屬沖繩美軍，據稱無人受傷。另一架魚鷹運輸機30分鐘後在松本機場著陸，不久後便離開。松本機場的跑道一度關閉約45分鐘。
+
+另外，高知縣南國市的高知機場下午二時許，也有1架美軍飛機緊急著陸，是一架隸屬於山口縣岩國市美軍基地的F-35戰機。消息稱事件也沒有人受傷。",,
 'Coleman Wong's magical run inspires next generation',2025-03-25 21:04,,2025-03-25 21:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1797357-20250325.htm,"Coleman Wong’s history-making performance at the Miami Open will serve as a huge morale boost for the SAR’s next generation of tennis players, Hong Kong, China’s tennis chief said on Tuesday.
 
 The 20-year-old became the first-ever player from the SAR to get a win at a Masters 1000 match, and reached the event’s round of 32.  
@@ -474,14 +478,14 @@ Chan also pointed out that Hong Kong is now developing AI on five fronts, includ
 藥明生物去年少賺逾1%,2025-03-25 17:50,,2025-03-25 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797327-20250325.htm,"藥明生物去年盈利約33.6億元人民幣，按年跌1.3%。不派末期息。
 
 集團去年收入升近10%至186.8億元。毛利率41%，按年擴大0.9個百分點。",,
+發改委前副主任彭森：中國經濟步入穩定健康可持續發展軌道,2025-03-25 17:45,,2025-03-25 18:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797336-20250325.htm,"中國經濟體制改革研究會會長、國家發改委前副主任彭森說，隨著政策落實，中國經濟運行出現穩中有進的局面 ，去年中國經濟實現5%增長 ，今年首兩個月經濟平穩開局，兩會一系列利好政策推出，再加上去年7月二十屆三中全會的一系列改革政策的加持，中國經濟目前已經重新步入穩定健康，可持續發展軌道，中國經濟穩定回升態勢已經確立。
+
+他在博鰲亞洲論壇上表示，中國經濟要完成十四五規劃當時所提出的任務目標，還需要付出艱巨的努力，又指改革開放仍然是確定中國前途命運的關鍵一招，也是高質量發展最重要的推動力量。",,
 林定國明啓程往北京訪問　向港澳辦匯報主要政策措施進展,2025-03-25 17:45,,2025-03-25 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797338-20250325.htm,"律政司司長林定國明日上午啓程前往北京，展開為期四日的訪問，將拜訪國務院港澳辦，匯報律政司主要政策措施的進展。
  
 訪京期間，林定國會參加分別在最高人民法院及最高人民檢察院舉行的交流及研討會，並與有關領導和代表會面，就「一國兩制」下香港普通法制度及其他相關議題交流。
  
 林定國將於本星期六返港，離港期間，副司長張國鈞將署理律政司司長職務。",,
-發改委前副主任彭森：中國經濟步入穩定健康可持續發展軌道,2025-03-25 17:45,,2025-03-25 18:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797336-20250325.htm,"中國經濟體制改革研究會會長、國家發改委前副主任彭森說，隨著政策落實，中國經濟運行出現穩中有進的局面 ，去年中國經濟實現5%增長 ，今年首兩個月經濟平穩開局，兩會一系列利好政策推出，再加上去年7月二十屆三中全會的一系列改革政策的加持，中國經濟目前已經重新步入穩定健康，可持續發展軌道，中國經濟穩定回升態勢已經確立。
-
-他在博鰲亞洲論壇上表示，中國經濟要完成十四五規劃當時所提出的任務目標，還需要付出艱巨的努力，又指改革開放仍然是確定中國前途命運的關鍵一招，也是高質量發展最重要的推動力量。",,
 林定國明啓程往北京展開三日訪問　向港澳辦匯報主要政策措施進展,2025-03-25 17:45,,2025-03-25 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797338-20250325.htm,"律政司司長林定國明日上午啓程前往北京，展開為期三日的訪問，將拜訪國務院港澳辦，匯報律政司主要政策措施的進展。
  
 訪京期間，林定國會參加分別在最高人民法院及最高人民檢察院舉行的交流及研討會，並與有關領導和代表會面，就「一國兩制」下香港普通法制度及其他相關議題交流。
@@ -842,7 +846,7 @@ He said the commission took reference from the salaries given to management trai
 新西蘭政府地震監測機構表示，地震震央位於新西蘭南島以南對開海域、斯奈爾斯群島西北面160公里外附近，震源深度33公里，超過4700人報稱有震感。當地傳媒報道，有建築物搖晃及物件掉落。有網民形容，事發時見到戶外桌子像「跳舞一樣」。
 
 美國地質勘探局較早時指地震強度為7級，震源深度10公里。澳洲氣象部門表示，地震對澳洲不構成海嘯威脅。",,
-急症室收費增至400元　住院急症病床每日300元,2025-03-25 12:29,,2025-03-25 14:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797289-20250325.htm,"政府公布公營醫療服務收費改革方案，涉及的服務範圍涵蓋住院、日間程序、急症室、專科門診、病理檢驗、非緊急放射造影、家庭醫學門診等。
+急症室收費400元　住院急症病床每日300元,2025-03-25 12:29,,2025-03-25 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797289-20250325.htm,"政府公布公營醫療服務收費改革方案，涉及的服務範圍涵蓋住院、日間程序、急症室、專科門診、病理檢驗、非緊急放射造影、家庭醫學門診等。
 
 急症室收費將由現時180元增至400元，第一類危殆及第二類危急病人可獲豁免；急症醫院住院病床，收費每日300元；療養、復康及精神科病床，每日收費200元。
 
@@ -854,7 +858,7 @@ He said the commission took reference from the salaries given to management trai
 集團去年收入跌4.6%至226.69億元，年內市場競爭越趨激烈，行業平均售價下降，引致整體市場銷售出現負增長，但預期今年收入將保持穩定。
 
 集團去年毛利率跌1.4個百分點至約32.3%，集團說，今年將審慎投放促銷資源，高端高毛利產品預期將持續顯著增長，在原材料價格保持平穩下，毛利亦預期維持穩定。",,
-急症室收費400元　住院急症病床每日300元,2025-03-25 12:29,,2025-03-25 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797289-20250325.htm,"政府公布公營醫療服務收費改革方案，涉及的服務範圍涵蓋住院、日間程序、急症室、專科門診、病理檢驗、非緊急放射造影、家庭醫學門診等。
+急症室收費增至400元　住院急症病床每日300元,2025-03-25 12:29,,2025-03-25 14:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797289-20250325.htm,"政府公布公營醫療服務收費改革方案，涉及的服務範圍涵蓋住院、日間程序、急症室、專科門診、病理檢驗、非緊急放射造影、家庭醫學門診等。
 
 急症室收費將由現時180元增至400元，第一類危殆及第二類危急病人可獲豁免；急症醫院住院病床，收費每日300元；療養、復康及精神科病床，每日收費200元。
 
@@ -963,25 +967,6 @@ The trial period, it added, might be extended to collect more data, namely the n
 文件指出，任免國家安全總局負責人，屬於國家安全政策範疇，法院歷來不干涉有關領域，亦不能強迫政府與一位不獲信任的國家安全總局負責人合作。文件形容政府與巴爾已徹底決裂，再無可能合作，又否認打算解除巴爾職務是涉及利益衝突。
 
 以色列傳媒報道，國家安全總局正調查內塔尼亞胡的助手，是否與卡塔爾有非法聯繫，政府打算阻撓調查。巴爾早前表示作為國家安全總局局長，首先要對以色列公民忠誠，但內塔尼亞胡對個人忠誠的期望違背公眾利益。",,
-AI installation showcases HK reel heritage,2025-03-25 11:07,,2025-03-25 12:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1797269-20250325.htm,"In a first, M+ Museum is using artificial intelligence to transform its facade into a canvas celebrating Hong Kong's golden age of film during Art Basel. 
- 
-The ""Night Charades"" animation works like a fun guessing game, with the AI performing scenes for audiences to guess which films they reference. 
-
-Created by Singaporean artist Ho Tzu-nyen, the installation features AI-generated characters performing scenes inspired by local cinema icons including Leslie Cheung and Anita Mui.
-
-Ho told RTHK that he sees the project as a homage to the city's cinema heritage and a way to transform this legacy.
-
-""It's also a work in many ways dedicated to people across Asia who also grew up with these films and these images,"" he said.
-
-""For sure we have many Hongkongers who know these films and who have their own memories connected to these films that Night Charades is a homage to,"" Ho said. 
-
-This marks the fourth year of collaboration between M+ and Art Basel, joining other public art installations across the city such as at Pacific Place and Starstreet Precinct.  
-
-""We take a lot of pride in having the only screen in Hong Kong of that size that is an exhibition space,"" said Silke Schmickl, lead curator of moving image with the museum. 
-
-""Here it's really an expansion of what all other commissions can offer. It is of course a high peak season in Hong Kong during Art Basel.""
-
-The nighttime display runs from March 22 to June 29 at M+ Facade.",,
 M+ uses AI to show HK's film legacy during Art Basel,2025-03-25 11:07,,2025-03-25 11:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1797269-20250325.htm,"In a first, M+ Museum is using artificial intelligence to transform its facade into a canvas celebrating Hong Kong's golden age of film during Art Basel. 
  
 The ""Night Charades"" animation works like a fun guessing game, with the AI performing scenes for audiences to guess which films they reference. 
@@ -997,6 +982,25 @@ Ho told RTHK that he sees the project as a homage to the city's cinema heritage 
 This marks the fourth year of collaboration between M+ and Art Basel, joining other public art installations across the city such as at Pacific Place and Starstreet Precinct.  
 
 ""We take a lot of pride in having the only screen in Hong Kong of that size that is an exhibition space,"" said Silke Schmickl, Chanel Lead Curator of Moving Image with the museum. 
+
+""Here it's really an expansion of what all other commissions can offer. It is of course a high peak season in Hong Kong during Art Basel.""
+
+The nighttime display runs from March 22 to June 29 at M+ Facade.",,
+AI installation showcases HK reel heritage,2025-03-25 11:07,,2025-03-25 12:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1797269-20250325.htm,"In a first, M+ Museum is using artificial intelligence to transform its facade into a canvas celebrating Hong Kong's golden age of film during Art Basel. 
+ 
+The ""Night Charades"" animation works like a fun guessing game, with the AI performing scenes for audiences to guess which films they reference. 
+
+Created by Singaporean artist Ho Tzu-nyen, the installation features AI-generated characters performing scenes inspired by local cinema icons including Leslie Cheung and Anita Mui.
+
+Ho told RTHK that he sees the project as a homage to the city's cinema heritage and a way to transform this legacy.
+
+""It's also a work in many ways dedicated to people across Asia who also grew up with these films and these images,"" he said.
+
+""For sure we have many Hongkongers who know these films and who have their own memories connected to these films that Night Charades is a homage to,"" Ho said. 
+
+This marks the fourth year of collaboration between M+ and Art Basel, joining other public art installations across the city such as at Pacific Place and Starstreet Precinct.  
+
+""We take a lot of pride in having the only screen in Hong Kong of that size that is an exhibition space,"" said Silke Schmickl, lead curator of moving image with the museum. 
 
 ""Here it's really an expansion of what all other commissions can offer. It is of course a high peak season in Hong Kong during Art Basel.""
 
@@ -1044,28 +1048,28 @@ ATMXJ跌約2%至6%，小米集團跌幅最大，集團開市前公布折讓6.6%�
 
 日經指數半日升273點，報37881點，升幅0.73%。",,
 新西蘭里弗頓海岸地震　美國地質勘探局指強度為7級,2025-03-25 10:18,,2025-03-25 10:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797264-20250325.htm,新西蘭里弗頓海岸發生地震，美國地質勘探局指強度為黎克特制7級，震源深度為10公里。,,
-湖南當局指耒水流域污染源已受控　處置工作有序進行,2025-03-25 10:11,,2025-03-25 16:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797263-20250325.htm,"湖南湘江最大支流耒水流域，近日部分河段水質異常，引起關注。
-
-湖南生態環境廳凌晨發通報指出，經核實確定污染源為郴州市蘇仙區一間水泥企業，近日拆除窯爐時，窯爐内的鉈灰塵被雨水沖刷後流入水體導致， 目前下游各水廠出水鉈濃度均符合標準，供水安全未受影響。
-
-當局在通報中指出，耒水流域的郴州至耒陽段跨市斷面鉈濃度，於本月16日達到每升0.13微克，超出每升0.1微克的標準限值，湖南省及郴州市、衡陽市事後迅速啟動應急處置，包括將涉事企業的廢水，轉運至重金屬污水處理廠進行處置，做好場地防滲處理等，目前污染源已被管控，處置工作正有序進行。",,
 湖南當局指丰水流域污染源已受控　處置工作有序進行,2025-03-25 10:11,,2025-03-25 10:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797263-20250325.htm,"湖南湘江最大支流丰水流域，近日部分河段水質異常，引起關注。
 
 湖南生態環境廳凌晨發通報指出，經核實確定污染源為郴州市蘇仙區一間水泥企業，近日拆除窯爐時，窯爐内的鉈灰塵被雨水沖刷後流入水體導致， 目前下游各水廠出水鉈濃度均符合標準，供水安全未受影響。
 
 當局在通報中指出，丰水流域的郴州至丰陽段跨市斷面鉈濃度，於本月16日達到每升0.13微克，超出每升0.1微克的標準限值，湖南省及郴州市、衡陽市事後迅速啟動應急處置，包括將涉事企業的廢水，轉運至重金屬污水處理廠進行處置，做好場地防滲處理等，目前污染源已被管控，處置工作正有序進行。",,
-蔡崇信稱民營企業座談會後內地企業家信心增強,2025-03-25 10:08,,2025-03-25 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797262-20250325.htm,"阿里巴巴主席蔡崇信表示，自今年2月國家主席習近平會見民營企業以來，企業家信心明顯增強。
+湖南當局指耒水流域污染源已受控　處置工作有序進行,2025-03-25 10:11,,2025-03-25 16:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797263-20250325.htm,"湖南湘江最大支流耒水流域，近日部分河段水質異常，引起關注。
 
-他在香港舉行的滙豐銀行全球投資峰會上表示，已看到非常明顯的跡象，企業家變得更有信心，這是向商界發出的一個非常明確的信號，就是繼續對企業進行再投資，同時招聘員工，他認為現時已經觸底，集團將重新啟動及重新招聘。
+湖南生態環境廳凌晨發通報指出，經核實確定污染源為郴州市蘇仙區一間水泥企業，近日拆除窯爐時，窯爐内的鉈灰塵被雨水沖刷後流入水體導致， 目前下游各水廠出水鉈濃度均符合標準，供水安全未受影響。
 
-蔡崇信又提到，美國投資在人工智能的金額龐大，但需求可能被高估。他指出，市場集資數以十億計美元資金投資於建設數據中心，但未有與大型科技企業達成落成後使用協議，他看到某種泡沫已經開始出現 。
-
-他認為，市場未有減少對人工智能、未來發展及如何應用於各行各業的熱情，但要謹慎對待產能過剩的情況。",,
+當局在通報中指出，耒水流域的郴州至耒陽段跨市斷面鉈濃度，於本月16日達到每升0.13微克，超出每升0.1微克的標準限值，湖南省及郴州市、衡陽市事後迅速啟動應急處置，包括將涉事企業的廢水，轉運至重金屬污水處理廠進行處置，做好場地防滲處理等，目前污染源已被管控，處置工作正有序進行。",,
 蔡崇信：民營企業座談會後內地企業家信心增強,2025-03-25 10:08,,2025-03-25 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797262-20250325.htm,"阿里巴巴主席蔡崇信表示，自今年1月國家主席習近平會見民營企業以來，企業家信心明顯增強。
 
 他在香港舉行的滙豐銀行全球投資峰會上表示，現在內地民營企業信心上升，又提到集團計劃在商業周期觸底後開始重新招聘。
 
 他提到，美國投資在人工智能的金額龐大，但需求可能被高估。他指出，市場集資數以十億計美元資金投資於建設數據中心，但未有與大型科技企業達成落成後使用協議，他看到某種泡沫已經開始出現 。
+
+他認為，市場未有減少對人工智能、未來發展及如何應用於各行各業的熱情，但要謹慎對待產能過剩的情況。",,
+蔡崇信稱民營企業座談會後內地企業家信心增強,2025-03-25 10:08,,2025-03-25 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797262-20250325.htm,"阿里巴巴主席蔡崇信表示，自今年2月國家主席習近平會見民營企業以來，企業家信心明顯增強。
+
+他在香港舉行的滙豐銀行全球投資峰會上表示，已看到非常明顯的跡象，企業家變得更有信心，這是向商界發出的一個非常明確的信號，就是繼續對企業進行再投資，同時招聘員工，他認為現時已經觸底，集團將重新啟動及重新招聘。
+
+蔡崇信又提到，美國投資在人工智能的金額龐大，但需求可能被高估。他指出，市場集資數以十億計美元資金投資於建設數據中心，但未有與大型科技企業達成落成後使用協議，他看到某種泡沫已經開始出現 。
 
 他認為，市場未有減少對人工智能、未來發展及如何應用於各行各業的熱情，但要謹慎對待產能過剩的情況。",,
 精英體育事務委員會修訂A級資助條件　主席稱體育發展更穩定,2025-03-25 10:07,,2025-03-25 10:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797261-20250325.htm,"文化體育及旅遊局昨日公布精英體育項目資助機制檢討，桌球繼續獲保留為A級精英體育項目。
@@ -1153,6 +1157,9 @@ Replacing existing China-built vessels is not like flipping a light switch, said
 
 過去幾年，中國對某些類型的委內瑞拉進口石油加徵關稅，導致中國買家採購的委內瑞拉原油量下跌，最終迫使委內瑞拉國家石油公司加大價格折扣力度，以繼續向作為最重要市場的中國出售石油。",,
 台股初段升逾1%,2025-03-25 09:03,,2025-03-25 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797252-20250325.htm,台股初段升逾1%，加權指數較早時報22365點，升258點，升幅1.17%。,,
+日股初段升逾1%　重上38000點,2025-03-25 08:18,,2025-03-25 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797244-20250325.htm,"日股初段跟隨隔夜美股造好，重上38000點水平。
+
+日經指數較早時報38069點，升461點，升幅1.23%。",,
 韓股初段升0.5%,2025-03-25 08:18,,2025-03-25 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797245-20250325.htm,南韓股市早段靠穩，首爾綜合指數較早時報2645點，升13點，升幅0.51%。,,
 融創服務去年虧損擴大約4%　核心盈利基本持平,2025-03-25 08:18,,2025-03-25 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797247-20250325.htm,"融創服務去年虧損4.5億元人民幣，虧損按年擴大約4%。錄得虧損，因為出於謹慎考量，對關聯方貿易及其他應收款項計提減值撥備。
 
@@ -1170,9 +1177,6 @@ Replacing existing China-built vessels is not like flipping a light switch, said
 集團說，將購買30億美元的美國生產液化天然氣。
 
 另外，現代汽車將於本周三，為旗下位於喬治亞州的新汽車及電池工廠舉行開業典禮，這個車廠斥資75.9億美元建設，全面投產後的產能達30萬輛；集團及關聯公司現有兩家美國車廠每年產量合共70萬輛。",,
-日股初段升逾1%　重上38000點,2025-03-25 08:18,,2025-03-25 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797244-20250325.htm,"日股初段跟隨隔夜美股造好，重上38000點水平。
-
-日經指數較早時報38069點，升461點，升幅1.23%。",,
 美眾議長稱特朗普政府確認記者無意中被加入高官群組屬錯誤,2025-03-25 08:17,,2025-03-25 08:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1797248-20250325.htm,"美國國會眾議院議長、共和黨籍的約翰遜表示，在記者無意中被加入高官通訊群組的事件上，總統特朗普政府確認是一個錯誤，但他認為確實見到白宮高層官員正在履行職責，而且做得很好。約翰遜又說政府正應對及追查事件，確保不再發生同類情況。
 
 參議院民主黨領袖舒默要求全面調查究件，強調任何將敏感軍事計劃對外分享的政府人員，都面臨非常嚴重的後果。前交通部長、民主黨籍的布蒂吉格就說，事涉最高層級，從營運安全的角度來看，涉事官員無法保證國家安全。
