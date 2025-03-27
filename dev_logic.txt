@@ -82,3 +82,13 @@ media_newspage_parse_pages (E)
 - Fix Pandas Date Warning
 - Structure Project Folders
 - Streamlit UI
+
+Bug Fix
+20250325
+- Fixed Pandas Date Warning
+-- Using .copy() in retention date comparison
+- Fixed Local vs Azure Run Difference
+-- Only Found in HK01, Due to Timestamp
+- HK01 Article ID Length
+-- Checked Json, no Leading 0s
+- 
