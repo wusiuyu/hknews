@@ -1,7 +1,7 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
-韓股開市後靠穩,2025-04-02 08:13,,2025-04-02 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798547-20250402.htm,南韓股市靠穩。首爾綜合指數較早時報2525點，升3點。,,
 日股開市後靠穩,2025-04-02 08:13,,2025-04-02 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798546-20250402.htm,東京股市靠穩。日經指數較早時報35687點，升63點。,,
 南韓3月通脹率2.1%高於預期,2025-04-02 08:13,,2025-04-02 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798545-20250402.htm,南韓政府數據顯示，3月消費物價指數按年上升2.1%，較2月高0.1個百分點，亦高於市場預期。,,
+韓股開市後靠穩,2025-04-02 08:13,,2025-04-02 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798547-20250402.htm,南韓股市靠穩。首爾綜合指數較早時報2525點，升3點。,,
 解放軍東部戰區在台灣海峽中部和南部相關海域組織演練,2025-04-02 08:09,,2025-04-02 08:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798548-20250402.htm,"解放軍東部戰區今日在台灣海峽中部、南部相關海域，組織「海峽雷霆-2025A」演練，重點實施查證識別、警告驅離、攔截扣押等科目，檢驗部隊區域管控、聯合封控、精打擊要能力。
 
 解放軍東部戰區昨日開始，組織陸海空火等兵力，在台島周邊組織艦機多向抵近台島開展聯合演訓。東部戰區新聞發言人表示，是對「台獨」分裂勢力的嚴重警告和有力遏制，是捍衛國家主權、維護國家統一的正當必要行動。",,
@@ -47,11 +47,6 @@ Oxford Industries, the company behind the Tommy Bahama and Lilly Pulitzer brands
 多隻內銀股的美國預託證券較本港收市下跌。
 
 滙控、港交所及友邦的美國預託證券較本港收市則上升。",,
-紐約期油回落約0.4%,2025-04-02 06:28,,2025-04-02 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798537-20250402.htm,"原油期貨價格從5周高位回落。交易商擔心美國總統特朗普即將公布的對等關稅措施將加劇全球貿易戰。
-
-紐約5月期油收市報每桶71.2美元，跌28美仙，跌幅0.39%。
-
-布蘭特6月期油收市報每桶74.49美元，跌28美仙，跌幅0.37%。",,
 美元兌主要貨幣個別發展　10年期債息創1個月低位,2025-04-02 06:28,,2025-04-02 07:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798538-20250402.htm,"美元兌日圓下跌，兌歐元則向上。美國製造業萎縮，勞動力市場亦疲弱，勞工部報告顯示，2月職位空缺減少至756.8萬個。有分析認為，美國製造業已經受到特朗普保護主義政策的衝擊，未來幾個月或蔓延到其他經濟領域。
 
 美元兌日圓跌至149.6水平。
@@ -69,6 +64,11 @@ Oxford Industries, the company behind the Tommy Bahama and Lilly Pulitzer brands
 美元兌日圓跌至149.6水平。
 
 歐元兌美元跌至1.0795附近。投資者憂慮關稅及經濟前景，加大對歐洲央行未來進一步減息的預期，不利歐元表現。",,
+紐約期油回落約0.4%,2025-04-02 06:28,,2025-04-02 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798537-20250402.htm,"原油期貨價格從5周高位回落。交易商擔心美國總統特朗普即將公布的對等關稅措施將加劇全球貿易戰。
+
+紐約5月期油收市報每桶71.2美元，跌28美仙，跌幅0.39%。
+
+布蘭特6月期油收市報每桶74.49美元，跌28美仙，跌幅0.37%。",,
 紐約期金回吐逾4美元,2025-04-02 06:26,,2025-04-02 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798536-20250402.htm,"外圍金價回吐，但仍接近紀錄高位。近日投資者在美國總統特朗普宣布對等關稅前，將資金轉向避險資產。
 
 紐約6月期金收市報每盎士3146美元，跌4.3美元，跌幅0.14%。
@@ -341,9 +341,6 @@ Last updated: 2025-04-01 HKT 19:17",,
 李家超：目標令香港成為國際基建中心服務國家,2025-04-01 18:40,,2025-04-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798473-20250401.htm,"行政長官李家超出席國際水務領袖高峰論壇。他表示，東江水供港60年，孕育香港的經濟奇蹟，香港將會投資未來，目標成為國際基建中心服務國家。
 
 廣東省省長王偉中就表示，東深供水系統是名副其實的民生工程，廣東省未來會繼續與香港加強在水資源方面的合作。",,
-羅淑佩：香港迪士尼利用償還款項自資興建新設施是較好,2025-04-01 18:37,,2025-04-01 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798493-20250401.htm,"香港迪士尼樂園已開始償還由特區政府及華特迪士尼提供的貸款，至今已償還超過六成。有立法會議員關注，樂園何時償還餘下貸款。文化體育及旅遊局局長羅淑佩說，樂園需要擴容，讓旅客有更好體驗，利用償還款項，以自資興建新設施是較好。
-
-亦有議員關注，樂園如何吸引過境客變為入境客。園方說，希望可令旅客逗留久一點。",,
 香港迪士尼今年將償還四成貸款　羅淑佩稱樂園自資增建項目是好事,2025-04-01 18:37,,2025-04-01 23:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798493-20250401.htm,"立法會一個委員會討論香港迪士尼樂園度假區最新進展報告。民建聯立法會議員陳勇指出，香港迪士尼樂園已轉虧為盈，但仍有四成貸款未償還予特區政府及華特迪士尼，關注何時完成還款，又能否將部分盈利回撥予政府。
 
 文化體育及旅遊局局長羅淑佩表示，香港迪士尼樂園今年將償還有關四成貸款，她認同樂園要擴容以推陳出新，讓旅客有更好體驗，形容樂園自資增建彼思（Pixar）項目是好事。
@@ -353,6 +350,9 @@ Last updated: 2025-04-01 HKT 19:17",,
 另外，旅遊界姚柏良關注，政府如何將大嶼山打造為國際旅遊島，迪士尼又會否開拓更多客源，吸引過境客為入境客。香港迪士尼樂園度假區行政總裁莫偉庭說，在大嶼山這旅遊樞紐中，香港迪士尼屬主要景點，希望可聯同各界令旅客留港耐些。
 
 羅淑佩說，大嶼山未來幾年會有很多發展，例如機場附近將有遊艇停泊處等，可吸引旅客在機場附近一帶逗留，能與迪士尼產生協同效應。她又認為，迪士尼絕對要把握「粵車南下」機遇，可成為本港首站旅遊點。",,
+羅淑佩：香港迪士尼利用償還款項自資興建新設施是較好,2025-04-01 18:37,,2025-04-01 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798493-20250401.htm,"香港迪士尼樂園已開始償還由特區政府及華特迪士尼提供的貸款，至今已償還超過六成。有立法會議員關注，樂園何時償還餘下貸款。文化體育及旅遊局局長羅淑佩說，樂園需要擴容，讓旅客有更好體驗，利用償還款項，以自資興建新設施是較好。
+
+亦有議員關注，樂園如何吸引過境客變為入境客。園方說，希望可令旅客逗留久一點。",,
 文憑試筆試開考首日九成考生用「報到易」　考評局指運作暢順,2025-04-01 18:34,,2025-04-01 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798492-20250401.htm,"文憑試首科筆試、視覺藝術科今日開考。有考生表示緊張，亦有家長陪同子女到試場。
 
 考生今年要繼續使用電子點名系統「報到易」自行簽到，有考生擔心系統故障，所以提早到達學校。
@@ -390,7 +390,7 @@ Last updated: 2025-04-01 HKT 19:17",,
 美國國務卿魯比奧早前在美國國務院網站發布聲明指，中國拒絕美國外交官及記者等進入西藏，美方決定對參與制定或執行限制外國人進入藏區政策的中方官員實施簽證限制。
 
 郭嘉昆強調，西藏是開放的西藏，從未作出限制外國人進藏的規定。中方反對無端抹黑西藏的人權、宗教、文化事業發展現狀，反對外國官員以入藏履行職責為名，行干擾破壞之實，敦促美方恪守在西藏問題上所做承諾，停止縱容支持「藏獨」勢力，停止藉涉藏問題干涉中國內政。",,
-Ng On-yee happy that billiards keep its Tier A status,2025-04-01 17:46,,2025-04-01 18:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798472-20250401.htm,"Hong Kong, China snooker star Ng On-yee said a decision last week allowing billiards to retain its Tier A status will help the players as well as the sport's overall development.
+Ng On-yee happy that billiards keep Tier A status,2025-04-01 17:46,,2025-04-01 18:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798472-20250401.htm,"Hong Kong, China snooker star Ng On-yee said a decision last week allowing billiards to retain its Tier A status will help the players as well as the sport's overall development.
 
 The SAR snooker queen returned to Hong Kong on Tuesday after defending her title at the British Open in Walsall, England with a hard-fought 4-3 victory over Mink Nutcharut of Thailand.
 
@@ -412,7 +412,7 @@ Ng will next play in the World Women’s Snooker Championship 2025 in Dongguan b
 理想汽車3月交付量按年增長近27%　首季升近16%,2025-04-01 17:46,,2025-04-01 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798484-20250401.htm,"理想汽車公布，3月新車交付量近3.7萬輛，按年增長近27%；首季累計交付近9.3萬輛，按年增長近16%。
 
 截至3月底，理想汽車歷史累計交付量近122.7萬輛。",,
-Ng On-yee happy that billiards keep Tier A status,2025-04-01 17:46,,2025-04-01 18:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798472-20250401.htm,"Hong Kong, China snooker star Ng On-yee said a decision last week allowing billiards to retain its Tier A status will help the players as well as the sport's overall development.
+Ng On-yee happy that billiards keep its Tier A status,2025-04-01 17:46,,2025-04-01 18:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798472-20250401.htm,"Hong Kong, China snooker star Ng On-yee said a decision last week allowing billiards to retain its Tier A status will help the players as well as the sport's overall development.
 
 The SAR snooker queen returned to Hong Kong on Tuesday after defending her title at the British Open in Walsall, England with a hard-fought 4-3 victory over Mink Nutcharut of Thailand.
 
@@ -451,17 +451,17 @@ Ng will next play in the World Women’s Snooker Championship 2025 in Dongguan b
 陳茂波在社交專頁說，回溯上世紀六十年代，香港面對水資源短缺。國家當時在極不容易的條件下，投入巨大的人力物力，迅速完成東江水供港工程，從根本上解決了香港缺水問題，為香港的社會民生、經濟發展提供了根本保障。
 
 陳茂波又說，面對全球氣候變化的挑戰，國家始終堅持「3060」減碳目標，為全球氣候行動作出貢獻。香港亦致力於2050年實現碳中和，並積極布局綠色科技和綠色金融，透過科技賦能和和資金引導，推動粵港澳大灣區的綠色轉型和可持續發展，也為整個灣區持久實現「穩定供水、安全供水、優質供水」，貢獻香港力量。",,
+中國救援隊伍在緬甸已救出8名倖存者,2025-04-01 17:23,,2025-04-01 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798479-20250401.htm,"緬甸中部大地震發生至今，增至超過2700人死亡，4500多人受傷，超過440人失蹤。新華社報道，截至當地今早8時，中國救援隊伍共搜救出8名倖存者。
+
+緬甸全國今日舉行默哀儀式，在災情嚴重的第二大城市曼德勒，全市在當地中午默哀一分鐘，又響起警報，悼念地震死難者。
+
+軍政府昨日宣布，全國哀悼7天至星期日，建築物下半旗致哀。",,
 緬甸地震增至逾2700人死亡　中國救援隊伍已救出8名倖存者,2025-04-01 17:23,,2025-04-01 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798479-20250401.htm,"緬甸中部大地震發生至今，增至超過2700人死亡，4500多人受傷，超過440人失蹤。新華社報道，截至當地今早8時，中國救援隊伍共搜救出8名倖存者。至於在當地的特區救援隊，早上首次聯同中國救援隊搜救。 
 
 緬甸全國今日舉行默哀儀式，在災情嚴重的第二大城市曼德勒，全市在當地中午默哀一分鐘，又響起警報，悼念地震死難者。
 
 軍政府昨日宣布，全國哀悼7天至星期日，建築物下半旗致哀。",,
 緬甸大地震增至逾2700人死亡　中國救援隊伍已救出8名倖存者,2025-04-01 17:23,,2025-04-01 18:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798479-20250401.htm,"緬甸中部大地震發生至今，增至超過2700人死亡，4500多人受傷，超過440人失蹤。新華社報道，截至當地今早8時，中國救援隊伍共搜救出8名倖存者。至於在當地的特區救援隊，早上首次聯同中國救援隊搜救。 
-
-緬甸全國今日舉行默哀儀式，在災情嚴重的第二大城市曼德勒，全市在當地中午默哀一分鐘，又響起警報，悼念地震死難者。
-
-軍政府昨日宣布，全國哀悼7天至星期日，建築物下半旗致哀。",,
-中國救援隊伍在緬甸已救出8名倖存者,2025-04-01 17:23,,2025-04-01 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798479-20250401.htm,"緬甸中部大地震發生至今，增至超過2700人死亡，4500多人受傷，超過440人失蹤。新華社報道，截至當地今早8時，中國救援隊伍共搜救出8名倖存者。
 
 緬甸全國今日舉行默哀儀式，在災情嚴重的第二大城市曼德勒，全市在當地中午默哀一分鐘，又響起警報，悼念地震死難者。
 
@@ -811,11 +811,6 @@ Speaking on the same programme, lawmaker Tang Fei expressed concern that propose
 Officials are suggesting that such teachers be required to hold a bachelor's degree majoring in English, a postgraduate teaching qualification and a certificate in teaching English as a second or foreign language.
 
 Currently, applicants only need a degree in any subject and the teaching English certificate.",,
-王毅：美方倘一味施壓　中方必將堅決反制,2025-04-01 12:43,,2025-04-01 13:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798425-20250401.htm,"中共中央政治局委員、外長王毅說，中國從來不接受強權霸權，美方如果一味施壓，甚至繼續搞各種訛詐，中方必將堅決反制。
-
-正在俄羅斯訪問的王毅，接受俄羅斯衛星通訊社訪問，談到中美貿易等問題。他說，美方一味推卸責任，諉過於人，動輒加徵關稅，甚至搞極限施壓，不僅解決不了存在的問題，還會嚴重擾亂全球市場，破壞國際經貿秩序，損害自身國際信譽。「美國優先」不應是美式霸凌，更不能把自己的利益建立在損害別國正當權益的基礎之上。
-
-王毅又說，如果美方真的想解決芬太尼問題，就應該取消無理加徵的關稅，與中方平等協商，尋求互利合作之道。",,
 Top court overturns ex-lawmaker's acquittal,2025-04-01 12:43,,2025-04-01 13:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798417-20250401.htm,"Hong Kong's top court has overturned the acquittal of a former lawmaker for revealing that a police officer who was on duty during a mob attack at a railway station during the 2019 protests was facing an anti-graft probe.
 
 Ruling in favour of the government, the Court of Final Appeal restored Lam Cheuk-ting's conviction and sentence on Tuesday.
@@ -845,6 +840,11 @@ Echoing his fellow judge, Cheung said simply revealing the fact that an individu
 But judges Joseph Fok and Johnson Lam disagreed, saying the law specifically refers to the disclosure of someone who's under a corruption investigation. 
 
 Noting a previous amendment of the ordinance that narrowed the scope of law, Fok said the purpose of the current section was to protect the integrity of a bribery probe ""rather than an ICAC investigation in general.""",,
+王毅：美方倘一味施壓　中方必將堅決反制,2025-04-01 12:43,,2025-04-01 13:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798425-20250401.htm,"中共中央政治局委員、外長王毅說，中國從來不接受強權霸權，美方如果一味施壓，甚至繼續搞各種訛詐，中方必將堅決反制。
+
+正在俄羅斯訪問的王毅，接受俄羅斯衛星通訊社訪問，談到中美貿易等問題。他說，美方一味推卸責任，諉過於人，動輒加徵關稅，甚至搞極限施壓，不僅解決不了存在的問題，還會嚴重擾亂全球市場，破壞國際經貿秩序，損害自身國際信譽。「美國優先」不應是美式霸凌，更不能把自己的利益建立在損害別國正當權益的基礎之上。
+
+王毅又說，如果美方真的想解決芬太尼問題，就應該取消無理加徵的關稅，與中方平等協商，尋求互利合作之道。",,
 當局辦「1+」新藥註冊講座　逾70業界代表出席,2025-04-01 12:35,,2025-04-01 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798424-20250401.htm,"​衞生署昨日舉行首場「1+」新藥註冊申請簡介講座，向業界及持份者介紹「1+」機制下的藥劑製品註冊要求，以及今年稍後推出的各項諮詢服務。
 
 今次講座共有76名來自本地或境外藥企、顧問機構和科研機構等的代表參與，反應熱烈。衞生署將於4月和5月再舉辦兩場講座，又會由6月起，舉辦工作坊，為「1+」機制下，新藥註冊申請提供指導及分享優良規範和實踐經驗。衞生署亦將由今年下半年開始，為有意遞交「1+」註冊申請者提供申請前諮詢會議，安排稍後公布。
@@ -976,6 +976,21 @@ He also highlighted Hong Kong's vision to become an international infrastructure
 泡泡瑪特升逾4%破頂。
 
 個別資源股、本地地產及收租股都上升。",,
+US faces 'strong' reaction to sanctions on officials,2025-04-01 10:42,,2025-04-01 11:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798399-20250401.htm,"Beijing has warned of ""strong and resolute"" countermeasures against fresh sanctions imposed on six mainland and Hong Kong officials by the United States.
+
+In a strongly worded statement on Tuesday, the Foreign Ministry's office in Hong Kong accused Washington of smearing the ""One Country, Two Systems"" principle and slandering the city's rule of law, democracy, freedom and human rights situation.
+
+""This is a gross interference in China's internal affairs and Hong Kong affairs, and a serious violation of the principles of international law and the basic norms governing international relations,"" said the Commissioner's Office of China's Foreign Ministry.
+
+It also said the move to impose sanctions has once again exposed Washington's ""evil intentions"" of undermining the SAR's prosperity and stability, as well as containing China's development. 
+
+""China will surely take strong and resolute countermeasures,"" it said. 
+
+Among the officials sanctioned are Dong Jingwei, the director of the Office for Safeguarding National Security in Hong Kong; justice chief Paul Lam; and outgoing police commissioner Raymond Siu. 
+
+""The SAR police have taken lawful actions against overseas anti-China rioters, and the SAR judicial authorities have independently and impartially tried national security cases following legal procedures,"" the office said. 
+
+""These acts are consistent with international law and customary practice, and are just and necessary moves to safeguard national security and Hong Kong's prosperity and stability.""",,
 China condemns fresh sanctions on officials,2025-04-01 10:42,,2025-04-01 11:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798399-20250401.htm,"Beijing has warned of ""strong and resolute"" countermeasures against fresh sanctions imposed on six mainland and Hong Kong officials by the United States.
 
 In a strongly worded statement on Tuesday, the Commissioner's Office of the Foreign Ministry in Hong Kong accused Washington of smearing the ""One Country, Two Systems"" principle and slandering the city's rule of law, democracy, freedom and human rights situation.
@@ -997,21 +1012,6 @@ The Chinese embassy in the US also condemned the sanctions.
 ""The Chinese central government resolutely supports the law enforcement and judicial authorities of the Hong Kong SAR in carrying out their duties in accordance with the law and punishing acts that undermine national security,"" the embassy said in a statement. 
 
 ""We urge the US side to respect the facts, stop meddling in Hong Kong affairs and interfering in China's internal affairs, and stop smearing Hong Kong's democracy and rule of law.""",,
-US faces 'strong' reaction to sanctions on officials,2025-04-01 10:42,,2025-04-01 11:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1798399-20250401.htm,"Beijing has warned of ""strong and resolute"" countermeasures against fresh sanctions imposed on six mainland and Hong Kong officials by the United States.
-
-In a strongly worded statement on Tuesday, the Foreign Ministry's office in Hong Kong accused Washington of smearing the ""One Country, Two Systems"" principle and slandering the city's rule of law, democracy, freedom and human rights situation.
-
-""This is a gross interference in China's internal affairs and Hong Kong affairs, and a serious violation of the principles of international law and the basic norms governing international relations,"" said the Commissioner's Office of China's Foreign Ministry.
-
-It also said the move to impose sanctions has once again exposed Washington's ""evil intentions"" of undermining the SAR's prosperity and stability, as well as containing China's development. 
-
-""China will surely take strong and resolute countermeasures,"" it said. 
-
-Among the officials sanctioned are Dong Jingwei, the director of the Office for Safeguarding National Security in Hong Kong; justice chief Paul Lam; and outgoing police commissioner Raymond Siu. 
-
-""The SAR police have taken lawful actions against overseas anti-China rioters, and the SAR judicial authorities have independently and impartially tried national security cases following legal procedures,"" the office said. 
-
-""These acts are consistent with international law and customary practice, and are just and necessary moves to safeguard national security and Hong Kong's prosperity and stability.""",,
 日本央行任命經濟學家中村康治為央行新理事,2025-04-01 10:39,,2025-04-01 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798398-20250401.htm,日本央行任命經濟學家中村康治為央行新理事，接替4年任期屆滿的加藤毅，中村康治將負責監督貨幣政策和金融市場。,,
 日股半日升逾200點,2025-04-01 10:35,,2025-04-01 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1798400-20250401.htm,"東京股市半日升逾200點。
 
