@@ -1,4 +1,19 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
+滬深股市初段跌近4%至6%以上,2025-04-07 09:34,,2025-04-07 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799184-20250407.htm,"內地股市初段顯著下挫。
+
+上證指數較早時報3211點，跌130點，跌幅3.91%。
+
+深證成份指數報9824點，跌540點，跌幅5.22%。
+
+創業板指數報1935點，跌130點，跌幅6.31%。",,
+港股急跌　恒指競價時段報20730點　跌2119點,2025-04-07 09:22,,2025-04-07 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799182-20250407.htm,"美國對貿易夥伴徵收對等關稅，亞太區主要股市急跌。
+
+港股假期後復市，恒指失守21000點，在競價時段報20730點，跌2119點，跌幅9.28%。
+
+科指跌逾11%，報4721點。
+
+藍籌股接近全線下跌，除電能實業外都向下，多隻股份跌約15%。",,
+人民幣兌美元中間價跌逾90點,2025-04-07 09:20,,2025-04-07 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799181-20250407.htm,人民幣中間價報7.198兌1美元，較上星期五中間價跌91點子。,,
 台股復市　加權指數重挫近10%,2025-04-07 09:05,,2025-04-07 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799180-20250407.htm,"台灣股市假期後復市，追回外圍及區內跌勢。
 
 加權指數失守20000點，較早時報19217點，跌幅9.77%。",,
@@ -392,7 +407,7 @@ Coldplay啟德演唱會下周展開　運輸署籲過境旅客預早計劃,2025-
 盧寵茂稱公立醫院收費改革增保障　猶如政府送出一份保險,2025-04-06 12:24,,2025-04-06 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799104-20250406.htm,"醫務衞生局局長盧寵茂表示，公立醫院收費改革已討論多年，強調能夠為市民增加保障，猶如政府送出一份保險一樣。
 
 至於日後如果病人已預約服務，但最終沒有到場，當局會否收取費用，盧寵茂以訂酒店為比喻，認為每個人要為自己行為負責。",,
-'AI guidelines push is to help prevent data leaks',2025-04-06 12:19,,2025-04-06 12:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799103-20250406.htm,"Hong Kong firms making use of generative artificial intelligence may run the risk of data breaches, Privacy Commissioner Ada Chung warned on Sunday, as she explained how new advice issued by her office will help mitigate the dangers. 
+'AI guidelines push to help prevent data leaks',2025-04-06 12:19,,2025-04-06 17:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799103-20250406.htm,"Hong Kong firms making use of generative artificial intelligence may run the risk of data breaches, Privacy Commissioner Ada Chung warned on Sunday, as she explained how new advice issued by her office will help mitigate the dangers. 
 
 Last week, Chung issued a checklist for companies that is designed to help them develop internal policies or guidelines on the use of Gen AI by their staff.
 
@@ -407,7 +422,7 @@ Chung said companies with questions on how their use of AI can comply with the r
 The commissioner added that her team has the authority to investigate any incidents where people's privacy is endangered by a company's use of AI. 
 
 ""We can investigate incidents when we receive data breach reports and after that we can issue reports, or even publicly condemn the organisations involved. We can also issue enforcement notices to them and it is a criminal offence if an organisation does not abide by a notice,"" she noted.",,
-'AI guidelines push to help prevent data leaks',2025-04-06 12:19,,2025-04-06 17:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799103-20250406.htm,"Hong Kong firms making use of generative artificial intelligence may run the risk of data breaches, Privacy Commissioner Ada Chung warned on Sunday, as she explained how new advice issued by her office will help mitigate the dangers. 
+'AI guidelines push is to help prevent data leaks',2025-04-06 12:19,,2025-04-06 12:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799103-20250406.htm,"Hong Kong firms making use of generative artificial intelligence may run the risk of data breaches, Privacy Commissioner Ada Chung warned on Sunday, as she explained how new advice issued by her office will help mitigate the dangers. 
 
 Last week, Chung issued a checklist for companies that is designed to help them develop internal policies or guidelines on the use of Gen AI by their staff.
 
@@ -492,9 +507,3 @@ The US 25 percent tariff on imported cars and light trucks took effect on April 
 鍾麗玲在一個電台節目說指引有三頁，系統列出五大內容，包括使用AI的範圍、保障個人資料私隱、合法合乎道德使用AI、數據安全，以及違反指引的後果，形容僱主可以「執藥咁執」。她表示，指引推出幾日後，有業界反映希望公署製作內部政策的樣本，署方會考慮，而公署設有AI安全熱綫，讓企業查詢問題，亦有度身訂造的培訓課程，6月亦會同生產力促進局舉辦AI安全研討會。
 
 對於AI風險方面，鍾麗玲說，最主要是關注個人資料私隱風險，尤其是資料的使用，例如員工將收集到的客戶資料悄悄用於訓練AI。其次是員工輸入一些公司不允許的敏感機密資料。第三，是關於資料外洩的問題，因為訓練AI通常需要大量數據，如果發生事故，後果可以相當嚴重。",,
-​投資推廣署助理署長到中東推廣本港商機,2025-04-06 09:36,,2025-04-06 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799087-20250406.htm,"​投資推廣署助理署長吳國才今日至4月10日出訪中東，主要到訪沙特阿拉伯和阿聯酋，加深與這些蓬勃市場的經濟聯繫，並宣傳香港是中東企業開拓內地和亞太地區市場的首要門戶。
-
-吳國才表示，在環球局勢日趨複雜及地緣政治不明朗的情況下，中東國家正積極進行多元化投資。香港作為全球金融中心，以及內地、亞洲和世界其他地區之間的「超級聯繫人」，有着獨特的優勢扭轉局面。在「一國兩制」下，香港擁有健全的法律制度、資金及資訊自由流通，以及與國際接軌的法規。除了金融之外，香港也是貿易、物流、創新和專業服務的樞紐，是中東合作夥伴開拓內地及亞太地區市場的門戶。
-　　
-2023年香港與海灣阿拉伯國家合作委員會的商品貿易總額達216億美元，兩地藉着「一帶一路」等倡議促進更緊密聯繫和強大經濟機遇，進一步鞏固雙方的關係。
-　　",,
