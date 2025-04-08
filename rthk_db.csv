@@ -1,4 +1,23 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
+"'Reckless' tariffs hurt global trade, says John Lee",2025-04-08 11:10,,2025-04-08 11:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799378-20250408.htm,"Chief Executive John Lee has hit out at the United States for slapping ""reckless"" tariffs on countries and places around the world, vowing to take steps to respond to the sweeping levies through deepening international cooperation. 
+
+Washington has announced an additional 34 percent tariff on Chinese goods, which also applies to Hong Kong. 
+
+Coming on top of existing levies, the tariffs go up to 54 percent. 
+
+""The US no longer adheres to free trade, arbitrarily undermining the internationally established rules of world trade,"" Lee said ahead of Tuesday's Executive Council meeting. 
+
+""Its ruthless behaviour damages global and multilateral trade. 
+
+""The reckless imposition of tariffs affects many countries and regions around the world with huge tax rate increases and covering a wide range of goods, disrupting the world's economic and trade order, bringing great risks and uncertainties to the world.""
+
+Export enterprises will inevitably be affected in the short run by the tariffs, Lee added. 
+
+To address the effects brought about by US tariffs, the chief executive said seizing opportunities on the mainland and integrating into national development is one of seven key areas in which the SAR government is hoping to strengthen its work. 
+
+Lee also pledged to boost international exchanges, strengthen global financial cooperation, and work to attract foreign investment. 
+
+On Hong Kong, he said the authorities would accelerate industrial transformation, intensify efforts in the development of innovation and technology, while supporting enterprises to cope with the impacts of tariffs and external challenges.",,
 台股跌幅擴至5%　重磅股鴻海再度跌停,2025-04-08 11:02,,2025-04-08 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799380-20250408.htm,"台灣股市連續兩日顯著下挫，較早時跌幅擴大至5%。加權指數較早時報18285點，跌946點，跌幅4.92%。
 
 重磅股鴻海跌停，台積電反彈逾4%。",,
@@ -389,12 +408,12 @@ This week's calendar includes updates on US consumer prices, as well as earnings
 特朗普：若中國不撤回34%反制關稅　美方周三起額外徵五成關稅,2025-04-07 23:49,,2025-04-08 00:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799314-20250407.htm,"美國總統特朗普警告，如果中國不在星期二前撤銷對美國徵收34%的反制關稅，美方從星期三起會對中國再額外加徵50%關稅。
 
 特朗普在社交平台貼文中又說，此外，所有中方要求與美方的會談都將會終止，美國與其他提出會談要求國家的談判，將會立即展開。",,
-當局料招募約3.8萬政府人員參與立法會換屆選舉工作,2025-04-07 23:07,,2025-04-07 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799313-20250407.htm,"第8屆立法會選舉將於12月7日舉行；在選舉前會舉行選委會界別分組補選，定於9月7日進行。當局初步預計需要招募大約38500名政府人員參與相關工作。
+選舉事務處為兩場選舉預留約15億元,2025-04-07 23:07,,2025-04-07 23:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799313-20250407.htm,"第8屆立法會選舉將於12月7日舉行；在選舉前會舉行選委會界別分組補選，定於9月7日進行。當局初步預計需要招募大約38500名政府人員參與相關工作。
 
 政制及內地事務局向立法會特別財委會提交文件，指選舉事務處為兩場選舉預留大約15億1300萬元撥款，包括3億7千萬為員工開支、1億8千萬為宣傳開支，以及9億6千萬用作租用場地、投票站和點票站運作、交通費、和租用臨時辦公室等。
 
 立法會換屆選舉預留撥款為12億8千萬元，較2021年實際開支的大約8億4100萬元，增加約52%，增幅主要來自宣傳開支、資訊科技支援開支、票站場地的租金，以及員工薪酬等。",,
-選舉事務處為兩場選舉預留約15億元,2025-04-07 23:07,,2025-04-07 23:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799313-20250407.htm,"第8屆立法會選舉將於12月7日舉行；在選舉前會舉行選委會界別分組補選，定於9月7日進行。當局初步預計需要招募大約38500名政府人員參與相關工作。
+當局料招募約3.8萬政府人員參與立法會換屆選舉工作,2025-04-07 23:07,,2025-04-07 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799313-20250407.htm,"第8屆立法會選舉將於12月7日舉行；在選舉前會舉行選委會界別分組補選，定於9月7日進行。當局初步預計需要招募大約38500名政府人員參與相關工作。
 
 政制及內地事務局向立法會特別財委會提交文件，指選舉事務處為兩場選舉預留大約15億1300萬元撥款，包括3億7千萬為員工開支、1億8千萬為宣傳開支，以及9億6千萬用作租用場地、投票站和點票站運作、交通費、和租用臨時辦公室等。
 
@@ -408,6 +427,11 @@ This week's calendar includes updates on US consumer prices, as well as earnings
 署方又分階段擴大「智管網」監測範圍，至食水主幹水管及餘下尚未設有「智管網」的食水分配管網，並更新監測水管流量及水壓的傳感器，預計今年第二季起分階段完成，整項工作2027年完工；又強化供水事故應變管理，就緊急維修水管工作的消息發布機制更新內部指引，確保更準確發布預計恢復供水時間。
 
 署方說，截至2024年12月，共約540公里長的水管已納入「風險為本水管資產管理計劃」，當中約235公里已完成更換或復修；另外，自2016年起為全港的食水分配管網逐步建立約2400個「智管網」監測區域。相關措施逐步取得成效，水管滲漏率由2000年超過25%下降至2024年的13.4%。",,
+當局2023/24年度就致命工業意外檢控及定罪傳票屬3年最低,2025-04-07 22:56,,2025-04-07 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799311-20250407.htm,"勞工處在2023至24年度，就致命工業意外提出146項檢控、以及115張定罪傳票，屬過去3個財政年度最低，但每張傳票判處的平均罰款金額為24007元，高於對上兩個財政年度。
+
+勞工及福利局向立法會特別財委會提交文件，指2023至24年度，共巡查大約7萬次建築地盤，提出2097次檢控，當中最多為不安全高處工作，佔總數近37%；其次為沒有提供或佩戴個人防護裝備，達433宗，佔總數兩成。
+
+當局說，勞工處除了恆常巡查和特別執法行動外，也會針對高危工序、安全表現欠佳的工地，進行特別巡查行動、安全審核巡查和更深入的突擊巡查；勞工處也會加強科技應用，利用無人機進行空中拍攝和將拍攝所得影像生成三維實景模型，協助蒐證和執法等工作，預計今年下半年推出。",,
 針對工地高危工序　勞工處料今年下半年利用無人機助執法,2025-04-07 22:56,,2025-04-07 23:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799311-20250407.htm,"勞工處在2023至24年度，就致命工業意外提出146項檢控、以及115張定罪傳票，是近三個財政年度最低，而每張傳票判處的平均罰款金額為24007元，高於對上兩個財政年度。
 
 勞工及福利局向立法會特別財委會提交文件，指2023至24年度，共巡查大約7萬次建築地盤，提出2097次檢控，當中最多為不安全高處工作，佔總數近37%；其次為沒有提供或佩戴個人防護裝備，達433宗，佔總數兩成。
@@ -418,11 +442,6 @@ This week's calendar includes updates on US consumer prices, as well as earnings
 中國誠通屬國務院國資委資本運營平台。
 
 中央匯金公司較早時亦發出公告，表示堅定看好中國資本市場發展前景，充分認可當前A股配置價值，已再次增持ETF，未來將繼續增持，堅決維護資本市場平穩運行。",,
-當局2023/24年度就致命工業意外檢控及定罪傳票屬3年最低,2025-04-07 22:56,,2025-04-07 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799311-20250407.htm,"勞工處在2023至24年度，就致命工業意外提出146項檢控、以及115張定罪傳票，屬過去3個財政年度最低，但每張傳票判處的平均罰款金額為24007元，高於對上兩個財政年度。
-
-勞工及福利局向立法會特別財委會提交文件，指2023至24年度，共巡查大約7萬次建築地盤，提出2097次檢控，當中最多為不安全高處工作，佔總數近37%；其次為沒有提供或佩戴個人防護裝備，達433宗，佔總數兩成。
-
-當局說，勞工處除了恆常巡查和特別執法行動外，也會針對高危工序、安全表現欠佳的工地，進行特別巡查行動、安全審核巡查和更深入的突擊巡查；勞工處也會加強科技應用，利用無人機進行空中拍攝和將拍攝所得影像生成三維實景模型，協助蒐證和執法等工作，預計今年下半年推出。",,
 美股大幅波動,2025-04-07 22:46,,2025-04-07 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799308-20250407.htm,"紐約股市顯著波動，3大主要指數曾經跌逾4%，較早時曾經掉頭上升，隨後再度下跌。
 
 道瓊斯指數較早時報37654點，跌660點，跌幅1.72%。
@@ -527,7 +546,7 @@ Tickets to various performances are available from April 15.",,
 他表示，美國關稅措施影響多方面，除貿易層面，亦對經濟造成外溢影響。香港作為細小全開放經濟體，亦是國際貿易樞紐，難免受到一定影響，不過本港會在金融、貿易和創科等方面推動經濟增長，培育新產業。
 
 陳茂波指出，地緣局勢發展困擾全球貿易前景，特區政府會多方面支援本地中小企業，包括繼續透過出口信用保險局，加強為從事貿易的企業提供出口信用保險的支援，金管局會繼續積極協調銀行幫助中小企應付資金周轉的需要，另外，本港亦會透過BUD專項基金，支持香港企業發展品牌升級轉型和拓展新市場，尤其是東南亞、中東等全球南方的新興市場，又會通過資助計劃支持企業加快數碼轉型，把握電商機遇。",,
-HK market functioning normally amid sell-off: FS,2025-04-07 19:33,,2025-04-07 23:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1799293-20250407.htm,"Financial Secretary Paul Chan said the Hong Kong stock market and the local currency remain robust and strong, after the US tariffs triggered the biggest single-day sell-off for the Hang Seng Index on record. 
+HK market functioning normally despite sell-off: FS,2025-04-07 19:33,,2025-04-07 19:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1799293-20250407.htm,"Financial Secretary Paul Chan said the Hong Kong stock market and the local currency remain robust and strong, after the US tariffs triggered the biggest single-day sell-off for the Hang Seng Index on record. 
 
 The local bourse lost 3,021 points, or 13.2 percent, to close at 19,828. 
 
@@ -546,7 +565,7 @@ He said reciprocal tariffs from different counties against the United States and
 ""We do not think the current volatility in the market warrants any drastic measures to be taken,"" he said.
 
 Chan added that officials will keep a close eye on the markets to guard against financial risks.",,
-HK market functioning normally despite sell-off: FS,2025-04-07 19:33,,2025-04-07 19:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1799293-20250407.htm,"Financial Secretary Paul Chan said the Hong Kong stock market and the local currency remain robust and strong, after the US tariffs triggered the biggest single-day sell-off for the Hang Seng Index on record. 
+HK market functioning normally amid sell-off: FS,2025-04-07 19:33,,2025-04-07 23:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1799293-20250407.htm,"Financial Secretary Paul Chan said the Hong Kong stock market and the local currency remain robust and strong, after the US tariffs triggered the biggest single-day sell-off for the Hang Seng Index on record. 
 
 The local bourse lost 3,021 points, or 13.2 percent, to close at 19,828. 
 
@@ -1133,36 +1152,3 @@ Asked about the relationship between AI art and traditional animation, Shroff co
 消防處在新一集影片中，介紹位於將軍澳百勝角消防及救護學院內的國家安全教育暨資源中心，中心內有虛擬的國家安全主題消防車供參觀者「打卡」。另外，中心有互動資訊牆，介紹國家安全重點領域，亦有互動影相機及不同展品，介紹國安知識及消防處維護國安的工作。
 
 消防處表示，中心接受團體及個人預約參觀。",,
-航班上今起不能用外置充電器　乘客稱影響不大上機前會為手機充電,2025-04-07 11:28,,2025-04-07 11:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799211-20250407.htm,"由今天起，飛機乘客不得在航班上使用外置充電器為其他便攜式電子裝置、不得為外置充電器充電、亦不得把外置充電器放置於行李架上。
-
-在機場，大部分旅客表示知道新規定，亦認為合理。有外遊市民說，經過上月懷疑有放在機艙行李架的充電器起火事件後，在機上應該注重安全。有旅客說，上機前會先為手機充電，不少航班座位上亦有充電插頭，認為新措施對乘客影響不大。
-
-有內地旅客表示，以往坐飛機一向都不能使用充電器，認為不能將充電器放在行李架是合理做法，一旦充電器發生事故也可即時察覺。",,
-HK triathletes clinch bronze on home soil,2025-04-07 11:27,,2025-04-07 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799202-20250407.htm,"Hong Kong, China secured a bronze medal in the mixed relay at the Asia Triathlon Sprint Championships. 
-
-The SAR quartet of Cade Wright, Tallulah Wright, Robin Elg and Jason Ng completed the race on home turf in one hour, 32 minutes and 16 seconds on Sunday, finishing just two seconds behind Japan.
-
-Meanwhile, the national team dominated the competition from the outset at Central Harbourfront, clinching the gold medal with a time of one hour, 31 minutes and five seconds.
-
-On the first day of competition on Saturday, Ng and Cade Wright finished ninth in their respective men's and women's races. 
-
-The race started with a swim at Victoria Harbour, followed by cycling around Lung Wo Road, before ending the running portion at Tamar Park.",,
-港交所：將一視同仁加快整體上市審批時間,2025-04-07 11:20,,2025-04-07 11:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799209-20250407.htm,"證監會及聯交所早前就優化新上市申請審批流程，雙方將分別在不多於40個營業日內，確認相關申請是否存在重大監管關注事項。
-
-港交所行政總裁陳翊庭在立法會財經事務委員會會議上表示，2022年聯交所審批上市申請時間中位數61日，截至上月底的12個月，中位數縮減至28日，強調會對包括在海外上市的中概股等企業一視同仁，加快整體上市審批時間。
-
-港交所早前就優化IPO進行諮詢，包括建議基石投資者禁售期由6個月，改為分3個月及6個月兩次解禁，諮詢期已於上月19日結束。有議員關注安排或對招股前的投資者不公平。陳翊庭表示，建議目標為抵消大部份發行股票被鎖定造成流動性影響，諮詢期間收到業界正、反聲音，交易所會平衡各方意見。
-
-有議員關注循上市規則18A章上市的未盈利生物科技公司股價表現，陳翊庭指出，其他交易所沒有專門服務同類股份的章節，不能與其他地區直接比較，但留意到今年首季18A公司表現不錯，港交所正就整個IPO定價和價格發現全面檢討，諮詢結果會適時向市場公布。",,
-清明節假期全國口岸逾620萬人次出入境　較去年同期增近兩成,2025-04-07 11:17,,2025-04-07 11:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799208-20250407.htm,"國家移民管理局公布，清明節假期全國口岸錄得超過621.2萬人次出入境，日均207.1萬人次，較去年同期增長19.7%。
-
-其中，內陸居民出入境276萬人次，按年增長14%；港澳台居民275.5萬人次，按年上升21.5%；外國人69.7萬人次，按年增長39.5%。另外，共查驗出入境交通運輸工具27.1萬架次，較去年同期上升15.7%。
-
-當局表示，全國邊檢機關全警動員，部門密切協作聯動，及時疏導客流高峰，清明節假期，全國口岸出入境安全便捷、井然有序。針對港澳台居民、海外華人華僑返鄉祭祖人數多、老年人多等實際情況，設置專門查驗通道，為需要特殊照顧的旅客提供幫助。",,
-加強大眾對國安20個重點領域意識　周一鳴稱國安法非洪水猛獸,2025-04-07 11:15,,2025-04-07 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799206-20250407.htm,"警務處處長周一鳴接受報章訪問表示，國安法與其他法例無分別，跟兇殺同屬嚴重罪行，只是國安法屬「重中之中」。由於大多市民的認知停留於調查工作，日後要加強大眾對國安20個重點領域的意識，例如經濟安全及網絡安全。對於剛卸任警務處處長的蕭澤頤被美國制裁，他強調對此「嗤之以鼻」，日後會繼續加強情報蒐集及主導工作。
-
-被問到執行國安法會否對國際藝術交流造成寒蟬效應，周一鳴表示，兩者不能混為一談，很多藝人知悉「紅線」，亦有創作自由，本地及外地訪客仍享受盛事，反映國安法對創作無影響。他強調國安法並非洪水猛獸，很多西方國家均有訂立，只是有人嘗試污衊本港國安法並認為不應立法，猶如「把家中門窗拆掉」，會繼續危害本港安全。
-
-對於近年有警員被捕會如何跟進，周一鳴說警察是好職業，涉事警員犯錯會影響的包括家人及朋友，他得悉有警員「行差踏錯」會感痛心，但絕不姑息，而很多案件是經警方調查，反映警隊相當緊張。
-
-周一鳴說未來重點工作之一是鞏固團隊文化，入職基礎訓練會加入誠信管理，入職後亦定期舉辦工作坊，任內會提倡團隊合作。他強調自己與其他警員無分別，只是擁有不同角色，相信憑個人經驗及團隊合作，定能以「無畏無懼、忠誠勇毅」方式繼續服務香港。",,
