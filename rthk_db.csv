@@ -1,4 +1,50 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
+"Authorities doing more to tackle scams, mule accounts",2025-04-10 13:34,,2025-04-10 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799754-20250410.htm,"Authorities on Thursday said they are stepping up efforts to tackle scam syndicates and their use of mule accounts to launder funds. 
+
+This came after the number of scam cases rose by 12 percent, to almost 45,000 last year, involving more than HK$9 billion. 
+
+Some 8,600 people were arrested on suspicion of lending their bank accounts for money laundering in 2024, a jump of 44 percent from the previous year. 
+
+Among the new measures, police will be sharing with banks the account and phone numbers, as well as e-mails associated with suspicious bank accounts on its Scameter database. 
+
+The Monetary Authority (HKMA) said banks could flag suspicious accounts, and when money goes into them, they can consider reminding clients of risks, conduct further vetting, or ask police for help.
+
+Subject to Legco's passage of a new law, local retail banks will also seek to step up data sharing of suspicious accounts and transactions by the end of the year. 
+
+An executive director of the HKMA, Raymond Chan, said authorities and the sector will take steps to protect the privacy of clients.
+
+""Banks will only be sharing client information in specific situations as the information can only be used for detecting and preventing banned activities such as scams and money laundering,"" he told a press conference.
+
+""The sharing will take place on a designated, confidential platform set up by police.""
+
+Chan said the HKMA and the force will closely monitor the information sharing system, and it will be issuing guidelines to banks on its use.
+
+Meanwhile, a police chief superintendent, Kelly Cheng, said officers had taken steps to tackle cross-border scam cases. 
+
+She noted that in a joint operation spanning several months last year, mainland authorities arrested 251 people in connection with more than 500 scam cases.
+
+The arrestees – most of them from the mainland – were suspected of coming to Hong Kong to open bank accounts before going back across the border.",,
+AI to turbocharge fintech growth in Asia: Paul Chan,2025-04-10 13:21,,2025-04-10 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1799750-20250410.htm,"Financial Secretary Paul Chan said on Thursday the integration of artificial intelligence technology into the fintech industry could help turbocharge financial development across Asia. 
+
+His remarks came as the government-owned investment body, Hong Kong Investment Corporation (HKIC), launched a strategic partnership with locally-based virtual bank, WeLab Bank, to further enrich the city's fintech ecosystem
+
+Speaking at a ceremony marking the partnership, Chan noted that the city's fintech industry, with firms numbering some 1,100, has seen rapid growth over the past year, rising by four places to rank fourth on the Global Financial Centres Index in terms of fintech evaluations.
+
+He added that it's essential for the industry to incorporate the latest AI technology into its services so to transform the finance and banking systems.
+
+ ""For instance, AI technologies can uncover correlations between seemingly unrelated factors, enabling the identification of credit worthiness in individuals who might otherwise be regarded as unqualified for lending,"" Chan said.
+
+""This is exactly what WeLab is achieving for its innovative technologies.
+
+""I'm confident that through this partnership HKIC and WeLab can assist more local and regional enterprises to leverage AI and fintech to support economic development across Asia,"" he added.
+
+WeLab Bank, launched in 2019, said it has been ramping up its adoption of AI in recent years and has integrated DeepSeek's AI models into its local system. 
+
+The virtual lender has just reported its first monthly profit in December as it speeds up expansion into the southeast Asian market, including Indonesia and Thailand.
+
+HKIC, which manages HK$62 billion in funds, targets lending support to boost the city's strategic industries through cooperation, while pursuing reasonable financial returns at the same time.
+
+In one of its latest moves, it struck a strategic partnership deal with chipmaker, StarFive, to speed up the adoption of the popular RISC-V chips, an open-source architecture used to design less-sophisticated semiconductors, in the SAR.",,
 報道：內地決策層今日召開重要會議　討論推出更多經濟刺激政策,2025-04-10 13:19,,2025-04-10 13:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799753-20250410.htm,"外電引述消息人士指，內地決策層今日召開重要會議，討論推出更多經濟刺激政策，以應對貿易戰。
 
 彭博引述消息人士指，會議聚焦樓市、消費和科技創新等領域，研究推出新的支持措施；包括金融監管在內其他政府部門亦密集召開會議，討論提振經濟及穩定市場措施。相關安排仍有變化。
@@ -375,6 +421,13 @@ Just before his interview, Trump announced that he was suspending levies on all 
 Bank of France governor Francois Villeroy de Galhau welcomed the US move which he called ""a return to economic realism and a little reality"". But he warned that US policy remained ""unpredictable"" and that there would be a ""negative impact"" in Europe.
 
 Italy, which exports much more to the US than France, earlier in the day halved its growth forecast for 2025 to 0.6 percent. (AFP)",,
+油價轉升逾4%收市,2025-04-10 05:50,,2025-04-10 06:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799685-20250410.htm,"原油期貨價格由跌轉升，美國總統特朗普暫緩對中國以外國家徵收較高額對等關稅90日。
+
+油價初段跌約7%，最終收市升逾4%。
+
+倫敦布蘭特期油收報每桶65.48美元，上升2.66美元，升幅4.23%。
+
+紐約期油收報每桶62.35美元，上升2.77美元，升幅4.65%。",,
 金價升3%或以上　市場憂中美貿易緊張局勢進一步升級,2025-04-10 05:50,,2025-04-10 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799687-20250410.htm,"金價升3%或以上，受避險資金推動，市場擔心中美貿易緊張局勢進一步升級。
 
 美國總統特朗普宣布，暫緩對其他國家徵收較高稅額對等關稅，但對中國加徵的關稅稅率提升至125%。
@@ -389,13 +442,6 @@ Italy, which exports much more to the US than France, earlier in the day halved 
 法國CAC指數收報6863點，跌237點，跌幅3.34%。
 
 德國DAX指數收報19670點，跌609點，跌幅3%。",,
-油價轉升逾4%收市,2025-04-10 05:50,,2025-04-10 06:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799685-20250410.htm,"原油期貨價格由跌轉升，美國總統特朗普暫緩對中國以外國家徵收較高額對等關稅90日。
-
-油價初段跌約7%，最終收市升逾4%。
-
-倫敦布蘭特期油收報每桶65.48美元，上升2.66美元，升幅4.23%。
-
-紐約期油收報每桶62.35美元，上升2.77美元，升幅4.65%。",,
 特朗普暫緩中國以外多國高額對等關稅　相信最終會跟中方達成協議,2025-04-10 05:31,,2025-04-10 05:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799684-20250410.htm,"美國總統特朗普宣布，即時上調對中國加徵的關稅至125%，並暫緩對其他國家徵收較高稅率的對等關稅90日。
 
 特朗普在白宮回應記者提問時說，過去幾日一直考慮暫緩措施，強調只是想要公平的待遇，美國不想傷害那些不想遭到傷害的國家，又認為美國將會與中國及每個國家達成協議。
@@ -604,14 +650,14 @@ These politicians should stop interfering in Hong Kong affairs, the spokesperson
 李強強調，面對國內外情勢的新變化，做好第二季和下一步經濟工作，尤為重要，要實施好更加積極有為的宏觀政策，根據形勢需要，及時推出新的增量政策，以有力有效的政策應對外部環境的不確定性。要做大做強國內大循環，把擴大內需作為長期戰略。
 
 李強指出，希望廣大企業家厚植家國情懷，積極應變局、促發展，做強做優做大企業，為國家發展大局多作貢獻。",,
-海警局：菲律賓船隻經允許下向仁愛礁軍艦補及,2025-04-09 20:02,,2025-04-09 20:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799650-20250409.htm,"中國海警局新聞發言人劉德軍表示，經中方允許，菲律賓派1艘船隻對其非法「坐灘」仁愛礁軍艦運送生活物資，中國海警對菲船只詢問確認並全程監管。中方敦促菲方信守承諾，停止炒作，並同中方相向而行，共同管控好海上局勢。
-
-中國海警將持續在仁愛礁在內的南沙群島及附近海域，開展維權執法活動。",,
 衞生署：過去5年共接種逾800萬劑流感疫苗　沒有相關死亡個案,2025-04-09 20:02,,2025-04-09 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799651-20250409.htm,"衞生署表示，香港現時使用的流感疫苗，包括滅活流感疫苗、重組流感疫苗和減活流感疫苗，都是安全和有效，過去5年本港共接種超過800萬劑流感疫苗，沒有接獲因接種流感疫苗後的死亡個案。
 
 衞生防護中心總監徐樂堅回覆傳媒關於接種流感疫苗安全性的查詢時說，香港設有藥物安全監測機制，監測接種疫苗後的異常事件。他說，傳統的滅活疫苗已沿用數十年，疫苗經過反覆試驗及品質檢測，證實非常安全可靠，較新的減活及重組流感疫苗的安全性亦與滅活流感疫苗相若；世界衞生組織亦表示接種疫苗是預防由流感引起的嚴重疾病最有效的措施。
 
 徐樂堅又說，流感疫苗的副作用通常是輕微且短暫，最常見的副作用包括接種處出現痛楚和紅腫，部分人士可能出現發燒、發冷、肌肉疼痛，以及疲倦等，接種流感疫苗後出現嚴重不良反應非常罕見。",,
+海警局：菲律賓船隻經允許下向仁愛礁軍艦補及,2025-04-09 20:02,,2025-04-09 20:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799650-20250409.htm,"中國海警局新聞發言人劉德軍表示，經中方允許，菲律賓派1艘船隻對其非法「坐灘」仁愛礁軍艦運送生活物資，中國海警對菲船只詢問確認並全程監管。中方敦促菲方信守承諾，停止炒作，並同中方相向而行，共同管控好海上局勢。
+
+中國海警將持續在仁愛礁在內的南沙群島及附近海域，開展維權執法活動。",,
 政府稱將研究加強西貢東壩小巴服務,2025-04-09 19:54,,2025-04-09 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799649-20250409.htm,"政府表示，將研究加強西貢萬宜水庫東壩的小巴服務。在立法會財委會特別會議上，選委界議員陸瀚民指出，政府推動生態旅遊，但近日萬宜水庫東壩出現交通亂象問題，包括有「黑的」亂收車資、有旅客要從東壩乘搭快艇到西貢碼頭離開等，詢問當局有何措施應對。
 
 漁護署署長黎堅明表示，東霸旅客人數上升得很厲害，與運輸署、旅遊事務署等相關部門一直有溝通，將審視情況看看如何能加強東霸小巴交通服務，於旺季時疏導人流。
@@ -689,14 +735,14 @@ TikTok「不賣就禁」再延75天　商務部反對強取豪奪,2025-04-09 18:
 外交部：若美方執意打貿易戰將奉陪到底,2025-04-09 18:23,,2025-04-09 18:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799625-20250409.htm,"在北京，外交部發言人回應美國再對中國進口貨品加徵關稅時表示，如果美方執意打關稅戰、貿易戰，中方必將奉陪到底，強調會繼續採取堅決有力措施，維護自身的正當權益。
 
 國務院總理李強早前就指，中國今年的宏觀政策，有充足的儲備政策工具，完全能夠對沖外部不利影響。",,
+美國對等關稅生效　對華貨品關稅增至104%,2025-04-09 18:16,,2025-04-09 18:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799624-20250409.htm,"美國對多個貿易夥伴開徵的對等關稅周三生效，總統特朗普表示，因應中國實施報復性關稅，決定對部分中國進口貨品額外徵收50%的關稅，累計加徵稅率達到104%；特朗普同時簽署行政命令，將中國內地及香港進口小額包裹關稅增至90%，下月2日起生效。
+
+特朗普認為中國仍希望與美國達成協議，只是不懂得如何開始。",,
 國家應急管理部向中國救援人員致以崇高敬意　為近年出動人數最多,2025-04-09 18:16,,2025-04-09 18:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799633-20250409.htm,"到緬甸參與地震救援行動的中國救援隊、中國國際救援隊，以及中國香港特區救援隊完成任務回國，國家應急管理部在北京首都國際機場停機坪舉行迎接儀式，救援隊隊員接受獻花。
 
 内地傳媒報道，國家應急管理部部長王祥喜在儀式上，向所有中國救援人員致以誠摯慰問和崇高敬意。他指出，中國香港特區救援隊繼土耳其地震救援後，再次與內地救援隊伍在同一面國旗下開展國際救援行動，形容今次是近年來中國出動人數最多、速度最快的一次國際救援。
 
 王祥喜說，中國救援隊伍在過去12日爭分奪秒、不分晝夜、克服困難，用專業與汗水書寫了中國擔當，展現中國速度及中國溫度，得到緬甸政府和人民的高度肯定，向全世界展示了「和衷共濟、守望相助」的國際人道主義精神和新時代中國負責任大國形象。",,
-美國對等關稅生效　對華貨品關稅增至104%,2025-04-09 18:16,,2025-04-09 18:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799624-20250409.htm,"美國對多個貿易夥伴開徵的對等關稅周三生效，總統特朗普表示，因應中國實施報復性關稅，決定對部分中國進口貨品額外徵收50%的關稅，累計加徵稅率達到104%；特朗普同時簽署行政命令，將中國內地及香港進口小額包裹關稅增至90%，下月2日起生效。
-
-特朗普認為中國仍希望與美國達成協議，只是不懂得如何開始。",,
 製造及新型工業產業經濟活動前年價值768億　增7.6%,2025-04-09 17:58,,2025-04-09 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799631-20250409.htm,"政府公布，本港「製造及新型工業產業」的經濟活動涵蓋範圍及表現，2023年有關增加價值為768億元，較前一年上升7.6%，約佔本地生產總值的2.6%。
 
 政府表示，當中涵蓋的經濟活動，包括食品製造、晶片設計、人工智能模型開發及應用、數據服務及軟件開發、驗證測試及認證、環境工程及綠色事業等。
@@ -857,15 +903,6 @@ Sun said officials had already raised the penalty for people using the card and 
 烏克蘭稱俘獲2名中國士兵　外交部：正核實情況,2025-04-09 15:41,,2025-04-09 16:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799601-20250409.htm,"烏克蘭總統澤連斯基表示，烏軍在東部頓涅茨克，俘虜2名為俄軍作戰的中國公民。在北京，外交部表示，中方正向烏克蘭核實有關的情況。發言人林劍表示，中國政府始終要求公民遠離武裝衝突區域，避免以任何形式，捲入武裝衝突，尤其應應避免參加任何一方的軍事行動。
 
 對於澤連斯基指控有更多中國公民協助俄羅斯參戰。林劍就表示，說法毫無根據。中方在烏克蘭危機問題上的立場是清晰、明確，得到國際社會的廣泛認可。烏方應正確看待，中方為政治解決烏克蘭危機問題所做的努力以及發揮的建設性作用。",,
-金融學院料金融服務界應用Gen.A.I.於3至5年內達87%,2025-04-09 15:38,,2025-04-09 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799600-20250409.htm,"金融學院轄下香港貨幣及金融研究中心，就金融服務業應用生成式人工智能（GenA.I.）現狀、發展路向、風險管理、人才發展策略發表報告，指出75%受訪金融機構已推出至少一個GenA.I.用例，或正進行試行計劃和設計用例，探索具潛質的投資領域。預計相關比率未來3-5年會上升至87%。
-
-報告又指出，83%受訪大型企業已經推出至少一個GenA.I.用例或正準備應用，較小型企業高出20個百分點。
-
-不過，金融機構亦面對一些風險管理挑戰，阻礙GenA.I.應用，包括模型準確性、數據私隱與安全、資源和人才不足 。
-
-金融學院行政總裁兼研究中心執行董事馮殷諾表示，希望報告的研究結果能提供GenA.I.良好做法，解決業界應用GenA.I.時遇到的挑戰，同時促進有關負責任地創新應用GenA.I.及業界人才培訓的討論。
-
-香港貨幣及金融研究中心去年10月至今年1月進行調查，訪問共55間金融機構，包括26間銀行、19間資產財富管理公司，以及10間保險公司。",,
 金融學院料金融服務界應用Gen.A.I.於3-5年升至87%,2025-04-09 15:38,,2025-04-09 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799600-20250409.htm,"金融學院轄下香港貨幣及金融研究中心，就金融服務業應用生成式人工智能（GenA.I.）現狀、發展路向、風險管理、人才發展策略發表報告，發現75%受訪金融機構已推出至少一個GenA.I.用例，或正進行試行計劃和設計用例，探索具潛質的投資領域。預計相關比率未來3-5年會上升至87%。
 
 調查又發現，83%受訪大型企業已經推出至少一個GenA.I.用例或正準備應用，較小型企業高出20個百分點。
@@ -875,6 +912,15 @@ Sun said officials had already raised the penalty for people using the card and 
 金融學院行政總裁兼研究中心執行董事馮殷諾表示，希望報告的研究結果能提供GenA.I.良好做法，解決業界應用GenA.I.時遇到的挑戰，同時促進有關負責任地創新應用GenA.I.及業界人才培訓的討論。
 
 調查在去年10月至今年1月進行，訪問共55間金融機構，包括26間銀行、19間資產財富管理公司，以及10間保險公司。",,
+金融學院料金融服務界應用Gen.A.I.於3至5年內達87%,2025-04-09 15:38,,2025-04-09 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799600-20250409.htm,"金融學院轄下香港貨幣及金融研究中心，就金融服務業應用生成式人工智能（GenA.I.）現狀、發展路向、風險管理、人才發展策略發表報告，指出75%受訪金融機構已推出至少一個GenA.I.用例，或正進行試行計劃和設計用例，探索具潛質的投資領域。預計相關比率未來3-5年會上升至87%。
+
+報告又指出，83%受訪大型企業已經推出至少一個GenA.I.用例或正準備應用，較小型企業高出20個百分點。
+
+不過，金融機構亦面對一些風險管理挑戰，阻礙GenA.I.應用，包括模型準確性、數據私隱與安全、資源和人才不足 。
+
+金融學院行政總裁兼研究中心執行董事馮殷諾表示，希望報告的研究結果能提供GenA.I.良好做法，解決業界應用GenA.I.時遇到的挑戰，同時促進有關負責任地創新應用GenA.I.及業界人才培訓的討論。
+
+香港貨幣及金融研究中心去年10月至今年1月進行調查，訪問共55間金融機構，包括26間銀行、19間資產財富管理公司，以及10間保險公司。",,
 外交部指絕不接受美國以關稅極限施壓,2025-04-09 15:32,,2025-04-09 16:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799599-20250409.htm,"美國總統特朗普對華加徵104%關稅生效。在北京，外交部發言人林劍表示，美方對中國濫施關稅，一味地進行極限施壓，對這種霸道霸凌行徑，中方堅決反對，絕不接受。美方如果真的想通過對話談判解決問題，就應該拿出平等、尊重、互惠的態度。如果美方置兩國和國際社會的利益於不顧，執意打關稅戰、貿易戰，中方必將奉陪到底。
 
 林劍又表示，中國人民的正當發展權利不容剝奪，主權安全發展利益不容侵犯，將繼續採取堅決有力的措施，維護自身的正當權益。",,
@@ -890,7 +936,7 @@ Sun said officials had already raised the penalty for people using the card and 
 
 他表示，勞工處正檢討優化計劃，包括涵蓋範圍、運作和實施安排；促進及確保本地工人優先就業的措施；保障輸入勞工權益的措施；以及其他與優化計劃有關的規定及事項。政府會充分考慮僱主組織及勞工團體等持份者的意見，擬定未來路向。",,
 外交部堅決反對美防長抹黑中國與巴拿馬合作言論,2025-04-09 15:19,,2025-04-09 15:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799597-20250409.htm,在北京，外交部堅決反對美國國防部長赫格塞思訪問巴拿馬期間，發表關於中國和中巴關係的言論。發言人林劍表示，美國的高級官員惡意攻擊中國，抹黑破壞中巴合作，再次暴露了美國霸道霸凌的面目。中方敦促美方停止造謠生事，停止在運河問題上惡意關聯中國，為自己控制運河找藉口。他又指妥協退讓換不來主權與尊重，只會讓霸凌的氣炎更加囂張。,,
-滬深股市高開低走　報道：內地高層領導人或今日召開重要會議,2025-04-09 15:16,,2025-04-09 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799595-20250409.htm,"滬深股市低開高走，3大主要指數高收近1%或以上。軍工裝備、半導體股上升；銀行、保險、醫藥相關股份下跌。
+滬深股市先跌後升　報道：內地高層領導人或今日召開重要會議,2025-04-09 15:16,,2025-04-09 16:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799595-20250409.htm,"滬深股市低開高走，3大主要指數高收近1%或以上。軍工裝備、半導體股上升；銀行、保險、醫藥相關股份下跌。
 
 上證指數收報3186點，升41點，升幅1.31%。
 
@@ -903,7 +949,7 @@ Sun said officials had already raised the penalty for people using the card and 
 路透引述消息人士指，會議亦可能討論到出口退稅補貼等，會議結束後，部分較成熟和提振中國經濟的舉措，可能會在未來幾周及幾個月內實施。
 
 消息指，國務院高層領導、人民銀行及財政部等多家機構的高級官員將會出席。相關機構未有回應外電查詢。",,
-滬深股市先跌後升　報道：內地高層領導人或今日召開重要會議,2025-04-09 15:16,,2025-04-09 16:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799595-20250409.htm,"滬深股市低開高走，3大主要指數高收近1%或以上。軍工裝備、半導體股上升；銀行、保險、醫藥相關股份下跌。
+滬深股市高開低走　報道：內地高層領導人或今日召開重要會議,2025-04-09 15:16,,2025-04-09 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1799595-20250409.htm,"滬深股市低開高走，3大主要指數高收近1%或以上。軍工裝備、半導體股上升；銀行、保險、醫藥相關股份下跌。
 
 上證指數收報3186點，升41點，升幅1.31%。
 
