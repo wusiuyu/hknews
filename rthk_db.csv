@@ -1,5 +1,4 @@
 title,date,summary,scrape_time,section,source,url,news_content,link,description
-韓股初段上升,2025-04-15 08:15,,2025-04-15 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800392-20250415.htm,韓股在開市初段向上，首爾綜合指數較早時報2464點，升8點，升幅0.35%。,,
 聯儲局理事沃勒：關稅或導致通脹於較高情況下減息以避免經濟衰退,2025-04-15 08:15,,2025-04-15 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800387-20250415.htm,"美國聯儲局理事沃勒表示，關稅政策對美國經濟造成重大衝擊，可能導致聯儲局在通脹仍然高企的情況下減息，以避免經濟衰退。
 
 他提到，如果特朗普計劃的全部關稅措施繼續推行，對通脹的影響可能是暫時，但對產出和就業的影響可能會更持久，如果經濟放緩顯著，甚至經濟衰退，預計聯儲局會早、更大幅度支持降低利率。
@@ -7,6 +6,7 @@ title,date,summary,scrape_time,section,source,url,news_content,link,description
 不過他表示，如果關稅政策被證明是一種談判工具，相信不會留下持久的影響。
 
 另外，美國財長貝森特表示，白宮預計將從今年秋天開始，面試接替聯儲局主席鮑威爾的候選人，鮑威爾的任期將於明年5月結束。",,
+韓股初段上升,2025-04-15 08:15,,2025-04-15 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800392-20250415.htm,韓股在開市初段向上，首爾綜合指數較早時報2464點，升8點，升幅0.35%。,,
 日股初段升1%,2025-04-15 08:14,,2025-04-15 08:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800390-20250415.htm,日本股市在開市初段升1%，日經平均指數較早時報34337點，升355點，升幅1.05%。,,
 古特雷斯對以色列部隊襲擊加沙一間醫院表示深感震驚,2025-04-15 08:13,,2025-04-15 08:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800391-20250415.htm,"聯合國秘書長古特雷斯發聲明，對以色列部隊襲擊加沙一間醫院表示深感震驚。
 
@@ -433,10 +433,10 @@ The project includes a super drainage pump that can drain water volumes the equi
 中間價失守7.21關口，創逾19個月新低，與外電預測偏離擴至逾1100點。
 
 市場人士認為，中間價回落似乎向市場傳遞容許匯率有序貶值訊號，預計人民幣短期在7.3至7.35水平上落。",,
-屯門區下午４時空氣質素健康指數達10+　健康風險達嚴重水平,2025-04-14 17:25,,2025-04-14 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800327-20250414.htm,"受乾燥的大陸氣流及沙塵天氣影響，本港空氣質素欠佳。根據環保署公布的空氣質素健康指數，在下午4時，屯門區空氣質素健康指數達到10+，健康風險級別達「嚴重」水平，其餘各區的指數亦達9或10，健康風險級別為「甚高」。
+屯門區下午空氣質素健康指數達10+　健康風險達嚴重水平,2025-04-14 17:25,,2025-04-14 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800327-20250414.htm,"受乾燥的大陸氣流及沙塵天氣影響，本港空氣質素欠佳。根據環保署公布的空氣質素健康指數，在下午4時，屯門區空氣質素健康指數達到10+，健康風險級別達「嚴重」水平，其餘各區的指數亦達9或10，健康風險級別為「甚高」。
 
 環保署提醒市民，當健康風險級別處於「嚴重」水平時，兒童及長者和患有心臟病或呼吸系統疾病的人士，應避免戶外體力消耗和在戶外逗留，特別在交通繁忙地方，所有戶外工作僱員的僱主應評估戶外工作的風險，並採取適當的預防措施保障僱員的健康。",,
-屯門區下午空氣質素健康指數達10+　健康風險達嚴重水平,2025-04-14 17:25,,2025-04-14 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800327-20250414.htm,"受乾燥的大陸氣流及沙塵天氣影響，本港空氣質素欠佳。根據環保署公布的空氣質素健康指數，在下午4時，屯門區空氣質素健康指數達到10+，健康風險級別達「嚴重」水平，其餘各區的指數亦達9或10，健康風險級別為「甚高」。
+屯門區下午４時空氣質素健康指數達10+　健康風險達嚴重水平,2025-04-14 17:25,,2025-04-14 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800327-20250414.htm,"受乾燥的大陸氣流及沙塵天氣影響，本港空氣質素欠佳。根據環保署公布的空氣質素健康指數，在下午4時，屯門區空氣質素健康指數達到10+，健康風險級別達「嚴重」水平，其餘各區的指數亦達9或10，健康風險級別為「甚高」。
 
 環保署提醒市民，當健康風險級別處於「嚴重」水平時，兒童及長者和患有心臟病或呼吸系統疾病的人士，應避免戶外體力消耗和在戶外逗留，特別在交通繁忙地方，所有戶外工作僱員的僱主應評估戶外工作的風險，並採取適當的預防措施保障僱員的健康。",,
 'Expats confident about doing business in Hong Kong',2025-04-14 17:06,,2025-04-14 17:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1800325-20250414.htm,"Foreign investors' and workers’ confidence in Hong Kong remains positive despite the challenges the SAR faced in the past five years, a think tank said on Monday. 
@@ -595,6 +595,16 @@ Quaynor said he hopes to explore cooperation opportunities through the summit an
 第二部分演練進一步模擬「後備」固定供電點同一時間「失靈」時的應變，為避免賽事在搶修期間受到延誤，港燈立即安排在附近候命的「環保流動供電車」到場，經簡單電纜接駁後提供臨時電力供應，讓比賽得以繼續進行。
 
 整個演練歷時約4小時，成功完成兩部分模擬復電工作，港燈會繼續與各政府部門保持溝通，完善應變方案。",,
+行會成員明早出席全民國家安全教育日開幕禮　行會不舉行會議,2025-04-14 15:21,,2025-04-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800306-20250414.htm,"行政會議非官守議員將應邀出席明早舉行的「全民國家安全教育日」開幕典禮暨主題講座，行政會議明日不舉行會議。
+
+明日是第十個「全民國家安全教育日」，香港特區維護國家安全委員會將於灣仔會展舉辦「全民國家安全教育日」開幕典禮暨主題講座。
+
+中央港澳工作辦公室主任、國務院港澳事務辦公室主任夏寶龍將以視頻方式出席開幕禮，並發表主旨講話。",,
+美元兌一籃子貨幣走弱,2025-04-14 15:21,,2025-04-14 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800303-20250414.htm,"美元兌一籃子貨幣繼續走弱，美元指數一度觸及99.209，較早時報99.235，跌幅近0.7%。
+
+日圓兌美元上望142關口，一度升至142.26，較早時1美元報142.44日圓，跌近0.8%。
+
+新西蘭元兌美元升1%，澳元及歐元兌美元都升約0.5%。美元兌人民幣跌至約7.3水平，韓元兌美元亦由跌轉升。",,
 Xia to speak on National Security Education Day,2025-04-14 15:21,,2025-04-14 15:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1800299-20250414.htm,"Beijing's top official overseeing Hong Kong and Macau affairs, Xia Baolong, is scheduled to deliver a keynote speech via video link at the 10th National Security Education Day on Tuesday. 
 
 Organised by the Committee for Safeguarding National Security of the SAR, the ceremony and a seminar will take place at the Convention and Exhibition Centre in the morning. 
@@ -608,16 +618,6 @@ Lee pointed out that this year marks the fifth anniversary of the promulgation o
 ""With Hong Kong faced with ever-changing national security risks, the HKSAR Government will resolutely, fully and faithfully implement the 'One Country, Two Systems' principle, deepen the understanding of a holistic approach to national security, continuously improve the legal system and enforcement mechanisms for safeguarding national security, and actively promote national security education across society,"" Lee said.
 
 The CE also said the authorities will co-ordinate school and community activities to promote national security education.",,
-行會成員明早出席全民國家安全教育日開幕禮　行會不舉行會議,2025-04-14 15:21,,2025-04-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800306-20250414.htm,"行政會議非官守議員將應邀出席明早舉行的「全民國家安全教育日」開幕典禮暨主題講座，行政會議明日不舉行會議。
-
-明日是第十個「全民國家安全教育日」，香港特區維護國家安全委員會將於灣仔會展舉辦「全民國家安全教育日」開幕典禮暨主題講座。
-
-中央港澳工作辦公室主任、國務院港澳事務辦公室主任夏寶龍將以視頻方式出席開幕禮，並發表主旨講話。",,
-美元兌一籃子貨幣走弱,2025-04-14 15:21,,2025-04-14 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800303-20250414.htm,"美元兌一籃子貨幣繼續走弱，美元指數一度觸及99.209，較早時報99.235，跌幅近0.7%。
-
-日圓兌美元上望142關口，一度升至142.26，較早時1美元報142.44日圓，跌近0.8%。
-
-新西蘭元兌美元升1%，澳元及歐元兌美元都升約0.5%。美元兌人民幣跌至約7.3水平，韓元兌美元亦由跌轉升。",,
 滬深股市升幅有限　滬股全日升近1%,2025-04-14 15:15,,2025-04-14 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800305-20250414.htm,"內地股市收市升幅有限。海南概念股、體育概念股及貴金屬股造好；白酒及非金屬材料股沽壓較大。
 
 上證綜合指數收市報3262點，升24點，升幅0.76%。
@@ -692,12 +692,12 @@ Hospital Authority chief executive Tony Ko said patients who face sudden financi
 日本傳媒引述栃木縣政府消息報道，涉事的盒飯供應商在本月9日製作並售出的盒飯，導致72人出現腹瀉、嘔吐等症狀，其中一名80多歲男子死亡，縣政府正調查死因。 
 
 報道又說，在盒飯製作階段，工作人員沒有出現食物中毒症狀，但當局調查發現，其中8人檢測出諾如病毒。",,
-轉數快擬周日凌晨1時至上午11時進行系統提升,2025-04-14 14:25,,2025-04-14 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800293-20250414.htm,"香港銀行同業結算公司計劃星期日凌晨1時至上午11時，為轉數快系統進行系統提升，轉數快系統將於上述時段內暫停服務。
-
-金管局表示，已要求銀行及儲值支付工具營運商，預早及適時通知客戶相關安排。市民可以聯絡銀行或儲值支付工具營運商，查詢受系統提升影響的相關服務詳情。如有需要，市民請提前安排繳付項目。",,
 台股微跌收市,2025-04-14 14:25,,2025-04-14 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800292-20250414.htm,"台灣股市微跌收市。
 
 加權指數收報19513點，跌15點。",,
+轉數快擬周日凌晨1時至上午11時進行系統提升,2025-04-14 14:25,,2025-04-14 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800293-20250414.htm,"香港銀行同業結算公司計劃星期日凌晨1時至上午11時，為轉數快系統進行系統提升，轉數快系統將於上述時段內暫停服務。
+
+金管局表示，已要求銀行及儲值支付工具營運商，預早及適時通知客戶相關安排。市民可以聯絡銀行或儲值支付工具營運商，查詢受系統提升影響的相關服務詳情。如有需要，市民請提前安排繳付項目。",,
 轉數快星期日凌晨1時至上午11時進行系統提升,2025-04-14 14:25,,2025-04-14 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800293-20250414.htm,"香港銀行同業結算公司計劃星期日凌晨1時至上午11時，為轉數快系統進行系統提升，轉數快系統將於上述時段內暫停服務。
 
 金管局表示，已要求銀行及儲值支付工具營運商，預早及適時通知客戶相關安排。市民可以聯絡銀行或儲值支付工具營運商，查詢受系統提升影響的相關服務詳情。如有需要，市民請提前安排繳付項目。",,
@@ -769,6 +769,11 @@ Key topics during the event's forums includes tech trends in AI, digital finance
 
 習近平又說，期待以這次訪問為契機，同越南領導同志就中越兩黨兩國關係的全局性、戰略性、方向性問題，以及共同關心的國際和地區問題深入交換意見，共同擘畫中越命運共同體建設新藍圖。",,
 習近平抵達河內　展開越南訪問行程,2025-04-14 13:36,,2025-04-14 13:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800287-20250414.htm, ,,
+分析：內地或需進一步發債直接支持基建及消費應對貿易戰,2025-04-14 13:33,,2025-04-14 17:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800286-20250414.htm,"內地3月以美元計價出口按年增長12.4%，創5個月以來最快增速；進口下跌4.3%。首季出口按年增長5.8%，進口下跌7%，貿易順差約2730億美元；期內對美國出口按年增長4.5%，自美國進口按年跌1.4%，期內中國對美國貿易順差766.5億美元。
+
+中國海關總署副署長王令浚表示，中方會與各方共同反對美國關稅的霸凌霸道行為，敦促美方立即糾正錯誤做法，按照相互尊重原則，通過平等對話解決貿易分歧。他指出，以人民幣計，首季度對歐盟進出口增長1.4%，每分鐘相當於有超過1千萬元貿易往來，認為中歐經濟高度互補，利益緊密交融，是重要貿易夥伴，雙方在多方面有廣泛共同利益和合作空間。
+
+法國外貿銀行亞太區高級經濟學家吳卓殷認為，面對貿易摩擦，內地需要進一步發債直接支持基建及消費，又指出上月出口仍錄得增長，可能反映企業因應關稅提早出貨，估計之後內地外貿企業或會以價格戰方式將產品外銷至其他地區，但未必能全面抵消影響，中小企仍有機會裁員和倒閉，今年內地經濟增長或放緩至4.2%。",,
 分析：中國對美國出口或跌20-30%　雙方貿易不會完全消失,2025-04-14 13:33,,2025-04-14 13:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800286-20250414.htm,"中國海關總署公布，以美元計價，內地3月出口按年增長12.4%，創5個月以來最快增速；進口下跌4.3%。
 
 首季出口按年增長5.8%，進口下跌7%，貿易順差2729.7億美元。對美國出口按年增長4.5%，自美國進口按年跌1.4%，期內中國對美國貿易順差766.5億美元。 
@@ -778,11 +783,6 @@ Key topics during the event's forums includes tech trends in AI, digital finance
 他估計，內地的外貿企業會以價格戰方式將產品外銷至非美地區，或導致其他貿易夥伴推出貿易保護措施，認為難以完全抵消對美貿易的影響。
 
 吳卓殷說，已經因應貿易戰影響，將今年中國經濟增長預測，由原來4.8%下調至4.2%至4.5%，視乎中央會否透過增發國債支持消費及基建。他指，內地面對激烈競爭，中小企或出現整合潮，但暫時未見內地企業出現大規模停工停產。",,
-分析：內地或需進一步發債直接支持基建及消費應對貿易戰,2025-04-14 13:33,,2025-04-14 17:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800286-20250414.htm,"內地3月以美元計價出口按年增長12.4%，創5個月以來最快增速；進口下跌4.3%。首季出口按年增長5.8%，進口下跌7%，貿易順差約2730億美元；期內對美國出口按年增長4.5%，自美國進口按年跌1.4%，期內中國對美國貿易順差766.5億美元。
-
-中國海關總署副署長王令浚表示，中方會與各方共同反對美國關稅的霸凌霸道行為，敦促美方立即糾正錯誤做法，按照相互尊重原則，通過平等對話解決貿易分歧。他指出，以人民幣計，首季度對歐盟進出口增長1.4%，每分鐘相當於有超過1千萬元貿易往來，認為中歐經濟高度互補，利益緊密交融，是重要貿易夥伴，雙方在多方面有廣泛共同利益和合作空間。
-
-法國外貿銀行亞太區高級經濟學家吳卓殷認為，面對貿易摩擦，內地需要進一步發債直接支持基建及消費，又指出上月出口仍錄得增長，可能反映企業因應關稅提早出貨，估計之後內地外貿企業或會以價格戰方式將產品外銷至其他地區，但未必能全面抵消影響，中小企仍有機會裁員和倒閉，今年內地經濟增長或放緩至4.2%。",,
 分析：中國對美國出口或跌逾20%　雙方貿易不會完全消失,2025-04-14 13:33,,2025-04-14 14:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800286-20250414.htm,"中國海關總署公布，以美元計價，內地3月出口按年增長12.4%，創5個月以來最快增速；進口下跌4.3%。
 
 首季出口按年增長5.8%，進口下跌7%，貿易順差2729.7億美元。對美國出口按年增長4.5%，自美國進口按年跌1.4%，期內中國對美國貿易順差766.5億美元。 
@@ -873,13 +873,6 @@ He offered assurances that the funds are being used thoughtfully to enrich stude
 鄧炳強說兩名大使明天會有見面會，除了上電視、拍戲劇，未來還會出版書本。
 
 不同紀律部隊上周已先後介紹部門內與國家安全有關的物品。",,
-"China exports up 12.4pc, beating forecasts",2025-04-14 12:16,,2025-04-14 12:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1800270-20250414.htm,"China's exports rose 12.4 percent year-on-year in March, beating analysts' expectations as the world's second largest economy braces for an intensifying trade war with the United States.
-
-Customs data also showed on Monday that imports contracted 4.3 percent.
-
-Export growth last month was driven by Chinese factories rushing out shipments ahead of US President Donald Trump's sweeping tariffs announced on April 2.
-
-Trump has ramped up duties on Chinese goods to eye-watering levels of 145 percent, prompting Beijing to raise retaliatory tariffs on US imports. (Agencies)",,
 內地股市半日升近1%,2025-04-14 12:16,,2025-04-14 12:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800263-20250414.htm,"滬深股市半日升近1%，各板塊普遍上升，以互聯網電商、海南相關股份升幅較大。
 
 上證綜合指數報3266點，升27點，升幅0.86%。
@@ -887,6 +880,13 @@ Trump has ramped up duties on Chinese goods to eye-watering levels of 145 percen
 深證成份指數報9923點，升89點，升幅0.91%。
 
 創業板指數報1942點，升15點，升幅0.82%。",,
+"China exports up 12.4pc, beating forecasts",2025-04-14 12:16,,2025-04-14 12:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1800270-20250414.htm,"China's exports rose 12.4 percent year-on-year in March, beating analysts' expectations as the world's second largest economy braces for an intensifying trade war with the United States.
+
+Customs data also showed on Monday that imports contracted 4.3 percent.
+
+Export growth last month was driven by Chinese factories rushing out shipments ahead of US President Donald Trump's sweeping tariffs announced on April 2.
+
+Trump has ramped up duties on Chinese goods to eye-watering levels of 145 percent, prompting Beijing to raise retaliatory tariffs on US imports. (Agencies)",,
 恒指半日升504點　科指升近3%,2025-04-14 12:13,,2025-04-14 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800269-20250414.htm,"港股連升5個交易日，恒生指數高見21517點，升逾600點，其後升幅曾收窄至逾300點，中午收市報21419點，升504點，升幅2.4%，半日主板成交額近1543億元。
 
 科技指數重上5000點關口，高見5077點，半日收報5032點，升幅約2.7%。",,
@@ -924,6 +924,11 @@ The department said it will closely monitor the flow of travellers and vehicles 
 It advised all travellers to plan their journeys in advance and refrain from making the crossings during peak hours to avoid congestion and long waiting times. 
 
 It also said permanent residents aged seven to ten that meet the minimum height requirement of 1.1 metres, can use e-Channels at all control points – a measure implemented last month to enhance clearance efficiency at borders.",,
+中興通訊：人工智能面臨發展瓶頸　需尋求突破,2025-04-14 11:33,,2025-04-14 11:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800262-20250414.htm,"中興通訊董事長方榕表示，過去2、3年人工智能（AI）技術突飛猛進，多項能力測試中接近甚至超越人類水平，但在AI技術實現大規模應用方面，仍要克服一系列挑戰，包括算力普惠、AI應用普及等核心問題，以及安全私隱和科技倫理挑戰。
+
+方榕出席世界互聯網大會首次在港舉辦的亞太峰會上致辭說，目前AI面臨發展瓶頸，需要圍繞模型架構、算力互聯和系統集成等尋求突破，例如DeepSeek通過算法創新大幅降低訓練和推理成本。
+
+方榕認為，需要保證AI安全可靠，解決私隱問題，促進數據要素流通，處理好科技倫理，實現AI的包容性發展。",,
 中興通訊稱人工智能面臨發展瓶頸　需尋求突破,2025-04-14 11:33,,2025-04-14 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800262-20250414.htm,"中興通訊董事長方榕表示，過去2、3年人工智能（AI）技術突飛猛進，多項能力測試中接近甚至超越人類水平，但在AI技術實現大規模應用方面，仍要克服一系列挑戰，包括算力普惠、AI應用普及等核心問題，以及安全私隱和科技倫理挑戰。
 
 方榕出席世界互聯網大會首次在港舉辦的亞太峰會上致辭說，目前AI面臨發展瓶頸，需要圍繞模型架構、算力互聯和系統集成等尋求突破，例如DeepSeek通過算法創新大幅降低訓練和推理成本。
@@ -933,11 +938,6 @@ It also said permanent residents aged seven to ten that meet the minimum height 
 在同一場合，「杭州六小龍」之一、專注智能義肢研發的強腦科技創始人兼首席執行官韓壁丞說，公司現時開發並儲備包括智能假肢、自閉症、阿茲海默症、睡眠干預等逾60款產品。早前在浙江省政府號召和愛心企業幫助下，公司在浙江已開始幫助殘疾人士免費安裝假肢。
 
 他說，公司希望在未來5至10年內，幫助100萬肢體殘疾人士恢復日常生活，幫助1000萬患有自閉症、多動症、老年癡呆和失眠等患者康復。",,
-中興通訊：人工智能面臨發展瓶頸　需尋求突破,2025-04-14 11:33,,2025-04-14 11:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800262-20250414.htm,"中興通訊董事長方榕表示，過去2、3年人工智能（AI）技術突飛猛進，多項能力測試中接近甚至超越人類水平，但在AI技術實現大規模應用方面，仍要克服一系列挑戰，包括算力普惠、AI應用普及等核心問題，以及安全私隱和科技倫理挑戰。
-
-方榕出席世界互聯網大會首次在港舉辦的亞太峰會上致辭說，目前AI面臨發展瓶頸，需要圍繞模型架構、算力互聯和系統集成等尋求突破，例如DeepSeek通過算法創新大幅降低訓練和推理成本。
-
-方榕認為，需要保證AI安全可靠，解決私隱問題，促進數據要素流通，處理好科技倫理，實現AI的包容性發展。",,
 邵家輝：商場舉行不同活動或攤檔可吸引人流　增加商戶生意,2025-04-14 11:24,,2025-04-14 11:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800261-20250414.htm,"發展局推出試行計劃，放寛商場或其他商業項目使用室內和戶外公共空間的限制，精簡審批程序。立法會批發及零售界議員邵家輝在本台節目《千禧年代》說，非常支持試驗計劃，認為商場舉行不同類型活動或擺設攤檔，可吸引人流，有助增加商戶生意，市民亦可有更多消費體驗。至於相關申請有效期為一年，亦方便商場全年安排不同大型活動。
 
 至於商場用公共空間作特賣場，會否影響現有商戶權益，邵家輝相信商場會觀察現有商戶產品性質，才容許特賣場參與，盡量減少彼此衝突。從另一角度看可以吸引更多人流，讓現有商戶從中受惠。
@@ -953,25 +953,6 @@ It also said permanent residents aged seven to ten that meet the minimum height 
 鄭雁雄致辭時說，就香港做好數字融合發展的超級聯繫人、增值人分享三點看法。他認為香港應發揮創科優勢，引領亞太數字融合發展，發揮香港世界級高效和科研機構密集的優勢，開展數字融合關鍵技術研究；要加快北部都會區建設，依託香港科學園及數碼港，聯合深圳前海、河套和廣州南沙等重大合作平台，吸引數字融合領域企業，形成涵蓋人工智能、大數據、雲計算及區塊鏈等上下游產業集群，促進數字融合產業協同發展。
 
 鄭雁雄又認為香港應發揮「一國兩制」制度優勢，建立符合國際規則的數據跨境流動機制，促進跨境數據安全有序流通和資源共享。同時要發揮聯通優勢，更好搭建國際交流合作平台，發揮香港亞洲盛事之都、國際會展之都的優勢，吸引全球高端數字人才來港投資創業，為中國數字企業走出去、外國數字企業走進來不斷的賦能增值。",,
-Tariffs not in conformity with world practices: Chan,2025-04-14 11:17,,2025-04-14 16:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1800251-20250414.htm,"Chief Secretary Eric Chan said Washington's move to impose tariffs on imports from around the world does not conform to international practice. 
-
-In an interview with Sing Tao Daily published on Monday, Chan said that by imposing ""very high"" tariffs, the United States wanted other countries to act according to its wishes and neglected international morals and free trade.
-
-He also denounced the United States for imposing sanctions on mainland and Hong Kong officials, saying they represented  interference in the nation's internal affairs.
-
-Chan noted that threats to national security still exist as interference in the SAR's national security trials show. 
-
-The public has to develop an awareness of the need to safeguard national security, he said.
-
-Chan also told local newspaper Ta Kung Pao that national security does not just include military security, pointing to the threat of financial systemic risks posed by the so-called ""reciprocal tariffs"" imposed by the United States. 
-
-He said recent US adjustments to the levies are not simply an economic measure but carry a political motive.
-
-The senior official said the US tariffs have seriously affected Hong Kong's business environment and financial security. 
-
-Chan emphasised that in the face of unreasonable suppression from external forces, the public has to be more united and safeguard the nation's sovereignty, security and development interests.
-
-On the eve of the 10th National Security Education Day, he said an opening ceremony and thematic seminar will be held on Tuesday and that a thematic exhibition to mark the fifth anniversary of the implementation of the national security law will be held this quarter.",,
 "Tariffs violate international practice, Eric Chan says",2025-04-14 11:17,,2025-04-14 11:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1800251-20250414.htm,"Chief Secretary Eric Chan said Washington's move to impose tariffs on imports from around the world violates international practice. 
 
 In an interview with Sing Tao Daily published on Monday, Chan said that by imposing ""very high"" tariffs, the United States wanted other countries to act according to its wishes and neglected international morals and free trade.
@@ -991,6 +972,25 @@ The senior official said the US tariffs have seriously affected Hong Kong's busi
 Chan emphasised that in the face of unreasonable suppression from external forces, the public has to be more united and safeguard the nation's sovereignty, security and development interests.
 
 On the eve of the 10th National Security Education Day, he said an opening ceremony and thematic seminars will be held on Tuesday and that a thematic exhibition to mark the fifth anniversary of the implementation of the national security law will be held this quarter.",,
+Tariffs not in conformity with world practices: Chan,2025-04-14 11:17,,2025-04-14 16:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1800251-20250414.htm,"Chief Secretary Eric Chan said Washington's move to impose tariffs on imports from around the world does not conform to international practice. 
+
+In an interview with Sing Tao Daily published on Monday, Chan said that by imposing ""very high"" tariffs, the United States wanted other countries to act according to its wishes and neglected international morals and free trade.
+
+He also denounced the United States for imposing sanctions on mainland and Hong Kong officials, saying they represented  interference in the nation's internal affairs.
+
+Chan noted that threats to national security still exist as interference in the SAR's national security trials show. 
+
+The public has to develop an awareness of the need to safeguard national security, he said.
+
+Chan also told local newspaper Ta Kung Pao that national security does not just include military security, pointing to the threat of financial systemic risks posed by the so-called ""reciprocal tariffs"" imposed by the United States. 
+
+He said recent US adjustments to the levies are not simply an economic measure but carry a political motive.
+
+The senior official said the US tariffs have seriously affected Hong Kong's business environment and financial security. 
+
+Chan emphasised that in the face of unreasonable suppression from external forces, the public has to be more united and safeguard the nation's sovereignty, security and development interests.
+
+On the eve of the 10th National Security Education Day, he said an opening ceremony and thematic seminar will be held on Tuesday and that a thematic exhibition to mark the fifth anniversary of the implementation of the national security law will be held this quarter.",,
 China will defend world trade system: expert,2025-04-14 11:16,,2025-04-14 11:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1800259-20250414.htm,"A leading commentator on Chinese affairs on Monday said the US trade war would prove costly for all concerned, including the United States. 
 
 Speaking on RTHK's Hong Kong Today programme, Victor Gao, vice-president of the Centre for China and Globalisation in Beijing, said China would not only defend its interests, but also protect the world trading order.
@@ -1124,21 +1124,3 @@ The Hang Seng Tech Index, which represents the 30 largest technology companies l
 副校長袁見明表示，學校透過不同方式教授國民教育，包括在課堂加插相關內容、在校內不同地方定期更換展板、設計有獎遊戲等，期望學生自主學習，不靠死記硬背。對於教育局在2023/24學年向每間學校發放30萬元的一筆過津貼，讓學校在2026/27學年或之前，用作舉辦有關中華文化的活動。袁見明說會聘請舞獅團隊、變臉師等到學校表演，強調以量入為出的原則使用津貼。
 
 教育局表示，國民教育包括國家安全教育，涉及的工作已納入教育局的預算經常開支內，未能提供分項數字，又指將在本年度成立專責小組，改革及整合各項給予學校的津貼，例如以整筆撥款的形式發放，讓學校按其發展需要和優次緩急更靈活運用資源，專責小組完成檢討工作後，會適時向學界公布詳情。",,
-本港多間機構在第50屆「日內瓦國際發明展」獲獎,2025-04-14 08:59,,2025-04-14 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800229-20250414.htm,"本港多間機構在第50屆「日內瓦國際發明展」中獲獎，其中香港大學贏得32個獎項，包括1個特別大獎、7個評判特別嘉許金獎、8個金獎、9個銀獎及7個銅獎，獲獎項目包括可在社區廣泛執行早期疾病檢測的多模態醫學篩查平台 、隨身AI血壓計。
-
-應科院亦囊括16獎項，包括1項評審團嘉許金獎、4項金獎、7項銀獎及4項銅獎。今屆獲獎項目涵蓋人工智能、三維晶片、5G通訊、區塊鏈、視覺感測等前沿技術領域，惠及各行各業和市民。
-
-香港浸會大學學者的創新研究轉化成果，亦在國際發明取得佳續，共奪得9個獎項，包括2個評審團嘉許金獎、3個金獎、3個銀獎和1個銅奬，獲獎的研究項目包括維持潰瘍性結腸炎緩解期的創新植物複方、以生物質廢棄物生產綠色氫氣的先進催化劑及催化系統。
-
-另外，港鐵在發明展奪得15個獎項，包括首次奪得3項評審團嘉許金獎、4項金獎、7項銀獎及1項銅獎。香港紡織及成衣研發中心亦贏得2項金獎及3項銅獎，獲獎項目包括為長者設計的輕巧透氣舒適髖部護墊。
-
-「日內瓦國際發明展」於4月9至13日舉行，是表揚創新發明的年度盛事，今年有超過1000項來自45個國家及地區的創新發明，並由國際專家評判團選出各獎項。",,
-台灣醫護流失量大　工會病人組織冀改善醫患比例提升薪酬待遇,2025-04-14 08:53,,2025-04-14 09:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1800228-20250414.htm,"台灣的醫院急症室經常爆滿，當地醫護界早前形容已達到前所未有的嚴重程度。有病人家屬曾經在台北的醫院急症室等候兩天才有床位，形容急症室人滿為患，所有醫護人員都在忙。有家屬指，台灣民眾凡身體有毛病，普遍都會選擇到醫院急症室求醫，覺得醫療質素較有保證。
-
-台灣醫療工會聯合會秘書長高若想指出，醫院長期人手不足，由於薪酬待遇偏低及過勞等問題，令醫護人員大量流失。以護士為例，今年二、三月便有約700人離職，醫院因人手不足被迫關閉一些病房。她說很多醫療人員感到疲累及失望而轉行，也有護士轉到小型診所，雖然薪酬下降但工作量較少，亦不用輪班。
-
-工會希望當局嚴格執行醫院「三班護病比」的新制度，亦即是日更、夜更及通宵更的三更護理人員和病人數目，要按合理比例。
-
-台灣年輕病友協會則期望，提升護理人員的待遇，同時落實分級醫療制度，將輕症病人分流到診所就醫，大醫院用以處理真正的急症重症。
-
-台灣的衞生福利部門重申，醫院護理人員的薪酬及職場環境仍有不少改善空間，當局會努力挽留護理人員；呼籲民眾遇到任何健康問題，應先到社區診所處理，爭取治療時效，並緩減急症室擁擠，落實分級醫療制度。",,
