@@ -1,4 +1,6 @@
 title,date,url,source,section,scrape_time,news_content
+[內地股市]早段窄幅上落,2025-04-28 09:32,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428093203&page=0,metro,,2025-04-28 09:45,
+人行公開市場今日淨投放1030億元人幣,2025-04-28 09:29,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428092905&page=0,metro,,2025-04-28 09:45,人民銀行今日開展2790億元人民幣7天期逆回購操作，操作利率持平於1.5厘，今日有1760億元人民幣逆回購到期，實現淨投放1030億元人民幣.
 人民幣兌美元中間價報7.2043  上調23點,2025-04-28 09:27,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428092731&page=0,metro,,2025-04-28 09:30,
 [港股]高開91點  耀才復牌升60%,2025-04-28 09:23,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428092358&page=0,metro,,2025-04-28 09:30,"本港股市上升，恒生指數高開91點，開市報22072點。
 
@@ -8,8 +10,12 @@ title,date,url,source,section,scrape_time,news_content
 
 國企指數開市報8113點，升32點。"
 [台股]早段上升,2025-04-28 09:18,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091852&page=0,metro,,2025-04-28 09:30,台灣股市早段上升，加權指數最新報20031點，升158點，升幅百分之0.8。
-國藥控股首季多賺2.6%,2025-04-28 09:16,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091602&page=0,metro,,2025-04-28 09:30,
-滙控完成20億美元股份回購,2025-04-28 09:12,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091209&page=0,metro,,2025-04-28 09:30,
+國藥控股首季多賺2.6%,2025-04-28 09:16,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091602&page=0,metro,,2025-04-28 09:30,"國藥控股(01099)公布，截至3月底止首季度，淨利潤14億5700萬元人民幣，按年增長百分之2.6，每股收益0.47元人民幣。
+
+營業總收入1416億6200萬元人民幣，按年減少百分之3.8。"
+滙控完成20億美元股份回購,2025-04-28 09:12,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091209&page=0,metro,,2025-04-28 09:30,"滙控(00005)公布，4月25日在香港回購43萬2800股，每股加權平均價85.7613元，涉資約3711萬元。 繼購入此等股份後，回購已經完成。
+
+自回購開始，公司已按加權平均價每股8.6089英鎊自英國回購9023萬股普通股，按加權平均價每股86.5813元自香港所回購8936萬股，以作註銷，代價總額約20億美元。"
 加拿大汽車撞人事件 總理卡尼指疑犯是單獨犯案,2025-04-28 09:12,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428091228&page=0,metro,,2025-04-28 09:30,"加拿大溫哥華汽車撞向人群事件，增至11人死亡。
 
 溫哥華警方說，確認有11人在汽車撞人事件中身亡，另外有數十人受傷，部分人傷勢嚴重，相信死亡人數可能還會上升。
@@ -17,6 +23,7 @@ title,date,url,source,section,scrape_time,news_content
 警方說，疑犯有精神病史，相信今次事件並非恐怖主義行為，具體犯案動機仍在調查中。 加拿大總理卡尼(Mark Carney)就事件發表講話，指疑犯是單獨犯案，他不認為加拿大人目前正面臨任何實質的威脅。
 
 事發在當地時間上周六晚8時許，一名30歲男子開車撞向參加菲律賓人社區節慶活動的人群，疑犯當場被警方拘捕。"
+鈞達股份今日起招股  入場費約2888元,2025-04-28 09:06,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428090637&page=0,metro,,2025-04-28 09:15,
 警方葵涌梨木樹邨截查一架可疑私家車檢獲懷疑大麻私煙及雙截棍等 拘車上兩男,2025-04-28 09:06,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428090658&page=0,metro,,2025-04-28 09:15,"警方葵涌梨木樹邨截查一架可疑私家車檢獲懷疑大麻、私煙及雙截棍等，拘捕車上兩名男子。
 
 昨晚8點幾，警員在葵涌梨木樹邨近一個小巴站一帶巡邏，期間發現一架私家車形跡可疑，於是上前截查。
@@ -24,7 +31,6 @@ title,date,url,source,section,scrape_time,news_content
 警員在車內檢獲小量懷疑大麻、兩支木棍、一對雙截棍及三箱約565包懷疑未完稅香煙。
 
 21歲男司機與20歲男乘客都通過快速口腔液測試。 警方初步調查後，拘捕這兩名男子，他們涉嫌管有攻擊性武器、藏毒、管有違禁武器，及管有未完稅香煙，正被扣留調查。"
-鈞達股份今日起招股  入場費約2888元,2025-04-28 09:06,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428090637&page=0,metro,,2025-04-28 09:15,
 滬上阿姨今日起招股  入場費約3427元,2025-04-28 08:53,https://www.metroradio.com.hk/news/default.aspx?SearchText=&NewsId=20250428085303&page=0,metro,,2025-04-28 09:00,"內地茶飲店--滬上阿姨(02589)今日起招股。 公司計劃全球發售241萬股H股，當中一成香港發售，其餘國際配售，招股價介乎95.57元至113.12元，每手30股，入場費大約3427元，5月2日截止認購，預計5月8日掛牌，保薦人中信証券、海通國際、東方証券。
 
 集資最多2億7300萬元，以招股價中位數計，集資淨額1億7200萬元，當中兩成半用於提升數字化能力；約兩成用於研發以提高原材料及食材品質；約兩成用於提升生產、加工、倉儲、物流及分銷能力；約一成半用於提升品牌、並進一步擴張門店網絡；約一成用於投資各種營銷活動；一成用作營運資金。"
