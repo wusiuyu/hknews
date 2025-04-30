@@ -1,3 +1,4 @@
+metro, 1 news, at 2025-05-01 00:00:27
 metro, 0 news, at 2025-04-30 23:45:21
 metro, 1 news, at 2025-04-30 23:30:26
 metro, 0 news, at 2025-04-30 23:15:28
