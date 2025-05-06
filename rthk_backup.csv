@@ -1,9 +1,4 @@
 title,date,summary,scrape_time,section,source,url,news_content
-金價升3%　創兩星期新高,2025-05-07 06:18,,2025-05-07 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803488-20250507.htm,"金價升至兩星期高位，市場觀望聯儲局議息結果，並關注美國關稅措施及貿易談判進展。
-
-現貨金高見每盎司3434.8美元，升3%，較早時企穩3430美元以上。
-
-紐約期金收報3422.8美元，升100.5美元，升幅3%。"
 英美期油反彈逾3%　EIA指OPEC+增產及關稅加劇油價波動,2025-05-07 06:18,,2025-05-07 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803487-20250507.htm,"油價自4年低位反彈，英美期油升逾3%收市。有跡象顯示歐洲及中國需求增加，加上美國產量下降、中東局勢緊張，有買盤趁低吸納。
 
 倫敦布蘭特期油收報每桶62.15美元，升1.92美元，升幅3.2%。
@@ -13,6 +8,11 @@ title,date,summary,scrape_time,section,source,url,news_content
 另外，美國能源信息署(EIA)表示，市場對OPEC+增產導致供過於求的看法，以及關稅對經濟帶來的不確定，加劇短期油價波動。
 
 EIA對OPEC+今年每日供應量預測上調至4290萬桶；又預料美國今年石油產量將創新高，將今年紐約期油及布蘭特期油均價預測，分別降至61.81美元及65.85美元。"
+金價升3%　創兩星期新高,2025-05-07 06:18,,2025-05-07 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803488-20250507.htm,"金價升至兩星期高位，市場觀望聯儲局議息結果，並關注美國關稅措施及貿易談判進展。
+
+現貨金高見每盎司3434.8美元，升3%，較早時企穩3430美元以上。
+
+紐約期金收報3422.8美元，升100.5美元，升幅3%。"
 德股全日跌幅收窄至0.4%　結束9個交易日升勢,2025-05-07 06:18,,2025-05-07 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803486-20250507.htm,"歐洲股市個別發展。
 
 默茨在議會第2輪投票當選德國總理，德國股市跌幅收窄。DAX指數早段最多跌約2.1%，低見22861點，其後重上23000點，收市報23249點，跌94點，跌幅0.41%，結束9個交易日升勢。
@@ -213,6 +213,11 @@ But negotiations were stop-start, with Britain having four different prime minis
 以軍和美國空襲也門首都機場,2025-05-06 21:13,,2025-05-06 21:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803458-20250506.htm,"也門胡塞武裝控制的馬西拉電視台報道，以色列和美國對首都薩那機場發動空襲，機場在內的多個地區冒出濃煙。
 
 較早前，以色軍方在社交媒體發布警告，要求薩那機場地區的民眾迅速撤離，否則會面臨危險。這是以色列國防軍首次向距離以色列1600多公里的也門發出撤離警告。以色列軍方周一對也門荷台達港口等地發動攻擊，報復胡塞武裝襲擊以色列國際機場。"
+美國3月貿易逆差擴大14%　創歷史新高,2025-05-06 21:08,,2025-05-06 21:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803455-20250506.htm,"美國3月貿易逆差1405億美元，按月擴大14%，創歷史新高，多過市場預期的1370億美元。
+
+期內，出口增速放緩至0.2%，2月則增長2.8%；入口增速明顯加快至4.4%，2月則零增長。
+
+3月中美貿易逆差179.3億美元，按月收窄逾15%。"
 人行：研究推進存款保險法立法,2025-05-06 21:08,,2025-05-06 21:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803457-20250506.htm,"人民銀行副行長宣昌能表示，研究推進存款保險法立法，借助金融法、金融穩定法等立法修法契機，強化存款保險各項核心職能，明確中國存款保險定位於金融安全網三支柱之一，加強存款保險履職的法律基礎。
 
 宣昌能在人行主管的《中國金融時報》上撰文指，將加快推進基金積累，拓寬基金資金來源，進一步健全存保基金應急補充機制，保障中小銀行改革化險和風險處置需要。
@@ -220,11 +225,6 @@ But negotiations were stop-start, with Britain having four different prime minis
 文章指出，將通過存款保險核查等手段進一步摸清風險底數，及時將風險苗頭通報監管部門、地方政府，推動各方落實責任，形成化險合力。
 
 此外，當局將構建科學合理的成本分擔機制，風險處置工作遵循成本最小化原則，建立常態化的清產核資和盡調估值機制，積極推動以「接管+收購承接+破產清算」為主的處置模式。"
-美國3月貿易逆差擴大14%　創歷史新高,2025-05-06 21:08,,2025-05-06 21:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803455-20250506.htm,"美國3月貿易逆差1405億美元，按月擴大14%，創歷史新高，多過市場預期的1370億美元。
-
-期內，出口增速放緩至0.2%，2月則增長2.8%；入口增速明顯加快至4.4%，2月則零增長。
-
-3月中美貿易逆差179.3億美元，按月收窄逾15%。"
 黃金周部分酒吧生意增四成　內地年輕女士慕名品嚐特色雞尾酒,2025-05-06 21:05,,2025-05-06 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803456-20250506.htm,"香港酒吧業協會主席錢雋永說，黃金周訪港旅客人次較去年上升四成，帶動本地食肆及酒吧業務顯著上升，部分酒吧營業額更錄得四成增長。
 
 他表示，今年業界營運情況較去年理想，不少年輕旅客選擇到酒吧消遣，當中以特色雞尾酒酒吧的表現最為突出。去年香港有9間酒吧入選「亞洲50最佳酒吧」，加上小紅書等社交平台廣泛宣傳，令內地年輕旅客，特別是年輕女性客群對本港酒吧興趣增加，趁長假期來港慕名品嚐特色雞尾酒，帶動假期期間這類酒吧的營業額較平日上升四成。
@@ -499,6 +499,13 @@ But Sydney, Taipei, Mumbai, Bangkok, Paris and Frankfurt slipped. Wellington was
 他指出，中歐雙方要堅持多邊主義，捍衛公平正義，反對單邊霸凌，攜手應對全球性挑戰，共同推動平等有序的世界多極化和普惠包容的經濟全球化，為世界和平、穩定、發展、繁榮作出更大貢獻。
 
 國務院總理李強亦與科斯塔、馮德萊恩互致賀電。李強表示，中方願同歐方一起，堅持全面戰略伙伴關係定位，進一步提升中歐關係的穩定性、建設性、互惠性、全球性，為世界注入更多穩定性和正能量。"
+恒指高收158點　成交額逾2000億元,2025-05-06 16:26,,2025-05-06 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803418-20250506.htm,"港股反覆上升，恒指一度升逾240點，升至22747點，收市報22662點，升158點，升幅0.7%，資金流入港股成交額增至約2134億元。
+
+科技指數偏軟，報5239點，跌4點。ATMXJ個別發展，小米跌近3%，美團升逾4%。
+
+金融股普遍上升，港交所升逾2%，將開通科企專線；滙控及友邦升逾1%。
+
+金價上升，帶動黃金相關股份造好。個別內需、澳門博彩股、公用股亦上升。部分醫藥股、手機設備股下跌。"
 HK 'can play bigger role in space industry',2025-05-06 16:26,,2025-05-06 16:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1803415-20250506.htm,"Executive Council convener Regina Ip said on Tuesday Hong Kong can play a more significant role in the country’s space development and expressed hopes that commercial opportunities in the sector can be explored during an upcoming summit.  
 
 Ip made the remarks during a media preview for this year's Global Prosperity Summit, scheduled for May 19 to 21.  
@@ -524,27 +531,20 @@ Ip also insisted that US diplomats would continue to participate at the summit, 
 Another highlight of the summit, Ip said, will be a closed-door meeting on the final day, when experts from the United States, Europe and Beijing will discuss economic security and international trade.  
 
 Ip has postponed a planned visit to the States, originally scheduled during Easter, saying that she felt the timing was not right and that she will not be travelling there this year."
-恒指高收158點　成交額逾2000億元,2025-05-06 16:26,,2025-05-06 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803418-20250506.htm,"港股反覆上升，恒指一度升逾240點，升至22747點，收市報22662點，升158點，升幅0.7%，資金流入港股成交額增至約2134億元。
-
-科技指數偏軟，報5239點，跌4點。ATMXJ個別發展，小米跌近3%，美團升逾4%。
-
-金融股普遍上升，港交所升逾2%，將開通科企專線；滙控及友邦升逾1%。
-
-金價上升，帶動黃金相關股份造好。個別內需、澳門博彩股、公用股亦上升。部分醫藥股、手機設備股下跌。"
 斯里蘭卡舉行全國地方選舉　全國部署逾6萬警察維持秩序,2025-05-06 16:05,,2025-05-06 16:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803409-20250506.htm,"斯里蘭卡舉行全國地方選舉，選出300多個地方行政機構的8千多名成員，是斯里蘭卡時隔7年再次舉行全國地方選舉。
 
 全國部署超過6萬名警察，維持選舉秩序並確保選舉期間的安全。斯里蘭卡選舉委員會表示，預計參與投票的登記選民將超過1700萬。
 
 除總統迪薩納亞克領導的執政國家人民力量黨外，參與選舉的主要黨派包括統一國民力量黨、人民陣線黨等。這次選舉原被視為對執政黨支持度的一次考驗，但由於反對黨缺乏有力領導、聯盟鬆散等原因，預計無法形成明顯挑戰。"
 外交部否認長和獲准出售巴拿馬運河港口以外港口,2025-05-06 16:02,,2025-05-06 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803413-20250506.htm,在北京，外交部否認長和獲准出售巴拿馬運河港口以外港口。發言人林劍說，有關報道沒有根據，重申國家市場監督管理總局已表示高度關注有關交易，將依法進行審查，交易各方不得採取任何方式規避審查，未獲批准前，不得實施集中，否則將承擔法律責任。中國政府將依法維護國家主權、安全、發展利益，維護市場公平公正，企業的商業行為應遵守相關法律，不能損害國家利益。
-中方祝賀新加坡總理黃循財領導的人民行動黨在大選獲勝,2025-05-06 16:00,,2025-05-06 16:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803412-20250506.htm,"中方對新加坡總理黃循財領導的人民行動黨在大選中獲勝表示祝賀。
-
-外交部發言人林劍在例行記者會回應中方對中新關係的未來發展有何期待時又表示，今年是中新建交35周年，中方重視發展中新關係，願意與新加坡新一屆政府一同努力，加強溝通交流，深化務實合作，推動中新全方位高質量的前瞻性夥伴關係不斷邁上新台階。"
 余偉文：外匯基金內美元資產已降至約79%,2025-05-06 16:00,,2025-05-06 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803414-20250506.htm,"金管局總裁余偉文表示，近年已陸續將外匯基金投資組合分散至非美元資產，包括人民幣、歐元、日圓和英鎊等，投資類別亦分散至私募投資等，外匯基金內「支持組合」和「投資組合」的美元資產已經由90%以上，降至約79%。
 
 不過，他認為，外匯基金部分投資需要用作支持貨幣基礎，需要持有流動性高的美元資產，目前已透過不斷縮短持有的美國國債年期作防禦性部署，認為短年期美債市場波動性相對低。
 
 余偉文又指，目前金融市場相對穩定，交易維持暢順，港股首季受惠人工智能熱潮及內地推出的支援措施，吸引資金流入，帶動港股累升約15%，是環球最好表現的市場之一，之後表現要視乎關稅、內地政策、新股市場表現等因素。"
+中方祝賀新加坡總理黃循財領導的人民行動黨在大選獲勝,2025-05-06 16:00,,2025-05-06 16:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803412-20250506.htm,"中方對新加坡總理黃循財領導的人民行動黨在大選中獲勝表示祝賀。
+
+外交部發言人林劍在例行記者會回應中方對中新關係的未來發展有何期待時又表示，今年是中新建交35周年，中方重視發展中新關係，願意與新加坡新一屆政府一同努力，加強溝通交流，深化務實合作，推動中新全方位高質量的前瞻性夥伴關係不斷邁上新台階。"
 金管局：毋須對負資產住宅按揭貸款情況太悲觀,2025-05-06 15:53,,2025-05-06 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803411-20250506.htm,"截至3月底，本港首季負資產住宅按揭貸款宗數40741宗，按季增加逾6.1%，創2003年底以來最高。
 
 金管局副總裁阮國恒強調，銀行的住宅按揭逾期還款比率仍處於約0.1%的相當低水平，當中亦主要涉及按保計劃下的高成數按揭個案，有關個案亦對借款人提出自住和穩定收入等額外要求，有助保障還款能力，認為毋須對負資產情況太悲觀。
@@ -731,32 +731,6 @@ The authorities are offering ""feasible assistance"" to affected individuals by 
 邱金榮認為，黃金周固然對餐飲業有很大幫助，之後亦要觀察包括母親節的生意，因為節日對業界有幫助。
 
 被問到有否針對內地旅客推出優惠，邱金榮表示，有一定難度，業界需要多了解社交平台小紅書等熱門媒體宣傳，並且要投放金錢才會有效果，他認為本港食肆目前仍未夠成熟，需要有適應期。"
-Govt gauges interests to 'take care' of visitors: CE,2025-05-06 11:59,,2025-05-06 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1803377-20250506.htm,"Tourism officials will study the travel patterns and interests of incoming visitors while working out what mainland travellers like following the Labour Day golden week holiday, according to the city's leader.
-
-Ahead of Tuesday's Executive Council meeting, Chief Executive John Lee also said the SAR should welcome all types of tourists and cater to their needs. 
-
-The city welcomed 1.1 million tourists in the first five days of the month, up around 22 percent from the same period last year. Friday saw the most mainland arrivals – 267,000. 
-
-The chief executive said officials will study the use of technology for crowd control and learn what tourists are interested in nowadays.
-
-""We should really gather information about the new travel patterns of visitors, particularly those from the mainland, because they represent a big chunk of tourists, to know about their new travel patterns, new needs and new routes, so that we can take good care of them,"" Lee said. 
-
-""After knowing all these demands, we can plan new routes, new supporting facilities to allow them to enjoy Hong Kong more.""
-
-During the five-day holiday, some mainland tourists reportedly spent the night camping or at fast-food restaurants instead of hotels. 
-
-""There will be high-end travellers, and there will also be non-high-end travellers,"" Lee said. 
-
-""But we must look at tourism as a whole, so that every tourist will find their experience in Hong Kong an enjoyable one."" 
-
-""We have to work together to ensure that Hong Kong is a city that welcomes all tourists."""
-分析料金管局短期持續入市　但銀行體系總結餘未必重返3千億元,2025-05-06 11:59,,2025-05-06 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803375-20250506.htm,"港元匯價持續偏強，近日多次觸發7.75港元兌1美元的強方兌換保證。金管局自上星期五紐約時段重啟入市後，三度承接美元沽盤，累計向市場注入逾1166億港元。至本周三，香港銀行體系總結餘將增至近1614億元。
-
-根據金管局數據，當局在2020年曾經85次入市，試過短短兩個月內觸發強方兌換保證47次，全年注入逾3835億港元，當年年底銀行體系總結餘急升至近4600億元。
-
-iFast Global Markets投資總監溫鋼城預料，銀行體系總結餘不會重返3000億至4000億水平，原因是當年美國聯儲局正進行量化寬鬆。
-
-華僑銀行香港經濟師姜靜表示，美國貿易保護主義抬頭及財赤問題，影響美元信心，導致亞洲貨幣兌美元轉強。派息及新股活動，亦令港元流動性收緊，預料港元短期持續貼近7.75港元兌1美元，金管局或持續入市。她預料，隨著流動性轉鬆，港元利率下跌趨勢會較為跟足美息。"
 Govt gauging interests to 'take care' of visitors: CE,2025-05-06 11:59,,2025-05-06 13:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1803377-20250506.htm,"Tourism officials will study the travel patterns and interests of incoming visitors while working out what mainland travellers like following the Labour Day Golden Week holiday, according to the city's leader.
 
 Ahead of Tuesday's Executive Council meeting, Chief Executive John Lee also said the SAR should welcome all types of tourists and cater to their needs. 
@@ -774,6 +748,32 @@ During the five-day holiday, some mainland tourists reportedly spent the night c
 ""There will be high-end travellers, and there will also be non-high-end travellers,"" Lee said. 
 
 ""But we must look at tourism as a whole, so that every tourist will find their experience in Hong Kong an enjoyable one.
+
+""We have to work together to ensure that Hong Kong is a city that welcomes all tourists."""
+分析料金管局短期持續入市　但銀行體系總結餘未必重返3千億元,2025-05-06 11:59,,2025-05-06 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803375-20250506.htm,"港元匯價持續偏強，近日多次觸發7.75港元兌1美元的強方兌換保證。金管局自上星期五紐約時段重啟入市後，三度承接美元沽盤，累計向市場注入逾1166億港元。至本周三，香港銀行體系總結餘將增至近1614億元。
+
+根據金管局數據，當局在2020年曾經85次入市，試過短短兩個月內觸發強方兌換保證47次，全年注入逾3835億港元，當年年底銀行體系總結餘急升至近4600億元。
+
+iFast Global Markets投資總監溫鋼城預料，銀行體系總結餘不會重返3000億至4000億水平，原因是當年美國聯儲局正進行量化寬鬆。
+
+華僑銀行香港經濟師姜靜表示，美國貿易保護主義抬頭及財赤問題，影響美元信心，導致亞洲貨幣兌美元轉強。派息及新股活動，亦令港元流動性收緊，預料港元短期持續貼近7.75港元兌1美元，金管局或持續入市。她預料，隨著流動性轉鬆，港元利率下跌趨勢會較為跟足美息。"
+Govt gauges interests to 'take care' of visitors: CE,2025-05-06 11:59,,2025-05-06 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1803377-20250506.htm,"Tourism officials will study the travel patterns and interests of incoming visitors while working out what mainland travellers like following the Labour Day golden week holiday, according to the city's leader.
+
+Ahead of Tuesday's Executive Council meeting, Chief Executive John Lee also said the SAR should welcome all types of tourists and cater to their needs. 
+
+The city welcomed 1.1 million tourists in the first five days of the month, up around 22 percent from the same period last year. Friday saw the most mainland arrivals – 267,000. 
+
+The chief executive said officials will study the use of technology for crowd control and learn what tourists are interested in nowadays.
+
+""We should really gather information about the new travel patterns of visitors, particularly those from the mainland, because they represent a big chunk of tourists, to know about their new travel patterns, new needs and new routes, so that we can take good care of them,"" Lee said. 
+
+""After knowing all these demands, we can plan new routes, new supporting facilities to allow them to enjoy Hong Kong more.""
+
+During the five-day holiday, some mainland tourists reportedly spent the night camping or at fast-food restaurants instead of hotels. 
+
+""There will be high-end travellers, and there will also be non-high-end travellers,"" Lee said. 
+
+""But we must look at tourism as a whole, so that every tourist will find their experience in Hong Kong an enjoyable one."" 
 
 ""We have to work together to ensure that Hong Kong is a city that welcomes all tourists."""
 滬股半日升近1%　重返3300點　深證成指升穿1萬點關口,2025-05-06 11:49,,2025-05-06 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803378-20250506.htm,"滬深股市半日升幅擴大至約1%至2%，黃金、稀土股造好，銀行、旅遊、酒店股偏軟。
@@ -875,16 +875,16 @@ Yau Tse believes if the multi-entry permits that was restored for Shenzhen resid
 行政長官李家超出席行政會議前，被問到警方的行動會否成為先例，日後會否有更多人因相關罪行被捕。李家超回應說，國家安全罪行極其嚴重，當局一定會全力依法追究責任，任何人違反國家安全相關法律，特區政府無論任何時候在搜索到證據都會追究責任。
 
 他奉勸任何人不要以身試法，尤其是國家安全的法律，當局一定會有法必依、執法必嚴、追究到底。"
-Local stocks marginally up after the Golden Week break,2025-05-06 10:53,,2025-05-06 11:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1803351-20250506.htm,"Hong Kong stocks opened higher on Tuesday, with the benchmark Hang Seng Index up 71 points to 22,576.
-
-Mainland stocks opened higher, with the benchmark Shanghai Composite Index up 0.49 percent to open at 3,295 points.
-
-The Shenzhen Component Index opened 0.75 percent higher at 9,974 points. (Xinhua)"
 五一假期北京接待遊客1790.8萬人次　入境旅客逾10萬人次,2025-05-06 10:53,,2025-05-06 11:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803366-20250506.htm,"北京市文化和旅遊局的數據顯示，五一假期，北京接待遊客總數1790萬8千人次，按年增長5.6%；旅遊總花費209億8千萬元，按年增長6.9%。入境旅客方面，共接待超過10萬人次，按年增長42.4%；入境旅遊花費超過11億元，按年增長48%。
 
 數據顯示，五一假期，北京遊客接待量排名三甲景區是王府井、奧林匹克公園、以及天安門地區。另外，天壇公園及頤和園在十大之內。
 
 新華社報道，北京市在通關、支付、離境退稅等方面提升入境遊便利度，實現遊客規模與消費雙向躍升。"
+Local stocks marginally up after the Golden Week break,2025-05-06 10:53,,2025-05-06 11:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1803351-20250506.htm,"Hong Kong stocks opened higher on Tuesday, with the benchmark Hang Seng Index up 71 points to 22,576.
+
+Mainland stocks opened higher, with the benchmark Shanghai Composite Index up 0.49 percent to open at 3,295 points.
+
+The Shenzhen Component Index opened 0.75 percent higher at 9,974 points. (Xinhua)"
 國家文化和旅遊部：今年五一假期出入境旅遊市場熱度雙升,2025-05-06 10:30,,2025-05-06 10:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803362-20250506.htm,"國家文化和旅遊部形容，今年五一假期，出入境旅遊市場熱度雙升，其中入境旅遊持續復蘇，緬甸、韓國、馬來西亞、澳洲、英國、泰國、菲律賓、俄羅斯、越南、日本等為主要入境旅遊客源地，佔外國遊客總數的57.4%，其中重慶無人機燈光秀、魁星樓吸引大批入境遊客打卡，以大熊貓等為代表的文創IP產品亦深受外國遊客歡迎。
 
 當局又說，出境旅遊持續火熱，日本、韓國、新加坡、越南、馬來西亞、泰國、印尼、澳洲、柬埔寨、俄羅斯等為主要出境旅遊目的地。"
@@ -989,20 +989,3 @@ The aggregate balance, the key gauge of cash in the banking system, will increas
 他預料，1年後，美國經濟增長將接近3%。他期望，每年削減約3000億美元赤字，目標4年內每年將赤字佔國內生產總值(GDP)比例降低約1個百分點，以恢復至3.5%的長期平均水平。
 
 他又說，如果削減赤字能夠消除美國國債的信貸風險，利率自然會下降。"
-英超聯賽　諾定咸森林作客1:1迫和水晶宮,2025-05-06 06:44,,2025-05-06 07:00,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803337-20250506.htm,"英格蘭超級足球聯賽，諾定咸森林作客1:1迫和水晶宮，爭取來季踢歐聯資格的機會受到影響。
-
-兩隊半場互無紀錄。森林換邊後踢到60分鐘失守，水晶宮後衛泰利米素爾搏到門將犯規，由伊比爾治伊斯操刀射入12碼，打破僵局。不過領先優勢只維持4分鐘就被森林的梅里路扳平。
-
-在積分榜，森林35戰61分，排在第六，落後第五的車路士2分；水晶宮就46分排第十二。"
-亞太區貨幣兌美元急升　新關稅擔憂拖累美元,2025-05-06 06:44,,2025-05-06 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803336-20250506.htm,"美元兌多個主要貨幣下滑，受到新關稅擔憂拖累。美元指數較早時報99.77，跌0.1%。
-
-亞太區貨幣兌美元急升，澳元兌美元曾創去年底以來最高，新台幣兌美元亦觸及歷史高位。
-
-離岸人民幣兌美元創6個月新高，升至7.1845兌1美元，較早時於7.2水平爭持。日圓徘徊143.7兌1美元。"
-港股美國預託證券普遍上升　滙控及小米升約2%,2025-05-06 06:43,,2025-05-06 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1803335-20250506.htm,"港股美國預託證券(ADR)普遍上升。
-
-小米、滙控ADR比本港上星期五收市價升約2%，以港元計分別折合報54元及87.9元。
-
-友邦、美團、騰訊ADR升近1%或以上，阿里巴巴、平保、港交所ADR靠穩。
-
-內銀股個別發展，建行ADR微升，工行及中行ADR偏軟。"
