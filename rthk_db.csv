@@ -1,4 +1,13 @@
 title,date,summary,scrape_time,section,source,url,news_content
+韓股初段跌約0.3%,2025-05-15 08:09,,2025-05-15 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804686-20250515.htm,南韓股市早段偏軟，首爾綜合指數較早時報2633點，跌7點，跌幅0.28%。
+日股初段下試37800點,2025-05-15 08:09,,2025-05-15 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804685-20250515.htm,日股初段受壓，日經指數開市後低見37807點，較早時報37853點，跌274點，跌幅0.72%。
+恒瑞醫藥H股招股　集資最多近99億元,2025-05-15 07:56,,2025-05-15 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804682-20250515.htm,"恒瑞醫藥今日起招股，發行近2.25億股H股，約5.5%在港公開發售，其餘國際配售。
+
+招股價範圍介乎41.45元至44.05元，每手200股入場費約8899元。
+
+恒瑞醫藥2000年於A股上市，今次H股上市集資總額98.9億元。扣除上市開支後，以招股價範圍中位數計，集資淨額約94.6億元，約75%用於研發計劃，約15%用於建設、擴大或升級生產及研發設施，其餘用作營運資金及一般企業用途。
+
+股份下周二截止認購，下周五掛牌，上市編號1276。"
 恒瑞醫藥H股招股　集資總額近99億元,2025-05-15 07:56,,2025-05-15 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804682-20250515.htm,"恒瑞醫藥今日起招股，發行近2.25億股H股，約5.5%在港公開發售，其餘國際配售。
 
 招股價範圍介乎41.45元至44.05元，每手200股入場費約8899元。
@@ -52,16 +61,16 @@ Mirxes是新加坡微小核糖核酸(miRNA)技術公司，產品用作癌症及�
 友邦ADR升近1%，折合報65.9元。滙控、阿里巴巴ADR靠穩。
 
 京東集團ADR則跌1.5%，折合報139.4元。美團、小米、港交所、平保、內銀股ADR都偏軟。"
-英美期油低收逾0.8%　美國上星期原油庫存急升觸發憂慮,2025-05-15 05:53,,2025-05-15 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804672-20250515.htm,"油價回落，英美期油同樣跌逾0.8%。隨著進口石油上升，美國上星期原油庫存出乎意料大幅增加逾345萬桶，觸發市場憂慮供應過剩。另外，在夏季駕駛高峰來臨之前，汽油及蒸餾油庫存則顯著下滑。
-
-紐約期油收報每桶63.15美元，跌52美仙。
-
-倫敦布蘭特期油收報66.09美元，跌54美仙。"
 金價失守3200美元　創逾1個月新低,2025-05-15 05:53,,2025-05-15 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804673-20250515.htm,"金價失守每盎司3200美元水平，創逾1個月新低。
 
 現貨金低見3167.69美元，跌約2.5%，較早時處於3177美元以上。
 
 紐約期金收報3188.3美元，跌59.5美元，跌幅1.8%。"
+英美期油低收逾0.8%　美國上星期原油庫存急升觸發憂慮,2025-05-15 05:53,,2025-05-15 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804672-20250515.htm,"油價回落，英美期油同樣跌逾0.8%。隨著進口石油上升，美國上星期原油庫存出乎意料大幅增加逾345萬桶，觸發市場憂慮供應過剩。另外，在夏季駕駛高峰來臨之前，汽油及蒸餾油庫存則顯著下滑。
+
+紐約期油收報每桶63.15美元，跌52美仙。
+
+倫敦布蘭特期油收報66.09美元，跌54美仙。"
 道指低收89點　納指升逾0.7%　Nvidia升逾4%,2025-05-15 05:52,,2025-05-15 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804671-20250515.htm,"美股個別發展，投資者觀望貿易局勢發展及經濟數據。
 
 道瓊斯指數先升後回，一度失守42000點關口，最多跌近190點，低見41952點，收市報42051點，跌89點，跌幅0.2%，連續兩日低收。
@@ -127,12 +136,12 @@ Markets are looking ahead to reports on Thursday on wholesale prices and retail 
 西科爾斯基在西部城市波茲南一個論壇表示，從來沒有出現烏克蘭加入北約的「現實前景」，對於烏克蘭來說，可執行並可以實現的是歐洲一體化。他說，歐盟條約能比北約條約提供更強大、更明確的安全保障。
 
 西科爾斯基再次排除波蘭向烏克蘭派遣維和部隊的可能。他說，波蘭與白俄羅斯和俄羅斯有650公里的邊界，波蘭的任務是保衛北約東翼，保證支持烏克蘭維和任務的運輸和通信暢通。"
-加沙北部一間醫院稱以軍空襲釀至少50人死亡,2025-05-15 01:25,,2025-05-15 01:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804658-20250515.htm,"加沙北部一間醫院表示，以色列針對當地難民營發動連串空襲，造成至少50名巴勒斯坦人死亡，包括22名兒童和15名婦女。以軍表示正調查相關指控。
+加沙北部房屋及難民營遭以軍空襲　至少50人死亡,2025-05-15 01:25,,2025-05-15 05:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804658-20250515.htm,"加沙北部多間房屋及難民營遭到以軍空襲，當地一間醫院的發言人表示，至少50名巴勒斯坦人死亡，包括22名兒童和15名婦女。以軍表示正調查相關指控。
 
 聯合國負責人道主義事務的副秘書長弗萊徹，敦促聯合國安理會成員國採取行動，防止加沙發生種族滅絕，又呼籲以色列解除對加沙為期十周的封鎖，批評以色列和美國利用私營公司接管人道主義援助分配的新方案，只是令巴勒斯坦人進一步遭受暴力和流離失所的遮醜布。
 
 以色列駐聯合國大使達農表示，有關指控毫無根據，他堅稱現有的援助系統已經崩潰，並被利用協助哈馬斯用於戰事。"
-加沙北部房屋及難民營遭以軍空襲　至少50人死亡,2025-05-15 01:25,,2025-05-15 05:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804658-20250515.htm,"加沙北部多間房屋及難民營遭到以軍空襲，當地一間醫院的發言人表示，至少50名巴勒斯坦人死亡，包括22名兒童和15名婦女。以軍表示正調查相關指控。
+加沙北部一間醫院稱以軍空襲釀至少50人死亡,2025-05-15 01:25,,2025-05-15 01:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804658-20250515.htm,"加沙北部一間醫院表示，以色列針對當地難民營發動連串空襲，造成至少50名巴勒斯坦人死亡，包括22名兒童和15名婦女。以軍表示正調查相關指控。
 
 聯合國負責人道主義事務的副秘書長弗萊徹，敦促聯合國安理會成員國採取行動，防止加沙發生種族滅絕，又呼籲以色列解除對加沙為期十周的封鎖，批評以色列和美國利用私營公司接管人道主義援助分配的新方案，只是令巴勒斯坦人進一步遭受暴力和流離失所的遮醜布。
 
@@ -333,7 +342,7 @@ Asked if there are plans to travel to Bahrain and Oman – the two remaining Gul
 證監會行政總裁梁鳳儀歡迎愛爾蘭成為第11個加入證監會基金互認安排的司法管轄區，認為反映國際間認可香港就投資基金制訂的監管標準，將繼續致力擴大相關安排，作為證監會深化香港與海外市場聯繫的核心策略之一部分。
 
 愛爾蘭中央銀行消費者及投資者保障副行長Derville Rowland表示，新安排除了透過增加投資選擇，為投資者帶來更多投資機會和提升投資多元性外，亦彰顯加強兩家機構在監管合作方面的承諾，期待與證監會緊密合作。"
-特首中東行｜李家超稱訪中東行程成功　加強合作等方面取得好結果,2025-05-14 20:55,,2025-05-14 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804635-20250514.htm,"行政長官李家超結束中東訪問，他在科威特總結行程時形容，今次率領香港及內地的商貿代表團訪問卡塔爾和科威特，訪問行程整體成功，在加強政府、商貿、人文合作等6方面取得很好成果。
+特首中東行｜與卡塔爾和科威特達成59協議　李家超稱訪問成功,2025-05-14 20:55,,2025-05-14 21:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804635-20250514.htm,"行政長官李家超結束中東訪問，他在科威特總結行程時形容，今次率領香港及內地的商貿代表團訪問卡塔爾和科威特，訪問行程整體成功，在加強政府、商貿、人文合作等6方面取得很好成果。
 
 李家超說，在推進政府之間關係方面，今次與兩國合共達成59項合作備忘錄和協議，卡塔爾佔35項、科威特佔24項，涵蓋政府合作、市場貿易、投資市場發展、金融、科研、法律專業、工程等。
 
@@ -342,7 +351,7 @@ Asked if there are plans to travel to Bahrain and Oman – the two remaining Gul
 他又說，連同上次訪問中東的沙特和阿聯酋，他已經訪問了海合會6個國家中的4個國家，佔海合會成員國的三分之二，人口佔海合會總人口九成，特區政府正積極探討與海合會簽署自由貿易協議，明日起阿聯酋會給予香港30天免簽安排，阿曼亦會延長免簽入境期限，由最長10日增加至14日。
 
 李家超又指，卡塔爾和科威特都是發展蓬勃、資金充裕、經濟不斷增長的國家，現時中東國家正積極分散風險，並尋求投資中國和香港特區的機遇，認為在全球經濟重心東移的大趨勢，香港機遇無限。"
-特首中東行｜與卡塔爾和科威特達成59協議　李家超稱訪問成功,2025-05-14 20:55,,2025-05-14 21:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804635-20250514.htm,"行政長官李家超結束中東訪問，他在科威特總結行程時形容，今次率領香港及內地的商貿代表團訪問卡塔爾和科威特，訪問行程整體成功，在加強政府、商貿、人文合作等6方面取得很好成果。
+特首中東行｜李家超稱訪中東行程成功　加強合作等方面取得好結果,2025-05-14 20:55,,2025-05-14 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804635-20250514.htm,"行政長官李家超結束中東訪問，他在科威特總結行程時形容，今次率領香港及內地的商貿代表團訪問卡塔爾和科威特，訪問行程整體成功，在加強政府、商貿、人文合作等6方面取得很好成果。
 
 李家超說，在推進政府之間關係方面，今次與兩國合共達成59項合作備忘錄和協議，卡塔爾佔35項、科威特佔24項，涵蓋政府合作、市場貿易、投資市場發展、金融、科研、法律專業、工程等。
 
@@ -444,7 +453,7 @@ Asked if there are plans to travel to Bahrain and Oman – the two remaining Gul
 衞生署署長林文健在簽署儀式上，感謝廣東省衞健委和相關城市的衞生部門，積極支持和協助特區政府進一步擴大「試點計劃」，為合資格香港長者提供更大便利和靈活性，以保障及滿足他們的醫療需求，同時進一步促進大灣區的醫療合作，攜手共建「健康灣區」。 
 
 「試點計劃」自去年開通後，截至今年3月底，約13350名合資格長者曾在計劃下的醫療機構，使用醫療券支付護理服務費用，交易宗數超過24600宗，申領交易總額約3216萬元。"
-"HK has a lot to offer Kuwait, says CE",2025-05-14 18:37,,2025-05-14 18:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1804617-20250514.htm,"Chief Executive John Lee on Wednesday said the SAR has much to offer Kuwait, as the two sides agreed to work together in various areas such as trade and financial services.
+CE says HK has a lot to offer Kuwait,2025-05-14 18:37,,2025-05-14 22:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1804617-20250514.htm,"Chief Executive John Lee on Wednesday said the SAR has much to offer Kuwait, as the two sides agreed to work together in various areas such as trade and financial services.
 
 ""I'm pleased to note that during our visit, Hong Kong and Kuwait have reached consensus on 24 concrete deliverables, through [memoranda of understanding] and related agreements,"" Lee told a business luncheon in the Gulf country on the last day of his Middle East tour.
 
@@ -461,7 +470,7 @@ The chief executive noted that ties between the SAR and the Middle East are cont
 Lee also said Hong Kong is seeking to open a second trade office in the Gulf Cooperation Council region.
 
 He added the ""burgeoning trade and investment cooperation"" would help the two sides reach a free trade agreement."
-CE says HK has a lot to offer Kuwait,2025-05-14 18:37,,2025-05-14 22:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1804617-20250514.htm,"Chief Executive John Lee on Wednesday said the SAR has much to offer Kuwait, as the two sides agreed to work together in various areas such as trade and financial services.
+"HK has a lot to offer Kuwait, says CE",2025-05-14 18:37,,2025-05-14 18:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1804617-20250514.htm,"Chief Executive John Lee on Wednesday said the SAR has much to offer Kuwait, as the two sides agreed to work together in various areas such as trade and financial services.
 
 ""I'm pleased to note that during our visit, Hong Kong and Kuwait have reached consensus on 24 concrete deliverables, through [memoranda of understanding] and related agreements,"" Lee told a business luncheon in the Gulf country on the last day of his Middle East tour.
 
@@ -576,14 +585,14 @@ One of them focuses on incorporating physical activity into kindergarten curricu
 截至4月底，廣義貨幣供應量（M2）按年增長8%，高於市場預期的7.3%。月底人民幣貸款餘額按年增長7.2%，低於預期。
 
 人行數字又顯示，截至4月底，社會融資規模增量1.16萬億元，低於預期的逾1.2萬億元。首4個月社會融資規模增量累計16.34萬億元，按年多3.61萬億元。"
-新一輪16150個可續期公眾骨灰龕位下周一起接受申請,2025-05-14 17:24,,2025-05-14 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804608-20250514.htm,"食環署新一輪公眾骨灰龕位將於本月19日至下月18日接受申請，提供16150個可續期龕位，其中哥連臣角新廈有6050個，粉嶺和合石有4050個，當中禁香和非禁香各佔約一半；另外，預計今年第三季啟用的石門靈灰安置所採用環保理念，有6050個龕位，各樓層和公共地方全面禁止燃燒香燭祭品，安置所內也不設任何供燃燒祭品的設施。
+新一輪16150個新建可續期公眾骨灰龕位下周一起接受申請,2025-05-14 17:24,,2025-05-14 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804608-20250514.htm,"食環署新一輪公眾骨灰龕位將於本月19日至下月18日接受申請，提供16150個新建可續期龕位，其中哥連臣角新廈有6050個，粉嶺和合石有4050個，當中禁香和非禁香各佔約一半；另外，預計今年第三季啟用的石門靈灰安置所採用環保理念，有6050個龕位，各樓層和公共地方全面禁止燃燒香燭祭品，安置所內也不設任何供燃燒祭品的設施。
 
 署方說，獲編配的龕位最初安放期為20年，標準和大型龕位收費分別為2400元及3000元，之後每10年續期一次，分別1200及1500元。申請人可以在網上提交申請，隨即會收到載有編號的確認電郵，申請人可隨時在署方網頁查詢申請狀況；署方批核申請後，會發出抽籤紙號碼，並於今年第三季公開攪珠和隨機抽籤，即日公布和通知結果，中籤人可使用署方網頁查看龕位的位置，又強調所有龕位不設自行揀選。
 
 署方提到，如果網上申請人同時為已故人士申請火化服務，毋須夾附所需文件副本，確認資格後即日自動批核，中籤後可於網上繳費和完成編配手續；其他中籤者則須在指定日期前往公眾骨灰龕位編配辦事處辦理手續和繳費。
 
 署方又指，考慮到區議會和當區居民意見，石門靈灰安置所全面禁香，將加強保安巡邏，未來也會研究使用科技加強監管。"
-新一輪16150個新建可續期公眾骨灰龕位下周一起接受申請,2025-05-14 17:24,,2025-05-14 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804608-20250514.htm,"食環署新一輪公眾骨灰龕位將於本月19日至下月18日接受申請，提供16150個新建可續期龕位，其中哥連臣角新廈有6050個，粉嶺和合石有4050個，當中禁香和非禁香各佔約一半；另外，預計今年第三季啟用的石門靈灰安置所採用環保理念，有6050個龕位，各樓層和公共地方全面禁止燃燒香燭祭品，安置所內也不設任何供燃燒祭品的設施。
+新一輪16150個可續期公眾骨灰龕位下周一起接受申請,2025-05-14 17:24,,2025-05-14 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804608-20250514.htm,"食環署新一輪公眾骨灰龕位將於本月19日至下月18日接受申請，提供16150個可續期龕位，其中哥連臣角新廈有6050個，粉嶺和合石有4050個，當中禁香和非禁香各佔約一半；另外，預計今年第三季啟用的石門靈灰安置所採用環保理念，有6050個龕位，各樓層和公共地方全面禁止燃燒香燭祭品，安置所內也不設任何供燃燒祭品的設施。
 
 署方說，獲編配的龕位最初安放期為20年，標準和大型龕位收費分別為2400元及3000元，之後每10年續期一次，分別1200及1500元。申請人可以在網上提交申請，隨即會收到載有編號的確認電郵，申請人可隨時在署方網頁查詢申請狀況；署方批核申請後，會發出抽籤紙號碼，並於今年第三季公開攪珠和隨機抽籤，即日公布和通知結果，中籤人可使用署方網頁查看龕位的位置，又強調所有龕位不設自行揀選。
 
@@ -704,7 +713,7 @@ Analysts said that while the China deal was welcome, investors were now bracing 
 保監局行政總監張雲正表示，本地具規模而在外地註冊的獲授權保險公司熱切期待《草案》通過，認為公司選擇香港作為據點，反映本地市場受粵港澳大灣區城巿間互聯互通的優勢和吸引力。
 
 他說，保監局將與所有相關持份者緊密合作，讓有興趣的保險公司在新制度下啟動遷冊進程。"
-"1,700 job cuts loom at Burberry in wake of loss",2025-05-14 15:38,,2025-05-14 16:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1804588-20250514.htm,"British luxury fashion label Burberry said on Wednesday it could shed almost one fifth of its global workforce over two years to reduce costs as it fell into an annual net loss.
+"1,700 job cuts look at Burberry in wake of loss",2025-05-14 15:38,,2025-05-14 15:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1804588-20250514.htm,"British luxury fashion label Burberry said on Wednesday it could shed almost one fifth of its global workforce over two years to reduce costs as it fell into an annual net loss.
 
 The troubled group is in the midst of a turnaround plan to help boost sales and cut costs as the global luxury sector struggles with weak consumer demand, notably from China.
 
@@ -719,7 +728,7 @@ Revenue also fell 17 percent to £2.46 billion.
 Schulman was appointed CEO in July, replacing Jonathan Akeroyd, on a pledge to win back customers with a renewed focus on outerwear, including its famed trench coats.
 
 The group also warned that the economic environment has become ""more uncertain in light of geopolitical developments."" (AFP)"
-"1,700 job cuts look at Burberry in wake of loss",2025-05-14 15:38,,2025-05-14 15:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1804588-20250514.htm,"British luxury fashion label Burberry said on Wednesday it could shed almost one fifth of its global workforce over two years to reduce costs as it fell into an annual net loss.
+"1,700 job cuts loom at Burberry in wake of loss",2025-05-14 15:38,,2025-05-14 16:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1804588-20250514.htm,"British luxury fashion label Burberry said on Wednesday it could shed almost one fifth of its global workforce over two years to reduce costs as it fell into an annual net loss.
 
 The troubled group is in the midst of a turnaround plan to help boost sales and cut costs as the global luxury sector struggles with weak consumer demand, notably from China.
 
@@ -741,14 +750,14 @@ The group also warned that the economic environment has become ""more uncertain 
 參與人才來自超過12個國家或地區，包括內地、新加坡、印度、英國、澳洲、美國、馬來西亞、法國及加拿大等，當中62%更擁有碩士學位。
 
 人才辦會繼續推出針對全球不同地區及不同專業的線上招聘會，以及在本地舉辦招聘活動，協助人才順利來港就業，推動香港經濟長遠發展。"
-特首中東行｜李家超晤科威特投資當局　探討推動科技與創新合作,2025-05-14 15:32,,2025-05-14 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804586-20250514.htm,"正在中東訪問的行政長官李家超與科威特直接投資促進局會面，了解當地自由貿易區的運作，他相信今次會面將為兩地長期合作奠定堅實基礎，進一步推動雙方關係邁向新台階。
+李家超晤科威特當局了解自貿區運作　探討推動科技發展與創新合作,2025-05-14 15:32,,2025-05-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804586-20250514.htm,"正在中東訪問的行政長官李家超與科威特直接投資促進局會面，了解當地自由貿易區的運作，他相信今次會面將為兩地長期合作奠定堅實基礎，進一步推動雙方關係邁向新台階。
 
 李家超在社交專頁表示，去年科威特位居香港在中東地區第六大貿易夥伴，科威特是首個與香港簽署促進和保護投資協定的海灣阿拉伯國家，充分體現雙方對營造有利投資環境的共同承諾。
 
 他指出，香港作為國際金融中心，在綠色金融領域發展迅速，可為科威特發展綠色能源等新興產業提供有力支持。雙方在證券市場、資產及財富管理等金融服務領域的合作前景亦十分廣闊。
 
 李家超又說，樂意與科威特直接投資促進局探討共同推動科技發展與創新合作。"
-李家超晤科威特當局了解自貿區運作　探討推動科技發展與創新合作,2025-05-14 15:32,,2025-05-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804586-20250514.htm,"正在中東訪問的行政長官李家超與科威特直接投資促進局會面，了解當地自由貿易區的運作，他相信今次會面將為兩地長期合作奠定堅實基礎，進一步推動雙方關係邁向新台階。
+特首中東行｜李家超晤科威特投資當局　探討推動科技與創新合作,2025-05-14 15:32,,2025-05-14 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804586-20250514.htm,"正在中東訪問的行政長官李家超與科威特直接投資促進局會面，了解當地自由貿易區的運作，他相信今次會面將為兩地長期合作奠定堅實基礎，進一步推動雙方關係邁向新台階。
 
 李家超在社交專頁表示，去年科威特位居香港在中東地區第六大貿易夥伴，科威特是首個與香港簽署促進和保護投資協定的海灣阿拉伯國家，充分體現雙方對營造有利投資環境的共同承諾。
 
@@ -774,7 +783,7 @@ The group also warned that the economic environment has become ""more uncertain 
 受事故影響，太子道西往九龍城近荔枝角道部分行車線須暫時封閉，以配合緊急維修工作。 
 
 水務署說，工程團隊正全力搶修，以盡快恢復相關供水及重開受影響的道路。"
-疑與他人爭執駕小巴撞私家車　涉事司機及乘客共四人被捕,2025-05-14 15:09,,2025-05-14 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804582-20250514.htm,"元朗大棠路上星期六有小巴及私家車相撞，小巴司機與私家車司機及乘客爭執，有人破壞小巴車身，警方經調查後拘捕4名涉事男子。
+疑與他人爭執駕小巴撞私家車　涉事兩車司機及乘客共四人被捕,2025-05-14 15:09,,2025-05-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804582-20250514.htm,"元朗大棠路上星期六有小巴及私家車相撞，小巴司機與私家車司機及乘客爭執，有人破壞小巴車身，警方經調查後拘捕4名涉事男子。
 
 元朗警區反三合會行動組高級督察葉穎豪說，警方事發當日上午近11時接報，指一輛私家車沿大棠路往大棠方向行駛，在近水蕉新村時截停一輛小巴，數名男子落車與小巴司機理論，小巴突然駛前及倒車，又兩度撞向私家車，一名從私家車下車的男子，用硬物擊打小巴車身三次。
 
@@ -783,7 +792,7 @@ The group also warned that the economic environment has become ""more uncertain 
 警方其後分別在大樹下西路及十八鄉路，起回涉事小巴及私家車，並在元朗及天水圍拘捕3名本地男子及1名非華裔男子，年齡介乎17至41歲，包括涉案小巴司機，他涉嫌企圖傷人，正被扣查。另外3名被捕人士是私家車司機及乘客，涉嫌刑事毀壞。
 
 警方事後聯同新界北總區，在小巴途經路線進行交通違例事項執法。"
-疑與他人爭執駕小巴撞私家車　涉事兩車司機及乘客共四人被捕,2025-05-14 15:09,,2025-05-14 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804582-20250514.htm,"元朗大棠路上星期六有小巴及私家車相撞，小巴司機與私家車司機及乘客爭執，有人破壞小巴車身，警方經調查後拘捕4名涉事男子。
+疑與他人爭執駕小巴撞私家車　涉事司機及乘客共四人被捕,2025-05-14 15:09,,2025-05-14 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804582-20250514.htm,"元朗大棠路上星期六有小巴及私家車相撞，小巴司機與私家車司機及乘客爭執，有人破壞小巴車身，警方經調查後拘捕4名涉事男子。
 
 元朗警區反三合會行動組高級督察葉穎豪說，警方事發當日上午近11時接報，指一輛私家車沿大棠路往大棠方向行駛，在近水蕉新村時截停一輛小巴，數名男子落車與小巴司機理論，小巴突然駛前及倒車，又兩度撞向私家車，一名從私家車下車的男子，用硬物擊打小巴車身三次。
 
@@ -900,6 +909,11 @@ More than a quarter of them would like to set up their global or regional headqu
 他又提到，截至今年4月，「EV屋苑充電易資助計劃」下將42000個停車位，已完成安裝電動車充電基礎設施，預計今年年底完成安裝工程的停車位，會增至約77000個，資助計劃於2027至28財政年度完結時，可為約14萬個現有私人住宅樓宇或屋苑停車場內的停車位，完成安裝電動車充電基礎設施。
 
 另外，去年施政報告宣布投入3億元推出高速充電設施鼓勵計劃，目標是提供3000支高速充電樁，以額外支援約16萬輛電動車，預計所有高速充電樁可望陸續由明年至2028年年底前投入服務。政府正最後敲定計劃的實施細節，預計下月推出並開始接受申請。"
+尹錫悅支持者衝擊法院案　兩名被告遭判監,2025-05-14 13:50,,2025-05-14 14:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804575-20250514.htm,"南韓首爾西部地方法院，就前總統尹錫悅支持者衝擊法院案首次作出判決，兩名被告被判監。
+
+韓聯社報道，法院以涉嫌侵入特殊建築物、損壞特殊公物等罪名，分別判處兩人監禁一年六個月和一年。
+
+兩人涉嫌於今年1月19日凌晨，在得知法院針對尹錫悅簽發逮捕令後，強行闖入首爾西部地方法院大樓，並在法院內部進行破壞。其中一人還涉嫌在現場襲警。"
 陳美寶料未來一兩年部分社區可應用自動駕駛車輛,2025-05-14 13:50,,2025-05-14 14:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804576-20250514.htm,"運輸及物流局局長陳美寶表示，香港自動駕駛車輛測試和應用正提速提效進行，運輸署已簽發2張試點許可證，分別容許12輛自動駕駛車輛於北大嶼山及西九文化區進行測試。根據目前進展，預計自動駕駛車輛可於未來一至兩年內在部分社區應用。
 
 陳美寶在立法會回覆議員質詢時說，政府將以安全為原則，繼續總結各項目的經驗，完善技術標準，推動自動駕駛車輛的發展。政府亦正積極推展其他計劃，例如來往科學園與港鐵大學站的自動駕駛小巴，以及連接機場航天城與港珠澳大橋香港口岸人工島的自動運輸系統。
@@ -907,11 +921,6 @@ More than a quarter of them would like to set up their global or regional headqu
 她指出，「智慧交通基金」截至上月已資助13個與自動駕駛車輛等項目，資助金額約為1.7億港元。目前測試已達到高度自動駕駛水平，即國家及國際標準下的四級，技術水平與內地及世界其他地區相若。
 
 陳美寶說，多個地區已開始應用自動駕駛車輛於客運及貨運等商業營運中，政府將繼續密切留意有關技術及行業發展，並以具前瞻性的方式考慮發展方向及相關監管要求。"
-尹錫悅支持者衝擊法院案　兩名被告遭判監,2025-05-14 13:50,,2025-05-14 14:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804575-20250514.htm,"南韓首爾西部地方法院，就前總統尹錫悅支持者衝擊法院案首次作出判決，兩名被告被判監。
-
-韓聯社報道，法院以涉嫌侵入特殊建築物、損壞特殊公物等罪名，分別判處兩人監禁一年六個月和一年。
-
-兩人涉嫌於今年1月19日凌晨，在得知法院針對尹錫悅簽發逮捕令後，強行闖入首爾西部地方法院大樓，並在法院內部進行破壞。其中一人還涉嫌在現場襲警。"
 美國與沙特簽署兩國政府戰略經濟伙伴關係文件及涉國防能源協議,2025-05-14 13:39,,2025-05-14 13:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804573-20250514.htm,"美國與沙特阿拉伯在沙特首都利雅得，簽署兩國政府戰略經濟伙伴關係文件，以及涉及國防和能源等多個領域的雙邊協議和合作備忘錄。
 
 報道說，沙特王儲兼首相穆罕默德與到訪的美國總統特朗普，共同簽署有關文件，兩人隨後見證沙美雙方關於沙特軍隊現代化和能力發展的意向備忘錄，以及能源合作諒解備忘錄的簽署。
@@ -1131,12 +1140,12 @@ Lai also said the government should strengthen legislation to deter the smugglin
 她表示，計劃中現時於全港18區有77個服務點，署方期望參與人士能夠於一個月內取得服務，參加者每次補牙或拔牙，每隻牙要繳付50元行政費，至於合資格人士則可獲豁免。
 
 被問到部分地區較少診所，例如南區、北區及屯門區，各只得一間診所，王詠詩解釋，今次計劃是邀請非政府組織參與，所以未必平均分配18區，署方會繼續視乎使用量，倘部分地區有需要，不排除再邀請非政府組織參加。"
-日股半日倒跌0.8%　失守38000點水平,2025-05-14 10:41,,2025-05-14 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804537-20250514.htm,日股先升後回，日經指數失守38000點水平，半日收報37874點，跌308點，跌幅0.81%。
 《環看天下》：美國容許南非白人以難民身份入境　措施惹爭議,2025-05-14 10:41,,2025-05-14 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804541-20250514.htm,"首批獲美國給予難民身份的南非白人，日前抵達華盛頓。
 
 美國總統特朗普今年1月再度入主白宮，之後一方面收緊移民政策，另一方面放寬南非白人透過難民申請移居美國，做法引起爭議。
 
 美國同南非關係近月明顯轉差。特朗普政府早前指控南非當局更改土地政策，損害白人地主的權益，甚至形容當地白人正面臨「種族滅絕」。南非否認白宮的指控。"
+日股半日倒跌0.8%　失守38000點水平,2025-05-14 10:41,,2025-05-14 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804537-20250514.htm,日股先升後回，日經指數失守38000點水平，半日收報37874點，跌308點，跌幅0.81%。
 特朗普透露已有與中國達成「非常強大」貿易協議的藍圖,2025-05-14 10:39,,2025-05-14 10:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1804540-20250514.htm,"美國總統特朗普透露，美國已經描繪出藍圖，與中國達成一項「非常強大」的貿易協議，這項協議將令中國向美國企業開放。
 
 特朗普接受霍士新聞訪問時表示，他們已經與中國就一個非常強大協議定出範圍。當中最令人振奮的部分，是中國對美國企業開放，但他沒有詳細說明。
