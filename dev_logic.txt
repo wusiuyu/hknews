@@ -79,16 +79,70 @@ media_newspage_parse_pages (E)
 - Update function_app.py, unique Timer Function name
 
 8. TODO
-- Fix Pandas Date Warning
-- Structure Project Folders
-- Streamlit UI
+- HK01 Pic Descriptors
+- URL instant Scraper
+-- Host an API service for Streamlit App to Consume
 
-Bug Fix
+Dev History
 20250325
+- Added RTHK
+- Added HK01
 - Fixed Pandas Date Warning
 -- Using .copy() in retention date comparison
 - Fixed Local vs Azure Run Difference
 -- Only Found in HK01, Due to Timestamp
 - HK01 Article ID Length
 -- Checked Json, no Leading 0s
-- 
+- HK01, Add LastUpdateTime
+
+20250328
+- Added Selector UI
+- Added Cache avoid loading everytime
+- Added Clear Cache Button
+
+20250404
+- Using Expander to replace Selector
+- Add Drop Dupe method in Master updater Class
+- HK01, Updated Drop Dupe Logic with ID and LastUpdateTime
+- Added /n in Content
+
+20250405
+- Refactor Localtime and Headers into scraper_utilties
+- Refactor RTHK, HK01 scraper
+- Fixed master_scraper drop dupes bug
+- Added SingTao
+- Added MingPao
+- TODO for Old Scrape 
+-- Add newspage_parse_pages function
+-- Add news_df["news_content"] = "" in frontpage_parse_a_section
+-- Add \n\n in newspage_parse_paragraphs
+-- Add time.sleep(WAIT_TIME) newspage_parse_a_page 
+- Randomize Wait Time, Added Low Chance Long Wait
+
+20250408
+- Added OnCC
+
+20250410
+- Added CRadio
+
+20250428
+- Added Metro
+
+20250511
+- Fix a Strange Bug Metro cannot get news content of 1st URL
+-- Add a Repeat Attempt on URL fetch function
+
+20250512
+- Updated URL fetch function for OnCC, CRadio
+- Added TVB
+
+20250513
+- Added Gov.HK / GIA
+
+20250515
+- Modified GIA UI output
+- Inc HK01 Pages from Frontpage from 40 to 80
+-- To Solve missing news from last part of frontpage
+
+20250525
+- Change SingTao Scraper for Changed Layout
