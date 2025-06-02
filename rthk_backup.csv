@@ -56,12 +56,12 @@ title,date,summary,scrape_time,section,source,url,news_content
 17歲青年一度失蹤　今日下午在西區卑路乍灣海濱長廊被尋回,2025-06-02 22:59,,2025-06-02 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807312-20250602.htm,"警方表示，一名失蹤的17歲青年已被尋回。
 
 這名青年昨日下午在新蒲崗六合街露面後失蹤，其家人同日向警方報案。青年今日下午在西區卑路乍灣海濱長廊被尋回。他沒有受傷，警方說，案件沒有可疑。"
+美國4月建築開支按月意外下跌0.4%,2025-06-02 22:55,,2025-06-02 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807311-20250602.htm,美國商務部公布，美國4月建築支出按月意外下跌0.4%，跌幅較3月的0.8%收窄，但市場原先預期會轉升0.3%。
 美國5月ISM製造業指數意外跌至48.5,2025-06-02 22:55,,2025-06-02 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807309-20250602.htm,"美國供應管理協會（ISM）5月製造業指數意外跌至48.5，低過4月的48.7，市場原先預期會升至49.5。
 
 期內，製造業新訂單分項指數升至47.6，高於4月的47.2。投入物價分項指數降至69.4；就業分項指數升至46.8。 
 
 另外，標普全球公布，美國5月製造業採購經理指數（PMI）終值為52，低過初值的52.3。"
-美國4月建築開支按月意外下跌0.4%,2025-06-02 22:55,,2025-06-02 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807311-20250602.htm,美國商務部公布，美國4月建築支出按月意外下跌0.4%，跌幅較3月的0.8%收窄，但市場原先預期會轉升0.3%。
 大欖隧道首天繁忙時間雙向車流增10%　屯門公路傍晚車流減3%,2025-06-02 22:43,,2025-06-02 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807310-20250602.htm,"政府收回大欖隧道專營權並實施分時段收費。運輸署表示，在首個工作天繁忙時間來回方向的行車大致暢順，整體雙向車流量較2024年增加約10%，同時其主要替代路線屯門公路的交通亦維持正常。
 
 運輸署表示，由於青朗公路上午發生交通事故，可能影響交通分流，屯門公路上午繁忙時間往市區方向的車流量與2024年相若，而屯門公路傍晚繁忙時間往屯門方向的車流量與2024年比較，下降約3%，接近預期的分流效果。
@@ -102,17 +102,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 標普500指數報5904點，跌7點，跌幅0.13%。
 
 納斯達克指數報19155點，升41點，升幅0.22%。"
-Half-fare MTR rides on July 13,2025-06-02 21:35,,2025-06-02 22:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807301-20250602.htm,"All MTR passengers will enjoy half-fare rides on Sunday, July 13, as part of compensation due to its service suspension on the entire Tseung Kwan O line last month. 
-
-Passengers will enjoy the discount on the MTR, light rail and MTR bus service, as well as cross-border trips running to and from Lo Wu and Lok Ma Chau stations on the East Rail Line, with the Octopus card or QR code tickets in the heavy rail network.
-
-In addition, the MTR will offer a free ride to passengers on the Tseung Kwan O line.
-
-Passengers who entered or exited stations along the line between May 18 and June 15 with Octopus are entitled to the free ride by June 20.
-
-To collect the free ride, passengers will have to register as a member on the MTR’s mobile application by June 15.
-
-The rail firm will offer the public HK$19.2 million in compensation over the May 22 disruption during the evening rush hour that lasted more than five hours and several other incidents."
 Half-price MTR rides on July 13,2025-06-02 21:35,,2025-06-02 22:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807301-20250602.htm,"All MTR passengers will enjoy half-fare rides on Sunday, July 13, as part of a rebate arrangement due to its service suspension on the entire Tseung Kwan O line last month. 
 
 Passengers will enjoy the discount on the MTR, light rail and MTR bus service, as well as cross-border trips running to and from Lo Wu and Lok Ma Chau stations on the East Rail Line, with the Octopus card or QR code tickets in the heavy rail network.
@@ -124,6 +113,17 @@ Passengers who entered or exited stations along the line between May 18 and June
 To collect the free ride, passengers will have to register as a member on the MTR’s mobile application by June 15.
 
 The rail firm will offer the public HK$19.2 million in compensation over the May 22 disruption during the evening rush hour that lasted more than five hours."
+Half-fare MTR rides on July 13,2025-06-02 21:35,,2025-06-02 22:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807301-20250602.htm,"All MTR passengers will enjoy half-fare rides on Sunday, July 13, as part of compensation due to its service suspension on the entire Tseung Kwan O line last month. 
+
+Passengers will enjoy the discount on the MTR, light rail and MTR bus service, as well as cross-border trips running to and from Lo Wu and Lok Ma Chau stations on the East Rail Line, with the Octopus card or QR code tickets in the heavy rail network.
+
+In addition, the MTR will offer a free ride to passengers on the Tseung Kwan O line.
+
+Passengers who entered or exited stations along the line between May 18 and June 15 with Octopus are entitled to the free ride by June 20.
+
+To collect the free ride, passengers will have to register as a member on the MTR’s mobile application by June 15.
+
+The rail firm will offer the public HK$19.2 million in compensation over the May 22 disruption during the evening rush hour that lasted more than five hours and several other incidents."
 一款榴槤味雪糕大腸菌群含量超出法例上限　中心指令停售,2025-06-02 21:24,,2025-06-02 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807302-20250602.htm,"食物安全中心呼籲市民不要食用一款榴槤味雪糕，其大腸菌群含量超出法例上限。業界如持有受影響批次的產品，應立即停止使用或出售。
 
 相關產品名稱是榴槤雪糕，品牌Alchemia，產地香港，生產商是比亞比雪糕國際有限公司，經銷商為珍菌天下有限公司。
@@ -175,14 +175,14 @@ The cable car operator also announced that the price for the adult annual pass w
 事發在昨晚9時半，當地一處蟲草採挖點發生山泥傾瀉，當局出動近500人及數十台挖掘機、救護車等救災。截至今天下午發現3名遇難者、仍有7人失蹤，至於2名傷者則沒有生命危險。
 
 應急管理部啟動國家地質災害四級應急響應，派出工作組到場指導救援處置工作。當局又說監測現場情況後，研判存在二次塌方風險。"
-麥萃才：本港4月零售業總銷貨值符預期　很難估計5月零售表現,2025-06-02 19:51,,2025-06-02 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807294-20250602.htm,"本港4月零售業總銷貨價值的臨時估計為289億元，較去年同期下跌2.3%。
+麥萃才稱4月零售業總銷貨值符預期　謝邱安儀冀零售業逐步反彈,2025-06-02 19:51,,2025-06-02 21:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807294-20250602.htm,"本港4月零售業總銷貨價值的臨時估計為289億元，較去年同期下跌2.3%。
 
 浸大會計、經濟及金融學系副教授麥萃才表示，數字符合預期。過去10多個月，本港零售銷貨價值面對下跌的問題，主要原因包括疫後市民習慣外遊；而本港人口平均年齡偏高，即使收入增加，非必要開支都減省；加上網購逐漸成熟，商家不一定來自本地，亦分攤本港銷售需求。
 
 麥萃才表示，5月有內地五一黃金周，有利總銷售價值，但預料幫助不大，因為內地零售或消費模式已經改變，現階段亦很難估計當月零售表現。
 
 零售管理協會主席謝邱安儀表示，4月份總銷貨價值比去年全年的最低位更差，相信同地緣政治影響股市，加上港人外遊，以及內地沒有長假期有關，她期望，整體環球因素回穩，令零售業表現逐步反彈。她又說，受訪的絕大部分會員反映，上月雖有內地五一黃金周，但只是首兩天比較暢旺，生意其後回復至普通狀態，但本地市場表現好過預期。"
-麥萃才稱4月零售業總銷貨值符預期　謝邱安儀冀零售業逐步反彈,2025-06-02 19:51,,2025-06-02 21:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807294-20250602.htm,"本港4月零售業總銷貨價值的臨時估計為289億元，較去年同期下跌2.3%。
+麥萃才：本港4月零售業總銷貨值符預期　很難估計5月零售表現,2025-06-02 19:51,,2025-06-02 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807294-20250602.htm,"本港4月零售業總銷貨價值的臨時估計為289億元，較去年同期下跌2.3%。
 
 浸大會計、經濟及金融學系副教授麥萃才表示，數字符合預期。過去10多個月，本港零售銷貨價值面對下跌的問題，主要原因包括疫後市民習慣外遊；而本港人口平均年齡偏高，即使收入增加，非必要開支都減省；加上網購逐漸成熟，商家不一定來自本地，亦分攤本港銷售需求。
 
@@ -290,12 +290,12 @@ The liaison office, he reiterated, will fully and accurately implement the princ
 鐵路12306車票預售網絡估計，今日熱門出發及抵埗城市主要有北京、成都、廣州及上海等地。客流較為集中西安至成都、長沙至武漢等熱門區間。
 
 各地鐵路部門積極應對返程客流高峰，增加運力投放。國鐵成都局集團公司成都動車段安排動車組，錯峰檢修，加大假期期間夜間檢修生產投入，為日間旅客運輸，釋放全部運能。"
-政府收回大欖隧道首個工作日　陳美寶：車流符合預期及可控,2025-06-02 18:33,,2025-06-02 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807284-20250602.htm,"政府收回大欖隧道專營權並實施分時段收費，在首個工作日，大欖隧道一帶車流大致暢順。
-
-運輸及物流局局長陳美寶表示，車流符合預期及可控，期望有助紓緩屯門公路繁忙時段的擠塞情況。她又透露，將全面檢視政府收費隧道政策，包括即將落成的的中九龍繞道是否收取隧道費。"
 4月零售業總銷貨值按年跌2.3%　政府稱零售業表現呈回穩跡象,2025-06-02 18:33,,2025-06-02 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807275-20250602.htm,"4月零售業總銷貨價值的臨時估計為289億元，較去年同月下跌2.3%。
 
 政府發言人表示，近月零售業的表現呈回穩跡象，當局積極推動旅遊業及盛事項目將有助刺激消費市道，本地就業收入上升和內地經濟持續穩步增長，亦將提振消費氣氛。"
+政府收回大欖隧道首個工作日　陳美寶：車流符合預期及可控,2025-06-02 18:33,,2025-06-02 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807284-20250602.htm,"政府收回大欖隧道專營權並實施分時段收費，在首個工作日，大欖隧道一帶車流大致暢順。
+
+運輸及物流局局長陳美寶表示，車流符合預期及可控，期望有助紓緩屯門公路繁忙時段的擠塞情況。她又透露，將全面檢視政府收費隧道政策，包括即將落成的的中九龍繞道是否收取隧道費。"
 陳茂波：本港經濟首季表現穩健　維持全年經濟增長預測2%至3%,2025-06-02 18:31,,2025-06-02 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807280-20250602.htm,"財政司司長陳茂波表示，本港經濟今年第一季表現穩健，政府維持全年經濟增長預測2%至3%。
 
 陳茂波說對店舖結業情況「好上心」，指政府有不同資助計劃協助飲食及零售業升級轉型。他研判消費氣氛會扭轉，現時需要穩住樓市，加上股市向好，市民就會有信心消費。"
@@ -428,14 +428,14 @@ Seoul and Manila were marginally higher, while Shanghai and Shenzhen were closed
 李家超在社交專頁表示，周霽在剛到港履職首日到訪禮賓府，正如對方早前落區調研時提及，建設美好香港是中央的殷切囑託和市民的共同心願，又提到會心無旁騖，全身心服務「一國兩制」偉大實踐。李家超認為，對方與他心意一致。
 
 李家超指出，會與特區政府為「一國兩制」成功實踐全力以赴，為市民更好生活、為香港更好發展不懈努力，抓住機遇、不畏困難、克服挑戰，積極推動香港「由治及興」。"
-昂坪纜車本月10日起上調收費　香港居民8月底或前享原價,2025-06-02 16:41,,2025-06-02 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807261-20250602.htm,"昂坪360宣布，將於本月10日起調整纜車門票票價。香港居民於今年8月31日或之前可原價購票，而長者門票票價則維持不變。
- 
-票價格調整後，成人來回標準及水晶車廂門票，分別由現時的港幣270元及350元，調整至295元及365元，全景纜車成人套票，即一程全景車廂及一程標準車廂，則由現時港幣395元調整至港幣420元；小童來回標準及水晶車廂門票，則分別由現時的港幣135元及215元，調整至港幣150元及220元。所有長者票價則維持不變。整體票價的平均加幅為6.2%。 
-
-「360成人全年通」價格亦將於下月10日起，由港幣595元調整至620元。昂坪360同日將推出「360長者全年通」及「360小童全年通」，分別為港幣320元及港幣295元，於購買日起計365天內，無限次搭乘昂坪纜車標準車廂。"
 昂坪纜車下月10日起上調收費　香港居民8月底或前原價,2025-06-02 16:41,,2025-06-02 17:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807261-20250602.htm,"昂坪360宣布，將於下月10日起調整纜車門票票價。香港居民於今年8月31日或之前可原價購票，而長者門票票價則維持不變。
  
 票價格調整後，成日來回標準及水晶車廂門票，分別由現時的港幣270元及350元，調整至295元及365元，全景纜車成人套票，即一程全景車廂及一程標準車廂，則由現時港幣395元調整至港幣420元；小童來回標準及水晶車廂門票，則分別由現時的港幣135元及215元，調整至港幣150元及220元。所有長者票價則維持不變。整體票價的平均加幅為6.2%。 
+
+「360成人全年通」價格亦將於下月10日起，由港幣595元調整至620元。昂坪360同日將推出「360長者全年通」及「360小童全年通」，分別為港幣320元及港幣295元，於購買日起計365天內，無限次搭乘昂坪纜車標準車廂。"
+昂坪纜車本月10日起上調收費　香港居民8月底或前享原價,2025-06-02 16:41,,2025-06-02 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807261-20250602.htm,"昂坪360宣布，將於本月10日起調整纜車門票票價。香港居民於今年8月31日或之前可原價購票，而長者門票票價則維持不變。
+ 
+票價格調整後，成人來回標準及水晶車廂門票，分別由現時的港幣270元及350元，調整至295元及365元，全景纜車成人套票，即一程全景車廂及一程標準車廂，則由現時港幣395元調整至港幣420元；小童來回標準及水晶車廂門票，則分別由現時的港幣135元及215元，調整至港幣150元及220元。所有長者票價則維持不變。整體票價的平均加幅為6.2%。 
 
 「360成人全年通」價格亦將於下月10日起，由港幣595元調整至620元。昂坪360同日將推出「360長者全年通」及「360小童全年通」，分別為港幣320元及港幣295元，於購買日起計365天內，無限次搭乘昂坪纜車標準車廂。"
 港股收市跌幅收窄至131點　曾挫逾600點,2025-06-02 16:40,,2025-06-02 17:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807258-20250602.htm,"港股收市跌幅明顯收窄。恒生指數一度跌逾620點，低見22668點，收市報23157點，跌131點，跌幅0.57%。主板總成交金額約1452.5億元。
@@ -452,7 +452,6 @@ Seoul and Manila were marginally higher, while Shanghai and Shenzhen were closed
 黃光耀表示，集團今年首5個月銷售約600個單位，套現近75億元。他說，理解個別發展商減價的做法，會德豐採取貨如輪轉策略，餘下新盤預計仍會貼市價銷售，以成交帶動市場氣氛，又認為市場暫時未有條件高價推盤。
 
 他透露，會德豐下半年將再推售至少2至3個新項目，包括黃竹坑站最後一期項目，以及鄰近港鐵古洞站的項目，預計將是古洞區私人發展商首個推售項目。"
-四月零售業總銷貨值289億元跌2.3%　首四月合計跌5.6%,2025-06-02 16:36,,2025-06-02 16:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807259-20250602.htm, 
 4月零售業總銷貨值289億元跌2.3%　首4月合計跌5.6%,2025-06-02 16:36,,2025-06-02 21:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807259-20250602.htm,"政府統計處公布，4月零售業總銷貨價值的臨時估計為289億元，較去年同月下跌2.3%。而3月的修訂估計較去年同月下跌3.5%。至於首4個月合計的臨時估計較去年同期下跌5.6%。
 
 扣除價格變動後，4月零售業總銷貨數量的臨時估計較去年同月下跌3.3%。首4個月零售業總銷貨數量的臨時估計下跌7.2%。
@@ -462,6 +461,7 @@ Seoul and Manila were marginally higher, while Shanghai and Shenzhen were closed
 政府發言人表示，近月零售業的表現呈回穩跡象。儘管今年復活節假期較遲來臨，導致當月更多居民離港外遊，與較早時的月份相比，4月零售業總銷貨價值跌幅進一步收窄。
 
 展望未來，發言人指出，政府積極推動旅遊業及盛事項目將有助刺激消費市道。本地就業收入上升和內地經濟持續穩步增長也將提振消費氣氛。這些因素將對零售業有支持作用，雖然在宏觀經濟環境的不確定性下，消費模式持續轉變和企業間的競爭仍會對業界帶來挑戰。"
+四月零售業總銷貨值289億元跌2.3%　首四月合計跌5.6%,2025-06-02 16:36,,2025-06-02 16:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807259-20250602.htm, 
 俄羅斯布良斯克州橋樑倒塌事故　增至97人受傷,2025-06-02 16:25,,2025-06-02 16:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807257-20250602.htm,"俄羅斯兩條鄰近烏克蘭邊境的橋樑，昨日在短時間內接連倒塌，其中發生在布良斯克州的一宗事故，增加至97人受傷。
 
 俄羅斯緊急情況部門表示，橋樑倒塌後，碎片連同橋上三輛汽車，跌落下面的火車路軌，擊中一列載客列車的車頭，並造成出軌。俄羅斯鐵路公司宣布，向每名死者的家屬賠償220萬盧布。
@@ -637,22 +637,22 @@ For her part, the life honorary chair of the Elderly Services Association, Grace
 陳茂波表示，所有樓市辣招已撤銷，銀行按揭亦恢復至當年未有任何措施前水平，相信樓市趨向穩定局面。他認為，今年減息時機比原定慢，減息幅度亦可能少過原先估計，但估計仍會減息。隨著息口環境較穩定及趨向下，股市及經濟環境好轉，相信置業信心會較足、置業興趣會轉強。
 
 他又說，招商引才計劃吸納到的人才，有部分亦會轉租為買，是未來的購買力。他強調，目前最重要是要穩住局面、穩住預期，盡量不出現大波動風險，讓信心鞏固。"
-去年科技罪案近3.4萬宗微跌　今年首季逾7600宗升約1%,2025-06-02 12:45,,2025-06-02 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807225-20250602.htm,"警方表示去年有近34000宗科技罪案，較前年輕微下降。今年首季就有7600多宗，較去年同期上升大約1%。
-
-網絡安全及科技罪案調查科發表首份網絡安全報告，網罪科去年處理超過2500萬項網絡威脅情報，平均每日超過68000項，發現當中44萬項是針對香港的網絡威脅情報。"
 警方網絡安全報告稱去年發現44萬項針對香港網絡威脅情報,2025-06-02 12:45,,2025-06-02 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807225-20250602.htm,"警方表示去年有近34000宗科技罪案，較前年輕微下降。今年首季就有7600多宗，較去年同期上升大約1%。
 
 網絡安全及科技罪案調查科發表首份網絡安全報告，網罪科去年處理超過2500萬項網絡威脅情報，平均每日超過68000項，發現當中44萬項是針對香港的網絡威脅情報。"
-袁國勇相信社區已出現C型輪狀病毒病例但並非大型爆發,2025-06-02 12:43,,2025-06-02 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807226-20250602.htm,"瑪嘉烈醫院腫瘤科今年2月有3名醫生出現急性腸胃炎徵狀，其中1人離世。有份調查的港大微生物學系傳染病學講座教授袁國勇表示，在離世醫生身上的多個樣本，發現C型輪狀病毒，屬本港首宗病例，相信他曾出現嚴重腹瀉和發燒都是由這病毒引起。
+去年科技罪案近3.4萬宗微跌　今年首季逾7600宗升約1%,2025-06-02 12:45,,2025-06-02 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807225-20250602.htm,"警方表示去年有近34000宗科技罪案，較前年輕微下降。今年首季就有7600多宗，較去年同期上升大約1%。
 
-調查同時發現另一名29歲女病人亦感染C型輪狀病毒，兩人的病毒基因排序很接近，但並無發現兩宗個案有關連。
-
-袁國勇估計，他們曾進食過未經徹底煮熟的海產，亦有理由相信社區已出現相關病例，但並非大型爆發。"
+網絡安全及科技罪案調查科發表首份網絡安全報告，網罪科去年處理超過2500萬項網絡威脅情報，平均每日超過68000項，發現當中44萬項是針對香港的網絡威脅情報。"
 政府收回大欖隧道專營權首個工作日車流大致暢順,2025-06-02 12:43,,2025-06-02 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807228-20250602.htm,"政府收回大欖隧道專營權並實施分時段收費，在首個工作日，大欖隧道一帶車流大致暢順。
 
 運輸及物流局局長陳美寶早上到場視察，表示午夜至清晨的車流較以往多一成，昨日的車流較以往多四成，形容符合預期及可控，期望有助紓緩屯門公路繁忙時段的擠塞情況。
 
 新收費下，的士劃一收費28元。有的士司機說，會建議乘客多一個選擇。"
+袁國勇相信社區已出現C型輪狀病毒病例但並非大型爆發,2025-06-02 12:43,,2025-06-02 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807226-20250602.htm,"瑪嘉烈醫院腫瘤科今年2月有3名醫生出現急性腸胃炎徵狀，其中1人離世。有份調查的港大微生物學系傳染病學講座教授袁國勇表示，在離世醫生身上的多個樣本，發現C型輪狀病毒，屬本港首宗病例，相信他曾出現嚴重腹瀉和發燒都是由這病毒引起。
+
+調查同時發現另一名29歲女病人亦感染C型輪狀病毒，兩人的病毒基因排序很接近，但並無發現兩宗個案有關連。
+
+袁國勇估計，他們曾進食過未經徹底煮熟的海產，亦有理由相信社區已出現相關病例，但並非大型爆發。"
 伊朗原子能組織主席稱鈾濃縮是伊朗的「紅線」,2025-06-02 12:41,,2025-06-02 13:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807219-20250602.htm,"伊朗原子能組織主席伊斯拉米說，鈾濃縮是核工業的基礎和支柱，亦是伊朗的紅線，重申伊朗致力履行《不擴散核武器條約》和全面保障監督協定下的義務，核活動一直受國際原子能機構監督。
 
 伊斯拉米接受伊朗電視台訪問，他說，沒有人可以說伊朗沒有權利進行鈾濃縮，這是伊方自己的事情。他又說，在以色列影響下，歐洲三國和美國對國際原子能機構施壓，迫使機構總幹事格羅西日前提交一份關於伊朗核計劃的綜合報告，有關報告多處內容夾雜著針對伊朗的指控。
@@ -935,14 +935,14 @@ It covers SAR and global cybersecurity trends, together with predictions in the 
 期內，南韓對美國出口下跌8.1%，對中國減少8.4%，但對歐盟出口增長4%。
 
 半導體出口急升21.2%，受先進存儲晶片需求強勁帶動；汽車出口減少4.4%，受到美國關稅，及現代汽車於美國的新廠投入營運所拖累。"
+澳門5月博彩收入按年升5%　按月升12%,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807187-20250602.htm,"澳門博彩監察協調局數據顯示，澳門5月博彩毛收入為211.93億澳門元，按年升5%，連續4個月錄得按年升幅。按月升12.4%。
+
+數據又顯示，今年首5個月，澳門博彩累計毛收入為977.07億澳門元，按年升1.7%。"
 內地5月官方非製造業PMI跌至4個月低位　綜合PMI微升,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807189-20250602.htm,"國家統計局和物流與採購聯合會周六聯合公布，5月官方非製造業商務活動指數為50.3，按月跌0.1，創4個月低位。
 
 數據顯示，建築業商務活動指數為51，按月跌0.9；服務業商務活動指數為50.2，按月升0.1，受五一節日效應帶動。
 
 5月綜合PMI產出指數為50.4，按月升0.2。"
-澳門5月博彩收入按年升5%　按月升12%,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807187-20250602.htm,"澳門博彩監察協調局數據顯示，澳門5月博彩毛收入為211.93億澳門元，按年升5%，連續4個月錄得按年升幅。按月升12.4%。
-
-數據又顯示，今年首5個月，澳門博彩累計毛收入為977.07億澳門元，按年升1.7%。"
 國際油價升近2%　OPEC+下月增產幅度符合預期,2025-06-02 07:50,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807186-20250602.htm,"國際油價在亞洲早市反彈近2%，石油輸出國組織及其盟友（OPEC+）周六同意將7月石油產量提高每日41.1萬桶，增幅與5月和6月相同，符合市場預期。
 
 倫敦布蘭特期油一度升穿每桶64美元，較早時報63.83美元，升幅約1.7%。紐約期油曾突破62美元，較早時報61.92美元，升幅近1.9%。
