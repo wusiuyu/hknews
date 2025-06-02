@@ -1,4 +1,35 @@
 title,date,summary,scrape_time,section,source,url,news_content
+Caution urged for critical infrastructure over threats,2025-06-02 09:18,,2025-06-02 09:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807199-20250602.htm,"Police have called on critical infrastructure operators to bolster their defensive efforts against cyber threats, after a number of firms were deemed to be vulnerable.
+
+The force said it inspected 90,000 assets controlled by critical infrastructure firms last year and discovered more than 4,500 loopholes in their systems.
+ 
+Officers identified three types of loopholes which are particularly risky.
+
+""First of all it's the employees' log-in credentials, that they are leaked or stolen because they don’t have a very good mechanism in ensuring that these kind of credentials are in a high level [of protection],"" senior superintendent Carmen Leung said.   
+  
+""And second, some organisations did not properly manage their domain and subdomain, allowing attacker to hijack those unused subdomains and create highly convincing phishing or scam websites.  
+  
+""And for the third part, we noticed some organisations having some misconfigured cloud storage service and unintentionally exposed their internal system in a web-facing environment.""
+  
+She said these organisations took remedial measures after being warned by the force, and no harm was done to their major services.
+ 
+Police said they received 440,000 tip-offs regarding Hong Kong-related cyber threats last year.
+
+The top three industries to be targeted were banking and finance, communication, and government departments.
+  
+Superintendent Baron Chan stressed that a ""useful and powerful preventive mechanism"" is in place.
+  
+""Luckily, under our protection mechanism, we collect these intelligence in a very earlier stage and we do analysis and then share [them] among our stakeholders, so that these intelligence can be used by different sectors, even though they are not the targets of these bad actors,"" he said.    
+  
+Police said they recorded 7,680 technology crime cases from January to March, up 1.1 percent year on year.
+  
+The cases, most of which involved online shopping, inflicted losses of more than HK$1.43 billion.
+   
+Officers urged shoppers to make use police's Scameter app to check the validity of recipients before making financial transactions.
+  
+Police also issued their first ever cybersecurity report, which can be viewed online.
+
+It covers SAR and global cybersecurity trends, together with predictions in the coming year."
 台股初段跌1%,2025-06-02 09:09,,2025-06-02 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807200-20250602.htm,台灣股市在開市初段下跌，加權指數較早時報21134點，跌212點，跌幅1%。
 商務部︰中方堅定維護權益　堅决拒絕美方無理指責,2025-06-02 08:52,,2025-06-02 09:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807198-20250602.htm,"在北京，商務部駁斥美方有關中方違反中美日內瓦經貿會談共識的言論，強調中方本著負責任的態度，認真對待、嚴格落實、積極維護日內瓦經貿會談共識，中方維護權益是堅定的，落實共識是誠信的，堅决拒絕無理指責。如果美方一意孤行，繼續損害中方利益，中方將繼續堅决採取有力措施，維護自身正當權益。
 
@@ -29,14 +60,14 @@ title,date,summary,scrape_time,section,source,url,news_content
 期內，南韓對美國出口下跌8.1%，對中國減少8.4%，但對歐盟出口增長4%。
 
 半導體出口急升21.2%，受先進存儲晶片需求強勁帶動；汽車出口減少4.4%，受到美國關稅，及現代汽車於美國的新廠投入營運所拖累。"
-澳門5月博彩收入按年升5%　按月升12%,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807187-20250602.htm,"澳門博彩監察協調局數據顯示，澳門5月博彩毛收入為211.93億澳門元，按年升5%，連續4個月錄得按年升幅。按月升12.4%。
-
-數據又顯示，今年首5個月，澳門博彩累計毛收入為977.07億澳門元，按年升1.7%。"
 內地5月官方非製造業PMI跌至4個月低位　綜合PMI微升,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807189-20250602.htm,"國家統計局和物流與採購聯合會周六聯合公布，5月官方非製造業商務活動指數為50.3，按月跌0.1，創4個月低位。
 
 數據顯示，建築業商務活動指數為51，按月跌0.9；服務業商務活動指數為50.2，按月升0.1，受五一節日效應帶動。
 
 5月綜合PMI產出指數為50.4，按月升0.2。"
+澳門5月博彩收入按年升5%　按月升12%,2025-06-02 07:51,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807187-20250602.htm,"澳門博彩監察協調局數據顯示，澳門5月博彩毛收入為211.93億澳門元，按年升5%，連續4個月錄得按年升幅。按月升12.4%。
+
+數據又顯示，今年首5個月，澳門博彩累計毛收入為977.07億澳門元，按年升1.7%。"
 國際油價升近2%　OPEC+下月增產幅度符合預期,2025-06-02 07:50,,2025-06-02 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807186-20250602.htm,"國際油價在亞洲早市反彈近2%，石油輸出國組織及其盟友（OPEC+）周六同意將7月石油產量提高每日41.1萬桶，增幅與5月和6月相同，符合市場預期。
 
 倫敦布蘭特期油一度升穿每桶64美元，較早時報63.83美元，升幅約1.7%。紐約期油曾突破62美元，較早時報61.92美元，升幅近1.9%。
@@ -133,14 +164,14 @@ Some people stayed until the very end when the gates were closed.
 馬克龍接待主教練安歷基與一眾職球員，祝賀他們贏得歐聯錦標，並讚揚球隊迅速譴責前一晚的混亂場面。
 
 球會說，這些個別行為與球會的價值觀背道而馳，絕不代表絕大多數球迷的行為。"
+哈馬斯稱願意立即開啟新一輪談判,2025-06-02 02:36,,2025-06-02 02:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807168-20250602.htm,"巴勒斯坦武裝哈馬斯發表聲明稱，願意立即開啟新一輪間接談判。
+
+聲明說，歡迎卡塔爾和埃及為結束以色列對加沙地帶人民發動的戰爭所作的持續努力。哈馬斯願立即開啟新一輪間接談判，就分歧點達成協議，以確保援助順利進入加沙，終結人道主義災難，並實現永久停火以及以軍的全面撤出。"
 哈馬斯稱願意立即開啟新一輪停火談判,2025-06-02 02:36,,2025-06-02 06:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807168-20250602.htm,"巴勒斯坦武裝組織哈馬斯發表聲明稱，願意立即開啟新一輪間接談判。
 
 聲明說，歡迎卡塔爾和埃及為結束以色列對加沙地帶人民發動的戰爭所作的持續努力。哈馬斯願立即開啟新一輪間接談判，就分歧點達成協議，以確保援助順利進入加沙，終結人道主義災難，並實現永久停火以及以軍的全面撤出。
 
 哈馬斯上周六發表聲明說，已向斡旋方提交對美國中東問題特使威特科夫最新提議的回應。不過，威特科夫認為，哈馬斯的回應「完全不可接受」。"
-哈馬斯稱願意立即開啟新一輪談判,2025-06-02 02:36,,2025-06-02 02:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807168-20250602.htm,"巴勒斯坦武裝哈馬斯發表聲明稱，願意立即開啟新一輪間接談判。
-
-聲明說，歡迎卡塔爾和埃及為結束以色列對加沙地帶人民發動的戰爭所作的持續努力。哈馬斯願立即開啟新一輪間接談判，就分歧點達成協議，以確保援助順利進入加沙，終結人道主義災難，並實現永久停火以及以軍的全面撤出。"
 莎芭蓮卡晉身法網女單八強　將與鄭欽文對壘,2025-06-02 02:20,,2025-06-02 02:30,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807167-20250602.htm,"法國網球公開賽，女單排界排名第一的莎芭蓮卡在第4圈，擊敗16號種子、美國的安妮絲莫娃，晉身八強。
 
 這名白俄羅斯球手以直落兩盤7-5和6-3勝出，連續第十次打入大滿貫賽事八強，將與中國的鄭欽文爭奪四強席位。"
@@ -340,14 +371,14 @@ Chan also hailed clansmen groups for promoting patriotism, noting the administra
 ""It allows people to learn more about hometown culture, fostering the spirit of loving the country, Hong Kong and the hometowns.""
 
 Chan went on to say he expects clansmen associations to continue working with the government and contribute to Hong Kong's development."
-周霽落區稱有幸到中聯辦工作是習近平高度信任　深知責重如山,2025-06-01 16:47,,2025-06-01 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807136-20250601.htm,"中聯辦主任周霽上任後首次落區，到九龍婦女聯會富昌服務中心、青衣長亨邨社區會堂調研。
+周霽落區稱有幸到中聯辦工作是習近平他高度信任　深知責重如山,2025-06-01 16:47,,2025-06-01 17:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807136-20250601.htm,"中聯辦主任周霽上任後首次落區，到九龍婦女聯會富昌服務中心、青衣長亨邨社區會堂調研。
 
 中聯辦網站報道，周霽在調研期間表示，中共中央總書記習近平對香港同胞民生福祉念兹在兹。區議會、地區三會、關愛隊是完善地區治理後的「三駕馬車」，愛國愛港團體紮根香港社會，在服務市民上有獨特優勢。今次是到港履職後首次落區調研，就是來看看大家，了解社區工作情況和市民生活。過去幾年大家紮根基層、為民解難，展現務實有為的好形象，受到廣泛歡迎和好評，充分說明重塑區議會制度、完善地區治理體系，符合香港實際和市民期盼。他期望，大家繼續發揮好特區政府和市民之間的橋樑紐帶作用，以更多喜聞樂見的形式服務街坊，幫助解決憂心事、煩心事，不斷提升市民的獲得感、幸福感、安全感，以實際行動詮釋愛國愛港。
 
 周霽又表示，在港澳辦工作期間，親眼目睹香港步入由治及興新階段，前景越來越廣闊。有幸到中聯辦工作是習近平、黨中央對他的高度信任，他深知責重如山，定將全面準確、堅定不移貫徹「一國兩制」方針，落實「愛國者治港」原則，堅決維護憲法和基本法確定的特別行政區憲制秩序，堅決維護國家主權、安全、發展利益，全力支持行政長官和特區政府依法施政，全力支持香港發揮「背靠祖國、聯通世界」的得天獨厚優勢，全力支持香港鞏固提升國際金融、航運、貿易中心地位，在全力支持特區政府進一步全面深化改革中加快科技創新步伐、打造國際高端人才集聚高地，在融入國家發展大局中實現自身更好發展，為強國建設、民族復興偉業作出更大貢獻。
 
 周霽表示，建設美好香港，是中央的殷切囑託，也是市民的共同心願。他將和同事一道，潛心靜氣、心無旁騖、依法履職、盡忠盡責，全身心服務「一國兩制」偉大實踐。"
-周霽落區稱有幸到中聯辦工作是習近平他高度信任　深知責重如山,2025-06-01 16:47,,2025-06-01 17:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807136-20250601.htm,"中聯辦主任周霽上任後首次落區，到九龍婦女聯會富昌服務中心、青衣長亨邨社區會堂調研。
+周霽落區稱有幸到中聯辦工作是習近平高度信任　深知責重如山,2025-06-01 16:47,,2025-06-01 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807136-20250601.htm,"中聯辦主任周霽上任後首次落區，到九龍婦女聯會富昌服務中心、青衣長亨邨社區會堂調研。
 
 中聯辦網站報道，周霽在調研期間表示，中共中央總書記習近平對香港同胞民生福祉念兹在兹。區議會、地區三會、關愛隊是完善地區治理後的「三駕馬車」，愛國愛港團體紮根香港社會，在服務市民上有獨特優勢。今次是到港履職後首次落區調研，就是來看看大家，了解社區工作情況和市民生活。過去幾年大家紮根基層、為民解難，展現務實有為的好形象，受到廣泛歡迎和好評，充分說明重塑區議會制度、完善地區治理體系，符合香港實際和市民期盼。他期望，大家繼續發揮好特區政府和市民之間的橋樑紐帶作用，以更多喜聞樂見的形式服務街坊，幫助解決憂心事、煩心事，不斷提升市民的獲得感、幸福感、安全感，以實際行動詮釋愛國愛港。
 
@@ -375,6 +406,21 @@ Chan went on to say he expects clansmen associations to continue working with th
 有居民表示，廚房有裝濾水器，肉眼看不到黑點，但廁所看到「細細粒」黑點，形容是不明物體，始終有些擔心，因此準備買兩大桶礦泉水煮飯，視乎情況再決定是否用水喉水。
 
 有居民表示，住所水質沒有問題，未發現有黑點，形容很乾淨，亦不會買礦泉水，相信如果情況不好，政府會做檢查。"
+More tests to assure water quality over impurity scare,2025-06-01 15:54,,2025-06-01 16:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807128-20250601.htm,"The government on Sunday vowed to conduct further tests to ensure the supply of clean freshwater at a public housing estate in Fanling, following the discovery of black particles in the water there. 
+
+The Water Supplies Department also said it would continue to investigate Friday's reports of impurities in the water supply.
+
+Personnel from the department had tested samples from public pipes supplying water to Queen's Hill Estate and water tanks in all the blocks, with the results showing that they were safe. 
+
+They did not find any impurities or damage on filters installed at the connection points of the government's mains and the property's water supply system, authorities added.
+
+""As a precautionary measure, the department has immediately arranged for cleaning of the government's pipes supplying water to the estate. No abnormalities were found after the inspection,"" they said. 
+
+""The department will arrange for buildings that have completed cleaning of the water tanks to have samples be tested, to ensure the safety of drinking water. The department will also sample freshwater supply at the affected residential units to make sure the water runs clear."" 
+
+As instructed by the department, the estate's management company had completed the cleaning works at the water tanks of all seven residential blocks and the shopping centre over the weekend. 
+
+""The Water Supplies Department will liaise with the Housing Department to continue the investigation from other directions, including detailed inspections of other parts of the water supply system,"" it said."
 More tests to ensure water quality over impurity scare,2025-06-01 15:54,,2025-06-01 16:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807128-20250601.htm,"The government on Sunday vowed to conduct further tests to ensure the supply of clean freshwater at a public housing estate in Fanling, following the discovery of black particles in the water there. 
 
 The Water Supplies Department also said it would continue to investigate Friday's reports of impurities in the water supply.
@@ -402,21 +448,6 @@ As instructed by the department, the estate's management company had completed t
 ""The Water Supplies Department will liaise with the Housing Department to continue the investigation from other directions, including detailed inspections of other parts of the water supply system,"" it added.
 _____________________________
 Last updated: 2025-06-01 HKT 16:35"
-More tests to assure water quality over impurity scare,2025-06-01 15:54,,2025-06-01 16:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1807128-20250601.htm,"The government on Sunday vowed to conduct further tests to ensure the supply of clean freshwater at a public housing estate in Fanling, following the discovery of black particles in the water there. 
-
-The Water Supplies Department also said it would continue to investigate Friday's reports of impurities in the water supply.
-
-Personnel from the department had tested samples from public pipes supplying water to Queen's Hill Estate and water tanks in all the blocks, with the results showing that they were safe. 
-
-They did not find any impurities or damage on filters installed at the connection points of the government's mains and the property's water supply system, authorities added.
-
-""As a precautionary measure, the department has immediately arranged for cleaning of the government's pipes supplying water to the estate. No abnormalities were found after the inspection,"" they said. 
-
-""The department will arrange for buildings that have completed cleaning of the water tanks to have samples be tested, to ensure the safety of drinking water. The department will also sample freshwater supply at the affected residential units to make sure the water runs clear."" 
-
-As instructed by the department, the estate's management company had completed the cleaning works at the water tanks of all seven residential blocks and the shopping centre over the weekend. 
-
-""The Water Supplies Department will liaise with the Housing Department to continue the investigation from other directions, including detailed inspections of other parts of the water supply system,"" it said."
 德國漢堡醫院起火　3名病人死亡,2025-06-01 15:49,,2025-06-01 16:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807129-20250601.htm,"德國第二大城市漢堡一間醫院起火，造成3人死亡，數十人受傷，火警原因仍在調查。
 
 事發在當地周六深夜，漢堡市內一間醫院地下的老人科病房起火，火勢及濃煙擴散到其他樓層。
@@ -580,14 +611,14 @@ NBA溜馬挫紐約人奪東岸冠軍　將與雷霆爭奪總冠軍,2025-06-01 11
 溜馬在第6場以125:108取勝，自2000年以來再次殺入NBA總決賽。
 
 總決賽首場賽事當地星期四舉行，由雷霆主場。"
-德總理訪美晤特朗普　討論俄烏衝突、中東局勢及貿易政策,2025-06-01 10:40,,2025-06-01 11:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807105-20250601.htm,"德國總理默茨將訪問美國，同總統特朗普會面。
+德總理下周訪美晤特朗普　討論俄烏衝突、中東局勢及貿易政策,2025-06-01 10:40,,2025-06-01 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807105-20250601.htm,"德國總理默茨下星期訪問美國，同總統特朗普會面。
 
 這次會談將是默茨上月就任總理以來，首次正式訪問美國，也是兩位領導人首次會面。
 
 德國政府發言人聲明表示，兩人會晤的議題將包括俄烏衝突、中東局勢及貿易政策。
 
 彭博報道，烏克蘭總統澤連斯基與南非總統拉馬福薩，早前分別在白宮會晤期間，受到特朗普公開抨擊，德國官員擔憂，默茨也可能遭遇類似對待。為縮小雙方分歧，默茨已表明願意滿足特朗普提出的部分要求，包括承諾在未來幾年內，將德國的防務開支提高至國內生產總值5%。"
-德總理下周訪美晤特朗普　討論俄烏衝突、中東局勢及貿易政策,2025-06-01 10:40,,2025-06-01 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807105-20250601.htm,"德國總理默茨下星期訪問美國，同總統特朗普會面。
+德總理訪美晤特朗普　討論俄烏衝突、中東局勢及貿易政策,2025-06-01 10:40,,2025-06-01 11:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1807105-20250601.htm,"德國總理默茨將訪問美國，同總統特朗普會面。
 
 這次會談將是默茨上月就任總理以來，首次正式訪問美國，也是兩位領導人首次會面。
 
