@@ -1,4 +1,11 @@
 title,date,summary,scrape_time,section,source,url,news_content
+美股焦點：中美經貿會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
+
+市場觀望中美於星期一在倫敦展開新一輪經貿會談、關稅措施發展。
+
+至於美國經濟數據方面，周三公布5月消費物價指數(CPI)，預料按年增速加快至2.5%，核心指數按年增速估計亦加快至2.9%。本周亦會有5月最終需求生產物價指數(PPI)、6月密歇根大學消費者信心指數等。
+
+另外，甲骨文及Adobe將會公布業績；蘋果將會舉行全球開發者大會，展示主要產品發展方向。"
 美股焦點：中美貿易會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
 
 市場觀望中美於星期一在倫敦展開新一輪貿易會談、關稅措施發展。
@@ -201,10 +208,10 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 新華社同時刊登許其亮生平與多名現任和前任領導人的合照，包括習近平、江澤民、胡錦濤。"
 黃色工作暑熱警告取消,2025-06-08 18:11,,2025-06-08 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808119-20250608.htm,勞工處下午6時10分取消黃色工作暑熱警告。
-陳茂波料全年旅客人數續升　甯漢豪稱將活化歷史建築落實無處不旅,2025-06-08 18:03,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
+陳茂波料全年旅客人數續升　甯漢豪稱活化歷史建築落實無處不旅遊,2025-06-08 18:03,,2025-06-08 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
 
 發展局局長甯漢豪表示，會繼續將合適的政府歷史建築納入活化計劃，落實「無處不旅遊」。"
-陳茂波料全年旅客人數續升　甯漢豪稱活化歷史建築落實無處不旅遊,2025-06-08 18:03,,2025-06-08 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
+陳茂波料全年旅客人數續升　甯漢豪稱將活化歷史建築落實無處不旅,2025-06-08 18:03,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
 
 發展局局長甯漢豪表示，會繼續將合適的政府歷史建築納入活化計劃，落實「無處不旅遊」。"
 鋼琴老師稱沈靖韜自幼天份高　得獎反映香港有能力培養世界級人才,2025-06-08 17:58,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808117-20250608.htm,"奪得今屆范克萊本國際鋼琴賽冠軍的香港年輕鋼琴家沈靖韜，6歲起獲香港演藝學院取錄，師承導師黃懿倫。
@@ -380,15 +387,6 @@ Chan said the social media app has over 300 million active users each month, mak
 During his visit to Shanghai in November, Mr Chan visited the company's headquarters saying he was impressed by the team's youthful energy and its understanding of young people's preferences.
 
 Chan had also officiated at the Hong Kong office's opening ceremony on Saturday."
-"Government likely to back basketball betting, says Mak",2025-06-08 12:30,,2025-06-08 12:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1808094-20250608.htm,"Secretary for Home and Youth Affairs Alice Mak says the government is likely to issue a basketball betting licence to the Hong Kong Jockey Club.
-
-Her remarks came after 94 percent of over a thousand participants in a public consultation said they backed such a move. 
-
-Speaking after a radio programme on Sunday, Mak said the government does not encourage gambling but that it also wanted to divert money away from illegal gambling.
-
-“We can see it as the last resort when the illegal gambling problem is so serious that we need to channel the illegal gambling to a regulated gambling regime,” she said.
-
-Mak said she would report on the public consultation results, and the government's next step, to the Legislative Council’s Panel on Home Affairs, Culture and Sports on Monday."
 Govt likely to back basketball betting: Alice Mak,2025-06-08 12:30,,2025-06-08 14:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1808094-20250608.htm,"Secretary for Home and Youth Affairs Alice Mak on Sunday said the government is likely to issue a basketball betting licence to the Hong Kong Jockey Club.
 
 Her remarks came after 94 percent of over 1,000 participants in a public consultation said they backed such a move. 
@@ -398,6 +396,15 @@ Speaking after a radio programme, Mak said the government does not encourage gam
 “We can see it as the last resort when the illegal gambling problem is so serious that we need to channel the illegal gambling to a regulated gambling regime,” she said.
 
 Mak said she would report on the public consultation results and the government's next step, to the Legislative Council’s Panel on Home Affairs, Culture and Sports on Monday."
+"Government likely to back basketball betting, says Mak",2025-06-08 12:30,,2025-06-08 12:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1808094-20250608.htm,"Secretary for Home and Youth Affairs Alice Mak says the government is likely to issue a basketball betting licence to the Hong Kong Jockey Club.
+
+Her remarks came after 94 percent of over a thousand participants in a public consultation said they backed such a move. 
+
+Speaking after a radio programme on Sunday, Mak said the government does not encourage gambling but that it also wanted to divert money away from illegal gambling.
+
+“We can see it as the last resort when the illegal gambling problem is so serious that we need to channel the illegal gambling to a regulated gambling regime,” she said.
+
+Mak said she would report on the public consultation results, and the government's next step, to the Legislative Council’s Panel on Home Affairs, Culture and Sports on Monday."
 HK's Aristo Sham wins top international piano contest,2025-06-08 12:09,,2025-06-08 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1808091-20250608.htm,"Local pianist Aristo Sham has won the Van Cliburn International Piano Competition, a classical music contest held every four years in the US.
 
 Sham was one of 28 top competitors invited to play in person at the competition in Fort Worth, although 340 pianists from 45 countries and regions took part. 
