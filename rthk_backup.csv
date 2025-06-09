@@ -1,4 +1,35 @@
 title,date,summary,scrape_time,section,source,url,news_content
+EMSD cooling system scoops top award in Geneva,2025-06-09 10:13,,2025-06-09 10:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1808170-20250609.htm,"A novel, energy-efficient computer cooling solution jointly developed by two government departments has scooped up a top prize at an international exhibition in Switzerland.
+
+The award is one of 12 won by the Electrical and Mechanical Services Department (EMSD) at this year’s International Exhibition of Inventions Geneva in April, after it nominated 10 projects.
+
+Called the “two-phase immersion cooling system for high performance computer workstation”, it involves placing heat-generating computer components in a bath of non-conductive fluid. The coolant absorbs the heat, which is then dissipated as gas.
+
+The system is developed in collaboration with the Civil Aviation Department (CAD).
+
+EMSD engineer Richard Li noted that high-performance computers are often housed in air-conditioned rooms, and while the method was effective, it was costly and not environmentally friendly.
+
+The new cooling system, by contrast, allows computers to operate in naturally ventilated spaces. The system is already in use at one of the CAD's control tower simulator workstations.
+
+“So after we have this trial project to prove this technology, we would like to extend our application to other users which are applicable, like for data centres or other departments with high-heat generation computers,"" Li said.
+
+The invention won the “Prize of the Republic and Canton of Geneva”, one of seven top awards at the prestigious exhibition.
+
+Two other EMSD inventions were awarded a gold medal with the congratulations of jury, including a tracking solution to enhance outdoor activity safety.
+
+One potential application, according to project manager Leo Yeung, would be for paragliders to report their whereabouts in emergencies. 
+
+A compact positioning device is attached to the paraglider, recording the flight path. It doubles as a panic button which the pilot can use to send a distress signal in dire situations.
+Yeung said the device is waterproof and boasts an extended battery life.
+
+""We are planning to optimise the system's features and collaborate with other relevant government departments and organisations to promote the application to other activities such as hiking and water sports. And these allow more outdoor activity participants to benefit from this technology,"" he told RTHK."
+"Local, mainland stocks open higher",2025-06-09 10:12,,2025-06-09 10:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1808191-20250609.htm,"Hong Kong's Hang Seng Index rose 185 points, or 0.78 percent, to open at 23,977 points on Monday.
+
+Mainland stocks also opened higher, with the benchmark Shanghai Composite Index up 0.1 percent to open at 3,388 points.
+
+The Shenzhen Component Index opened 0.16 percent higher at 10,200 points. 
+
+Meanwhile, the National Bureau of Statistics said high street and factory gate prices both fell in May. The consumer price index fell 0.1 percent year-on-year, and the producer price index fell 3.3 percent. (Xinhua, Reuters)"
 人行逆回購1738億元人民幣,2025-06-09 10:06,,2025-06-09 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808193-20250609.htm,"人民銀行公開市場開展1738億元人民幣7天期逆回購操作，中標量與投標量相同，利率維持於1.4厘。
 
 今日並無逆回購到期，淨投放量等同操作量；外電統計，本周到期量9309億元。"
@@ -28,7 +59,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 港股初段升穿24000點　創逾兩個月新高,2025-06-09 09:37,,2025-06-09 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808185-20250609.htm,"港股開市初段升穿24000點關口，創逾兩個月新高。恒生指數較早時升至24044點，升251點，升幅約1.1%。
 
 科技指數報5361點，升74點，升幅1.4%。"
-人民幣中間價跌10點子,2025-06-09 09:27,,2025-06-09 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808183-20250609.htm,人民幣中間價報7.1855兌1美元，較上星期五中間價跌10點子。
 港股競價時段升185點　藍籌新貴個別發展,2025-06-09 09:27,,2025-06-09 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808184-20250609.htm,"港股再度上試24000點關口，恒生指數競價時段報23977點，升185點，升幅0.78%。
 
 科技指數報5337點，升51點，升幅0.97%。
@@ -36,6 +66,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 恒指成份股變動今日起生效，藍籌股總數增至85隻，藍籌新貴美的集團低開0.3%、中通快遞升0.3%。
 
 另外，比亞迪股份升逾0.9%，股份取代閱文集團成為科指成份股。"
+人民幣中間價跌10點子,2025-06-09 09:27,,2025-06-09 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808183-20250609.htm,人民幣中間價報7.1855兌1美元，較上星期五中間價跌10點子。
 南韓民調︰近6成民眾看好李在明施政前景,2025-06-09 09:17,,2025-06-09 09:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808180-20250609.htm,"南韓民調顯示，近6成民眾看好新任總統李在明的施政前景。
 
 調查上星期三至四進行，訪問全國1012名18歲以上人士，結果顯示，58.2%的受訪者看好李在明施政前景，35.5%的受訪者表示不看好。
@@ -101,16 +132,16 @@ title,date,summary,scrape_time,section,source,url,news_content
 兩隊在加時都無入球，葡萄牙在互射十二碼五射全中，西班牙莫拉達的施射就被撲出，葡萄牙繼2019年再次奪得歐國聯冠軍。
 
 而在季軍戰，法國2:0擊敗東道主德國。麥巴比上半場補時1分鐘建功後，到尾段再助攻奧拉斯射入。"
-美股焦點：中美經貿會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
+美股焦點：中美貿易會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
 
-市場觀望中美於星期一在倫敦展開新一輪經貿會談、關稅措施發展。
+市場觀望中美於星期一在倫敦展開新一輪貿易會談、關稅措施發展。
 
 至於美國經濟數據方面，周三公布5月消費物價指數(CPI)，預料按年增速加快至2.5%，核心指數按年增速估計亦加快至2.9%。本周亦會有5月最終需求生產物價指數(PPI)、6月密歇根大學消費者信心指數等。
 
 另外，甲骨文及Adobe將會公布業績；蘋果將會舉行全球開發者大會，展示主要產品發展方向。"
-美股焦點：中美貿易會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
+美股焦點：中美經貿會談、美國5月通脹數據,2025-06-09 05:40,,2025-06-09 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808165-20250609.htm,"美股上星期累計升逾1%至逾2%，納指表現最好，3大指數都連升兩星期。
 
-市場觀望中美於星期一在倫敦展開新一輪貿易會談、關稅措施發展。
+市場觀望中美於星期一在倫敦展開新一輪經貿會談、關稅措施發展。
 
 至於美國經濟數據方面，周三公布5月消費物價指數(CPI)，預料按年增速加快至2.5%，核心指數按年增速估計亦加快至2.9%。本周亦會有5月最終需求生產物價指數(PPI)、6月密歇根大學消費者信心指數等。
 
@@ -188,7 +219,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 對於自小被稱為「鋼琴神童」，沈靖韜說，不覺得有壓力，認為即使有天賦，也需要付出很多努力和累積不同經驗，才可達至真正的成功，又指勝出比賽後或會帶來不同演出機會，日後如何透過演出，成為真正的藝術家才是最艱難的工作。
 
 沈靖韜寄語本地年輕音樂人，要繼續熱愛音樂，享受音樂為生命帶來的養份。"
-公路及鐵路國際會議周四在港舉行　冀推動大型運輸基建發展更暢順,2025-06-09 00:19,,2025-06-09 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808148-20250609.htm,"公路及鐵路國際會議將於本周四至周五在會展舉行，以「建造智慧綠色運輸基建」為主題，介紹香港主要運輸基建的規劃，並展示世界各地最新技術進展，目標推動本港大型運輸基建項目發展得更暢順。相關政策部門代表和來自世界各地的專家學者，會就公路和鐵路建設研究交流意見，其中橋樑健康檢測為重點議題。
+公路及鐵路國際會議將在港舉行　介紹香港主要運輸基建規劃,2025-06-09 00:19,,2025-06-09 00:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808148-20250609.htm,"公路及鐵路國際會議將於本周四至周五在會展舉行，以「建造智慧綠色運輸基建」為主題，介紹香港主要運輸基建的規劃，並展示世界各地最新技術進展，目標推動本港大型運輸基建項目發展得更暢順。相關政策部門代表和來自世界各地的專家學者，會就公路和鐵路建設研究交流意見，其中橋樑健康檢測為重點議題。
 
 籌委會聯席主席、路政署助理署長吳偉業表示，署方今年初，在有近30年歷史的青馬大橋試行「數字孿生技術」，建立橋樑三維動態模型，配合安裝在橋樑上感測器的數據，24小時實時監測和分析橋樑結構，結果顯示大橋健康狀況至今極為良好，希望會議可汲取更多使用人工智能進行檢測的意見。
 
@@ -197,7 +228,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 吳偉業又指，今次會議將安排與會人士前往中九龍幹線和東涌線延線實地考察，了解在鬧市進行大型交通工程的工作。他說，中九龍幹線途經油麻地一帶，隧道走線極接近民居，最近的距離只相隔3.5米，附近有廟街夜市和舊油麻地警署等景點，需要平衡工程與居民生活和保育本地文化古蹟的影響，希望屆時可分享如何滿足交通需要，同時維持與社區連接的「香港經驗」。
 
 吳偉業提到，中九龍幹線涉及多份工程合約，署方2021年引入智慧工地管理平台，整合不同工地監控系統和感測器，實時分析數據，方便管理團隊密切監察工地運作和工程進度，目前隧道和天橋連接已初步完成，現正進行驗收，目標今年內通車。"
-公路及鐵路國際會議將在港舉行　介紹香港主要運輸基建規劃,2025-06-09 00:19,,2025-06-09 00:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808148-20250609.htm,"公路及鐵路國際會議將於本周四至周五在會展舉行，以「建造智慧綠色運輸基建」為主題，介紹香港主要運輸基建的規劃，並展示世界各地最新技術進展，目標推動本港大型運輸基建項目發展得更暢順。相關政策部門代表和來自世界各地的專家學者，會就公路和鐵路建設研究交流意見，其中橋樑健康檢測為重點議題。
+公路及鐵路國際會議周四在港舉行　冀推動大型運輸基建發展更暢順,2025-06-09 00:19,,2025-06-09 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808148-20250609.htm,"公路及鐵路國際會議將於本周四至周五在會展舉行，以「建造智慧綠色運輸基建」為主題，介紹香港主要運輸基建的規劃，並展示世界各地最新技術進展，目標推動本港大型運輸基建項目發展得更暢順。相關政策部門代表和來自世界各地的專家學者，會就公路和鐵路建設研究交流意見，其中橋樑健康檢測為重點議題。
 
 籌委會聯席主席、路政署助理署長吳偉業表示，署方今年初，在有近30年歷史的青馬大橋試行「數字孿生技術」，建立橋樑三維動態模型，配合安裝在橋樑上感測器的數據，24小時實時監測和分析橋樑結構，結果顯示大橋健康狀況至今極為良好，希望會議可汲取更多使用人工智能進行檢測的意見。
 
@@ -324,10 +355,10 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 新華社同時刊登許其亮生平與多名現任和前任領導人的合照，包括習近平、江澤民、胡錦濤。"
 黃色工作暑熱警告取消,2025-06-08 18:11,,2025-06-08 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808119-20250608.htm,勞工處下午6時10分取消黃色工作暑熱警告。
-陳茂波料全年旅客人數續升　甯漢豪稱將活化歷史建築落實無處不旅,2025-06-08 18:03,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
+陳茂波料全年旅客人數續升　甯漢豪稱活化歷史建築落實無處不旅遊,2025-06-08 18:03,,2025-06-08 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
 
 發展局局長甯漢豪表示，會繼續將合適的政府歷史建築納入活化計劃，落實「無處不旅遊」。"
-陳茂波料全年旅客人數續升　甯漢豪稱活化歷史建築落實無處不旅遊,2025-06-08 18:03,,2025-06-08 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
+陳茂波料全年旅客人數續升　甯漢豪稱將活化歷史建築落實無處不旅,2025-06-08 18:03,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808118-20250608.htm,"財政司司長陳茂波表示，今年首5個月內地和海外旅客均錄得增長，據估計，上半年盛事將為香港帶來33億元的消費額；而下半年多項文體旅盛事活動繼續上演，有信心全年旅客人數持續上升。
 
 發展局局長甯漢豪表示，會繼續將合適的政府歷史建築納入活化計劃，落實「無處不旅遊」。"
 鋼琴老師稱沈靖韜自幼天份高　得獎反映香港有能力培養世界級人才,2025-06-08 17:58,,2025-06-08 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808117-20250608.htm,"奪得今屆范克萊本國際鋼琴賽冠軍的香港年輕鋼琴家沈靖韜，6歲起獲香港演藝學院取錄，師承導師黃懿倫。
@@ -587,17 +618,3 @@ Sham has won numerous international competitions. He has also performed for form
 訪問滑鐵盧、多倫多及蒙特利爾期間，吳國才將與投資者、家族辦公室、跨國公司、加拿大初創企業、學術界及商界領袖會面。會面將聚焦討論如何善用香港作為內地門戶的戰略優勢，以及其有利的營商環境來擴展業務。
 
 吳國才將主持圓桌會議，為企業家及加港生態圈合作夥伴介紹香港在財富管理及跨境投資的優勢。他亦會參與多場交流活動，推廣「香港金融科技周 x StartmeupHK創業節2025」，邀請加拿大投資者及創業家於11月3日至7日親臨香港。"
-麥美娟：倘落實籃球博彩　會建議發牌給馬會負責籌辦,2025-06-08 10:19,,2025-06-08 10:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808082-20250608.htm,"政府建議透過《博彩稅條例》訂立籃球博彩活動的規管框架，包括發出籃球博彩牌照，徵收淨投注金的50%作為籃球博彩稅。民政及青年事務局局長麥美娟出席一個電台節目時表示，明日會向立法會民政及文化體育事務委員會，報告公眾諮詢結果及下一步工作。
-
-麥美娟重申，政府政策是不鼓勵賭博，而賭博政策亦會設定有限的合法途徑，若落實籃球博彩，會建議發牌給馬會負責籌辦，避免增加競爭，炒熱賭博氣氛。初步計劃參考足球博彩做法，牌照條款上不會接受18歲以下人士參與博彩，一定要以現金而非信用卡等方式進行，亦不會就本地或本隊賽事賭博。
-
-麥美娟又說，用作資助預防及緩減與賭博有關問題措施的「平和基金」，過去四年求助數字平穩，年輕人求助比例低，落實籃球博彩後，會要求馬會加大慈善工作及「平和基金」上的投入，包括在現時4間賭博失調者輔導及治療中心以外，再開設新中心，主要針對青年教育輔導服務；同時在公眾教育上針對所有年齡層，宣傳沉迷賭博的禍害。"
-李家超：香港不會向美國實施報復性關稅　避免危及自由港地位,2025-06-08 10:16,,2025-06-08 10:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1808081-20250608.htm,"行政長官李家超表示，即使中美地緣政治緊張局勢進一步加劇，香港也不會向美國實施報復性關稅，從而破壞自身的「成功基因」，並危及自由港地位。
-
-李家超接受《南華早報》專訪時解釋，香港的成功因素在於開放，以發展為貿易樞紐，零關稅則為本港創造如此規模的貿易量。他否認自己立場被動，指有人做了錯事，自己不會仿效對方，強調會做正確的事。
-
-李家超指出，特區政府已經制定應對最壞情況的應急計劃，但沒有透露具體內容，因為不希望民眾感到驚慌。他又說，餘下兩年任期，將加大支持本地企業，減少對美國的依賴，開拓東南亞和中東等新市場，以尋找「藍海」。
-
-他表示，將透過進一步融入國家，利用好發展機遇，同時維持國際聯繫以及一國兩制方針。對於《香港國安法》實施後，被指侵蝕本港自治和自由，他以「河流匯入大海」的比喻反駁，指兩者交匯的鹹水區將形成新的生態系統，很可能培育味道更加鮮美的新魚類品種，認為在交匯處建造圍牆並非好事，因為大家都是同一家庭，大海會照顧好河流。
-
-李家超指出，無論自己、香港還是國家，都會確保這種融合能創造一種雙方都有利的新生態，強調本港生活方式和體制都沒有改變。"
