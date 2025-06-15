@@ -1,7 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-民政事務總署緊急事故熱線停止運作,2025-06-15 15:41,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500560.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播多次：
-
-由於三號熱帶氣旋警告信號已取消，民政事務總署設立的緊急事故熱線2572 8427現已停止運作。"
 HAD's emergency hotline stood down,2025-06-15 15:41,2025-06-15 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500561.htm,"Attention duty announcers, radio and TV stations:
 
 Please broadcast the following as soon as possible and repeat it at suitable intervals:
@@ -9,6 +6,9 @@ Please broadcast the following as soon as possible and repeat it at suitable int
 As Tropical Cyclone Warning Signal No. 3 has been cancelled, the Home Affairs Department's emergency hotline 2572 8427 has ceased to operate.
 
 "
+民政事務總署緊急事故熱線停止運作,2025-06-15 15:41,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500560.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播多次：
+
+由於三號熱帶氣旋警告信號已取消，民政事務總署設立的緊急事故熱線2572 8427現已停止運作。"
 """ICH Infinityâ"" Fun Day to re-open",2025-06-15 15:33,2025-06-15 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500551.htm,"âAs the Tropical Cyclone Warning Signal will be cancelled by the Hong Kong Observatory, the ""ICH Infinity∞"" Fun Day to be held at the Hong Kong Intangible Cultural Heritage Centre (at Sam Tung Uk Museum, Tsuen Wan) today (June 15) will be re-opened at 3.40pm."
 「非遺無限∞」同樂日重新開放,2025-06-15 15:30,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500549.htm,​由於天文台將取消熱帶氣旋警告信號，今日（六月十五日）在香港非物質文化遺產中心（位於荃灣三棟屋博物館）舉行的「非遺無限∞」同樂日將於下午三時四十分重新開放。
 運輸及物流局局長訪問上海,2025-06-15 15:00,2025-06-15 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300790.htm,"運輸及物流局局長陳美寶明日（六月十六日）啓程訪問上海兩日。
@@ -79,11 +79,6 @@ For more details of the digitalisation of FPNs, please visit the Platform themat
 """ICH Infinityâ"" Fun Day temporarily suspended",2025-06-15 10:53,2025-06-15 11:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500239.htm,"   As the Tropical Cyclone Warning Signal No. 3 is now in force, the ""ICH Infinity∞"" Fun Day to be held at the Hong Kong Intangible Cultural Heritage Centre (at Sam Tung Uk Museum, Tsuen Wan) today (June 15) will be temporarily suspended. Members of the public are advised not to visit.
   
   Depending on the weather condition, the ""ICH Infinity∞"" Fun Day may re-open where circumstances permit. Please pay attention to the relevant news announcement."
-廈門灣泳灘救生服務暫停,2025-06-15 10:17,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500297.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告，並於適當時間重複廣播：
-
-游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，由於天氣惡劣關係，救生員未能乘坐船隻前往西貢區廈門灣泳灘執勤，該泳灘的救生服務已經暫停，直至另行通知，市民請勿在該泳灘游泳。"
 Lifesaving services suspended at Hap Mun Bay Beach,2025-06-15 10:17,2025-06-15 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500298.htm,"Attention TV/Radio Announcers:
 
 Please broadcast the following as soon as possible and repeat it at regular intervals:
@@ -103,6 +98,11 @@ Here is an item of interest to swimmers.
 請盡快播出以下特別報告：
 
 游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，根據環境保護署的「泳灘水質預報系統」（www.epd.gov.hk/epd/tc_chi/environmentinhk/water/beach_quality/forecast_system.html），屯門區的蝴蝶灣泳灘的「泳灘水質預測指數」為4，表示水質因天雨關係而可能短期波動，預測屬於「極差」水平。該泳灘現已懸掛紅旗，為保障健康，市民應避免下水。"
+廈門灣泳灘救生服務暫停,2025-06-15 10:17,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500297.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告，並於適當時間重複廣播：
+
+游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，由於天氣惡劣關係，救生員未能乘坐船隻前往西貢區廈門灣泳灘執勤，該泳灘的救生服務已經暫停，直至另行通知，市民請勿在該泳灘游泳。"
 多個泳灘懸掛紅旗,2025-06-15 10:16,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500266.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列特別報告：
@@ -125,9 +125,22 @@ Drone tech boosts efficiency,2025-06-15 10:02,2025-06-15 10:15,Eng,gia,https://w
 中電和民航處代表早前接受《政府新聞網》訪問，介紹試點項目和政府推動低空經濟發展的修例工作。
 
 有關報道今日（六月十五日）以文字和短片方式上載至www.news.gov.hk/chi/feature。"
-「港車北上」第五十五輪電腦抽籤遞交申請六月十六日至十九日接受登記,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300452.htm,"運輸署今日（六月十五日）提醒市民，「港車北上」第五十五輪電腦抽籤遞交申請將由明日（六月十六日）上午十時至六月十九日晚上十一時五十九分接受登記，並於六月二十日公布抽籤結果。
+警務處今起推行「交通定額罰款通知書」電子化（附圖）,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500303.htm,"警務處今日（六月十五日）正式推行「交通定額罰款通知書」（告票）電子化，以電子方式發出違例泊車及違例行車告票，並推出「電子交通告票平台」的專屬網站及流動應用程式，方便車主及司機查閱及處理告票。
 
-符合資格的「港車北上」申請人可透過指定網站（www.hzmbqfs.gov.hk）登記電腦抽籤。中籤者須在指定時間內遞交「港車北上」的申請。"
+警務處將根據市民向運輸署提供已核實的電子聯絡方式發送電子告票——如提供香港流動電話號碼，會獲發短訊告票；如提供電郵地址，則獲發電郵告票。如違例人士未曾向運輸署提供已核實的電子聯絡方式，警務處會繼續以紙本方式發出告票。
+
+電子告票推出初期，警務處會「雙軌並行」，違例人士會同時收到電子及紙本告票，但只需使用其中一張告票繳款。警務處鼓勵市民使用電子告票繳款。
+
+警務處同時推出「電子交通告票平台」的專屬網站（www.etrafficticket.gov.hk）及流動應用程式，市民可透過平台查閱告票詳情及使用電子支付方式（如轉數快、信用卡等）繳交罰款。告票的繳款資訊及方式已更新，詳情可參閱附件。
+
+警務處提醒市民切記「有#無Link.gov.hk你要認清」，注意以下防騙資訊：
+- 所有告票短訊均由「#HKPF-eTT」發出，其他發送人名稱均屬偽冒；
+- 短訊及電郵告票均不會附上任何超連結，市民應提高警覺，切勿點擊可疑連結或提供個人資料；以及
+- 平台官方網站域名結尾為「.gov.hk」，其他結尾均非政府網站。
+
+警務處將適時檢視電子告票推行進度及市民適應情況，並收集意見，以評估「雙軌並行」安排及在未來擴展平台功能。
+
+有關「交通定額罰款通知書」電子化的詳情，請參閱「電子交通告票平台」網站或下載其流動應用程式。"
 投資推廣署於BIO 2025國際生物科技大會推廣香港生物科技優勢,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300714.htm,"​投資推廣署創新及科技總裁黃煒卓將於明日（六月十六日）至六月二十日出訪美國，與當地生物科技持份者、初創企業、投資者及媒體交流，為香港招商引資。
 
 16間香港生命科學及健康科技公司連同投資推廣署及香港科技園公司組成代表團，參加全球最具規模的生物科技盛會BIO 2025國際生物科技大會，活動將於六月十六日至十九日（波士頓時間）在波士頓會議展覽中心舉行。這次投資推廣署和香港科技園公司聯合參與活動，旨在攜手把香港蓬勃發展的生物科技生態系統推廣至國際的舞台上。
@@ -145,6 +158,9 @@ Drone tech boosts efficiency,2025-06-15 10:02,2025-06-15 10:15,Eng,gia,https://w
 投資推廣署吸引創新及科技公司來港設立或擴展業務的勢頭強勁。二○二四年，投資推廣署協助的創科公司數量增至120間，較二○二三年的82間大幅上升，是該署支援最多的行業，反映全球對香港創新生態系統的信心日增，以及香港作為進入中國內地及亞太市場的跳板的戰略角色。
 
 BIO 2025國際生物科技大會匯聚超過二萬名全球業界領袖，幾乎涵蓋整個生物科技生態圈。在這個充滿變革的時代，生物科技正革新醫療、農業與環境可持續發展，為全球挑戰帶來希望與解決方案。"
+「港車北上」第五十五輪電腦抽籤遞交申請六月十六日至十九日接受登記,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300452.htm,"運輸署今日（六月十五日）提醒市民，「港車北上」第五十五輪電腦抽籤遞交申請將由明日（六月十六日）上午十時至六月十九日晚上十一時五十九分接受登記，並於六月二十日公布抽籤結果。
+
+符合資格的「港車北上」申請人可透過指定網站（www.hzmbqfs.gov.hk）登記電腦抽籤。中籤者須在指定時間內遞交「港車北上」的申請。"
 InvestHK promotes Hong Kong's biotech edge at BIO International Convention 2025,2025-06-15 10:00,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300713.htm,"The Head of Innovation & Technology at Invest Hong Kong (InvestHK), Mr Andy Wong, will embark on a duty visit to the United States from tomorrow (June 16) to June 20 to engage with local biotech stakeholders, start-ups, investors and media with the aim of attracting more business and investment into Hong Kong.
 
  A delegation of 16 Hong Kong life science and health technology companies will be joining InvestHK and the Hong Kong Science and Technology Parks Corporation (HKSTP) to the BIO International Convention 2025, the world's premier biotechnology event, running June 16 to 19 (Boston time) at the Boston Convention & Exhibition Center. This joint effort underscores the strong partnership between InvestHK and the HKSTP to promote Hong Kong's vibrant biotech ecosystem on a global stage.
@@ -162,22 +178,6 @@ InvestHK promotes Hong Kong's biotech edge at BIO International Convention 2025,
  InvestHK has seen strong momentum in attracting innovation and technology (I&T) companies to establish or expand their presence in the city. In 2024, the number of I&T companies assisted by InvestHK rose to 120, up from 82 in 2023, making it the top-performing sector among all sectors supported by the department. This growth reflects both the increasing global confidence in Hong Kong's innovation ecosystem and the city's strategic role as a springboard for I&T businesses looking to access Mainland China and Asia-Pacific markets.
 
  The BIO International Convention 2025 unites over 20 000 global industry leaders, representing virtually the entire biotechnology ecosystem. In an era of transformative discovery, biotechnology is revolutionising healthcare, agriculture, and environmental sustainability, offering hope and solutions to global challenges."
-警務處今起推行「交通定額罰款通知書」電子化（附圖）,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500303.htm,"警務處今日（六月十五日）正式推行「交通定額罰款通知書」（告票）電子化，以電子方式發出違例泊車及違例行車告票，並推出「電子交通告票平台」的專屬網站及流動應用程式，方便車主及司機查閱及處理告票。
-
-警務處將根據市民向運輸署提供已核實的電子聯絡方式發送電子告票——如提供香港流動電話號碼，會獲發短訊告票；如提供電郵地址，則獲發電郵告票。如違例人士未曾向運輸署提供已核實的電子聯絡方式，警務處會繼續以紙本方式發出告票。
-
-電子告票推出初期，警務處會「雙軌並行」，違例人士會同時收到電子及紙本告票，但只需使用其中一張告票繳款。警務處鼓勵市民使用電子告票繳款。
-
-警務處同時推出「電子交通告票平台」的專屬網站（www.etrafficticket.gov.hk）及流動應用程式，市民可透過平台查閱告票詳情及使用電子支付方式（如轉數快、信用卡等）繳交罰款。告票的繳款資訊及方式已更新，詳情可參閱附件。
-
-警務處提醒市民切記「有#無Link.gov.hk你要認清」，注意以下防騙資訊：
-- 所有告票短訊均由「#HKPF-eTT」發出，其他發送人名稱均屬偽冒；
-- 短訊及電郵告票均不會附上任何超連結，市民應提高警覺，切勿點擊可疑連結或提供個人資料；以及
-- 平台官方網站域名結尾為「.gov.hk」，其他結尾均非政府網站。
-
-警務處將適時檢視電子告票推行進度及市民適應情況，並收集意見，以評估「雙軌並行」安排及在未來擴展平台功能。
-
-有關「交通定額罰款通知書」電子化的詳情，請參閱「電子交通告票平台」網站或下載其流動應用程式。"
 55th round of computer ballot registration for submitting applications for Northbound Travel for Hong Kong Vehicles to be open June 16 to 19,2025-06-15 10:00,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300455.htm,"The Transport Department today (June 15) reminded members of the public that the 55th round of computer ballot registration for submitting applications for Northbound Travel for Hong Kong Vehicles (the scheme) will be open from 10am tomorrow (June 16) to 11.59pm on June 19, and the ballot result will be announced on June 20.
 
 Eligible applicants for the scheme can register for computer balloting through the designated website (www.hzmbqfs.gov.hk). Successful balloting applicants are required to submit applications for the scheme within the designated application period."
@@ -186,24 +186,24 @@ Eligible applicants for the scheme can register for computer balloting through t
 視乎天氣情況，「非遺無限∞」同樂日會在情況許可下重新開放。請留意相關新聞公布。"
 Flag-raising ceremony cancelled,2025-06-15 07:51,2025-06-15 08:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500222.htm,"As the Strong Wind Signal No.3 is now in force, the flag-raising ceremony to be conducted at Golden Bauhinia Square, Wan Chai at 8am today (June 15) will be cancelled."
 升旗儀式取消,2025-06-15 07:51,2025-06-15 08:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500223.htm,由於三號強風信號現正生效，原定今日（六月十五日）上午八時於灣仔金紫荊廣場舉行的升旗儀式將告取消。
-社署諭市民不要送子女或家人到提供青少年／長者服務的中心或服務單位,2025-06-15 05:30,2025-06-15 05:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500147.htm,"電台及電視台當值宣布員注意：
-
-請立即播出下列特別報告，並作多次重播：
-
-「由於三號熱帶氣旋警告信號已經發出，社會福利署勸諭市民不要送子女或家人到提供小學生課餘託管服務的單位或長者服務中心，但通常於星期日及公眾假期運作的中心及服務單位仍會繼續開放予有需要人士。市民如需要使用相關服務，可先與中心或服務單位聯絡以確定其開放時間。」"
 SWD urges public not to take children/family members to care centres or services units,2025-06-15 05:30,2025-06-15 05:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500146.htm,"Attention duty announcers, radio and TV stations:
 
 Please broadcast the following special announcement immediately, and repeat it at frequent intervals:
 
 ""Due to the issuing of Tropical Cyclone Warning Signal No. 3, the Social Welfare Department advises members of the public not to take their children or family members to services units providing after school care programmes for primary school children or elderly services centres. Those centres and services units that normally operate on Sundays and public holidays will, however, remain open to serve those whose families cannot provide alternative care for them. Members of the public who have the need for the services mentioned may contact the centres or services units concerned and confirm their operation hours in advance."""
-幼稚園及部分特殊學校停課,2025-06-15 05:00,2025-06-15 05:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500136.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
+社署諭市民不要送子女或家人到提供青少年／長者服務的中心或服務單位,2025-06-15 05:30,2025-06-15 05:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500147.htm,"電台及電視台當值宣布員注意：
 
-由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
+請立即播出下列特別報告，並作多次重播：
+
+「由於三號熱帶氣旋警告信號已經發出，社會福利署勸諭市民不要送子女或家人到提供小學生課餘託管服務的單位或長者服務中心，但通常於星期日及公眾假期運作的中心及服務單位仍會繼續開放予有需要人士。市民如需要使用相關服務，可先與中心或服務單位聯絡以確定其開放時間。」"
 Classes of kindergartens and some special schools are suspended,2025-06-15 05:00,2025-06-15 05:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500138.htm," Attention TV and radio duty announcers:
 
  Please broadcast the following special announcement by the Education Bureau concerning schools, and repeat it at suitable intervals:
 
 As the Tropical Cyclone Warning Signal no. 3 is now in force, classes of kindergartens, schools for children with physical disability and schools for children with intellectual disability are suspended today."
+幼稚園及部分特殊學校停課,2025-06-15 05:00,2025-06-15 05:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500136.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
+
+由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
 HK's drinking water testing programme conducted in strict compliance with international standards,2025-06-15 00:14,2025-06-15 00:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500009.htm,"  In response to a media report about impurities found in drinking water samples from various districts, a spokesman for the Development Bureau pointed out that the tests mentioned in the report were not conducted in strict compliance with the international standards adopted by Hong Kong's drinking water testing programme.
 
 The spokesman said that, as understood, the media organisation had mainly collected samples of impurities from aerators of water taps (commonly known as strainers), and then placed the samples into water for laboratory testing. Aerators are a kind of filter accessory commonly installed at household water taps and shower heads to help block impurities. The presence of impurities in the samples is simply a result of the function of the strainer, and is not abnormal. In the past, the Water Supplies Department (WSD) had received similar inquiries, and staff members were deployed immediately to conduct onsite inspection, arrange flushing of consumers' water meter, remind consumers to cleanse the strainers, and check if there were any irregularities in water quality. If there was a suspected water quality issue, the WSD would collect drinking water samples for testing and notify consumers about the results. In fact, only a few of such cases required water sample testing in the past three years, and testing results showed that the water samples complied with Hong Kong Drinking Water Standards (HKDWS).
@@ -230,15 +230,6 @@ The spokesman added that the WSD had requested more detailed information for fol
 非遺源於生活，它不僅是歷史的見證，更是我們當下生活的一部分。希望今日的活動能啓發各位，以至飲食界對非遺的認識和興趣，無論是參與非遺技藝體驗、研發由非遺技藝創造出來的美食，還是簡單地向親友分享非遺項目的特色，都可以為非遺的傳承貢獻力量。
 
 最後，祝願各位嘉賓今晚盡情享受這頓非遺盛宴、暢聚交流，共同感受非遺與美食交織的獨特韻味。多謝各位。"
-Mainland Civil and Commercial Legal Practice Training Course 2025 of Hong Kong International Legal Talents Training Academy concludes (with photos),2025-06-14 20:38,2025-06-14 20:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061300636.htm,"  The Mainland Civil and Commercial Legal Practice Training Course 2025, organised by the Hong Kong International Legal Talents Training Academy, concluded today (June 14). The two-day course is the first course held by the Academy specifically for the local legal sector, including barristers, solicitors, in-house counsel and dispute resolution practitioners. The course aims to deepen the local industry's understanding of the Mainland's civil and commercial laws and practical operations, and promote exchanges between Hong Kong and the Mainland's legal and dispute resolution sectors. The course attracted about 300 participants.
-
-  Addressing the opening ceremony, the Secretary for Justice, Mr Paul Lam, SC, said that Hong Kong and the Mainland have become more closely connected since Hong Kong's return to the motherland, with economic and trade activities becoming increasingly frequent. While many Mainland enterprises leverage Hong Kong as an internationalised platform to go global, overseas enterprises also invest in the Mainland through Hong Kong. The Academy specially organised this course to enable the local legal industry to gain in-depth understanding of the practice of civil and commercial law on the Mainland so that they can meet the actual needs arising from growing cross-boundary business, while improving their own competitiveness and expanding the room for their career development.
-
-  Addressing the closing ceremony, the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, said that the leading position of Hong Kong in international arbitration continues to be reinforced and enhanced. The Department of Justice iscommitted to promoting the city's leading position in the field of arbitration in the Greater Bay Area and in the international community, as well as providing legal services of higher quality and competitiveness to the Mainland and around the world, so as to further establish Hong Kong's position as an international legal and dispute resolution services centre in the Asia-Pacific region.
-
-  The course covers various key areas of the Mainland civil and commercial legal practice. Through lectures and seminars, the course further enhances the understanding and knowledge of Hong Kong's legal and dispute resolution sectors on the practice and operation of the Mainland civil and commercial legal system, while providing a platform for exchange and co-operation between the Hong Kong and Mainland legal sectors. Speakers of the course comprise Mainland judges, academics, legal professionals, corporate representatives, arbitration practitioners and members of the Hong Kong International Legal Talents Training Expert Committee.
-
-  The Academy will continue to capitalise on Hong Kong's bilingual common law system and international status and provide platforms for capacity building, knowledge and experience sharing to Hong Kong, the Mainland as well as other jurisdictions, especially the legal talent in regions along the Belt and Road Initiative, to promote the exchange of international legal talent and reinforce Hong Kong's status as a centre for international legal and dispute resolution services in the AsiaâPacific region, in order to develop Hong Kong into a capacity-building centre."
 香港國際法律人才培訓學院2025年內地民商事法律實務課程圓滿結束（附圖）,2025-06-14 20:38,2025-06-14 20:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061300634.htm,"香港國際法律人才培訓學院舉辦的2025年內地民商事法律實務課程今日（六月十四日）圓滿結束。為期兩天的課程是培訓學院首個專門為本地法律業界，包括大律師、律師、企業法律顧問和爭議解決從業者舉辦的課程，旨在加深本地業界對內地民商事法律及實務運作的認識，促進香港與內地法律和爭議解決業界的交流。課程吸引約300名人士報名參加。
 
 律政司司長林定國資深大律師於開班儀式致辭時表示，回歸以來香港與內地的聯繫越趨緊密，經貿活動日益頻繁，不少內地企業借助香港的國際化平台走向世界，海外企業也通過香港投資內地。培訓學院特別舉辦本課程，讓本地法律業界深入了解內地民商事法律的實務，以應對跨境業務需求日益增長的現實需要，同時提升自身競爭力、拓展職業發展空間。
@@ -248,6 +239,15 @@ Mainland Civil and Commercial Legal Practice Training Course 2025 of Hong Kong I
 本課程內容涵蓋內地民商事法律實務的多個核心領域，通過講座和座談，進一步提升香港法律和爭議解決業界對內地民商事法律體系實踐運作的理解和認識，同時為香港與內地法律界提供交流合作的平台。課程講者包括內地法官、學者、法律界專業人士、企業代表、仲裁界人士和香港國際法律人才培訓專家委員會成員。
 
 培訓學院將繼續善用香港中英雙語普通法制度和國際化格局，為香港、內地及其他司法管轄區，特別是「一帶一路」沿線地區的法律界人士提供能力建設、知識和經驗分享的平台，促進國際法律人才交流，鞏固香港作為亞太區國際法律及爭議解決中心地位，打造香港成為能力建設中心。"
+Mainland Civil and Commercial Legal Practice Training Course 2025 of Hong Kong International Legal Talents Training Academy concludes (with photos),2025-06-14 20:38,2025-06-14 20:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061300636.htm,"  The Mainland Civil and Commercial Legal Practice Training Course 2025, organised by the Hong Kong International Legal Talents Training Academy, concluded today (June 14). The two-day course is the first course held by the Academy specifically for the local legal sector, including barristers, solicitors, in-house counsel and dispute resolution practitioners. The course aims to deepen the local industry's understanding of the Mainland's civil and commercial laws and practical operations, and promote exchanges between Hong Kong and the Mainland's legal and dispute resolution sectors. The course attracted about 300 participants.
+
+  Addressing the opening ceremony, the Secretary for Justice, Mr Paul Lam, SC, said that Hong Kong and the Mainland have become more closely connected since Hong Kong's return to the motherland, with economic and trade activities becoming increasingly frequent. While many Mainland enterprises leverage Hong Kong as an internationalised platform to go global, overseas enterprises also invest in the Mainland through Hong Kong. The Academy specially organised this course to enable the local legal industry to gain in-depth understanding of the practice of civil and commercial law on the Mainland so that they can meet the actual needs arising from growing cross-boundary business, while improving their own competitiveness and expanding the room for their career development.
+
+  Addressing the closing ceremony, the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, said that the leading position of Hong Kong in international arbitration continues to be reinforced and enhanced. The Department of Justice iscommitted to promoting the city's leading position in the field of arbitration in the Greater Bay Area and in the international community, as well as providing legal services of higher quality and competitiveness to the Mainland and around the world, so as to further establish Hong Kong's position as an international legal and dispute resolution services centre in the Asia-Pacific region.
+
+  The course covers various key areas of the Mainland civil and commercial legal practice. Through lectures and seminars, the course further enhances the understanding and knowledge of Hong Kong's legal and dispute resolution sectors on the practice and operation of the Mainland civil and commercial legal system, while providing a platform for exchange and co-operation between the Hong Kong and Mainland legal sectors. Speakers of the course comprise Mainland judges, academics, legal professionals, corporate representatives, arbitration practitioners and members of the Hong Kong International Legal Talents Training Expert Committee.
+
+  The Academy will continue to capitalise on Hong Kong's bilingual common law system and international status and provide platforms for capacity building, knowledge and experience sharing to Hong Kong, the Mainland as well as other jurisdictions, especially the legal talent in regions along the Belt and Road Initiative, to promote the exchange of international legal talent and reinforce Hong Kong's status as a centre for international legal and dispute resolution services in the AsiaâPacific region, in order to develop Hong Kong into a capacity-building centre."
 律政司副司長在2025年內地民商事法律實務課程結業儀式致辭（只有中文）（附圖）,2025-06-14 20:32,2025-06-14 20:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400824.htm,"以下是律政司副司長張國鈞博士今日（六月十四日）在2025年內地民商事法律實務課程結業儀式的致辭全文：
 
 尊敬的王曉明庭長（廣東省高級人民法院知識產權審判庭庭長）、各位嘉賓、各位業界的朋友：
@@ -282,7 +282,7 @@ Mainland Civil and Commercial Legal Practice Training Course 2025 of Hong Kong I
 為確保本港的食水水質，水務署實施恆常食水檢測計劃，每年透過隨機方法在全港約28 000多個公眾可接觸到的水龍頭（如商場、社區設施、體育場地、政府合署等）中抽取水樣本作測試，抽樣比例根據國際標準方法取樣，而涵蓋的食水參數按照世衞的準則而訂立。此外，水務署每年在全港住宅及非住宅食水帳戶中隨機選出約670個處所，在其水龍頭抽取食水樣本，以檢測六種金屬（即銻、鎘、鉻、銅、鉛和鎳），確保符合香港食水標準。相關檢測結果會定時刊登在水務署的網頁。
 
 發言人表示，水務署接獲相關媒體查詢時已要求其提供更詳細資料以便與相關用戶跟進，現仍等待該媒體提供進一步資料。若有關媒體向水務署提交更多資料（包括採樣地點），署方會派員跟進調查，協助用戶沖洗內部供水系統，並按需要抽取水樣本進行化驗，確保水質安全。如市民就食水水質問題有任何查詢，可致電水務署24小時熱線：2824 5000。"
-International Conference on Roads and Railways 2025 successfully concludes On-site visits to Central Kowloon Route and MTRCL Tung Chung Line Extension works projects (with photos),2025-06-14 19:51,2025-06-14 20:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400789.htm,"The International Conference on Roads and Railways 2025 co-organised by the Highways Department (HyD) and the Hong Kong Institution of Highways and Transportation already came to a successful conclusion yesterday (June 13). The two-day conference attracted over 800 participants, successfully bringing together global experts, scholars and industry leaders to share experiences and insights, and jointly lead Hong Kong's transport infrastructure development to write a new chapter.
+International Conference on Roads and Railways 2025 successfully concludes On-site visits to Central Kowloon Route and MTRCL Tung Chung Line Extension works projects,2025-06-14 19:51,2025-06-14 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400789.htm,"The International Conference on Roads and Railways 2025 co-organised by the Highways Department (HyD) and the Hong Kong Institution of Highways and Transportation already came to a successful conclusion yesterday (June 13). The two-day conference attracted over 800 participants, successfully bringing together global experts, scholars and industry leaders to share experiences and insights, and jointly lead Hong Kong's transport infrastructure development to write a new chapter.
 
 In his opening remarks and speech on the second day of the conference, Vice President of the Research Institute of Highway of the Ministry of Transport of the People's Republic of China, Mr Wang Shuiyin, inspired the participants to think about how to put smart and green road construction into practice. The conference then focused on Smart and Green Transport Infrastructure - Planning, Design and Construction and Green Solutions for Smart Transport Infrastructure, with in-depth discussions on the topics of innovative designs, construction and material technologies, smart monitoring technologies, strategies to cope with extreme weather, etc., which provided multi-faceted solutions for the promotion of smart and green transport infrastructure. Students studying relevant engineering subjects were invited to participate in the conference. This enabled them to understand the future development of transport infrastructure, as well as the breakthroughs in innovative technologies of the engineering sector. Deputy Director of Highways, Mr Richard Ng, said in his closing remarks that the conference inspired Hong Kong to create sustainable solutions through policy innovation and technological innovation in order to respond to various challenges in the implementation of transport infrastructures, while deepening international co-operation. He also expressed his heartfelt gratitude to the guests, speakers, supporting organisations and all participants for their participation which had made the conference a success.
 
@@ -297,7 +297,7 @@ Another delegation visited the MTRCL TUE project, which is composed of Tung Chun
 In addition, young members from professional bodies and organisations, including the Hong Kong Institution of Highways and Transportation, the Hong Kong Institution of Engineers, the Institution of Civil Engineers Hong Kong Association, and the University of Hong Kong Engineering Alumni Association, etc to will be arranged to visit the CKR works site next Saturday (June 21). They will have a closer look on how complex underground works were carried out in the urban areas with lots of buildings, dense population and high traffic flow under the project.
 
 For conference details, please visit the designated website: icrr2025.com/en/index.html."
-International Conference on Roads and Railways 2025 successfully concludes On-site visits to Central Kowloon Route and MTRCL Tung Chung Line Extension works projects,2025-06-14 19:51,2025-06-14 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400789.htm,"The International Conference on Roads and Railways 2025 co-organised by the Highways Department (HyD) and the Hong Kong Institution of Highways and Transportation already came to a successful conclusion yesterday (June 13). The two-day conference attracted over 800 participants, successfully bringing together global experts, scholars and industry leaders to share experiences and insights, and jointly lead Hong Kong's transport infrastructure development to write a new chapter.
+International Conference on Roads and Railways 2025 successfully concludes On-site visits to Central Kowloon Route and MTRCL Tung Chung Line Extension works projects (with photos),2025-06-14 19:51,2025-06-14 20:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400789.htm,"The International Conference on Roads and Railways 2025 co-organised by the Highways Department (HyD) and the Hong Kong Institution of Highways and Transportation already came to a successful conclusion yesterday (June 13). The two-day conference attracted over 800 participants, successfully bringing together global experts, scholars and industry leaders to share experiences and insights, and jointly lead Hong Kong's transport infrastructure development to write a new chapter.
 
 In his opening remarks and speech on the second day of the conference, Vice President of the Research Institute of Highway of the Ministry of Transport of the People's Republic of China, Mr Wang Shuiyin, inspired the participants to think about how to put smart and green road construction into practice. The conference then focused on Smart and Green Transport Infrastructure - Planning, Design and Construction and Green Solutions for Smart Transport Infrastructure, with in-depth discussions on the topics of innovative designs, construction and material technologies, smart monitoring technologies, strategies to cope with extreme weather, etc., which provided multi-faceted solutions for the promotion of smart and green transport infrastructure. Students studying relevant engineering subjects were invited to participate in the conference. This enabled them to understand the future development of transport infrastructure, as well as the breakthroughs in innovative technologies of the engineering sector. Deputy Director of Highways, Mr Richard Ng, said in his closing remarks that the conference inspired Hong Kong to create sustainable solutions through policy innovation and technological innovation in order to respond to various challenges in the implementation of transport infrastructures, while deepening international co-operation. He also expressed his heartfelt gratitude to the guests, speakers, supporting organisations and all participants for their participation which had made the conference a success.
 
@@ -327,7 +327,7 @@ For conference details, please visit the designated website: icrr2025.com/en/ind
 所以第一，要做一個剛才我所說的那類特別的「好學生」，第二，更加重要的是做一個好的「推銷員」，好的「推銷員」是什麼意思呢？你要反過來與跟你們相處的內地律師，或者其他朋友「推銷」，其實他們都很好奇，當然他們會有接待香港朋友的經驗，但是接觸好像你們這種年紀的香港法律學生，或年輕人，可能不是每個人都有機會，我相信他們心目中應該都有很多東西想問你們，例如你們在香港生活的情況，香港的法律制度是怎樣的，香港現在有什麼問題，他們可能觀察到香港發生了很多事情，但不太明白。所以你們有很重大的責任，就是你們代表的不只是自己個人的身份，在別人眼中，你們就是代表了香港的未來，你們就是我們香港的年青一輩，在將來法律上應該是扮演一個很重要角色的年青人。內地如何看待我們香港的未來，內地如何看待我們香港未來在法律上是否作出了我們應該有的貢獻呢？其實會在你們身上做一個評估。所以我很希望，如果遇到這種情況，要主動一點，多跟內地的朋友解釋一下，分享你們對於香港的自身體驗，對於我們香港社會的認識，或者作為我們法律制度，普通法的好處在哪裡呢？有甚麼特別呢？為何我們這個普通法制度，可以幫助不單是香港，甚至是整個國家的發展呢？香港發生了很多事，內地人未必明白為何香港會這樣，我想你們有一個很重大的責任，亦是我所期望的，盡量取得機會令內地朋友了解。「一國兩制」要成功，我覺得要有一個很重要的先決條件，就是內地和香港朋友需要互相理解和信任，因為大家畢竟是生活在兩個不同的制度之下，是會有差異的，有些事情是大家都未必能容易明白，但不要將這些不理解變成一些讓大家可能互相不充分信任的結果。所以我很希望大家珍惜這段時間，去認識多些朋友，坦誠相向，促進兩個地方的朋友，互相的理解。今天你們交朋結友，可能幾十年之後，就變成了老朋友。
 
 這就是我交給你們的任務，做一個好學生，第二，幫香港做一個好的「推銷員」。最後，祝大家有個愉快的夏天，努力學習，努力遊樂，努力去享受你們這個難得的機會，多謝大家。"
-公路及鐵路國際會議2025圓滿結束　實地考察中九龍幹線及港鐵東涌線延線工程項目（附圖）,2025-06-14 18:45,2025-06-14 20:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400788.htm,"路政署及香港公路學會合辦的「公路及鐵路國際會議2025」已於昨日（六月十三日）圓滿結束。一連兩日的會議共吸引超過800名參加者出席，成功凝聚來自全球各地的專家、學者和行業領袖交流經驗及分享真知灼見，共同引領香港運輸基建發展譜寫新篇章。
+公路及鐵路國際會議2025圓滿結束　實地考察中九龍幹線及港鐵東涌線延線工程項目,2025-06-14 18:45,2025-06-14 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400788.htm,"路政署及香港公路學會合辦的「公路及鐵路國際會議2025」已於昨日（六月十三日）圓滿結束。一連兩日的會議共吸引超過800名參加者出席，成功凝聚來自全球各地的專家、學者和行業領袖交流經驗及分享真知灼見，共同引領香港運輸基建發展譜寫新篇章。
 
 國家交通運輸部公路科學研究院副院長汪水銀在第二日的會議上發表開場致辭和演講，啓發與會者思考如何實踐公路建設智慧化與綠色化。隨後會議聚焦討論「智能和綠色交通基礎設施—規劃、設計和建設」及「智能交通基礎設施的綠色解決方案」，就嶄新設計、建造及物料技術、智能監測技術和應對極端天氣策略等議題進行深入討論，為推動智慧綠色運輸基建提供多元解決方案。大會亦邀請了就讀相關工程學科的學生參與會議，讓他們了解運輸基建未來的發展，以及工程界創新技術方面的突破。路政署副署長伍展鴻在總結發言時表示，是次會議啓發香港透過政策創新和技術創新，創造可持續的解決方案，以應對推展運輸基建的不同挑戰，同時深化國際間的合作。他亦衷心感謝嘉賓、講者、支持機構和各與會者的參與，令會議得以圓滿舉行。
 
@@ -342,7 +342,7 @@ For conference details, please visit the designated website: icrr2025.com/en/ind
 此外，大會將於下周六（六月二十一日）安排香港公路學會、香港工程師學會、英國土木工程師學會香港分會及香港大學工程舊生會等多個專業團體和機構的年青會員參觀中九龍幹線工地，讓他們近距離了解項目如何在建築物林立、人煙稠密和車流量高的市區進行複雜的地底工程。
 
 會議詳情可瀏覽專題網頁：icrr2025.com/tc/index.html。"
-公路及鐵路國際會議2025圓滿結束　實地考察中九龍幹線及港鐵東涌線延線工程項目,2025-06-14 18:45,2025-06-14 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400788.htm,"路政署及香港公路學會合辦的「公路及鐵路國際會議2025」已於昨日（六月十三日）圓滿結束。一連兩日的會議共吸引超過800名參加者出席，成功凝聚來自全球各地的專家、學者和行業領袖交流經驗及分享真知灼見，共同引領香港運輸基建發展譜寫新篇章。
+公路及鐵路國際會議2025圓滿結束　實地考察中九龍幹線及港鐵東涌線延線工程項目（附圖）,2025-06-14 18:45,2025-06-14 20:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400788.htm,"路政署及香港公路學會合辦的「公路及鐵路國際會議2025」已於昨日（六月十三日）圓滿結束。一連兩日的會議共吸引超過800名參加者出席，成功凝聚來自全球各地的專家、學者和行業領袖交流經驗及分享真知灼見，共同引領香港運輸基建發展譜寫新篇章。
 
 國家交通運輸部公路科學研究院副院長汪水銀在第二日的會議上發表開場致辭和演講，啓發與會者思考如何實踐公路建設智慧化與綠色化。隨後會議聚焦討論「智能和綠色交通基礎設施—規劃、設計和建設」及「智能交通基礎設施的綠色解決方案」，就嶄新設計、建造及物料技術、智能監測技術和應對極端天氣策略等議題進行深入討論，為推動智慧綠色運輸基建提供多元解決方案。大會亦邀請了就讀相關工程學科的學生參與會議，讓他們了解運輸基建未來的發展，以及工程界創新技術方面的突破。路政署副署長伍展鴻在總結發言時表示，是次會議啓發香港透過政策創新和技術創新，創造可持續的解決方案，以應對推展運輸基建的不同挑戰，同時深化國際間的合作。他亦衷心感謝嘉賓、講者、支持機構和各與會者的參與，令會議得以圓滿舉行。
 
@@ -365,19 +365,6 @@ Flag-lowering ceremony cancelled,2025-06-14 17:55,2025-06-14 18:00,Eng,gia,https
 
 ÂÂÂÂÂ If the thunderstorm warning is cancelled and weather conditions permit by then, the flag-lowering ceremony may be resumed without further notice.
 "
-Hong Kong Customs detects drug trafficking case involving incoming passenger at airport (with photo),2025-06-14 17:48,2025-06-14 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400761.htm,"Hong Kong Customs today (June 14) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport and seized about 3 kilograms of suspected cocaine with an estimated market value of about $2.5 million.
-
-The case involved a 21-year-old male passenger arriving in Hong Kong from Johannesburg, South Africa, today. During customs clearance, Customs officers found the batch of suspected cocaine concealed in the false compartment of his check-in suitcase and a document bag inside the suitcase. The man was subsequently arrested.
-
-An investigation is ongoing.
-
-Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not to participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
-
-Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
-
-Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
-
-Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 香港海關於機場偵破一宗入境旅客販毒案件（附圖）,2025-06-14 17:48,2025-06-14 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400760.htm,"​香港海關今日（六月十四日）在香港國際機場偵破一宗涉及行李藏毒的販毒案件，檢獲約三公斤懷疑可卡因，估計市值約二百五十萬元。
 
 一名二十一歲的男旅客今日從南非約翰內斯堡飛抵本港。海關人員清關時，在其寄艙行李箱的夾層和行李箱內的文件袋中發現該批懷疑可卡因，遂把該名男子拘捕。
@@ -391,6 +378,19 @@ Members of the public may report any suspected drug trafficking activities to Cu
 根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
+Hong Kong Customs detects drug trafficking case involving incoming passenger at airport (with photo),2025-06-14 17:48,2025-06-14 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400761.htm,"Hong Kong Customs today (June 14) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport and seized about 3 kilograms of suspected cocaine with an estimated market value of about $2.5 million.
+
+The case involved a 21-year-old male passenger arriving in Hong Kong from Johannesburg, South Africa, today. During customs clearance, Customs officers found the batch of suspected cocaine concealed in the false compartment of his check-in suitcase and a document bag inside the suitcase. The man was subsequently arrested.
+
+An investigation is ongoing.
+
+Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not to participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
+
+Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
+
+Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
+
+Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 尋回屯門失蹤女子,2025-06-14 17:43,2025-06-14 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400765.htm,"一名在屯門失蹤的女子已被尋回。
 
 五十六歲女子徐垚玲六月三日下午於輕鐵市中心站最後露面後便告失蹤，其家人六月十日向警方報案。
@@ -403,117 +403,3 @@ Missing woman in Tuen Mun located,2025-06-14 17:43,2025-06-14 18:00,Eng,gia,http
 
 ÂÂÂÂ The woman was located in MTR Tuen Mun Station this afternoon (June 14). She sustained no injuries and no suspicious circumstances were detected.
 "
-Record-breaking of over 4 000 blood donors commended at Annual Donor Award Ceremony (with photos),2025-06-14 17:26,2025-06-14 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400681.htm,"The following is issued on behalf of the Hospital Authority:
-
-The Hong Kong Red Cross Blood Transfusion Service (BTS) today (June 14) held its Annual Donor Award Ceremony to commend outstanding regular blood donors. The BTS also announced that a total of 4 081 donors gave blood 25 times or in its multiples in 2024/25, which breaks the BTS record for three consecutive years. This highlights the growing awareness and embrace of blood donation culture in Hong Kong. The BTS expressed its sincerest gratitude to all the enthusiastic blood donors.
-
-The officiating guests of the award presentation included the Under Secretary for Health, Dr Libby Lee; the Chairman of the Hospital Authority (HA), Mr Henry Fan; the Chief Executive of the HA, Dr Tony Ko; the Chairperson of the Hong Kong Red Cross, Dr Lau Chor-chiu; and the Chairman of the BTS Hospital Governing Committee, Mr Ignatius Chan, etc, presenting awards to the awardees.
-
-Dr Libby Lee said, ""The BTS has adopted a multipronged approach to promote blood donation as a habit to ensure a stable blood supply in Hong Kong. I would like to urge blood donors to inspire their family and friends to become fellow blood donation champions, to help patients through their life-threatening moments. I would also like to encourage everyone to register as a bone marrow donor to save lives. I look forward to seeing more young people recognised at the Donor Award Ceremony as key players in this lifesaving effort in the future.""
-
-Dr Tony Ko added that, a stable blood supply ensures the healthcare system functions effectively to safeguard the health of in Hong Kong people. The HA has always supported blood donation activities. In the past year, HA staff donated more than 1 800 units of blood. Many colleagues dedicate themselves to protecting patients both within and beyond their workplace. We would like to extend our sincere gratitude to all staff members and blood donors across the city for their invaluable contribution.
-
-Dr Lau Chor-chiu said, ""To strengthen our network with universities, the BTS has collaborated closely with the Hong Kong Red Cross Youth Development Service. Following the establishment of the Hong Kong Red Cross University Club (Hong Kong Baptist University) last year, this year BTS has also engaged in the establishment of the Club of Chinese University of Hong Kong. The BTS will actively engage in the campus blood donation activities.""
-
-Mr Ignatius Chan stated that, ""BTS has paid our utmost effort recruiting young donors over the years, aiming at strengthening the team dedicated to saving lives through blood donation. This year, the BTS organised a University Blood Donation Marathon and visited 13 universities and tertiary institutions. During the event, the BTS collected over 2 800 units of blood, among which 1 200 people were first-time donors. Besides, the BTS continues to collaborate with the Education Bureau to promote blood donation education in secondary schools, ensuring that the culture of blood donation is rooted in campus.""
-
-This year, a total of 127 800 enthusiastic blood donors donated nearly 219 200 units of blood, turning into over 372 100 units of blood products for clinical treatment in Hong Kong hospitals after they underwent processing and testing at various laboratories of the BTS.
-
-In addition to individual donation awards for enthusiastic blood donors, Elite Partnership Awards were presented to the following corporate, community and academic partners, in recognition of their enthusiastic support and remarkable achievements in blood donation. The respective winners are:
-
-Elite Partnership Award - Corporate Partners
-Prudential Hong Kong Limited
-Sino Group
-Nan Fung Group
-Link Asset Management Services Limited
-Sun Hung Kai Properties Limited
-
-Elite Partnership Award - Community Partners
-Tsz Shan Monastery
-Rotary International District 3450
-Scout Association of Hong Kong
-Evangelical Free Church of China - Yan Fook Church
-
-Elite Partnership Award - Community Partners (Blood Donation Vehicle)
-Whampoa Garden Management Limited
-Lung Mun Oasis
-Hong Kong Science & Technology Parks Corporation
-
-Elite Partnership Award - University
-The Chinese University of Hong Kong
-The University of Hong Kong
-The Hong Kong Polytechnic University
-Hong Kong Metropolitan University
-Hong Kong Baptist University
-The Hong Kong University of Science and Technology
-
-Elite Partnership Award - Secondary School
-Shatin College
-West Island School
-Po Leung Kuk Wu Chung College
-Discovery College
-Buddhist Hung Sean Chau Memorial College
-F.D.B.W.A. Szeto Ho Secondary School
-Cheung Sha Wan Catholic Secondary School
-King's College
-PHC Wing Kwong College
-Lai Chack Middle School
-
-The BTS invites members of the public to support blood donation activities continuously and become regular blood donors. Donors can make appointments via ""HK Blood"" mobile app or by calling the BTS' donor centres. For details, please visit www.ha.org.hk/rcbts."
-逾4 000熱心捐血市民及卓越夥伴獲嘉許　創歷年新高（附圖）,2025-06-14 17:26,2025-06-14 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/14/P2025061400676.htm,"下稿代醫院管理局發出：
-
-香港紅十字會輸血服務中心（中心）今日（六月十四日）舉行周年捐血頒獎典禮，嘉許一班恆常捐血的熱心市民。於二○二四至二五年度累積捐血次數達25次或其倍數的捐血者再創新高，共有4 081人，連續三年打破中心紀錄，足見捐血文化普及蔚然成風。中心衷心感謝一眾捐血者的無私奉獻。
-
-醫務衞生局副局長李夏茵醫生、醫院管理局（醫管局）主席范鴻齡、醫管局行政總裁高拔陞醫生、香港紅十字會主席劉楚釗醫生及輸血服務中心管治委員會主席陳子政等出席主禮，並嘉許各得獎者。
-
-李夏茵醫生說：「香港紅十字會輸血服務中心從多方面鼓勵市民恆常捐血以穩定本港血液供應。我希望每個捐血者發揮自身力量，帶動身邊人成為『熱愛捐血』的『熱血』人士，協助病人渡過生命中的危機。同時，我也鼓勵大家登記成為骨髓捐贈者，拯救生命。在未來的捐血頒獎典禮，我期待看見更多年輕面孔，成為挽救生命的重要一員。」
-
-高拔陞醫生表示，穩定的血液供應是維持醫療體系妥善發揮效能、守護本港市民健康的的關鍵。醫管局一直支持捐血活動，過去一年，醫管局同事共捐出逾1 800包血液。不少同事在工作崗位內外都致力守護病人，我在此感謝各位同事以及全港捐血者的付出。
-
-劉楚釗醫生說：「為拓展大學校園網絡，中心與香港紅十字會青年發展服務緊密合作，繼往年成立了香港紅十字會大學聯會浸會大學分會外，今年亦推動成立香港中文大學分會，積極推動學界支持捐血活動。」
-
-陳子政說：「中心多年來一直不遺餘力招募年輕捐血者，壯大捐血救人團隊。本年度，中心舉辦了大學捐血馬拉松活動，到訪13所大專院校，合共收集超過2 800單位血液，當中有1 200人是首次捐血者。另外，中心持續與教育局協作在中學校園推廣捐血教育，讓捐血文化植根校園。」
-
-本年度中心錄得逾127 800名熱心捐血人士前來捐血，合共收集近219 200單位血液。收集到的血液經處理和檢驗後，製成逾372 100單位的血液製品，供應給全港醫院作臨床輸血治療之用。
-
-中心除了向熱心捐血者頒發個人捐血獎項外，亦表揚積極支持捐血活動的商界、社區及學界夥伴，以下為本年度「卓越夥伴大獎」的獲獎機構：
-
-卓越夥伴大獎 — 商界夥伴
-保誠保險有限公司
-信和集團
-南豐集團
-領展資產管理有限公司
-新鴻基地產發展有限公司
-
-卓越夥伴大獎 — 社區夥伴
-慈山寺
-國際扶輪3450地區
-香港童軍總會
-中國基督教播道會恩福堂
-
-卓越夥伴大獎 — 社區夥伴（捐血車）
-黃埔花園管理有限公司
-龍門居
-香港科技園公司
-
-卓越夥伴大獎 — 學界夥伴（大學）
-香港中文大學
-香港大學
-香港理工大學
-香港都會大學
-香港浸會大學
-香港科技大學
-
-卓越夥伴大獎 — 學界夥伴（中學）
-沙田學院
-西島中學
-保良局胡忠中學
-智新書院
-佛教孔仙洲紀念中學
-五邑司徒浩中學
-長沙灣天主教英文中學
-英皇書院
-五旬節聖潔會永光書院
-麗澤中學
-
-中心誠邀熱心市民繼續支持捐血活動，加入恆常捐血行列。市民可以透過「HK Blood」手機應用程式，或致電捐血站預約捐血時段。請參閱中心網站了解更多捐血站詳情：www.ha.org.hk/rcbts。"
