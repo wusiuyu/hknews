@@ -10,9 +10,6 @@ title,date,scrape_time,section,source,url,news_content
 在巴黎期間，孫東教授接受當地媒體訪問，介紹香港創科的最新情況和機遇，說好香港的創科故事。
 
 今日傍晚孫東教授將轉往海牙，繼續荷蘭訪問行程。"
-民政事務總署緊急事故熱線停止運作,2025-06-15 15:41,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500560.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播多次：
-
-由於三號熱帶氣旋警告信號已取消，民政事務總署設立的緊急事故熱線2572 8427現已停止運作。"
 HAD's emergency hotline stood down,2025-06-15 15:41,2025-06-15 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500561.htm,"Attention duty announcers, radio and TV stations:
 
 Please broadcast the following as soon as possible and repeat it at suitable intervals:
@@ -20,6 +17,9 @@ Please broadcast the following as soon as possible and repeat it at suitable int
 As Tropical Cyclone Warning Signal No. 3 has been cancelled, the Home Affairs Department's emergency hotline 2572 8427 has ceased to operate.
 
 "
+民政事務總署緊急事故熱線停止運作,2025-06-15 15:41,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500560.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播多次：
+
+由於三號熱帶氣旋警告信號已取消，民政事務總署設立的緊急事故熱線2572 8427現已停止運作。"
 """ICH Infinityâ"" Fun Day to re-open",2025-06-15 15:33,2025-06-15 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500551.htm,"âAs the Tropical Cyclone Warning Signal will be cancelled by the Hong Kong Observatory, the ""ICH Infinity∞"" Fun Day to be held at the Hong Kong Intangible Cultural Heritage Centre (at Sam Tung Uk Museum, Tsuen Wan) today (June 15) will be re-opened at 3.40pm."
 「非遺無限∞」同樂日重新開放,2025-06-15 15:30,2025-06-15 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500549.htm,​由於天文台將取消熱帶氣旋警告信號，今日（六月十五日）在香港非物質文化遺產中心（位於荃灣三棟屋博物館）舉行的「非遺無限∞」同樂日將於下午三時四十分重新開放。
 運輸及物流局局長訪問上海,2025-06-15 15:00,2025-06-15 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300790.htm,"運輸及物流局局長陳美寶明日（六月十六日）啓程訪問上海兩日。
@@ -97,13 +97,6 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
   The Leisure and Cultural Services Department announced today (June 15) that according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Butterfly Beach in Tuen Mun District is 4, which means the predicted water quality at this beach is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. The red flag has been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
-Lifesaving services suspended at Hap Mun Bay Beach,2025-06-15 10:17,2025-06-15 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500298.htm,"Attention TV/Radio Announcers:
-
-Please broadcast the following as soon as possible and repeat it at regular intervals:
-
-Here is an item of interest to swimmers.
-
-The Leisure and Cultural Services Department announced today (June 15) that as lifeguards are unable to go to Hap Mun Bay Beach in Sai Kung District by ferries due to inclement weather, lifesaving services at the beach has been suspended. Beachgoers are advised not to swim at this beach until further notice."
 蝴蝶灣泳灘已懸掛紅旗,2025-06-15 10:17,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500264.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出以下特別報告：
@@ -114,11 +107,13 @@ The Leisure and Cultural Services Department announced today (June 15) that as l
 請盡快播出下列特別報告，並於適當時間重複廣播：
 
 游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，由於天氣惡劣關係，救生員未能乘坐船隻前往西貢區廈門灣泳灘執勤，該泳灘的救生服務已經暫停，直至另行通知，市民請勿在該泳灘游泳。"
-多個泳灘懸掛紅旗,2025-06-15 10:16,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500266.htm,"電台及電視台當值宣布員注意：
+Lifesaving services suspended at Hap Mun Bay Beach,2025-06-15 10:17,2025-06-15 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500298.htm,"Attention TV/Radio Announcers:
 
-請盡快播出下列特別報告：
+Please broadcast the following as soon as possible and repeat it at regular intervals:
 
-游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，由於大浪關係，港島南區的南灣泳灘、深水灣泳灘、赤柱正灘泳灘、石澳泳灘及大浪灣泳灘；離島區的洪聖爺灣泳灘、長洲東灣泳灘、銀礦灣泳灘及貝澳泳灘；以及西貢區的清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
+Here is an item of interest to swimmers.
+
+The Leisure and Cultural Services Department announced today (June 15) that as lifeguards are unable to go to Hap Mun Bay Beach in Sai Kung District by ferries due to inclement weather, lifesaving services at the beach has been suspended. Beachgoers are advised not to swim at this beach until further notice."
 Red flags hoisted at several beaches,2025-06-15 10:16,2025-06-15 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500270.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -126,6 +121,11 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today(June 15) that due to big waves, red flags have been hoisted at South Bay Beach, Deep Water Bay Beach, Stanley Main Beach, Shek O Beach and Big Wave Bay Beach in Southern District, Hong Kong Island; Hung Shing Yeh Beach, Cheung Chau Tung Wan Beach, Silver Mine Bay Beach and Pui O Beach in Islands District; and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches."
+多個泳灘懸掛紅旗,2025-06-15 10:16,2025-06-15 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500266.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（六月十五日）宣布，由於大浪關係，港島南區的南灣泳灘、深水灣泳灘、赤柱正灘泳灘、石澳泳灘及大浪灣泳灘；離島區的洪聖爺灣泳灘、長洲東灣泳灘、銀礦灣泳灘及貝澳泳灘；以及西貢區的清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Drone tech boosts efficiency,2025-06-15 10:02,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300742.htm,"  The Government recently launched the first batch of low-altitude economy Regulatory Sandbox pilot projects and under this framework, CLP Power's drone team began a beyond-visual-line-of-sight pilot scheme to inspect overhead lines at a test site in Sai Kung.
 
   News.gov.hk spoke to the company's representative to learn more about the details of its pilot scheme, while a Civil Aviation Department Operations Officer shared how the Government's legislative amendments can facilitate the development of a low-altitude economy in Hong Kong.
@@ -136,6 +136,23 @@ Drone tech boosts efficiency,2025-06-15 10:02,2025-06-15 10:15,Eng,gia,https://w
 中電和民航處代表早前接受《政府新聞網》訪問，介紹試點項目和政府推動低空經濟發展的修例工作。
 
 有關報道今日（六月十五日）以文字和短片方式上載至www.news.gov.hk/chi/feature。"
+InvestHK promotes Hong Kong's biotech edge at BIO International Convention 2025,2025-06-15 10:00,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300713.htm,"The Head of Innovation & Technology at Invest Hong Kong (InvestHK), Mr Andy Wong, will embark on a duty visit to the United States from tomorrow (June 16) to June 20 to engage with local biotech stakeholders, start-ups, investors and media with the aim of attracting more business and investment into Hong Kong.
+
+ A delegation of 16 Hong Kong life science and health technology companies will be joining InvestHK and the Hong Kong Science and Technology Parks Corporation (HKSTP) to the BIO International Convention 2025, the world's premier biotechnology event, running June 16 to 19 (Boston time) at the Boston Convention & Exhibition Center. This joint effort underscores the strong partnership between InvestHK and the HKSTP to promote Hong Kong's vibrant biotech ecosystem on a global stage.
+
+ At the Hong Kong pavilion, the delegation will showcase the city's unrivalled advantages and opportunities for American biotech companies seeking to expand into the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and Asia Pacific. InvestHK will connect with global industry pioneers, sharing insights and forging partnerships to spotlight Hong Kong's strategic strengths as a biotech powerhouse. Through dynamic presentations, one-on-one discussions, and interactive showcases, InvestHK will highlight the city's cutting-edge ecosystem, which is tailored to empower American biotech firms to thrive in Asia's fast-growing markets.
+
+ Associate Director-General of Investment Promotion at InvestHK Mr Charles Ng said, ""Amid a climate of global economic uncertainty and unprecedented challenges, businesses are increasingly focused on resilience, diversification, and innovation. Hong Kong, as a global biotech hub and one of the world's leading fundraising hubs for life science and biotech, offers unique advantages for American biotechnology companies. These include a top-tier academic research and talent pool, world-class research and development infrastructure, financial strength, robust intellectual property protection, high-quality clinical trial data and strong government commitment. All these make Hong Kong an ideal location for establishing a regional headquarters to expand into the GBA and Asia-Pacific region.""
+
+  The Chief Executive Officer of the HKSTP, Mr Albert Wong, said, ""The United States is the world's largest healthcare market. For technology companies to succeed in the US market, it is essential to understand how the local healthcare system operates and effectively communicates the unique value of their R&D capabilities to investors. The goal of this visit goes beyond seeking immediate investment - it is also about building long-term bridges between innovation ecosystems; offering a globally connected environment to exchange ideas, collaborate and scale. I expect the delegation will begin to see tangible results within the next 12 to 18 months.""
+
+ Hong Kong's biotech sector is driven by innovations such as smart hospitals and telehealth, addressing rising healthcare demands with sustainable solutions. The Hong Kong Special Administrative Region Government is enhancing the city's capabilities through the establishment of the InnoLife Healthtech Hub in the Hong Kong-Shenzhen Innovation and Technology Park. The 2024 Policy Address also introduced a HK$10 billion I&T Industry-Oriented Fund to channel investment into strategic industries, including life and health technology.
+
+ The GBA presents significant opportunities for American biotech firms. Designated GBA healthcare institutions can utilise Hong Kong-registered drugs and medical devices approved for public hospitals, with 51 drugs and 63 medical devices having been allowed by the Guangdong Provincial Medical Products Administration as of April 30, 2025. Additionally, the Listing Rules reform by the Hong Kong Exchanges and Clearing Limited has positioned it as a leading exchange for biotech initial public offerings, enabling pre-revenue biotech companies to list on the main board and access robust capital markets.
+
+ InvestHK has seen strong momentum in attracting innovation and technology (I&T) companies to establish or expand their presence in the city. In 2024, the number of I&T companies assisted by InvestHK rose to 120, up from 82 in 2023, making it the top-performing sector among all sectors supported by the department. This growth reflects both the increasing global confidence in Hong Kong's innovation ecosystem and the city's strategic role as a springboard for I&T businesses looking to access Mainland China and Asia-Pacific markets.
+
+ The BIO International Convention 2025 unites over 20 000 global industry leaders, representing virtually the entire biotechnology ecosystem. In an era of transformative discovery, biotechnology is revolutionising healthcare, agriculture, and environmental sustainability, offering hope and solutions to global challenges."
 警務處今起推行「交通定額罰款通知書」電子化（附圖）,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500303.htm,"警務處今日（六月十五日）正式推行「交通定額罰款通知書」（告票）電子化，以電子方式發出違例泊車及違例行車告票，並推出「電子交通告票平台」的專屬網站及流動應用程式，方便車主及司機查閱及處理告票。
 
 警務處將根據市民向運輸署提供已核實的電子聯絡方式發送電子告票——如提供香港流動電話號碼，會獲發短訊告票；如提供電郵地址，則獲發電郵告票。如違例人士未曾向運輸署提供已核實的電子聯絡方式，警務處會繼續以紙本方式發出告票。
@@ -172,23 +189,6 @@ BIO 2025國際生物科技大會匯聚超過二萬名全球業界領袖，幾乎
 「港車北上」第五十五輪電腦抽籤遞交申請六月十六日至十九日接受登記,2025-06-15 10:00,2025-06-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300452.htm,"運輸署今日（六月十五日）提醒市民，「港車北上」第五十五輪電腦抽籤遞交申請將由明日（六月十六日）上午十時至六月十九日晚上十一時五十九分接受登記，並於六月二十日公布抽籤結果。
 
 符合資格的「港車北上」申請人可透過指定網站（www.hzmbqfs.gov.hk）登記電腦抽籤。中籤者須在指定時間內遞交「港車北上」的申請。"
-InvestHK promotes Hong Kong's biotech edge at BIO International Convention 2025,2025-06-15 10:00,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300713.htm,"The Head of Innovation & Technology at Invest Hong Kong (InvestHK), Mr Andy Wong, will embark on a duty visit to the United States from tomorrow (June 16) to June 20 to engage with local biotech stakeholders, start-ups, investors and media with the aim of attracting more business and investment into Hong Kong.
-
- A delegation of 16 Hong Kong life science and health technology companies will be joining InvestHK and the Hong Kong Science and Technology Parks Corporation (HKSTP) to the BIO International Convention 2025, the world's premier biotechnology event, running June 16 to 19 (Boston time) at the Boston Convention & Exhibition Center. This joint effort underscores the strong partnership between InvestHK and the HKSTP to promote Hong Kong's vibrant biotech ecosystem on a global stage.
-
- At the Hong Kong pavilion, the delegation will showcase the city's unrivalled advantages and opportunities for American biotech companies seeking to expand into the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and Asia Pacific. InvestHK will connect with global industry pioneers, sharing insights and forging partnerships to spotlight Hong Kong's strategic strengths as a biotech powerhouse. Through dynamic presentations, one-on-one discussions, and interactive showcases, InvestHK will highlight the city's cutting-edge ecosystem, which is tailored to empower American biotech firms to thrive in Asia's fast-growing markets.
-
- Associate Director-General of Investment Promotion at InvestHK Mr Charles Ng said, ""Amid a climate of global economic uncertainty and unprecedented challenges, businesses are increasingly focused on resilience, diversification, and innovation. Hong Kong, as a global biotech hub and one of the world's leading fundraising hubs for life science and biotech, offers unique advantages for American biotechnology companies. These include a top-tier academic research and talent pool, world-class research and development infrastructure, financial strength, robust intellectual property protection, high-quality clinical trial data and strong government commitment. All these make Hong Kong an ideal location for establishing a regional headquarters to expand into the GBA and Asia-Pacific region.""
-
-  The Chief Executive Officer of the HKSTP, Mr Albert Wong, said, ""The United States is the world's largest healthcare market. For technology companies to succeed in the US market, it is essential to understand how the local healthcare system operates and effectively communicates the unique value of their R&D capabilities to investors. The goal of this visit goes beyond seeking immediate investment - it is also about building long-term bridges between innovation ecosystems; offering a globally connected environment to exchange ideas, collaborate and scale. I expect the delegation will begin to see tangible results within the next 12 to 18 months.""
-
- Hong Kong's biotech sector is driven by innovations such as smart hospitals and telehealth, addressing rising healthcare demands with sustainable solutions. The Hong Kong Special Administrative Region Government is enhancing the city's capabilities through the establishment of the InnoLife Healthtech Hub in the Hong Kong-Shenzhen Innovation and Technology Park. The 2024 Policy Address also introduced a HK$10 billion I&T Industry-Oriented Fund to channel investment into strategic industries, including life and health technology.
-
- The GBA presents significant opportunities for American biotech firms. Designated GBA healthcare institutions can utilise Hong Kong-registered drugs and medical devices approved for public hospitals, with 51 drugs and 63 medical devices having been allowed by the Guangdong Provincial Medical Products Administration as of April 30, 2025. Additionally, the Listing Rules reform by the Hong Kong Exchanges and Clearing Limited has positioned it as a leading exchange for biotech initial public offerings, enabling pre-revenue biotech companies to list on the main board and access robust capital markets.
-
- InvestHK has seen strong momentum in attracting innovation and technology (I&T) companies to establish or expand their presence in the city. In 2024, the number of I&T companies assisted by InvestHK rose to 120, up from 82 in 2023, making it the top-performing sector among all sectors supported by the department. This growth reflects both the increasing global confidence in Hong Kong's innovation ecosystem and the city's strategic role as a springboard for I&T businesses looking to access Mainland China and Asia-Pacific markets.
-
- The BIO International Convention 2025 unites over 20 000 global industry leaders, representing virtually the entire biotechnology ecosystem. In an era of transformative discovery, biotechnology is revolutionising healthcare, agriculture, and environmental sustainability, offering hope and solutions to global challenges."
 55th round of computer ballot registration for submitting applications for Northbound Travel for Hong Kong Vehicles to be open June 16 to 19,2025-06-15 10:00,2025-06-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061300455.htm,"The Transport Department today (June 15) reminded members of the public that the 55th round of computer ballot registration for submitting applications for Northbound Travel for Hong Kong Vehicles (the scheme) will be open from 10am tomorrow (June 16) to 11.59pm on June 19, and the ballot result will be announced on June 20.
 
 Eligible applicants for the scheme can register for computer balloting through the designated website (www.hzmbqfs.gov.hk). Successful balloting applicants are required to submit applications for the scheme within the designated application period."
@@ -207,14 +207,14 @@ SWD urges public not to take children/family members to care centres or services
 Please broadcast the following special announcement immediately, and repeat it at frequent intervals:
 
 ""Due to the issuing of Tropical Cyclone Warning Signal No. 3, the Social Welfare Department advises members of the public not to take their children or family members to services units providing after school care programmes for primary school children or elderly services centres. Those centres and services units that normally operate on Sundays and public holidays will, however, remain open to serve those whose families cannot provide alternative care for them. Members of the public who have the need for the services mentioned may contact the centres or services units concerned and confirm their operation hours in advance."""
+幼稚園及部分特殊學校停課,2025-06-15 05:00,2025-06-15 05:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500136.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
+
+由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
 Classes of kindergartens and some special schools are suspended,2025-06-15 05:00,2025-06-15 05:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500138.htm," Attention TV and radio duty announcers:
 
  Please broadcast the following special announcement by the Education Bureau concerning schools, and repeat it at suitable intervals:
 
 As the Tropical Cyclone Warning Signal no. 3 is now in force, classes of kindergartens, schools for children with physical disability and schools for children with intellectual disability are suspended today."
-幼稚園及部分特殊學校停課,2025-06-15 05:00,2025-06-15 05:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500136.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
-
-由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
 HK's drinking water testing programme conducted in strict compliance with international standards,2025-06-15 00:14,2025-06-15 00:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/15/P2025061500009.htm,"  In response to a media report about impurities found in drinking water samples from various districts, a spokesman for the Development Bureau pointed out that the tests mentioned in the report were not conducted in strict compliance with the international standards adopted by Hong Kong's drinking water testing programme.
 
 The spokesman said that, as understood, the media organisation had mainly collected samples of impurities from aerators of water taps (commonly known as strainers), and then placed the samples into water for laboratory testing. Aerators are a kind of filter accessory commonly installed at household water taps and shower heads to help block impurities. The presence of impurities in the samples is simply a result of the function of the strainer, and is not abnormal. In the past, the Water Supplies Department (WSD) had received similar inquiries, and staff members were deployed immediately to conduct onsite inspection, arrange flushing of consumers' water meter, remind consumers to cleanse the strainers, and check if there were any irregularities in water quality. If there was a suspected water quality issue, the WSD would collect drinking water samples for testing and notify consumers about the results. In fact, only a few of such cases required water sample testing in the past three years, and testing results showed that the water samples complied with Hong Kong Drinking Water Standards (HKDWS).
