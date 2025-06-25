@@ -1,48 +1,537 @@
 title,date,scrape_time,section,source,url,news_content
-立法會十六題：救生員人手,2025-06-25 11:05,2025-06-25 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500304.htm,"以下是今日（六月二十五日）在立法會會議上陳學鋒議員的提問和文化體育及旅遊局局長羅淑佩的書面答覆：
+立法會二十二題：科技券計劃,2025-06-25 11:30,2025-06-25 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500294.htm,"以下是今日（六月二十五日）在立法會會議上謝偉俊議員的提問和創新科技及工業局局長孫東教授的書面答覆：
 
 問題：
 
-據悉因救生員人手不足，一些康樂及文化事務署（康文署）轄下刊憲泳灘（包括獲香港旅遊發展局（旅發局）在網頁推介為水上運動人氣熱點，位於大嶼山的長沙泳灘（包括上長沙泳灘和下長沙泳灘））未能在泳季提供救生員服務。就此，政府可否告知本會：
+創新科技署於二○一六年推出科技券計劃（該計劃），以配對形式，資助企業透過使用科技，提高生產力。據報，該計劃自推出至今，合共批出近35 000個項目，總資助額逾62億元公帑，惟當中多個項目發現有懷疑濫用申請情況，包括：（i）同名人士註冊不同公司，重複申領資助研發相同項目、（ii）有近2 000個項目及逾1 000個項目分別獲批相同資助金額（該等款額準確至小數點後一個位，有經濟學者形容數字在「統計學上較奇怪」）、（iii）部分申請公司懷疑沒有實質營運或已倒閉，以及（iv）批出項目完成開發的時間存疑（例如有個案兩日內極速完成網站更新及研發手機應用程式，獲批18萬元資助；亦有公司以27日完成「智能人體模型量度系統」，獲批48萬元資助）等，令人質疑該計劃存在監管漏洞。就此，政府可否告知本會：
 
-（一）過去三年，因救生員人手不足而令整個泳季未能提供救生服務的康文署轄下刊憲泳灘為何，並按全港18區以表列出分項數字；
+（一）過去三年，當局有否就該計劃批出的資助項目進行抽查；如有，抽查的宗數及內容為何，以及當中懷疑濫用及確定為濫用的申請個案數目為何；如否，會否因應上述傳媒報道，盡快啓動調查；
 
-（二）鑑於康文署在泳季期間（即四月至十月）每日上午九時至下午六時在其轄下刊憲泳灘提供救生服務，去年因救生員人手不足而突然關閉半天或以上的刊憲泳灘及其關閉總日數分別為何；
+（二）就該計劃的每宗濫用甚或涉及詐騙公帑資助的申請個案，當局有何實際跟進行動，以及就該等個案成功追回及未能追回的資助金額分別為何；
 
-（三）鑑於面對救生員人手短缺問題，康文署由去年九月起試行外判公眾泳池的救生及急救服務，政府有否研究將較有潛力發展水上活動的泳灘外判予私營團體營運，包括提供水上活動設施、租賃太陽傘，以及提供救生及急救服務等；若有研究，詳情為何；若否，原因為何；及
+（三）鑑於上述報道指出，該計劃下部分獲資助公司收到資助後短時間內倒閉，當局有何措施杜絕有關情況；會否要求獲批資助企業，定期提交獲資助的科技項目／系統使用數據以作監察；及
 
-（四）當局會否做好協調工作，以避免獲旅發局推介的泳灘因救生員人手不足而暫時關閉（例如長沙泳灘在過去兩個泳季均未能提供救生員服務），影響旅客的體驗？
+（四）當局會否全盤檢視該計劃推行至今的成效為何；如會，詳情為何；如否，原因為何；有否評估已申領資助的企業，經提升科技水平後，實際提升了多少生產力、競爭力及經營回報？
 
 答覆：
 
 主席：
 
-康樂及文化事務署（康文署）一直積極透過不同措施，包括提高季節性救生員薪酬和增加聘用程序的彈性等，以多管齊下的方式增加和穩定救生員的人手供應。在泳季期間（即每年四月至十月），除公務員救生員外，康文署會聘請季節性救生員協助提供救生服務，並會靈活調配現職救生員和其他資源，以盡量維持42個刊憲泳灘的服務。
+就謝偉俊議員的提問，現綜合回覆如下：
 
-就陳學鋒議員的提問，我現回覆如下：
+政府已於二○二四年十二月三十一日停止接受「科技券」申請。為保障公帑運用得宜，由香港生產力促進局擔任的科技券計劃秘書處（秘書處）一直嚴謹審查申請者提交的申請書、項目最終報告及補充資料，並且對個別項目進行實地抽查，以確保申請符合資格及項目成果符合相關規定。每個申請者在提交「科技券」申請時都必須提供證明文件，充分證明其在香港有實質業務運作，有關文件包括業務運作、財務運作及僱用員工等各方面的資料。就所有可疑個案，創新科技署會即時暫緩處理有關個案及停止發放任何撥款，並會轉交執法部門跟進。
 
-（一）在二○二二年至二○二四年期間，因救生員人手不足而整個泳季未能提供救生服務的刊憲泳灘載列於附件。市民仍可在未能提供救生服務的刊憲泳灘享受日光浴和使用其他設施。
+經秘書處嚴謹審查後，每宗合資格的「科技券」申請均會按個別情況予以評審和考慮。根據「科技券」申請指南，「科技券計劃委員會」（委員會）／秘書處在評審過程中會參照所知悉的有關技術的市場價格，評估項目預算是否合理。如申請原則上值得支持而項目預算高於評估價格，秘書處會參考委員會核准的項目成本，以模組化方式（modules）調整資助金額。因此，性質與規模相近的項目／科技方案（例如「企業資源規劃系統」），在經上述調整後，其獲批金額會出現相同情況。此外，由於獲資助金額按資助比例計算，計算後可能會出現「零頭」數字。
 
-（二）在二○二四年並沒有刊憲泳灘因救生員人手不足而臨時關閉游泳設施半天或以上。
+就獲批項目是否如實推行，「科技券」計劃設有嚴格的核查機制。申請者須根據獲批的申請及資助協議推展項目，並在項目完成後向秘書處提交項目最終報告，以及項目成果證明（如實物的相片、系統截圖）、每個開支項目的付款發票及相應收據、由獨立審計師編製的經審計項目收支表（如核准資助額超過五萬港元）／申請者擬備的最後收支表（如核准資助額為五萬港元或以下），以供秘書處查核。秘書處亦會隨機對個別項目進行實地抽查，要求申請者即場示範使用已建立的科技方案以核實是否符合核准申請書及「科技券」計劃的規定。就問題中引述報導提及有「進度問題」的個案為例，最終報告未能通過秘書處的審查，均不獲發資助款項。
 
-（三）在二○二四年九月，康文署在六個公眾游泳池試行為期兩年的外判救生及急救服務計劃，是其中一個增加和穩定救生員人手供應的措施。計劃試行至今約九個月，外判服務承辦商一直能提供穩定的服務。康文署會繼續檢視及評估計劃的推行情況。
+根據「科技券」計劃資助協議，申請者須在項目期結束後保留相關硬體及軟體至少一年，以及在項目完成後七年內為項目備存一套妥善及獨立的帳簿和記錄以供核查。秘書處會抽查申請者是否遵守有關規定。
 
-現時，在康文署管理的42個刊憲泳灘中，超過一半已設有由企業或團體作商業營運的設施，包括小食亭、快餐亭、餐廳和獨木舟訓練中心等。經營者現時有提供銷售或出租業務（包括出租太陽傘、沙灘椅和救生圈等），以方便泳客。至於外判泳灘救生及急救服務的可行性，康文署會考慮一籃子因素，包括上文提及的外判救生及急救服務計劃的結果及經驗、公眾使用泳灘的習慣和泳客的安全保障等。康文署會繼續與各持份者積極溝通，攜手為公眾提供更優質的康樂體驗。
+過去三年，秘書處共對1 860個項目進行了實地抽查，以及將共15宗懷疑個案轉交給執法部門跟進。秘書處會向案件中被定罪的申請者追討資助款項，由於執法部門的調查工作／司法程序仍在進行中，我們暫時沒有追討相關款項的記錄。
 
-（四）在決定為哪些刊憲泳灘提供全面的救生服務時，康文署考慮多個因素，包括泳客人流、泳灘鄰近的配套設施，以及區議會和社區的意見和需求等。
+為評估「科技券」對獲資助企業／機構的成效，我們要求企業／機構在項目完成六個月後提交評估報告，評估項目是否能達至提高生產力或將業務流程升級轉型。截至二○二四年底，已完成項目的獲資助企業／機構中有8587個已向秘書處提交評估報告，當中99%認為項目有助增強其競爭力，具體成效包括節省人手、時間及／或成本，增加營業額，以及升級／轉型／簡化業務流程等。
 
-至於一些暫未提供全面救生服務的泳灘，市民和遊客仍可享受在泳灘進行多元化的休閒活動，例如散步、堆沙和日光浴等，並使用泳灘上的小食亭服務、燒烤爐、遊樂場和沙灘排球場等設施。
+政府在二○二四年對「科技券」進行全面檢討，認為計劃已達至其最初設立的目的，加上近年來政府持續加強對不同行業的支援，多個政策局及部門因應各行業的具體情況或業務需要分別推出了更具針對性的資助計劃，因此決定在二○二四年十二月三十一日後停止接受「科技券」的新申請。
 
-康文署會繼續監察各泳灘的情況，並與相關持份者（包括香港旅遊發展局）保持緊密聯繫和協調，為市民和旅客提供合適安排。"
-康文署舉辦「全民運動日2025」　歡迎巿民參與,2025-06-25 11:05,2025-06-25 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062400245.htm,"​為推廣「普及體育」，康樂及文化事務署（康文署）將於八月三日（星期日）舉行「全民運動日2025」，歡迎市民參與。
+秘書處會繼續檢視及優化「科技券」的核查程序以處理尚未完成的個案。因應二○二四年十二月三十一日截止日期前收到大量申請，秘書處已採取嚴謹的核查程序，要求申請者提供一系列文件證明具有實質性業務，採購程序符合要求，以及建議科技方案的預算和其他細節為合理及切實可行等。秘書處會繼續就每宗申請嚴謹審查申請者提交的文件，以保障公帑運用得宜。"
+​「新型工業加速計劃」第三個項目獲評審委員會支持及「新型工業化資助計劃」推出優化措施,2025-06-25 11:30,2025-06-25 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500312.htm,"創新科技署（創科署）今日（六月二十五日）宣布，「創新及科技基金」下「新型工業評審委員會」（評審委員會）已支持一宗由杰立方半導體（香港）有限公司提交的「新型工業加速計劃」（「加速計劃」）申請。項目計劃建立第三代半導體碳化矽晶圓生產設施，屬先進製造科技領域。該申請是「加速計劃」第三個獲評審委員會支持的項目，總預算金額超過七億元，預計「加速計劃」資助金額為二億元。
 
-康文署積極倡導「日日運動半個鐘健康快樂人輕鬆」，鼓勵不同年齡和能力的市民恆常參與體育及體能活動。今年，香港首次與廣東省及澳門特別行政區共同承辦「第十五屆全國運動會」（全運會）和「全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會」（殘特奧會），「全民運動日」因此以「全城齊運動全民撐全運」為主題，與巿民一起響應國家體育盛事。
+同時，為加大力度支持企業在本地進行智能生產和把握市場機會，創科署再就「新型工業化資助計劃」推出優化措施。在優化措施下，申請資助額280萬元以下的項目，將按新訂立的簡化評審程序處理，以加快審批申請項目的流程。
 
-八月三日活動當日，康文署將開放轄下多項康樂設施予市民免費使用，包括室內羽毛球場、排球場、籃球場、壁球場、乒乓球枱、健身室、活動室及舞蹈室等；戶外網球場、草地滾球場、射箭場和高爾夫球設施等；公眾游泳池及水上活動中心（租用艇隻）。全港十八區指定體育館亦將於當日（下午二時至六時）舉辦一系列免費康體活動，重點推廣多項全運會和殘特奧會項目，例如高爾夫球、擊劍、七人制欖球和鐵人三項等。活動包括健體閣、健康講座，以及適合親子、兒童、青少年、長者和殘疾人士一同參與的體育示範及同樂項目等。有關預訂免費康樂設施和派發免費康體活動券的安排，將於七月中公布。
+創新科技及工業局局長孫東教授表示：「政府積極推進新型工業化的發展，透過『新型工業化資助計劃』及『加速計劃』，為香港經濟注入新動力。我們很高興企業利用這兩項計劃的資助，在香港建立新的智能生產設施。獲資助企業將相關產品製造的技術與專業知識帶入香港，推動香港新型工業及多元經濟的發展。」
 
-在社區進一步推廣「普及體育」，康文署繼續與中國香港體育協會暨奧林匹克委員會（港協暨奧委會）合作，並聯同中國香港殘疾人奧委會（殘奧會），在「全民運動日2025」主場館舉辦同樂活動。多間機構將於八月三日開放場地設施或舉辦康體活動讓免費巿民參與。「全民運動日」專題網頁（www.lcsd.gov.hk/tc/sfad）會提供所有活動的最新資訊。
+政府於二○二四年九月推出「加速計劃」，為從事策略性產業（即生命健康科技、人工智能與數據科學，以及先進製造與新能源科技），並投資不少於兩億元在香港設立新智能生產設施的企業，以一（政府）：二（企業）的配對形式提供資助。就每個申請項目而言，總項目成本最少為三億元。每家企業在「加速計劃」下資助總額上限為二億元。此外，政府為在「加速計劃」下獲批項目的企業聘用研究人才提供額外資助，以鼓勵它們在香港進行研發或擴大其研發規模，以及讓有關企業聘用設立或營運新生產設施所需的非本地人才。
 
-「全民運動日2025」的協辦機構包括港協暨奧委會、殘奧會、衞生署、香港中文大學運動醫學團隊、香港中文大學運動醫學及健康科學舊生會，以及中國香港體適能總會。"
+「新型工業化資助計劃」以一（政府）：二（企業）的配對形式，資助生產商在港設立新智能生產線，每個項目的最高資助額為項目總支出的三分之一或1,500萬元，金額以較低者為準。每間企業於計劃下可同時進行最多三個項目以獲取合計最多共4,500萬元的資助。
+
+「加速計劃」及「新型工業化資助計劃」全年接受申請，詳情載於「創新及科技基金」網頁（www.itf.gov.hk）。如有查詢，請聯絡計劃的秘書處（電話：3655 5678；電郵：enquiry@itf.gov.hk）。"
+Third application announced under New Industrialisation Acceleration Scheme supported by Vetting Committee and enhancement measure launched for New Industrialisation Funding Scheme,2025-06-25 11:30,2025-06-25 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500315.htm,"The Innovation and Technology Commission (ITC) announced today (June 25) that the New Industrialisation Vetting Committee under the Innovation and Technology Fund has supported an application submitted by J Cube Semiconductor (Hong Kong) Limited under the New Industrialisation Acceleration Scheme (NIAS). The project plans to set up third-generation semiconductor silicon carbide wafer production facilities, which fall under the advanced manufacturing technology sector. This is the third NIAS project supported by the Vetting Committee. The estimated total cost of the project is over $700 million, and the expected NIAS funding amount will be $200 million.
+
+At the same time, to further support enterprises in adopting smart manufacturing and to seize market opportunities, the ITC has introduced an enhancement to the New Industrialisation Funding Scheme (NIFS). For NIFS applications seeking funding support of no more than $2.8 million, they will be processed according to the newly established streamlined procedures to speed up the process of approving NIFS applications.
+
+The Secretary for Innovation, Technology and Industry, Professor Sun Dong, said, ""The Government actively promotes the development of new industrialisation through the NIAS and the NIFS, injecting new impetus into Hong Kong's economy. We are pleased that enterprises are making use of the funding support from these two schemes to set up new smart production facilities in Hong Kong. Funded enterprises will bring to Hong Kong the relevant technologies and expertise of product manufacturing, driving the development of Hong Kong's new industrialisation and diversified economy.""
+
+The Government launched the NIAS in September 2024. The NIAS provides funding support on a 1 (Government): 2(enterprise) matching basis for enterprises engaging in industries of strategic importance (i.e. life and health technology, AI and data science, advanced manufacturing and new energy technologies) and contributing no less than $200 million to setting up new smart production facilities in Hong Kong. For each project, the minimum total project cost is $300 million. Each enterprise can receive up to $200 million of funding under the NIAS. In addition, the Government encourages enterprises with approved projects under the NIAS to carry out research or increase their scale of research in Hong Kong by providing additional funding for them to engage research talent, as well as facilitating such enterprises in employing non-local talent required for setting up or operating the new production facilities in Hong Kong.
+
+The NIFS aims to subsidise manufacturers on a 1 (Government): 2 (enterprise) matching basis to set up new smart production lines in Hong Kong. The funding ceiling for each project is one-third of the total project cost or $15 million, whichever is lower. Each enterprise can carry out up to three projects concurrently to receive a maximum total funding of up to $45 million under the NIFS.
+
+The NIAS and the NIFS are open for applications throughout the year. Details are available on the website of the Innovation and Technology Fund (www.itf.gov.hk). For enquiries, please contact the Secretariat of the schemes (Tel: 3655 5678; email: enquiry@itf.gov.hk)."
+LCQ22: Technology Voucher Programme,2025-06-25 11:30,2025-06-25 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500299.htm,"  Following is a question by the Hon Paul Tse and a written reply by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, in the Legislative Council today (June 25):
+
+Question:
+
+ The Innovation and Technology Commission (ITC) launched the Technology Voucher Programme (TVP) in 2016 to subsidise enterprises in using technological services on a matching basis to enhance their productivity. It has been reported that since the launch of TVP, a total of nearly 35 000 projects involving a total of over $6.2 billion of public funding have been approved. However, suspected abuse cases have been found in a number of projects, including: (i) individuals with the same name registering with different companies and repeatedly applying for subsidies for the research and development of the same projects, (ii) nearly 2 000 projects and over 1 000 projects being approved with the same funding amount (accurate to one decimal place and some economists have described the figures as rather ""statistically odd""), (iii) some applicant companies are suspected of having no actual operational activity or having already closed down, and (iv) there are doubts about the time taken to complete the development of the approved projects (e.g. $180,000 was granted to a company that updated its website and developed its mobile phone application in a speedy manner within two days; there was also a case in which a company developed an ""Intelligent Anatomical Model Measurement System"" in 27 days and was granted $480,000), etc. This has aroused suspicion that there are loopholes in the monitoring of TVP. In this connection, will the Government inform this Council:
+
+(1) whether the authorities have conducted random checks for subsidised projects granted under TVP in the past three years; if so, of the number and content of the random checks conducted and, among them, the respective numbers of applications suspected and confirmed to be abusive; if not, whether it will expeditiously activate the investigations in the light of the aforesaid media reports;
+
+(2) in respect of each application involving abuse of public subsidies or even fraud under TVP, of the follow-up actions actually taken by the authorities and the respective amounts of subsidies successfully and unsuccessfully recovered in such cases;
+
+(3) as the aforesaid reports have pointed out that some companies funded under TVP closed down shortly after receiving grants, of the measures put in place by the authorities to eradicate this situation; whether enterprises receiving approved grants will be required to regularly submit data on the use of technology projects/systems for monitoring purposes; and
+
+(4) whether the authorities will conduct a comprehensive review of TVP's effectiveness since its implementation; if so, of the details; if not, the reasons for that; whether they have assessed the actual increase in productivity, competitiveness and entrepreneurial return achieved by enterprises that applied for subsidies after upgrading their technological level?
+
+Reply:
+
+President,
+
+ In response to the Hon Paul Tse's question, our consolidated reply is as follows:
+
+ The Government ceased accepting new applications for the Technology Voucher Programme (TVP) after December 31, 2024. To ensure proper use of public funds, the Hong Kong Productivity Council as the TVP Secretariat (the Secretariat) has been rigorously reviewing the applications, final project reports and supplementary information submitted by the applicants, and conducting random on-site checks on individual projects in order to ensure that the applications are eligible for funding and that the project deliverables conform to relevant requirements. When submitting TVP applications, every applicant must provide documentary evidence proving its substantive business operations in Hong Kong. Relevant documents include information on business operations, financial operations and employment. If any suspicious cases are identified, Innovation and Technology Commission will immediately withhold processing the relevant cases, cease disbursing any payments, and refer them to law enforcement agencies for follow-up.
+
+ After rigorous review by the Secretariat, each eligible TVP application will be assessed based on individual merits and considered on a case-by-case basis. According to the TVP Guidance Notes, the TVP Committee/the Secretariat will assess whether the project budget is reasonable by making reference to market prices of the technologies as known to them. If a project is worthy of support in principle but the project budget is higher than the estimated price, the Secretariat will, on a modular basis, adjust the level of funding with reference to the project cost approved by the TVP Committee. Therefore, projects/technological solutions of similar nature and scale (e.g. Enterprise Resource Planning System) will have the same approved amounts after the aforementioned adjustments. In addition, since the amount of funding is calculated on the basis of the funding ratio, there may be odd cents after the calculation.
+
+ TVP has established rigorous checking mechanism to verify whether the approved projects are implemented. Applicants are required to implement the project in accordance with the approved application and funding agreement, and submit a final project report to the Secretariat upon completion of the project, together with evidence of deliverables (such as hardware photos and system screen captures), copy of invoice(s) and corresponding receipt(s) in relation to the payment for each expenditure item, an audited statement of income and expenditure for the project from an independent auditor (if the approved funding exceeds HK$50,000)/a final income and expenditure statement prepared by the applicant (if the approved funding is HK$50,000 or below). The Secretariat will also conduct random on-site checks on individual projects, requiring applicants to demonstrate the developed technological solutions on the spot so as to verify whether they comply with the requirements of the approved application and the TVP. Taking the cases with ""progress issues"" mentioned by media report and quoted in the question as an example, the final reports failed to pass the Secretariat's assessment and no funding was disbursed.
+
+ According to the TVP funding agreement, applicants are required to keep the relevant hardware and software for at least one year after project completion, and keep a proper and separate set of books and records for the project for seven years after project completion for checking. The Secretariat will conduct random checks on applicants to see if they comply with the relevant requirements. 
+
+ In the past three years, the Secretariat has conducted random on-site checks on 1860 projects and referred 15 suspicious cases to law enforcement agencies for follow-up. The Secretariat will recover the funding from applicants convicted in the cases. As the investigations/judicial proceedings by the law enforcement agencies are still ongoing, we have no record of funding recovery for the time being.
+
+ To assess the effectiveness of the TVP on the funded enterprises/organisations, we require enterprises/organisations to submit evaluation reports six months after project completion on whether the project could achieve the objectives of improving productivity, or upgrading or transforming their business processes. As at end-2024, 8587 of the funded enterprises/organisations with completed projects had submitted evaluation reports to the Secretariat. Ninety-nine per cent of them were of the view that the projects were conducive to enhancing their competitiveness. Specific benefits include saving manpower, time and/or cost, increasing revenue, and upgrading/transforming/streamlining business processes.
+
+ The Government conducted a fundamental review on the TVP in 2024 and considered that the programme has achieved its original intent. In recent years, the Government has continued to strengthen support measures for different industries, and many bureaux and departments have introduced more targeted funding schemes dedicated to the specific conditions or operational needs of individual industries. It was therefore decided that TVP would cease accepting new applications after December 31, 2024.
+
+The Secretariat will continue to review and enhance the vetting procedures of TVP so as to process the outstanding cases. In view of the large number of applications received before the deadline on December 31, 2024, the Secretariat has adopted a stringent vetting approach, requiring applicants to provide documents to prove that they have substantive business operations, the procurement procedures meet the requirements, and the budget and other details of the proposed technological solutions are reasonable and realistic. The Secretariat will continue to rigorously review the documents submitted by applicants for each application to ensure proper use of public funds."
+立法會十二題：非牟利機構的稅務優惠及補貼政策,2025-06-25 11:25,2025-06-25 11:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062400470.htm,"以下是今日（六月二十五日）在立法會會議上狄志遠議員的提問和署理財經事務及庫務局局長陳浩濂的書面答覆：
+
+問題：
+
+本財政年度的《財政預算案》提出削減政府經常開支，由二○二四／二○二五年度至二○二七／二○二八年度的累計減幅為百分之七，而獲政府資助的非牟利機構的資源亦被削減。有意見認為，有關情況令社福資源出現嚴重緊絀，使弱勢社群經常未能得到適切服務。就此，政府可否告知本會：
+
+（一）據悉在現行安排下，部分獲政府資助的非牟利機構仍需繳納稅項（包括物業稅或利得稅），政府有否評估該等稅務負擔會否導致相關機構出現進一步的財政困難；若有，評估結果為何；
+
+（二）過去五年，政府從獲資助的非牟利機構徵收的稅收總額為何，以及當中包括哪些稅項；
+
+（三）有否檢視，現行《稅務條例》（第112章）對非牟利機構的稅務安排是否合適；政府會否考慮檢討相關條例，以為非牟利機構提供更明確或進一步的稅務豁免；
+
+（四）除根據第112章所提供的稅務寬減措施外，政府現時有否其他行政安排減輕非牟利機構的稅務負擔（例如為其繳交部分稅項及提供相關補貼）；若有，涵蓋的範圍為何；若否，會否考慮提供相關行政措施；及
+
+（五）政府會否參考其他地區對非牟利機構的稅務優惠或補貼政策，並引入相關措施，以減輕香港非牟利機構的稅務負擔並提升其運作效率？
+
+答覆：
+
+主席︰
+
+政府秉持審慎理財的原則，在二○二五至二六年度《財政預算案》提出強化財政整合計劃，以節流、善用政府財政資源，以及開源作為重點。政府的原則是以嚴格控制政府開支為主，開源為輔，並盡量減低對一般市民的影響。因此，政府在加大政策局和部門在「資源效率優化計劃」的節流力度時，是以維持公共服務效率，以及不影響綜合社會保障援助、公共福利金及法定開支作為前提。所有政策局和部門均獲提供彈性，在善用公帑的前提下，可按本身工作優次整合資源，以更具成本效益的方式為市民提供服務。
+
+就狄志遠議員的提問，經諮詢稅務局及相關政策局後，我綜合回覆如下：
+
+根據《稅務條例》（第112章）（《條例》），任何人士（包括法團、合夥業務、受託人或團體）在香港經營業務而從該業務獲得於香港產生或得自香港的應評稅利潤（售賣資本資產所得的利潤除外），均須繳納利得稅。此外，物業業主如因出租本港物業而收取租金，亦須繳納物業稅。任何團體如在某課稅年度內有上述利潤或租金收入，均需按照《條例》繳交稅款，該機構有否獲得政府津助，並非稅務局徵稅的考慮因素。
+
+根據《條例》第88條的規定，屬公共性質的慈善機構及信託（即慈善團體）如就經營行業或業務符合某些條件，可獲豁免繳付利得稅。然而《條例》並無給予慈善機構全面稅務豁免。舉例而言，如出租物業或經營旅館構成某慈善機構的業務之一，但相關業務並不是在實際貫徹有關機構明文規定的宗旨時經營的，或與該行業或業務有關的工作並非主要由有關機構的受益人進行，所得利潤則應繳付利得稅。另外，非牟利機構不一定是慈善團體，而《條例》中並無給予非牟利機構豁免繳稅的條文。稅務局亦沒有就獲資助的非牟利機構繳交的稅款備存分項數字。
+
+各政策局和部門不時委聘非政府機構提供公共服務，以達至其政策目標。政策局和部門可按其政策考量和需要決定所委託機構的性質，當中可包括商業機構、非牟利機構或慈善團體；以及為這些非政府機構提供資源的方式或準則。
+
+例如，社會福利署（社署）會向非政府機構提供津助以營辦不同類型社會服務。為支援這些機構落實「資源效率優化計劃」，政府已推出一系列支援措施，包括：分擔機構的部分財政影響、增加機構運用整筆撥款儲備的彈性、優化《津貼及服務協議》及多項減省機構行政工作的安排等。同時，社署亦豁免削減18個福利項目的開支，避免影響弱勢社群，以及減輕對服務營辦機構造成的影響。
+
+政策局和部門會留意其相關非政府機構在提供服務時的財政情況，在有需要時給予意見或支援。"
+LCQ12: Tax concessions and subsidy policies for non-profit organisations,2025-06-25 11:25,2025-06-25 11:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062400474.htm,"  Following is a question by Dr the Hon Tik Chi-yuen and a written reply by the Acting Secretary for Financial Services and the Treasury, Mr Joseph Chan, in the Legislative Council today (June 25):
+
+Question:
+
+ The Budget for the current fiscal year has proposed to cut recurrent government expenditure by a cumulative seven per cent from 2024-2025 to 2027-2028, and resources for non-profit organisations subsidised by the Government have also been reduced. There are views that the relevant situation has led to severe shortage in social welfare resources, rendering the underprivileged groups always unable to receive appropriate services. In this connection, will the Government inform this Council:
+
+(1) it is learnt that, under the current arrangements, some government-subsidised non-profit organisations are still required to pay taxes (including property tax or profits tax), whether the Government has assessed if such tax burdens may lead to further financial difficulties for such organisations; if the Government has, of the assessment results;
+
+(2) of the total amount of taxes collected by the Government from subsidised non-profit organisations over the past five years, and the types of taxes included;
+
+(3) whether it has examined if the current tax arrangements for non-profit organisations under the Inland Revenue Ordinance (Cap. 112) are appropriate; whether the Government will consider reviewing the relevant legislation to provide non-profit organisations with clearer or further tax exemptions;
+
+(4) apart from the tax relief measures provided under Cap. 112, whether the Government currently has other administrative arrangements in place to alleviate the tax burdens on non-profit organisations (e.g. paying part of their taxes or providing relevant subsidies); if so, of the scope of such arrangements; if not, whether it will consider introducing relevant administrative measures; and
+
+(5) whether the Government will refer to tax concessions or subsidy policies for non-profit organisations in other regions and introduce relevant measures to minimise the tax burdens on non-profit organisations in Hong Kong and enhance their operational efficiency?
+
+Reply:
+
+President,
+
+ To uphold the principles of fiscal prudence, the Government put forward a reinforced fiscal consolidation programme in the 2025-26 Budget. The key is managing expenditure growth, making good use of the Government's fiscal resources, and identifying new revenue resources. The Government's principle is to focus on strictly controlling government expenditure, supplemented by increasing revenue, and minimising the impact to the general public. Hence, in stepping up the efforts of bureaux and departments (B/Ds) in cutting their expenditure under the Productivity Enhancement Programme (PEP), the Government's premises are to maintain the efficiency of public services and that the Comprehensive Social Security Assistance, Social Security Allowance and statutory expenditure will not be affected. All B/Ds have been provided with the flexibility to, on the basis of optimising the use of public funds, rationalise their resources according to their work priorities and provide services to the public in a more cost-effective manner.
+
+ Regarding the question raised by Dr the Hon Tik Chi-yuen, having consulted the Inland Revenue Department (IRD) and relevant bureaux, our consolidated reply is as follows:
+
+ Under the Inland Revenue Ordinance (Cap. 112) (IRO), persons, including corporations, partnerships, trustees and bodies of persons, carrying on any business in Hong Kong are chargeable to profits tax on all profits (excluding profits arising from the sale of capital assets) arising in or derived from Hong Kong from such business. Besides, property owners who received rent from leasing out their properties in Hong Kong are subject to property tax. Any organisation having such profits or rents in a year of assessment is required to pay tax in accordance with the IRO. Whether the organisation has received Government subventions is not a factor for IRD to consider when imposing taxes.
+
+ Under section 88 of the IRO, charitable institutions and trusts of a public character (i.e. charities) are exempt from profits tax subject to the fulfilment of certain conditions in relation to the trade or business carried on by them. However, the IRO does not accord full tax exemption to charities. For example, if property letting or hostel operation forms part of the charity's business and such business is not exercised in the course of the actual carrying out of the expressed objects of the relevant charity, or the work in connection with the trade or business is not mainly carried on by persons for whose benefit the charity is established, the profits derived shall be subject to profits tax. In addition, a non-profit-making organisation is not necessarily a charity and there is no provision in the IRO which exempts a non-profit-making organisation from tax. IRD does not maintain statistical breakdown of tax collected from subvented non-profit-making organisations.
+
+ B/Ds engage non-governmental organisations (NGOs) from time to time to provide public services to meet their policy objectives. B/Ds may decide on the nature of organisation to be engaged, which may include commercial institutions, non-profit-making organisations or charities, according to their policy considerations and needs, and decide on the mode or criteria for the provision of resources to these NGOs.
+
+ For example, the Social Welfare Department (SWD) will provide subvention to NGOs to operate different types of social services. To support these subvented organisations in implementing the PEP, the Government has already introduced a series of support measures, which include alleviating some of the financial burden on NGOs, increasing NGO's flexibility in utilising Lump Sum Grant Reserve, refining Funding and Service Agreements, and implementing various arrangements to reduce NGOs' administrative workload, etc. At the same time, the SWD has exempted 18 welfare programmes from expenditure reductions to avoid affecting the underprivileged and to mitigate the impact on service operators.
+
+ B/Ds will keep in view the financial situation of their relevant NGOs in the delivery of services and provide advice or support when necessary."
+立法會十九題：防止狗隻便溺弄污公眾地方及街道,2025-06-25 11:20,2025-06-25 11:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500283.htm,"以下是今日（六月二十五日）在立法會會議上陳家珮議員的提問和環境及生態局局長謝展寰的書面答覆︰
+
+問題：
+
+現時食物環境衞生署及漁農自然護理署均有就帶狗人士清理狗隻於公眾地方及街道的便溺制訂指引。然而，有意見認為，該等指引所列出的清理方法有欠完善，例如建議帶狗人士只用紙張包裹狗隻糞便然後放進垃圾箱或狗糞收集箱，以及僅以清水沖洗地面，均未能有效清理狗隻便溺及其殘留臭味，影響市容。就此，政府可否告知本會：
+
+（一）過去三年，每年因容許狗隻（i）糞便弄污街道或公眾地方，以及（ii）便溺弄污建築物公用部分而遭罰款的個案數目和罰款總額分別為何；
+
+（二）過去三年，每年當局就狗隻隨處便溺問題所進行的突擊行動次數（按全港18區列出）；
+
+（三）鑑於現時法例未有就帶狗人士容許狗隻小便而弄污街道訂下罰則，政府有否計劃修例以作規管；及
+
+（四）當局有否計劃更新清理狗隻便溺的指引（例如指示帶狗人士使用有除臭及去漬作用的清潔劑沖洗狗隻便溺的地方）；如有，詳情為何；如否，原因為何？
+
+答覆：
+
+主席：
+
+根據《公眾潔淨及防止妨擾規例》（第132BK章），任何人士容許其狗隻在建築物的公用部分、街道上或公眾地方內大便而弄污地方，首次定罪最高可判處罰款10,000元，其後每次定罪最高可判處罰款25,000元；而容許其狗隻在建築物的公用部分小便而弄污地方，首次定罪最高可判處罰款5,000元，其後每次定罪最高可判處罰款10,000元。此外，根據《定額罰款（公眾地方潔淨及阻礙）條例》（第570章），任何人士容許狗隻糞便弄污街道或公眾地方，可被處以3,000元的定額罰款。
+
+食物環境衞生署（食環署）和漁農自然護理署（漁護署）已就防止狗隻便溺弄污地方向公眾提供指引，包括帶狗人士須帶備足夠紙張，以便將狗糞妥為包好，再放進狗糞收集箱，並須帶備足夠清水，以沖洗乾淨狗隻便溺後的地方，保持環境衞生。
+
+就陳家珮議員的問題，我現回覆如下：
+
+（一）在二○二二至二○二四年期間，食環署就狗隻糞便弄污街道或公眾地方而採取執法行動的個案數目和總罰款金額如下：
+
+
+
+
+
+2022
+2023
+2024
+
+
+個案數目
+16
+19
+24
+
+
+已處理個案的
+			總罰款金額（元）
+22,500
+33,000
+70,000＊
+
+
+
+
+＊罰款金額大幅上升主要由於自二○二三年十月二十二日起，狗隻糞便弄污街道的定額罰款金額由1,500元提高至3,000元。
+
+考慮到部門的執法優次和資源運用，食環署針對潔淨罪行的執法工作集中在街道和公眾地方進行，而建築物公用部分的管理和衞生問題一般由業主或管理公司跟進。在二○二二至二○二四年期間，食環署沒有就狗隻便溺弄污建築物公用部分的執法紀錄。
+
+（二）在二○二二至二○二四年期間，食環署在全港18區因應狗隻隨處便溺問題作出的突擊行動次數如下：
+
+
+
+
+分區
+2022
+2023
+2024
+
+
+中西
+10
+12
+14
+
+
+灣仔
+17
+15
+23
+
+
+東區
+12
+10
+17
+
+
+南區
+10
+11
+9
+
+
+離島
+4
+15
+8
+
+
+油尖旺
+22
+30
+28
+
+
+深水埗
+11
+13
+18
+
+
+九龍城
+14
+16
+16
+
+
+黃大仙
+30
+24
+28
+
+
+觀塘
+24
+24
+26
+
+
+葵青
+12
+10
+10
+
+
+荃灣
+15
+12
+18
+
+
+屯門
+20
+19
+20
+
+
+元朗
+15
+12
+16
+
+
+北區
+8
+8
+10
+
+
+大埔
+12
+12
+12
+
+
+沙田
+8
+10
+12
+
+
+西貢
+12
+12
+12
+
+
+總數
+256
+265
+297
+
+
+
+
+​漁護署和康樂及文化事務署（康文署）亦不時在轄下場地進行執法行動，處理包括狗隻隨處便溺等各類違規行為。漁護署及康文署沒有備存單就處理狗隻便溺問題的行動分項數字。
+
+（三）一般而言，使用足夠清水沖洗狗隻小便後的地方，已能妥當清潔該地方，避免引起環境衞生問題。考慮到狗隻以尿液標記領域和外出小便的習性，以及可用足夠清水作出清潔，政府現時未擬修改法例規管狗隻於街道或公眾地方小便的情況。
+
+政府會繼續透過不同的渠道，包括海報、小冊子、專題網站和巡迴展覽等，向公眾推廣「做個盡責任的寵物主人」訊息，並教育帶狗人士應妥善清理其狗隻的排泄物，以保持環境衞生。
+
+（四）現時食環署和漁護署的指引已清晰要求帶狗人士在其狗隻便溺後須用足夠紙張妥為包好狗糞，或以足夠清水清理小便。就要求帶狗人士使用清潔劑清洗，我們須考慮對公眾和環境的影響，例如清潔劑會否令行人滑倒，以及清潔劑流到雨水渠會否造成污染等。政府會繼續透過宣傳和教育，讓帶狗人士依循指引妥善處理其狗隻的排泄物。"
+LCQ19: Preventing dog excreta from fouling public places and streets,2025-06-25 11:20,2025-06-25 11:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500289.htm,"Following is a question by the Hon Judy Chan and a written reply by the Secretary for Environment and Ecology, Mr Tse Chin-wan, in the Legislative Council today (June 25):
+
+Question:
+
+At present, the Food and Environmental Hygiene Department and the Agriculture, Fisheries and Conservation Department have both drawn up guidelines for people walking dogs on cleaning up dog excreta in public places and on streets. However, there are views that the cleaning methods set out in such guidelines are inadequate. For example, people walking dogs are advised to use paper to wrap up dog faeces and deposit it in rubbish bins or dog excreta collection bins, and rinse the floor with water only, which are all ineffective in cleaning up dog excreta and removing its lingering odour, thereby affecting the cityscape. In this connection, will the Government inform this Council:
+
+(1) of the number of cases and total amount of fines imposed in each of the past three years for allowing dogs to foul (i) the streets or public places with faeces, and (ii) the common parts of buildings with excreta;
+
+(2) of the number of surprise inspections conducted by the authorities in each of the past three years to address the issue of dogs excreting indiscriminately (broken down by the 18 districts across the territory);
+
+(3) given that the existing legislation does not impose penalties on people walking dogs who allow their dogs to urinate and foul the streets, whether the Government has plans to amend the legislation to impose regulation; and
+
+(4) whether the authorities have plans to update the guidelines on cleaning up dog excreta (e.g. instructing people walking dogs to use cleaning agents with deodorising and stain-removing properties to rinse the areas where their dogs excrete); if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+Under the Public Cleansing and Prevention of Nuisances Regulation (Cap. 132BK), a person who allows his dog to cause fouling by depositing faeces in the common parts of a building or in any street or public place is liable on a first conviction to a maximum fine of $10,000 and on each subsequent conviction to a maximum fine of $25,000; and a person who allows his dog to cause fouling by depositing urine in the common parts of a building is liable on a first conviction to a maximum fine of $5,000 and on each subsequent conviction to a maximum fine of $10,000. Moreover, under the Fixed Penalty (Public Cleanliness and Obstruction) Ordinance (Cap. 570), any person allowing dogs to foul the streets or public places with faeces is liable to a fixed penalty of $3,000.
+
+The Food and Environmental Hygiene Department (FEHD) and the Agriculture, Fisheries and Conservation Department (AFCD) have provided the public with guidelines on prevention of fouling of places by dog excreta, advising dog walkers to take enough paper to wrap up the faeces and place it into the dog excreta collection bin, and bring sufficient clean water to rinse the spot where the dog has urinated in order to maintain environmental hygiene.
+
+My reply to the question raised by the Hon Judy Chan is as follows:
+
+(1) The number of cases in which the FEHD took enforcement actions against fouling of streets or public places by dog faeces, as well as the total amount of fines imposed between 2022 and 2024 are as follows:
+
+
+
+
+
+2022
+2023
+2024
+
+
+Number of cases
+16
+19
+24
+
+
+Total amount of fines imposed on cases handled ($)
+22,500
+33,000
+70,000*
+
+
+
+
+*The significant increase in fines was mainly due to the increase in the amount of fixed penalty for fouling of street by dog faeces from $1,500 to $3,000 with effect from October 22, 2023.
+
+Having considered its enforcement priorities and resource deployment, the FEHD focuses its enforcement efforts against cleanliness offences in streets and public places, while the management and hygiene problems of the common parts of buildings are generally followed up by owners or management companies. The FEHD does not maintain records of enforcement against dogs fouling the common parts of buildings with excreta between 2022 and 2024.
+
+(2) The numbers of blitz operations conducted by the FEHD in the 18 districts across the territory in response to dog fouling between 2022 and 2024 are as follows:
+
+
+
+
+District
+2022
+2023
+2024
+
+
+Central and Western
+10
+12
+14
+
+
+Wan Chai
+17
+15
+23
+
+
+Eastern
+12
+10
+17
+
+
+Southern
+10
+11
+9
+
+
+Islands
+4
+15
+8
+
+
+Yau Tsim Mong
+22
+30
+28
+
+
+Sham Shui Po
+11
+13
+18
+
+
+Kowloon City
+14
+16
+16
+
+
+Wong Tai Sin
+30
+24
+28
+
+
+Kwun Tong
+24
+24
+26
+
+
+Kwai Tsing
+12
+10
+10
+
+
+Tsuen Wan
+15
+12
+18
+
+
+Tuen Mun
+20
+19
+20
+
+
+Yuen Long
+15
+12
+16
+
+
+North
+8
+8
+10
+
+
+Tai Po
+12
+12
+12
+
+
+Sha Tin
+8
+10
+12
+
+
+Sai Kung
+12
+12
+12
+
+
+Total
+256
+265
+297
+
+
+
+
+The AFCD and the Leisure and Cultural Services Department (LCSD) also conduct enforcement operations at their respective sites from time to time, addressing various irregularities such as dogs fouling. The AFCD and the LCSD do not maintain specific figures on enforcement actions solely targeting dog fouling issues.
+
+(3) In general, rinsing the spot where the dog has urinated with sufficient clean water is enough to clean the spot properly and avoid causing environmental hygiene problems. Considering the habits of dogs marking their territory with urine and urinating outdoors, as well as the fact that using sufficient clean water is enough for cleaning, the Government currently has no plans to amend the legislation to regulate dog urination in streets or public places.
+
+The Government will continue to promote the message of ""be a responsible pet owner"" to the public and educate dog walkers to properly clean up after their dogs through various channels, including posters, pamphlets, thematic websites and roving exhibitions, so as to maintain environmental hygiene.
+
+(4) The guidelines issued by the FEHD and the AFCD have clearly required dog walkers to clean up after their dogs by properly wrapping up the faeces with sufficient paper or cleaning urine with sufficient clean water. As regards the requirement for dog walkers to use cleaning agents, we have to consider the impact on the public and the environment, such as whether the cleaning agents may cause pedestrians to slip and whether the discharge of cleaning agents into stormwater drains may cause pollution. The Government will continue its promotional and educational efforts so that dog walkers will follow the guidelines and properly dispose of the droppings of their dogs."
 LCSD to hold Sport For All Day 2025 and invite public to join,2025-06-25 11:05,2025-06-25 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062400251.htm,"To promote ""Sport for All"", the Leisure and Cultural Services Department (LCSD) will hold the Sport For All Day (SFAD) 2025 on August 3 (Sunday). The public is welcome to join.
 
   The LCSD promotes ""Stay Active, Healthy and Happy!"" encouraging people of different ages and abilities to participate in regular sports and physical activities. With Hong Kong cohosting the 15th National Games (NG), the 12th National Games for Persons with Disabilities (NGD) and the 9th National Special Olympic Games (NSOG) with the Guangdong Province and the Macao Special Administrative Region for the first time, SFAD 2025's theme, ""Coalescing together for the National Games"", echoes these national sports events together with members of the public.
@@ -87,6 +576,50 @@ At present, over half of the 42 gazetted beaches managed by the LCSD are already
 As for those beaches where full lifesaving services are yet to be provided temporarily, members of the public and tourists can still enjoy a variety of leisure activities there, such as strolling, sand-sculpting and sunbathing. They can also use facilities such as light refreshment kiosks, barbecue pits, playgrounds and beach volleyball courts.
 
 The LCSD will continue to monitor the situation of the beaches, and maintain close communication and co-ordination with relevant stakeholders (including the Hong Kong Tourism Board) to make appropriate arrangements for the general public and tourists."
+立法會十六題：救生員人手,2025-06-25 11:05,2025-06-25 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500304.htm,"以下是今日（六月二十五日）在立法會會議上陳學鋒議員的提問和文化體育及旅遊局局長羅淑佩的書面答覆：
+
+問題：
+
+據悉因救生員人手不足，一些康樂及文化事務署（康文署）轄下刊憲泳灘（包括獲香港旅遊發展局（旅發局）在網頁推介為水上運動人氣熱點，位於大嶼山的長沙泳灘（包括上長沙泳灘和下長沙泳灘））未能在泳季提供救生員服務。就此，政府可否告知本會：
+
+（一）過去三年，因救生員人手不足而令整個泳季未能提供救生服務的康文署轄下刊憲泳灘為何，並按全港18區以表列出分項數字；
+
+（二）鑑於康文署在泳季期間（即四月至十月）每日上午九時至下午六時在其轄下刊憲泳灘提供救生服務，去年因救生員人手不足而突然關閉半天或以上的刊憲泳灘及其關閉總日數分別為何；
+
+（三）鑑於面對救生員人手短缺問題，康文署由去年九月起試行外判公眾泳池的救生及急救服務，政府有否研究將較有潛力發展水上活動的泳灘外判予私營團體營運，包括提供水上活動設施、租賃太陽傘，以及提供救生及急救服務等；若有研究，詳情為何；若否，原因為何；及
+
+（四）當局會否做好協調工作，以避免獲旅發局推介的泳灘因救生員人手不足而暫時關閉（例如長沙泳灘在過去兩個泳季均未能提供救生員服務），影響旅客的體驗？
+
+答覆：
+
+主席：
+
+康樂及文化事務署（康文署）一直積極透過不同措施，包括提高季節性救生員薪酬和增加聘用程序的彈性等，以多管齊下的方式增加和穩定救生員的人手供應。在泳季期間（即每年四月至十月），除公務員救生員外，康文署會聘請季節性救生員協助提供救生服務，並會靈活調配現職救生員和其他資源，以盡量維持42個刊憲泳灘的服務。
+
+就陳學鋒議員的提問，我現回覆如下：
+
+（一）在二○二二年至二○二四年期間，因救生員人手不足而整個泳季未能提供救生服務的刊憲泳灘載列於附件。市民仍可在未能提供救生服務的刊憲泳灘享受日光浴和使用其他設施。
+
+（二）在二○二四年並沒有刊憲泳灘因救生員人手不足而臨時關閉游泳設施半天或以上。
+
+（三）在二○二四年九月，康文署在六個公眾游泳池試行為期兩年的外判救生及急救服務計劃，是其中一個增加和穩定救生員人手供應的措施。計劃試行至今約九個月，外判服務承辦商一直能提供穩定的服務。康文署會繼續檢視及評估計劃的推行情況。
+
+現時，在康文署管理的42個刊憲泳灘中，超過一半已設有由企業或團體作商業營運的設施，包括小食亭、快餐亭、餐廳和獨木舟訓練中心等。經營者現時有提供銷售或出租業務（包括出租太陽傘、沙灘椅和救生圈等），以方便泳客。至於外判泳灘救生及急救服務的可行性，康文署會考慮一籃子因素，包括上文提及的外判救生及急救服務計劃的結果及經驗、公眾使用泳灘的習慣和泳客的安全保障等。康文署會繼續與各持份者積極溝通，攜手為公眾提供更優質的康樂體驗。
+
+（四）在決定為哪些刊憲泳灘提供全面的救生服務時，康文署考慮多個因素，包括泳客人流、泳灘鄰近的配套設施，以及區議會和社區的意見和需求等。
+
+至於一些暫未提供全面救生服務的泳灘，市民和遊客仍可享受在泳灘進行多元化的休閒活動，例如散步、堆沙和日光浴等，並使用泳灘上的小食亭服務、燒烤爐、遊樂場和沙灘排球場等設施。
+
+康文署會繼續監察各泳灘的情況，並與相關持份者（包括香港旅遊發展局）保持緊密聯繫和協調，為市民和旅客提供合適安排。"
+康文署舉辦「全民運動日2025」　歡迎巿民參與,2025-06-25 11:05,2025-06-25 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062400245.htm,"​為推廣「普及體育」，康樂及文化事務署（康文署）將於八月三日（星期日）舉行「全民運動日2025」，歡迎市民參與。
+
+康文署積極倡導「日日運動半個鐘健康快樂人輕鬆」，鼓勵不同年齡和能力的市民恆常參與體育及體能活動。今年，香港首次與廣東省及澳門特別行政區共同承辦「第十五屆全國運動會」（全運會）和「全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會」（殘特奧會），「全民運動日」因此以「全城齊運動全民撐全運」為主題，與巿民一起響應國家體育盛事。
+
+八月三日活動當日，康文署將開放轄下多項康樂設施予市民免費使用，包括室內羽毛球場、排球場、籃球場、壁球場、乒乓球枱、健身室、活動室及舞蹈室等；戶外網球場、草地滾球場、射箭場和高爾夫球設施等；公眾游泳池及水上活動中心（租用艇隻）。全港十八區指定體育館亦將於當日（下午二時至六時）舉辦一系列免費康體活動，重點推廣多項全運會和殘特奧會項目，例如高爾夫球、擊劍、七人制欖球和鐵人三項等。活動包括健體閣、健康講座，以及適合親子、兒童、青少年、長者和殘疾人士一同參與的體育示範及同樂項目等。有關預訂免費康樂設施和派發免費康體活動券的安排，將於七月中公布。
+
+在社區進一步推廣「普及體育」，康文署繼續與中國香港體育協會暨奧林匹克委員會（港協暨奧委會）合作，並聯同中國香港殘疾人奧委會（殘奧會），在「全民運動日2025」主場館舉辦同樂活動。多間機構將於八月三日開放場地設施或舉辦康體活動讓免費巿民參與。「全民運動日」專題網頁（www.lcsd.gov.hk/tc/sfad）會提供所有活動的最新資訊。
+
+「全民運動日2025」的協辦機構包括港協暨奧委會、殘奧會、衞生署、香港中文大學運動醫學團隊、香港中文大學運動醫學及健康科學舊生會，以及中國香港體適能總會。"
 專用石油氣加氣站二○二五年七月份上限價格調整,2025-06-25 11:00,2025-06-25 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500306.htm,"機電工程署今日（六月二十五日）宣布，按專用石油氣加氣站（專用氣站）的合約規條，調整專用氣站在二○二五年七月一日至七月三十一日期間的車用石油氣上限價格。
 
 機電工程署發言人說：「二○二五年七月一日的調整反映二○二五年六月的國際石油氣價格變動。經調整後，各專用氣站車用石油氣的上限價格為每公升三元五角五仙至四元四角七仙不等，跌幅為每公升五仙至六仙。」
@@ -297,65 +830,6 @@ Special traffic and transport arrangements for Kai Tak Sports Park concerts on J
   A spokesman for the TD said that, as a large number of travellers may use the LMC/HG Port after the concert, and concerts will also be held at AsiaWorld-Expo on the evening of June 28, the Port is expected to be very busy. Travellers' patience is appreciated. To ensure the smooth operation of public transport services, dedicated public transport lanes will be arranged at the LMC/HG Port after midnight during the event period when necessary for the smooth operation of the Yellow Bus and cross-boundary coach services as well as effective dispersal of a large number of cross-boundary travellers. Other cross-boundary private cars and their passengers are expected to have a longer clearance time. The TD has steered operators to reserve standby vehicles and manpower to meet passengers' demand.
 
   Spectators are advised to heed the real-time information via the on-site broadcast and the ""Easy Leave"" platform (easyleave.police.gov.hk) as well as the latest traffic news through the TD's website (www.td.gov.hk), the ""HKeMobility"" mobile application and radio and television broadcasts."
-Special traffic arrangements for race meeting in Happy Valley,2025-06-25 09:54,2025-06-25 10:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500264.htm," Special traffic arrangements will be implemented in Happy Valley today (June 25). The arrangements will last until the crowds have dispersed after the race meeting.
-
-A. Traffic arrangements before the commencement of the first race
-
- The following road closure and traffic diversions will be implemented from 50 minutes before the start of the first race for day racing, or from 6pm onwards for night racing:
-
-1. Road closure
-
- Southbound Wong Nai Chung Road between Queen’s Road East and the up-ramp outside the Hong Kong Jockey Club (HKJC) will be closed, except for vehicles heading for Aberdeen Tunnel.
-
-2. Traffic diversions
-
-- Southbound Wong Nai Chung Road between Village Road and the up-ramp outside the HKJC will be re-routed one way northbound;
-- Traffic along eastbound Queen's Road East heading for Wan Chai and Happy Valley will be diverted to turn left to Morrison Hill Road;
-- Traffic along southbound Morrison Hill Road heading for Happy Valley will be diverted via Sports Road and Wong Nai Chung Road;
-- Traffic along Queen's Road East cannot turn right to Wong Nai Chung Road, except for vehicles heading for Aberdeen Tunnel;
-- Traffic from Cross Harbour Tunnel heading for Queen's Road East will be diverted via the down-ramp leading from southbound Canal Road flyover to Morrison Hill Road to turn right at the junction of Wong Nai Chung Road and Queen's Road East; and
-- Traffic from Cross Harbour Tunnel heading for Happy Valley or Racecourse will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, southbound Morrison Hill Road, Sports Road and Wong Nai Chung Road.
-
-B. Traffic arrangements before the conclusion of race meeting
-
- The following road closure and traffic diversions will be implemented from about 35 minutes before the start of the last race:
-
-1. Road closure
-
-- The up-ramp on Wong Nai Chung Road outside the HKJC leading to Aberdeen Tunnel;
-- Southbound Wong Nai Chung Road between Queen's Road East and the up-ramp leading to Aberdeen Tunnel;
-- Southbound Wong Nai Chung Road between Village Road and the Public Stands of the HKJC;
-- Westbound Leighton Road between Wong Nai Chung Road and Canal Road East; and
-- Southbound Morrison Hill Road between Leighton Road and Queen's Road East.
-
- In addition, southbound Wong Nai Chung Road between the up-ramp leading to Aberdeen Tunnel and the Public Stands of the HKJC will be closed from about 10 minutes before the start of the last race.
-
-2. Traffic diversions
-
-- Eastbound Queen's Road East at its junction with Morrison Hill Road will be reduced to one-lane traffic heading for northbound Canal Road flyover;
-- Traffic from Cross Harbour Tunnel heading for Wan Chai will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, U-turn slip road beneath Canal Road flyover, Canal Road West and Hennessy Road;
-- Traffic from Cross Harbour Tunnel heading for Happy Valley will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, eastbound Leighton Road and Wong Nai Chung Road;
-- Traffic along southbound Morrison Hill Road will be diverted to turn left to eastbound Leighton Road;
-- Traffic along southbound Morrison Hill Road heading for Happy Valley will be diverted via eastbound Leighton Road and Wong Nai Chung Road; and
-- Traffic along westbound Leighton Road will be diverted to Wong Nai Chung Road.
-
-C. Learner drivers prohibition
-
- Learner drivers will be prohibited to turn left from Caroline Hill Road to Leighton Road between one and a half hours before the start of the first race and one hour after the last race. In addition, learner drivers will be prohibited from accessing the following roads within the above period of time:
-
-- Shan Kwong Road between Yik Yam Street and Wong Nai Chung Road;
-- Village Road between its upper and lower junctions with Shan Kwong Road;
-- Percival Street between Hennessy Road and Leighton Road;
-- Canal Road East; and
-- The service road leading from Gloucester Road to Canal Road flyover.
-
-D. Suspension of parking spaces
-
- Parking spaces on southbound Wong Nai Chung Road between Sports Road and Blue Pool Road will be suspended from 11am to 7pm for day racing, and from 5pm to 11.59pm for night racing respectively.
-
- All vehicles parked illegally during the implementation of the above special traffic arrangements will be towed away without prior warning, and may be subject to multiple ticketing.
-
- Actual implementation of road closure and traffic diversion will be made by the Police at the time depending on traffic conditions in the areas. Motorists should exercise tolerance and patience, and follow the instructions of Police on site."
 賽馬日跑馬地特別交通措施,2025-06-25 09:54,2025-06-25 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500265.htm,"警方今日（六月二十五日）將在跑馬地實施特別交通措施，直至賽事完結觀眾離場，交通恢復正常。
 
 （甲）首場賽事前的交通安排
@@ -415,6 +889,65 @@ D. Suspension of parking spaces
 以上特別交通安排實施期間，所有違例停泊的車輛將會在沒有事前警告的情況下被拖走或重複票控。
 
 警方會視乎當時路面情況實施封路及改道措施。駕車人士請保持忍讓，並遵從在場警員的指示。"
+Special traffic arrangements for race meeting in Happy Valley,2025-06-25 09:54,2025-06-25 10:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500264.htm," Special traffic arrangements will be implemented in Happy Valley today (June 25). The arrangements will last until the crowds have dispersed after the race meeting.
+
+A. Traffic arrangements before the commencement of the first race
+
+ The following road closure and traffic diversions will be implemented from 50 minutes before the start of the first race for day racing, or from 6pm onwards for night racing:
+
+1. Road closure
+
+ Southbound Wong Nai Chung Road between Queen’s Road East and the up-ramp outside the Hong Kong Jockey Club (HKJC) will be closed, except for vehicles heading for Aberdeen Tunnel.
+
+2. Traffic diversions
+
+- Southbound Wong Nai Chung Road between Village Road and the up-ramp outside the HKJC will be re-routed one way northbound;
+- Traffic along eastbound Queen's Road East heading for Wan Chai and Happy Valley will be diverted to turn left to Morrison Hill Road;
+- Traffic along southbound Morrison Hill Road heading for Happy Valley will be diverted via Sports Road and Wong Nai Chung Road;
+- Traffic along Queen's Road East cannot turn right to Wong Nai Chung Road, except for vehicles heading for Aberdeen Tunnel;
+- Traffic from Cross Harbour Tunnel heading for Queen's Road East will be diverted via the down-ramp leading from southbound Canal Road flyover to Morrison Hill Road to turn right at the junction of Wong Nai Chung Road and Queen's Road East; and
+- Traffic from Cross Harbour Tunnel heading for Happy Valley or Racecourse will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, southbound Morrison Hill Road, Sports Road and Wong Nai Chung Road.
+
+B. Traffic arrangements before the conclusion of race meeting
+
+ The following road closure and traffic diversions will be implemented from about 35 minutes before the start of the last race:
+
+1. Road closure
+
+- The up-ramp on Wong Nai Chung Road outside the HKJC leading to Aberdeen Tunnel;
+- Southbound Wong Nai Chung Road between Queen's Road East and the up-ramp leading to Aberdeen Tunnel;
+- Southbound Wong Nai Chung Road between Village Road and the Public Stands of the HKJC;
+- Westbound Leighton Road between Wong Nai Chung Road and Canal Road East; and
+- Southbound Morrison Hill Road between Leighton Road and Queen's Road East.
+
+ In addition, southbound Wong Nai Chung Road between the up-ramp leading to Aberdeen Tunnel and the Public Stands of the HKJC will be closed from about 10 minutes before the start of the last race.
+
+2. Traffic diversions
+
+- Eastbound Queen's Road East at its junction with Morrison Hill Road will be reduced to one-lane traffic heading for northbound Canal Road flyover;
+- Traffic from Cross Harbour Tunnel heading for Wan Chai will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, U-turn slip road beneath Canal Road flyover, Canal Road West and Hennessy Road;
+- Traffic from Cross Harbour Tunnel heading for Happy Valley will be diverted via the down-ramp leading from southbound Canal Road flyover to Canal Road East, eastbound Leighton Road and Wong Nai Chung Road;
+- Traffic along southbound Morrison Hill Road will be diverted to turn left to eastbound Leighton Road;
+- Traffic along southbound Morrison Hill Road heading for Happy Valley will be diverted via eastbound Leighton Road and Wong Nai Chung Road; and
+- Traffic along westbound Leighton Road will be diverted to Wong Nai Chung Road.
+
+C. Learner drivers prohibition
+
+ Learner drivers will be prohibited to turn left from Caroline Hill Road to Leighton Road between one and a half hours before the start of the first race and one hour after the last race. In addition, learner drivers will be prohibited from accessing the following roads within the above period of time:
+
+- Shan Kwong Road between Yik Yam Street and Wong Nai Chung Road;
+- Village Road between its upper and lower junctions with Shan Kwong Road;
+- Percival Street between Hennessy Road and Leighton Road;
+- Canal Road East; and
+- The service road leading from Gloucester Road to Canal Road flyover.
+
+D. Suspension of parking spaces
+
+ Parking spaces on southbound Wong Nai Chung Road between Sports Road and Blue Pool Road will be suspended from 11am to 7pm for day racing, and from 5pm to 11.59pm for night racing respectively.
+
+ All vehicles parked illegally during the implementation of the above special traffic arrangements will be towed away without prior warning, and may be subject to multiple ticketing.
+
+ Actual implementation of road closure and traffic diversion will be made by the Police at the time depending on traffic conditions in the areas. Motorists should exercise tolerance and patience, and follow the instructions of Police on site."
 商經局局長在法國巴黎出席中國論壇（附圖）,2025-06-25 09:00,2025-06-25 09:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/25/P2025062500007.htm,"商務及經濟發展局局長丘應樺於六月二十四日（法國時間）在法國進行最後一日訪問。他在巴黎出席由法國商務投資署舉辦的中國論壇，向當地商界推廣香港作為進入亞洲和內地市場門戶的優勢和獨特角色。
 
 丘應樺在論壇上致辭時表示，目前全球經濟增長有六成源自亞洲，而亞洲市場，尤其內地市場為有意在環球貿易格局中拓展版圖的企業提供獨特機遇。香港作為連接海外投資者和內地市場的「超級聯繫人」，是法國企業開拓內地市場的理想跳板。
@@ -573,15 +1106,6 @@ In regard to today's accident, the LD will issue a Work Safety Alert through its
 The LD will also remind the employer concerned of the liability for employees' compensation under the Employees' Compensation Ordinance, assist family members of the deceased to claim employees' compensation and closely follow up on the case. For those with financial difficulties, the LD will assist them to apply for appropriate emergency funds. Subject to the needs and wishes of family members of the deceased, the LD will also liaise with the Social Welfare Department for financial or other assistance.
 
 For the sake of securing the safety and health of employees at work, the LD appeals to employers to provide plant and systems of work that are safe and without risks to health. Employees should also co-operate with their employers, adopt all safety measures and use personal protective equipment provided properly to avoid endangering their own work safety and that of other workers."
-EDB responds to media enquiries,2025-06-24 21:25,2025-06-24 21:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400820.htm,"  In response to media enquiries about safeguarding national security, an Education Bureau (EDB) spokesman made the following response today (June 24):
-
-  Safeguarding national security is the Government's responsibility, as well as the obligation of the whole community of Hong Kong. It is also part and parcel of the routine school work in promoting national security education. With the implementation of the National Security Law for five years, Hong Kong has transited ""from chaos to stability"" and ""from stability to prosperity"". The EDB has adopted a ""multi-pronged and co-ordinated"" approach, including activities inside and outside the classroom, to strengthen students' understanding of Chinese culture, the Constitution and the Basic Law, and their awareness of law-abiding in promoting patriotic education.
-
-  The EDB has issued detailed administrative and educational guidelines to schools, requiring them to establish school-based mechanisms and formulate appropriate measures according to their own circumstances and needs to implement various tasks related to safeguarding national security and national security education. The EDB also provided schools with an updated ""National Security: School Self-evaluation Checklist"" in April this year, and provided suggestions of refinement and good practices of different areas of work, covering national security work planning, monitoring mechanisms, learning and teaching and related resources, school activities, personnel management and training, and home-school co-operation, in order to effectively prevent and suppress acts and activities that endanger or are detrimental to national security. Schools have the responsibility to play a good gate-keeper role and to enhance the sensitivity of teachers and students to national security.
-
-  Schools offering non-local curricula also have the responsibility to help their students, regardless of their ethnicity and nationality, acquire a correct and objective understanding and appreciation of the concept of national security and the National Security Law, as well as the duty to cultivate a law-abiding spirit among their students. These schools should devise and continuously review relevant strategies and measures in light of their school-based circumstances and needs, with a view to maintaining a safe and orderly learning environment and promoting students' effective learning and healthy development.
-
-  The EDB will continue to monitor and support schools in implementing the relevant work through various channels, such as daily communication with schools. The EDB will also advance towards more in-depth and effective implementation of work to safeguard national security, and continue to work hand in hand with different stakeholders to help schools build a protective barrier to safeguard the well-being of students."
 教育局回應傳媒查詢,2025-06-24 21:25,2025-06-24 21:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400819.htm,"​就傳媒有關維護國家安全查詢，教育局發言人今日（六月二十四日）回應如下：
 
 維護國家安全是政府的責任，更是香港全社會的應有之義，推廣國家安全教育亦是學校的恆常工作。隨着《香港國安法》實施已經五年，香港社會實現「由亂到治」，走向「由治及興」。教育局採取多重進路互相配合的方式，包括在課堂內外的活動，加強學生對中華文化、《憲法》和《基本法》的認識及守法意識等，推進愛國主義教育。
@@ -591,6 +1115,15 @@ EDB responds to media enquiries,2025-06-24 21:25,2025-06-24 21:30,Eng,gia,https:
 提供非本地課程的學校亦有責任協助學生（不論其種族或國籍）正確及客觀地理解及認識國家安全概念和《香港國安法》，建立守法的精神。這些學校應按校本情況及需要，制定並持續檢視相關策略及措施，為學生締造安全有序的學習環境，促進學生有效學習及健康成長。
 
 教育局會持續通過不同渠道例如與學校的日常溝通，監察和支援學校落實有關工作。教育局亦會走深和走實維護國家安全工作，並繼續與不同持份者攜手同心，幫助學校建立保護屏障，保障學生福祉。"
+EDB responds to media enquiries,2025-06-24 21:25,2025-06-24 21:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400820.htm,"  In response to media enquiries about safeguarding national security, an Education Bureau (EDB) spokesman made the following response today (June 24):
+
+  Safeguarding national security is the Government's responsibility, as well as the obligation of the whole community of Hong Kong. It is also part and parcel of the routine school work in promoting national security education. With the implementation of the National Security Law for five years, Hong Kong has transited ""from chaos to stability"" and ""from stability to prosperity"". The EDB has adopted a ""multi-pronged and co-ordinated"" approach, including activities inside and outside the classroom, to strengthen students' understanding of Chinese culture, the Constitution and the Basic Law, and their awareness of law-abiding in promoting patriotic education.
+
+  The EDB has issued detailed administrative and educational guidelines to schools, requiring them to establish school-based mechanisms and formulate appropriate measures according to their own circumstances and needs to implement various tasks related to safeguarding national security and national security education. The EDB also provided schools with an updated ""National Security: School Self-evaluation Checklist"" in April this year, and provided suggestions of refinement and good practices of different areas of work, covering national security work planning, monitoring mechanisms, learning and teaching and related resources, school activities, personnel management and training, and home-school co-operation, in order to effectively prevent and suppress acts and activities that endanger or are detrimental to national security. Schools have the responsibility to play a good gate-keeper role and to enhance the sensitivity of teachers and students to national security.
+
+  Schools offering non-local curricula also have the responsibility to help their students, regardless of their ethnicity and nationality, acquire a correct and objective understanding and appreciation of the concept of national security and the National Security Law, as well as the duty to cultivate a law-abiding spirit among their students. These schools should devise and continuously review relevant strategies and measures in light of their school-based circumstances and needs, with a view to maintaining a safe and orderly learning environment and promoting students' effective learning and healthy development.
+
+  The EDB will continue to monitor and support schools in implementing the relevant work through various channels, such as daily communication with schools. The EDB will also advance towards more in-depth and effective implementation of work to safeguard national security, and continue to work hand in hand with different stakeholders to help schools build a protective barrier to safeguard the well-being of students."
 InvestHK holds reception to welcome new companies in Hong Kong and celebrate 25 years of impact (with photos),2025-06-24 21:15,2025-06-24 21:30,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400272.htm," âInvest Hong Kong (InvestHK) hosted a reception today (June 24) for new establishments of international and Mainland businesses in Hong Kong. An occasion to thank businesses for their trust and support in Hong Kong's business environment, the event attracted nearly 350 senior representatives from companies worldwide. The Chief Executive, Mr John Lee, officiated at the ceremony, reaffirming Hong Kong's role as a ""super connector"" and ""super value-adder"" connecting the Mainland and the rest of the world. He also encouraged companies to seize the myriad opportunities in Hong Kong to expand globally.
 
  In his keynote speech, Mr Lee said that under the ""one country, two systems"" principle, Hong Kong enjoys the advantages of being connected to both the Mainland and the rest of the world, offering an open and easy place to do business, a long and established tradition of the rule of law, and a simple and low tax regime. Mr Lee highlighted that as the world's freest economy and one of the world's top three international financial centres, Hong Kong's global competitiveness has risen two places to rank third globally in the World Competitiveness Yearbook 2025, marking the second consecutive year of such advancement from its seventh place two years ago. In the recent World Investment Report released by the United Nations Trade and Development, the city has moved up to the third place in terms of foreign direct investment inflows. Mr Lee said that the Government will continue to co-ordinate the practical needs of enterprises across different sectors, enabling them to develop their business overseas through Hong Kong's multinational supply chain management centre and explore new strategic blue oceans for development.
@@ -635,19 +1168,6 @@ During the roundtable meeting, Mr Chan said Hong Kong welcomes Tianjin's innovat
 In the evening, Mr Chan also met with Deputy Secretary of the Tianjin Municipal Committee Mr Liu Guiping where they had in-depth exchanges on strengthening co-operation in trade, finance, innovation and technology, and tourism between Tianjin and Hong Kong. Meanwhile, Mr Chan also met with the Mayor of Xi'an, Mr Ye Niuping, who was attending the Annual Meeting, to exchange views on further fostering co-operation between the two places.
 
 Mr Chan will continue to attend Summer Davos in Tianjin tomorrow (June 25) and will proceed to Beijing in the evening."
-Hong Kong Customs seizes suspected ketamine and suspected MDMA worth about $4.9 million at airport (with photo),2025-06-24 20:00,2025-06-24 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400611.htm,"Hong Kong Customs today (June 24) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport. About 10.4 kilograms of suspected ketamine and 2.1kg of suspected MDMA, with a total estimated market value of about $4.9 million, were seized.
-
-A 27-year-old male passenger arrived in Hong Kong from Amsterdam, Netherlands, today. During Customs clearance, the batches of suspected ketamine and suspected MDMA were found in his rucksack, carry-on travel bag and carry-on suitcase. The man was subsequently arrested.
-
-The arrested person has been charged with one count of trafficking in a dangerous drug. The case will be brought up at the West Kowloon Magistrates' Court tomorrow (June 25).
-
-Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
-
-Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
-
-Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
-
-Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 一名入境旅客管有未完稅香煙罪成判囚（附圖）,2025-06-24 20:00,2025-06-24 20:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400766.htm,"​一名入境男旅客因管有未完稅香煙和未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（六月二十四日）在粉嶺裁判法院被判處監禁四星期和罰款二千元。
 
 海關人員於六月十三日在落馬洲支線管制站截查該名五十五歲抵港男旅客，在其攜帶的個人行李內檢獲六千三百八十九支未完稅香煙，估計市值約二萬九千元，應課稅值約二萬一千元。該名旅客隨即被捕。
@@ -675,6 +1195,19 @@ Customs officers intercepted the 55-year-old incoming male passenger at the Lok 
 Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences. Customs reminds members of the public that under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $1 million and imprisonment for two years.
 
 Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+Hong Kong Customs seizes suspected ketamine and suspected MDMA worth about $4.9 million at airport (with photo),2025-06-24 20:00,2025-06-24 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400611.htm,"Hong Kong Customs today (June 24) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport. About 10.4 kilograms of suspected ketamine and 2.1kg of suspected MDMA, with a total estimated market value of about $4.9 million, were seized.
+
+A 27-year-old male passenger arrived in Hong Kong from Amsterdam, Netherlands, today. During Customs clearance, the batches of suspected ketamine and suspected MDMA were found in his rucksack, carry-on travel bag and carry-on suitcase. The man was subsequently arrested.
+
+The arrested person has been charged with one count of trafficking in a dangerous drug. The case will be brought up at the West Kowloon Magistrates' Court tomorrow (June 25).
+
+Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
+
+Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
+
+Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
+
+Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 iFLYTEK and Xunfei Healthcare launches Hong Kong office to drive AI innovation ecosystem (with photo),2025-06-24 19:58,2025-06-24 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400746.htm,"  iFLYTEK and Xunfei Healthcare (iFLYTEK - Xunfei Healthcare) held an inauguration ceremony today (June 24) to mark the official opening of its Hong Kong office. Since becoming a strategic enterprise under the Office for Attracting Strategic Enterprises (OASES) in November 2024, iFLYTEK - Xunfei Healthcare has been preparing to establish its international headquarters and global research institute in Hong Kong in hopes of leveraging the city's strengths as an innovation and technology (I&T) hub to promote real-world AI applications and accelerate technological innovation advancement.
 
   The Director-General of OASES, Mr Peter Yan, attended the inauguration ceremony and stated, ""iFLYTEK - Xunfei Healthcare has achieved remarkable success in the field of AI. Its technological applications are closely aligned with Hong Kong’s direction for I&T development. The company's decision to establish its international headquarters and research institute in Hong Kong will contribute significantly to the development of the local industry chains such as AI and models. With particular regard to smart healthcare, it is expected to enhance the efficiency and quality of healthcare services, ultimately benefitting a broader patient population. OASES will continue to support strategic enterprises in expanding their presence in Hong Kong and help build the city into a globally competitive I&T hub.""
@@ -684,12 +1217,12 @@ iFLYTEK and Xunfei Healthcare launches Hong Kong office to drive AI innovation e
   iFLYTEK - Xunfei Healthcare continues to drive breakthroughs through innovative algorithms and has achieved significant results in various fields, including smart education, smart healthcare, and intelligent office solutions.
  â
   For more information about iFLYTEK - Xunfei Healthcare, please visit: www.iflytek.com and www.xunfeihealthcare.com."
-深水灣麗海堤岸路污水管緊急維修工程,2025-06-24 19:42,2025-06-24 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400750.htm,"渠務署今日（六月二十四日）下午發現深水灣麗海堤岸路有一條直徑450毫米加壓污水管有滲漏情況，現正進行緊急維修工程，其間鄰近水域水質可能受到影響。為保障公眾健康，市民請勿在深水灣泳灘及淺水灣泳灘或附近海域游泳。
-
-署方於今年一月展開南區污水泵喉建造及修復工程，以建造約8.8公里長的污水泵喉連接南區香島道的污水泵房至鴨脷洲橋道的污水收集系統，當中包括建造約1.5公里長的海底雙管加壓管道取代涉事的加壓污水管，以加強整體排污系統的穩定性。"
 "Emergency repair works on sewer at Seaview Promenade, Deep Water Bay",2025-06-24 19:42,2025-06-24 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400751.htm,"  The Drainage Services Department (DSD) this afternoon (June 24) found that there was leakage at a 450 millimetres diameter pressurised sewage main at Seaview Promenade, Deep Water Bay. The DSD is carrying out emergency repair works. The quality of the nearby waters will potentially be affected. Members of the public are advised not to swim at Deep Water Bay Beach and Repulse Bay Beach or the nearby waters to protect public health.
 
   The DSD commenced the construction and rehabilitation of sewage rising mains in Southern District in January this year, to construct about 8.8 kilometres of sewage rising mainsconnecting the sewage pumping station at Island Road, Southern District, to the sewerage system at Ap Lei Chau Bridge Road, including the construction of about 1.5km subsea twin pressurised sewer to replace the above concerned pressurised sewage main, to enhance the overall stability of the sewage system."
+深水灣麗海堤岸路污水管緊急維修工程,2025-06-24 19:42,2025-06-24 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400750.htm,"渠務署今日（六月二十四日）下午發現深水灣麗海堤岸路有一條直徑450毫米加壓污水管有滲漏情況，現正進行緊急維修工程，其間鄰近水域水質可能受到影響。為保障公眾健康，市民請勿在深水灣泳灘及淺水灣泳灘或附近海域游泳。
+
+署方於今年一月展開南區污水泵喉建造及修復工程，以建造約8.8公里長的污水泵喉連接南區香島道的污水泵房至鴨脷洲橋道的污水收集系統，當中包括建造約1.5公里長的海底雙管加壓管道取代涉事的加壓污水管，以加強整體排污系統的穩定性。"
 HKSAR Search and Rescue Team and Inter-departmental Preparation Team for Kai Tak Sports Park Commissioning both awarded Chief Executive's Award for Exemplary Performance,2025-06-24 19:40,2025-06-24 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400743.htm," The Hong Kong Special Administrative Region (HKSAR) Government announced today (June 24) that the HKSAR Search and Rescue Team to quake-stricken areas in Myanmar in March 2025 and the Inter-departmental Preparation Team for Kai Tak Sports Park (KTSP) Commissioning were awarded a new round of the Chief Executive's Award for Exemplary Performance.
 
  The Chief Executive, Mr John Lee, congratulated the two award-winning teams andexpressed pride in their performance and contributions. He said, ""The two award-winning teams reflected the outstanding competence of the civil service of the HKSAR and the efficiency of the Government, and exemplified Hong Kong's second-place global ranking in the 'Government efficiency' factor of the World Competitiveness Yearbook 2025. All these have confirmed and reinforced my belief in driving result-oriented policies for the Government.""
@@ -741,15 +1274,6 @@ HKSAR Search and Rescue Team and Inter-departmental Preparation Team for Kai Tak
 科大訊飛－訊飛醫療持續透過創新算法實現技術突破，並於智慧教育、智慧醫療及智能辦公等多個應用領域取得卓著成果。
 
 如欲了解更多有關科大訊飛－訊飛醫療的資料，可瀏覽www.iflytek.com/cn及www.xunfeihealthcare.com。"
-入境處打擊非法勞工專項行動　共拘捕一百二十三人（附圖）,2025-06-24 19:00,2025-06-24 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400642.htm,"入境事務處（入境處）於五月十九日至昨日（六月二十三日）展開專項反非法勞工行動，重點針對非法勞工較活躍的行業，進行突擊巡查和執法行動。入境處共拘捕一百二十三人，當中五十八人已被落案起訴違反《入境條例》有關罪行，其中四十六人分別被判處五十四日至二十二個月監禁。
-
-入境處對非法勞工問題一直保持高度警覺，積極採取有力及有效的執法行動。入境處於過去一個半月開展一項專項行動，以情報主導的方式，重點打擊涉嫌從事飲食、清潔和裝修行業的非法勞工。於五月十九日至昨日（六月二十三日）期間，入境處調查人員突擊巡查全港各區共八百一十五個目標地點，合共拘捕八十九名非法勞工、三十一名涉嫌聘用非法勞工的僱主及三名協助及教唆者。在有關飲食行業的反非法勞工行動中，入境處調查人員以「放蛇」等方式，向目標食肆和餐廳展開執法行動，並於全港多區外賣速遞員聚集的區域作重點巡查，一共拘捕六十名與飲食業有關的非法勞工，當中包括洗碗員、廚房雜工、樓面侍應以及外賣速遞員。此外，入境處亦於全港各區搜查多個住宅屋苑和裝修中單位，共拘捕十四名涉嫌從事裝修和清潔工作的非法勞工。
-
-被捕的非法勞工年齡介乎二十一歲至六十七歲，包括四十五名非華裔人士（二十一男二十四女，當中十四男九女持有不允許僱傭工作的擔保書），以及四十四名內地居民（十二男三十二女）。被捕的非法勞工當中，十八人涉嫌行使及管有懷疑偽造身份證，三人涉嫌行使及管有他人身份證。行動中，三十四名香港居民（十八男十六女）因涉嫌聘用非法勞工或協助及教唆他人在港違反逗留條件而被捕。
-
-被捕的非法勞工當中，五十八人已被落案起訴違反《入境條例》有關罪行，包括違反逗留條件、行使及管有懷疑偽造身份證，以及身為非法入境者、受遣送離境令或遞解離境令規限的人、逾期逗留或被拒絕入境人士接受僱傭工作。當中，四十六人已被判處五十四日至二十二個月監禁。有關執法行動仍然繼續，不排除有更多人士被捕及檢控。
-
-入境處發言人表示，入境處會繼續致力打擊僱用非法勞工或非法受僱的活動，遏止非法入境者、訪客、外籍家庭傭工及受特定僱用條件規限的外地勞工在港非法工作，以保護本地勞工市場。市民如有懷疑，可聯絡入境處，入境處設有專責熱線（2824 1551）、電郵（anti_crime@immd.gov.hk）及網上舉報平台（www.immd.gov.hk/hkt/online-services/）供市民舉報非法勞工活動。"
 123 arrested in ImmD anti-illegal worker focused operations (with photos),2025-06-24 19:00,2025-06-24 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400640.htm,"The Immigration Department (ImmD) mounted a series of anti-illegal worker focused operations by conducting surprise inspections and enforcement actions, targeting industries prone to involement with illegal employment from May 19 to yesterday (June 23). A total of 123 persons were arrested. Among them, 58 persons have been prosecuted for offences under the Immigration Ordinance, with 46 persons sentenced to prison terms ranging from 54 days to 22 months.
 
 The ImmD has long been highly vigilant against the problem of illegal employment and has taken vigorous and effective enforcement actions. In the past month and a half, the ImmD has mounted intelligence-led focused operations against illegal employment in the catering, cleaning andrenovation industries. From May 19 to June 23, ImmD investigators conducted raids at 815targeted locations across various districts in Hong Kong, resulting in the arrest of 89 illegal workers, 31 employers and three aiders and abettors. During an operation targeting the catering industry, ImmD investigators employed strategies including decoy operations at targeted restaurants, and conducted focused investigations at popular gathering spots for food delivery riders across multiple districts. A total of 60 illegal workers related to the catering industry were arrested, including dishwashers, kitchen workers, waiters, waitresses and food delivery riders. Furthermore, the ImmD conducted operations at housing estates and premises under renovation across various districts, arresting 14 illegal workers engaged in renovation and cleaning work.
@@ -759,7 +1283,16 @@ The arrested illegal workers, aged between 21 and 67, comprised 45 non-ethnic Ch
 Among the arrested illegal workers, 58 persons have been prosecuted for offences under the Immigration Ordinance, including breach of conditions of stay, using and being in possession of a forged Hong Kong identity card, and taking employment while being an illegal immigrant, a person who is the subject of a removal order or a deportation order, an overstayer or a person who was refused permission to land. Among them, 46 persons have been sentenced to prison terms ranging from 54 days to 22 months. The enforcement actions are ongoing, and the ImmD does not rule out the possibility of further arrests or prosecutions.
 
 The spokesman said that the ImmD will continue to combat illegal employment activities. The ImmD is committed to combating illegal employment by illegal immigrants, visitors, foreign domestic helpers, and imported workers bound by specific employment conditions in order to protect the local labour market. If illegal activities are suspected, citizens may contact the ImmD's dedicated hotline (2824 1551), email (anti_crime@immd.gov.hk) and online reporting platform (www.immd.gov.hk/eng/online-services/) to report illegal employment activities."
-​財政司司長在天津出席夏季達沃斯論壇（附圖／短片）,2025-06-24 18:55,2025-06-24 21:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400723.htm,"財政司司長陳茂波今日（六月二十四日）繼續在天津的訪問行程，出席世界經濟論壇2025年新領軍者年會（又稱夏季達沃斯論壇），以及帶領20多家香港的初創和企業代表，參訪天津濱海高新技術產業開發區，與區內企業座談和進行業務配對。
+入境處打擊非法勞工專項行動　共拘捕一百二十三人（附圖）,2025-06-24 19:00,2025-06-24 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400642.htm,"入境事務處（入境處）於五月十九日至昨日（六月二十三日）展開專項反非法勞工行動，重點針對非法勞工較活躍的行業，進行突擊巡查和執法行動。入境處共拘捕一百二十三人，當中五十八人已被落案起訴違反《入境條例》有關罪行，其中四十六人分別被判處五十四日至二十二個月監禁。
+
+入境處對非法勞工問題一直保持高度警覺，積極採取有力及有效的執法行動。入境處於過去一個半月開展一項專項行動，以情報主導的方式，重點打擊涉嫌從事飲食、清潔和裝修行業的非法勞工。於五月十九日至昨日（六月二十三日）期間，入境處調查人員突擊巡查全港各區共八百一十五個目標地點，合共拘捕八十九名非法勞工、三十一名涉嫌聘用非法勞工的僱主及三名協助及教唆者。在有關飲食行業的反非法勞工行動中，入境處調查人員以「放蛇」等方式，向目標食肆和餐廳展開執法行動，並於全港多區外賣速遞員聚集的區域作重點巡查，一共拘捕六十名與飲食業有關的非法勞工，當中包括洗碗員、廚房雜工、樓面侍應以及外賣速遞員。此外，入境處亦於全港各區搜查多個住宅屋苑和裝修中單位，共拘捕十四名涉嫌從事裝修和清潔工作的非法勞工。
+
+被捕的非法勞工年齡介乎二十一歲至六十七歲，包括四十五名非華裔人士（二十一男二十四女，當中十四男九女持有不允許僱傭工作的擔保書），以及四十四名內地居民（十二男三十二女）。被捕的非法勞工當中，十八人涉嫌行使及管有懷疑偽造身份證，三人涉嫌行使及管有他人身份證。行動中，三十四名香港居民（十八男十六女）因涉嫌聘用非法勞工或協助及教唆他人在港違反逗留條件而被捕。
+
+被捕的非法勞工當中，五十八人已被落案起訴違反《入境條例》有關罪行，包括違反逗留條件、行使及管有懷疑偽造身份證，以及身為非法入境者、受遣送離境令或遞解離境令規限的人、逾期逗留或被拒絕入境人士接受僱傭工作。當中，四十六人已被判處五十四日至二十二個月監禁。有關執法行動仍然繼續，不排除有更多人士被捕及檢控。
+
+入境處發言人表示，入境處會繼續致力打擊僱用非法勞工或非法受僱的活動，遏止非法入境者、訪客、外籍家庭傭工及受特定僱用條件規限的外地勞工在港非法工作，以保護本地勞工市場。市民如有懷疑，可聯絡入境處，入境處設有專責熱線（2824 1551）、電郵（anti_crime@immd.gov.hk）及網上舉報平台（www.immd.gov.hk/hkt/online-services/）供市民舉報非法勞工活動。"
+​財政司司長在天津出席夏季達沃斯論壇（附圖）,2025-06-24 18:55,2025-06-24 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400723.htm,"財政司司長陳茂波今日（六月二十四日）繼續在天津的訪問行程，出席世界經濟論壇2025年新領軍者年會（又稱夏季達沃斯論壇），以及帶領20多家香港的初創和企業代表，參訪天津濱海高新技術產業開發區，與區內企業座談和進行業務配對。
 
 陳茂波今日出席了年會的世界經濟領袖非正式聚會，與其他參會的國際和地區領袖就當前國際財金和貿易形勢和發展交流看法。
 
@@ -772,7 +1305,7 @@ The spokesman said that the ImmD will continue to combat illegal employment acti
 陳茂波傍晚也拜會了天津市委副書記劉桂平，雙方就加強津港兩地的貿易、金融、創科和旅遊等領域的合作深入交流。另外，陳茂波也與出席年會的西安市市長葉牛平會面，就進一步促進兩地的合作交換意見。
 
 陳茂波明日（六月二十五日）會繼續在天津出席年會，傍晚會轉往北京訪問。"
-​財政司司長在天津出席夏季達沃斯論壇（附圖）,2025-06-24 18:55,2025-06-24 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400723.htm,"財政司司長陳茂波今日（六月二十四日）繼續在天津的訪問行程，出席世界經濟論壇2025年新領軍者年會（又稱夏季達沃斯論壇），以及帶領20多家香港的初創和企業代表，參訪天津濱海高新技術產業開發區，與區內企業座談和進行業務配對。
+​財政司司長在天津出席夏季達沃斯論壇（附圖／短片）,2025-06-24 18:55,2025-06-24 21:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400723.htm,"財政司司長陳茂波今日（六月二十四日）繼續在天津的訪問行程，出席世界經濟論壇2025年新領軍者年會（又稱夏季達沃斯論壇），以及帶領20多家香港的初創和企業代表，參訪天津濱海高新技術產業開發區，與區內企業座談和進行業務配對。
 
 陳茂波今日出席了年會的世界經濟領袖非正式聚會，與其他參會的國際和地區領袖就當前國際財金和貿易形勢和發展交流看法。
 
@@ -810,15 +1343,6 @@ The spokesman said that the ImmD will continue to combat illegal employment acti
 記者：入境處拘捕九名輸入勞工涉嫌在合約訂明以外地點工作，請問局長如何看這件事？
 
 勞工及福利局局長：在補充勞工優化計劃下，輸入勞工的工作範圍及性質有清晰界定，不得超越標準僱傭合約訂明的職位及職務範圍。我們會按規矩處理，當然僱主亦有責任，因為輸入勞工的工作地點及職務範圍均有清晰規定。以飲食業為例，若獲聘輸入勞工的工作性質屬樓面，便只能從事樓面工作，若僱主安排其到食物工場工作屬違反規定，因為食物工場與樓面屬不同工作地點。我們有清晰規矩及明確要求，並會在巡查時加倍留意，確保大家按照既定規矩辦事。多謝大家。"
-Launching Ceremony for Energy Saving Charter 2025 and 4T Charter held today (with photos),2025-06-24 18:05,2025-06-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400288.htm,"âThe Environment and Ecology Bureau and the Electrical and Mechanical Services Department held the Launching Ceremony for Energy Saving Charter 2025 and 4T Charter today (June24) to encourage the community to save energy, reduce carbon emissions and accelerate low-carbon transformation.
-
-Speaking at the launching ceremony, the Under Secretary for Environment and Ecology, Miss Diane Wong, said that to align with the country's ""dual carbon"" target, the Government will continue to implement the four major decarbonisation strategies, namely net-zero electricity generation, energy saving and green buildings, green transport and waste reduction, to reduce Hong Kong's carbon emissions by half from the 2005 levels before 2035, and achieve carbon neutrality before 2050.
-
-Miss Wong said, ""Promoting energy saving and green buildings can reduce power consumption and the demand for power generation, and help society transition to using more clean fuels for electricity generation. The Buildings Energy Efficiency (Amendment) Bill 2025, which was passed by the Legislative Council on June 11, not only improves the buildings energy efficiency management regime of Hong Kong, but also helps to achieve a win-win scenario of saving electricity costs for buildings, reducing carbon emissions, and boosting the development of the green economy, thereby assisting Hong Kong to achieve carbon neutrality by 2050.""
-
-This year, over 3 400 premises have signed up to the Energy Saving Charter 2025. They pledged to maintain the average indoor temperature at their premises between 24 and 26 degrees Celsius during the summer months from June to September, switch off appliances when not in use, procure energy-efficient appliances, promote the use of renewable energy, and share with staff and students energy-saving measures and achievements. As for the 4T Charter, over 830 premises have joined by setting an energy-saving target with an action timeline, enhancing data transparency and encouraging stakeholders to work together to enhance energy saving. The EMSD will provide participating organisations with information on relevant innovative technologies and arrange seminars, to promote the development of green technology in Hong Kong while practicing energy saving and reducing carbon emission.
-
-The Energy Saving Competition for Students 2025 was also launched during the ceremony. It taps into the creativity and imagination of the younger generation for implementing energy-saving measures and adopting renewable and clean energy more extensively. Details of the Energy Saving Charter 2025, 4T Charter, and Energy Saving Competition for Students 2025 were uploaded to www.energysaving.gov.hk."
 Legislative Council Members and Sha Tin District Council members visit Tai Wai Nullah (with photos),2025-06-24 18:05,2025-06-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400639.htm,"The following is issued on behalf of the Legislative Council Secretariat:
 
   The Legislative Council (LegCo) Members and Sha Tin District Council (DC) members inspected Tai Wai Nullah today (June 24) to follow up on issues raised in the meeting held at LegCo by both sides on March 28 this year, including the views of DC members regarding the Tai Wai Nullah revitalization project, as well as the beautification and modification of the facilities along the nullah.
@@ -846,17 +1370,15 @@ Legislative Council Members and Sha Tin District Council members visit Tai Wai N
 立法會議員隨後視察大圍明渠中下游一帶，了解河道兩岸的休憩設施。議員並與沙田區議會議員、渠務署和沙田民政事務處的代表，就加快明渠工程、兼顧河道活化和綠化的需求、改善水質等事宜交換意見。
 
 出席是次視察活動的議員包括葛珮帆、江玉歡、李世榮、李梓敬、陸瀚民和蘇長荣。"
-"Interior designer and contractor fined $260,000 in total for contravention of Buildings Ordinance",2025-06-24 17:45,2025-06-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400566.htm,"  âAn interior designer and a contractor were fined $260,000 in total at the Kwun Tong Magistrates' Courts today (June 24), for contravention of the Buildings Ordinance (Cap. 123) (BO).
+Launching Ceremony for Energy Saving Charter 2025 and 4T Charter held today (with photos),2025-06-24 18:05,2025-06-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400288.htm,"âThe Environment and Ecology Bureau and the Electrical and Mechanical Services Department held the Launching Ceremony for Energy Saving Charter 2025 and 4T Charter today (June24) to encourage the community to save energy, reduce carbon emissions and accelerate low-carbon transformation.
 
-  âThe case involved the removal of part of a structural wall in a unit at The Capitol, Lohas Park, between 2022 and 2023. An investigation by the Buildings Department (BD) found that the interior designer and the contractor responsible for the renovation of the unit concerned knowingly carried out the works without prior approval and consent from the BD, thereby contravening section 40(1AA) of the BO. Moreover, the removal of part of the structural wall by the contractor was carried out in such a manner as was likely to cause a risk of injury to any person or damage to any property, thereby contravening section 40(2B)(b) of the BO. Hence, the BD instigated prosecution action under the BO against the interior designer and the contractor in May last year. The interior designer and the contractor were convicted and fined $60,000 and $200,000 respectively at the Kwun Tong Magistrates' Court today.
+Speaking at the launching ceremony, the Under Secretary for Environment and Ecology, Miss Diane Wong, said that to align with the country's ""dual carbon"" target, the Government will continue to implement the four major decarbonisation strategies, namely net-zero electricity generation, energy saving and green buildings, green transport and waste reduction, to reduce Hong Kong's carbon emissions by half from the 2005 levels before 2035, and achieve carbon neutrality before 2050.
 
-  âIn addition, the BD has also instigated prosecution action against the owner of the concerned unit for contravening sections 40(1AA) and 40(2B)(b) of the BO. The hearing is adjourned to August 28.
+Miss Wong said, ""Promoting energy saving and green buildings can reduce power consumption and the demand for power generation, and help society transition to using more clean fuels for electricity generation. The Buildings Energy Efficiency (Amendment) Bill 2025, which was passed by the Legislative Council on June 11, not only improves the buildings energy efficiency management regime of Hong Kong, but also helps to achieve a win-win scenario of saving electricity costs for buildings, reducing carbon emissions, and boosting the development of the green economy, thereby assisting Hong Kong to achieve carbon neutrality by 2050.""
 
-  âA spokesman for the BD said that any person who intends to carry out alteration and addition works should consult building professionals for advice, including the feasibility of the works, and where necessary, apply for approval and consent from the BD to ensure building safety and compliance with the Buildings Ordinance (BO). Building professionals and contractors are required to carefully examine the approved plans and other relevant documents to observe the relevant requirements under the BO, and to ascertain whether prior approval from the BD should be obtained before commencement of the works to ensure the safety of the occupants and the structural safety of the building.
+This year, over 3 400 premises have signed up to the Energy Saving Charter 2025. They pledged to maintain the average indoor temperature at their premises between 24 and 26 degrees Celsius during the summer months from June to September, switch off appliances when not in use, procure energy-efficient appliances, promote the use of renewable energy, and share with staff and students energy-saving measures and achievements. As for the 4T Charter, over 830 premises have joined by setting an energy-saving target with an action timeline, enhancing data transparency and encouraging stakeholders to work together to enhance energy saving. The EMSD will provide participating organisations with information on relevant innovative technologies and arrange seminars, to promote the development of green technology in Hong Kong while practicing energy saving and reducing carbon emission.
 
-  âPursuant to section 40(1AA) of the BO, any person who knowingly contravenes section 14(1) of the BO (i.e. commences or carries out any building works without having first obtained approval and consent from the BD) shall be guilty of an offence and liable upon conviction to a fine of $400,000 and to imprisonment for two years, and a further fine of $20,000 for each day that the offence continues.
-
-  âPursuant to section 40(2B)(b) of the BO, any person directly concerned with the relevant building works, who carries out or authorises or permits such works to be carried out, in such manner that it is likely to cause a risk of injury to any person or damage to any property, shall be guilty of an offence and liable upon conviction to a fine of $1,000,000 and to imprisonment for three years."
+The Energy Saving Competition for Students 2025 was also launched during the ceremony. It taps into the creativity and imagination of the younger generation for implementing energy-saving measures and adopting renewable and clean energy more extensively. Details of the Energy Saving Charter 2025, 4T Charter, and Energy Saving Competition for Students 2025 were uploaded to www.energysaving.gov.hk."
 室內設計師及承建商違反《建築物條例》被判罰款合共二十六萬元,2025-06-24 17:45,2025-06-24 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400565.htm,"觀塘裁判法院今日（六月二十四日）裁定一名室內設計師及一名承建商違反《建築物條例》（第123章），判罰款合共二十六萬元。
 
 有關個案涉及二○二二年至二○二三年期間在日出康城首都一單位拆去部分結構牆的工程。屋宇署調查發現，負責涉事單位裝修的室內設計師及承建商明知而未事先獲得屋宇署批准及同意便進行工程，違反《建築物條例》第40（1AA）條。此外，該承建商拆去部分結構牆的方式相當可能導致任何人受傷或任何財產損毀的危險，違反《建築物條例》第40（2B）（b）條。屋宇署遂於去年五月根據《建築物條例》對有關室內設計師及承建商提出檢控，他們於今日在觀塘裁判法院被定罪，有關室內設計師及承建商分別被判罰款六萬元及二十萬元。
@@ -868,34 +1390,17 @@ Legislative Council Members and Sha Tin District Council members visit Tai Wai N
 根據《建築物條例》第40（1AA）條的規定，任何人明知而違反《建築物條例》第14（1）條（即在未事先獲得屋宇署的批准及同意，展開或進行任何建築工程），即屬犯罪，一經定罪，可處罰款四十萬元及監禁兩年，及可就罪行持續的每一天，另處罰款二萬元。
 
 根據《建築物條例》第40（2B）（b）條的規定，與相關建築工程直接有關的人，如進行或授權或准許該等工程，而工程進行方式相當可能導致任何人受傷或任何財產損毁的危險，即屬犯罪，一經定罪，可處罰款一百萬元及監禁三年。"
-Scam alert related to banks,2025-06-24 17:35,2025-06-24 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400622.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+"Interior designer and contractor fined $260,000 in total for contravention of Buildings Ordinance",2025-06-24 17:45,2025-06-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400566.htm,"  âAn interior designer and a contractor were fined $260,000 in total at the Kwun Tong Magistrates' Courts today (June 24), for contravention of the Buildings Ordinance (Cap. 123) (BO).
 
-The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+  âThe case involved the removal of part of a structural wall in a unit at The Capitol, Lohas Park, between 2022 and 2023. An investigation by the Buildings Department (BD) found that the interior designer and the contractor responsible for the renovation of the unit concerned knowingly carried out the works without prior approval and consent from the BD, thereby contravening section 40(1AA) of the BO. Moreover, the removal of part of the structural wall by the contractor was carried out in such a manner as was likely to cause a risk of injury to any person or damage to any property, thereby contravening section 40(2B)(b) of the BO. Hence, the BD instigated prosecution action under the BO against the interior designer and the contractor in May last year. The interior designer and the contractor were convicted and fined $60,000 and $200,000 respectively at the Kwun Tong Magistrates' Court today.
 
+  âIn addition, the BD has also instigated prosecution action against the owner of the concerned unit for contravening sections 40(1AA) and 40(2B)(b) of the BO. The hearing is adjourned to August 28.
 
+  âA spokesman for the BD said that any person who intends to carry out alteration and addition works should consult building professionals for advice, including the feasibility of the works, and where necessary, apply for approval and consent from the BD to ensure building safety and compliance with the Buildings Ordinance (BO). Building professionals and contractors are required to carefully examine the approved plans and other relevant documents to observe the relevant requirements under the BO, and to ascertain whether prior approval from the BD should be obtained before commencement of the works to ensure the safety of the occupants and the structural safety of the building.
 
+  âPursuant to section 40(1AA) of the BO, any person who knowingly contravenes section 14(1) of the BO (i.e. commences or carries out any building works without having first obtained approval and consent from the BD) shall be guilty of an offence and liable upon conviction to a fine of $400,000 and to imprisonment for two years, and a further fine of $20,000 for each day that the offence continues.
 
-Bank
-Type of scam
-
-
-The Bank of East Asia, Limited
-Fraudulent websites and internet banking login screens
-
-
-Shanghai Commercial Bank Limited
-Fraudulent websites and internet banking login screens
-
-
-Chong Hing Bank Limited
-Fraudulent websites and internet banking login screens
-
-
-
-
-The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
-
-Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+  âPursuant to section 40(2B)(b) of the BO, any person directly concerned with the relevant building works, who carries out or authorises or permits such works to be carried out, in such manner that it is likely to cause a risk of injury to any person or damage to any property, shall be guilty of an offence and liable upon conviction to a fine of $1,000,000 and to imprisonment for three years."
 與銀行有關的騙案通知,2025-06-24 17:35,2025-06-24 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400623.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -924,6 +1429,34 @@ Anyone who has provided his or her personal information, or who has conducted an
 金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
 
 任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
+Scam alert related to banks,2025-06-24 17:35,2025-06-24 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400622.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+
+
+
+
+Bank
+Type of scam
+
+
+The Bank of East Asia, Limited
+Fraudulent websites and internet banking login screens
+
+
+Shanghai Commercial Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+Chong Hing Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 DH investigates case of carbon monoxide poisoning caused by waterpipe smoking,2025-06-24 17:34,2025-06-24 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400593.htm,"The Department of Health (DH) today (June 24) is investigating a case of carbon monoxide poisoning caused by waterpipe smoking, and advised members of the public against smoking waterpipe or using other smoking products.
 
 The Centre for Health Protection (CHP) of the DH received a notification from United Christian Hospital (UCH) that a 31-year-oldman lost consciousness and sustained head injury due to carbon monoxide poisoning after smoking waterpipe last Friday (June 20). After regaining consciousness, he went to UCH for treatment and was later discharged.
@@ -941,16 +1474,16 @@ Carbon monoxide is a colourless, tasteless and odourless gas which is a by-produ
 In addition, the Smoking (Public Health) Ordinance (Cap. 371) prohibits any person from conducting a smoking act in a statutory no smoking area (such as indoor areas of bars or restaurants). Any person conducting a smoking act in a statutory no smoking area is liable to a fixed penalty of $1,500.The Tobacco and Alcohol Control Office of the DH will follow up and investigate every complaint about illegal smoking, and will conduct inspections and enforcement actions at the venue concerned. The DH will continue to closely monitor and take stringent enforcement actions to tackle illegal waterpipe smoking.
 
 The DH again urges the public not to smoke waterpipe. Furthermore, smoking is a major preventable cause of death. For health reason, members of the public should quit smoking now. They can call the DH's Integrated Smoking Cessation Hotline at 1833 183, or visit the thematic webpage (www.livetobaccofree.hk/en)."
-尋回灣仔失蹤男子,2025-06-24 17:32,2025-06-24 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400648.htm,"一名在灣仔失蹤的男子已被尋回。
-
-四十四歲男子林良建六月二十一日下午在駱克道最後露面後便告失蹤，其家人六月二十二日向警方報案。
-
-該名男子今日（六月二十四日）下午在沙田小瀝源路一商場被尋回。他沒有受傷，案件沒有可疑。"
 Missing man in Wan Chai located,2025-06-24 17:32,2025-06-24 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400647.htm,"A man who went missing in Wan Chai has been located.
 
 Lam Leung-kin, Eric, aged 44, went missing after he was last seen on Lockhart Road on June 21 afternoon. His family made a report to Police on June 22.
 
 The man was located in a shopping mall on Siu Lek Yuen Road, Sha Tin this afternoon (June 24). He sustained no injuries and no suspicious circumstances were detected."
+尋回灣仔失蹤男子,2025-06-24 17:32,2025-06-24 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400648.htm,"一名在灣仔失蹤的男子已被尋回。
+
+四十四歲男子林良建六月二十一日下午在駱克道最後露面後便告失蹤，其家人六月二十二日向警方報案。
+
+該名男子今日（六月二十四日）下午在沙田小瀝源路一商場被尋回。他沒有受傷，案件沒有可疑。"
 民政事務總署開放臨時避暑中心,2025-06-24 17:00,2025-06-24 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400595.htm,"民政事務總署今日（六月二十四日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
 
 臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
@@ -1084,13 +1617,6 @@ Tin Yiu Community Centre
 Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf."
-Celebrating the 28th Anniversary of the Establishment of the Hong Kong Special Administrative Region and Voting together with the Ballot Box Family - Electoral Information Centre Open Day,2025-06-24 16:50,2025-06-24 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400575.htm,"âTo celebrate with members of the public the 28th anniversary of the establishment of the Hong Kong Special Administrative Region (HKSAR), the Registration and Electoral Office (REO) will hold the Electoral Information Centre (EIC) Open Day on July 1 (Tuesday).
-
-The Open Day will offer a wide range of programmes. Apart from talks on electoral information, a number of interactive games have been set up in the EIC, namely ""Say 'No' to Corrupted Flies"" on clean elections; ""Electors' Intersection"" on voter registration; ""Constructing an Election"" on different stages of an election; and the game ""One-day Counting Assistant"" on a mock counting process, with a view to deepening public knowledge of the electoral system of the HKSAR through diverse activities. Visitors can also take photos with the Ballot Box Family mascots at the EIC and have a chance to win souvenirs.
-
- The EIC will be open for individual visits from 2pm to 6pm on the Open Day. The visits will be free of charge and on a first-come, first-served basis until the quota is full. Members of the public who are interested may call the REO's hotline at 2891 1001 during office hours from 8.45am to 6pm to make an appointment from today (June 24) until June 30. For group visits, the REO has earlier issued invitations to non-governmental organisations and institutions, and the quota is full.
-
- The EIC is located at 7/F, Treasury Building, 3 Tonkin Street West, Cheung Sha Wan, Kowloon. For details regarding the Open Day, please visit the EIC webpage (www.reo.gov.hk/en/service-desk/ecenter/2025openday.html) or call the hotline at 2891 1001."
 「慶賀香港特別行政區成立二十八周年、與票箱家族齊投票」──選舉資訊中心開放日,2025-06-24 16:50,2025-06-24 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400569.htm,"為慶祝香港特別行政區（特區）成立二十八周年，選舉事務處將於七月一日（星期二）舉辦選舉資訊中心開放日，與市民共慶回歸。
 
 開放日活動內容豐富，除了選舉資訊講座，選舉資訊中心亦設多款互動遊戲，包括宣揚廉潔選舉的「向貪污蠅說『不』」、推廣選民登記的「選民交叉點」、解構選舉工作不同環節的「選舉大工程」和模擬點票流程的「一日點票員」，讓參加者透過多元化的活動，加深對特區選舉制度的認識。市民亦可在現場與吉祥物「票箱家族」「打卡」留念，並有機會贏取紀念品。
@@ -1098,6 +1624,13 @@ The Open Day will offer a wide range of programmes. Apart from talks on electora
 選舉資訊中心開放日的個人參觀時間為下午二時至六時，費用全免，名額先到先得，額滿即止。有興趣的市民可由即日（六月二十四日）起至六月三十日，於辦公時間上午八時四十五分至下午六時致電選舉事務處熱線2891 1001預約。至於團體參觀方面，選舉事務處較早前已向非政府組織和機構發出邀請，相關名額已滿。
 
 選舉資訊中心位於九龍長沙灣東京街西三號庫務大樓七樓。有關開放日詳情，請瀏覽選舉資訊中心網頁（www.reo.gov.hk/tc/service-desk/ecenter/2025openday.html）或致電熱線2891 1001查詢。"
+Celebrating the 28th Anniversary of the Establishment of the Hong Kong Special Administrative Region and Voting together with the Ballot Box Family - Electoral Information Centre Open Day,2025-06-24 16:50,2025-06-24 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400575.htm,"âTo celebrate with members of the public the 28th anniversary of the establishment of the Hong Kong Special Administrative Region (HKSAR), the Registration and Electoral Office (REO) will hold the Electoral Information Centre (EIC) Open Day on July 1 (Tuesday).
+
+The Open Day will offer a wide range of programmes. Apart from talks on electoral information, a number of interactive games have been set up in the EIC, namely ""Say 'No' to Corrupted Flies"" on clean elections; ""Electors' Intersection"" on voter registration; ""Constructing an Election"" on different stages of an election; and the game ""One-day Counting Assistant"" on a mock counting process, with a view to deepening public knowledge of the electoral system of the HKSAR through diverse activities. Visitors can also take photos with the Ballot Box Family mascots at the EIC and have a chance to win souvenirs.
+
+ The EIC will be open for individual visits from 2pm to 6pm on the Open Day. The visits will be free of charge and on a first-come, first-served basis until the quota is full. Members of the public who are interested may call the REO's hotline at 2891 1001 during office hours from 8.45am to 6pm to make an appointment from today (June 24) until June 30. For group visits, the REO has earlier issued invitations to non-governmental organisations and institutions, and the quota is full.
+
+ The EIC is located at 7/F, Treasury Building, 3 Tonkin Street West, Cheung Sha Wan, Kowloon. For details regarding the Open Day, please visit the EIC webpage (www.reo.gov.hk/en/service-desk/ecenter/2025openday.html) or call the hotline at 2891 1001."
 紹興小百花越劇團七月為「中華文化節」獻演三場經典越劇（附圖）,2025-06-24 16:45,2025-06-24 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400477.htm,"  中國戲劇梅花獎二度梅得主吳鳳花聯同兩位梅花獎得主吳素英和陳飛，將率領紹興小百花越劇團的優秀演員，於七月赴港為康樂及文化事務署（康文署）策劃的「中華文化節2025」演出三場經典越劇《孔雀東南飛》、《沉香扇》和《穆桂英掛帥》，文采武韻兼備，戲迷不容錯過。此節目亦為第十三屆中國戲曲節節目之一。
 
   越劇，又名紹興戲，發源於浙江省紹興市嵊州，即古越國所在地，故稱越劇。越劇以板腔體及不同唱腔流派為主要特徵，歷年來各流派傳承下，培養出多位知名的越劇表演藝術家，如范瑞娟（范派）、傅全香（傅派）和呂瑞英（呂派）等，藝術造詣備受肯定。
@@ -1204,17 +1737,6 @@ DSJ leads cross-professional delegation to Guangzhou to facilitate Mainland ente
   Tickets priced at $60 will be available at URBTIX (www.urbtix.hk) from June 27 (Friday). For telephone bookings, please call 3166 1288. For programme details, please visit www.filmarchive.gov.hk/en/web/hkfa/2025/ccf-crossing-years/pe-event-2025-ccf-crossing-years.htmlor call 2739 2139. The Far-Sun Film Company Limited is the partner organisation of the screening programme.
 
  The CCF, presented by the Culture, Sports and Tourism Bureau and organised by the Chinese Culture Promotion Office under the LCSD, aims to promote Chinese culture and enhance the public's national identity and cultural confidence. For more information about programmes and activities of the CCF 2025, please visitwww.ccf.gov.hk."
-日本進口水產的檢測情況,2025-06-24 16:15,2025-06-24 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400557.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由六月二十三日中午截至今日（六月二十四日）中午，食安中心已對146個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共145 978個日本進口食物樣本（包括95 893個水產及其製品、海藻及海鹽樣本）及共33 342個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 ​申訴專員全面調查物業管理業監管局處理及回覆巿民投訴的程序和機制（附圖）,2025-06-24 16:15,2025-06-24 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400567.htm,"下稿代申訴專員公署發出：
 
 申訴專員陳積志今日（六月二十四日）宣布展開全面調查，詳細審研現時物業管理業監管局（物監局）處理及回覆巿民投訴的程序和機制。
@@ -1253,6 +1775,17 @@ Inspection of aquatic products imported from Japan,2025-06-24 16:15,2025-06-24 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 145 978 samples of food imported from Japan (including 95 893 samples of aquatic and related products, seaweeds and sea salt) and 33 342 samples of local catch respectively. All the samples passed the tests."
+日本進口水產的檢測情況,2025-06-24 16:15,2025-06-24 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400557.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由六月二十三日中午截至今日（六月二十四日）中午，食安中心已對146個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共145 978個日本進口食物樣本（包括95 893個水產及其製品、海藻及海鹽樣本）及共33 342個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 外匯基金票據投標結果,2025-06-24 16:05,2025-06-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400556.htm,"下稿代香港金融管理局發出︰
 
 外匯基金票據投標結果：
@@ -1741,6 +2274,7 @@ HK$5,000 MN
 
 
 "
+港匯指數,2025-06-24 16:00,2025-06-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400184.htm,二○二五年六月二十四日（星期二）的港幣匯率指數為一百零二點九（和昨日指數比較下降零點四）。
 房屋局局長訪問北京,2025-06-24 16:00,2025-06-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400257.htm,"​ 房屋局局長何永賢明日（六月二十五日）下午啓程前往北京訪問。她將於六月二十六日在清華大學出席亞太住房研究網絡（Asia-Pacific Network of Housing Research）2025年大會，並在大會中發言，討論有關亞太區住房發展的機遇與挑戰，並以《提升幸福感和社會流動的房屋政策》為題，分享香港特區政府如何以人為本推動房屋政策，透過更宜居的設計提升居民幸福感，並搭建房屋階梯，讓市民上進上流。
 
 訪京期間，何永賢將拜訪國務院港澳事務辦公室，亦會與國務院國有資產監督管理委員會及國家住房和城鄉建設部官員會面。此外，她亦會參觀當地的創新科技實驗室，以了解內地應用智能和綠色科技的最新發展。
@@ -1752,7 +2286,6 @@ During her visit to Beijing, Ms Ho will call on the Hong Kong and Macao Affairs 
 
 Ms Ho will return to Hong Kong on June 27. During her absence, the Under Secretary for Housing, Mr Victor Tai, will be the Acting Secretary for Housing."
 Effective Exchange Rate Index,2025-06-24 16:00,2025-06-24 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400181.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, June 24, 2025 is 102.9 (down 0.4 against yesterday's index)."
-港匯指數,2025-06-24 16:00,2025-06-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400184.htm,二○二五年六月二十四日（星期二）的港幣匯率指數為一百零二點九（和昨日指數比較下降零點四）。
 醫務衞生局局長歡迎中成藥過渡性註冊制度結束,2025-06-24 15:47,2025-06-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062400350.htm,"醫務衞生局（醫衞局）局長盧寵茂教授今日（六月二十四日）欣悉香港中醫藥管理委員會（管委會）順利完成處理所有中成藥過渡性註冊的審批工作，而中成藥過渡性註冊制度亦將於六月三十日結束，為本港中醫藥規管立下重要里程碑，除確保市民可獲得優質和安全的中成藥，同時亦有助香港發展為中醫藥國際化橋頭堡。
 
 盧寵茂教授說︰「我感謝管委會及轄下中藥組多年來努力，排除萬難完成中成藥過渡性註冊制度這項歷史任務。香港註冊中成藥將會成為本港中醫藥發展和醫療創新其中一個重要環節，香港擁有完善的中成藥規管制度，其品牌效應可以吸引更多海內外優質中成藥來港註冊，協助中藥業進一步拓展國際市場，加速中醫藥國際化的進程。」
@@ -2009,24 +2542,6 @@ Fourth, enhance traditional strengths, focusing on reform and innovation, enhanc
 我覺得科技能處理既安全又方便的問題，但這次出現甚麼事，令我們要更強化某些系統，令它更安全，這是重要的，任何交通工具，亦一定要重視安全，有人駕駛的要重視安全，無人駕駛的更重視安全。這是世界發展的大勢所趨，我相信將來即使不在香港，我們出外，很多地方都會有無人駕駛，所以這個技術將未來會在不同地方出現，香港必然要出現。但我們必然要確保安全，這方面我們努力，我希望這個調查盡快找出原因。而且香港現時正在進行測試的無人駕駛車輛，有很多間公司、很多車種，而且是由運輸署嚴格監督，審視他們實際測試的情況，就這方面，我們的要求很高，市民可以放心，我們的標準是高的。多謝大家。
 
 （請同時參閱答問內容英文部分）"
-Public invited to Hospital Authority Board Meeting,2025-06-24 12:00,2025-06-24 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062300558.htm,"The following is issued on behalf of the Hospital Authority:
-
-  Members of the public are invited to attend the Hospital Authority (HA) Board Meeting to be held on June 26 (Thursday) at 4pm.
-
-  The HA Board Meeting has been open to members of the public since 1998 to demonstrate the continuous effort of the Authority to enhance its transparency and public accountability. The HA Board holds meetings at regular intervals to discuss major health policy issues that have impacts on the public. Through these open meetings, the community is able to understand more about the role and functions of the HA Board as well as the operation and services of the HA and its hospitals.
-
-  The HA Board will discuss the following agenda items in the coming meeting:
-
-
-Progress Report on Strategic Priorities;
-Annual Report on the Operation of the Community Care Fund Medical Assistance Programmes;
-Cluster Presentation Programme - Kowloon Central Cluster - Hong Kong Breast Milk Bank: Advancing Infant Health through Safe Breast Milk Donation; and
-Cluster Presentation Programme - Kowloon East Cluster - A Venture of Faith - Evolution of Pulmonary Rehabilitation Service at Haven of Hope Hospital.
-
-
-  The meeting agenda and papers will be made available to the public at the meeting. Members of the public are reminded that they can attend the Board Meeting only as observers and will not be participating in the meeting discussions.
-
-  Members of the public who are interested in attending the coming Board Meeting have to make an advance booking by contacting the Secretariat of the HA Board at 2300 6797 before noon on June 26. To facilitate booking arrangements, members of the public are advised to provide their names and contact telephone numbers. In view of the limited seating available in the public gallery of the meeting venue, seating will be reserved on a first-come, first-served basis."
 醫管局大會會議邀市民出席旁聽,2025-06-24 12:00,2025-06-24 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062300560.htm,"下稿代醫院管理局發出︰
 
 醫院管理局（醫管局）大會將於六月二十六日（星期四）下午四時舉行會議，歡迎市民出席旁聽。
@@ -2045,3 +2560,21 @@ Cluster Presentation Programme - Kowloon East Cluster - A Venture of Faith - Evo
 市民可在會議當日索閱會議的議程和文件。出席會議的市民是以旁聽身分出席，並不參與討論。
 
 有興趣出席醫管局大會會議的市民，可於六月二十六日中午十二時前致電醫管局大會秘書處2300 6797留座，市民在留座時須提供姓名及聯絡電話。由於會議場地公眾席的座位有限，將以先到先得方式安排留位。"
+Public invited to Hospital Authority Board Meeting,2025-06-24 12:00,2025-06-24 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202506/24/P2025062300558.htm,"The following is issued on behalf of the Hospital Authority:
+
+  Members of the public are invited to attend the Hospital Authority (HA) Board Meeting to be held on June 26 (Thursday) at 4pm.
+
+  The HA Board Meeting has been open to members of the public since 1998 to demonstrate the continuous effort of the Authority to enhance its transparency and public accountability. The HA Board holds meetings at regular intervals to discuss major health policy issues that have impacts on the public. Through these open meetings, the community is able to understand more about the role and functions of the HA Board as well as the operation and services of the HA and its hospitals.
+
+  The HA Board will discuss the following agenda items in the coming meeting:
+
+
+Progress Report on Strategic Priorities;
+Annual Report on the Operation of the Community Care Fund Medical Assistance Programmes;
+Cluster Presentation Programme - Kowloon Central Cluster - Hong Kong Breast Milk Bank: Advancing Infant Health through Safe Breast Milk Donation; and
+Cluster Presentation Programme - Kowloon East Cluster - A Venture of Faith - Evolution of Pulmonary Rehabilitation Service at Haven of Hope Hospital.
+
+
+  The meeting agenda and papers will be made available to the public at the meeting. Members of the public are reminded that they can attend the Board Meeting only as observers and will not be participating in the meeting discussions.
+
+  Members of the public who are interested in attending the coming Board Meeting have to make an advance booking by contacting the Secretariat of the HA Board at 2300 6797 before noon on June 26. To facilitate booking arrangements, members of the public are advised to provide their names and contact telephone numbers. In view of the limited seating available in the public gallery of the meeting venue, seating will be reserved on a first-come, first-served basis."
