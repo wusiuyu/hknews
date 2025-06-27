@@ -1,4 +1,27 @@
 title,date,summary,scrape_time,section,source,url,news_content
+'TKO line short circuit due to flashover-led tripping',2025-06-27 19:22,,2025-06-27 19:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1810990-20250627.htm,"A sagged overhead cable coming into contact with passing trains was to blame for malfunctions in both the power supply and signalling systems that triggered a five-hour service suspension along the Tseung Kwan O line last month, Hong Kong's railway operator revealed on Friday.
+
+The MTR Corporation also vowed to bolster the ""overall resilience of the railway network"" and strengthen response capabilities, in a report to the government detailing the cause of the breakdown.
+
+Services along the line were disrupted on May 22 during the evening rush hour, leaving tens of thousands of commuters stranded and scrambling to find ways to get home.
+
+In the report, the MTR said the traction power to the overhead line between North Point and Yau Tong stations was interrupted due to a short circuit at around 5.14pm that day, while the signalling system of the Tsueng Kwan O line failed at about the same time.
+
+There was intermittent tripping during the repair process when different trains passed by, the report said.
+
+The MTR said the power system tripping was ""caused by a sagged overhead line jumper wire"" that resulted in flashover with the roof of trains when they were running at a normal speed. 
+
+""The power current surge during the flashover had activated the protection by tripping of the respective [direct current circuit breakers] and also caused interference to the signalling system of the [Tseung Kwan O line],"" the report said.
+
+To follow up on the incident, the MTR pledged to change the overhead line design at the line's floodgate sections, introduce additional maintenance guidelines and necessary staff training, and use innovation and technology to facilitate fault diagnosis and recovery. 
+
+The railway operator also said it's putting into place measures to reinforce its asset management and maintenance regime, including an immediate one-off inspection of targeted critical assets, and the formulation of ""last resort"" measures to keep services running. 
+
+In receiving the report, Secretary for Transport and Logistics Mable Chan urged the MTR management to work together with all staff members to implement measures set out. 
+
+""The [MTR Corporation] must proactively address potential issues before they arise, enhance the safety of its railway systems and accelerate the application of innovative technologies to realise predictive maintenance for fortifying the overall resilience of the railway system,"" Chan said.
+
+MTR bosses should ""strengthen the sense of accountability of staff from different ranks"", she added."
 嘉禾院線結束在香港影院業務,2025-06-27 19:14,,2025-06-27 19:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810992-20250627.htm,"嘉禾院線表示，將結束在香港的影院業務。
 
 院線在社交專頁說，在the sky、StagE、嘉禾銀河廣場和嘉禾大埔戲院的租約本月29日到期，公司將結束相關業務。
@@ -25,12 +48,12 @@ title,date,summary,scrape_time,section,source,url,news_content
 對於預計營運的車輛數字比政府最初預計的3500輛少，運輸署署長李頌恩表示，的士車隊在車輛購置、硬件 或系統裝備上進展是比較理想，但了解到車隊招募司機方面要更加把勁。
 
 有車隊代表說，即使有司機有意加入，車隊都要提供培訓，包括行車安全、服務態度等，是要時間準備。  另外，政府透露八達通正構建一個統一平台，市民可以在平台預約五支車隊的士，各車隊正準備加入平台的相關工作。 "
-美國與中國簽署涉稀土貿易協議　中方：依法審批管制物項出口,2025-06-27 18:55,,2025-06-27 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810986-20250627.htm,"美國總統特朗普表示，美國與中國星期三簽署了一份貿易相關協議。美國商務部長盧特尼克透露，中方承諾向美國提供稀土，美方將會取消反制措施。
-
-在北京，商務部表示，中方將依法審批符合條件的管制物項出口申請，美方將會取消對華採取的一系列限制性措施。"
 美國公開用於轟炸伊朗核設施鑽地彈片段,2025-06-27 18:55,,2025-06-27 19:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810985-20250627.htm,"美國國防部公開用於轟炸伊朗核設施同款鑽地彈測試片段，指這款炸彈專門為攻擊伊朗地底核設施而研發。
 
 伊朗最高領袖哈梅內伊批評，美國誇大攻擊造成的破壞；伊朗外長就表示，目前無任何啟動同美國談判的計劃。"
+美國與中國簽署涉稀土貿易協議　中方：依法審批管制物項出口,2025-06-27 18:55,,2025-06-27 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810986-20250627.htm,"美國總統特朗普表示，美國與中國星期三簽署了一份貿易相關協議。美國商務部長盧特尼克透露，中方承諾向美國提供稀土，美方將會取消反制措施。
+
+在北京，商務部表示，中方將依法審批符合條件的管制物項出口申請，美方將會取消對華採取的一系列限制性措施。"
 人大常委會通過建立調解院公約　鄭雁雄獲任命新職務,2025-06-27 18:54,,2025-06-27 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810984-20250627.htm,"在北京舉行的全國人大常委會會議閉幕，會議表決通過人大常委會批准《關於建立國際調解院的公約》的決定。
 
 人事方面，會議經表決免去苗華的中央軍事委員會委員職務；曾任中聯辦主任的鄭雁雄，就獲任命為全國人大教育科學文化衛生委員會副主任委員。"
@@ -79,6 +102,11 @@ He added the administration is planning to invite visitors, including influentia
 他說上任以來在改變政府文化方面取得進步，希望在5年任期內做最多的工作。
 
 李家超提到，計劃邀請具影響力的人士訪港，宣傳香港的好故事。"
+港鐵稱將軍澳綫事故涉跨接線下垂觸車頂引發火花、跳掣及干擾信號,2025-06-27 18:27,,2025-06-27 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810967-20250627.htm,"信事故原因，是由於架空電纜系統的一條跨接線下垂，接觸到經過的列車車頂，產生火花以至多次跳掣，同時令信號系統受到干擾。
+
+報告提出數項建議，港鐵亦會採取跟進行動，包括就關鍵資產進行一次針對性特別檢查，並提升鐵路網絡的整體韌性。
+
+運輸及物流局表示，期望港鐵管理層能推動各層級的員工，一同落實各項跟進措施。"
 李頌恩指5支的士車隊預計至7月底會有近千輛的士投入服務,2025-06-27 18:27,,2025-06-27 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810963-20250627.htm,"運輸署署長李頌恩表示，5支的士車隊預計到7月底會有近1千輛的士投入服務，政府計劃在7月起向各支車隊發出正式的士牌照。
 
 她強調，發牌要求沒有放寬，在司機招聘上則要加把勁，但最近招聘反應踴躍，因此希望服務別遲疑推出。
@@ -87,11 +115,6 @@ He added the administration is planning to invite visitors, including influentia
 入境處料七一假期北上市民及內地來港旅客增　各口岸準備就緒,2025-06-27 18:27,,2025-06-27 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810966-20250627.htm,"七一假期將至，入境處處長郭俊峯表示，預計北上市民及內地來港旅客會增加，各口岸已準備就緒，會靈活調配人手應對。
 
 在中東局勢方面，郭俊峯說，目前仍有一名伊朗籍的香港居民身處伊朗，當局會繼續跟進。"
-港鐵稱將軍澳綫事故涉跨接線下垂觸車頂引發火花、跳掣及干擾信號,2025-06-27 18:27,,2025-06-27 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810967-20250627.htm,"信事故原因，是由於架空電纜系統的一條跨接線下垂，接觸到經過的列車車頂，產生火花以至多次跳掣，同時令信號系統受到干擾。
-
-報告提出數項建議，港鐵亦會採取跟進行動，包括就關鍵資產進行一次針對性特別檢查，並提升鐵路網絡的整體韌性。
-
-運輸及物流局表示，期望港鐵管理層能推動各層級的員工，一同落實各項跟進措施。"
 商務部審批符合條件管制物項出口申請　外交部促美方落實元首共識,2025-06-27 18:26,,2025-06-27 18:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810974-20250627.htm,"美國總統特朗普表示，與中國簽署了一項與貿易相關的協議。商務部長盧特尼克說，中國承諾向美國提供稀土，如果中方交付稀土，美方就會取消反制措施。
 
 在北京，商務部表示，經批准，中美雙方經貿團隊近日進一步確認日內瓦經貿會談成果的框架細節，中方將依法審批符合條件的管制物項出口申請，美方將相應取消對華採取的一系列限制性措施。外交部表示，希望美方同中方一起落實兩國元首通話達成的重要共識，通過對話增進共識，減少誤解，加強合作，推動中美關係穩定健康可持續發展。"
@@ -103,13 +126,6 @@ He added the administration is planning to invite visitors, including influentia
 運輸及物流局局長陳美寶致辭時表示，機場是香港的金漆招牌，今年是香港第14年成為全球最繁忙的貨運機場，即使最近在中美關稅戰影響下，本港今年首數個月，每月貨運量成績都非常亮麗，單月達到40萬公噸，有把握全年貨運量能夠再下一城。
 
 陳美寶形容，疫情後本港客運復蘇速度有如火箭快速，今年首5個月客運量已達到2500萬人次，按年增加超過20%，復活節出行高峰時單日有近20人次，每日有1100架飛機升降，需要吸引多元化人才加入航空相關行業。"
-機管局稱無人駕駛巴士碰撞與系統訊號運算有關,2025-06-27 18:12,,2025-06-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810970-20250627.htm,"機管局表示，機場兩輛無人駕駛巴士過去的星期日下午，在機場禁區發生碰撞的事故原因，與系統訊號運算有關。
-
-機管局機場運行執行總監姚兆聰說，當時兩輛車駛到一個T字路口時有偵測到對方，並停了車，但之後在同一時間一起啟動，當時系統已即時察覺有機會發生擦碰，於是一起煞車，兩者車速已經減低至每小時2.2公里，較人步行的速度還要慢，到差不多停定時才發生輕微觸碰。
-
-姚兆聰表示，事件反映車輛的系統運算法有改進空間，包括出路口時減慢車速以增加煞車緩衝時車，以及改善兩車的系統溝通聯繫，預計一至兩個星期內能夠完成優化。
-
-另外，機管局和勞工署今日起一連三日在會展舉行「香港國際機場職業博覽會」。姚兆聰表示，大約40家機場同業公司將提供超過3000個就業機會，涵蓋機場相關的不同工作範疇。"
 5支的士車隊正積極招聘及培訓司機或測試預約程式,2025-06-27 18:12,,2025-06-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810971-20250627.htm,"運輸署表示，計劃在7月內向5支車隊發出正式的士車隊牌照，讓車隊盡快投入服務。
 
 其中一支車隊Amigo的代表唐子濤說，近日有過百名司機表達加入車隊的意願，即將以「先到先得」原則安排錄用，即使司機有興趣都要接受適合的培訓，包括行車安全、服務態度，以及對於車輛操作達到水平，才可以正式提供服務。
@@ -117,6 +133,13 @@ He added the administration is planning to invite visitors, including influentia
 另一支車隊大黃蜂愛心車隊的代表黃大海說，的士司機從業總會有6萬多名會員，在其支持下，司機人手方面沒有太大壓力，最關鍵是需要時間進行系統壓力測試。
 
 Big Boss Taxi表示，正積極培訓司機，包括如何照顧有需要人士；樂行車隊指，在試營運期間不斷改善網上預約程式；星群的士對於收到乘客的正面意見感到欣喜。"
+機管局稱無人駕駛巴士碰撞與系統訊號運算有關,2025-06-27 18:12,,2025-06-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810970-20250627.htm,"機管局表示，機場兩輛無人駕駛巴士過去的星期日下午，在機場禁區發生碰撞的事故原因，與系統訊號運算有關。
+
+機管局機場運行執行總監姚兆聰說，當時兩輛車駛到一個T字路口時有偵測到對方，並停了車，但之後在同一時間一起啟動，當時系統已即時察覺有機會發生擦碰，於是一起煞車，兩者車速已經減低至每小時2.2公里，較人步行的速度還要慢，到差不多停定時才發生輕微觸碰。
+
+姚兆聰表示，事件反映車輛的系統運算法有改進空間，包括出路口時減慢車速以增加煞車緩衝時車，以及改善兩車的系統溝通聯繫，預計一至兩個星期內能夠完成優化。
+
+另外，機管局和勞工署今日起一連三日在會展舉行「香港國際機場職業博覽會」。姚兆聰表示，大約40家機場同業公司將提供超過3000個就業機會，涵蓋機場相關的不同工作範疇。"
 女子失蹤案據悉警方打撈到懷疑女事主手提電話,2025-06-27 18:10,,2025-06-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810969-20250627.htm,"49歲越南女子懷疑失蹤案，據了解，警方今日在馬灣對開，打撈到懷疑屬於女事主的手提電話，搜證工作仍然繼續。
 
 警方循謀殺方向調查案件，正追緝一名持「行街紙」的非華裔男子。"
@@ -447,6 +470,13 @@ The sentiment was shared by lawmaker Priscilla Leung, who also pointed out the n
 政府同時研究立法取締劣質劏房，合乎規範的單位將名為「簡樸房」，李家超在專訪中指出，如法例獲得通過，明年初便可開始登記，整個「簡樸房」計劃，便可取締不合規的劏房。他感謝同事們努力將這個超過10年的難題逐步處理好。
 
 回顧三年施政，李家超表示，未來工作仍然繁重，但他非常感謝政府團隊，非常支持他的施政理念，亦非常高興在一些方面有進步，特別是改變政府文化。他要求大家做一個以結果為目標的政府，這個文化改造很重要，5年內，他希望做最多工作，又解釋他覺得時間不夠，是因為希望追時間，追成果。"
+李頌恩：了解到的士車隊在司機招募上要「加把勁」7月會繼續招聘,2025-06-27 13:36,,2025-06-27 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810914-20250627.htm,"運輸署署長李頌恩表示，5支的士車隊在車輛購置和系統設置上進度理想，大部分已達到6成，但即使有車都需要司機營運，而她亦了解到車隊在司機招募上要「加把勁」，繼續有功夫要做，7月會繼續招聘工作。
+
+5支的士車隊合共可提供超過3500輛的士，而根據的士車隊牌照暫准通知條件，5間獲選營辦商需要在今年7月底前完成籌備工作並投入服務，屆時各車隊規模須至少達到車隊的士數目總數的6成，即至少有2100輛。
+
+署方預計，7月底前會有近1千輛車隊的士投入服務，低於原來預期，被問到當局發出的士車隊牌照，是否放寬門檻。李頌恩表示，車隊管理、提供的服務等發牌要求均無放寬。
+
+至於車輛數目方面，她說正務實觀察現時司機的招聘情況，不同車隊正進行招聘，司機的反應踴躍，亦有一些「新血」願意參加，司機對的士車隊概念的認知正在提高，市民亦反應正面，當局認為對業界發展好的事，就要付諸實行，不要遲疑，應該落地去做。"
 "1,000 taxis to hit roads by end of July in fleets push",2025-06-27 13:36,,2025-06-27 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1810909-20250627.htm,"Around 1,000 taxis will hit the road by the end of July as part of the government's push for a fleet system, Commissioner for Transport Angela Lee announced on Friday.
 
 She said five fleets – granted conditional licenses last year – have begun trial runs and provided more than 120,000 rides. 
@@ -468,13 +498,6 @@ The Labour Department, she added, had conducted many recruitment sessions to ass
 The fleet operators, she said, are in discussions with Octopus to join its ""Easy Ride"" service after the electronic payments system giant announced in early June that the service would enable people to book and pay for a ride on its app.
 
 However, no specific timeline has been announced for the start of the one-stop hailing service.."
-李頌恩：了解到的士車隊在司機招募上要「加把勁」7月會繼續招聘,2025-06-27 13:36,,2025-06-27 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810914-20250627.htm,"運輸署署長李頌恩表示，5支的士車隊在車輛購置和系統設置上進度理想，大部分已達到6成，但即使有車都需要司機營運，而她亦了解到車隊在司機招募上要「加把勁」，繼續有功夫要做，7月會繼續招聘工作。
-
-5支的士車隊合共可提供超過3500輛的士，而根據的士車隊牌照暫准通知條件，5間獲選營辦商需要在今年7月底前完成籌備工作並投入服務，屆時各車隊規模須至少達到車隊的士數目總數的6成，即至少有2100輛。
-
-署方預計，7月底前會有近1千輛車隊的士投入服務，低於原來預期，被問到當局發出的士車隊牌照，是否放寬門檻。李頌恩表示，車隊管理、提供的服務等發牌要求均無放寬。
-
-至於車輛數目方面，她說正務實觀察現時司機的招聘情況，不同車隊正進行招聘，司機的反應踴躍，亦有一些「新血」願意參加，司機對的士車隊概念的認知正在提高，市民亦反應正面，當局認為對業界發展好的事，就要付諸實行，不要遲疑，應該落地去做。"
 習近平會見塞內加爾總理松科稱深入推進全面戰略合作伙伴關係,2025-06-27 13:32,,2025-06-27 13:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810913-20250627.htm,"國家主席習近平在北京人民大會堂會，見來華出席夏季達沃斯論壇的塞內加爾總理松科。
 
 習近平指出，中方願同塞方加強團結合作，深入推進中塞全面戰略合作伙伴關係，為中非友好和全球南方合作注入更多動力。他強調，中塞雙方要堅定支持彼此走獨立自主的發展道路，中方願同塞方密切合作，落實好中非「十大伙伴行動」，實施更多惠民工程，鼓勵中國企業參與塞內加爾新能源、數字基礎設施建設等領域投資。雙方要堅定捍衛以聯合國為核心的國際體系，踐行真正的多邊主義，堅持共商共建共享的全球治理觀，共促世界和平繁榮進步。
@@ -761,14 +784,14 @@ He said such work is effective as it sends a clear message that those who violat
 鄧炳強說，本港目前恐襲威脅風險級別維持中度，不能掉以輕心，「三層防範機制」工作已經開展，但涉及情報工作及反恐行動策略，不便向外公布細節。
 
 當局去年起陸續在罪案較高及人流較多的公眾地方，安裝閉路電視鏡頭，鄧炳強表示，已協助偵破超過300宗案件，近600人被捕。當局目標在今年內完成安裝共5000支鏡頭，並在未來兩年，每年安裝5000至7000支鏡頭，日後亦會加入人工智能技術，以加快破案效率。"
-上任三周年｜鄧炳強稱公職人員恪守國安條例指引淺白言詞闡述責任,2025-06-27 08:03,,2025-06-27 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810863-20250627.htm,"公職人員履職時如何恪守《維護國家安全條例》要求的指引，預計今年上半年推出。保安局局長鄧炳強表示，相關工作已進入最後階段，會以問與答形式，及淺白言詞闡述公務員責任，讓他們更容易掌握在維護國家安全工作的角色。
+上任三周年｜公職人員國安指引將推出　鄧炳強：淺白言詞闡述責任,2025-06-27 08:03,,2025-06-27 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810863-20250627.htm,"政府將推出指引，說明公職人員如何在履行職責時，恪守《維護國家安全條例》的要求。保安局局長鄧炳強表示，相關工作已進入最後階段，會以問與答形式，及淺白言詞闡述公務員責任，讓他們更容易掌握在維護國家安全工作的角色。
 
 鄧炳強在本台《上任三周年》訪問說，希望讓公職人員知道，無論身處甚麼崗位或階層，都有可能面對國家安全風險。他舉例，從事清潔的前線員工如果見到危害國家安全的語句就應通報，至於管理層批核款項期間，如發現團體背景有可疑，可能從事危害國家安全工作，沒有理由繼續撥款。
 
 鄧炳強說，當局會檢視不同法例，包括《社會工作者註册條例》及《職工會條例》等，又說各個部門都開始明白公職人員有責任維護國家安全，例如在採購或批准電影上映時要考慮國家安全，又說「如果有食肆涉及危害國家安全行為就可以釘牌」。
 
 被問到言論自由及新聞自由的界線如何劃分，鄧炳強說，有人試圖利用新聞自由為藉口，掩蓋從事危害國家安全的活動。他認為新聞要基於事實，不能是假新聞、假消息，重申新聞工作者有維護國安的責任，但目前未有需要訂立假新聞法。"
-上任三周年｜公職人員國安指引將推出　鄧炳強：淺白言詞闡述責任,2025-06-27 08:03,,2025-06-27 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810863-20250627.htm,"政府將推出指引，說明公職人員如何在履行職責時，恪守《維護國家安全條例》的要求。保安局局長鄧炳強表示，相關工作已進入最後階段，會以問與答形式，及淺白言詞闡述公務員責任，讓他們更容易掌握在維護國家安全工作的角色。
+上任三周年｜鄧炳強稱公職人員恪守國安條例指引淺白言詞闡述責任,2025-06-27 08:03,,2025-06-27 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810863-20250627.htm,"公職人員履職時如何恪守《維護國家安全條例》要求的指引，預計今年上半年推出。保安局局長鄧炳強表示，相關工作已進入最後階段，會以問與答形式，及淺白言詞闡述公務員責任，讓他們更容易掌握在維護國家安全工作的角色。
 
 鄧炳強在本台《上任三周年》訪問說，希望讓公職人員知道，無論身處甚麼崗位或階層，都有可能面對國家安全風險。他舉例，從事清潔的前線員工如果見到危害國家安全的語句就應通報，至於管理層批核款項期間，如發現團體背景有可疑，可能從事危害國家安全工作，沒有理由繼續撥款。
 
@@ -865,9 +888,6 @@ Among individual companies, McCormick & Company shot up 5.3 percent, with analys
 倫敦布蘭特期油收市報每桶67.73美元，升5美仙，升幅近0.1%。
 
 紐約期油報每桶65.24美元，升32美仙，升幅約0.5%。"
-紐約期金收市變動不大,2025-06-27 06:15,,2025-06-27 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810851-20250627.htm,"金價變動不大，紐約期金收市報每盎司3348美元，升幅逾0.1%。
-
-現貨金較早時報每盎司3329.59美元，跌幅近0.1%。"
 美元兌歐元和英鎊下跌　曾觸及逾3年半低位,2025-06-27 06:15,,2025-06-27 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810849-20250627.htm,"美元兌歐元和英鎊下跌，均一度跌至逾3年半以來最低。
 
 美元指數一度失守97水平，在紐約尾市報97.3，跌幅0.2%。
@@ -877,6 +897,9 @@ Among individual companies, McCormick & Company shot up 5.3 percent, with analys
 英鎊高見1.377美元，創2021年10月以來最高，尾市升逾0.4%，報1.3723美元。
 
 美元兌日圓跌近0.6%，較早時報144.42日圓。"
+紐約期金收市變動不大,2025-06-27 06:15,,2025-06-27 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810851-20250627.htm,"金價變動不大，紐約期金收市報每盎司3348美元，升幅逾0.1%。
+
+現貨金較早時報每盎司3329.59美元，跌幅近0.1%。"
 古特雷斯批評對《聯合國憲章》合則用不合則棄做法,2025-06-27 05:54,,2025-06-27 06:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810850-20250627.htm,"聯合國秘書長古特雷斯在《聯合國憲章》簽署80周年紀念會議上發表講話，批評某些國家對《憲章》合則用，不合則棄的做法。
 
 古特雷斯說，看到《聯合國憲章》的宗旨和原則受到前所未有的攻擊，他列出的威脅包括違反國際人道法、以平民為目標，將食物和水武器化，但他沒有點名誰要負上責任。
@@ -1185,25 +1208,3 @@ The HA chairman added that besides penalties, the authority would also introduce
 李家超接受政府新聞網訪問時指出，特區政府不斷完善維護國家安全的相關法律制度和執行機制，有信心現行法律足夠確保安全。
 
 他又說，當局設立的舉報熱線，一直以來都收到很多信息，哪怕是百分之一、甚至千分之一的信息具偵查作用，都可能可以協助搗破一個間諜組織、恐怖主義等。"
-分析料本港銀行體系總結餘或降至1000億元水平,2025-06-26 19:39,,2025-06-26 19:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810799-20250626.htm,"港元匯價持續偏弱，觸發7.85兌1美元的弱方兌換保證。金管局在紐約時段買入94.2億港元，沽出美元，本港銀行體系總結餘本周五降至約1641億港元。今次是金管局自2023年5月以來，首次買入港元，支持港元匯價。
-
-金管局指出，港美息差擴闊引發套息交易，引致港匯觸發弱方兌換保證，屬聯匯制度設計和正常操作。
-
-上海商業銀行研究部主管林俊泓指出，目前港美隔夜息差逾4厘，套息交易誘因大，但相信資金流出未致令銀行體系總結餘，重返5月資金流入本港前400多億港元的水平。
-
-金管局入市後，港元一個月拆息上升近6個基點，升至約0.966厘，隔夜拆息升近2基點，報約0.038厘。林俊泓估計，聯儲局今年將減息兩次，年底時隔夜港美息差或降至1厘以上，1個月拆息略高於2厘。"
-李家超稱經濟扭轉至正增長反映政策奏效　政府助業界轉型開拓市場,2025-06-26 19:38,,2025-06-26 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810798-20250626.htm,"行政長官李家超表示，香港經濟已由他上任時的的負增長，扭轉至正增長，本港在多項國際排名上表現亮眼，市民收入也持續改善，反映他任內的政策措施奏效。
-
-李家超接受政府新聞網訪問時說，本港經濟由2022年的負增長3.7%，扭轉至去年的正增長2.5%，估計今年繼續有2%至3%擴張，他對本港經濟有信心，但承認部分行業，例如餐飲零售業面對挑戰，因此政府運用資源協助業界升級轉型和開拓市場，有蔘茸海味舖設立網店後生意上升10%，當局亦有政策協助業界在過渡時期資金周轉。
-
-香港在《全球金融中心指數》排名曾經跌至第四位，現在回升一位、穩佔第三位，本港在世界人才競爭力排名亦由第16位升至第9位。李家超認為，這些成績反映政府政策奏效，包括港交所證券市場在惡劣天氣下不停市，以及政府「搶人才、搶企業」的各項計劃。"
-李家超形容內地與香港市民「雙向奔赴」　粵車南下安排很快推出,2025-06-26 19:35,,2025-06-26 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810797-20250626.htm,"行政長官李家超表示，「港車北上」措施不但便利港人，亦可為內地帶來經濟效果，當局很快會推出「粵車南下」安排，進一步為粵港經濟帶來裨益。
-
-李家超接受政府新聞網訪問時說，樂見不少港人喜歡在周末或長假期到內地旅遊，內地訪港旅客數字亦有上升趨勢，形容內地與香港市民是「雙向奔赴」。
-
-河套深港科技創新合作區香港園區，今年內將有首批企業進駐。李家超說，園區是結合港深兩地的優勢，在科技創新和研發方面「強強聯手」，香港的科技競爭力世界排名第三，數碼競爭力排名第七，香港亦能吸引多元化的國際人才，深圳就在科技創新領域具有優勢。"
-吳傑莊：香港數字資產發展政策宣言2.0目標清晰　有助業界發展,2025-06-26 19:31,,2025-06-26 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1810796-20250626.htm,"政府發表《香港數字資產發展政策宣言2.0》，提出4個重點，包括優化法律與監管，會就數字資產交易服務及託管服務提供者的發牌機制進行公眾諮詢，證監會將負責發牌、註冊及制定標準，金管局將監督銀行的數字資產交易及託管活動。
-
-財庫局與金管局亦將牽頭檢討代幣化相關法律與監管框架，並全面檢視代幣化債券發行及交易流程等。
-
-選委會界別立法會議員吳傑莊表示，距離上份宣言已近3年，見到成效顯現，吸引到人才和資金來港，認為政策宣言2.0目標清晰、宏大及可持續，亦有具體建議，亦認為可以理順以往數字資產方面出現的亂象，有助業界發展。"
