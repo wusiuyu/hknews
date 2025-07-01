@@ -1,4 +1,5 @@
 title,date,summary,scrape_time,section,source,url,news_content
+日股半日跌1%,2025-07-01 10:41,,2025-07-01 11:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811427-20250701.htm,日本股市半日跌1%，日經平均指數上午收市報40081點，跌405點。
 財新中國6月製造業PMI升至50.4勝預期　重返擴張水平,2025-07-01 10:39,,2025-07-01 10:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811425-20250701.htm,"財新與標普全球聯合公布，經季節調整後，內地6月製造業採購經理指數（PMI）升至50.4，高過5月的48.3，好過市場預期，重上50以上擴張水平。
 
 期內，貿易環境略有改善，企業亦積極促銷，新訂單指數重上50以上，需求向好帶動生產指數回升到擴張區間。但外需仍然低迷，尤其是消費品出口受關稅政策影響，拖累新出口訂單連續第3個月處於收縮水平，但跌幅較前月明顯放緩。
@@ -34,6 +35,11 @@ A firefighting vessel performed a water salute in Victoria Harbour while helicop
 涉事航班為JL8696/IJ004，是日本航空與旗下廉航春秋航空日本的代碼共享航班。
 
 據當局透露，客機響起警報，指機艙氣壓的增壓系統異常，懷疑機艙內失壓，機師向空管人員宣佈進入緊急狀態，隨後臨時改在關西機場降落。當局將展開詳細調查。"
+Mainland factory activity returns to growth: survey,2025-07-01 10:18,,2025-07-01 11:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1811423-20250701.htm,"Mainland factory activity returned to expansion in June, supported by an increase in new orders that lifted production, a private-sector survey showed on Tuesday.
+
+The Caixin/S&P Global manufacturing PMI rose to 50.4 in June from 48.3 in May, surpassing analysts' expectations in a Reuters poll. The 50-mark separates growth from contraction.
+
+The reading contrasts with China's official PMI on Monday that showed factory activity shrank for a third straight month. But new export orders in both surveys remained in negative terrain in June, suggesting potential challenges for exports in the second half of the year. (Reuters)"
 Private survey shows factory activity return to growth,2025-07-01 10:18,,2025-07-01 10:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1811423-20250701.htm,"Mainland factory activity returned to expansion in June, supported by an increase in new orders that lifted production, a private-sector survey showed on Tuesday.
 
 The Caixin/S&P Global manufacturing PMI rose to 50.4 in June from 48.3 in May, surpassing analysts' expectations in a Reuters poll. The 50-mark separates growth from contraction.
@@ -121,12 +127,12 @@ Members of Beijing's liaison office in Hong Kong also held a separate ceremony, 
 李家超稱全力以赴為香港未來譜寫新篇　繼續拼經濟惠民生,2025-07-01 07:54,,2025-07-01 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811403-20250701.htm,"行政長官李家超說，今日是香港特區成立二十八周年的大日子，與太太準備前赴慶祝活動。
 
 李家超在社交網頁表示，就任行政長官三年來，感謝太太始終握緊他的手如初，讓他可全力以赴為香港的未來譜寫新篇，繼續拼經濟、惠民生。"
-中聯辦升旗儀式慶香港回歸28周年　周霽大樓外肅立現場唱奏國歌,2025-07-01 07:33,,2025-07-01 08:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811402-20250701.htm,"中聯辦今早舉行升國旗儀式，慶祝香港回歸祖國28周年。
+中聯辦升旗儀式慶港回歸28周年　周霽於大樓外肅立現場唱奏國歌,2025-07-01 07:33,,2025-07-01 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811402-20250701.htm,"中聯辦今早舉行升國旗儀式，慶祝香港回歸祖國28周年。
 
 早上約7時，中聯辦主任周霽與多名副主任及人員在辦公大樓外肅立，現場唱奏國歌，升旗手將國旗升起，儀式後眾人返回辦公大樓。
 
 周霽在升旗前及後向在場採訪拍攝的記者揮手。"
-中聯辦升旗儀式慶港回歸28周年　周霽於大樓外肅立現場唱奏國歌,2025-07-01 07:33,,2025-07-01 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811402-20250701.htm,"中聯辦今早舉行升國旗儀式，慶祝香港回歸祖國28周年。
+中聯辦升旗儀式慶香港回歸28周年　周霽大樓外肅立現場唱奏國歌,2025-07-01 07:33,,2025-07-01 08:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811402-20250701.htm,"中聯辦今早舉行升國旗儀式，慶祝香港回歸祖國28周年。
 
 早上約7時，中聯辦主任周霽與多名副主任及人員在辦公大樓外肅立，現場唱奏國歌，升旗手將國旗升起，儀式後眾人返回辦公大樓。
 
@@ -436,17 +442,6 @@ An awards presentation ceremony will be held later this year."
 習近平：從嚴監督執紀是黨自我革命的利器　違紀違法必須堅決處理,2025-06-30 20:16,,2025-06-30 20:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811355-20250630.htm,"中共中央政治局就健全落實中央八項規定精神、糾治「四風」長效機制進行集體學習。中共中央總書記習近平主持學習時強調，自我革命是黨跳出治亂興衰歷史周期率的第二個答案，從抓作風入手推進全面從嚴治黨，是新時代黨的自我革命一條重要經驗。推進黨的自我革命，要在提高認識、增強黨性、規範權力運行、從嚴監督執紀、履行管黨治黨責任等方面進一步落實到位。
 
 習近平表示，從嚴監督執紀是黨的自我革命的利器，對違紀違法問題必須堅決處理，要加大風腐同查同治力度，將黨風黨紀硬要求變為硬舉措、讓鐵規矩長出鐵牙齒，向全黨釋放一嚴到底、寸步不讓的信號，形成震懾效應。他又說，各級黨組織要認真履行政治責任，勇於直面問題，督促整改到位，狠剎各種不正之風。"
-一名5個月大女嬰感染麻疹留醫　情況穩定,2025-06-30 19:57,,2025-06-30 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811354-20250630.htm,"衞生署衞生防護中心正調查一宗麻疹個案，涉及一名5個月大女嬰，是中心早前公布一宗本地麻疹個案的家人。
-
-女嬰於本月27日出現咳嗽、流鼻水、全身性皮疹和發燒症狀，翌日被帶到伊利沙伯醫院急症室求醫，獲安排入院接受隔離及治療。病人的血液樣本經檢測後，證實對麻疹病毒抗體呈陽性反應，目前仍然留院，情況穩定。
-
-衞生防護中心流行病學調查顯示，女嬰尚未適齡接種第一劑麻疹疫苗。她於潛伏期內沒有外遊，中心相信她的感染源頭來自早前確診感染麻疹的家人，其餘五名家居接觸者暫時沒有病徵，正接受醫學監察。除家人外，女嬰沒有其他密切接觸者。初步調查未發現這兩宗涉及同一家庭的個案與本港早前錄得的其他確診個案有流行病學關連。"
-碧桂園：具備足夠財務資源維持今年持續經營,2025-06-30 19:57,,2025-06-30 20:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811349-20250630.htm,"碧桂園發公告指，具備足夠財務資源維持今年的持續經營，當前已透過建議重組、境內公司債券展期、產生現金流入等措施，取得正面成果，未來將持續專注銷售業績提升、積極盤活資產，通過提高經營效率、加強現金流管理，保證業務穩定及可持續經營。
-
-公司提到，代表現有公開票據本金總額逾75%的持有人，已加入重組支持協議，未來將繼續與主要債權人磋商重組條款，以盡快達成協議並於年底前實施，包括發行強制性可轉換債券及訂立新債務工具。
-
-集團又指，已積極開展銷售活動，制定合理的銷售價格和供貨計劃，以實現
-預算銷售額及回款，今年首5個月，合約銷售額約139.4億元人民幣，合約銷售建築面積約170萬平方米。"
 印度南部一間工廠發生爆炸　至少12死26傷,2025-06-30 19:57,,2025-06-30 20:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811353-20250630.htm,"印度南部特倫甘納邦一間工廠發生爆炸，當地警方說，至少12人死亡、超過26人受傷，部分人情況危殆，廠內仍然有人被困。
 
 事發在當地星期一工廠工作時間，當局說，初步相信是反應爐內部及周圍發生爆炸導致起火，消防員趕赴現場搜救，傷者被送往醫院救治。
@@ -454,6 +449,17 @@ An awards presentation ceremony will be held later this year."
 總理莫迪對事件表示哀悼，宣布向每位死者親屬及傷者提供金錢援助。當局正調查事故原因。
 
 路透社報道，涉事工廠所屬的公司涉獵多個範疇的業務，包括製藥、食品及化妝品等，暫時未有回應報道。"
+碧桂園：具備足夠財務資源維持今年持續經營,2025-06-30 19:57,,2025-06-30 20:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811349-20250630.htm,"碧桂園發公告指，具備足夠財務資源維持今年的持續經營，當前已透過建議重組、境內公司債券展期、產生現金流入等措施，取得正面成果，未來將持續專注銷售業績提升、積極盤活資產，通過提高經營效率、加強現金流管理，保證業務穩定及可持續經營。
+
+公司提到，代表現有公開票據本金總額逾75%的持有人，已加入重組支持協議，未來將繼續與主要債權人磋商重組條款，以盡快達成協議並於年底前實施，包括發行強制性可轉換債券及訂立新債務工具。
+
+集團又指，已積極開展銷售活動，制定合理的銷售價格和供貨計劃，以實現
+預算銷售額及回款，今年首5個月，合約銷售額約139.4億元人民幣，合約銷售建築面積約170萬平方米。"
+一名5個月大女嬰感染麻疹留醫　情況穩定,2025-06-30 19:57,,2025-06-30 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811354-20250630.htm,"衞生署衞生防護中心正調查一宗麻疹個案，涉及一名5個月大女嬰，是中心早前公布一宗本地麻疹個案的家人。
+
+女嬰於本月27日出現咳嗽、流鼻水、全身性皮疹和發燒症狀，翌日被帶到伊利沙伯醫院急症室求醫，獲安排入院接受隔離及治療。病人的血液樣本經檢測後，證實對麻疹病毒抗體呈陽性反應，目前仍然留院，情況穩定。
+
+衞生防護中心流行病學調查顯示，女嬰尚未適齡接種第一劑麻疹疫苗。她於潛伏期內沒有外遊，中心相信她的感染源頭來自早前確診感染麻疹的家人，其餘五名家居接觸者暫時沒有病徵，正接受醫學監察。除家人外，女嬰沒有其他密切接觸者。初步調查未發現這兩宗涉及同一家庭的個案與本港早前錄得的其他確診個案有流行病學關連。"
 81歲女子採摘野生芋頭烹煮進食後疑中毒入院　情況穩定,2025-06-30 19:51,,2025-06-30 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811352-20250630.htm,"衞生署衞生防護中心調查一宗懷疑進食野生芋頭而中毒的個案，涉及一名81歲女子，她今日在家中進食野生芋頭後，隨即出現咀唇腫脹和喉嚨痛。她到博愛醫院急症室求診，需留院治療，現時情況穩定。臨床診斷為懷疑草酸鈣針晶體中毒。
 
 中心初步調查顯示，病人在元朗朗屏邨一條行人天橋上的一個花圃採摘野生芋頭，並自行烹煮，當局會繼續調查。"
@@ -719,20 +725,6 @@ The lawmaker expressed the hope that more locals, especially young students, can
 文章強調，黨和人民取得的一切成就都是團結奮鬥的結果，團結奮鬥是中國共產黨和中國人民最顯著的精神標識。
 
 文章指出，面對圍堵、遏制、打壓，應該理直氣壯進行鬥爭，有效應對重大挑戰、抵禦重大風險、克服重大阻力、解決重大矛盾。只要在黨的領導下全國各族人民團結一心，就一定能夠戰勝前進道路上的一切困難挑戰，把強國建設、民族復興偉業不斷推向前進。"
-內地股市上升　滬股上半年累計升近2.8%,2025-06-30 15:18,,2025-06-30 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811303-20250630.htm,"內地股市向好。軍工、遊戲股上升；金融、汽車、機場航運股向下。
-
-上證綜合指數收市報3444點，升20點，升幅0.59%。上半年累計升近2.8%。
-
-深證成份指數報10465點，升86點，升幅0.83%。上半年累計升近0.5%。
-
-創業板指數報2153點，升28點，升幅1.35%。上半年累計升近逾0.5%。"
-內地股市高收　滬股上半年累計升近2.8%,2025-06-30 15:18,,2025-06-30 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811303-20250630.htm,"內地股市向好。軍工、遊戲股上升；金融、汽車、機場航運股向下。
-
-上證綜合指數收市報3444點，升20點，升幅0.59%。上半年累計升近2.8%。
-
-深證成份指數報10465點，升86點，升幅0.83%。上半年累計升近0.5%。
-
-創業板指數報2153點，升28點，升幅1.35%。上半年累計升近0.6%。"
 內地股市造好　滬股上半年累計升近2.8%,2025-06-30 15:18,,2025-06-30 16:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811303-20250630.htm,"內地股市向好。軍工、遊戲股上升；金融、汽車、機場航運股向下。
 
 上證綜合指數收市報3444點，升20點，升幅0.59%。上半年累計升近2.8%。
@@ -740,6 +732,20 @@ The lawmaker expressed the hope that more locals, especially young students, can
 深證成份指數報10465點，升86點，升幅0.83%。上半年累計升近0.5%。
 
 創業板指數報2153點，升28點，升幅1.35%。上半年累計升逾0.5%。"
+內地股市高收　滬股上半年累計升近2.8%,2025-06-30 15:18,,2025-06-30 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811303-20250630.htm,"內地股市向好。軍工、遊戲股上升；金融、汽車、機場航運股向下。
+
+上證綜合指數收市報3444點，升20點，升幅0.59%。上半年累計升近2.8%。
+
+深證成份指數報10465點，升86點，升幅0.83%。上半年累計升近0.5%。
+
+創業板指數報2153點，升28點，升幅1.35%。上半年累計升近0.6%。"
+內地股市上升　滬股上半年累計升近2.8%,2025-06-30 15:18,,2025-06-30 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811303-20250630.htm,"內地股市向好。軍工、遊戲股上升；金融、汽車、機場航運股向下。
+
+上證綜合指數收市報3444點，升20點，升幅0.59%。上半年累計升近2.8%。
+
+深證成份指數報10465點，升86點，升幅0.83%。上半年累計升近0.5%。
+
+創業板指數報2153點，升28點，升幅1.35%。上半年累計升近逾0.5%。"
 "Hong Kong thrives under NSL, future is bright: CE",2025-06-30 15:17,,2025-06-30 15:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811289-20250630.htm,"Chief Executive John Lee on Monday said the implementation of the National Security Law (NSL) has brought about social stability and protected people's lives.
 
 He added that the SAR remains the world's freest economy, and its future is bright.
@@ -803,16 +809,16 @@ It will be the fleet's first visit to the SAR."
 港股午市初段變動不大,2025-06-30 13:10,,2025-06-30 13:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811292-20250630.htm,"港股下午開市後變動不大。恒生指數較早時報24194點，跌89點，跌幅0.37%。
 
 科技指數報5347點，升5點，升幅0.11%。"
-星展香港料內地7月製造業活動或繼續改善,2025-06-30 12:48,,2025-06-30 13:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811291-20250630.htm,"內地6月官方製造業採購經理指數（PMI）微升至49.7，創3個月高位，但連續3個月處於收縮區間。
+星展香港料內地下月製造業活動或繼續改善,2025-06-30 12:48,,2025-06-30 13:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811291-20250630.htm,"內地6月官方製造業採購經理指數（PMI）微升至49.7，創3個月高位，但連續3個月處於收縮區間。
 
-星展香港高級經濟師周洪禮表示，數據稍為改善，與中美貿易戰局勢紓緩有關。他估計，7月情況或會再改善，不排除更接近盛衰分界線水平，因東盟或歐洲等地仍有不錯需求，但變數仍很多，中美會談走向是關鍵。
+星展香港高級經濟師周洪禮表示，數據稍為改善，與中美貿易戰局勢紓緩有關。他估計，下月情況或會再改善，不排除更接近盛衰分界線水平，因東盟或歐洲等地仍有不錯需求，但變數仍很多，中美會談走向是關鍵。
 
 內地6月非製造業商務活動指數升至50.5，創3個月高位。周洪禮說，受國內旅遊、餐飲及消費等帶動，情況相對樂觀，但指出以舊換新政策及補貼是將未來需求提前，仍要留意工資增長水平及企業招聘意願等勞動市場及宏觀經濟表現。
 
 周洪禮表示，當局已推出財政及貨幣政策，但仍要觀察效果，略為寬鬆的貨幣政策仍會是大方向，不排除下半年仍會減息，但未必短期內發生。"
-星展香港料內地下月製造業活動或繼續改善,2025-06-30 12:48,,2025-06-30 13:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811291-20250630.htm,"內地6月官方製造業採購經理指數（PMI）微升至49.7，創3個月高位，但連續3個月處於收縮區間。
+星展香港料內地7月製造業活動或繼續改善,2025-06-30 12:48,,2025-06-30 13:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811291-20250630.htm,"內地6月官方製造業採購經理指數（PMI）微升至49.7，創3個月高位，但連續3個月處於收縮區間。
 
-星展香港高級經濟師周洪禮表示，數據稍為改善，與中美貿易戰局勢紓緩有關。他估計，下月情況或會再改善，不排除更接近盛衰分界線水平，因東盟或歐洲等地仍有不錯需求，但變數仍很多，中美會談走向是關鍵。
+星展香港高級經濟師周洪禮表示，數據稍為改善，與中美貿易戰局勢紓緩有關。他估計，7月情況或會再改善，不排除更接近盛衰分界線水平，因東盟或歐洲等地仍有不錯需求，但變數仍很多，中美會談走向是關鍵。
 
 內地6月非製造業商務活動指數升至50.5，創3個月高位。周洪禮說，受國內旅遊、餐飲及消費等帶動，情況相對樂觀，但指出以舊換新政策及補貼是將未來需求提前，仍要留意工資增長水平及企業招聘意願等勞動市場及宏觀經濟表現。
 
@@ -828,19 +834,19 @@ It will be the fleet's first visit to the SAR."
 國安法五周年｜有老師冀教育局可提供更多解說法例教材,2025-06-30 12:29,,2025-06-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811285-20250630.htm,"《香港國安法》公布實施5周年，推廣國家安全教育成為學校恆常工作之一。有中學生說，曾以為國安教育只會照書本讀，但幾年來的學習發現，到內地考察可以邊玩邊學，形容是快樂學習國安法。亦有學生說，近年學識到國家安全新型領域的知識，涵蓋生物同極地安全等。
 
 有公民與社會發展科老師就期望，教育局可提供更多有助老師解說法例的相關教材。"
-屯門黃金海岸工業意外　一名工人疑從棚架墮下死亡,2025-06-30 12:28,,2025-06-30 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811288-20250630.htm,"屯門黃金海岸發生致命工業意外，一名工人死亡。
+上任三周年｜林定國稱標籤軟對抗要深思　從手段、動機及風險分析,2025-06-30 12:28,,2025-06-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811282-20250630.htm,"律政司司長林定國接受本台《上任三周年》訪問，他認同社會存在軟對抗行為，但將任何一個行為言論標籤為軟對抗要深思熟慮，不會隨隨便便，要從手段、動機、風險三方面分析。
 
-事發在早上約11時半，一名工人被發現躺臥在黃金海岸第6座對開，現場證實死亡。
-
-警方初步調查，懷疑工人從約20呎高的棚架跌下，警員正在現場調查意外原因。"
+對於當局在部分國安案件敗訴後，研究修例堵塞法律漏洞，林定國不同意是輸打贏要。"
 屯門黃金海岸工業意外　一名工人疑從20呎高棚架墮下死亡,2025-06-30 12:28,,2025-06-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811288-20250630.htm,"屯門黃金海岸發生致命工業意外，一名工人死亡。
 
 事發在早上約11時半，一名工人被發現躺臥在黃金海岸第6座對開，現場證實死亡。
 
 警方初步調查，懷疑工人從約20呎高的棚架跌下，警員正在現場調查意外原因。"
-上任三周年｜林定國稱標籤軟對抗要深思　從手段、動機及風險分析,2025-06-30 12:28,,2025-06-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811282-20250630.htm,"律政司司長林定國接受本台《上任三周年》訪問，他認同社會存在軟對抗行為，但將任何一個行為言論標籤為軟對抗要深思熟慮，不會隨隨便便，要從手段、動機、風險三方面分析。
+屯門黃金海岸工業意外　一名工人疑從棚架墮下死亡,2025-06-30 12:28,,2025-06-30 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811288-20250630.htm,"屯門黃金海岸發生致命工業意外，一名工人死亡。
 
-對於當局在部分國安案件敗訴後，研究修例堵塞法律漏洞，林定國不同意是輸打贏要。"
+事發在早上約11時半，一名工人被發現躺臥在黃金海岸第6座對開，現場證實死亡。
+
+警方初步調查，懷疑工人從約20呎高的棚架跌下，警員正在現場調查意外原因。"
 國安法五周年｜李家超形容香港前景風光無限,2025-06-30 12:27,,2025-06-30 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811284-20250630.htm,"行政長官李家超表示，《香港國安法》公布實施5年來，社會安定繁榮，市民的生活獲得保障，香港穩居全球最自由經濟體榜首，市場預期香港在數年內有望成為全球最大財富管理中心，形容香港前景風光無限
 
 李家超說，必須以總體國家安全觀為指引，堅定維護國家主權、安全、發展利益，確保香港實現高質量發展。"
@@ -855,13 +861,6 @@ It will be the fleet's first visit to the SAR."
 金正恩會見率團訪朝的俄羅斯文化部長,2025-06-30 11:57,,2025-06-30 12:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811281-20250630.htm,"北韓領袖金正恩昨日在首都平壤觀看俄羅斯訪朝文藝演出，並會見俄羅斯文化部長柳比莫娃。
  
 綜合朝中社和俄羅斯衛星通訊社報道，北韓和俄羅斯簽署《全面戰略伙伴關係條約》一周年之際，柳比莫娃率領由125人組成的文藝代表團訪問北韓，將在平壤舉辦系列演出和講座。金正恩會見柳比莫娃時指出，文藝領域的交流作為加強朝俄友誼和理解的紐帶起到很大作用。俄方今次訪問將推動兩國戰鬥友誼進一步昇華。 柳比莫娃表示，兩國文化領域合作達到史無前例的高水平。"
-滬深股市向好　創指半日升近1%,2025-06-30 11:47,,2025-06-30 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811276-20250630.htm,"內地股市向好。軍工、遊戲及金融股上升；有色金屬及白酒股向下。
-
-上證綜合指數中午收市報3431點，升6點，升幅0.2%。
-
-深證成份指數報10434點，升55點，升幅0.54%。
-
-創業板指數報2144點，升19點，升幅0.93%。"
 內地股市向好　創指半日升近1%,2025-06-30 11:47,,2025-06-30 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811276-20250630.htm,"內地股市向好。軍工及遊戲股上升；有色金屬及白酒股向下。
 
 上證綜合指數中午收市報3431點，升6點，升幅0.2%。
@@ -869,14 +868,21 @@ It will be the fleet's first visit to the SAR."
 深證成份指數報10434點，升55點，升幅0.54%。
 
 創業板指數報2144點，升19點，升幅0.93%。"
+滬深股市向好　創指半日升近1%,2025-06-30 11:47,,2025-06-30 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811276-20250630.htm,"內地股市向好。軍工、遊戲及金融股上升；有色金屬及白酒股向下。
+
+上證綜合指數中午收市報3431點，升6點，升幅0.2%。
+
+深證成份指數報10434點，升55點，升幅0.54%。
+
+創業板指數報2144點，升19點，升幅0.93%。"
+中國共產黨黨員10027.1萬人　基層黨組織525萬個,2025-06-30 11:46,,2025-06-30 12:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811277-20250630.htm,"中央組織部最新黨內統計數據顯示，截至2024年底，中國共產黨黨員總數有1億27萬1千人，比上年淨增長108萬6千人。黨的基層組織525萬個，比上年淨增長74000個。中國共產黨堅持用改革精神和嚴的標準管黨治黨，著力建強基層組織、為以中國式現代化全面推進強國建設、民族復興偉業提供堅強組織保證。
+
+數據顯示，截至2024年底，大專及以上學歷黨員有5778萬6千人，佔總數57.6%，比上年提高1.4個百分點；女黨員3099萬5千人，佔30.9%，比上年提高0.5個百分點；少數民族黨員773萬4千人，佔7.7%，與上年持平；工人和農民仍是黨員隊伍主體，佔總數的32.7%。"
 國安法五周年｜鄧炳強指會好好帶領團隊做好國安宣傳教育工作,2025-06-30 11:46,,2025-06-30 12:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811278-20250630.htm,"今日是《香港國安法》公布實施5周年，保安局局長鄧炳強表示，《香港國安法》在國家支持下頒布實施，香港終於由亂到治、由治及興，令今日得以重新聚焦民生發展。
 
 鄧炳強在社交專頁發布影片，表示回望過去感觸良多，因為平穩安全得來不易。2012年在外部勢力煽動下，很多年輕人被鼓動出來反對推行國民教育；2014年有很多年輕人在夏慤道堵路，有警員被暴徒包圍；2016年發生旺角暴亂，很多警員被暴徒襲擊受傷；2019年黑暴期間，有暴徒衝擊立法會等。
 
 鄧炳強說，《香港國安法》公布實施填補了香港法律漏洞，而《維護國家安全條例》去年訂立，兩者渾然一體、兼容互補，更好地保障國家安全。他又說，作為保安局局長，會好好帶領團隊，做好國家安全的宣傳教育工作，守護好香港這個家。"
-中國共產黨黨員10027.1萬人　基層黨組織525萬個,2025-06-30 11:46,,2025-06-30 12:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811277-20250630.htm,"中央組織部最新黨內統計數據顯示，截至2024年底，中國共產黨黨員總數有1億27萬1千人，比上年淨增長108萬6千人。黨的基層組織525萬個，比上年淨增長74000個。中國共產黨堅持用改革精神和嚴的標準管黨治黨，著力建強基層組織、為以中國式現代化全面推進強國建設、民族復興偉業提供堅強組織保證。
-
-數據顯示，截至2024年底，大專及以上學歷黨員有5778萬6千人，佔總數57.6%，比上年提高1.4個百分點；女黨員3099萬5千人，佔30.9%，比上年提高0.5個百分點；少數民族黨員773萬4千人，佔7.7%，與上年持平；工人和農民仍是黨員隊伍主體，佔總數的32.7%。"
 歐洲大部分地區持續受熱浪侵襲　多國發布健康警告,2025-06-30 11:29,,2025-06-30 12:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811275-20250630.htm,"歐洲大部分地區持續受到熱浪侵襲，多個國家在酷熱天氣下發布健康警告。西班牙巴塞羅那一名清潔女工在高溫下戶外工作後死亡，當局正調查死因。
 
 根據西班牙國家氣象局數據，埃爾格拉納多鎮在星期六錄得攝氏46度的破紀錄高溫。氣象局預測，本月可能是西班牙有記錄以來最熱的6月。
@@ -908,19 +914,3 @@ The event was attended by 150 dignitaries, including senior SAR officials such a
 1萬張門票中，山東艦2000張、湛江艦及運城艦8000張，市民今日起可於每日早上10時、下午3時及晚上8時，透過駐港部隊官方微信公眾號預約。
 
 駐港部隊早前公布，前往參觀的市民必須持參觀票及個人身份證件，並接受安檢，屆時可觀看到訓練展示及相關武器裝備。"
-日股半日升逾1.6%,2025-06-30 10:54,,2025-06-30 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811273-20250630.htm,東京股市上升。日經指數半日升659點，報40809點，升幅1.64%。
-Chinese manufacturing activity edges up in June,2025-06-30 10:50,,2025-06-30 17:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1811271-20250630.htm,"The purchasing managers' index (PMI) for China's manufacturing sector came in at 49.7 in June, up 0.2 percentage points from May, official data showed on Monday.
-
-The figure remains below the 50-mark separating growth from contraction and is in line with a median forecast of 49.7 in a Reuters poll.
-
-The new orders sub-index rose to 50.2 from 49.8 in May, while the new export orders sub-index improved to 47.7 from 47.5.
-
-The PMI for the non-manufacturing sector, which includes services and construction, came in at 50.5, up 0.2 percentage points from May.
-
-Policymakers are confident they can push ahead with reforms launched late last year to transition the world's second-largest economy from a manufacturing-led model to a consumer-driven one, Premier Li Qiang told delegates at World Economic Forum and Asian Infrastructure Investment Bank meetings last week.
-
-Such a shift in the engines of growth could be progressed while maintaining strong growth, Li said.  
-
-While the United States and China have settled on a framework trade deal, analysts expect eventual US tariffs to remain well above historic levels, maintaining pressure on exporters and officials to find alternative markets or boost domestic demand. 
-
-Analysts in a Reuters poll forecast the private-sector Caixin PMI at 49, up from 48.3 a month prior. The private data will be released on Tuesday. (Xinhua/Reuters)"
