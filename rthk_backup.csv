@@ -1,4 +1,11 @@
 title,date,summary,scrape_time,section,source,url,news_content
+內地股市下跌　半導體股表現較差　銀行股逆市上升,2025-07-02 11:46,,2025-07-02 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811590-20250702.htm,"滬深股市半日向下。算力硬件、半導體等股份下跌；光伏、有色金屬、銀行股上升。
+
+上證指數先低後高，報3456點，跌1點。
+
+深證成份指數報10432點，跌43點，跌幅0.42%。
+
+創業板指數報2129點，跌18點，跌幅0.84%。"
 外電：內地今年發行特殊再融資債以置換存量隱性債務近尾聲,2025-07-02 11:32,,2025-07-02 11:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811585-20250702.htm,"外電統計，隨著6月地方債發行節奏加快，內地今年置換存量隱性債務的特殊再融資債發行已經接近尾聲。
 
 路透統計內地已發行及已公告的置換存量隱性債務專項債規模，已經逾1.82萬億元人民幣。若加上無「一案兩書」新增地方專項債近4925億元，今年以來針對存量債務置換及存量項目投資的地方債已披露發債規模累計超過2.3萬億元。
@@ -36,6 +43,9 @@ title,date,summary,scrape_time,section,source,url,news_content
 鄧飛表示，教育局長期以來指國際學校主要服務海外人才子女，他質疑如果相關學額需求大，為何經營數十年的國際學校會出現收生不足，因此要小心處理增加國際學校、私立學校的校舍分配和學額事宜。
 
 他指出，家長要在學校結業倒閉時贖回已購買的債券，目前很難規管，因為與商業公司清盤賠償的情況不完全相同，教育局需要有更明確指引。"
+日股半日跌約1%,2025-07-02 10:47,,2025-07-02 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811579-20250702.htm,"東京股市半日跌約1%。
+
+日經指數報39593點，跌392點，跌幅0.98%。"
 林素蔚料明年舉報虐兒數字再升　籲增加兒童暫託及寄宿服務,2025-07-02 10:47,,2025-07-02 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811581-20250702.htm,"社署早前發表新一份《保護兒童資料系統統計報告》，去年共錄得1504宗新登記個案，較前年1457宗增加47宗。
 
 本身是社工的立法會議員林素蔚說，新登記個案增加主要因為社會對虐兒的相關意識增加，包括傳媒、電影、廣告等宣傳下，各界就虐兒提出舉報令新個案上升。她指出，虐兒涉及不同因素，亦結合經濟及住房問題，如家長情緒管理欠佳或壓力大，較易導致身體或言語上虐待子女的情況。
@@ -43,9 +53,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 《強制舉報虐待兒童條例》明年1月生效，林素蔚相信，屆時舉報數字將進一步上升，因為舉報者寧願報多亦不想漏報，現時一些暫託及寄宿服務都不足，希望屆時能夠增加，讓更多有需要的虐兒個案兒童入住。
 
 她提到，《強制舉報者指南》將於下半年推出，期望屆時能提供更多指引及範本，讓專業人士參考。"
-日股半日跌約1%,2025-07-02 10:47,,2025-07-02 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811579-20250702.htm,"東京股市半日跌約1%。
-
-日經指數報39593點，跌392點，跌幅0.98%。"
 飲食業稱七一旺區包括尖沙咀旺角或大型商場生意有約兩成增長,2025-07-02 10:41,,2025-07-02 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811580-20250702.htm,"數千間食肆提供優惠慶祝回歸28周年，稻苗飲食專業學會榮譽會長邱金榮在本台節目《千禧年代》表示，人流比去年七一多了很多，原因是七一是星期二，不是連續假期，外傭亦放假，市民願意留港外出消費。
 
 邱金榮表示，一些旺區包括尖沙咀、旺角或大型商場，生意有約兩成增長，部分商戶提供71折優惠，雖然利潤微薄，但希望做到有一個氣氛，一些非旺區包括屋邨，市民亦多了外出，認為整體香港消費氣氛有改善。
@@ -122,6 +129,11 @@ title,date,summary,scrape_time,section,source,url,news_content
 南韓上月通脹按年升2.2%　創今年1月以來最高　,2025-07-02 08:18,,2025-07-02 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811564-20250702.htm,"南韓6月通脹升至今年1月以來最高，並高於市場預期。
 
 6月消費物價指數(CPI)按年升2.2%，較5月加快0.3個百分點，市場原本估計上升2.1%。數據按月持平，符合預期。"
+上任三周年｜蔡若蓮：學校有責任就國安把關　倘出錯須及時糾正　,2025-07-02 08:16,,2025-07-02 09:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811563-20250702.htm,"教育局局長蔡若蓮接受本台《上任三周年》系列訪問時表示，4月已向學校提供更新的《國家安全：學校自評檢視表》，提醒學校邀請校外人士、或安排學生參加校外活動時，要做好把關工作，包括了解主辦方的目的屬教學或宣傳推廣。
+
+蔡若蓮表示，若學校不知活動的目的，純粹因為好奇等原因而要學生參加，是不負責任的做法。她提到教育局持續通過不同渠道與學校溝通，若學校出現錯誤判斷，局方有責任提醒校方及時糾正。
+
+至於近日更新的《香港國家安全教育課程框架》指出，學校應該運用自評資料和數據檢視國安教育的成效，蔡若蓮表示，局方以多重進路互相配合的方式推廣國家安全教育，不僅用紙筆評估成效，亦可以從學生的分享中，例如學生乘搭高鐵時的讚嘆等，可視作認同國家成就。"
 'HK universities are attractive to foreign students',2025-07-02 08:16,,2025-07-02 08:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811559-20250702.htm,"University applications from non-local students have been flooding in, the education chief says, as Hong Kong seeks to attract international students whose study plans may have been affected by Washington's shifting policies towards their own tertiary institutions.
 
 Secretary for Education Christine Choi also pledged both funding and policy support for the tertiary sector so that the SAR can develop into an international hub for post-secondary education.
@@ -147,11 +159,6 @@ Choi also brushed off suggestions that the government is scaling back support to
 ""We've relaxed the quota for postgraduate students, and for that purpose we allocated additional resources to the universities, and boosted our scholarship programmes. All these measures benefited the institutions. We also have the new round of Research Matching Grant Scheme coming up.""
 
 Choi emphasised the government's determination to lure in more overseas students, citing a new Development Bureau initiative to encourage private developers to convert hotels and commercial buildings into student dormitories."
-上任三周年｜蔡若蓮：學校有責任就國安把關　倘出錯須及時糾正　,2025-07-02 08:16,,2025-07-02 09:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811563-20250702.htm,"教育局局長蔡若蓮接受本台《上任三周年》系列訪問時表示，4月已向學校提供更新的《國家安全：學校自評檢視表》，提醒學校邀請校外人士、或安排學生參加校外活動時，要做好把關工作，包括了解主辦方的目的屬教學或宣傳推廣。
-
-蔡若蓮表示，若學校不知活動的目的，純粹因為好奇等原因而要學生參加，是不負責任的做法。她提到教育局持續通過不同渠道與學校溝通，若學校出現錯誤判斷，局方有責任提醒校方及時糾正。
-
-至於近日更新的《香港國家安全教育課程框架》指出，學校應該運用自評資料和數據檢視國安教育的成效，蔡若蓮表示，局方以多重進路互相配合的方式推廣國家安全教育，不僅用紙筆評估成效，亦可以從學生的分享中，例如學生乘搭高鐵時的讚嘆等，可視作認同國家成就。"
 上任三周年｜蔡若蓮：不存在殺校　教育生態需新陳代謝,2025-07-02 08:15,,2025-07-02 09:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811562-20250702.htm,"教育局早前修改中學開班政策及小學的「救校方案」，學界擔心未來數年有更多中小學墮入「殺校」危機。
 
 教育局局長蔡若蓮接受本台《上任三周年》系列訪問時表示，不存在「殺校」，學校如果收生不足，可以申請不同發展方案。她指出，人口不斷變化，雖然有學校停辦，但亦有新校舍落成，認為一個健康的教育生態環境必須要有「新陳代謝」，與學生的學習互動，回應家長和學生對教育的需求，不能一成不變。
@@ -464,7 +471,6 @@ The award-winning pianist said he'll be going on international tours and loves t
 高溫在法國及土耳其引發山火，其中法國西南部的山火，火場面積超過400公頃。法國氣象部門預測，未來兩日的氣溫會進一步上升至最高40度，已向巴黎及另外15個行政區發出最高級別的熱浪紅色預警，千多間公立學校停課。
 
 有氣象專家解釋，高溫是由於出現「熱穹頂」現象，就像鍋蓋一樣將熱空氣困住，令氣溫不斷上升。"
-康文署免費開放多項設施慶回歸,2025-07-01 18:49,,2025-07-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811491-20250701.htm,康文署多項設施在「七一」慶回歸當日，開放多項設施予市民免費使用。另外，香港故宮文化博物館的專題展覽，同樣免費開放，但訪客需預約。
 習近平主持中央財經會議　倡依法處理企業低價無序競爭,2025-07-01 18:49,,2025-07-01 19:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811489-20250701.htm,"中共中央總書記、國家主席、中央軍委主席習近平今天主持召開中央財經委員會會議。會議提出縱深推進全國統一大市場建設，當中要依法依規治理企業低價無序競爭，推動落後產能有序退出。
 
 會議又強調，推動海洋經濟高質量發展，要加注意創新驅動、高效協同、產業更新及合作共贏等。"
@@ -473,17 +479,18 @@ The award-winning pianist said he'll be going on international tours and loves t
 白宮發言人萊維特說，功勞是屬於特朗普，他知道如何談判，又說每個國家都要跟美國保持良好貿易關係。萊維特又說，特朗普正與貿易團隊會面，為一些未參與談判的國家設定關稅稅率。
 
 特朗普早前暫緩向大部分國家徵收對等關稅90天，限期即將在本月9日屆滿。美國財長貝森特預計在限期前會達成一系列貿易協議。但他警告，即使各國有誠意談判，如果無法在限期前達成協議，仍有可能被大幅調高關稅。"
+康文署免費開放多項設施慶回歸,2025-07-01 18:49,,2025-07-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811491-20250701.htm,康文署多項設施在「七一」慶回歸當日，開放多項設施予市民免費使用。另外，香港故宮文化博物館的專題展覽，同樣免費開放，但訪客需預約。
 南韓當局傳召尹錫悅周六接受問話　強調不會再押後,2025-07-01 18:36,,2025-07-01 18:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811504-20250701.htm,"南韓的獨立檢察組傳召前總統尹錫悅星期六接受問話，強調如果尹錫悅再次拒絕接受調查，不排除會發出拘留令。
 
 獨檢組原定今天傳召尹錫悅接受內亂案相關調查，但當局表示，尹錫悅一方拒絕配合，並提交文件，申請將調查日期推遲到本星期六。獨檢組表示，星期六上午9時是死線，表明如果屆時尹錫悅仍然拒絕配合調查，就可能會向法院申請拘留令。
 
 獨檢組在6月底首次以嫌疑人身分，傳召尹錫悅調查，但尹錫悅一方以他身體不適為由申請押後，雙方曾經就調查日期爭論，當局強調今次是最後一次押後。"
-沈靖韜出席香港電台活動　廣播處長料更多年輕人可揚威海外,2025-07-01 18:27,,2025-07-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811498-20250701.htm,"本港鋼琴家沈靖韜早前在范克萊本國際鋼琴賽奪得冠軍。他下午出席香港電台活動，即場演奏，並與市民見面。
-
-廣播處長關婉儀表示祝賀，相信可激發更多年輕人揚威海外。"
 427人獲授勳銜及嘉獎　包括9人為維護國家安全獲頒授勳銜,2025-07-01 18:27,,2025-07-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811497-20250701.htm,"政府公布授勳名單，今年共有427人獲授勳銜及嘉獎，其中3人獲大紫荊勳章，包括經濟日報集團主席兼創辦人馮紹波、旭日集團董事長楊釗及醫管局前主席梁智仁。
 
 另外，20人獲金紫荊星章，政府亦向9名為維護國家安全作出貢獻的人員頒授勳銜，讚揚他們無畏無懼履行職責。"
+沈靖韜出席香港電台活動　廣播處長料更多年輕人可揚威海外,2025-07-01 18:27,,2025-07-01 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811498-20250701.htm,"本港鋼琴家沈靖韜早前在范克萊本國際鋼琴賽奪得冠軍。他下午出席香港電台活動，即場演奏，並與市民見面。
+
+廣播處長關婉儀表示祝賀，相信可激發更多年輕人揚威海外。"
 沈靖韜出席香港電台活動　廣播處長料激發更多年輕人揚威海外,2025-07-01 18:27,,2025-07-01 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811498-20250701.htm,"本港鋼琴家沈靖韜早前在范克萊本國際鋼琴賽奪得冠軍。他下午出席香港電台活動，即場演奏，並與市民見面。
 
 廣播處長關婉儀表示祝賀，相信可激發更多年輕人揚威海外。"
@@ -681,6 +688,31 @@ Admission is free for the event at New Town Plaza that runs until July 9."
 黃家和冀商戶七一優惠有助吸引市民留港消費,2025-07-01 15:33,,2025-07-01 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811466-20250701.htm,"全港超過4000間食肆及商戶今日會提供七一折等優惠，香港餐飲聯業協會會長黃家和表示，今年參與提供優惠的商戶比往年多，希望有助吸引市民留港消費，亦吸引旅客到商場餐廳用膳，預計生意額會較去年增加大約一成。
 
 黃家和表示，去年慶祝香港七一回歸，參與提供優惠的食肆有近2000間，商場的人流增加，餐廳消費亦有上升，而今年各區都有商場提供不同優惠，相信亦能會令市面較去年更暢旺。"
+Hkers get a treat on SAR anniversary,2025-07-01 15:31,,2025-07-01 15:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811465-20250701.htm,"Hongkongers have been enjoying discounts and freebies that are on offer on the 28th anniversary of the SAR.
+
+On Tuesday, more than 3,800 restaurants rolled out discounts of up to 29 percent, and for some eateries, the campaign will last for an entire week.
+
+At lunch time, there were queues at a local chain restaurant taking part in the campaign.
+
+A customer surnamed Lee said he was here because of the cheaper meals.
+
+""Because they have a discount for the celebration... If you don't have the discount, I will go away, I won't queue up here,"" he said.
+
+But Dyujoy did not learn about the offer until an RTHK reporter told him about it.
+
+""I didn't know about this discount... so it would be better if it's more advertised, so that we know that there's a discount going on.""
+
+As of public transport, several ferry services are free, as are tram rides.
+
+Foreign domestic helper Elma said she usually takes the train to go from Central to Causeway Bay, but this time she opted for the tram instead.
+
+""[The] more faster [option] is the MTR. But now that the tram is free, I take the tram going here.""
+
+The MTR Corporation, for its part, is giving away 71,000 e-single journey tickets through a lucky draw.
+
+Many people also flocked to museums across the city, including the Hong Kong Palace Museum, which offer free admission, along with various indoor and outdoor facilities operated by the Leisure and Cultural Services Department that are available free of charge.
+
+Attractions such as Ocean Park and Ngong Ping 360 have also rolled out ticket discounts."
 HKers get a treat on SAR anniversary,2025-07-01 15:31,,2025-07-01 16:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811465-20250701.htm,"Hongkongers have been enjoying discounts and freebies that are on offer on the 28th anniversary of the SAR.
 
 On Tuesday, more than 3,800 restaurants rolled out discounts of up to 29 percent, and for some eateries, the campaign will last for an entire week.
@@ -704,31 +736,6 @@ Simon Wong, president of the Hong Kong Federation of Restaurants and Related Tra
 ""We also see an increase in people flow in malls, and they are also spending more in restaurants.""
 
 As for public transport, several ferry services are free, as are tram rides.
-
-Foreign domestic helper Elma said she usually takes the train to go from Central to Causeway Bay, but this time she opted for the tram instead.
-
-""[The] more faster [option] is the MTR. But now that the tram is free, I take the tram going here.""
-
-The MTR Corporation, for its part, is giving away 71,000 e-single journey tickets through a lucky draw.
-
-Many people also flocked to museums across the city, including the Hong Kong Palace Museum, which offer free admission, along with various indoor and outdoor facilities operated by the Leisure and Cultural Services Department that are available free of charge.
-
-Attractions such as Ocean Park and Ngong Ping 360 have also rolled out ticket discounts."
-Hkers get a treat on SAR anniversary,2025-07-01 15:31,,2025-07-01 15:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811465-20250701.htm,"Hongkongers have been enjoying discounts and freebies that are on offer on the 28th anniversary of the SAR.
-
-On Tuesday, more than 3,800 restaurants rolled out discounts of up to 29 percent, and for some eateries, the campaign will last for an entire week.
-
-At lunch time, there were queues at a local chain restaurant taking part in the campaign.
-
-A customer surnamed Lee said he was here because of the cheaper meals.
-
-""Because they have a discount for the celebration... If you don't have the discount, I will go away, I won't queue up here,"" he said.
-
-But Dyujoy did not learn about the offer until an RTHK reporter told him about it.
-
-""I didn't know about this discount... so it would be better if it's more advertised, so that we know that there's a discount going on.""
-
-As of public transport, several ferry services are free, as are tram rides.
 
 Foreign domestic helper Elma said she usually takes the train to go from Central to Causeway Bay, but this time she opted for the tram instead.
 
@@ -770,13 +777,6 @@ Attractions such as Ocean Park and Ngong Ping 360 have also rolled out ticket di
 
 她又說，很多店舖往年都有推出七一優惠，顧客對有關推廣印象好，部分店舖亦出現人龍，認為七一折扣有助吸引人流。"
 泰國憲法法院暫停佩通坦行使總理職權,2025-07-01 14:34,,2025-07-01 14:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811459-20250701.htm, 
-美國加強對古巴的強硬政策　古巴外長斥美國侵犯整個國家人權,2025-07-01 14:15,,2025-07-01 14:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811458-20250701.htm,"美國總統特朗普簽署備忘錄，恢復並加強在首個任期對古巴的強硬政策，推翻前總統拜登制定的措施。
-
-白宮發佈的備忘錄宣佈重新實施針對古巴的旅遊禁令，加強美國已延續數十年對古巴的經濟封鎖，禁止與古巴軍方控制的實體進行直接或間接金融交易。備忘錄還稱，美國反對聯合國等國際組織要求解除對古巴經濟封鎖的呼籲。
-
-儘管美國人不能前往古巴旅遊，但容許包括進行教育或人道主義在內的活動。
-
-古巴外長羅德里格斯指責美國政府的做法是侵犯整個國家人權的犯罪行為。他在社交平台表發聲明說，美國加大對古巴侵略和經濟封鎖，懲罰的是所有古巴人民，是阻礙古巴國家發展的最大障礙。"
 美國加強對古巴強硬政策　古巴外長斥美國侵犯整個國家人權,2025-07-01 14:15,,2025-07-01 15:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811458-20250701.htm,"美國總統特朗普簽署備忘錄，恢復並加強在首個任期對古巴的強硬政策，推翻前總統拜登制定的措施。
 
 白宮發佈的備忘錄宣佈重新實施針對古巴的旅遊禁令，加強美國已延續數十年對古巴的經濟封鎖，禁止與古巴軍方控制的實體進行直接或間接金融交易。備忘錄還稱，美國反對聯合國等國際組織要求解除對古巴經濟封鎖的呼籲。
@@ -784,6 +784,13 @@ Attractions such as Ocean Park and Ngong Ping 360 have also rolled out ticket di
 儘管美國人不能前往古巴旅遊，但容許包括進行教育或人道主義在內的活動。
 
 古巴外長羅德里格斯指責美國政府的做法是侵犯整個國家人權的犯罪行為。他在社交平台發聲明說，美國加大對古巴侵略和經濟封鎖，懲罰的是所有古巴人民，是阻礙古巴國家發展的最大障礙。"
+美國加強對古巴的強硬政策　古巴外長斥美國侵犯整個國家人權,2025-07-01 14:15,,2025-07-01 14:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811458-20250701.htm,"美國總統特朗普簽署備忘錄，恢復並加強在首個任期對古巴的強硬政策，推翻前總統拜登制定的措施。
+
+白宮發佈的備忘錄宣佈重新實施針對古巴的旅遊禁令，加強美國已延續數十年對古巴的經濟封鎖，禁止與古巴軍方控制的實體進行直接或間接金融交易。備忘錄還稱，美國反對聯合國等國際組織要求解除對古巴經濟封鎖的呼籲。
+
+儘管美國人不能前往古巴旅遊，但容許包括進行教育或人道主義在內的活動。
+
+古巴外長羅德里格斯指責美國政府的做法是侵犯整個國家人權的犯罪行為。他在社交平台表發聲明說，美國加大對古巴侵略和經濟封鎖，懲罰的是所有古巴人民，是阻礙古巴國家發展的最大障礙。"
 歐洲多國持續受酷熱影響　法國多省發高溫警報,2025-07-01 13:58,,2025-07-01 14:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1811445-20250701.htm,"歐洲多個國家持續受酷熱天氣影響，法國大多數省份發出高溫警報。 
 
 氣象部門預測，法國今天多處氣溫可能攀升至攝氏40度至41度。 總理貝魯取消外省訪問行程，留在首都巴黎應對。官方措施包括一千多間公立學校停課。警方禁止大排放量的車輛在巴黎市區行駛，避免污染物令高溫更難消減。
@@ -870,20 +877,3 @@ M+及香港故宮文化博物館將開放至晚上8時，為確保入場訪客�
 有西餅麵包連鎖店表示，特意揀選同樣受市民及旅客歡迎的食品作七一推廣，預料有關產品銷售額可達雙位數增幅。
 
 有立法會議員相信，七一優惠活動有助帶動消費氣氛，今年亦會針對銀髮市場做推廣。"
-'Sham Shui Po needs more community living rooms',2025-07-01 12:03,,2025-07-01 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1811434-20250701.htm,"A Kowloon West constituency lawmaker said he hopes more community living rooms can be set up in Sham Shui Po to serve low-income families.
-
-Scott Leung's comments came a day after the launch of the Sham Shui Po East community living room, the third such facility in the district and seventh in Hong Kong overall.
-
-The government expects the 3,600-square-foot facility to serve at least 500 families living in subdivided units and attract 80,000 visits annually. 
-
-So far, 250 households have registered to use the facility.
-
-Apart from amenities such as a dining room and shared kitchen, it also features a recreational area for children.
-
-Speaking on an RTHK radio programme, Leung noted that the newly opened community living room is the largest among all three in Sham Shui Po.
-
-""From what I know, demand and the number of participating families are very high. As Sham Shui Po has the second highest number of subdivided unit tenants in Hong Kong, the coverage of the three community living rooms is just enough (to meet demand),"" he said.
-
-But Leung also said the facilities might not be convenient for some residents who need to walk more than 15 minutes to get there.
-
-Two more community living rooms, located in Sham Shui Po and Kowloon City, will be launched this quarter."
