@@ -1,4 +1,297 @@
 title,date,scrape_time,section,source,url,news_content
+立法會五題：法律科技及人工智能的應用,2025-07-09 15:25,2025-07-09 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900441.htm,"以下是今日（七月九日）在立法會會議上陳曼琪議員的提問和署理律政司司長張國鈞博士的答覆：
+
+問題：
+
+據悉律政司一直積極推動法律界提升對法律科技，以及人工智能（AI）的應用。有意見認為政府應積極研發於普通法領域應用AI工具（例如由香港生成式人工智能研發中心所研發的大語言模型），以提高法律界的運作效率及競爭力。就此，政府可否告知本會：
+
+（一）目前有否研發應用於普通法領域的大語言模型；如有，具體詳情及推展時間表為何；如否，原因為何；
+
+（二）有否計劃定期與內地舉辦法律科技及AI高峰論壇或國際展覽，以促進內地與香港在法律科技上的交流合作；如有，詳情為何；如否，原因為何；有否計劃引進內地的法律科技將之應用於香港普通法領域，並助力內地在法律方面的AI服務產品拓展至香港及海外；如有，詳情為何；如否，原因為何；及
+
+（三）有何措施確保香港中小型律師事務所能受惠於法律科技及AI的發展，例如提供技術支援、設立「法律科技設備」免稅額，以及資助其購置法律科技相關設備？
+
+答覆：
+
+主席：
+
+（一）由香港科技大學牽頭的跨校合作研究中心──香港生成式人工智能研發中心（HKGAI）已開發了香港首個基於DeepSeek模型進行全參數微調的本地人工智能大語言模型「HKGAI V1」。HKGAI基於該本地大語言模型開發了多個適用於不同公務領域的垂直應用，包括生成式人工智能文書輔助應用程式「港文通」，以及與法律相關的「港法通」。律政司現正參與「港文通」的試用計劃，並會在檢討成效之後積極考慮參與「港法通」的試用。與此同時，香港中文大學法律學院最近亦與人工智能軟件公司合作，在粵語大模型的基礎上共同開發法律資訊AI模型，推動法律制度和行業的數碼化轉型。而香港理工大學孵化企業智法數科（WiseLaw Digital Technology）最近亦發布了其人工智能賦能法律產學研創新成果。律政司將根據試用成果、市場科技發展、法律業界及社會需求，以及相關資源配置等因素，與HKGAI及其他相關政府部門或機構展開合作，致力研究及推動人工智能在法律領域的進一步應用，尤其是與香港法律相關的大型語言模型。
+
+（二）律政司十分重視法律科技及人工智能領域的發展，並認為舉辦相關論壇或展覽是促進交流合作的重要平台。目前，律政司正積極籌備相關活動，目標是今年內舉辦首個大型活動，面向全球海內外的參與者，打造一個多元開放的交流平台，促進各地智慧與經驗的共享。
+
+目前，我們留意到內地有不少法律科技企業發展成熟。由於內地法律科技現時主要針對內地法律體系設計，未必能簡單直接地引入香港的普通法市場。然而，我們非常鼓勵內地法律科技企業落戶香港開拓本地法律市場，開發提供適合香港普通法市場的AI產品，並利用香港作為跳板開拓海外其他普通法地區的市場。
+
+（三）為推動法律科技的發展，律政司於二○二五年一月正式成立推動法律科技發展諮詢小組（諮詢小組），邀請業界及各方持份者共同研究和制訂有關法律科技的政策措施。諮詢小組成員涵蓋法律及爭議解決業界、法律學院及法律科技業界等，當中亦有中小型律師事務所的代表，確保政策能符合業界的需要。
+
+諮詢小組特別關注到中小型律師事務所在推動法律科技應用上的挑戰。除經濟因素外，我們理解中小型律師事務所普遍對法律科技的認識不足，且傳統執業模式較少依賴科技，影響了他們採用新技術的意願。
+
+針對此情況，律政司接納了諮詢小組的建議，計劃分三階段，循序漸進推動法律界應用科技：
+
+（1）第一階段：法律科技的認識和教育
+
+推動法律科技政策的首個階段目標是要提高法律業界對法律科技的認識，並了解應用法律科技可為業界帶來的好處及應具備的風險管理意識，藉以改變業內一些固有思維模式及習慣。為此，律政司現正舉辦一系列與法律科技相關的圓桌會議和活動，以提高業界對法律科技的認識，並促進法律業界和法律科技專家交流和分享，令業界能夠規劃可行的法律科技應用方案。
+
+律政司也意識到讓法律學生瞭解法律科技的重要性，會透過法律教育及培訓常設委員會的平台，與法律教育及培訓工作的持份者研究在法律教育課程內加強有關法律科技的培訓。律政司亦計劃起草及發布路線圖，以協助法律業界開展法律科技應用之路；律政司亦計劃發布道德及安全指引，讓法律業界在使用法律科技時遵循。
+
+（2）第二階段：推動業界認識法律科技產品
+
+律政司有意籌劃舉辦法律科技產品博覽，讓法律業界接觸和體驗市場上不同的法律科技產品，找出適合其業務發展的法律科技解決方案。
+
+此外，我們亦正考慮進行市場調查，為法律業界統整在市場上提供的法律科技產品清單，為法律業界提供較為全面的資訊作參考。
+
+（3）第三階段：推動業界使用法律科技
+
+律政司會鼓勵本地及海內外法律科技企業在本地巿場發展，建立香港的法律科技生態系統。律政司將審視上述策略的成效，並在適當時間以政策措施推動業界使用法律科技，並會不時檢討現行法律制度，以更好地支持和規管創新和新興法律科技的發展。
+
+透過上述策略，我們希望能有效提升法律業界對法律科技的認識和應用，從而提升工作效率和專業服務質素，鞏固香港作為亞太區國際法律服務及爭議解決中心的地位。
+
+多謝主席。"
+LCQ5: Application of legal technology and artificial intelligence,2025-07-09 15:25,2025-07-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900443.htm,"  Following is a question by the Hon Maggie Chan and a reply by the Acting Secretary for Justice, Dr Cheung Kwok-kwan, in the Legislative Council today (July 9):
+
+Question:
+
+ It is learnt that the Department of Justice has been actively promoting the application of legal technology (lawtech) and artificial intelligence (AI) in the legal sector. There are views that the Government should actively develop AI tools (e.g. large language model developed by the Hong Kong Generative AI Research and Development Center) for application in areas of the common law, so as to enhance the operational efficiency and competitiveness of the legal sector. In this connection, will the Government inform this Council:
+
+(1) whether it has currently developed large language models for application in areas of the common law; if so, of the specific details and the implementation timetable; if not, the reasons for that;
+
+(2) whether it has plans to organise lawtech and AI summits or international exhibitions with the Mainland on a regular basis, so as to promote exchanges and co-operation between the Mainland and Hong Kong in lawtech; if so, of the details; if not, the reasons for that; whether it has plans to introduce lawtech from the Mainland and apply it in areas of Hong Kong common law, as well as promote the Mainland's AI legal service products to Hong Kong and overseas; if so, of the details; if not, the reasons for that; and
+
+(3) of the measures in place to ensure that small and medium-sized law firms in Hong Kong can benefit from the development of lawtech and AI, such as providing technical support, introducing a tax allowance for ""lawtech equipment"" and subsidising their procurement of lawtech-related equipment?
+
+Reply:
+
+President,
+
+(1) The Hong Kong Generative Artificial Intelligence Research and Development Center (HKGAI), an inter-school co-operative research centre led by the Hong Kong University of Science and Technology, has developed the first local large language model (LLM) based on DeepSeek technology with full parameter fine-tuning – ""HKGAI V1"". The HKGAI has developed multiple vertical applications for various public service sectors based on this local LLM, including the generative artificial intelligence (AI) document assistance application ""HKPilot"" and the legal-related ""LexiHK"". The Department of Justice (DoJ) is currently participating in the pilot use of ""HKPilot"" and is considering participating in the trial of ""LexiHK"" after reviewing its effectiveness. At the same time, the Faculty of Law of the Chinese University of Hong Kong has recently collaborated with an AI software company to develop a legal information AI model based on the Cantonese LLM to facilitate the digital transformation of the legal system and industry. WiseLaw Digital Technology, a company incubated by the Hong Kong Polytechnic University, has also recently announced its innovation achievement in legal AI products. The DoJ will collaborate with the HKGAI and other relevant government departments or institutions based on the trial results, market technology development, the needs of the legal sector and the community, and related resource considerations to examine and promote the further application of AI in the legal sector, especially LLMs related to Hong Kong law.
+
+(2) The DoJ attaches great importance on the development of areas of lawtech and AI, and believes that forums and exhibitions provides an important platform for fostering exchange and co-operation. Currently, the DoJ is actively preparing related activities, aiming to hold the first large-scale activity open to global participants, creating a diverse and open exchange platform to promote the sharing of wisdom and experience from various regions.
+
+ We note that there are currently a number of well-developed lawtech enterprises in Mainland China. Since Mainland lawtech is now primarily designed for the Mainland legal system, it may not be directly applicable to Hong Kong's common law market. However, we strongly encourage Mainland lawtech enterprises to set up in Hong Kong to explore the local legal market, develop AI products suitable for the Hong Kong common law market, and use Hong Kong as a springboard to develop markets in other common law jurisdictions overseas.
+
+(3) To promote the development of lawtech, the DoJ established the Consultation Group on Lawtech Development (Consultation Group) in January 2025, and invited the industry and various stakeholders to jointly study and formulate policy measures related to lawtech. The Consultation Group members include representatives from the legal and dispute resolution sectors, law schools, and the lawtech industry, including representatives from small and medium-sized law firms, ensuring that the policies will suit the needs of practitioners.
+
+ The Consultation Group notes in particular the challenges faced by small and medium-sized law firms in promoting the use of lawtech. In addition to economic factors, we understand that small and medium-sized law firms often have limited understanding of lawtech, and traditional practice models tend to rely less on technology, which affects their willingness to adopt new technologies.
+
+ In response to this situation, the DoJ has accepted the suggestion of the Consultation Group and plans to promote the use of technology in the legal industry progressively in three stages:
+
+(1) Phase 1: Lawtech awareness and education
+
+ The aim of the first stage of the policy on promoting lawtech is to change certain ingrained mindsets and practices within the legal profession by raising their awareness of lawtech, and helping them to understand the benefits of the use of lawtech that can bring to the profession and the risk management awareness that the profession should have. To this end, the DoJ is organising a series of lawtech-related roundtables and events to raise the profession's understanding of lawtech and to facilitate the exchange and sharing of information between the profession and lawtech experts to enable them to plan for viable adoption of lawtech.
+
+ The DoJ is also aware of the importance of educating law students about lawtech, and will work with stakeholders in legal education and training to strengthen training related to lawtech in legal education curricula through the Standing Committee on Legal Education and Training platform. The DoJ plans to draft and publish a roadmap to assist the legal profession in embarking on their path to technology applications. The DoJ also plans to issue ethical and security guidelines for the legal profession to follow when using lawtech.
+
+(2) Phase 2: Promoting the profession's engagement with lawtech products
+
+ The DoJ intends to organise an exhibition of lawtech products to enable the legal profession to access and experience a variety of lawtech products available in the market and to identify lawtech solutions suitable for their business development.
+
+ In addition, we are considering conducting a market survey to consolidate a list of lawtech products available in the market in order to provide more comprehensive information to the legal sector for reference.
+
+(3) Phase 3: Promoting the use of lawtech in the legal profession
+
+ The DoJ will encourage local and overseas lawtech enterprises to establish and grow in the local market, thereby fostering Hong Kong's lawtech ecosystem. The DoJ will review the effectiveness of the above strategies and take policy measures to promote the use of lawtech in the legal profession as appropriate. The DoJ will also review the existing legal framework from time to time in order to better support and regulate the development of innovative and emerging legal technologies.
+
+ Through these strategies, we hope to effectively enhance the awareness and use of lawtech by the legal profession, thereby enhancing the efficiency and quality of professional services and strengthening Hong Kong's position as an international legal services and dispute resolution centre in the Asia-Pacific region.
+
+ Thank you, President."
+​立法會：政務司司長動議二讀《2025年立法會（權力及特權）（修訂）條例草案》發言全文（只有中文）,2025-07-09 15:24,2025-07-09 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900604.htm,"以下是政務司司長陳國基今日（七月九日）在立法會會議動議二讀《2025年立法會（權力及特權）（修訂）條例草案》（《條例草案》）的發言全文：
+
+主席：
+
+我動議二讀《2025年立法會（權力及特權）（修訂）條例草案》。
+
+因應立法會完善立法會議員履職制度和引入《立法會議員守則》（《守則》），立法會建議修訂《立法會（權力及特權）條例》（《條例》），對因違反《守則》而根據《議事規則》被暫停職務的立法會議員施加財政處分。
+
+立法會議事規則委員會和內務委員會已通過支持制定《守則》，進一步完善立法會議員的履職制度，包括清楚訂明對立法會議員行為操守和履職的要求、改善立法會議員利益申報機制，以及就立法會議員各類不當行為設立處分機制。當中，立法會建議向違反《守則》並查明屬實的議員施加不同程度的處分，包括涉事議員可以被暫停立法會職務，並且在停職期間不會獲發議員酬金及津貼。
+
+根據現行《條例》，只有在議員作出極不檢點行為而被暫停職務的情況下，其停職期間的酬金及津貼才會被扣起。為落實立法會的建議，特區政府應立法會要求提交本《條例草案》，擴大財政處分的適用範圍，涵蓋議員因其他違反《守則》行為而被暫停職務的情況。修訂同時賦予立法會彈性，容許日後根據《議事規則》批准的其他理由，扣起被暫停職務議員的酬金及津貼。
+
+政府樂見立法會以更高的標準加強自我監督和自我完善，並提升運作透明度。立法會引入《守則》，符合社會對立法會議員的期望。
+
+如果議員支持及早日通過《條例草案》，有關的修訂建議就能在第八屆立法會任期開始當日生效，配合立法會完善議員的履職制度，為下一屆立法會能繼續貫徹「愛國者治港」原則、更好發揮立法會的憲制職能奠定良好的基礎。
+
+主席，我謹此陳辭。"
+日本進口水產的檢測情況,2025-07-09 15:20,2025-07-09 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900602.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由七月八日中午截至今日（七月九日）中午，食安中心已對248個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共149 645個日本進口食物樣本（包括98 179個水產及其製品、海藻及海鹽樣本）及共34 092個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2025-07-09 15:20,2025-07-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900603.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on July 8 to noon today (July 9), the CFS conducted tests on the radiological levels of 248 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 149 645 samples of food imported from Japan (including 98 179 samples of aquatic and related products, seaweeds and sea salt) and 34 092 samples of local catch respectively. All the samples passed the tests."
+​香港海關偵破非註冊貴金屬及寶石交易商進行指明交易的案件,2025-07-09 15:15,2025-07-09 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900578.htm,"香港海關昨日（七月八日）偵破一宗案件，涉及一間本地公司在沒有貴金屬及寶石交易商監管制度所需的註冊情況下，進行十二萬以上港元的銀粉交易，並拘捕該公司的一名董事。
+
+案件仍在調查中。該名被捕人士現獲准保釋候查。
+
+根據《打擊洗錢及恐怖分子資金籌集條例》（第615章），貴金屬及寶石交易商監管制度已於二○二三年四月一日起實施。任何人如有意在香港經營貴金屬及寶石業務，並在業務過程中在香港進行總額為十二萬或以上港元的交易（不論是支付或收取款項），均須向海關關長註冊。除註冊人外，任何交易商若聲稱為註冊人、聲稱獲授權進行；或進行任何總額為十二萬或以上港元的現金交易或非現金交易，均屬違法，一經定罪，最高可被判處罰款港幣十萬元及監禁六個月。
+
+海關提醒貴金屬及寶石交易商必須在成功獲得相關註冊後，才可進行總額為十二萬或以上港元的現金或非現金交易。
+
+有關註冊申請的表格、程序和指引，可瀏覽「貴金屬及寶石交易商註冊系統」網站（www.drs.customs.gov.hk）或海關網頁（www.customs.gov.hk/tc/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html）。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑在沒有所需註冊的情況下而進行總額為十二萬或以上港元的相關貴金屬及寶石交易。"
+Hong Kong Customs detects case of non-registered precious metals and stones dealer carrying out specified transactions,2025-07-09 15:15,2025-07-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900581.htm,"Hong Kong Customs yesterday (July 8) detected a case involving a local company that conducted transactions of silver powder valued at over HK$120,000, without registration under the Dealers in Precious Metals and Stones Regulatory Regime. A director of the company was arrested.
+
+The investigation is ongoing. The arrested person has been released on bail pending further investigation.
+
+According to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615), the Regime came into effect on April 1, 2023. Any person who is seeking to carry on a business of dealing in precious metals and stones in Hong Kong and engage in any transaction(s) (whether making or receiving a payment) with a total value at or above HK$120,000 in Hong Kong is required to register with the Commissioner of Customs and Excise. Any dealer, other than a registrant, who claims to be a registrant, claims to be authorised to carry out, or carries out any cash or non-cash transaction(s) with a total value at or above HK$120,000 is liable to a maximum fine of HK$100,000 and imprisonment for six months upon conviction.
+
+Customs reminds dealers in precious metals and stones that they must obtain the relevant registration before they can carry out any cash or non-cash transaction(s) with a total value at or above HK$120,000.
+
+For the forms, procedures and guidelines to submit applications for registration, please visit the website for Dealers in Precious Metals and Stones Registration System (www.drs.customs.gov.hk) or Customs' webpage (www.customs.gov.hk/en/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html).
+
+Members of the public may report any suspected transactions involving precious metals and stones with a total value at or above HK$120,000 conducted without the required registration to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+Government revises traffic-related fees and fixed penalties,2025-07-09 15:15,2025-07-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900404.htm,"The Government announced today (July 9) a proposal to adjust four traffic-related fees, including tunnel tolls, licence fees for electric private cars, the maximum fee level of parking meters, and fixed penalties for traffic offences.
+
+The spokesperson for the Transport and Logistics Bureau said, ""The 2025-26 Budget announced that the Government would focus on reviewing traffic charges and fixed penalties that have not been adjusted for many years. Our overall considerations are to enhance traffic management and maintain public fiscal discipline, reflecting the principles of 'cost recovery' and 'user pays'.""
+
+To this end, the Government has formulated a total of four legislative amendments:
+
+(1) Road Tunnels (Government) (Amendment) (No. 2) Regulation 2025 - Adjustment of tunnel tolls
+
+Adopting a science-based approach, the Government has reviewed the tolls for government tunnels and major roads, in the order of priority, adhering to four charging principles: traffic management needs, efficiency first, public transport first, and ""user-pays"". After comprehensively considering these four principles and the specific circumstances of each tunnel and major road, it has been decided to propose increasing the tolls for the Aberdeen Tunnel and Shing Mun Tunnels, and to introduce a toll for the use of the Central Kowloon Bypass. The new tolls for the Aberdeen Tunnel and Shing Mun Tunnels will be effective on September 21, 2025, while toll collection for the Central Kowloon Bypass will commence when it is fully commissioned in 2026. The toll scheme is summarised as follows:
+
+
+
+
+
+Current toll
+			(Fixed toll for all vehicles throughout the day)
+Proposed toll
+			(Fixed toll for all vehicles throughout the day)
+
+
+Aberdeen Tunnel
+$5
+$8
+
+
+Shing Mun Tunnels
+$5
+$8
+
+
+Central Kowloon Bypass
+			(Yau Ma Tei Section Tunnel)
+/
+$8
+
+
+
+
+The spokesperson for the Transport and Logistics Bureau said, ""The tolls for the Aberdeen Tunnel and Shing Mun Tunnels have not been adjusted for 34 years, during which time inflation has exceeded 130 per cent, resulting in operational deficits. The $8 toll is expected to have a minimal impact on traffic, and the adjusted tolls will enable the tunnels to achieve break-even in operations. On the other hand, the Central Kowloon Bypass will alleviate the current traffic congestion on major trunk roads in Kowloon, offering a shorter route with higher speeds, making it highly attractive to drivers. If no toll is charged for the use of the Central Kowloon Bypass, it is expected that its utilisation rate will approach a saturation point shortly after its commissioning. Taking into account the views of the Legislative Council (LegCo) Panel on Transport (TP) and the community, and in order to attract more motorists to use the bypass and hence achieve an effective traffic diversion, the Government is proposing an $8 toll. The proposed toll level will effectively divert approximately 20 per cent of the overall traffic from saturated major roads in Kowloon, while reserving about 15 per cent of spare capacity of theCentral Kowloon Bypass to accommodate future traffic growth. It will also recover nearly 80 per cent of basic operational costs; and according to the efficiency-first principle, the fees payable by commercial and public transport vehicles will be consistent with the moderate toll charged for smaller private cars.""
+
+The spokesperson continued, ""We have also reviewed other government tunnels and trunk roads in accordance with the four major principles. In summary, taking into account the traffic management needs and traffic flow of other government tunnels and trunk roads, the traffic flow of alternative routes, as well as future transport infrastructure projects related to each route, such as the commissioning of new alternative routes, we recommend maintaining the current tolling arrangements for the time being and reviewing them again at an appropriate time.""
+
+(2) Road Traffic (Registration and Licensing of Vehicles) (Amendment) (No. 4) Regulation 2025 - Rationalising the licence fee structure and levels for electric private cars
+
+The existing licence fees for electric private cars are charged by vehicle unladen weight, and the licence fees for fuel-propelled private cars are about six times more than that for electric private cars. The Government proposes to revise the annual licence fee structure for electric private cars by charging licence fees based on their rated power. A five-tier licence fee structure for electric private cars based on their rated power will be introduced, and the fee levels will be suitably adjusted, which would take five phases over six years to complete, to align with technological advancements and practices in other regions. The new licence fee structure will take effect from November 1, 2025, and will apply to newly registered electric private cars, while existing electric private cars will be granted a four-month grace period. Details are as follows:
+
+
+
+
+Rated power of electric private cars (kW)
+Annual licence fee ($)#*
+
+
+November 1, 2025, to
+			February 28, 2027
+			(with a 4-month grace period)
+March 1, 2027, to
+			February 29, 2028
+March 1, 2028, to
+			February 28, 2029
+March 1, 2029, to
+			February 28, 2030
+March 1, 2030, onwards
+
+
+≤ 75
+1,500
+1,750
+2,000
+2,500
+3,000
+
+
+> 75 – 125
+2,000
+2,500
+3,000
+4,000
+5,000
+
+
+> 125 – 175
+2,500
+3,500
+4,500
+5,500
+7,000
+
+
+> 175 – 225
+3,000
+4,500
+6,000
+7,500
+9,000
+
+
+> 225
+5,000
+6,500
+8,000
+9,500
+11,000
+
+
+# Exclusive of the Traffic Accident Victims Assistance Fund levy (at $114 per vehicle annually).
+			* The fee for a licence for four months is 35 per cent of that for an annual licence, plus an additional fee of $30.
+
+
+
+
+Licence fee concessions will be offered to eligible disabled electric private car owners (see note).
+
+The spokesperson for the Transport and Logistics Bureau said, ""Taking into account the views of the LegCo TP, the adjustment of electric private cars licence fees will be implemented in five phases to provide the public with a longer adaptation period. Upon adjustments, the new annual licence fee levels for electric private cars will still be 25 per cent (fifth tier) to 40 per cent (first tier) lower than the current licence fees for fuel-propelled vehicles, to continue encouraging motorists to switch to electric vehicles and promote environmental protection. According to the current type distribution of licensed electric private cars, 99 per cent of the vehicles fall within the first, second and third tiers, while the proportions of vehicles in the fourth and fifth tiers are only 1 per cent and 0.1 per cent respectively. As electric vehicles become increasingly popular, with a wider range of brands and models available on the market, and given that electric vehicles have lower energy, repair and maintenance costs compared to fuel-propelled vehicles, we expect that electric vehicles will remain appealing to motorists even after the rationalisation of annual licence fee structure and levels.""
+
+(3) Road Traffic (Parking) (Amendment) Regulation 2025 - Adjustment of parking meter charges
+
+To optimise the use of limited parking resources, the Government proposes to increase the maximum fee for metered parking from $2 per 15 minutes to $4 per 15 minutes, viz. a maximum fee of $16 per hour to increase the turnover of vehicles using metered parking spaces to meet the short-term parking needs of motorists. The new charges for metered parking spaces will take effect from September 28, 2025. The fees for metered parking spaces for goods vehicles, buses and coaches will be maintained at the existing level.
+
+(4) Proposed Motion for Resolutions under the Fixed Penalty (Traffic Contraventions) Ordinance (Cap. 237) and the Fixed Penalty (Criminal Proceedings) Ordinance (Cap. 240) - Adjustment of fixed penalties for traffic offences
+
+To enhance traffic safety and ensure a smooth traffic flow, the Government proposes to increase the fixed penalty for illegal parking from the current $320 to $400 (a 25 per cent increase). The fixed penalties for 19 other traffic offences related to road safety and traffic congestion (details in the Annex) will be increased from the current range of $320 to $1,000 to a new range of $480 to $1,500 (a 50 per cent increase). The penalty amounts for other traffic offences will remain unchanged.
+
+The spokesperson for the Transport and Logistics Bureau said, ""The fixed penalty levels for illegal parking and most of the traffic contraventions have remained unchanged for 31 years, and their deterrent effect may have been offset by inflation during this period. In fact, the fixed penalty levels of traffic contraventions in Hong Kong are much lower than those of various overseas regions. We have observed that the numbers of certain traffic offences continue to trend upwards or remain at a persistently high level. Adjusting the penalty amounts for these traffic offences will help enhance the deterrent effect, thereby safeguarding traffic safety and maintaining smooth traffic flow. At the same time, the Government will strive to increase the supply of parking spaces to meet parking demand as far as possible.""
+
+The Road Tunnels (Government) (Amendment) (No. 2) Regulation 2025, the Road Traffic (Registration and Licensing of Vehicles) (Amendment) (No. 4) Regulation 2025, and the Road Traffic (Parking) (Amendment) Regulation 2025 will be gazetted on July 18 and tabled at the LegCo on July 23 for negative vetting. As for the penalties for traffic violations under the Schedules to the Fixed Penalty (Traffic Contraventions) Ordinance (Cap. 237) and the Fixed Penalty (Criminal Proceedings) Ordinance (Cap. 240), the LegCo may amend them by resolution under positive vetting. The Secretary for Transport and Logistics will move a motion at the LegCo meeting on July 30 to pass the resolutions. The regulatory details and effective dates are specified in respective amendment regulations and the proposed resolutions, and relevant information is set out in the LegCo brief issued by the Government today.
+
+Note:No licence fee shall be payable where the rated power of an electric private car owned by an eligible disabled person does not exceed 75 kilowatts. Where the rated power of the electric private car exceeds 75 kilowatts, the annual licence fee payable shall be calculated by the deduction from the prescribed annual licence fee payable in respect of its rated power which does not exceed 75 kilowatts."
+與更新危險品技術細節相關的附屬法例周五刊憲,2025-07-09 15:12,2025-07-09 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900350.htm,"政府將於星期五（七月十一日）在憲報刊登《2025年〈2012年危險品（適用及豁免）規例〉（修訂附表）公告》及《2025年危險品（管制）規例（修訂附表7）公告》（統稱《公告》）。
+
+保安局發言人今日（七月九日）表示，經修訂的《危險品條例》及其附屬法例在二○二二年三月三十一日生效後，本港的危險品規管制度經已與國際標準接軌。鑑於有關危險品分類及運輸的國際標準《國際海運危險貨物規則》會定期更新，我們會相應地更新相關附屬法例的技術細節。保安局局長訂立《公告》，目的是因應最新修訂的《國際海運危險貨物規則》，更新《2012年危險品（適用及豁免）規例》附表1、2及3和《危險品（管制）規例》附表7所載列的危險品列表及相關的技術細節，緊貼國際最新發展，以利便業界運作。
+
+​《公告》於七月十六日提交立法會進行先訂立後審議的程序，待立法程序完成後，《公告》將於二○二六年一月一日起實施，其中部分修訂將於二○二七年一月一日起生效，以配合《國際海運危險貨物規則》所規定的強制實施日期。"
+Subsidiary legislation related to updating of technical details of dangerous goods to be gazetted on Friday,2025-07-09 15:12,2025-07-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900347.htm,"The Government will publish the Dangerous Goods (Application and Exemption) Regulation 2012 (Amendment of Schedules) Notice 2025 and the Dangerous Goods (Control) Regulation (Amendment of Schedule 7) Notice 2025 (collectively referred to as the Notices) in the Gazette this Friday (July 11).
+
+A spokesperson for the Security Bureau said today (July 9), ""The local dangerous goods (DG) regulatory regime was harmonised with international standards after the amended Dangerous Goods Ordinance and its subsidiary legislation took effect from March 31, 2022. Considering that the international standards for the classification and transportation of DG under the International Maritime Dangerous Goods Code (IMDG Code) are regularly updated, we will update the technical details of the relevant pieces of subsidiary legislation accordingly."" The Secretary for Security has made the Notices to update the lists of DG and relevant technical details in Schedules 1, 2 and 3 to the Dangerous Goods (Application and Exemption) Regulation 2012 and Schedule 7 to the Dangerous Goods (Control) Regulation in accordance with the latest edition of the IMDG Code to keep pace with the latest international developments and facilitate the operations of the trades in Hong Kong.
+
+âThe Notices will be tabled at the Legislative Council for negative vetting on July 16. Subject to the completion of the legislative procedures, the Notices will come into effect on January 1, 2026, with certain amendments scheduled to take effect on January 1, 2027, to align with the mandatory implementation date specified in the IMDG Code."
 ​香港海關檢獲約一百七十萬元懷疑冒牌貨物（附圖）,2025-07-09 15:00,2025-07-09 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900563.htm,"香港海關六月十四日在港珠澳大橋香港口岸檢獲約六千七百件懷疑冒牌貨物，估計市值約一百七十萬元。
 
 海關當日透過風險評估，在港珠澳大橋香港口岸截查一輛入境貨車。經檢查後，海關人員在車斗內檢獲該批懷疑冒牌貨物，包括球衣、手袋和鞋履，遂拘捕五十三歲男司機。
@@ -201,49 +494,6 @@ The MTR Corporation Limited (MTRCL) has made reference to some overseas experien
 To prevent crimes of indecent assaults in the railway premises, the MTRCL has put up posters at stations to step up the promotion of anti-crime messages on indecent assaults. Passengers are encouraged not to remain silent, and report incidents or crimes of indecent assaults immediately to the Police or station staff. The MTR station staff are properly trained to assist the Police in combating crimes. In addition, the MTRCL and the Police hold regular anti-crime meetings to share information about the latest crime trend and intelligence, and to deliberate on specific strategies to combat crimes. The MTRCL also organises publicity activities in collaboration with the Police (including regular anti-crime publicity activities organised annually) so as to raise passengers' anti-crime awareness.
 
 In respect of franchised buses, many routes have high occupancy rates during peak hours. As there is limited space in the compartments and passengers board and alight in the same aisle, setting up dedicated areas inside the compartments will affect the passenger-carrying efficiency of buses. In addition, it will be operationally difficult to ensure that passengers follow the arrangements. Franchised bus companies will co-operate with the police to enhance efforts in combating crimes."
-LCQ17: Combating online investment scams,2025-07-09 14:30,2025-07-09 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900268.htm," Following is a question by Professor the Hon Priscilla Leung and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (July 9):
-
-Question:
-
- According to the data provided by the Government in its reply to a question raised by a Member of this Council in June this year, the Police recorded a total of 1 534 cases of online investment scams involving an amount of about $1.02 billion in the first four months of this year. In this connection, will the Government inform this Council:
-
-(1) given that the Securities and Futures Commission (SFC) has launched anti-scam publicity and education programmes targeting three common investment scam scenarios, whether the Government has formulated specific measures to support SFC's anti-scam publicity programmes, so as to raise public vigilance against investment scams; if so, of the details; if not, the reasons for that;
-
-(2) whether it has plans to strengthen its co-operation with the SFC to update and enhance investor education, so as to ensure that investors can effectively identify and guard against emerging investment risks as well as evolving fraudulent practices and technologies; and
-
-(3) whether it has devised further strategies or allocated additional resources to extend the impact of the ""Don't be Sucker"" anti-scam publicity campaign launched by the SFC, so as to enable more investors to benefit from the campaign and avoid becoming victims of online investment scams; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
- The Government attaches great importance to investor education, and is committed to supporting the Securities and Futures Commission (SFC) and its subsidiary, the Investor and Financial Education Council (IFEC), in enhancing the financial literacy of the public through various means and channels. In consultation with the Security Bureau, the SFC and the Hong Kong Monetary Authority (HKMA), my reply to the various parts of the question is as follows.
-
-(1) and (2) In the first five months of 2025, there were 1 849 cases of online investment scams recorded by the Police, involving about $1.24 billion. The Government accords high priority to investor protection, and strives to combat online investment scams through two main directions, namely promotion and enforcement.
-
- On promotion, the Government, together with the SFC and the IFEC, has been striving to enhance investors' anti-financial scam capabilities, raise the public's knowledge in relevant financial products, and remind investors of the risks associated with digital finance.
-
- In March 2025, the IFEC in collaboration with various stakeholders organised the ""Hong Kong Money Month"" with the theme of ""Guard against Fraud Thrive with Resilience"" to comprehensively promote anti-scam messages by publicising anti-scam information targeting different segments of the community through cross-media promotion. The promotion videos recorded a total of 20.6 million views during the promotion period. In the face of ever-changing technology and evolving fraud tactics, the IFEC has also introduced various anti-financial scam education resources, animated videos, online seminars, etc to educate the public on safeguarding against investment scams including ""ramp and dump"" schemes, social media investment groups, fraudulent trading apps or investment platforms, impersonation scams, deepfake technology and phishing messages, etc. The IFEC website also features fraud prevention online games and an anti-scam online quiz, enabling the public to gain anti-scam knowledge through engaging and interactive games.
-
- The IFEC launched Hong Kong's first digital financial education experiential learning centre, the IFEC FinEd Hub, in March 2024 to offer investment and anti-scam education to a wider audience through immersive and interactive learning experiences. The FinEd Hub features various interactive anti-scam games for visitors to learn how to identify and respond to various financial scams. As of end-June 2025, the FinEd Hub has recorded over 26 500 visits, with the vast majority of visitors indicating that their visit had enhanced their anti-scam knowledge.
-
- On the other hand, the HKMA has introduced ""Money Safe"" with banks to provide an extra layer of security to customers' bank deposits. ""Money Safe"" enables customers to segregate a portion of their deposits maintained at banks, protecting them from fund outflows through online and other channels. When releasing the protected deposits, customers would need to undertake extra verification process by staff at bank branches. All retail banks will fully implement ""Money Safe"" by the end of this year.
-
- As regards enforcement actions against online investment scams, given that most fraud cases in Hong Kong currently involve the use of stooge accounts for receiving funds, targeting such accounts is an effective way to disrupt the fraud value chain. In the first five months of 2025, the Police arrested a total of 3 028 persons in connection with various fraud and money laundering offences, about 70 per cent of whom were holders of stooge accounts. Since the end of 2023, the Police have also applied to the courts to invoke section 27 of the Organized and Serious Crimes Ordinance (Cap. 455) to seek enhanced penalties for cases involving stooge accounts, so as to strengthen deterrence. There have been cases where convicted stooge account holders received sentences increased by more than 30 per cent.
-
- The Hong Kong Police Force, together with the police authorities of the Macao Special Administrative Region, Malaysia, Maldives, Singapore, South Korea, and Thailand, has also conducted the first joint operation under the anti-fraud cross-boundary co-operation platform ""FRONTIER+"" to jointly combat cross-boundary fraud criminal activity. The operation successfully identified and dismantled multiple cross-boundary fraud syndicates, resulting in the arrest of 1 858 persons and involving 9 268 fraud cases, including investment fraud. In addition, noting the increase in online investment scams at the beginning of 2025, the Hong Kong Police have, over the past few months, held press conferences from time to time and stepped up publicity through various channels to remind the public to remain vigilant.
-
-(3) The SFC launched a new anti-scam campaign ""Don't be Sucker"" in December 2024 to caution the public against common tactics used in fraudulent schemes. An original cartoon character ""Shui Yu"", symbolising an impulsive and gullible personality that easily fall prey to investment scams, debuted in the campaign.
-
- Complementing the SFC's focused promotion of three common scams that the public should avoid (namely online romance scams, impersonation, and deceptive tips from financial influencers), the SFC has rolled out an original campaign theme song and a music video featuring ""Shui Yu"", which has recorded over one million views within about three months since its launch. As of end-June 2025, the SFC has published about 50 posts on the social media platform of ""Shui Yu"", which has attracted more than 1 500 followers and over 423 000 views by unique users.
-
- To further promote anti-scam messages through ""Shui Yu"", the SFC has produced ""Shui Yu""-themed messaging app stickers to spread anti-scam messages in a light-hearted way. Apart from various online and offline advertisements, the SFC extended the ""Don't be Sucker"" anti-scam publicity campaign through MTR station commercials and a TV infotainment programme in May to June 2025, garnering more than 1.6 million views in estimate.
-
- In fact, the Government has been proactively enhancing public awareness of various kinds of scams. The Police have set up the Anti-Deception Coordination Centre since July 2017 to consolidate the efforts of the Police in combating and preventing scams, and have introduced various initiatives including the 24-hour enquiry hotline ""Anti-Scam Helpline 18222"", and the ""Upstream Scam Intervention"" scheme to actively identify potential scam victims.
-
- In addition, the Police have introduced an anti-scam mascot ""The Little Grape"" since June 2020 to explain the latest tactics of scammers and disseminate simple anti-scam messages in a friendly and interactive manner. Various ""TheLittle Grape"" anti-scam promotional campaigns have also been organised over the past five years. Thanks to these initiatives and the collective efforts of the community, the annual growth rate of scam cases has significantly decelerated from nearly 90 per cent in 2020 to 11.7 per cent last year, indicating a rise in public awareness of scam prevention.
-
- Going forward, the Government will continue to support relevant organisations and stakeholders in collaboratively launching targeted promotion activities to raise the anti-scam awareness of the public."
 立法會十七題：打擊網上投資詐騙,2025-07-09 14:30,2025-07-09 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900265.htm,"以下是今日（七月九日）在立法會會議上梁美芬議員的提問和財經事務及庫務局局長許正宇的書面答覆：
 
 問題：
@@ -287,6 +537,49 @@ President,
 此外，警方自二○二○年六月起推出防騙吉祥物「提子」，以親民互動的方式解釋騙徒的最新犯案手法及提供簡單易明的防騙訊息，並在過去五年舉辦多項「提子」防騙宣傳活動。隨着相關宣傳工作的推廣及社會各界的努力下，騙案數字的按年增幅已由二○二○年的近九成，放緩至去年的百分之十一點七，反映市民的防騙意識有所提升。
 
 未來，政府將繼續支持相關機構及持份者合作推出針對性的宣傳活動，以提升公眾的防騙意識。"
+LCQ17: Combating online investment scams,2025-07-09 14:30,2025-07-09 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900268.htm," Following is a question by Professor the Hon Priscilla Leung and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (July 9):
+
+Question:
+
+ According to the data provided by the Government in its reply to a question raised by a Member of this Council in June this year, the Police recorded a total of 1 534 cases of online investment scams involving an amount of about $1.02 billion in the first four months of this year. In this connection, will the Government inform this Council:
+
+(1) given that the Securities and Futures Commission (SFC) has launched anti-scam publicity and education programmes targeting three common investment scam scenarios, whether the Government has formulated specific measures to support SFC's anti-scam publicity programmes, so as to raise public vigilance against investment scams; if so, of the details; if not, the reasons for that;
+
+(2) whether it has plans to strengthen its co-operation with the SFC to update and enhance investor education, so as to ensure that investors can effectively identify and guard against emerging investment risks as well as evolving fraudulent practices and technologies; and
+
+(3) whether it has devised further strategies or allocated additional resources to extend the impact of the ""Don't be Sucker"" anti-scam publicity campaign launched by the SFC, so as to enable more investors to benefit from the campaign and avoid becoming victims of online investment scams; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+ The Government attaches great importance to investor education, and is committed to supporting the Securities and Futures Commission (SFC) and its subsidiary, the Investor and Financial Education Council (IFEC), in enhancing the financial literacy of the public through various means and channels. In consultation with the Security Bureau, the SFC and the Hong Kong Monetary Authority (HKMA), my reply to the various parts of the question is as follows.
+
+(1) and (2) In the first five months of 2025, there were 1 849 cases of online investment scams recorded by the Police, involving about $1.24 billion. The Government accords high priority to investor protection, and strives to combat online investment scams through two main directions, namely promotion and enforcement.
+
+ On promotion, the Government, together with the SFC and the IFEC, has been striving to enhance investors' anti-financial scam capabilities, raise the public's knowledge in relevant financial products, and remind investors of the risks associated with digital finance.
+
+ In March 2025, the IFEC in collaboration with various stakeholders organised the ""Hong Kong Money Month"" with the theme of ""Guard against Fraud Thrive with Resilience"" to comprehensively promote anti-scam messages by publicising anti-scam information targeting different segments of the community through cross-media promotion. The promotion videos recorded a total of 20.6 million views during the promotion period. In the face of ever-changing technology and evolving fraud tactics, the IFEC has also introduced various anti-financial scam education resources, animated videos, online seminars, etc to educate the public on safeguarding against investment scams including ""ramp and dump"" schemes, social media investment groups, fraudulent trading apps or investment platforms, impersonation scams, deepfake technology and phishing messages, etc. The IFEC website also features fraud prevention online games and an anti-scam online quiz, enabling the public to gain anti-scam knowledge through engaging and interactive games.
+
+ The IFEC launched Hong Kong's first digital financial education experiential learning centre, the IFEC FinEd Hub, in March 2024 to offer investment and anti-scam education to a wider audience through immersive and interactive learning experiences. The FinEd Hub features various interactive anti-scam games for visitors to learn how to identify and respond to various financial scams. As of end-June 2025, the FinEd Hub has recorded over 26 500 visits, with the vast majority of visitors indicating that their visit had enhanced their anti-scam knowledge.
+
+ On the other hand, the HKMA has introduced ""Money Safe"" with banks to provide an extra layer of security to customers' bank deposits. ""Money Safe"" enables customers to segregate a portion of their deposits maintained at banks, protecting them from fund outflows through online and other channels. When releasing the protected deposits, customers would need to undertake extra verification process by staff at bank branches. All retail banks will fully implement ""Money Safe"" by the end of this year.
+
+ As regards enforcement actions against online investment scams, given that most fraud cases in Hong Kong currently involve the use of stooge accounts for receiving funds, targeting such accounts is an effective way to disrupt the fraud value chain. In the first five months of 2025, the Police arrested a total of 3 028 persons in connection with various fraud and money laundering offences, about 70 per cent of whom were holders of stooge accounts. Since the end of 2023, the Police have also applied to the courts to invoke section 27 of the Organized and Serious Crimes Ordinance (Cap. 455) to seek enhanced penalties for cases involving stooge accounts, so as to strengthen deterrence. There have been cases where convicted stooge account holders received sentences increased by more than 30 per cent.
+
+ The Hong Kong Police Force, together with the police authorities of the Macao Special Administrative Region, Malaysia, Maldives, Singapore, South Korea, and Thailand, has also conducted the first joint operation under the anti-fraud cross-boundary co-operation platform ""FRONTIER+"" to jointly combat cross-boundary fraud criminal activity. The operation successfully identified and dismantled multiple cross-boundary fraud syndicates, resulting in the arrest of 1 858 persons and involving 9 268 fraud cases, including investment fraud. In addition, noting the increase in online investment scams at the beginning of 2025, the Hong Kong Police have, over the past few months, held press conferences from time to time and stepped up publicity through various channels to remind the public to remain vigilant.
+
+(3) The SFC launched a new anti-scam campaign ""Don't be Sucker"" in December 2024 to caution the public against common tactics used in fraudulent schemes. An original cartoon character ""Shui Yu"", symbolising an impulsive and gullible personality that easily fall prey to investment scams, debuted in the campaign.
+
+ Complementing the SFC's focused promotion of three common scams that the public should avoid (namely online romance scams, impersonation, and deceptive tips from financial influencers), the SFC has rolled out an original campaign theme song and a music video featuring ""Shui Yu"", which has recorded over one million views within about three months since its launch. As of end-June 2025, the SFC has published about 50 posts on the social media platform of ""Shui Yu"", which has attracted more than 1 500 followers and over 423 000 views by unique users.
+
+ To further promote anti-scam messages through ""Shui Yu"", the SFC has produced ""Shui Yu""-themed messaging app stickers to spread anti-scam messages in a light-hearted way. Apart from various online and offline advertisements, the SFC extended the ""Don't be Sucker"" anti-scam publicity campaign through MTR station commercials and a TV infotainment programme in May to June 2025, garnering more than 1.6 million views in estimate.
+
+ In fact, the Government has been proactively enhancing public awareness of various kinds of scams. The Police have set up the Anti-Deception Coordination Centre since July 2017 to consolidate the efforts of the Police in combating and preventing scams, and have introduced various initiatives including the 24-hour enquiry hotline ""Anti-Scam Helpline 18222"", and the ""Upstream Scam Intervention"" scheme to actively identify potential scam victims.
+
+ In addition, the Police have introduced an anti-scam mascot ""The Little Grape"" since June 2020 to explain the latest tactics of scammers and disseminate simple anti-scam messages in a friendly and interactive manner. Various ""TheLittle Grape"" anti-scam promotional campaigns have also been organised over the past five years. Thanks to these initiatives and the collective efforts of the community, the annual growth rate of scam cases has significantly decelerated from nearly 90 per cent in 2020 to 11.7 per cent last year, indicating a rise in public awareness of scam prevention.
+
+ Going forward, the Government will continue to support relevant organisations and stakeholders in collaboratively launching targeted promotion activities to raise the anti-scam awareness of the public."
 立法會三題：路旁環保斗,2025-07-09 14:20,2025-07-09 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900416.htm,"以下是今日（七月九日）在立法會會議上陳沛良議員的提問和環境及生態局局長謝展寰的答覆︰
 
 問題：
@@ -549,6 +842,221 @@ The pleasures of life
 《2025年行車隧道（政府）（修訂）（第2號）規例》、《2025年道路交通（車輛登記及領牌）（修訂）（第4號）規例》，以及《2025年道路交通（泊車）（修訂）規例》將於七月十八日刊憲，並於七月二十三日提交立法會進行先訂立後審議的程序。至於《定額罰款（交通違例事項）條例》（第237章）和《定額罰款（刑事訴訟）條例》（第240章）附表的交通違例事項的罰則，立法會可藉決議修訂（按先審議後訂立的程序），運輸及物流局局長將於七月三十日的立法會會議上動議通過決議。有關立法建議和生效日期分別在各修訂規例及擬議決議案中訂明，相關資料載列於政府於今日發出的立法會參考資料摘要。
 
 註：如合資格傷殘人士名下電動私家車的額定功率不超過75千瓦，則無須繳付牌照費。如其額定功率超過75千瓦，其應繳每年牌照費為其額定功率層級訂明的每年牌照費減去額定功率不超過75千瓦的電動私家車所應繳的每年牌照費。"
+LCQ11: Care workers in residential care homes,2025-07-09 12:50,2025-07-09 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900353.htm," Following is a question by the Hon Chau Siu-chung and a written reply by the Secretary for Labour and Welfare, Mr Chris Sun, in the Legislative Council today (July 9):
+
+Question:
+
+ Regarding the care workers in various types of residential care homes (RCHs), will the Government inform this Council:
+
+(1) of the number of (i) local care workers and (ii) imported care workers in all RCHs in Hong Kong in the past three years (up to the end of that year) and at present, together with a breakdown by type of RCHs (i.e. residential care homes for the elderly, residential care homes for persons with disabilities and nursing homes) and mode of operation of RCHs (i.e. (a) subvented RCHs, (b) contract RCHs, (c) non-profit-making self-financing RCHs and (d) private RCHs) (if applicable) (set out in Table 1);
+
+Table 1 Type of RCHs:    
+
+
+
+Mode of operation of RCHs
+End of 2022
+…….
+At present
+
+
+(i)
+(ii)
+Total
+(i)
+(ii)
+Total
+(i)
+(ii)
+Total
+
+
+(a)
+
+
+
+
+
+
+
+
+
+
+
+……
+
+
+
+
+
+
+
+
+
+
+
+(d)
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2)in respect of the first to the sixth rounds of applications under the Special Scheme to Import Care Workers for Residential Care Homes (the Special Scheme), of (i) the number of applications, (ii) the number of imported care workers applied for (set out by new quotas and quotas for contract renewal), (iii) the number of approved applications, and (iv) the number of imported care workers approved (set out by new quotas and quotas for contract renewal), together with a breakdown by three types of RCHs and four types of mode of operation of RCHs (if applicable) as mentioned in (1) (set out in Table 2); and the main reasons for not approving the applications;
+
+Table 2 Type of RCHs:
+
+
+
+Mode of operation of RCHs
+First round
+……
+Sixth round
+
+
+(i)
+……
+(iv)
+(i)
+……
+(iv)
+(i)
+……
+(iv)
+
+
+(a)
+
+
+
+
+
+
+
+
+
+
+
+……
+
+
+
+
+
+
+
+
+
+
+
+(d)
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3)since the implementation of the Special Scheme, of the following information on the spot checks conducted by the authorities on applicant RCHs in accordance with the mechanism of spot checks of local recruitment records during the processing of each round of application: (i) the staffing establishment and strength of personnel conducting the spot checks, (ii) the number of RCHs which had been requested by the Social Welfare Department in its letters to submit detailed local recruitment records, and (iii) their percentage in the total number of applicant RCHs; whether the authorities had found malpractices such as RCHs being suspected of having provided false information or withheld any information during such spot checks; if so, of the details, including the number and nature of the cases, and whether the authorities had imposed administrative sanctions on or instituted prosecutions against the RCHs concerned, together with a breakdown by type of RCHs and their mode of operation;
+
+(4)given that according to the requirements of the Special Scheme, RCHs must not displace their existing local care workers with imported care workers and they must comply with the specified ratio of local employees to imported care workers, of the number of RCHs alleged or substantiated to have breached the aforesaid requirements since the implementation of the Special Scheme, as well as the details of the relevant follow-up actions (including the number of cases in which written warnings were issued to and administrative sanctions were imposed on non-compliant RCHs), together with a breakdown by type of RCHs and their mode of operation;
+
+(5)since the implementation of the Special Scheme, of the following information on the authorities' inspections of the workplaces and accommodations of imported care workers provided by employers in Hong Kong: (i) the staffing establishment and strength of personnel conducting the inspections, (ii) the number of inspections conducted, (iii) the number of workplaces inspected and (iv) the number of accommodations provided by employers which were inspected;
+
+(6) since the implementation of the Special Scheme, of the respective numbers of complaints involving the exploitation of labour rights of imported care workers received by the Government (i) during the inspections mentioned in (5) and (ii) through other channels, and the main nature of such complaints; the respective numbers of administrative sanctions imposed on or prosecutions instituted against the RCHs concerned by the authorities in respect of the complaints received by ways of (i) and (ii), together with a breakdown by type of RCHs and their mode of operation; among the prosecutions instituted, the number of convicted cases and the average penalty imposed; and
+
+(7) as there are views pointing out that the median wage currently stipulated for imported care workers in RCHs under the Special Scheme is lower than the market level, and that the remuneration of local care workers employed by subvented RCHs is in general much higher than the median wage, resulting in less motivation for RCHs to employ local workers, whether the authorities will consider stipulating appropriate median wages for imported care workers in RCHs with different modes of operation, so as to enhance protection for local care workers concerned; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+ To address the manpower shortage and new manpower demand in residential care homes (RCHs), and to assist the RCH sector in enhancing their service quality, the Government, on the premise of safeguarding the employment priority for local workers, launched the Special Scheme to Import Care Workers for RCHs (the Special Scheme) in June 2023 to allow residential care homes for the elderly (RCHEs) and residential care homes for persons with disabilities (RCHDs) to import care workers on an appropriate scale. The Special Scheme set 7000 importation quotas when launched, including around 4000 care workers previously imported through the Supplementary Labour Scheme (SLS), and the relevant quotas were nearly exhausted by the first half of 2024. The Government, having reviewed the demand for and supply of care workers in the sector, announced in July of the same year that the quota ceiling would be adjusted to 15000 for RCHs to apply for by batches in the following three years.
+
+ Our reply to the Member's questions, with consolidated information and data of the Social Welfare Department (SWD), Labour Department (LD) and Census and Statistics Department (C&SD), is as follows:
+
+(1) to (3)The number of local and imported care workers employed by the RCHEs and the RCHDs in Hong Kong in the past three years are set out at Annex 1. The details of the first five rounds of applications and approval results under the Special Scheme are set out at Annex 2, with about 400 rejected cases mainly because the quotas available for that round of applications were exhausted, or the applications did not comply with the requirements of the Special Scheme. The sixth round of applications ended on May 6, 2025, and the SWD is processing the applications for around 500 new quotas.
+
+ There are five staff members in the SWD designated to implement the Special Scheme, including the Social Work Officer grade, the Executive Officer grade and the Clerical grade. To safeguard job opportunities of local care workers, the SWD will conduct random checks on the ""Confirmation of Local Recruitment"" submitted by the RCHs that apply for joining the Special Scheme, with a view to ensuring that they have conducted local recruitment through channel(s) specified by the Director of Social Welfare but have been unsuccessful in filling the vacancies. Up to March 2025, the SWD has conducted random checks on about 300 local recruitment records of the RCHs, accounting for more than 10 per cent of the total number of applications, and found no case of RCH's intentionally or knowingly submitting inaccurate information. Nor has any RCH been imposed administrative sanction during that period of time.
+
+(4) to (6)The LD's Labour Inspectors (LIs) inspect the workplaces of imported workers and the accommodation provided by employers in Hong Kong for imported workers. The establishment and strength of the LIs responsible for the above work is 37. In the past two years, LIs have carried out a total of 4407 inspections relating to imported care workers (including cases under the SLS/Enhanced Supplementary Labour Scheme (ESLS) and the Special Scheme), including 2298 workplace inspections and 2109 accommodation inspections. Should suspected deprivation of imported workers' rights and benefits be detected during inspection, the LD will promptly conduct follow-up investigation. Complaints received during the inspections are counted towards the overall number of complaint cases.
+
+  Since the launch of the Special Scheme in June 2023 and up to May 2025, the LD and the SWD have received a total of 47 complaints against the RCHs suspected to have breached the law or the requirements of the Special Scheme. The complaints mainly involved wages (including wage rebates and underpayment of wages) and work arrangements. Among them, there were eight complaints received about the displacement of serving local care workers by imported care workers, of which the Government has completed investigation of seven cases and no irregularities were found. The remaining one case is still under investigation. During the same period, the LD successfully prosecuted an employer that had engaged imported care workers under the Special Scheme. The employer violated the Employees' Compensation Ordinance by failing to take out employees' compensation insurance policies and was fined $2,500 by the court. The SWD is examining the case concerned and will consider imposing administrative sanctions as appropriate.
+
+  Since the launch of the Special Scheme, the number of complaint, prosecution and conviction cases per year are tabulated as follows:
+
+
+
+
+Year 2023
+			(since the launch of the Special Scheme in June)
+Year 2024
+Year 2025
+			(up to May)
+
+
+Number of complaint cases against RCHs suspected to have breached the law or the requirements under the Special Scheme
+0
+34
+13
+
+
+Number of cases prosecuted for violation of the labour legislation
+0
+1
+0
+
+
+Number of cases of conviction for violation of the labour legislation
+0
+1
+0
+
+
+
+
+(7) The Special Scheme requires that the salary of local care workers must not be lower than those offered to imported care workers, while the salary of imported care workers must not be lower than the latest median monthly wage of care workers (Note 1) as compiled by the C&SD. The median monthly wage of care workers are compiled based on the data obtained from C&SD's Annual Earnings and Hours Survey conducted between May and June. The C&SD has been compiling statistics on the median wages of various industries based on this approach over the years. In respect of the median wage of care workers at RCHs, institutions being sampled include subvented/contract and private/self-financing RCHEs.
+
+  As subvented/contract RCHs can generally offer better remuneration packages to attract local job-seekers, the Government has stipulated that these types of RCHs should adopt a lower ratio of imported care workers when launching the Special Scheme. They are only allowed to, for every two full-time local staff employed, apply for importing one non-local care worker (i.e. 2:1) whereas private/self-financing RCHs can apply to import one non-local care worker for every full-time local employee (i.e. 1:1). Up to end June 2025, the SWD has approved a total of about 8 300 quotas (including contract renewal quotas) for the RCH sector, of which the quotas for subvented/contract RCHs accounted for about 20 per cent while those for private/self-financing RCHs accounted for nearly 80 per cent. In addition, under the Special Scheme, employers may only apply for importation of care workers if they are unable to recruit local care workers. The sector generally opined that the threshold and actual cost of applying to import care workers are not as low. Employers who are allowed to import care workers must provide accommodation for the imported care workers. If an imported care worker becomes ill or injured, regardless of whether that is work-related, his or her employer is required to offer free medical services. The meals for imported care workers, if so provided by an employer, must be free of charge. The RCHs also must pay a monthly ""Employee Retraining Levy"" of $400 per imported care worker. 
+
+Note 1: According to the latest figure of C&SD, the median monthly wage of care workers in 2024 was $15,120 (rounding to the nearest tenth)."
 立法會十一題：院舍的護理員人手,2025-07-09 12:50,2025-07-09 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900331.htm,"以下是今日（七月九日）在立法會會議上周小松議員的提問和勞工及福利局局長孫玉菡的書面答覆：
 
 問題：
@@ -765,221 +1273,6 @@ The pleasures of life
 鑑於津助／合約院舍一般可提供更好的薪酬待遇吸引本地求職者，政府推出「特別計劃」時，規定這類院舍須採用較低的輸入護理員比例，即每聘請兩名全職本地員工才可申請輸入一名外地護理員（即2：1），而私營／自負盈虧院舍的適用比例則為1：1。至二○二五年六月底，社署向院舍業界共批出約8300個配額（包括續約配額），當中津助／合約院舍所佔的配額約兩成，而私營／自負盈虧院舍則佔近八成。此外，根據「特別計劃」的規定，僱主只可在未能招聘本地護理員的情況下申請輸入外地護理員。院舍業界普遍認為申請輸入護理員的門檻和實際成本不低。獲准輸入護理員的僱主須為輸入護理員提供住宿。輸入護理員如生病或受傷，無論是否因受僱而引致，僱主須提供免費醫療服務。如僱主為輸入護理員提供膳食，則必須是免費的。院舍亦須為每名輸入護理員每月繳付$400「僱員再培訓徵款」。
 
 註一：根據統計處最新數字，二○二四年護理員每月中位工資為$15,120元（以最近的十位數顯示）。"
-LCQ11: Care workers in residential care homes,2025-07-09 12:50,2025-07-09 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900353.htm," Following is a question by the Hon Chau Siu-chung and a written reply by the Secretary for Labour and Welfare, Mr Chris Sun, in the Legislative Council today (July 9):
-
-Question:
-
- Regarding the care workers in various types of residential care homes (RCHs), will the Government inform this Council:
-
-(1) of the number of (i) local care workers and (ii) imported care workers in all RCHs in Hong Kong in the past three years (up to the end of that year) and at present, together with a breakdown by type of RCHs (i.e. residential care homes for the elderly, residential care homes for persons with disabilities and nursing homes) and mode of operation of RCHs (i.e. (a) subvented RCHs, (b) contract RCHs, (c) non-profit-making self-financing RCHs and (d) private RCHs) (if applicable) (set out in Table 1);
-
-Table 1 Type of RCHs:    
-
-
-
-Mode of operation of RCHs
-End of 2022
-…….
-At present
-
-
-(i)
-(ii)
-Total
-(i)
-(ii)
-Total
-(i)
-(ii)
-Total
-
-
-(a)
-
-
-
-
-
-
-
-
-
-
-
-……
-
-
-
-
-
-
-
-
-
-
-
-(d)
-
-
-
-
-
-
-
-
-
-
-
-Total
-
-
-
-
-
-
-
-
-
-
-
-
-
-(2)in respect of the first to the sixth rounds of applications under the Special Scheme to Import Care Workers for Residential Care Homes (the Special Scheme), of (i) the number of applications, (ii) the number of imported care workers applied for (set out by new quotas and quotas for contract renewal), (iii) the number of approved applications, and (iv) the number of imported care workers approved (set out by new quotas and quotas for contract renewal), together with a breakdown by three types of RCHs and four types of mode of operation of RCHs (if applicable) as mentioned in (1) (set out in Table 2); and the main reasons for not approving the applications;
-
-Table 2 Type of RCHs:
-
-
-
-Mode of operation of RCHs
-First round
-……
-Sixth round
-
-
-(i)
-……
-(iv)
-(i)
-……
-(iv)
-(i)
-……
-(iv)
-
-
-(a)
-
-
-
-
-
-
-
-
-
-
-
-……
-
-
-
-
-
-
-
-
-
-
-
-(d)
-
-
-
-
-
-
-
-
-
-
-
-Total
-
-
-
-
-
-
-
-
-
-
-
-
-
-(3)since the implementation of the Special Scheme, of the following information on the spot checks conducted by the authorities on applicant RCHs in accordance with the mechanism of spot checks of local recruitment records during the processing of each round of application: (i) the staffing establishment and strength of personnel conducting the spot checks, (ii) the number of RCHs which had been requested by the Social Welfare Department in its letters to submit detailed local recruitment records, and (iii) their percentage in the total number of applicant RCHs; whether the authorities had found malpractices such as RCHs being suspected of having provided false information or withheld any information during such spot checks; if so, of the details, including the number and nature of the cases, and whether the authorities had imposed administrative sanctions on or instituted prosecutions against the RCHs concerned, together with a breakdown by type of RCHs and their mode of operation;
-
-(4)given that according to the requirements of the Special Scheme, RCHs must not displace their existing local care workers with imported care workers and they must comply with the specified ratio of local employees to imported care workers, of the number of RCHs alleged or substantiated to have breached the aforesaid requirements since the implementation of the Special Scheme, as well as the details of the relevant follow-up actions (including the number of cases in which written warnings were issued to and administrative sanctions were imposed on non-compliant RCHs), together with a breakdown by type of RCHs and their mode of operation;
-
-(5)since the implementation of the Special Scheme, of the following information on the authorities' inspections of the workplaces and accommodations of imported care workers provided by employers in Hong Kong: (i) the staffing establishment and strength of personnel conducting the inspections, (ii) the number of inspections conducted, (iii) the number of workplaces inspected and (iv) the number of accommodations provided by employers which were inspected;
-
-(6) since the implementation of the Special Scheme, of the respective numbers of complaints involving the exploitation of labour rights of imported care workers received by the Government (i) during the inspections mentioned in (5) and (ii) through other channels, and the main nature of such complaints; the respective numbers of administrative sanctions imposed on or prosecutions instituted against the RCHs concerned by the authorities in respect of the complaints received by ways of (i) and (ii), together with a breakdown by type of RCHs and their mode of operation; among the prosecutions instituted, the number of convicted cases and the average penalty imposed; and
-
-(7) as there are views pointing out that the median wage currently stipulated for imported care workers in RCHs under the Special Scheme is lower than the market level, and that the remuneration of local care workers employed by subvented RCHs is in general much higher than the median wage, resulting in less motivation for RCHs to employ local workers, whether the authorities will consider stipulating appropriate median wages for imported care workers in RCHs with different modes of operation, so as to enhance protection for local care workers concerned; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
- To address the manpower shortage and new manpower demand in residential care homes (RCHs), and to assist the RCH sector in enhancing their service quality, the Government, on the premise of safeguarding the employment priority for local workers, launched the Special Scheme to Import Care Workers for RCHs (the Special Scheme) in June 2023 to allow residential care homes for the elderly (RCHEs) and residential care homes for persons with disabilities (RCHDs) to import care workers on an appropriate scale. The Special Scheme set 7000 importation quotas when launched, including around 4000 care workers previously imported through the Supplementary Labour Scheme (SLS), and the relevant quotas were nearly exhausted by the first half of 2024. The Government, having reviewed the demand for and supply of care workers in the sector, announced in July of the same year that the quota ceiling would be adjusted to 15000 for RCHs to apply for by batches in the following three years.
-
- Our reply to the Member's questions, with consolidated information and data of the Social Welfare Department (SWD), Labour Department (LD) and Census and Statistics Department (C&SD), is as follows:
-
-(1) to (3)The number of local and imported care workers employed by the RCHEs and the RCHDs in Hong Kong in the past three years are set out at Annex 1. The details of the first five rounds of applications and approval results under the Special Scheme are set out at Annex 2, with about 400 rejected cases mainly because the quotas available for that round of applications were exhausted, or the applications did not comply with the requirements of the Special Scheme. The sixth round of applications ended on May 6, 2025, and the SWD is processing the applications for around 500 new quotas.
-
- There are five staff members in the SWD designated to implement the Special Scheme, including the Social Work Officer grade, the Executive Officer grade and the Clerical grade. To safeguard job opportunities of local care workers, the SWD will conduct random checks on the ""Confirmation of Local Recruitment"" submitted by the RCHs that apply for joining the Special Scheme, with a view to ensuring that they have conducted local recruitment through channel(s) specified by the Director of Social Welfare but have been unsuccessful in filling the vacancies. Up to March 2025, the SWD has conducted random checks on about 300 local recruitment records of the RCHs, accounting for more than 10 per cent of the total number of applications, and found no case of RCH's intentionally or knowingly submitting inaccurate information. Nor has any RCH been imposed administrative sanction during that period of time.
-
-(4) to (6)The LD's Labour Inspectors (LIs) inspect the workplaces of imported workers and the accommodation provided by employers in Hong Kong for imported workers. The establishment and strength of the LIs responsible for the above work is 37. In the past two years, LIs have carried out a total of 4407 inspections relating to imported care workers (including cases under the SLS/Enhanced Supplementary Labour Scheme (ESLS) and the Special Scheme), including 2298 workplace inspections and 2109 accommodation inspections. Should suspected deprivation of imported workers' rights and benefits be detected during inspection, the LD will promptly conduct follow-up investigation. Complaints received during the inspections are counted towards the overall number of complaint cases.
-
-  Since the launch of the Special Scheme in June 2023 and up to May 2025, the LD and the SWD have received a total of 47 complaints against the RCHs suspected to have breached the law or the requirements of the Special Scheme. The complaints mainly involved wages (including wage rebates and underpayment of wages) and work arrangements. Among them, there were eight complaints received about the displacement of serving local care workers by imported care workers, of which the Government has completed investigation of seven cases and no irregularities were found. The remaining one case is still under investigation. During the same period, the LD successfully prosecuted an employer that had engaged imported care workers under the Special Scheme. The employer violated the Employees' Compensation Ordinance by failing to take out employees' compensation insurance policies and was fined $2,500 by the court. The SWD is examining the case concerned and will consider imposing administrative sanctions as appropriate.
-
-  Since the launch of the Special Scheme, the number of complaint, prosecution and conviction cases per year are tabulated as follows:
-
-
-
-
-Year 2023
-			(since the launch of the Special Scheme in June)
-Year 2024
-Year 2025
-			(up to May)
-
-
-Number of complaint cases against RCHs suspected to have breached the law or the requirements under the Special Scheme
-0
-34
-13
-
-
-Number of cases prosecuted for violation of the labour legislation
-0
-1
-0
-
-
-Number of cases of conviction for violation of the labour legislation
-0
-1
-0
-
-
-
-
-(7) The Special Scheme requires that the salary of local care workers must not be lower than those offered to imported care workers, while the salary of imported care workers must not be lower than the latest median monthly wage of care workers (Note 1) as compiled by the C&SD. The median monthly wage of care workers are compiled based on the data obtained from C&SD's Annual Earnings and Hours Survey conducted between May and June. The C&SD has been compiling statistics on the median wages of various industries based on this approach over the years. In respect of the median wage of care workers at RCHs, institutions being sampled include subvented/contract and private/self-financing RCHEs.
-
-  As subvented/contract RCHs can generally offer better remuneration packages to attract local job-seekers, the Government has stipulated that these types of RCHs should adopt a lower ratio of imported care workers when launching the Special Scheme. They are only allowed to, for every two full-time local staff employed, apply for importing one non-local care worker (i.e. 2:1) whereas private/self-financing RCHs can apply to import one non-local care worker for every full-time local employee (i.e. 1:1). Up to end June 2025, the SWD has approved a total of about 8 300 quotas (including contract renewal quotas) for the RCH sector, of which the quotas for subvented/contract RCHs accounted for about 20 per cent while those for private/self-financing RCHs accounted for nearly 80 per cent. In addition, under the Special Scheme, employers may only apply for importation of care workers if they are unable to recruit local care workers. The sector generally opined that the threshold and actual cost of applying to import care workers are not as low. Employers who are allowed to import care workers must provide accommodation for the imported care workers. If an imported care worker becomes ill or injured, regardless of whether that is work-related, his or her employer is required to offer free medical services. The meals for imported care workers, if so provided by an employer, must be free of charge. The RCHs also must pay a monthly ""Employee Retraining Levy"" of $400 per imported care worker. 
-
-Note 1: According to the latest figure of C&SD, the median monthly wage of care workers in 2024 was $15,120 (rounding to the nearest tenth)."
 賽馬日跑馬地特別交通措施,2025-07-09 12:35,2025-07-09 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900434.htm,"警方今日（七月九日）將在跑馬地實施特別交通措施，直至賽事完結觀眾離場，交通恢復正常。
 
 （甲）首場賽事前的交通安排
@@ -1168,55 +1461,6 @@ The LD will review the experience and effectiveness of the ESLS, including the S
  The Government will continue to promote and uphold equal employment opportunities by disseminating and advocating the message of fairness in employment, as well as strengthening training and retraining to enhance the employability of individuals across all age groups.
 
 (3) The proposed tax initiative to employers to make more Mandatory Provident Fund (MPF) voluntary contributions for their employees aged 65 or above aims to encourage more mature employees to consider staying in the labour force and continue to contribute to economic growth after reaching age 65 while increasing their retirement savings. Given that there were views on the limited effect for this standalone measure and recommendations that this measure should be combined with the other initiatives on silver economy for creating synergy, the Chief Executive's 2024 Policy Address announced that this proposal would be included in the work of the Working Group on Promoting Silver Economy (Working Group). Upon review, the Working Group considered that the proposal has complicated the policy objective of MPF, and the restriction on employees receiving voluntary contributions also casts doubt on the effectiveness of the proposal. In terms of encouraging the elderly to join the labour force, the Working Group has already rolled out various targeted measures to help unleash ""silver productivity"" as part of the 30 measures for promoting silver economy announced on May 27 this year, such as accord priority to post-50s for receiving training consultation service, reviewing the Re-employment Allowance Pilot Scheme and Employment Programme for the Elderly and Middle-aged, and stepping up the promotion of elderly-friendly employment practices. The Government considers that resources should be concentrated on the aforementioned measures to promote employment of older persons in a more focused and direct manner."
-LCQ20: Enhancing clearance efficiency,2025-07-09 12:20,2025-07-09 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900357.htm,"Following is a question by the Hon Rock Chen and a written reply by the Secretary for Security, Mr Tang Ping-keung, in the Legislative Council today (July 9):
-
-Question:
-
-It has been reported that serious congestion occurred at various land boundary control points (BCPs) in Hong Kong on June 21 and 22 this year, and crowd management measures had to be implemented at the Heung Yuen Wai/Liantang Control Point, the Shenzhen Bay Port and the Hong Kong Port of the Hong Kong-Zhuhai-Macao Bridge. On the night of June 22, Hong Kong vehicles travelling under the ""Quota-free Scheme for Hong Kong Private Cars Travelling to Guangdong via the Hong Kong-Zhuhai-Macao Bridge"" (""Northbound Travel for Hong Kong Vehicles"" Scheme) even caused serious congestion on the Zhuhai Highway when they returned to Hong Kong. In addition, there are views that some vehicles under ""Northbound Travel for Hong Kong Vehicles"" Scheme have not travelled according to the reserved time slot, thus affecting the clearance efficiency at BCPs. In this connection, will the Government inform this Council:
-
-(1) whether it has reviewed the main reasons for the serious congestion at land BCPs during the aforesaid period (e.g. whether it was related to factors such as the end of the examination seasons of primary and secondary schools, the improvement of the weather or activities organised by shopping malls in Shenzhen); whether the Government has put in place an inter-departmental joint early warning mechanism which incorporates school calendars and daily schedules of schools in general, weather forecasts as well as information on commercial activities in Shenzhen, so as to make advance assessments and forecasts on the passenger flow at BCPs; if so, of the details; if not, the reasons for that;
-
-(2) as it has been reported that during the aforesaid period when crowd management was implemented at the Heung Yuen Wai/Liantang Control Point and when there were the peak hours for people returning to Hong Kong at the Shenzhen Bay Port, the authorities did not issue real-time alerts through official channels, whether the Government has reviewed the existing information dissemination mechanism; if so, of the details; if not, the reasons for that;
-
-(3) in order to avoid the aforesaid similar serious congestion in the future, whether the Government will consider implementing new measures, such as formulating temporary crowd management plans or deploying additional BCP personnel to enhance clearance efficiency; if so, of the details; if not, the reasons for that; and
-
-(4) of the number of vehicle owners who have been penalised since the implementation of the ""Northbound Travel for Hong Kong Vehicles"" Scheme for failing to travel according to the reserved time slot or failing to make a reservation (set out by penalty measure, including refusing to allow their vehicles to travel to Guangdong Province, suspending their eligibility for making another reservation and revoking the relevant licences issued to them); whether the authorities have reviewed the effectiveness of the existing penalty mechanism, and whether they will consider adjusting the mechanism to further ensure that vehicles under the ""Northbound Travel for Hong Kong Vehicles"" Scheme will travel according to the reserved time slot?
-
-Reply:
-
-President,
-
-In consultation with the Transport and Logistics Bureau, a reply to the questions raised by the Hon Rock Chen is as follows:
-
-(1) With the increasing co-operation between the Mainland and Hong Kong, exchanges at the community level have also intensified. We are pleased to learn that many Hong Kong residents like travelling to the Mainland during weekends or long public holidays, and are glad to learn that the number of Mainland visitors to Hong Kong is on an upward trend. The two-way travel between residents of the Mainland and Hong Kong has also brought economic benefits to both places.
-
-During the weekend of June 21 and 22 this year, around 569 000 outbound passenger trips (Saturday) and around 586 000 inbound passenger trips (Sunday) were recorded at various land boundary control points (BCPs), of which about 80 per cent were Hong Kong residents, representing an increase of about 22 per cent and 18 per cent compared with the average numbers of outbound and inbound passenger trips during normal weekends this year.
-
-Northbound travel has become a weekend routine for Hong Kong residents. Since travelling is very convenient and there is no need for advance planning, residents can make impromptu trips for different reasons, such as weather conditions on the day or individual preference. The reasons for the relatively higher numbers of inbound and outbound passenger trips in the aforementioned weekend as compared with normal weekends may include the end of the school examination season and improved weather conditions during the weekend.
-
-The peak hours for outbound and inbound passenger traffic were from 9am to 3pm on Saturday, and from 4pm to midnight on Sunday, which are similar to the northbound travel pattern of Hong Kong residents at normal weekends. As for the vehicular flow, the number of outbound trips for private cars via the Hong Kong Zhuhai Macao Bridge (HZMB) on Saturday was 9 662, among which those under the ""Northbound Travel for Hong Kong Vehicles"" Scheme (the Northbound Travel Scheme) accounted for 68 per cent, while the number of inbound trips on Sunday was 9 432, which was about 25 per cent higher than the numbers of outbound and inbound trips at normal weekends this year.
-
-It is noted that the waiting time during the peak hours of cross-boundary traffic at the HZMB Hong Kong Port and Heung Yuen Wai (HYW) BCP was longer than usual. Relevant departments at various BCPs, including the Immigration Department (ImmD), the Customs and Excise Department, the Hong Kong Police Force (HKPF) and the Transport Department (TD), etc. have put in place an inter-departmental co-operation mechanism to monitor the real-time situations at BCPs during different festive occasions and mega events. In view of the heavy traffic at the BCPs over the aforementioned weekend, relevant departments had immediately activated the contingency mechanism. Through close co-ordination and flexible deployment of manpower, operation of additional clearance counters and kiosks, and implementation of appropriate crowd control and traffic diversion measures to maintain order at the BCPs, congestion was alleviated in an orderly manner.
-
-The TD has always maintained close liaison with local and cross-boundary public transport operators, and would co-ordinate with them to flexibly adjust the frequency of public transport services connecting each BCP during peak cross-boundary travel periods in order to meet the travel needs. During the above-mentioned weekend, public transport operators closely monitored changes in the number of passengers, increased the service frequency during periods of particularly high passenger demand, as well as deployed additional staff to assist passengers and maintain order at the stations, with a view to expediting the dispersal of passengers.
-
-(2) The Government has disseminated information through various official and unofficial channels, including radio broadcasts, websites, and online media such as social media platforms, to assist residents and passengers in planning ahead and avoid making their journeys during busy periods as far as possible. Passengers may visit the ImmD's website to check the estimated waiting time of each BCP, and the TD's ""HKeMobility"" mobile application or the TD's website (hkemobility.gov.hk/en/traffic-information/live/cctv) to access the snapshots of traffic conditions at outbound and inbound vehicle clearance plazas of the HZMB Hong Kong Port. They may also browse the relevant websites and mini programmes, etc. of the Shenzhen and Zhuhai authorities to know more about the clearance status of BCPs in the Mainland.
-
-The HKPF will continue to monitor the real-time situations at various BCPs and disseminate the latest information to the public timely through the media or social media in the event of serious congestion at individual BCP, including appealing to the public to adjust their itineraries (e.g. switching to other modes of transport or using other BCPs for boundary crossing) in order to ease passenger and vehicular flows.
-
-Moreover, the TD's Emergency Transport Co-ordination Centre operates 24 hours a day to closely monitor traffic conditions and public transport services in different areas of Hong Kong, including various BCPs and major stations, and will disseminate the latest traffic information through various channels. Members of the public can check the latest traffic news released by radio, television, and the ""HKeMobility"".
-
-(3) Northbound travel over weekends has become a norm for Hong Kong residents, and the two-way travel between the Mainland and Hong Kong is also a future trend. We therefore need to get well-prepared, and enhance the responsiveness of relevant departments as well as the level of clearance facilitation at the BCPs in order to cope with the increasing demand for clearance services.
-
-The departments at the BCPs will enhance the co-operation mechanism, constantly monitor the real-time situations at various BCPs, and maintain close liaison with the Mainland port authorities through the established port hotlines and real-time notification mechanisms to ensure smooth operation of the BCPs.
-
-With respect to the traffic and vehicular flow at the HZMB Hong Kong Port, the HKPF will, depending on the circumstances, deploy additional police officers to the major roads of the port for on-the-spot observation of traffic conditions, and remind drivers to comply with road markings and drive with care, with a view to ensuring road safety and smooth traffic. When the vehicles enter the clearance plaza and its maximum capacity is reached, the HKPF will also implement traffic control measures in a timely manner to maintain order on the spot.
-
-In addition, to further increase the handling capacity of the HYW BCP, enhancement works are being carried out at its passenger departure hall. Upon completion of the works, the total number of e-Channels in the passenger departure hall will be increased from 14 to 18. As some of its traditional counters have to be closed temporarily in the course of the enhancement works, the ImmD has flexibly deployed resources to set up four temporary counters in the passenger departure hall to minimise the impact of the enhancement works. We will also explore the possibility of further increasing the number of e-Channels.
-
-As stated above, the two-way travel between residents of the Mainland and Hong Kong is a future trend. We need to enhance the handling capacity of BCPs in order to meet the increasing passenger traffic. In particular, the Hong Kong Special Administrative Region Government is collaborating with the Shenzhen Municipal Government to press ahead with the redevelopment project of the Huanggang Port in full steam. The redeveloped new Huanggang Port will implement the co-location arrangement and the ""collaborative inspection and joint clearance"" mode to provide greater convenience for cross-boundary passengers. The new Huanggang Port will be equipped with 134 ""collaborative inspection"" automated channels and 68 traditional manual counters, representing a significant increase compared to 39 traditional e-channels and 45 traditional manual counters currently available at the Lok Ma Chau (LMC) Control Point. Its design flow is about 200 000 passenger trips per day. Compared to the LMC Control Point which now serves a daily average of about 37 000 passenger trips, it is believed that the redeveloped new Huanggang Port can meet the future demand for clearance services between the two places.
-
-(4) As stipulated in the terms and conditions of ""the Northbound Travel Scheme"", if any participants violate the travel arrangements (including travelling without booking in advance or not travelling within the specified period), the relevant departments of the Guangdong and Hong Kong governments may refuse to allow relevant vehicles to travel to Guangdong Province via the HZMB, and may suspend their travel booking eligibility, or even revoke the relevant permits. At present, the TD regularly shares the booking information on ""the Northbound Travel Scheme"" with relevant departments at the Hong Kong Port to facilitate their daily operations at the HZMB Hong Kong Port. The TD has also been maintaining close liaison with the relevant Mainland authorities, and conducting spot checks on the cross-boundary records of vehicles under ""the Northbound Travel Scheme"", with a view to reviewing the situation of compliance with the terms and conditions."
 立法會二十題：提升通關效率,2025-07-09 12:20,2025-07-09 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900358.htm,"以下是今日（七月九日）在立法會會議上陳仲尼議員的提問和保安局局長鄧炳強的書面答覆：
 
 問題：
@@ -1425,6 +1669,107 @@ President,
   Since June 17 this year, the LD has implemented a series of new measures to strengthen the protection of the employment priority for local workers, including launching an online complaint form on the ESLS dedicated webpage to enable local employees and imported workers to lodge complaints against employers for suspected breaches of the requirements of the ESLS, displaying the names of applicant companies when publishing job vacancies on the Interactive Employment Service website, launching a special inspection campaign to check whether establishments employing imported workers have continuously met the manning ratio requirement, and requiring employers to report information on full-time local employees and imported workers as well as the relevant manning ratios based on a risk-based approach.
 
   To safeguard the employment priority for local workers, the ESLS requires employers not to displace local workers with imported workers and meet the manning ratio requirement on a continuous basis. In the event of redundancy, imported workers should be retrenched first. If there is evidence substantiating violation of the requirement of the ESLS, the LD will impose administrative sanction on the employers, including withdrawal of approvals for importation of labour previously granted and refusal to process other applications submitted by the employers (debarment period up to two years), etc."
+LCQ20: Enhancing clearance efficiency,2025-07-09 12:20,2025-07-09 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900357.htm,"Following is a question by the Hon Rock Chen and a written reply by the Secretary for Security, Mr Tang Ping-keung, in the Legislative Council today (July 9):
+
+Question:
+
+It has been reported that serious congestion occurred at various land boundary control points (BCPs) in Hong Kong on June 21 and 22 this year, and crowd management measures had to be implemented at the Heung Yuen Wai/Liantang Control Point, the Shenzhen Bay Port and the Hong Kong Port of the Hong Kong-Zhuhai-Macao Bridge. On the night of June 22, Hong Kong vehicles travelling under the ""Quota-free Scheme for Hong Kong Private Cars Travelling to Guangdong via the Hong Kong-Zhuhai-Macao Bridge"" (""Northbound Travel for Hong Kong Vehicles"" Scheme) even caused serious congestion on the Zhuhai Highway when they returned to Hong Kong. In addition, there are views that some vehicles under ""Northbound Travel for Hong Kong Vehicles"" Scheme have not travelled according to the reserved time slot, thus affecting the clearance efficiency at BCPs. In this connection, will the Government inform this Council:
+
+(1) whether it has reviewed the main reasons for the serious congestion at land BCPs during the aforesaid period (e.g. whether it was related to factors such as the end of the examination seasons of primary and secondary schools, the improvement of the weather or activities organised by shopping malls in Shenzhen); whether the Government has put in place an inter-departmental joint early warning mechanism which incorporates school calendars and daily schedules of schools in general, weather forecasts as well as information on commercial activities in Shenzhen, so as to make advance assessments and forecasts on the passenger flow at BCPs; if so, of the details; if not, the reasons for that;
+
+(2) as it has been reported that during the aforesaid period when crowd management was implemented at the Heung Yuen Wai/Liantang Control Point and when there were the peak hours for people returning to Hong Kong at the Shenzhen Bay Port, the authorities did not issue real-time alerts through official channels, whether the Government has reviewed the existing information dissemination mechanism; if so, of the details; if not, the reasons for that;
+
+(3) in order to avoid the aforesaid similar serious congestion in the future, whether the Government will consider implementing new measures, such as formulating temporary crowd management plans or deploying additional BCP personnel to enhance clearance efficiency; if so, of the details; if not, the reasons for that; and
+
+(4) of the number of vehicle owners who have been penalised since the implementation of the ""Northbound Travel for Hong Kong Vehicles"" Scheme for failing to travel according to the reserved time slot or failing to make a reservation (set out by penalty measure, including refusing to allow their vehicles to travel to Guangdong Province, suspending their eligibility for making another reservation and revoking the relevant licences issued to them); whether the authorities have reviewed the effectiveness of the existing penalty mechanism, and whether they will consider adjusting the mechanism to further ensure that vehicles under the ""Northbound Travel for Hong Kong Vehicles"" Scheme will travel according to the reserved time slot?
+
+Reply:
+
+President,
+
+In consultation with the Transport and Logistics Bureau, a reply to the questions raised by the Hon Rock Chen is as follows:
+
+(1) With the increasing co-operation between the Mainland and Hong Kong, exchanges at the community level have also intensified. We are pleased to learn that many Hong Kong residents like travelling to the Mainland during weekends or long public holidays, and are glad to learn that the number of Mainland visitors to Hong Kong is on an upward trend. The two-way travel between residents of the Mainland and Hong Kong has also brought economic benefits to both places.
+
+During the weekend of June 21 and 22 this year, around 569 000 outbound passenger trips (Saturday) and around 586 000 inbound passenger trips (Sunday) were recorded at various land boundary control points (BCPs), of which about 80 per cent were Hong Kong residents, representing an increase of about 22 per cent and 18 per cent compared with the average numbers of outbound and inbound passenger trips during normal weekends this year.
+
+Northbound travel has become a weekend routine for Hong Kong residents. Since travelling is very convenient and there is no need for advance planning, residents can make impromptu trips for different reasons, such as weather conditions on the day or individual preference. The reasons for the relatively higher numbers of inbound and outbound passenger trips in the aforementioned weekend as compared with normal weekends may include the end of the school examination season and improved weather conditions during the weekend.
+
+The peak hours for outbound and inbound passenger traffic were from 9am to 3pm on Saturday, and from 4pm to midnight on Sunday, which are similar to the northbound travel pattern of Hong Kong residents at normal weekends. As for the vehicular flow, the number of outbound trips for private cars via the Hong Kong Zhuhai Macao Bridge (HZMB) on Saturday was 9 662, among which those under the ""Northbound Travel for Hong Kong Vehicles"" Scheme (the Northbound Travel Scheme) accounted for 68 per cent, while the number of inbound trips on Sunday was 9 432, which was about 25 per cent higher than the numbers of outbound and inbound trips at normal weekends this year.
+
+It is noted that the waiting time during the peak hours of cross-boundary traffic at the HZMB Hong Kong Port and Heung Yuen Wai (HYW) BCP was longer than usual. Relevant departments at various BCPs, including the Immigration Department (ImmD), the Customs and Excise Department, the Hong Kong Police Force (HKPF) and the Transport Department (TD), etc. have put in place an inter-departmental co-operation mechanism to monitor the real-time situations at BCPs during different festive occasions and mega events. In view of the heavy traffic at the BCPs over the aforementioned weekend, relevant departments had immediately activated the contingency mechanism. Through close co-ordination and flexible deployment of manpower, operation of additional clearance counters and kiosks, and implementation of appropriate crowd control and traffic diversion measures to maintain order at the BCPs, congestion was alleviated in an orderly manner.
+
+The TD has always maintained close liaison with local and cross-boundary public transport operators, and would co-ordinate with them to flexibly adjust the frequency of public transport services connecting each BCP during peak cross-boundary travel periods in order to meet the travel needs. During the above-mentioned weekend, public transport operators closely monitored changes in the number of passengers, increased the service frequency during periods of particularly high passenger demand, as well as deployed additional staff to assist passengers and maintain order at the stations, with a view to expediting the dispersal of passengers.
+
+(2) The Government has disseminated information through various official and unofficial channels, including radio broadcasts, websites, and online media such as social media platforms, to assist residents and passengers in planning ahead and avoid making their journeys during busy periods as far as possible. Passengers may visit the ImmD's website to check the estimated waiting time of each BCP, and the TD's ""HKeMobility"" mobile application or the TD's website (hkemobility.gov.hk/en/traffic-information/live/cctv) to access the snapshots of traffic conditions at outbound and inbound vehicle clearance plazas of the HZMB Hong Kong Port. They may also browse the relevant websites and mini programmes, etc. of the Shenzhen and Zhuhai authorities to know more about the clearance status of BCPs in the Mainland.
+
+The HKPF will continue to monitor the real-time situations at various BCPs and disseminate the latest information to the public timely through the media or social media in the event of serious congestion at individual BCP, including appealing to the public to adjust their itineraries (e.g. switching to other modes of transport or using other BCPs for boundary crossing) in order to ease passenger and vehicular flows.
+
+Moreover, the TD's Emergency Transport Co-ordination Centre operates 24 hours a day to closely monitor traffic conditions and public transport services in different areas of Hong Kong, including various BCPs and major stations, and will disseminate the latest traffic information through various channels. Members of the public can check the latest traffic news released by radio, television, and the ""HKeMobility"".
+
+(3) Northbound travel over weekends has become a norm for Hong Kong residents, and the two-way travel between the Mainland and Hong Kong is also a future trend. We therefore need to get well-prepared, and enhance the responsiveness of relevant departments as well as the level of clearance facilitation at the BCPs in order to cope with the increasing demand for clearance services.
+
+The departments at the BCPs will enhance the co-operation mechanism, constantly monitor the real-time situations at various BCPs, and maintain close liaison with the Mainland port authorities through the established port hotlines and real-time notification mechanisms to ensure smooth operation of the BCPs.
+
+With respect to the traffic and vehicular flow at the HZMB Hong Kong Port, the HKPF will, depending on the circumstances, deploy additional police officers to the major roads of the port for on-the-spot observation of traffic conditions, and remind drivers to comply with road markings and drive with care, with a view to ensuring road safety and smooth traffic. When the vehicles enter the clearance plaza and its maximum capacity is reached, the HKPF will also implement traffic control measures in a timely manner to maintain order on the spot.
+
+In addition, to further increase the handling capacity of the HYW BCP, enhancement works are being carried out at its passenger departure hall. Upon completion of the works, the total number of e-Channels in the passenger departure hall will be increased from 14 to 18. As some of its traditional counters have to be closed temporarily in the course of the enhancement works, the ImmD has flexibly deployed resources to set up four temporary counters in the passenger departure hall to minimise the impact of the enhancement works. We will also explore the possibility of further increasing the number of e-Channels.
+
+As stated above, the two-way travel between residents of the Mainland and Hong Kong is a future trend. We need to enhance the handling capacity of BCPs in order to meet the increasing passenger traffic. In particular, the Hong Kong Special Administrative Region Government is collaborating with the Shenzhen Municipal Government to press ahead with the redevelopment project of the Huanggang Port in full steam. The redeveloped new Huanggang Port will implement the co-location arrangement and the ""collaborative inspection and joint clearance"" mode to provide greater convenience for cross-boundary passengers. The new Huanggang Port will be equipped with 134 ""collaborative inspection"" automated channels and 68 traditional manual counters, representing a significant increase compared to 39 traditional e-channels and 45 traditional manual counters currently available at the Lok Ma Chau (LMC) Control Point. Its design flow is about 200 000 passenger trips per day. Compared to the LMC Control Point which now serves a daily average of about 37 000 passenger trips, it is believed that the redeveloped new Huanggang Port can meet the future demand for clearance services between the two places.
+
+(4) As stipulated in the terms and conditions of ""the Northbound Travel Scheme"", if any participants violate the travel arrangements (including travelling without booking in advance or not travelling within the specified period), the relevant departments of the Guangdong and Hong Kong governments may refuse to allow relevant vehicles to travel to Guangdong Province via the HZMB, and may suspend their travel booking eligibility, or even revoke the relevant permits. At present, the TD regularly shares the booking information on ""the Northbound Travel Scheme"" with relevant departments at the Hong Kong Port to facilitate their daily operations at the HZMB Hong Kong Port. The TD has also been maintaining close liaison with the relevant Mainland authorities, and conducting spot checks on the cross-boundary records of vehicles under ""the Northbound Travel Scheme"", with a view to reviewing the situation of compliance with the terms and conditions."
+立法會八題：按揭保險計劃下批准物業出租的安排,2025-07-09 12:15,2025-07-09 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800728.htm,"以下是今日（七月九日）在立法會會議上龍漢標議員的提問和財經事務及庫務局局長許正宇的書面答覆：
+
+問題：
+
+為協助按揭保險計劃（按保計劃）下的業主應付因個人或家庭處境轉變帶來的特別需要，香港按證保險有限公司（按證保險公司）於去年八月宣布一項新安排，合資格業主可按個別情況獲豁免按保計劃下的業主自住要求，並獲批准申請將物業出租，惟須符合下述三項條件之一：（i）業主家庭將有新生嬰兒或領養兒童，導致住屋要求改變；（ii）業主失業，因而需要更具彈性的住屋或財務安排；或（iii）業主有其他特別需要出租物業，而本身在相關物業已自住最少12個月。此外，申請獲得批准的業主須承諾在豁免生效期間，業主及其同為按保計劃下債務人的配偶或同居伴侶不會在香港購入其他住宅物業。就此，政府可否告知本會：
+
+（一）是否知悉按證保險公司分別根據條件（i）、（ii）及（iii）接獲及批准了多少宗豁免業主自住要求的申請；及
+
+（二）會否考慮優化現行安排，進一步協助按保計劃下有意另覓居所的業主，豁免他們在香港購入其他住宅物業的限制，為期最多12個月，讓他們在購入新物業後，有時間處理按保計劃下的物業；如否，原因為何
+
+答覆：
+
+主席：
+
+按揭保險計劃（按保計劃）由香港按證保險有限公司﹙按證保險公司）經營，以協助市民在香港安居置業。按證保險公司於二○二四年八月在按保計劃下設立新安排，按個別情況考慮批准合資格業主將自住的物業出租，以協助他們應付因個人或家庭處境轉變帶來的特別需要（新安排）。
+
+就問題的兩個部分，經諮詢按證保險公司後，現回覆如下：
+
+（一）截至二○二五年六月底，按證保險公司就新安排共收到約1 800宗申請。當中共有1 697宗申請獲批，其餘申請為不符合申請條件而被拒絕的個案或正在處理的申請。獲批申請的分類如下：
+
+
+
+
+申請原因
+宗數
+
+
+業主家庭將有新生嬰兒或領養兒童，導致住屋要求改變
+336
+			（20%）
+
+
+業主失業，因而需要更具彈性的住屋或財務安排
+41
+			（2%）
+
+
+業主有其他特別需要出租物業，而本身在相關物業已自住最少12個月
+1 320
+			（78%）
+
+
+總數
+1 697
+			（100%）
+
+
+
+
+（二）由於按保計劃旨在促進市民安居置業，業主自住要求仍然是該計劃的主要合資格準則。新安排屬特殊措施，以協助有特別需要人士。事實上，按保計劃本質上屬保險產品，信貸風險仍是其主要考慮因素之一。如果在按保計劃下允許獲准出租物業的業主在未出售原有物業的情況下購入其他住宅物業，相關業主很可能需要在原有的高成數按揭貸款之外承擔更多融資負債。這將會為按保計劃帶來額外的信貸風險。
+
+新安排推行接近一年，運作暢順，並為有特別需要的業主提供實質協助。按證保險公司暫無計劃調整新安排，未來會不時根據市場情況檢視按保計劃。"
 LCQ8: Arrangement for approving property lettings under Mortgage Insurance Programme,2025-07-09 12:15,2025-07-09 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800733.htm," Following is a question by the Hon Louis Loong and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (July 9):
 
 Question:
@@ -1480,58 +1825,6 @@ Total
 (2) As the aim of the MIP is to promote home ownership, the owner occupancy requirement remains a key eligibility criterion of the MIP. The new arrangement is an exceptional measure that seeks to assist those with special needs. In fact, the MIP by nature is an insurance product, with credit risk being one of the key factors of consideration. If homeowners who have been given consent to rent out their properties under the MIP are allowed to purchase additional residential properties without having sold their existing ones, it is likely for the respective homeowners to take on extra financing liabilities on top of their current high loan-to-value ratio mortgage loans. This will bring additional credit risk to the MIP.
 
  The new arrangement has been launched for around one year and operating smoothly, offering substantial assistance to homeowners with special needs. The HKMCI has no plan to make changes to the new arrangement at the moment, and will keep the MIP under review from time to time in the light of the market circumstances."
-立法會八題：按揭保險計劃下批准物業出租的安排,2025-07-09 12:15,2025-07-09 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800728.htm,"以下是今日（七月九日）在立法會會議上龍漢標議員的提問和財經事務及庫務局局長許正宇的書面答覆：
-
-問題：
-
-為協助按揭保險計劃（按保計劃）下的業主應付因個人或家庭處境轉變帶來的特別需要，香港按證保險有限公司（按證保險公司）於去年八月宣布一項新安排，合資格業主可按個別情況獲豁免按保計劃下的業主自住要求，並獲批准申請將物業出租，惟須符合下述三項條件之一：（i）業主家庭將有新生嬰兒或領養兒童，導致住屋要求改變；（ii）業主失業，因而需要更具彈性的住屋或財務安排；或（iii）業主有其他特別需要出租物業，而本身在相關物業已自住最少12個月。此外，申請獲得批准的業主須承諾在豁免生效期間，業主及其同為按保計劃下債務人的配偶或同居伴侶不會在香港購入其他住宅物業。就此，政府可否告知本會：
-
-（一）是否知悉按證保險公司分別根據條件（i）、（ii）及（iii）接獲及批准了多少宗豁免業主自住要求的申請；及
-
-（二）會否考慮優化現行安排，進一步協助按保計劃下有意另覓居所的業主，豁免他們在香港購入其他住宅物業的限制，為期最多12個月，讓他們在購入新物業後，有時間處理按保計劃下的物業；如否，原因為何
-
-答覆：
-
-主席：
-
-按揭保險計劃（按保計劃）由香港按證保險有限公司﹙按證保險公司）經營，以協助市民在香港安居置業。按證保險公司於二○二四年八月在按保計劃下設立新安排，按個別情況考慮批准合資格業主將自住的物業出租，以協助他們應付因個人或家庭處境轉變帶來的特別需要（新安排）。
-
-就問題的兩個部分，經諮詢按證保險公司後，現回覆如下：
-
-（一）截至二○二五年六月底，按證保險公司就新安排共收到約1 800宗申請。當中共有1 697宗申請獲批，其餘申請為不符合申請條件而被拒絕的個案或正在處理的申請。獲批申請的分類如下：
-
-
-
-
-申請原因
-宗數
-
-
-業主家庭將有新生嬰兒或領養兒童，導致住屋要求改變
-336
-			（20%）
-
-
-業主失業，因而需要更具彈性的住屋或財務安排
-41
-			（2%）
-
-
-業主有其他特別需要出租物業，而本身在相關物業已自住最少12個月
-1 320
-			（78%）
-
-
-總數
-1 697
-			（100%）
-
-
-
-
-（二）由於按保計劃旨在促進市民安居置業，業主自住要求仍然是該計劃的主要合資格準則。新安排屬特殊措施，以協助有特別需要人士。事實上，按保計劃本質上屬保險產品，信貸風險仍是其主要考慮因素之一。如果在按保計劃下允許獲准出租物業的業主在未出售原有物業的情況下購入其他住宅物業，相關業主很可能需要在原有的高成數按揭貸款之外承擔更多融資負債。這將會為按保計劃帶來額外的信貸風險。
-
-新安排推行接近一年，運作暢順，並為有特別需要的業主提供實質協助。按證保險公司暫無計劃調整新安排，未來會不時根據市場情況檢視按保計劃。"
 立法會十四題：海洋公園登山纜車,2025-07-09 12:00,2025-07-09 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900337.htm,"以下是今日（七月九日）在立法會會議上田北辰議員的提問和文化體育及旅遊局局長羅淑佩的書面答覆：
 
 問題：
@@ -1586,43 +1879,6 @@ To provide visitors with quality recreational experience, the OP has been active
 As a practice, in determining the cable car service to be provided to cater for the projected number of visitors each day, the OP will abide by the principle of proper utilisation of resources and take into account various factors, including whether the day is a weekday or a holiday, weather conditions, in-park promotional activities, and the location and schedule of special events, etc.
 
 Note: The OP's financial year (FY) starts on every July 1 and ends on June 30 of the following year. In FY 2024/25, the park was closed for 12 days due to its dark day arrangement. And, owing to cable car maintenance and typhoon, the cable car service was suspended for another 11 days."
-立法會十六題：支援中高齡人士就業,2025-07-09 11:52,2025-07-09 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900293.htm,"以下是今日（七月九日）在立法會會議上管浩鳴議員的提問和勞工及福利局局長孫玉菡的書面答覆：
-
-問題：
-
-為支援長者就業，勞工處推行「中高齡就業計劃」（該計劃），向僱主發放在職培訓津貼，鼓勵僱主聘用年滿40歲或以上的失業求職人士。關於支援中高齡人士就業，政府可否告知本會：
-
-（一）過去五年符合參加該計劃資格的就業個案所涉及的僱主數目為何；
-
-（二）會否就該計劃訂立績效指標，例如分別設定40歲至59‍歲、60歲至64歲和65歲或以上人士佔總勞動人口參與率的目標，並適時檢視該計劃在推動中高齡求職人士就業方面的成效；若會，詳情為何；若否，原因為何；
-
-（三）會否增撥資源優化現有支援中高齡就業的措施和提供針對性的就業支援，包括舉辦不同類型的專題招聘會（例如專門為中高齡人士而設的兼職工作招聘會）、加強長者就業培訓，以及提供個人化的就業諮詢和求職配對服務，從而全方位協助中高齡人士重投職場；若會，詳情為何；若否，原因為何；及
-
-（四）會否考慮參考鄰近國家的做法，透過立法形式制訂僱主重聘長者指引，並按長者能力設計合適工種和制訂薪酬，從而規管企業僱用長者員工的責任；若會，詳情為何；若否，原因為何？
-
-答覆：
-
-主席：
-
-勞工處推行「中高齡就業計劃」，鼓勵僱主聘請40歲或以上人士並提供在職培訓。僱主聘用每名60歲或以上失業或已離開職場的求職人士，並為他們提供在職培訓，可獲發每月最高5,000元的在職培訓津貼，為期六至12個月；而聘用每名40歲至59歲失業求職人士的最高在職培訓津貼金額則為每月4,000元，為期三至六個月。
-
-就議員的提問，現答覆如下：
-
-（一）二○二○年至二○二四年，「中高齡就業計劃」每年分別錄得2260宗、3340宗、2707宗、3873宗及4443宗合資格就業個案，涉及937名、1266名、1169名、1420名及1559名僱主。
-
-（二）及（三）勞工處致力提供多元化的就業服務，促進中高齡人士就業。勞工處的十所就業中心為中高齡人士提供就業支援及專項服務，包括優先就業轉介服務和就業講座。中心的就業主任亦為他們提供個人化的就業諮詢、求職配對服務，以及培訓／再培訓課程的資料。此外，勞工處「互動就業服務」網站已設立「年長求職人士專頁」、「兼職職位專頁」，方便中高齡人士獲取最新就業資訊和尋找合適空缺。
-
-為配合政府「促進銀髮經濟工作組」釋放「銀色生產動力」的目標，勞工處二○二五年將會舉辦約60場適合中高齡人士的大型或地區性專題招聘會，較去年的場次增加一倍。中高齡求職人士在招聘會可即場申請職位及面試，加快求職過程。
-
-勞工處二○二四年七月十五日推出為期三年的「再就業津貼試行計劃」（再就業計劃），鼓勵連續三個月或以上沒有從事任何獲酬工作的40歲或以上人士投入就業市場。截至二○二五年六月，再就業計劃已錄得超過45000名參加者及接近23000宗就業個案，遠超原定在推行計劃三年期間可惠及6 000名就業人士的目標。其中，涉及60歲或以上的參加人數及就業個案數目約佔總數的四分之一。勞工處歡迎聘請再就業計劃參加者的僱主同時參加「中高齡就業計劃」。
-
-勞工處將於二○二六年第一季就再就業計劃進行中期檢討，配合「中高齡就業計劃」，探討進一步促進中高齡人士就業的措施。
-
-由於就業個案的數目受經濟、勞工市場及求職人士個人情況等因素影響，為勞動人口參與率制定關鍵績效指標並不合適。
-
-（四）政府一直鼓勵僱主「不論年齡、唯才是用」，並按企業的情況採納長者友善僱傭措施，例如延長僱員的工作年齡、提供靈活的工作安排，以及締造適合長者工作的環境等，讓更多年長人士繼續或再就業。
-
-勞工處會繼續進行宣傳推廣，並推行就業計劃，鼓勵僱主聘用中高齡人士。由於企業聘用員工的考慮及情況不同，政府目前沒有計劃以立法方式規管企業僱用長者員工。"
 LCQ16: Supporting employment of elderly and middle-aged persons,2025-07-09 11:52,2025-07-09 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900294.htm," Following is a question by Reverend Canon the Hon Peter Douglas Koon and a written reply by the Secretary for Labour and Welfare, Mr Chris Sun, in the Legislative Council today (July 9):
 
 Question:
@@ -1660,29 +1916,43 @@ President,
 (4) The Government has been encouraging employers to follow the principle of ""Count on Talent, Not Age in Employment"" and, having regard to the individual circumstances of their enterprises, to adopt elderly-friendly employment practices such as extending the working life of employees, providing flexible work arrangements, fostering an environment conducive to elderly employment, so as to facilitate more older persons to stay in or rejoin the labour market.
 
  The LD will continue to conduct publicity and promotional activities as well as implement employment programmes to encourage employers to hire elderly and middle-aged persons. Owing to the varied considerations and circumstances of enterprises in recruiting staff, the Government currently has no plan to regulate the employment of older employees through legislation."
-立法會十五題：國際調解院,2025-07-09 11:45,2025-07-09 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900342.htm,"以下是今日（七月九日）在立法會會議上林健鋒議員的提問和署理律政司司長張國鈞博士的書面答覆：
+立法會十六題：支援中高齡人士就業,2025-07-09 11:52,2025-07-09 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900293.htm,"以下是今日（七月九日）在立法會會議上管浩鳴議員的提問和勞工及福利局局長孫玉菡的書面答覆：
 
 問題：
 
-在國家的支持下，國際調解院的總部正式落戶香港，並預計於本年年底或明年年初投入運作。此外，33個國家於本年五月三十日簽署《關於建立國際調解院的公約》。有意見認為由於國際調解院是首個把總部設在香港的政府間國際組織，將進一步加強香港作為「亞太區主要國際法律及爭議解決服務中心」的定位。就此，政府可否告知本會：
+為支援長者就業，勞工處推行「中高齡就業計劃」（該計劃），向僱主發放在職培訓津貼，鼓勵僱主聘用年滿40歲或以上的失業求職人士。關於支援中高齡人士就業，政府可否告知本會：
 
-（一）有否估算國際調解院將為香港帶來的效益，或訂立成效指標（例如新增調解員、翻譯員和研究員等崗位的數量，以及新進駐的國際組織、非政府機構和學術機構的數量）；如有，詳情為何；如否，原因為何，以及會否考慮作出相關估算和訂立成效指標；
+（一）過去五年符合參加該計劃資格的就業個案所涉及的僱主數目為何；
 
-（二）是否知悉國際調解院有否已制訂調解員的具體選拔條件，以及相關指引和審查機制，以保證調解員可提供具合理專業水平的調解服務；如有，詳情為何；如否，原因為何，以及何時完成制訂；及
+（二）會否就該計劃訂立績效指標，例如分別設定40歲至59‍歲、60歲至64歲和65歲或以上人士佔總勞動人口參與率的目標，並適時檢視該計劃在推動中高齡求職人士就業方面的成效；若會，詳情為何；若否，原因為何；
 
-（三）據報所有國家，不限於簽約國，均能使用國際調解院的服務，但有意見認為由於法律具有高度區域性（即不同司法管轄區使用不同法律體系和制度），爭議雙方對法理的理解不同，令他們期望調解服務可達致的成果可能大相徑庭，國際調解院總部會否訂立協調政策，以保障其調解服務可達致來自不同司法管轄區的爭議方均感到滿意的合理水平？
+（三）會否增撥資源優化現有支援中高齡就業的措施和提供針對性的就業支援，包括舉辦不同類型的專題招聘會（例如專門為中高齡人士而設的兼職工作招聘會）、加強長者就業培訓，以及提供個人化的就業諮詢和求職配對服務，從而全方位協助中高齡人士重投職場；若會，詳情為何；若否，原因為何；及
+
+（四）會否考慮參考鄰近國家的做法，透過立法形式制訂僱主重聘長者指引，並按長者能力設計合適工種和制訂薪酬，從而規管企業僱用長者員工的責任；若會，詳情為何；若否，原因為何？
 
 答覆：
 
-主席︰
+主席：
 
-就林健鋒議員的提問，現綜合回覆如下：
+勞工處推行「中高齡就業計劃」，鼓勵僱主聘請40歲或以上人士並提供在職培訓。僱主聘用每名60歲或以上失業或已離開職場的求職人士，並為他們提供在職培訓，可獲發每月最高5,000元的在職培訓津貼，為期六至12個月；而聘用每名40歲至59歲失業求職人士的最高在職培訓津貼金額則為每月4,000元，為期三至六個月。
 
-（一）及（三）國際調解院落戶香港，有助吸引世界各地人士來港以調解及其他方式解決爭議，加強香港作為國際法律及爭議解決服務中心的地位。國際調解院落戶香港更可吸引更多國際組織、非政府組織和學術機構進駐，進一步鞏固香港的國際地位和知名度。預期為香港帶來正面的經濟效益。國際調解院的落戶會為香港創造更多就業機會，如調解員、翻譯員、研究員和行政人員等，並吸引國際法律專業人士和學者來港，有助推動法律實務、研究和國際司法合作的發展，加強香港的國際法律網絡。座落在灣仔的國際調解院總部，將不但促進香港的國際法律和爭議解決服務發展，而且吸引更多國際會議和展覽等相關活動在香港舉行，繼而促進酒店、餐飲和運輸物流等其他行業的發展。
+就議員的提問，現答覆如下：
 
-國際調解院要待《關於建立國際調解院的公約》通過、簽署和生效後才會正式成立，而其總部才得以正式落戶香港特區。國際調解院尚未開始運作，現階段未能提供具體詳情。正如其他政府間國際組織，國際調解院將會是獨立的國際組織，其運作政策和決定（包是否或如何訂立成效指標或協調政策），會由國際調解院自行安排和訂立。
+（一）二○二○年至二○二四年，「中高齡就業計劃」每年分別錄得2260宗、3340宗、2707宗、3873宗及4443宗合資格就業個案，涉及937名、1266名、1169名、1420名及1559名僱主。
 
-（二）《關於建立國際調解院的公約》第四章（第十九至二十三條）規定了國際調解院的調解員名單的具體事宜，包括調解員的指派，調解員的資質和任期等。《公約》條文請見www.international-mediation.org/basic-documents。"
+（二）及（三）勞工處致力提供多元化的就業服務，促進中高齡人士就業。勞工處的十所就業中心為中高齡人士提供就業支援及專項服務，包括優先就業轉介服務和就業講座。中心的就業主任亦為他們提供個人化的就業諮詢、求職配對服務，以及培訓／再培訓課程的資料。此外，勞工處「互動就業服務」網站已設立「年長求職人士專頁」、「兼職職位專頁」，方便中高齡人士獲取最新就業資訊和尋找合適空缺。
+
+為配合政府「促進銀髮經濟工作組」釋放「銀色生產動力」的目標，勞工處二○二五年將會舉辦約60場適合中高齡人士的大型或地區性專題招聘會，較去年的場次增加一倍。中高齡求職人士在招聘會可即場申請職位及面試，加快求職過程。
+
+勞工處二○二四年七月十五日推出為期三年的「再就業津貼試行計劃」（再就業計劃），鼓勵連續三個月或以上沒有從事任何獲酬工作的40歲或以上人士投入就業市場。截至二○二五年六月，再就業計劃已錄得超過45000名參加者及接近23000宗就業個案，遠超原定在推行計劃三年期間可惠及6 000名就業人士的目標。其中，涉及60歲或以上的參加人數及就業個案數目約佔總數的四分之一。勞工處歡迎聘請再就業計劃參加者的僱主同時參加「中高齡就業計劃」。
+
+勞工處將於二○二六年第一季就再就業計劃進行中期檢討，配合「中高齡就業計劃」，探討進一步促進中高齡人士就業的措施。
+
+由於就業個案的數目受經濟、勞工市場及求職人士個人情況等因素影響，為勞動人口參與率制定關鍵績效指標並不合適。
+
+（四）政府一直鼓勵僱主「不論年齡、唯才是用」，並按企業的情況採納長者友善僱傭措施，例如延長僱員的工作年齡、提供靈活的工作安排，以及締造適合長者工作的環境等，讓更多年長人士繼續或再就業。
+
+勞工處會繼續進行宣傳推廣，並推行就業計劃，鼓勵僱主聘用中高齡人士。由於企業聘用員工的考慮及情況不同，政府目前沒有計劃以立法方式規管企業僱用長者員工。"
 LCQ15: International Organization for Mediation,2025-07-09 11:45,2025-07-09 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900351.htm," Following is a question by the Hon Jeffrey Lam and a written reply by the Acting Secretary for Justice, Dr Cheung Kwok-kwan, in the Legislative Council today (July 9):
 
 Question:
@@ -1706,6 +1976,29 @@ In response to the enquiry raised by the Hon Jeffrey Lam, the consolidated reply
 âIOMed will be officially established with its headquarters to be formally set up in the Hong Kong Special Administrative Region following the adoption, signing and entry into force of the Convention on the Establishment of the International Organization for Mediation. IOMed has not yet commenced its operation and hence no further details may be provided at the present stage. Same as other international inter-governmental organisations, IOMed will be an independent international organisation, which will make its own policy and decision for its operation (including whether and how to set any key performance indicator or any co-ordination policy).
 
 (2)Chapter IV (Articles 19 to 23) of the Convention on the Establishment of the International Organization for Mediation governs the Panel of Mediators of IOMed, including designation of mediators, qualifications of mediators and their term of office. Please see www.international-mediation.org/basic-documentsfor the Articles under the Convention."
+立法會十五題：國際調解院,2025-07-09 11:45,2025-07-09 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900342.htm,"以下是今日（七月九日）在立法會會議上林健鋒議員的提問和署理律政司司長張國鈞博士的書面答覆：
+
+問題：
+
+在國家的支持下，國際調解院的總部正式落戶香港，並預計於本年年底或明年年初投入運作。此外，33個國家於本年五月三十日簽署《關於建立國際調解院的公約》。有意見認為由於國際調解院是首個把總部設在香港的政府間國際組織，將進一步加強香港作為「亞太區主要國際法律及爭議解決服務中心」的定位。就此，政府可否告知本會：
+
+（一）有否估算國際調解院將為香港帶來的效益，或訂立成效指標（例如新增調解員、翻譯員和研究員等崗位的數量，以及新進駐的國際組織、非政府機構和學術機構的數量）；如有，詳情為何；如否，原因為何，以及會否考慮作出相關估算和訂立成效指標；
+
+（二）是否知悉國際調解院有否已制訂調解員的具體選拔條件，以及相關指引和審查機制，以保證調解員可提供具合理專業水平的調解服務；如有，詳情為何；如否，原因為何，以及何時完成制訂；及
+
+（三）據報所有國家，不限於簽約國，均能使用國際調解院的服務，但有意見認為由於法律具有高度區域性（即不同司法管轄區使用不同法律體系和制度），爭議雙方對法理的理解不同，令他們期望調解服務可達致的成果可能大相徑庭，國際調解院總部會否訂立協調政策，以保障其調解服務可達致來自不同司法管轄區的爭議方均感到滿意的合理水平？
+
+答覆：
+
+主席︰
+
+就林健鋒議員的提問，現綜合回覆如下：
+
+（一）及（三）國際調解院落戶香港，有助吸引世界各地人士來港以調解及其他方式解決爭議，加強香港作為國際法律及爭議解決服務中心的地位。國際調解院落戶香港更可吸引更多國際組織、非政府組織和學術機構進駐，進一步鞏固香港的國際地位和知名度。預期為香港帶來正面的經濟效益。國際調解院的落戶會為香港創造更多就業機會，如調解員、翻譯員、研究員和行政人員等，並吸引國際法律專業人士和學者來港，有助推動法律實務、研究和國際司法合作的發展，加強香港的國際法律網絡。座落在灣仔的國際調解院總部，將不但促進香港的國際法律和爭議解決服務發展，而且吸引更多國際會議和展覽等相關活動在香港舉行，繼而促進酒店、餐飲和運輸物流等其他行業的發展。
+
+國際調解院要待《關於建立國際調解院的公約》通過、簽署和生效後才會正式成立，而其總部才得以正式落戶香港特區。國際調解院尚未開始運作，現階段未能提供具體詳情。正如其他政府間國際組織，國際調解院將會是獨立的國際組織，其運作政策和決定（包是否或如何訂立成效指標或協調政策），會由國際調解院自行安排和訂立。
+
+（二）《關於建立國際調解院的公約》第四章（第十九至二十三條）規定了國際調解院的調解員名單的具體事宜，包括調解員的指派，調解員的資質和任期等。《公約》條文請見www.international-mediation.org/basic-documents。"
 立法會十九題：啟德體育園周邊的泊車安排,2025-07-09 11:15,2025-07-09 11:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900256.htm,"​以下是今日（七月九日）在立法會會議上楊永杰議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
 問題：
@@ -1765,13 +2058,6 @@ The HKPF will continue to combat traffic offences in accordance with the Selecte
 The TD also maintains close communication with the CSTB, other relevant departments, and Kai Tak Sports Park Limited regarding traffic issues around the KTSP, and discusses further enhancements to traffic arrangements. Drawing on the experience of various large-scale events and feedback from PC users, the KTSP has, since June this year, opened the taxi pick-up/drop-off area at Kai Tak Stadium for taxi use and introduced a parking space booking service for PC users at Kai Tak Arena to enhance convenience. Motorists with parking needs may purchase parking voucher in advance to reserve parking spaces at the Kai Tak Arena car park during major events. In addition, there are other parking spaces available near the KTSP, including two shopping malls within a 10 to 15-minute walk that collectively offer about 1 300 PC parking spaces. Motorists may check real-time parking vacancy information of car parks at the KTSP and the above two shopping malls via TD's ""HKeMobility"" mobile application.
 
 As mentioned above, the KTSP and the nearby shopping malls together offer a total of about 1 900 PC parking spaces. The TD will maintain close liaison with Kai Tak Sports Park Limited for making optimal use of the exitsing parking facilities and continuing to enhance the parking arranagements in the KTSP. The TD will also continue to monitor the overall parking demand in the district, and conduct timely review with relevant departments to ensure the transport facilities keep pace with the district development."
-2025「創客中國」國際中小企業創新創業大賽香港分站賽接受報名,2025-07-09 11:00,2025-07-09 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800527.htm,"​2025「創客中國」國際中小企業創新創業大賽香港分站賽今日（七月九日）開始接受報名，歡迎香港初創及中小企業參與，把握良機開拓內地市場。截止報名日期為八月二十日。
-
-大賽圍繞引領新質生產力發展的前沿科技創新領域，包括金融科技、人工智能與大數據、智能裝備與機器人、智慧生活與智慧出行、第三代互聯網與元宇宙、半導體與集成電路、生物醫藥與健康、低空經濟與航空航天、新能源與綠色科技，以及新材料。
-
-大賽旨在為香港初創及中小企業搭建進軍內地市場的關鍵橋樑，推動內地投資者和企業進一步認識本地業界的創科產品和解決方案。香港分站賽決賽將於今年九月二十五日舉行，屆時十強隊伍將獲安排與內地投資者及企業代表進行一對一交流，促進意向融資及業務對接。同時，參賽隊伍亦有機會獲支援參與多個初創計劃及展覽活動，透過多元平台向各地展示其具潛力的創新項目。冠、亞、季軍更可代表香港特別行政區參與今年第四季於廣州舉行的國家級「創客中國」國際中小企業創新創業大賽年度總決賽，與來自各分站賽區的優勝隊伍爭奪殊榮，並獲得與內地投資者對接、進駐內地創業園區，以及成果轉化指導等多方面的支援。
-
-2025「創客中國」香港分站賽由香港特別行政區政府數字政策辦公室聯同國家工業和信息化部中小企業發展促進中心、中央人民政府駐香港特別行政區聯絡辦公室青年工作部及中國中小企業國際合作協會聯合主辦，並由香港數碼港管理有限公司、天使投資基金會及廣州市中小企業專精特新發展促進會共同承辦。有關比賽詳情，請瀏覽makerinchina.hk/。"
 2025 Maker in China SME Innovation and Entrepreneurship Global Contest - Hong Kong Chapter opens for enrolment,2025-07-09 11:00,2025-07-09 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800528.htm,"âThe 2025 Maker in China SME Innovation and Entrepreneurship Global Contest - Hong Kong Chapter (MiCHK) opens for enrolment today (July 9). Hong Kong start-ups and small and medium-sized enterprises (SMEs) are welcome to join the contest, seizing the opportunity to expand into the Mainland market. The deadline for enrolment is August 20.
 
 The contest focuses on frontier innovation and technology (I&T) fields that drive the development of new quality productive forces, including fintech, AI and big data, intelligent devices and robotics, smart living and smart mobility, third generation Internet and metaverse, semiconductors and integrated circuits, biomedicine and health, low-altitude economy and aerospace, new energy and green technology, as well as new materials.
@@ -1779,20 +2065,6 @@ The contest focuses on frontier innovation and technology (I&T) fields that driv
 The contest serves as a vital bridge for Hong Kong start-ups and SMEs to tap into the Mainland market, while also allowing Mainland investors and enterprises to know more about the local industry's I&T products and solutions. The MiCHK 2025 Final will be held on September 25 this year, during which one-on-one business matching sessions will be arranged for the top 10 finalists to meet with investors and representatives of enterprises from the Mainland to promote financing and interfacing of businesses. In addition, the contesting teams will have the opportunity to receive support to participate in various start-up programmes and exhibition activities, and to showcase their potential innovative projects to different regions through multiple platforms. The champion, first runner-up and second runner-up will represent the Hong Kong Special Administrative Region (HKSAR) to compete in the national-level Maker in China SME Innovation and Entrepreneurship Global Contest Final to be held in Guangzhou in the fourth quarter of this year, when they will compete with the winning teams of other regional chapters for the championship and opportunities to gain multifaceted support in connecting with Mainland investors, setting up businesses in Mainland entrepreneurial parks, and receiving guidance on outcome transformation.
 
 The MiCHK 2025 is jointly organised by the Digital Policy Office of the HKSAR Government, the China Centre for Promotion of SME Development of the Ministry of Industry and Information Technology of the People's Republic of China, the Department of Youth Affairs of the Liaison Office of the Central People's Government in the HKSAR, and the China International Cooperation Association of SMEs. It is formulated by the Hong Kong Cyberport Management Company Limited, the Angel Investment Foundation and the Guangzhou SME's Promotion Association For Specialization Refinement Differentiation Innovation Development. For more details about the contest, please visit makerinchina.hk/."
-Government invites tenders for short-term tenancy in Ma On Shan for fee-paying public car park with installation of automated parking system,2025-07-09 11:00,2025-07-09 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900264.htm,"  The Government today (July 9) invites tenders for a short-term tenancy (STT) of one lot of government land at Po Tai Street in Ma On Shan (STT No. STTST0065) to be used for a fee-paying public car park, with the installation of an automated parking system (APS) as the sixth APS project at a government STT site so far. The tenancy is for a fixed term of seven years and renewable thereafter on a half-yearly basis.
-
-  A spokesman for the Transport Department said that the application of APS can utilise space more effectively and increase parking efficiency, alleviating the public demand for parking spaces. The Government is actively taking forward APS projects in suitable STT car parks. The first three APS projects at Hoi Shing Road in Tsuen Wan, Pak Shek Kok in Tai Po and Tung Chau Street in Sham Shui Po have already commenced services, providing about 180 automated parking spaces in total. The APS project at the STT car park at Hoi Wang Road in Yau Ma Tei is expected to be commissioned this year. In addition, APS will also be installed at the STT car park at Lok Wah Street in Tsz Wan Shan and the above project at Po Tai Street in Ma On Shan, and tendering is under way.
-
-  Regarding the tender for the Ma On Shan project, under the tenancy agreement, the successful tenderer is required to erect, construct and install an APS at the site within 15 months from the commencement date of the tenancy, providing not less than 104 automated parking spaces out of a total minimum of 247 parking spaces.
-
-  The Tender Document can be obtained from the Lands Department website (www.landsd.gov.hk) or the following offices:
-
-1. The Survey and Mapping Office, Lands Department, 6/F, North Point Government Offices, 333 Java Road, North Point; and
-2. The District Lands Office, Sha Tin, 11/F, Sha Tin Government Offices, 1 Sheung Wo Che Road, Sha Tin.
-
-  Prospective tenderers must pay attention to all the requirements set out in the tender notice and the tenancy agreement of the tender document.
-
-  Tenders must be deposited in the Public Works Tender Box situated at Room 503, 5/F, Low Block, Queensway Government Offices, 66 Queensway, Hong Kong, before noon on August 22 (Friday). Late tenders will not be accepted."
 政府就馬鞍山收費公眾停車場短期租約及安裝自動泊車系統公開招標,2025-07-09 11:00,2025-07-09 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900262.htm,"政府今日（七月九日）就一幅位於馬鞍山保泰街用作收費公眾停車場的政府短期租約用地（短期租約第STTST0065號）展開公開招標，並為其安裝自動泊車系統，是至今在政府短期租約用地的第六個自動泊車系統項目。租約期為七年固定期限，其後可按半年續租。
 
 運輸署發言人表示，採用自動泊車系統能更有效地善用空間、提高泊車效率，有助紓緩公眾對泊車位的需求。政府積極在合適的短期租約停車場推展自動泊車系統，首三個位於荃灣海盛路、大埔白石角及深水埗通州街的自動泊車系統項目已投入服務，合共提供約180個自動化泊位。位於油麻地海泓道短期租約停車場內的自動泊車系統預計將於今年內投入服務。此外，慈雲山樂華街的短期租約停車場及今次馬鞍山保泰街項目亦將加設自動泊車系統，並正進行招標。
@@ -1807,7 +2079,28 @@ Government invites tenders for short-term tenancy in Ma On Shan for fee-paying p
 有意投標者必須留意招標文件的招標公告及租賃協議的所有要求。
 
 投標者須於八月二十二日（星期五）中午十二時前，把投標書放入香港金鐘道66號金鐘道政府合署低座五樓503室的「工務投標箱」內。逾期遞交的投標書概不受理。"
-Speech by FS at Hong Kong - Korea Capital Markets Conference (English only) (with photos/video),2025-07-09 10:52,2025-07-09 15:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900263.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong – Korea Capital Markets Conference held in Seoul, Korea today (July 9):
+Government invites tenders for short-term tenancy in Ma On Shan for fee-paying public car park with installation of automated parking system,2025-07-09 11:00,2025-07-09 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900264.htm,"  The Government today (July 9) invites tenders for a short-term tenancy (STT) of one lot of government land at Po Tai Street in Ma On Shan (STT No. STTST0065) to be used for a fee-paying public car park, with the installation of an automated parking system (APS) as the sixth APS project at a government STT site so far. The tenancy is for a fixed term of seven years and renewable thereafter on a half-yearly basis.
+
+  A spokesman for the Transport Department said that the application of APS can utilise space more effectively and increase parking efficiency, alleviating the public demand for parking spaces. The Government is actively taking forward APS projects in suitable STT car parks. The first three APS projects at Hoi Shing Road in Tsuen Wan, Pak Shek Kok in Tai Po and Tung Chau Street in Sham Shui Po have already commenced services, providing about 180 automated parking spaces in total. The APS project at the STT car park at Hoi Wang Road in Yau Ma Tei is expected to be commissioned this year. In addition, APS will also be installed at the STT car park at Lok Wah Street in Tsz Wan Shan and the above project at Po Tai Street in Ma On Shan, and tendering is under way.
+
+  Regarding the tender for the Ma On Shan project, under the tenancy agreement, the successful tenderer is required to erect, construct and install an APS at the site within 15 months from the commencement date of the tenancy, providing not less than 104 automated parking spaces out of a total minimum of 247 parking spaces.
+
+  The Tender Document can be obtained from the Lands Department website (www.landsd.gov.hk) or the following offices:
+
+1. The Survey and Mapping Office, Lands Department, 6/F, North Point Government Offices, 333 Java Road, North Point; and
+2. The District Lands Office, Sha Tin, 11/F, Sha Tin Government Offices, 1 Sheung Wo Che Road, Sha Tin.
+
+  Prospective tenderers must pay attention to all the requirements set out in the tender notice and the tenancy agreement of the tender document.
+
+  Tenders must be deposited in the Public Works Tender Box situated at Room 503, 5/F, Low Block, Queensway Government Offices, 66 Queensway, Hong Kong, before noon on August 22 (Friday). Late tenders will not be accepted."
+2025「創客中國」國際中小企業創新創業大賽香港分站賽接受報名,2025-07-09 11:00,2025-07-09 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070800527.htm,"​2025「創客中國」國際中小企業創新創業大賽香港分站賽今日（七月九日）開始接受報名，歡迎香港初創及中小企業參與，把握良機開拓內地市場。截止報名日期為八月二十日。
+
+大賽圍繞引領新質生產力發展的前沿科技創新領域，包括金融科技、人工智能與大數據、智能裝備與機器人、智慧生活與智慧出行、第三代互聯網與元宇宙、半導體與集成電路、生物醫藥與健康、低空經濟與航空航天、新能源與綠色科技，以及新材料。
+
+大賽旨在為香港初創及中小企業搭建進軍內地市場的關鍵橋樑，推動內地投資者和企業進一步認識本地業界的創科產品和解決方案。香港分站賽決賽將於今年九月二十五日舉行，屆時十強隊伍將獲安排與內地投資者及企業代表進行一對一交流，促進意向融資及業務對接。同時，參賽隊伍亦有機會獲支援參與多個初創計劃及展覽活動，透過多元平台向各地展示其具潛力的創新項目。冠、亞、季軍更可代表香港特別行政區參與今年第四季於廣州舉行的國家級「創客中國」國際中小企業創新創業大賽年度總決賽，與來自各分站賽區的優勝隊伍爭奪殊榮，並獲得與內地投資者對接、進駐內地創業園區，以及成果轉化指導等多方面的支援。
+
+2025「創客中國」香港分站賽由香港特別行政區政府數字政策辦公室聯同國家工業和信息化部中小企業發展促進中心、中央人民政府駐香港特別行政區聯絡辦公室青年工作部及中國中小企業國際合作協會聯合主辦，並由香港數碼港管理有限公司、天使投資基金會及廣州市中小企業專精特新發展促進會共同承辦。有關比賽詳情，請瀏覽makerinchina.hk/。"
+Speech by FS at Hong Kong - Korea Capital Markets Conference (English only) (with photos),2025-07-09 10:52,2025-07-09 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900263.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong – Korea Capital Markets Conference held in Seoul, Korea today (July 9):
 
 Mr Seo (Chairman of the Korea Financial Investment Association, Mr Seo Yoo-seok), Greg (Managing Director and Head of Markets, the Hong Kong Exchanges and Clearing Limited, Mr Gregory Yu), Ms Ding Chen (Chief Executive Officer of CSOP Asset Management Limited), ladies and gentlemen,
 
@@ -1874,7 +2167,7 @@ Above all, we are entering a new era for Asia. Geopolitics, technological innova
 Together, Hong Kong and Korea can build stronger bridges, unlock new investment frontiers, and shape the future of finance in Asia and beyond.
 
 Kamsahamnida. Thank you."
-Speech by FS at Hong Kong - Korea Capital Markets Conference (English only) (with photos),2025-07-09 10:52,2025-07-09 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900263.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong – Korea Capital Markets Conference held in Seoul, Korea today (July 9):
+Speech by FS at Hong Kong - Korea Capital Markets Conference (English only) (with photos/video),2025-07-09 10:52,2025-07-09 15:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900263.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong – Korea Capital Markets Conference held in Seoul, Korea today (July 9):
 
 Mr Seo (Chairman of the Korea Financial Investment Association, Mr Seo Yoo-seok), Greg (Managing Director and Head of Markets, the Hong Kong Exchanges and Clearing Limited, Mr Gregory Yu), Ms Ding Chen (Chief Executive Officer of CSOP Asset Management Limited), ladies and gentlemen,
 
@@ -2025,19 +2318,19 @@ Wear a wide-brimmed hat or use an umbrella.
 âIf symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
 
 âThe public may obtain more information from the DH's Health Education Infoline (2833 0111),heat strokepage andUV radiationpage; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast,UV Indexand weather information forhiking and mountaineering; andpress releasesof the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Very Hot Weather Warning is in force."
-Very Hot Weather Warning issued,2025-07-09 06:45,2025-07-09 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900141.htm,"Attention TV/radio announcers:
+酷熱天氣警告已發出,2025-07-09 06:45,2025-07-09 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900140.htm,"電台及電視台當值宣布員注意：
 
-Please broadcast the following as soon as possible:
+請盡速播出下列特別報告：
 
-The Hong Kong Observatory has issued the Very Hot Weather Warning.
+天文台已發出酷熱天氣警告。
 
-To prevent heat stroke, avoid prolonged activities outdoors.
+預防中暑，要避免長時間在戶外活動。
 
-If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
+如果要在戶外活動或工作，最好戴寬邊帽，穿淺色、寬鬆的衣服，盡量留在蔭涼的地方。
 
-Drink plenty of water, and avoid beverages containing caffeine or alcohol.
+要充分喝水，但避免喝含咖啡因或酒精的飲品。
 
-If you feel sick, consult a doctor right away."
+如有不適，要盡快看醫生。"
 天氣酷熱市民應預防中暑,2025-07-09 06:45,2025-07-09 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900142.htm,"衞生署衞生防護中心今日（七月九日）提醒市民特別是進行戶外活動的人士，天氣酷熱，應採取適當措施，預防中暑及曬傷。
 
 衞生防護中心發言人說：「進行戶外活動時，應帶備並補充大量水分，以防脫水。」
@@ -2072,19 +2365,19 @@ If you feel sick, consult a doctor right away."
 ​若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
 
 市民可透過以下途徑，取得更多資料：衞生署健康教育專線（2833 0111）、中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於酷熱天氣警告生效時，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
-酷熱天氣警告已發出,2025-07-09 06:45,2025-07-09 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900140.htm,"電台及電視台當值宣布員注意：
+Very Hot Weather Warning issued,2025-07-09 06:45,2025-07-09 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/09/P2025070900141.htm,"Attention TV/radio announcers:
 
-請盡速播出下列特別報告：
+Please broadcast the following as soon as possible:
 
-天文台已發出酷熱天氣警告。
+The Hong Kong Observatory has issued the Very Hot Weather Warning.
 
-預防中暑，要避免長時間在戶外活動。
+To prevent heat stroke, avoid prolonged activities outdoors.
 
-如果要在戶外活動或工作，最好戴寬邊帽，穿淺色、寬鬆的衣服，盡量留在蔭涼的地方。
+If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
 
-要充分喝水，但避免喝含咖啡因或酒精的飲品。
+Drink plenty of water, and avoid beverages containing caffeine or alcohol.
 
-如有不適，要盡快看醫生。"
+If you feel sick, consult a doctor right away."
 "Guangdong, Hong Kong and Macao hold ""open to inclusive, progress together"" joint press conference for NG, NGD and NSOG in Guangzhou (with photos)",2025-07-08 23:00,2025-07-08 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800759.htm,"âThe Guangdong Provincial Executive Committees for the 15th National Games (NG), the 12th National Games for Persons with Disabilities (NGD) and the 9th National Special Olympic Games (NSOG), the National Games Coordination Office (Hong Kong) (NGCO) of the Hong Kong Special Administrative Region Government and the Preparatory Office for the 15th NG, 12th NGD and 9th NSOG in Macao (Preparatory Office in Macao) today (July 8) held a press conference on the topic of ""open to inclusive, progress together"" in Guangzhou to introduce the details of preparation progress for the 15th NG, 12th NGD and 9th NSOG, and the upcoming operational work plan among the three places.
 
   âThe Director of the Office of the Organising Committee of the 15th NG, 12th NGD and 9th NSOG and Deputy Secretary-General of the People's Government of Guangdong Province, Mr Huang Mingzhong; the Head of the NGCO, Mr Yeung Tak-keung; and the Head of the Preparatory Office in Macao, Mr Pun Weng-kun, addressed the conference, highlighting the collaborative progress of the three places. Hong Kong cyclist Wong Kam-po and Macao martial arts athlete Li Yi also shared their aspirations.
@@ -2177,7 +2470,7 @@ Mr Chan will continue his visit to Seoul tomorrow (July 9), including attending 
 行政長官會同行政會議批准，採用「鐵路加物業」模式向港鐵公司批出錦上路站第二期、粉嶺北第13區（東）及第16區、古洞北第22區（東）、第26區（西）、第14區及第15區，和新田第4D區、第6A區及第2A區的用地作住宅及商業用途發展，將來會從按「設有鐵路」基礎評定的十足市值地價中，扣除一筆總數為390億5,000萬元的固定總額（按付款當日價格計算），作為對港鐵公司推展北環線項目第一部分的財務資助。
 
 政府今日與港鐵公司簽訂的第一部分項目協議，會立即啓動較成熟和較迫切的工程，包括北環線主線當中由錦上路站通往牛潭尾車廠連接隧道和由新田站通往古洞站的兩段土木及結構工程，同時要求港鐵公司同步進行北環線支線的詳細規劃及設計，包括環境評估和鐵路方案刊憲等法定程序，並爭取以最快的速度完成。當相關法定程序完成後，便會盡快簽訂第二部分項目協議落實餘下的工程和營運安排。"
-Chief Executive in Council approves financial arrangement for Part 1 of Northern Link Project (with photo),2025-07-08 19:08,2025-07-08 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800440.htm,"The Chief Executive in Council approved today (July 8) the financial arrangement for Part 1 of the Northern Link (NOL) Project. The Transport and Logistics Bureau and the MTR Corporation Limited (MTRCL) have executed the Part 1 Project Agreement (PA) subsequently.
+Chief Executive in Council approves financial arrangement for Part 1 of Northern Link Project,2025-07-08 19:08,2025-07-08 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800440.htm,"The Chief Executive in Council approved today (July 8) the financial arrangement for Part 1 of the Northern Link (NOL) Project. The Transport and Logistics Bureau and the MTR Corporation Limited (MTRCL) have executed the Part 1 Project Agreement (PA) subsequently.
 
 The NOL Project is a key transport infrastructure in support of the future development of Hong Kong. The NOL Main Line would become the public transportation backbone for multiple new development areas in the Northern Metropolis, providing efficient and reliable railway services to meet the transport demand from new population along the railway alignment. The NOL Spur Line, which is being taken forward together with Shenzhen through the Task Force for Hong Kong-Shenzhen Co-operation on Cross-Boundary Railway Infrastructure, would be a cross-boundary bifurcation of the NOL linking the metro networks of Hong Kong and Shenzhen, connecting to the new Huanggang Port through convenient co-location clearance arrangements and facilitating Hong Kong's better integration into the national development.
 
@@ -2196,7 +2489,7 @@ The Government, supported by an independent checking consultant, has critically 
 The Chief Executive in Council approved the grant of sites at Kam Sheung Road Station Phase 2; Fanling North Area 13 (East) and Area 16; Kwu Tung North Area 22 (East), Area 26 (West), Area 14 and Area 15; as well as San Tin Area 4D, Area 6A and Area 2A to the MTRCL for residential and commercial development under the ""Rail-plus-Property"" model. A total fixed lump sum of $39.05 billion (in money-of-the-day prices) would be deducted from the full market value land premium of the sites assessed on a ""with-railway"" basis in the future as funding support to the MTRCL in implementing Part 1 of the NOL Project.
 
 The execution of the Part 1 PA between the Government and the MTRCL today would immediately kick-start works that are more ready and time-critical, including the civil and structural works of two sections of the NOL Main Line from the Kam Sheung Road Station to the intersection with the approach tunnels to Ngau Tam Mei Depot and from the San Tin Station to the Kwu Tung Station. The MTRCL is required to carry out the detailed planning and design of the NOL Spur Line simultaneously, including statutory procedures relating to the environmental impact assessment and railway scheme gazettal, and strive for completion as early as possible. The Part 2 PA would be executed to finalise the arrangements for the remaining works and operation as soon as possible after completion of the relevant statutory procedures."
-Chief Executive in Council approves financial arrangement for Part 1 of Northern Link Project,2025-07-08 19:08,2025-07-08 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800440.htm,"The Chief Executive in Council approved today (July 8) the financial arrangement for Part 1 of the Northern Link (NOL) Project. The Transport and Logistics Bureau and the MTR Corporation Limited (MTRCL) have executed the Part 1 Project Agreement (PA) subsequently.
+Chief Executive in Council approves financial arrangement for Part 1 of Northern Link Project (with photo),2025-07-08 19:08,2025-07-08 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800440.htm,"The Chief Executive in Council approved today (July 8) the financial arrangement for Part 1 of the Northern Link (NOL) Project. The Transport and Logistics Bureau and the MTR Corporation Limited (MTRCL) have executed the Part 1 Project Agreement (PA) subsequently.
 
 The NOL Project is a key transport infrastructure in support of the future development of Hong Kong. The NOL Main Line would become the public transportation backbone for multiple new development areas in the Northern Metropolis, providing efficient and reliable railway services to meet the transport demand from new population along the railway alignment. The NOL Spur Line, which is being taken forward together with Shenzhen through the Task Force for Hong Kong-Shenzhen Co-operation on Cross-Boundary Railway Infrastructure, would be a cross-boundary bifurcation of the NOL linking the metro networks of Hong Kong and Shenzhen, connecting to the new Huanggang Port through convenient co-location clearance arrangements and facilitating Hong Kong's better integration into the national development.
 
@@ -2259,15 +2552,6 @@ Eliza (Senior Advisor of Deloitte China Dr Eliza Chan), Duncan (Legislative Coun
 陳茂波晚上與韓國數字資產行業的領袖共進晚餐，分享香港在數字資產領域的發展及機遇，並歡迎當地業界更積極參與香港市場，共同探索及開拓更多數字資產的應用及發展。
 
 陳茂波明日（七月九日）會繼續在首爾的訪問行程，包括出席一場關於香港和韓國兩地資本市場的研討會，以及由香港駐東京經濟貿易辦事處和韓國大韓商工會議所共同舉辦的商務午餐會，向韓國金融和工商各界介紹香港的新優勢和新機遇。"
-政務司副司長在立法會經濟發展事務委員會會議就發展旅遊熱點開場發言（只有中文）,2025-07-08 18:38,2025-07-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800662.htm,"以下是政務司副司長卓永興今日（七月八日）在立法會經濟發展事務委員會會議就發展旅遊熱點的開場發言：
-
-行政長官在去年的《施政報告》宣布成立發展旅遊熱點工作組，由我擔任組長，並由文化體育及旅遊局局長擔任副組長。工作組的目標是希望加速發掘、推動旅遊熱點項目，透過不同政府單位、組織和持份者的協作，加快項目的起動，豐富香港的旅遊選項、增加香港作為旅遊城市的吸引力。
-
-工作組自成立以來，收集了社會各界不同意見，並審視和討論了多個方案。經考慮後，我們在今年五月二十日公布九個在短期內推出的旅遊熱點項目，分別為：香港工業品牌旅遊、維園市集、添馬紫花風鈴木及簕杜鵑園、特色社區之香港龍城深度遊、特色社區之舊城中環深度遊、開放舊油麻地警署、紀律先鋒巡禮、「四山」旅遊及發展前紅磡鐵路貨運碼頭。
-
-上述項目涵蓋的種類包括工業遊、文化遊、美景遊、深度遊、「打卡」遊、生態遊等，地理上則分布港九新界，體現「香港無處不旅遊」的特色。九個項目中，我們預計七個項目可於今年內推出。
-
-由於九個項目的內容已載述在文件第4至18段，我不擬重複講述。我和同事樂意聽取委員的意見和回答各位的提問。多謝主席。"
 ​財政司司長展開韓國首爾訪問行程（附圖）,2025-07-08 18:38,2025-07-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800770.htm,"財政司司長陳茂波今日（七月八日）下午抵達韓國首爾，展開訪問行程。
 
 他在抵埗後到訪韓國的中央銀行——韓國銀行，並與行長李昌鏞會面，就兩地、區域和全球的金融、貿易和經濟形勢、貨幣和利率政策、資金流向等議題交換意見。陳茂波在會面上向對方分享了香港的最新情況，特別是資金持續流入香港的金融體系，反映了國際投資者在當前國際形勢下對香港的信心。他指出，香港在「一國兩制」下維持自由開放的經濟和金融體系、聯繫匯率制度，香港內聯外通的獨特優勢和高度國際化的特色，正進一步匯聚更多國際參與者和資金到港，分享中國發展的機遇。香港的國際聯繫正不斷深化。
@@ -2279,6 +2563,15 @@ Eliza (Senior Advisor of Deloitte China Dr Eliza Chan), Duncan (Legislative Coun
 陳茂波晚上與韓國數字資產行業的領袖共進晚餐，分享香港在數字資產領域的發展及機遇，並歡迎當地業界更積極參與香港市場，共同探索及開拓更多數字資產的應用及發展。
 
 陳茂波明日（七月九日）會繼續在首爾的訪問行程，包括出席一場關於香港和韓國兩地資本市場的研討會，以及由香港駐東京經濟貿易辦事處和韓國大韓商工會議所共同舉辦的商務午餐會，向韓國金融和工商各界介紹香港的新優勢和新機遇。"
+政務司副司長在立法會經濟發展事務委員會會議就發展旅遊熱點開場發言（只有中文）,2025-07-08 18:38,2025-07-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800662.htm,"以下是政務司副司長卓永興今日（七月八日）在立法會經濟發展事務委員會會議就發展旅遊熱點的開場發言：
+
+行政長官在去年的《施政報告》宣布成立發展旅遊熱點工作組，由我擔任組長，並由文化體育及旅遊局局長擔任副組長。工作組的目標是希望加速發掘、推動旅遊熱點項目，透過不同政府單位、組織和持份者的協作，加快項目的起動，豐富香港的旅遊選項、增加香港作為旅遊城市的吸引力。
+
+工作組自成立以來，收集了社會各界不同意見，並審視和討論了多個方案。經考慮後，我們在今年五月二十日公布九個在短期內推出的旅遊熱點項目，分別為：香港工業品牌旅遊、維園市集、添馬紫花風鈴木及簕杜鵑園、特色社區之香港龍城深度遊、特色社區之舊城中環深度遊、開放舊油麻地警署、紀律先鋒巡禮、「四山」旅遊及發展前紅磡鐵路貨運碼頭。
+
+上述項目涵蓋的種類包括工業遊、文化遊、美景遊、深度遊、「打卡」遊、生態遊等，地理上則分布港九新界，體現「香港無處不旅遊」的特色。九個項目中，我們預計七個項目可於今年內推出。
+
+由於九個項目的內容已載述在文件第4至18段，我不擬重複講述。我和同事樂意聽取委員的意見和回答各位的提問。多謝主席。"
 粵港澳三地在廣州聯辦十五運會和殘特奧會「開放共享、攜手並進」新聞發布會（附圖）,2025-07-08 18:30,2025-07-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800736.htm,"第十五屆全國運動會（十五運會）和全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會（殘特奧會）廣東賽區執行委員會、香港特別行政區政府全國運動會香港賽區統籌辦公室（全運會統籌辦）和十五運會和殘特奧會澳門賽區籌備辦公室今日（七月八日）在廣州舉行以「開放共享、攜手並進」為主題的新聞發布會，介紹十五運會和殘特奧會粵港澳三地賽區的賽事籌備情況，以及未來工作計劃。
 
 十五運會組織委員會辦公室主任、廣東省人民政府副秘書長黃明忠、全運會統籌辦主任楊德強和十五運會及殘特奧會澳門賽區籌備辦公室主任潘永權分別在會上發言，分享粵港澳三地聯動辦會的階段成果。香港單車運動員黃金寶和澳門武術運動員李禕亦有出席簡介會，分享他們對十五運會的期盼。
@@ -2376,58 +2669,6 @@ Representative of Housing Department
 Representative of Leisure and Cultural Services Department
 
 * New non-official members"
-與銀行有關的騙案通知,2025-07-08 18:18,2025-07-08 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800757.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
-
-
-
-
-銀行
-騙案類別
-
-
-中信銀行（國際）有限公司
-欺詐網站及網上銀行登入畫面
-
-
-富邦銀行（香港）有限公司
-欺詐網站及網上銀行登入畫面
-
-
-東亞銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-上海商業銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-創興銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-渣打銀行（香港）有限公司
-欺詐網站及網上銀行登入畫面
-
-
-大新銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-星展銀行（香港）有限公司
-欺詐網站及網上銀行登入畫面
-
-
-南洋商業銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-
-
-金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
-
-任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 Scam alert related to banks,2025-07-08 18:18,2025-07-08 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800755.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
@@ -2480,21 +2721,58 @@ Fraudulent website and internet banking login screen
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
-九龍醫院耳念珠菌個案組群最新公布,2025-07-08 18:06,2025-07-08 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800743.htm,"下稿代醫院管理局發出：
+與銀行有關的騙案通知,2025-07-08 18:18,2025-07-08 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800757.htm,"下稿代香港金融管理局發出︰
 
-九龍醫院發言人就早前公布有病人帶有耳念珠菌，今日（七月八日）有以下最新公布：
-
-經接觸追蹤調查，本院再發現康復及延續護理病房多一名85歲女病人帶有耳念珠菌但無感染徵狀。該名病人早前已經出院。
-
-醫院會根據既定指引，繼續對病人的緊密接觸者展開追蹤篩查，並已加強執行下列各項感染控制措施，以防止耳念珠菌散播：
+香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
 
 
-徹底清潔及消毒相關病房；
-加強病人入院篩查及環境篩查；及
-嚴格執行接觸傳播防護措施，加強員工及病人手部衞生。
 
 
-醫院會繼續加強執行感染控制措施，並密切留意有關病房的情況。本院已將有關個案呈報醫院管理局總辦事處及衞生署衞生防護中心作出跟進。"
+銀行
+騙案類別
+
+
+中信銀行（國際）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+富邦銀行（香港）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+東亞銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+上海商業銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+創興銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+渣打銀行（香港）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+大新銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+星展銀行（香港）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+南洋商業銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+
+
+金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
+
+任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 Update on cluster of Candida auris cases in Kowloon Hospital,2025-07-08 18:06,2025-07-08 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800750.htm,"The following is issued on behalf of the Hospital Authority:
 
 Regarding an earlier announcement on Candida auris carrier cases, the spokesperson for Kowloon Hospital gave the following update today (July 8):
@@ -2510,19 +2788,27 @@ application of stringent contact precautions and enhanced hand hygiene of staff 
 
 
 âThe hospital will continue the enhanced infection control measures and closely monitor the situation of the ward concerned. The case has been reported to the Hospital Authority Head Office and the Centre for Health Protection of the Department of Health for necessary follow up."
+九龍醫院耳念珠菌個案組群最新公布,2025-07-08 18:06,2025-07-08 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800743.htm,"下稿代醫院管理局發出：
+
+九龍醫院發言人就早前公布有病人帶有耳念珠菌，今日（七月八日）有以下最新公布：
+
+經接觸追蹤調查，本院再發現康復及延續護理病房多一名85歲女病人帶有耳念珠菌但無感染徵狀。該名病人早前已經出院。
+
+醫院會根據既定指引，繼續對病人的緊密接觸者展開追蹤篩查，並已加強執行下列各項感染控制措施，以防止耳念珠菌散播：
+
+
+徹底清潔及消毒相關病房；
+加強病人入院篩查及環境篩查；及
+嚴格執行接觸傳播防護措施，加強員工及病人手部衞生。
+
+
+醫院會繼續加強執行感染控制措施，並密切留意有關病房的情況。本院已將有關個案呈報醫院管理局總辦事處及衞生署衞生防護中心作出跟進。"
 運輸署署長對一名員工離世深表哀痛,2025-07-08 18:01,2025-07-08 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800701.htm,"運輸署署長李頌恩今日（七月八日）對轄下一名文書助理遽然離世表示非常哀痛，並向其家屬致以最深切慰問。部門會盡力為家屬提供適切協助。
 
 今日上午，該名員工在中環海港政府大樓的辦事處暈倒，隨即被送往律敦治醫院，其後不治。警方正調查事件，運輸署會全力配合。"
 C for T deeply grieved by passing of staff member,2025-07-08 18:01,2025-07-08 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800702.htm,"  The Commissioner for Transport, Ms Angela Lee, today (July 8) expressed profound sadness at the sudden passing of a Clerical Assistant of the Transport Department (TD) and extended her deepest condolences to the family of the deceased. The TD will strive to provide assistance to the family as appropriate.
 
   This morning, the staff member collapsed at an office in the Harbour Building, Central, and was rushed to Ruttonjee Hospital, but passed away later. Police investigations into the incident are underway and the TD will render full assistance."
-Agenda of tomorrow's LegCo meeting revised,2025-07-08 17:40,2025-07-08 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800713.htm,"The following is issued on behalf of the Legislative Council Secretariat:
-
-  The agenda of the Legislative Council (LegCo) meeting, scheduled for tomorrow (July 9) at 11am in the Chamber of the LegCo Complex, has been revised.
-
-  The Legislative Council (Powers and Privileges) (Amendment) Bill 2025 will be introduced into the Council for the First Reading and the Second Reading. The Second Reading debate on the Bill will be adjourned.
-
-  For the latest agenda items of tomorrow's LegCo meeting, please refer to the LegCo Website: www.legco.gov.hk/yr2025/english/counmtg/agenda/cm20250709.htm."
 明日立法會會議議程已作修訂,2025-07-08 17:40,2025-07-08 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800710.htm,"下稿代立法會秘書處發出：
 
 立法會明日（七月九日）上午十一時在立法會綜合大樓會議廳舉行的會議，議程已作修訂。
@@ -2530,6 +2816,13 @@ Agenda of tomorrow's LegCo meeting revised,2025-07-08 17:40,2025-07-08 17:45,Eng
 《2025年立法會（權力及特權）（修訂）條例草案》將於會議上作首讀和二讀。有關的二讀辯論將會中止待續。
 
 有關明日立法會會議的最新議程，請瀏覽立法會網頁：www.legco.gov.hk/yr2025/chinese/counmtg/agenda/cm20250709.htm。"
+Agenda of tomorrow's LegCo meeting revised,2025-07-08 17:40,2025-07-08 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800713.htm,"The following is issued on behalf of the Legislative Council Secretariat:
+
+  The agenda of the Legislative Council (LegCo) meeting, scheduled for tomorrow (July 9) at 11am in the Chamber of the LegCo Complex, has been revised.
+
+  The Legislative Council (Powers and Privileges) (Amendment) Bill 2025 will be introduced into the Council for the First Reading and the Second Reading. The Second Reading debate on the Bill will be adjourned.
+
+  For the latest agenda items of tomorrow's LegCo meeting, please refer to the LegCo Website: www.legco.gov.hk/yr2025/english/counmtg/agenda/cm20250709.htm."
 金管局關於離岸人民幣債券回購業務的優化安排,2025-07-08 17:15,2025-07-08 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800614.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（七月八日）公布有關離岸人民幣債券回購業務（註一）的優化安排，以進一步便利「債券通」（北向通）投資者參與離岸人民幣債券回購業務。具體優化措施包括：
@@ -3388,33 +3681,6 @@ Effective Exchange Rate Index,2025-07-08 16:00,2025-07-08 16:15,Eng,gia,https://
 過往，品牌是口碑；今天，品牌是體驗；明天，品牌將是創新與科技的結合。我感謝主辦機構對推動品牌發展的不懈努力，特區政府會與各位繼續攜手合作，通過品牌建設說好中國故事，說好香港故事。
 
 最後，我祝願今天的大會圓滿成功，各位工作順利。謝謝大家。"
-​行政長官在香港首屆世界品牌大會致辭（只有中文）（附短片）,2025-07-08 15:54,2025-07-08 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800634.htm,"以下是行政長官李家超今日（七月八日）出席香港首屆世界品牌大會的致辭：
-
-尊敬的李永勝副特派員（中華人民共和國外交部駐香港特別行政區特派員公署副特派員）、蔡冠深主席（國際品牌科學院董事會主席、粵港澳大灣區企業家聯盟主席）、各位嘉賓、各位朋友：
-
-大家好！我很高興今天與各位聚首一堂，共同見證香港首屆世界品牌大會開幕，同時慶祝國際品牌科學院正式落戶香港。
-
-習近平主席強調國家必須因地制宜發展新質生產力，多次對品牌建設作出重要指示，包括要推動：「中國製造」向「中國創造」轉變、「中國速度」向「中國質量」轉變、「中國產品」向「中國品牌」轉變，打造更多叫得響的中國品牌。
-
-品牌超越商業機構的商標符號，更是承載意念的文化圖騰。當前，保護主義破壞環球經貿秩序，世界正重新構建經濟新格局。國家企業和機構推出國際知名的品牌，可以展現中國企業的創新能力和市場優勢，更能讓世界了解國家發展新質生產力的堅定決心和雄厚實力。
-
-國家「十四五」規劃提出要開展中國品牌創建行動，保護發展中華老字號，提升自主品牌影響力和競爭力，並率先在消費品領域培育一批高端品牌。
-
-今年是「十四五」規劃收官之年。幾年以來，國家在服裝、家庭用品、運動用品等傳統產業推陳出新，在創科領域發展更是一日千里，在通訊設備、新能源汽車，以至無人機等表現都讓世界矚目，成功打造出一個又一個國際知名品牌，很多更處於全球市場的領導地位。
-
-這些響噹噹的中國品牌說明，成功建立自家品牌，一方面能為企業增值和提高利潤，推動國家經濟持續發展，同時更可以提升全社會的創新文化，鼓勵產業通過發展品牌，推出更有特色的產品，提升競爭力。
-
-香港中西文化薈萃，除了擁有很多自身發展的國際知名品牌，更一直都是全球品牌匯聚的重要平台。多年以來，很多內地新興消費品牌，包括特色餐飲、影視娛樂、專業服務，以至新能源產業，都首選香港作為企業「出海」的第一站。
-
-香港在「一國兩制」下擁有「背靠祖國、聯通世界」的獨特優勢，我們與內地山水相連、同根同源，更具備源遠流長的法治傳統、國際接軌的監管制度、自由方便的經濟環境、高效專業的金融服務、多元包容的文化氛圍，聚集環球頂級機構和中外旅客，可以發揮「超級聯繫人」和「超級增值人」的角色，服務更多內地品牌走向全球，為品牌強國建設作出貢獻。
-
-特區政府積極維護香港健全有效的保護知識產權制度，保障專利、版權及商標等，打造香港成為區域知識產權貿易中心，為內地和海外的品牌交易提供更好的監管環境。
-
-同時，特區政府全力支援香港企業開發自家品牌、擴大業務範圍。其中，我們通過「發展品牌、升級轉型及拓展內銷市場的專項基金」資助企業品牌擁抱創新，開展更廣闊市場。香港貿易發展局舉辦的「香港好物節」和不同展覽推廣活動，在線上線下全方位推介香港優質的商品和服務。
-
-過往，品牌是口碑；今天，品牌是體驗；明天，品牌將是創新與科技的結合。我感謝主辦機構對推動品牌發展的不懈努力，特區政府會與各位繼續攜手合作，通過品牌建設說好中國故事，說好香港故事。
-
-最後，我祝願今天的大會圓滿成功，各位工作順利。謝謝大家。"
 ​行政長官在香港首屆世界品牌大會致辭（只有中文）（附圖／短片）,2025-07-08 15:54,2025-07-08 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800634.htm,"以下是行政長官李家超今日（七月八日）出席香港首屆世界品牌大會的致辭：
 
 尊敬的李永勝副特派員（中華人民共和國外交部駐香港特別行政區特派員公署副特派員）、蔡冠深主席（國際品牌科學院董事會主席、粵港澳大灣區企業家聯盟主席）、各位嘉賓、各位朋友：
@@ -3442,17 +3708,33 @@ Effective Exchange Rate Index,2025-07-08 16:00,2025-07-08 16:15,Eng,gia,https://
 過往，品牌是口碑；今天，品牌是體驗；明天，品牌將是創新與科技的結合。我感謝主辦機構對推動品牌發展的不懈努力，特區政府會與各位繼續攜手合作，通過品牌建設說好中國故事，說好香港故事。
 
 最後，我祝願今天的大會圓滿成功，各位工作順利。謝謝大家。"
-Inspection of aquatic products imported from Japan,2025-07-08 15:39,2025-07-08 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800601.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+​行政長官在香港首屆世界品牌大會致辭（只有中文）（附短片）,2025-07-08 15:54,2025-07-08 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800634.htm,"以下是行政長官李家超今日（七月八日）出席香港首屆世界品牌大會的致辭：
 
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+尊敬的李永勝副特派員（中華人民共和國外交部駐香港特別行政區特派員公署副特派員）、蔡冠深主席（國際品牌科學院董事會主席、粵港澳大灣區企業家聯盟主席）、各位嘉賓、各位朋友：
 
-  From noon on July 7 to noon today (July 8), the CFS conducted tests on the radiological levels of 156 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+大家好！我很高興今天與各位聚首一堂，共同見證香港首屆世界品牌大會開幕，同時慶祝國際品牌科學院正式落戶香港。
 
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+習近平主席強調國家必須因地制宜發展新質生產力，多次對品牌建設作出重要指示，包括要推動：「中國製造」向「中國創造」轉變、「中國速度」向「中國質量」轉變、「中國產品」向「中國品牌」轉變，打造更多叫得響的中國品牌。
 
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+品牌超越商業機構的商標符號，更是承載意念的文化圖騰。當前，保護主義破壞環球經貿秩序，世界正重新構建經濟新格局。國家企業和機構推出國際知名的品牌，可以展現中國企業的創新能力和市場優勢，更能讓世界了解國家發展新質生產力的堅定決心和雄厚實力。
 
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 149 280 samples of food imported from Japan (including 97 931 samples of aquatic and related products, seaweeds and sea salt) and 34 042 samples of local catch respectively. All the samples passed the tests."
+國家「十四五」規劃提出要開展中國品牌創建行動，保護發展中華老字號，提升自主品牌影響力和競爭力，並率先在消費品領域培育一批高端品牌。
+
+今年是「十四五」規劃收官之年。幾年以來，國家在服裝、家庭用品、運動用品等傳統產業推陳出新，在創科領域發展更是一日千里，在通訊設備、新能源汽車，以至無人機等表現都讓世界矚目，成功打造出一個又一個國際知名品牌，很多更處於全球市場的領導地位。
+
+這些響噹噹的中國品牌說明，成功建立自家品牌，一方面能為企業增值和提高利潤，推動國家經濟持續發展，同時更可以提升全社會的創新文化，鼓勵產業通過發展品牌，推出更有特色的產品，提升競爭力。
+
+香港中西文化薈萃，除了擁有很多自身發展的國際知名品牌，更一直都是全球品牌匯聚的重要平台。多年以來，很多內地新興消費品牌，包括特色餐飲、影視娛樂、專業服務，以至新能源產業，都首選香港作為企業「出海」的第一站。
+
+香港在「一國兩制」下擁有「背靠祖國、聯通世界」的獨特優勢，我們與內地山水相連、同根同源，更具備源遠流長的法治傳統、國際接軌的監管制度、自由方便的經濟環境、高效專業的金融服務、多元包容的文化氛圍，聚集環球頂級機構和中外旅客，可以發揮「超級聯繫人」和「超級增值人」的角色，服務更多內地品牌走向全球，為品牌強國建設作出貢獻。
+
+特區政府積極維護香港健全有效的保護知識產權制度，保障專利、版權及商標等，打造香港成為區域知識產權貿易中心，為內地和海外的品牌交易提供更好的監管環境。
+
+同時，特區政府全力支援香港企業開發自家品牌、擴大業務範圍。其中，我們通過「發展品牌、升級轉型及拓展內銷市場的專項基金」資助企業品牌擁抱創新，開展更廣闊市場。香港貿易發展局舉辦的「香港好物節」和不同展覽推廣活動，在線上線下全方位推介香港優質的商品和服務。
+
+過往，品牌是口碑；今天，品牌是體驗；明天，品牌將是創新與科技的結合。我感謝主辦機構對推動品牌發展的不懈努力，特區政府會與各位繼續攜手合作，通過品牌建設說好中國故事，說好香港故事。
+
+最後，我祝願今天的大會圓滿成功，各位工作順利。謝謝大家。"
 日本進口水產的檢測情況,2025-07-08 15:39,2025-07-08 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800600.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -3464,3 +3746,14 @@ Inspection of aquatic products imported from Japan,2025-07-08 15:39,2025-07-08 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共149 280個日本進口食物樣本（包括97 931個水產及其製品、海藻及海鹽樣本）及共34 042個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2025-07-08 15:39,2025-07-08 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/08/P2025070800601.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on July 7 to noon today (July 8), the CFS conducted tests on the radiological levels of 156 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 149 280 samples of food imported from Japan (including 97 931 samples of aquatic and related products, seaweeds and sea salt) and 34 042 samples of local catch respectively. All the samples passed the tests."
