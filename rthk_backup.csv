@@ -1,4 +1,17 @@
 title,date,summary,scrape_time,section,source,url,news_content
+內地6月汽車銷量按年升約14%　新能源汽車升約27%,2025-07-10 12:04,,2025-07-10 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812740-20250710.htm,"中國汽車工業協會公布，內地6月汽車銷量290.4萬輛，按月增長8.1%，按年亦升13.8%。
+
+上月新能源汽車銷量132.9萬輛，按年升26.7%，佔新車總銷量約46%。
+
+上半年汽車總銷量累計1565.3萬輛，按年升11.4%。新能源汽車銷量亦升40.3%至693.7萬輛，佔總銷量逾44%。"
+教育局宣布所有日校明日停課,2025-07-10 11:58,,2025-07-10 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812739-20250710.htm, 
+港元1個月拆息回落至1.033厘　結束4日升勢,2025-07-10 11:57,,2025-07-10 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812738-20250710.htm,"港元拆息普遍向下。
+
+樓按相關的1個月拆息回落約7個基點，跌至1.033厘，結束4日升勢。
+
+反映銀行資金成本的3個月拆息微跌至1.8厘，1年期拆息跌穿2.9厘。
+
+至於隔夜拆息連升兩日，升至0.071厘，但單日升幅輕微。"
 內地股市半日個別發展　滬股升近0.4%　創指跌0.3%,2025-07-10 11:50,,2025-07-10 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812736-20250710.htm,"內地股市半日走勢個別發展。光伏、多元金融及稀土股上升；消費電子、軍工及人型機器人概念股向下。
 
 上證綜合指數半日收市報3505點，升12點，升幅0.36%。
@@ -11,6 +24,31 @@ title,date,summary,scrape_time,section,source,url,news_content
 水務署說，懷疑有關微粒是源自供水系統上游的公共水管工程完成後，在重啟泵水系統的過程中，揚起系統內少量沉積物所致。署方會繼續監察屋苑內的水質情況及加強沖洗附近的公共水管，並正協助屋苑管理處清洗水缸；派員為嘉亨灣住戶提供沖洗水錶；於供應嘉亨灣的公共水管入水位完成加裝過濾設施。根據過往經驗，加裝濾網可有效阻隔沉積物微粒。
 
 水務署說，了解住戶對事件的關注，建議如食水在喉管內停留了一段時間或每天早上開啟水龍頭時，可將水龍頭開動片刻，待來水回復清澈才使用。另外，為確保市民安心，署方會繼續安排水箱以提供臨時供水。"
+Red rainstorm alert downgraded to amber warning,2025-07-10 11:33,,2025-07-10 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812732-20250710.htm,"The observatory downgraded a red rainstorm warning to an amber alert on Thursday, about an hour after the higher signal was issued.
+
+However, the forecaster warned that heavy downpours would persist as it issued the amber signal at 10.40am, meaning rain exceeding 30 millimetres in an hour ""has fallen or is expected to fall generally"" over Hong Kong. 
+
+""There will be flooding in some low-lying and poorly drained areas,"" it said. 
+
+""People who are likely to be affected should take necessary precautions to reduce their exposure to risk posed by the heavy rain and flooding. 
+
+""Heavy rain may bring about flash floods. People should stay away from watercourses. People who are likely to be affected by flooding should take necessary precautions to avoid losses.""
+
+The Education Bureau announced that classes at all afternoon schools would be suspended, while morning classes and whole-day schools should continue. 
+
+The Transport Department said it would, depending on actual traffic conditions, coordinate with public transport operators to make adjustments and arrange for emergency services. 
+
+There were two incidences of flooding along San Tin Highway as of 10am, according to the Drainage Services Department, which also deployed some 100 emergency response teams across the city. 
+
+The observatory first issued the amber rainstorm warning at 8.35am, before upgrading it to red an hour later. 
+
+The amber signal was also issued on Wednesday night and later replaced by a red signal before midnight. All warnings were cancelled at 1.40am on Thursday.
+
+The alerts came as the territory braced for tropical storm Danas, which moved southwest across eastern Guangdong. 
+
+""Under the influence of the remnant of Danas and the active southwest monsoon, there are heavy showers and squally thunderstorms over the coast of southern China and the northern part of the South China Sea,"" the forecaster said. 
+
+""Locally, heavy showers this morning brought about 50 millimetres of rainfall to many places, and rainfall even exceeded 70 millimetres over Lamma Island and the southern part of Lantau Island."""
 Forecaster replaces red rain alert with amber warning,2025-07-10 11:33,,2025-07-10 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812732-20250710.htm,"The observatory downgraded a red rainstorm warning to an amber alert on Thursday, about an hour after the higher signal was issued.
 
 However, the forecaster warned that heavy downpours would persist as it issued the amber signal at 10.40am, meaning rain exceeding 30 millimetres in an hour ""has fallen or is expected to fall generally"" over Hong Kong. 
@@ -189,10 +227,10 @@ Minutes released on Wednesday showed ""most participants"" at the Fed's meeting 
 深證成份指數報10607點，升25點，升幅0.24%。
 
 創業板指數報2195點，升10點，升幅0.47%。"
-人民幣兌美元中間價反彈至7.151　結束兩日跌勢,2025-07-10 09:24,,2025-07-10 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812708-20250710.htm,人民幣中間價結束兩連跌，報7.151兌1美元，比昨日中間價回升31點子。
 港股競價時段跌26點　科指跌約0.3%,2025-07-10 09:24,,2025-07-10 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812710-20250710.htm,"港股開市偏軟，恒生指數競價時段報23865點，跌26點，跌幅0.11%。
 
 科技指數報5218點，跌13點，跌幅0.26%。"
+人民幣兌美元中間價反彈至7.151　結束兩日跌勢,2025-07-10 09:24,,2025-07-10 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812708-20250710.htm,人民幣中間價結束兩連跌，報7.151兌1美元，比昨日中間價回升31點子。
 路政署：北環綫引入內地標準結合港鐵營運優勢達致強強聯手,2025-07-10 09:21,,2025-07-10 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812709-20250710.htm,"港鐵北環綫主綫及支綫項目，計劃引入國家鐵路施工標準。路政署鐵路拓展處副處長施鍵恒表示，由於鐵路涉及跨境元素，引入內地標準、做法及資源，再結合港鐵的營運優勢，希望達致「強強聯手」。他強調引入國標後，由於港鐵有一套服務準則，乘客體驗與現有鐵路線將不會有分別。
 
 施鍵恒在本台節目《千禧年代》表示，內地鐵路標準及基建技術都處於全球領導地位，無論在混凝土結構、鋼鐵結構、施工規範等都適用於香港鐵路項目。不過他指出，即使引入內地標準，但亦會因應香港環境情況，如風力、沉降等作出合適調整，融入兩地標準，成為一套應用於香港鐵路項目的新標準。他又提到，內地與香港的標準當中的要求分別不大，都是以表現為目標。
@@ -216,19 +254,6 @@ Minutes released on Wednesday showed ""most participants"" at the Fed's meeting 
 
 報道說，日本目標是在下月1日前，在日本與美國舉行首次部長級關稅談判。"
 台股初段靠穩,2025-07-10 09:03,,2025-07-10 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812704-20250710.htm,台灣股市初段靠穩，加權指數較早時報22575點，升48點，升幅0.22%。
-Second Amber rain warning issued in 7 hours,2025-07-10 09:02,,2025-07-10 09:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812703-20250710.htm,"The Observatory issued the Amber Rainstorm Warning on Thursday morning, less than seven hours after the signal was lowered.
-
-It said at 8:35am that heavy rain exceeding 30 millimetres in an hour ""has fallen or is expected to fall generally"" over Hong Kong.
-
-The amber signal was also issued on Wednesday night, and later upgraded to red before midnight before all warnings were cancelled at 1:40am on Thursday.
-
-The forecaster warned of flooding in some low-lying and poorly drained areas, and urged those who are likely to be affected to take necessary precautions.
-
-The warning came as the territory braced for the impact brought by the remnant of tropical cyclone Danas, which moved southwest across eastern Guangdong, possibly skirting past Guangzhou.
-
-An active southwest monsoon to its south will generally affect the vicinity of the Pearl River Estuary on Thursday and Friday, the Observatory added, bringing torrential rain and squally thunderstorms over the region. 
-
-It will consider issuing the Strong Monsoon Signal depending on the local wind change."
 Second red rainstorm warning issued on Thursday,2025-07-10 09:02,,2025-07-10 09:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812703-20250710.htm,"The Observatory issued the Amber Rainstorm Warning on Thursday morning, before upgrading it to Red an hour later.
 
 It said at 9:36am that heavy rain exceeding 50 millimetres in an hour ""has fallen or is expected to fall generally"" over Hong Kong.
@@ -244,6 +269,19 @@ An active southwest monsoon to its south will generally affect the vicinity of t
 It will consider issuing the Strong Monsoon Signal depending on the local wind change.
 _____________________________
 Last updated: 2025-07-10 HKT 09:40"
+Second Amber rain warning issued in 7 hours,2025-07-10 09:02,,2025-07-10 09:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812703-20250710.htm,"The Observatory issued the Amber Rainstorm Warning on Thursday morning, less than seven hours after the signal was lowered.
+
+It said at 8:35am that heavy rain exceeding 30 millimetres in an hour ""has fallen or is expected to fall generally"" over Hong Kong.
+
+The amber signal was also issued on Wednesday night, and later upgraded to red before midnight before all warnings were cancelled at 1:40am on Thursday.
+
+The forecaster warned of flooding in some low-lying and poorly drained areas, and urged those who are likely to be affected to take necessary precautions.
+
+The warning came as the territory braced for the impact brought by the remnant of tropical cyclone Danas, which moved southwest across eastern Guangdong, possibly skirting past Guangzhou.
+
+An active southwest monsoon to its south will generally affect the vicinity of the Pearl River Estuary on Thursday and Friday, the Observatory added, bringing torrential rain and squally thunderstorms over the region. 
+
+It will consider issuing the Strong Monsoon Signal depending on the local wind change."
 勞工處提醒僱主及僱員注意在暴雨下工作時電力安全,2025-07-10 08:58,,2025-07-10 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812702-20250710.htm,"天文台發出黃色暴雨警告信號，勞工處提醒僱主及承建商，當僱員在進行電力工作或處理電力作業裝置時，須採取所需的工作安排及適當安全措施，以保障僱員的工作安全。
 
 發言人表示，僱主及承建商須盡量避免委派僱員在受暴雨天氣影響的地方進行電力工作，如電弧焊接工作，或處理電力作業裝置，應參考勞工處的《惡劣天氣及「極端情況」下工作守則》和《惡劣天氣下的工作安全指南》。即使在不受暴雨影響的地方進行電力工作或處理電力作業裝置，由於空氣較為潮濕，仍必須採取適當安全措施，以免發生觸電意外。
@@ -283,14 +321,14 @@ Trump issued letters to seven countries on Wednesday, calling for tariffs of 30 
 The European Union has said it could reach an outline trade agreement with the US in the coming days.
 
 The Dow Jones Industrial Average rose 0.49 percent to 44,458, the S&P 500 gained 0.61 percent to 6,263 and the Nasdaq Composite gained 0.95 percent to 20,611. (Reuters)"
-民安隊應對全運會等盛事活動積極招募人手　開發新平台簡化流程,2025-07-10 08:50,,2025-07-10 09:15,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812701-20250710.htm,"本港下半年將承辦全運會賽事、進行立法會換屆選舉及舉行各項盛事，民安隊表示，需要就此準備充足人手，正積極宣傳及招募，並在大專院校設置招募站，希望吸引到更多大專生加入，服務社會。
+民安隊招募人手支援全運會及立法會選舉　開發新平台簡化招募流程,2025-07-10 08:50,,2025-07-10 09:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812701-20250710.htm,"本港下半年將承辦全運會賽事、進行立法會換屆選舉及舉行各項盛事，民安隊表示，需要就此準備充足人手，正積極宣傳及招募，並在大專院校設置招募站，希望吸引到更多大專生加入，服務社會。
 
 民眾安全服務處首席行動及訓練主任鍾艷表示，民安隊的編制3700人，現時有約3000人，而每年有一定流失率，例如有隊員投考其他紀律部隊，又形容民安隊是加入紀律部隊的「搖籃」。
 
 鍾艷說在過去3年，每年平均有200至300名新隊員加入，希望招募到越多人越好。她表示，民安隊的隊員都是利用公餘時間服務社會，主要職責包括在發生緊急事故時提供支援，以及在大型活動協助維持秩序等。
 
 民眾安全服務處正開發新招募平台，透過一站式平台讓各類型申請人便捷完成申請程序，簡化招募及入隊流程，平台預計今年底至明年初，投入服務。"
-民安隊招募人手支援全運會及立法會選舉　開發新平台簡化招募流程,2025-07-10 08:50,,2025-07-10 09:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812701-20250710.htm,"本港下半年將承辦全運會賽事、進行立法會換屆選舉及舉行各項盛事，民安隊表示，需要就此準備充足人手，正積極宣傳及招募，並在大專院校設置招募站，希望吸引到更多大專生加入，服務社會。
+民安隊應對全運會等盛事活動積極招募人手　開發新平台簡化流程,2025-07-10 08:50,,2025-07-10 09:15,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812701-20250710.htm,"本港下半年將承辦全運會賽事、進行立法會換屆選舉及舉行各項盛事，民安隊表示，需要就此準備充足人手，正積極宣傳及招募，並在大專院校設置招募站，希望吸引到更多大專生加入，服務社會。
 
 民眾安全服務處首席行動及訓練主任鍾艷表示，民安隊的編制3700人，現時有約3000人，而每年有一定流失率，例如有隊員投考其他紀律部隊，又形容民安隊是加入紀律部隊的「搖籃」。
 
@@ -516,15 +554,6 @@ The Transport Department said at midnight that due to flooding, all Yuen Long-bo
 即使在不受暴雨影響的地方進行電力工作或處理電力作業裝置，由於空氣較為潮濕，仍必須採取適當安全措施，以免發生觸電意外。僱員亦須與僱主或承建商合作，遵守安全指示及使用安全設備。
 
 如有任何有關職業安全及健康的問題，可致電2559 2297，與勞工處職業安全主任聯絡。"
-陳國基主持應對極端天氣會議　渠務署今晚檢查及清理容易水浸地點,2025-07-09 23:13,,2025-07-10 00:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812651-20250709.htm,"政務司司長陳國基主持應對極端天氣督導委員會會議，全面檢視並督導跨部門就颱風及暴雨襲港的整體準備和應變部署，並就未來兩天預計會出現的暴雨及狂風雷暴惡劣天氣作超前準備。政府呼籲市民保持警覺，惡劣天氣情況下遠離河道、斜坡等危險地方，停止所有水上活動，並繼續留意政府發放的最新消息。
-
-為應對可能出現的惡劣天氣，陳國基在會議上統籌協調各相關部門，包括渠務署、路政署、民政處等做好超前準備的工作。渠務署會於今晚為全港約240個容易因淤塞而引致水浸的地點進行特別檢查及清理的工作，路政署明日會就安裝在有較高水浸風險的行車及行人隧道水浸警告系統再次進行檢測，各區民政事務處已啓動相關應對工作，包括協調其他部門和機構加強防備。
-
-保安局轄下的緊急事故監察及支援中心將於明日下午五時起全面啓動，並制訂相應的應對方案和措施，各緊急救援部隊包括消防處、警務處、民眾安全服務隊及醫療輔助隊已做好各方面的應急準備。
-
-運輸署緊急事故交通協調中心會繼續每日24小時運作，並聯同公共運輸機構密切監察交通及運輸情況，及時向公眾發放有關緊急交通的資訊及公共運輸服務的安排。
-
-教育局會密切留意天氣情況，並按需要盡早公布有關學校上課及參加中學學位分配小六學生的註冊日的安排，讓家長和學生早作準備。"
 Observatory issues Amber rain warning,2025-07-09 23:13,,2025-07-09 23:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812652-20250709.htm,"The Hong Kong Observatory issued the Amber Rainstorm Warning Signal at 11pm on Wednesday, saying that widespread heavy rain may affect Hong Kong in a few hours.
 
 The signal comes as Tropical Cyclone Danas moves across Fujian. It is forecast to move southwest, weaken gradually, and enter Guangdong on Thursday.
@@ -536,6 +565,15 @@ The signal comes as Tropical Cyclone Danas moves across Fujian. It is forecast t
 It had said the weather would be ""relatively severe"" in the region under the combined effect of the torrential rain and rather strong southwest monsoon.
 
 Just days ago, Danas edged close to Hong Kong and prompted the issuance of the Standby Signal No 1."
+陳國基主持應對極端天氣會議　渠務署今晚檢查及清理容易水浸地點,2025-07-09 23:13,,2025-07-10 00:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812651-20250709.htm,"政務司司長陳國基主持應對極端天氣督導委員會會議，全面檢視並督導跨部門就颱風及暴雨襲港的整體準備和應變部署，並就未來兩天預計會出現的暴雨及狂風雷暴惡劣天氣作超前準備。政府呼籲市民保持警覺，惡劣天氣情況下遠離河道、斜坡等危險地方，停止所有水上活動，並繼續留意政府發放的最新消息。
+
+為應對可能出現的惡劣天氣，陳國基在會議上統籌協調各相關部門，包括渠務署、路政署、民政處等做好超前準備的工作。渠務署會於今晚為全港約240個容易因淤塞而引致水浸的地點進行特別檢查及清理的工作，路政署明日會就安裝在有較高水浸風險的行車及行人隧道水浸警告系統再次進行檢測，各區民政事務處已啓動相關應對工作，包括協調其他部門和機構加強防備。
+
+保安局轄下的緊急事故監察及支援中心將於明日下午五時起全面啓動，並制訂相應的應對方案和措施，各緊急救援部隊包括消防處、警務處、民眾安全服務隊及醫療輔助隊已做好各方面的應急準備。
+
+運輸署緊急事故交通協調中心會繼續每日24小時運作，並聯同公共運輸機構密切監察交通及運輸情況，及時向公眾發放有關緊急交通的資訊及公共運輸服務的安排。
+
+教育局會密切留意天氣情況，並按需要盡早公布有關學校上課及參加中學學位分配小六學生的註冊日的安排，讓家長和學生早作準備。"
 渠務署呼籲市民致電24小時渠務熱線報告街道水浸,2025-07-09 23:07,,2025-07-09 23:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812650-20250709.htm,渠務署呼籲市民，若發現街道水浸，請盡快致電24小時渠務熱線向該署報告，電話為2300 1110。
 黃色暴雨警告信號生效,2025-07-09 23:00,,2025-07-09 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812649-20250709.htm,天文台在晚上11時發出黃色暴雨警告信號。
 美國5月經修訂批發庫存按月下跌0.3%,2025-07-09 22:55,,2025-07-09 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812644-20250709.htm,"美國5月經修訂批發庫存為按月下跌0.3%，與初值及市場預期相同。
@@ -839,62 +877,6 @@ Other drivers said they accept the changes, saying some of the fines and charges
 現年57歲的武增是繼部長賀榮之後，現任司法部第二名女性領導，她於4名副部長之中排名第一。
 
 武增畢業於北京大學法律系，為全國人大憲法和法律委員會委員，上月辭去全國人大常委職務，亦被免去人大法工委副主任職務，她曾任基本法委員會委員。"
-"$8 Kowloon toll, higher fees and fines for drivers",2025-07-09 16:54,,2025-07-09 17:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812581-20250709.htm,"The government on Wednesday proposed setting a toll of $8 on a new Kowloon tunnel and raising fixed penalties on 20 traffic offences.
- 
-Last month, officials publicised plans to charge drivers $10 for using the Central Kowloon Bypass.
-
-The proposed toll level will effectively divert approximately 20 per cent of the overall traffic from saturated major roads in Kowloon, while reserving about 15 per cent of spare capacity of the Central Kowloon Bypass to accommodate future traffic growth. It will also recover nearly 80 per cent of basic operational costs, the Transport and Logistics Bureau said in a statement. 
-
-The spokesman said the bypass, connecting Yau Ma Tei and Kowloon Bay, will offer a faster option for motorists when it opens next year.
- 
-“If no toll is charged for the use of the Central Kowloon Bypass, it is expected that its utilisation rate will approach a saturation point shortly after its commissioning,” he said.  
-
-Tolls for Aberdeen and Shing Mun tunnels are proposed to be raised to $8 from $5 from September 21, with the spokesman pointing out that their toll fees had stayed at the same level for 34 years and that they were operating at a loss.  
- 
-The adjustments will have minimal impact on traffic and will allow the tunnels to achieve break-even in operations, the spokeman said.  
- 
-Apart from the proposed rise in the fixed penalty for illegal parking from $320 to $400, charges for 19 other traffic violations will be increased to up to $1,500. 
- 
-On the proposed increases, the spokesman said most charges for traffic violations had not been adjusted for 31 years, saying the deterrent effect has deteriorated over time due to inflation.  
- 
-Hourly charges for parking meters will also be doubled from $8 to $16, starting from September 28.
- 
-The government is also proposing a gradual five-phase increase in license fees for electric vehicles that will span six years.
-
-Following the change, electric vehicles will be charged based on their rated power rather than vehicle weight. 
-
-Currently, the annual license fee for all electric cars is about $1,100 on average. 
- 
-By March 2030, the fee for cars with fewer than 75 kilowatts would go up to $3,000, while those exceeding 225 kW would be charged $11,000.  
-
-There will be a four-month grace period for electric vehicles on the road when the adjustments begin in November."
-HK stocks slip amid China factory deflation worries,2025-07-09 16:54,,2025-07-09 17:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1812597-20250709.htm,"Mainland stocks ended lower on Wednesday, wiping out all intraday gains, due to worries over deepening factory deflation as firms cut prices amid weak demand. 
-
-In Hong Kong, the benchmark Hang Seng Index ended the day at 23,892.32, down 255.75 points or 1.06 percent. The Hang Seng China Enterprises index fell 1.28 percent to 8,597.27.
-
-Up north, the benchmark Shanghai Composite Index closed down 0.13 percent at 3,493.05 while the Shenzhen Component Index closed 0.06 percent lower at 10,581.80.
-
-The ChiNext Index, tracking China's Nasdaq-style board of growth enterprises, gained 0.16 percent to close at 2,184.67.
-
-China's producer deflation deepened to its worst level in almost two years in June as the economy grapples with uncertainty over a global trade war and subdued demand at home, piling pressure on policymakers to roll out more support measures.
-
-""Combined with the persistently negative GDP deflator, deflation remains a concern,"" said Lynn Song, chief economist for Greater China at ING.
-
-Citi analysts said in a note that they remain ""cautious on the inflation trajectory while waiting for more policy actions"".
-
-They added that further guidance from the upcoming Chinese Communist Party politburo meeting and action plans from the State Council and state planner could be worth monitoring.
-
-On the trade front, US President Donald Trump said said he would impose a 50 percent tariff on imported copper and soon introduce long-threatened levies on semiconductors and pharmaceuticals, broadening his trade war that has rattled markets worldwide.
-
-Trump also said trade talks have been going well with the European Union and China, though he added he is only days away from sending a tariff letter to the former.
-
-""We have had a really good relationship with China lately, and we're getting along with them very well. They've been very fair on our trade deal, honestly,"" Trump said, adding that he has been speaking regularly with President Xi Jinping.
-
-""It may boost market sentiment in the short term,"" said Deng Lijun, analyst, Huajin Securities.
-
-""The new wave of tariff increases did not involve China, and the United States had lifted export restrictions to China for chip design software developers and ethane, and Sino-U.S. trade tensions have eased in the short term,"" Deng said, adding that risk appetite for A-shares may rebound once Beijing and Washington reach a tariff deal.
-
-Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.42 percent, while Japan's Nikkei index closed up 0.33 percent. (Reuters/Xinhua)"
 HSI closes down more than 1pc,2025-07-09 16:54,,2025-07-09 19:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1812597-20250709.htm,"Stocks were mixed on Wednesday as investors assessed Donald Trump's latest tariff threats, while keeping an eye on trade talks after the US president warned he would not again extend a deadline to reach deals.
 
 In Hong Kong, the benchmark Hang Seng Index ended the day at 23,892, down 255 points or 1.06 percent. The Hang Seng China Enterprises index fell 1.28 percent to 8,597.
@@ -941,6 +923,62 @@ Following the change, electric vehicles will be charged based on their rated pow
 Currently, the annual licence fee for all electric cars is about HK$1,100 on average. 
  
 By March 2030, the fee for cars with fewer than 75 kilowatts would go up to HK$3,000, while those exceeding 225 kW would be charged HK11,000.  
+
+There will be a four-month grace period for electric vehicles on the road when the adjustments begin in November."
+HK stocks slip amid China factory deflation worries,2025-07-09 16:54,,2025-07-09 17:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1812597-20250709.htm,"Mainland stocks ended lower on Wednesday, wiping out all intraday gains, due to worries over deepening factory deflation as firms cut prices amid weak demand. 
+
+In Hong Kong, the benchmark Hang Seng Index ended the day at 23,892.32, down 255.75 points or 1.06 percent. The Hang Seng China Enterprises index fell 1.28 percent to 8,597.27.
+
+Up north, the benchmark Shanghai Composite Index closed down 0.13 percent at 3,493.05 while the Shenzhen Component Index closed 0.06 percent lower at 10,581.80.
+
+The ChiNext Index, tracking China's Nasdaq-style board of growth enterprises, gained 0.16 percent to close at 2,184.67.
+
+China's producer deflation deepened to its worst level in almost two years in June as the economy grapples with uncertainty over a global trade war and subdued demand at home, piling pressure on policymakers to roll out more support measures.
+
+""Combined with the persistently negative GDP deflator, deflation remains a concern,"" said Lynn Song, chief economist for Greater China at ING.
+
+Citi analysts said in a note that they remain ""cautious on the inflation trajectory while waiting for more policy actions"".
+
+They added that further guidance from the upcoming Chinese Communist Party politburo meeting and action plans from the State Council and state planner could be worth monitoring.
+
+On the trade front, US President Donald Trump said said he would impose a 50 percent tariff on imported copper and soon introduce long-threatened levies on semiconductors and pharmaceuticals, broadening his trade war that has rattled markets worldwide.
+
+Trump also said trade talks have been going well with the European Union and China, though he added he is only days away from sending a tariff letter to the former.
+
+""We have had a really good relationship with China lately, and we're getting along with them very well. They've been very fair on our trade deal, honestly,"" Trump said, adding that he has been speaking regularly with President Xi Jinping.
+
+""It may boost market sentiment in the short term,"" said Deng Lijun, analyst, Huajin Securities.
+
+""The new wave of tariff increases did not involve China, and the United States had lifted export restrictions to China for chip design software developers and ethane, and Sino-U.S. trade tensions have eased in the short term,"" Deng said, adding that risk appetite for A-shares may rebound once Beijing and Washington reach a tariff deal.
+
+Around the region, MSCI's Asia ex-Japan stock index was weaker by 0.42 percent, while Japan's Nikkei index closed up 0.33 percent. (Reuters/Xinhua)"
+"$8 Kowloon toll, higher fees and fines for drivers",2025-07-09 16:54,,2025-07-09 17:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1812581-20250709.htm,"The government on Wednesday proposed setting a toll of $8 on a new Kowloon tunnel and raising fixed penalties on 20 traffic offences.
+ 
+Last month, officials publicised plans to charge drivers $10 for using the Central Kowloon Bypass.
+
+The proposed toll level will effectively divert approximately 20 per cent of the overall traffic from saturated major roads in Kowloon, while reserving about 15 per cent of spare capacity of the Central Kowloon Bypass to accommodate future traffic growth. It will also recover nearly 80 per cent of basic operational costs, the Transport and Logistics Bureau said in a statement. 
+
+The spokesman said the bypass, connecting Yau Ma Tei and Kowloon Bay, will offer a faster option for motorists when it opens next year.
+ 
+“If no toll is charged for the use of the Central Kowloon Bypass, it is expected that its utilisation rate will approach a saturation point shortly after its commissioning,” he said.  
+
+Tolls for Aberdeen and Shing Mun tunnels are proposed to be raised to $8 from $5 from September 21, with the spokesman pointing out that their toll fees had stayed at the same level for 34 years and that they were operating at a loss.  
+ 
+The adjustments will have minimal impact on traffic and will allow the tunnels to achieve break-even in operations, the spokeman said.  
+ 
+Apart from the proposed rise in the fixed penalty for illegal parking from $320 to $400, charges for 19 other traffic violations will be increased to up to $1,500. 
+ 
+On the proposed increases, the spokesman said most charges for traffic violations had not been adjusted for 31 years, saying the deterrent effect has deteriorated over time due to inflation.  
+ 
+Hourly charges for parking meters will also be doubled from $8 to $16, starting from September 28.
+ 
+The government is also proposing a gradual five-phase increase in license fees for electric vehicles that will span six years.
+
+Following the change, electric vehicles will be charged based on their rated power rather than vehicle weight. 
+
+Currently, the annual license fee for all electric cars is about $1,100 on average. 
+ 
+By March 2030, the fee for cars with fewer than 75 kilowatts would go up to $3,000, while those exceeding 225 kW would be charged $11,000.  
 
 There will be a four-month grace period for electric vehicles on the road when the adjustments begin in November."
 德方指中國軍方用激光瞄準德國飛機　 中方：與事實完全不符,2025-07-09 16:52,,2025-07-09 17:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812599-20250709.htm,"在北京，外交部回應德國政府召見中國駐柏林大使，指中國軍方在紅海用激光瞄準一架德國飛機，發言人毛寧表示，經向有關部門了解，德方所稱的信息與中方了解的事實完全不符。
@@ -1196,6 +1234,3 @@ Since the real-name registration programme was rolled out in September 2023, abo
 石油、汽車股個別發展，內房、醫藥股上升。
 
 5隻新股及兩隻ETF同日掛牌；5隻新股集資淨額合共逾99億元，全部高開，但半日個別發展。"
-天文台料丹娜絲將進入廣東　視乎風力變化考慮發出強烈季候風信號,2025-07-09 12:07,,2025-07-09 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1812557-20250709.htm,"天文台表示，熱帶氣旋丹娜絲正橫過福建一帶。按照目前預測，丹娜絲會在今明兩日往西南偏西方向移動，進入廣東並逐漸減弱，隨後其殘餘可能在廣州附近掠過，而南側的活躍西南季候風會在明日及星期五普遍影響珠江口一帶，預料本港會有暴雨及狂風雷暴。天文台會視乎本地風力變化，考慮發出強烈季候風信號。
-
-天文台又說，在暴雨及較強西南季候風的共同影響下，珠江口一帶的天氣會較為惡劣，呼籲市民請留意天文台的最新天氣預測及警告。"
