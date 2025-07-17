@@ -1,4 +1,9 @@
 title,date,summary,scrape_time,section,source,url,news_content
+英國計劃將投票年齡降至16歲,2025-07-17 19:15,,2025-07-17 19:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813821-20250717.htm,"英國政府計劃下調選舉投票門檻，年滿16歲便可以投票。
+
+英國政府公布選舉改革計劃，將現時18歲的投票年齡下調至16歲。首相施紀賢表示，16、17歲的年輕人擁有投票權非常重要，他們已經達到外出工作和交稅的年齡，認為應該有機會選出理想的政府。副首相韋雅蘭在聲明中表示，改革可打破政治障礙，令更多人有機會參與民主。
+
+這項投票權改革是工黨政府的競選承諾之一，計劃須獲國會批准。根據國會報告，英國去年大選投票率是59.7%，是2001年以來最低。"
 金管局：無意設立傳聞中的壞帳銀行,2025-07-17 19:05,,2025-07-17 19:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813820-20250717.htm,"金管局發言人表示，無意設立傳聞中的壞帳銀行，又說據了解，相關銀行亦沒有此計劃。
 
 發言人強調，金管局一直要求銀行審慎管理信貸風險，整體而言，香港銀行資產負債表健康，信貸風險可控，撥備充足，銀行信貸撥備覆蓋率超過140%，盈利良好，相關傳聞並沒有根據。
@@ -30,23 +35,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 天文台：考慮在周六發三號強風信號,2025-07-17 18:15,,2025-07-17 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813817-20250717.htm,"天文台表示，位於菲律賓以東的熱帶氣旋會在明晚至星期六初時進入本港800公里範圍，天文台屆時會發出一號戒備信號，預料熱帶氣旋隨後會逐步增強。
 
 天文台預測，星期六稍後至星期一會有狂風大驟雨及雷暴，會考慮在星期六的日間發出三號強風信號，並視乎該熱帶氣旋與珠江口的距離、其強度及本地風力變化，評估是否需要在星期日改發更高熱帶氣旋警告信號。"
-HKUST wizards make no bones about AI imaging potential,2025-07-17 18:08,,2025-07-17 18:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1813804-20250717.htm,"The Hong Kong University of Science and Technology has developed an AI medical imaging tool that is able to show a patient’s bone structure in three dimensions with the help of just a few X-ray images. 
-
-The technology helps doctor in surgical planning and spares patients the need to undergo CT scans, reducing their radiation exposure by up to 99 percent.
-
-Li Xiaomeng, assistant professor in the department of electronic and computer engineering, said the AI model is able to reconstruct the 3D structure from two X-ray snapshots of patients’ bones and the process can be done within 30 seconds.
-
-Errors made by the AI model are less than one millimetre and AI-generated structures are highly similar to CT scan results, she said.
-
-“We also invited the clinicians to compare the differences and most of them could not find visual differences,"" Li said. 
-
-""So it shows that the AI model can achieve very highly competitive performances compared with traditional CT scans.” 
-
-The technology will be used at a public hospital as part of a clinical trial in coming months.
-
-Orthopaedic specialist Tse Lung-fung said the new technology could reduce the radiation suffered by both patients and medics.
-
-It is also expected to shorten waiting times for CT scans at hospitals and lower the examination costs for patients, he said."
 HKUST scientists make no bones on AI imaging potential,2025-07-17 18:08,,2025-07-17 18:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1813804-20250717.htm,"The Hong Kong University of Science and Technology has developed an AI medical imaging tool that is able to show a patient’s bone structure in three dimensions with the help of just a few X-ray images. 
 
 The technology helps doctor in surgical planning and spares patients the need to undergo CT scans, reducing their radiation exposure by up to 99 percent.
@@ -60,6 +48,23 @@ Errors made by the AI model are less than one millimetre and AI-generated struct
 ""So it shows that the AI model can achieve very highly competitive performances compared with traditional CT scans.” 
 
 The technology will be used at a public hospital in a clinical trial in coming months.
+
+Orthopaedic specialist Tse Lung-fung said the new technology could reduce the radiation suffered by both patients and medics.
+
+It is also expected to shorten waiting times for CT scans at hospitals and lower the examination costs for patients, he said."
+HKUST wizards make no bones about AI imaging potential,2025-07-17 18:08,,2025-07-17 18:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1813804-20250717.htm,"The Hong Kong University of Science and Technology has developed an AI medical imaging tool that is able to show a patient’s bone structure in three dimensions with the help of just a few X-ray images. 
+
+The technology helps doctor in surgical planning and spares patients the need to undergo CT scans, reducing their radiation exposure by up to 99 percent.
+
+Li Xiaomeng, assistant professor in the department of electronic and computer engineering, said the AI model is able to reconstruct the 3D structure from two X-ray snapshots of patients’ bones and the process can be done within 30 seconds.
+
+Errors made by the AI model are less than one millimetre and AI-generated structures are highly similar to CT scan results, she said.
+
+“We also invited the clinicians to compare the differences and most of them could not find visual differences,"" Li said. 
+
+""So it shows that the AI model can achieve very highly competitive performances compared with traditional CT scans.” 
+
+The technology will be used at a public hospital as part of a clinical trial in coming months.
 
 Orthopaedic specialist Tse Lung-fung said the new technology could reduce the radiation suffered by both patients and medics.
 
@@ -504,14 +509,14 @@ However, Li felt the southbound link’s limits of 20 billion yuan each day, or 
 預算案涵蓋2028年至2034年的7年時間，旨在透過確立歐盟中、長期政策優先領域與投資方向，為提升歐盟整體市場競爭力、收窄成員國之間發展差距，提供戰略指引及資金支持。預算案的資金重點用於國防、科研及農業領域投入、向烏克蘭提供援助，以及應對氣候變化和保護生物多樣性等。
 
 分析指預算案最終能否落實，面臨多重挑戰，歐盟必須在多個優先事項之間尋求平衡，並考慮歐美貿易關係緊張局勢。此外，歐盟成員國在資金分配、優先事項確定及出資義務方面，預計亦將存在明顯分歧。"
-衞生防護中心：本港加強防控基孔肯雅熱　目前未有相關疫苗,2025-07-17 09:30,,2025-07-17 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813736-20250717.htm,"廣東順德本月出現基孔肯雅熱爆發情況，衞生防護中心傳染病處高級醫生黃凱基表示，基孔肯雅熱是一種由蚊子傳播的疾病，已在110多個國家被發現，今年在全球各地已錄得超過22萬宗個案，死亡個案有80宗。他說有關疾病不罕見，本港因應順德的爆發，輸入個案風險增加，當局會全方位應對，做好監察及防控措施。
+衞生署：本港加強防控基孔肯雅熱　目前未有相關疫苗,2025-07-17 09:30,,2025-07-17 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813736-20250717.htm,"廣東順德本月出現基孔肯雅熱爆發情況，衞生署衞生防護傳染病處高級醫生黃凱基表示，基孔肯雅熱是一種由蚊子傳播的疾病，已在110多個國家被發現，今年在全球各地已錄得超過22萬宗個案，死亡個案有80宗。他說有關疾病不罕見，本港因應順德的爆發，輸入個案風險增加，當局會全方位應對，做好監察及防控措施。
 
 黃凱基在本台節目《千禧年代》表示，基孔肯雅熱主要可透過帶有基孔肯雅熱病毒的白紋伊蚊叮咬而傳染給人類，被咬者的潛伏期為2至12天，通常為3至8天。受感染後會出現發燒、紅疹和嚴重關節痛，一般持續數天會有明顯改善，但亦有人的症狀會持續較長時間。治療方法主要是紓緩症狀，目前並無疫苗。
 
 黃凱基提醒市民，炎熱多雨天氣下要做好防蚊措施，尤其到一些受蚊傳播疾病影響地區，要使用「蚊怕水」、穿著寬鬆和淺色衣服、防止積水等。如旅遊人士從受影響地區回港，14日內仍要繼續使用「蚊怕水」作為防蚊措施。他解釋說，如市民外遊期間受感染，回港後被白紋伊蚊叮咬後，蚊子可能受到感染，如再叮咬其他人，便有機會將病毒傳播。
 
 他呼籲市民旅遊回港後如有不適應盡快求醫，並將外遊史告知醫生。"
-衞生署：本港加強防控基孔肯雅熱　目前未有相關疫苗,2025-07-17 09:30,,2025-07-17 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813736-20250717.htm,"廣東順德本月出現基孔肯雅熱爆發情況，衞生署衞生防護傳染病處高級醫生黃凱基表示，基孔肯雅熱是一種由蚊子傳播的疾病，已在110多個國家被發現，今年在全球各地已錄得超過22萬宗個案，死亡個案有80宗。他說有關疾病不罕見，本港因應順德的爆發，輸入個案風險增加，當局會全方位應對，做好監察及防控措施。
+衞生防護中心：本港加強防控基孔肯雅熱　目前未有相關疫苗,2025-07-17 09:30,,2025-07-17 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813736-20250717.htm,"廣東順德本月出現基孔肯雅熱爆發情況，衞生防護中心傳染病處高級醫生黃凱基表示，基孔肯雅熱是一種由蚊子傳播的疾病，已在110多個國家被發現，今年在全球各地已錄得超過22萬宗個案，死亡個案有80宗。他說有關疾病不罕見，本港因應順德的爆發，輸入個案風險增加，當局會全方位應對，做好監察及防控措施。
 
 黃凱基在本台節目《千禧年代》表示，基孔肯雅熱主要可透過帶有基孔肯雅熱病毒的白紋伊蚊叮咬而傳染給人類，被咬者的潛伏期為2至12天，通常為3至8天。受感染後會出現發燒、紅疹和嚴重關節痛，一般持續數天會有明顯改善，但亦有人的症狀會持續較長時間。治療方法主要是紓緩症狀，目前並無疫苗。
 
@@ -530,12 +535,12 @@ However, Li felt the southbound link’s limits of 20 billion yuan each day, or 
 敘利亞政權內政部門較早時宣布，在蘇韋達省達成新的停火協議，內政部門將在蘇韋達市部署安全檢查站，蘇韋達省將全面併入敘利亞政權管理。
 
 蘇韋達省的德魯茲武裝派別與貝都因部落，本月13日爆發激烈衝突，敘利亞政權內政和國防部門武裝力量隨後介入，並與部分德魯茲武裝派別交火。持續多日的衝突造成大量人員傷亡。以色列於過去的星期一起介入敘利亞南部武裝衝突，昨日對敘利亞的總統府附近地區，以及敘利亞的總參謀部大樓等地，發動猛烈空襲，引發外界對局勢繼續升級的擔憂。"
-日股初段跌近150點,2025-07-17 08:43,,2025-07-17 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813729-20250717.htm,"東京股市早段下跌。
-
-日經指數較早時報39514點，跌149點，跌幅0.38%。"
 韓股初段下跌,2025-07-17 08:43,,2025-07-17 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813730-20250717.htm,"南韓股市初段下跌。
 
 首爾綜合指數較早時報3160點，跌26點，跌幅0.83%。"
+日股初段跌近150點,2025-07-17 08:43,,2025-07-17 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813729-20250717.htm,"東京股市早段下跌。
+
+日經指數較早時報39514點，跌149點，跌幅0.38%。"
 日本6月出口按年跌0.5%　遜預期並連跌兩個月,2025-07-17 08:41,,2025-07-17 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813731-20250717.htm,"日本6月出口按年跌0.5%，連跌兩個月，市場原本估計增加0.5%。
 
 進口出乎意料增加0.2%，市場原本估計下跌1.6%。
@@ -650,6 +655,11 @@ A Supreme Court order recently suggested that Fed officials cannot be taken out 
 
 金價在美國總統特朗普計劃解僱聯儲局主席鮑威爾後顯著上升，但之後特朗普否認，金價升幅收窄。"
 美國阿拉斯加州南部海域發生7.3級地震　震源深度約20公里,2025-07-17 06:13,,2025-07-17 06:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813717-20250717.htm,美國地質磡探局表示，美國阿拉斯加州南部海域在本港時間4時37分，發生7.3級地震，震央位於阿拉斯加州桑德波因特以南87公里，震源深度大約20公里。
+油價偏軟　美國燃料庫存增加,2025-07-17 05:51,,2025-07-17 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813712-20250717.htm,"原油期貨價格下跌，美國上星期汽油和餾分油庫存增加，市場亦擔心關稅對經濟造成廣泛影響。
+
+倫敦布蘭特期油收報每桶68.52美元，下跌19美仙，跌幅0.3%。
+
+紐約期油收報每桶66.38美元，下跌14美仙，跌幅0.2%。"
 特朗普否認解僱鮑威爾　美股轉升收市　納指再創新高,2025-07-17 05:51,,2025-07-17 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813710-20250717.htm,"美股走勢波動，最終靠穩收市，納指再創新高。
 
 道瓊斯指數初段曾升逾200點，不過隨著多間傳媒報導，美國總統特朗普計劃解僱聯儲局主席鮑威爾，道指一度跌逾260點，其後特朗普否認有關報導，帶動大市逐步回穩，最終收市報44254點，升231點，升幅0.53%。
@@ -657,11 +667,6 @@ A Supreme Court order recently suggested that Fed officials cannot be taken out 
 納斯達克指數曾跌逾0.8%，收市轉升0.25%，報20730點，升52點。
 
 標準普爾500指數一度跌至6200點邊緣，跌近0.7%，收市報6263點，升19點，升幅0.32%。"
-油價偏軟　美國燃料庫存增加,2025-07-17 05:51,,2025-07-17 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813712-20250717.htm,"原油期貨價格下跌，美國上星期汽油和餾分油庫存增加，市場亦擔心關稅對經濟造成廣泛影響。
-
-倫敦布蘭特期油收報每桶68.52美元，下跌19美仙，跌幅0.3%。
-
-紐約期油收報每桶66.38美元，下跌14美仙，跌幅0.2%。"
 歐洲主要股市下跌　ASML重挫逾11%,2025-07-17 05:50,,2025-07-17 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813709-20250717.htm,"歐洲3大指數向下。
 
 英國富時100指數收報8926點，跌11點，跌幅0.13%。
@@ -803,6 +808,11 @@ The bureau said that videos and data recorded would be encrypted ""to protect th
 The information could only be accessed ""under specified purposes"" such as investigating any conduct relating to a traffic-related offence, officials added. 
 
 ""The [Transport Department] will also carry out works relating to the authorisation of suppliers starting from the fourth quarter of this year, so that the trade may start installing the [journey recording systems] inside taxi compartments in 2026,"" the spokesperson said."
+美國6月工業生產按月升0.3%　結束兩個月持平,2025-07-16 21:37,,2025-07-16 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813691-20250716.htm,"美國6月工業生產按月升0.3%，升幅高於預期的0.1%，結束連續兩個月持平走勢。
+
+製造業產出按月回升0.1%，扭轉5月的跌0.3%；市場原先估計持平。
+
+產能利用率出乎意料升至77.6%，高於預期。"
 美股初段靠穩　強生績後升逾5%,2025-07-16 21:37,,2025-07-16 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813692-20250716.htm,"美股3大指數初段靠穩。
 
 道瓊斯指數較早時報44212點，升188點，升幅0.43%。
@@ -812,11 +822,6 @@ The information could only be accessed ""under specified purposes"" such as inve
 納斯達克指數報20685點，升8點，升幅0.04%。
 
 強生上季業績勝預期，刺激股價初段急升逾5%。其他業績股，高盛及美國銀行微升，摩根士丹利跌逾2%。"
-美國6月工業生產按月升0.3%　結束兩個月持平,2025-07-16 21:37,,2025-07-16 21:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813691-20250716.htm,"美國6月工業生產按月升0.3%，升幅高於預期的0.1%，結束連續兩個月持平走勢。
-
-製造業產出按月回升0.1%，扭轉5月的跌0.3%；市場原先估計持平。
-
-產能利用率出乎意料升至77.6%，高於預期。"
 王文濤表示，中國政府持續優化營商環境　依法保護知識產權,2025-07-16 21:25,,2025-07-16 21:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813690-20250716.htm,"商務部長王文濤表示，中國政府持續優化營商環境，推進全國統一大市場建設，依法保護知識產權，大力提振國內消費。
 
 王文濤會見荷蘭皇家飛利浦公司全球首席執行官賈博瑞時，引述國家主席習近平指出，中國開放的大門只會越開越大，利用外資的政策沒有變也不會變。
@@ -889,10 +894,3 @@ bite
 當局又說，行車記錄系統所錄製的影像及數據必須以編碼處理，以保障乘客及司機的私隱，只有在指明的情況下，執法機構、運輸署署長及獲授權人士方可取覽或檢索車上錄影。
 
 當局提到，現時很多的士司機仍然只接受現金，令乘客感到非常不便，修訂規例將規定所有的士司機必須接受乘客以電子繳付媒介繳付車費，明年4月1日生效。運輸署會積極協調各電子繳費媒介平台，安排工作坊或簡介會，協助司機學習如何經電子繳費媒介收取車費。"
-證券業協會：「T+1」屬大趨勢　料業界有足夠時間更改系統,2025-07-16 19:18,,2025-07-16 19:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1813677-20250716.htm,"港交所發表討論文件，建議將港股現貨市場由1992年起實施的「T+2」結算周期，縮短至「T+1」，邀請市場在9月1日前提交意見，以便未來制訂詳細實施時間表。
-
-交易所預料，對散戶投資者影響微乎其微，但營運時長縮短，國際資產管理公司可能面臨更大壓力。
-
-香港證券業協會主席高鵑表示，「T+1」是大趨勢，內地及美國正在實行。她指，縮短結算周期，有利提升本港競爭力，又認為較大難題是券商及交易所要改動系統，但相信數個月時間已可完成，預料最快明年可以落實「T+1」。
-
-高鵑認為，結算周期遲早會縮短至「T+0」，因為以美國為例，交易時間5X24，結算時間不能不跟隨調整。"
