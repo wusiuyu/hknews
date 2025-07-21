@@ -1,4 +1,15 @@
 title,date,summary,scrape_time,section,source,url,news_content
+Hong Kong's Hang Seng Index opens 0.67 pc higher,2025-07-21 09:53,,2025-07-21 10:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1814421-20250721.htm,"The Hang Seng Index gained 165 points, or 0.67 percent, to open at 24,991 points on Monday. 
+
+Mainland stocks opened higher, with the benchmark Shanghai Composite Index up 0.24 percent to open at 3,542 points, and the Shenzhen Component Index up 0.22 percent at 10,937 points. 
+
+Meanwhile, China has kept benchmark lending rates unchanged on Monday, as forecast, after it reported slightly better-than-expected second-quarter economic data.
+
+The one-year loan prime rate (LPR) was kept at 3 percent, while the five-year LPR was unchanged at 3.5 percent.
+
+Most new and outstanding loans in China are based on the one-year LPR, while the five-year rate influences the pricing of mortgages.
+
+China's economy slowed less than expected in the second quarter in a show of resilience against US tariffs. (Agencies)"
 梅窩臨時公眾填料接收設施已於上午9時重開,2025-07-21 09:41,,2025-07-21 10:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814422-20250721.htm,土木工程拓展署宣布，梅窩臨時公眾填料接收設施已於上午9時重新開放予公眾使用。
 昂坪360：上午10時全面恢復纜車服務,2025-07-21 09:41,,2025-07-21 10:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814420-20250721.htm,昂坪360宣布，纜車服務將於今日上午10時全面恢復。對於早前纜車服務受天氣影響暫停開放，對賓客造成不便，公司對此致歉。
 恒指一度突破25000點　創近3年半高位,2025-07-21 09:41,,2025-07-21 10:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814419-20250721.htm,恒生指數曾升穿25000點關口，高見25010點，創2022年2月以來高位，較早時報24950點，升124點，升幅0.5%。
@@ -99,14 +110,14 @@ Every report will be manually verified to ensure accuracy, he added, while compl
 黃仁勳接受央視節目《面對面》訪問時表示，NVIDIA的晶片只是底層，上面有系統、網絡技術、演算法及最上層的應用服務等，這個正是不得不佩服DeepSeek驚人創新能力的理由，因為DeepSeek研發的模型重新設計了AI模型的很多運行方式，充分發揮NVIDIA H20晶片架構的優勢，雖然是基於H20構建，但依然取得世界一流成果，這種做法非常有創意。
 
 黃仁勳說對中國的創新能力充滿樂觀與信心，又指中國創新的步伐是不可能被阻擋，他相信NVIDIA能做出重要貢獻。"
-大批旅客在機場辦理登機手續　航位公司櫃位大排長龍,2025-07-21 07:18,,2025-07-21 07:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814401-20250721.htm,"大批旅客早上到機場辦理登機手續，部分航空公司的人手和自助櫃位大排長龍，有旅客席地而坐或在長凳休息。
+大批旅客在機場辦理登機手續　部分航空公司櫃位大排長龍,2025-07-21 07:18,,2025-07-21 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814401-20250721.htm,"大批旅客早上到機場辦理登機手續，部分航空公司的人手和自助櫃位大排長龍，有旅客席地而坐或在長凳休息。
 
 根據機場航班顯示屏，多班原訂昨日出發的航班，延至今日起飛，個別航班延誤超過24小時。
 
 有市民原訂昨日早上出發前往日本旅行，但凌晨接獲航空公司短訊通知安排更改機票，認為受颱風影響也沒辦法。有市民表示，昨日等待一段時間才獲航空公司確認要更改，但早兩日已知悉航班或受颱風影響，行程延誤屬預計之中。
 
 有內地旅客原本今日凌晨抵港，晚上再轉機到西班牙，但要延誤到星期三午夜才出發。她表示，並無遇過這種情況，第一次在香港轉機就遇上，感到無奈，打算今日稍後到市區訂酒店休息。"
-大批旅客在機場辦理登機手續　部分航空公司櫃位大排長龍,2025-07-21 07:18,,2025-07-21 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814401-20250721.htm,"大批旅客早上到機場辦理登機手續，部分航空公司的人手和自助櫃位大排長龍，有旅客席地而坐或在長凳休息。
+大批旅客在機場辦理登機手續　航位公司櫃位大排長龍,2025-07-21 07:18,,2025-07-21 07:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814401-20250721.htm,"大批旅客早上到機場辦理登機手續，部分航空公司的人手和自助櫃位大排長龍，有旅客席地而坐或在長凳休息。
 
 根據機場航班顯示屏，多班原訂昨日出發的航班，延至今日起飛，個別航班延誤超過24小時。
 
@@ -274,13 +285,6 @@ Lui also pointed out that all MTR lines would have stopped running by the time t
 梁榮武接受本台訪問時表示，與2023年襲港的超強颱風蘇拉，以及2018年超強颱風山竹比較，韋帕的風力是三者之中最弱，因韋帕最強時只是颱風，而非超強颱風，而且韋帕的橫流較細，即受到很大風或者巨風影響的範圍相對較小。
 
 他又說，今次的風暴潮不算嚴重，因大埔滘的水位只曾上升至海圖基準面以上3米左右，當年山竹襲港時，就曾去到4.7米，相差起碼一個人的高度，所以這次的風暴潮，並無導致廣泛地區水浸，另一方面，天文大潮大概在今早5至6時出現，而韋帕最接近香港時，大概是中午，所以兩者相差了數小時，令本港得以避過最壞的時間。"
-甘肅幼兒園血鉛異常事件　當局逮捕6人,2025-07-20 21:24,,2025-07-20 22:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814369-20250720.htm,"甘肅省天水市一間幼兒園，月初爆發幼兒血液含鉛量異常事件。省政府調查組完成調查，宣布對6名嫌疑人依法執行逮捕、2名嫌疑人刑事拘留、以及3名嫌疑人取保候審。
-
-調查指出，2024年初，幼兒園園長想透過增加食品的色澤和美觀程度，來提高幼兒園的招生吸引力。園長和投資人之後授權幼兒園的廚師，購買顏料用來製作食品，並拍攝照片，在社交媒體轉發。
-
-幼兒園的廚師先後兩次，從網購平台買入三種顏料，並在顏料包裝明確標示「不可食用」的情況下，仍然使用顏料來製作麵包和糕點，從2024年5月起，平均每個月6次提供給幼兒和教職員食用。
-
-當局表示，案件主要事實已經查清，涉案財物被查封扣押，至於案發幼兒園周邊環境的鉛濃度，檢測後證實全部符合標準"
 風暴消息｜屋宇署收到21宗與建築物有關事故　5宗棚架倒塌,2025-07-20 21:24,,2025-07-20 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814368-20250720.htm,"發展局表示，轄下部門及相關部門正全力進行颱風韋帕襲港的善後工作，讓市面盡快復常。
 　　
 韋帕襲港期間，截至晚上7時共發生5宗棚架倒塌事件。當中，房屋署已於下午約3時移除影響彩虹道的棚架；房屋署亦正安排拆除倒塌在華富邨華景街的棚架；建築署正全力移除在小西灣道的棚架，期望在最短時間內恢復路面交通；位於北角雲景道及天后廟道私人屋苑各有一幅棚架倒塌，分別影響屋苑露天停車場及天后廟道，屋宇署正在積極與有關業主立案法團跟進中，影響天后廟道的棚架將會盡快移除。
@@ -292,6 +296,14 @@ Lui also pointed out that all MTR lines would have stopped running by the time t
 署方又說，為應對風暴潮可能引致海平面上升，增加大埔墟一帶的水浸風險，渠務署昨晚超前部署，採取多項防洪措施，包括在大埔林村河廣福橋附近設置臨時充水式擋水壩，以及在大埔墟和三門仔新村附近放置排水水泵。上述地點至今沒有水浸報告。
 　　 
 韋帕並沒有造成山泥傾瀉事故。"
+甘肅幼兒園血鉛異常事件　當局逮捕6人,2025-07-20 21:24,,2025-07-20 22:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814369-20250720.htm,"甘肅省天水市一間幼兒園，月初爆發幼兒血液含鉛量異常事件。省政府調查組完成調查，宣布對6名嫌疑人依法執行逮捕、2名嫌疑人刑事拘留、以及3名嫌疑人取保候審。
+
+調查指出，2024年初，幼兒園園長想透過增加食品的色澤和美觀程度，來提高幼兒園的招生吸引力。園長和投資人之後授權幼兒園的廚師，購買顏料用來製作食品，並拍攝照片，在社交媒體轉發。
+
+幼兒園的廚師先後兩次，從網購平台買入三種顏料，並在顏料包裝明確標示「不可食用」的情況下，仍然使用顏料來製作麵包和糕點，從2024年5月起，平均每個月6次提供給幼兒和教職員食用。
+
+當局表示，案件主要事實已經查清，涉案財物被查封扣押，至於案發幼兒園周邊環境的鉛濃度，檢測後證實全部符合標準"
+風暴消息｜今晚至明早逾2百航班往來香港　機場快綫凌晨延長服務,2025-07-20 21:10,,2025-07-20 21:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814367-20250720.htm, 
 風暴消息｜今晚至明早逾2百航班升降　機場快綫凌晨將延長服務,2025-07-20 21:10,,2025-07-20 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814367-20250720.htm,"韋帕進一步遠離香港並減弱，天文台預料三號強風信號會維持一段時間。機管局預計機場將會非常繁忙，由晚上8時至明早6時會有234班航班升降。港鐵機場快綫列車，凌晨將加開6班，由機場開往市區。
 
 機管局機場服務總監楊達榮表示，機場實施航班重新編配，預計今晚機場將會非常繁忙，由今晚8時至明早6時，有120班抵港航班、114班離港航班，合共涉及約3萬5千名旅客。而機管局已派員檢查過3條跑道及所有停機坪設施，包括登機橋等，全部狀態良好且正常運作。
@@ -303,7 +315,6 @@ Lui also pointed out that all MTR lines would have stopped running by the time t
 呂幹貽提醒，加開的機場快綫班次，由機場抵達市區時，其他鐵路綫的列車服務已結束，旅客應預先計劃到達市區後的接駁交通。萬一有旅客未能安排接駁交通，港鐵會安排座椅、充電設施，提供乾糧及水，令旅客可在安全位置逗留。
 
 至於機場快線周一的服務，港鐵認為暫未需要加開特別班次，會緊密與機管局聯繫，視乎最新航班資訊，包括航班抵港時間及預計旅客數量等，調整服務，若有需要會安排加開列車。"
-風暴消息｜今晚至明早逾2百航班往來香港　機場快綫凌晨延長服務,2025-07-20 21:10,,2025-07-20 21:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814367-20250720.htm, 
 風暴消息｜33名市民風暴期間受傷　當局收到逾711宗塌樹報告,2025-07-20 20:52,,2025-07-20 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814366-20250720.htm,"韋帕吹襲本港期間，至少有33名市民受傷。
 
 醫管局表示，截至晚上7時40分，有18男15女在風暴期間受傷，於公立醫院急症室接受診治。
@@ -410,8 +421,8 @@ The authority also aimed to resume all 500 cancelled flights, affecting about 10
 廣東省部分城市，包括珠海，今日實施「五停」，即是停工、停課、停運等。
 
 中央氣象台說，廣東西南部、海南島北部等地，局部地區會有特大暴雨，雨量介乎250至350毫米。"
-黃色暴雨警告取消,2025-07-20 18:15,,2025-07-20 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814344-20250720.htm,天文台表示，黃色暴雨警告信號於下午6時15分取消。
 央視 ：韋帕於廣東省台山市沿海登陸　並減弱為強熱帶風暴級,2025-07-20 18:15,,2025-07-20 18:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814345-20250720.htm,央視報道，「韋帕」下午5時50分，在廣東省台山市沿海登陸，登陸時中心附近最大風力有12級。登陸後，「韋帕」由颱風級減弱為強熱帶風暴級。
+黃色暴雨警告取消,2025-07-20 18:15,,2025-07-20 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814344-20250720.htm,天文台表示，黃色暴雨警告信號於下午6時15分取消。
 風暴消息｜「十號風球」歷時近七小時　「韋帕」襲港多宗塌樹塌棚,2025-07-20 18:11,,2025-07-20 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814343-20250720.htm,"颱風「韋帕」今早靠近香港，天文台於上午9時20分，發出十號颶風信號，歷時近七小時，到下午4時10分改發八號信號。
 
 「韋帕」吹襲期間，政府接獲逾470宗塌樹報告，北角及小西灣等都有棚架被強風吹倒。截至下午4時，有26人在風暴期間受傷，前往公立醫院急症室求診。"
@@ -495,12 +506,12 @@ S1號線於下午4時15分作有限度服務；B7號線約下午5時起只提供
 
 另外，在颱風韋帕吹襲澳門期間，至下午3時民防中心共錄得98宗事故報告，包括要清除招牌、窗、簷蓬等有下墜風險的物件，亦要處理塌樹和燈柱，期間4人在颱風中受傷，100多人次需使用政府4個避風中心。"
 風暴消息｜美沙酮診所盡快開放提供服務,2025-07-20 16:35,,2025-07-20 17:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814327-20250720.htm,衞生署宣布，由於天文台已改發八號烈風或暴風信號，除了美沙酮日間診所繼續開放外，其他美沙酮診所亦會盡快開放提供服務，直至診所服務時間完結為止，接受治療的人士可前往診所服用美沙酮。
-風暴消息｜九巴稱改發三號強風信號及確認路況後盡快恢復服務,2025-07-20 16:32,,2025-07-20 17:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814326-20250720.htm,"九巴公布，路線B1、B9及龍運路線S1、S64、S64C、S64P及S64X，將由下午5時起恢復有限度服務。至於其他九巴及龍運日間路線則繼續暫停服務。
-
-九巴表示，外勤人員正加緊巡邏各線沿線路面情況，在天文台改發三號強風信號及確認有關路面情況許可後，將盡快提供服務。"
 廣東佛山增至1873人確診基孔肯雅熱,2025-07-20 16:32,,2025-07-20 16:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814323-20250720.htm,"廣東省佛山市增至1873人確診基孔肯雅熱。
 
 佛山市下午召開基孔肯雅熱疫情防控新聞發布會，截至星期六，佛山全市累計報告確診病例1873宗，其中順德有1790宗。所有病例都是輕症，720人已痊癒。"
+風暴消息｜九巴稱改發三號強風信號及確認路況後盡快恢復服務,2025-07-20 16:32,,2025-07-20 17:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814326-20250720.htm,"九巴公布，路線B1、B9及龍運路線S1、S64、S64C、S64P及S64X，將由下午5時起恢復有限度服務。至於其他九巴及龍運日間路線則繼續暫停服務。
+
+九巴表示，外勤人員正加緊巡邏各線沿線路面情況，在天文台改發三號強風信號及確認有關路面情況許可後，將盡快提供服務。"
 日本參議院選舉　執政聯盟能否保住過半數議席成焦點,2025-07-20 16:30,,2025-07-20 16:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814325-20250720.htm,"日本參議院選舉投票接近尾聲，將於本港時間晚上7時結束。當地傳媒之後會公布票站調查結果。
 
 今次選舉，選民在522名候選人中，選出參議院需要改選的124個議席和一個補選議席。
@@ -679,13 +690,6 @@ The last time the Observatory issued a Hurricane Signal No. 10 was the Super Typ
 香港建造學院助理院長蔡盈慧指出，材料不僅包括教師教案，還有學生適用的故事書、遊戲及電子學習平台，全方位支援STEAM教學，未來亦將陸續推出8套材料，涵蓋不同專業範疇更多內容，預計於2025/26新學年供全港中小學使用。
 
 蔡盈慧表示，項目亦會邀請工程師、建築師及測量師等專業人士走進課堂，與學生分享實際工程案例，教師也可以學習建造業專業知識，教學相長，進一步提升教學質素。"
-風暴消息｜杏花邨居民稱「韋帕」威力強勁惟不及「山竹」,2025-07-20 12:11,,2025-07-20 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814287-20250720.htm,"十號颶風信號現正生效，港島東面的杏花邨橫風橫雨，海面湧起白頭浪，海浪不斷拍打上岸邊。
-
-有附近居民到海旁追風觀浪，認為今次颱風「韋帕」的風力強勁；亦居民說，2018年的超強颱風「山竹」威力更強，當年水浸及膝，今次未有水浸。
-
-另外，在柴灣工業村，有樹木被吹到左搖右擺，有構築物鐵皮被吹至飛脫到行人路上，有燈柱被吹至側向一邊。
-
-天文台提醒，因為海面有極巨浪及湧浪，市民應遠離岸邊及停止所有水上活動 。"
 Typhoon Wipha comes at its closest to Hong Kong,2025-07-20 12:11,,2025-07-20 12:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1814286-20250720.htm,"The Observatory said the Hurricane Signal No.10 is expected to remain in force early on Sunday afternoon as Typhoon Wipha was at its closest to Hong Kong. 
 
 ""Wipha is now skirting about 50 kilometres to the south of the Hong Kong Observatory, posing considerable threat to Hong Kong. Under the influence of its eyewall, hurricane force winds are affecting parts of the territory,"" said Lee Fung-ying, acting senior scientific officer.  
@@ -697,6 +701,13 @@ As of 10 am, the Government's 1823 Call Centre and the Fire Services Department 
 There have so far been no reports of landslides or flooding.
 
 Earlier, the Home Affairs Department opened 34 temporary shelters with over 200 people seeking refuge."
+風暴消息｜杏花邨居民稱「韋帕」威力強勁惟不及「山竹」,2025-07-20 12:11,,2025-07-20 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814287-20250720.htm,"十號颶風信號現正生效，港島東面的杏花邨橫風橫雨，海面湧起白頭浪，海浪不斷拍打上岸邊。
+
+有附近居民到海旁追風觀浪，認為今次颱風「韋帕」的風力強勁；亦居民說，2018年的超強颱風「山竹」威力更強，當年水浸及膝，今次未有水浸。
+
+另外，在柴灣工業村，有樹木被吹到左搖右擺，有構築物鐵皮被吹至飛脫到行人路上，有燈柱被吹至側向一邊。
+
+天文台提醒，因為海面有極巨浪及湧浪，市民應遠離岸邊及停止所有水上活動 。"
 風暴消息｜下午3時前西九龍站所有高鐵班次取消,2025-07-20 12:00,,2025-07-20 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1814285-20250720.htm,"天文台預測，十號颶風信號維持至今日下午初時。
 
 港鐵表示，與內地鐵路單位協調後，下午3時前，所有由香港西九龍站北上及南下的高鐵班次已經取消。至於下午3時後，部分班次亦會取消。
