@@ -1,13 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-香港郵政資訊保安事故最新情況,2025-07-22 21:42,2025-07-22 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200876.htm,"​香港郵政今日（七月二十二日）公布，有關七月二十一日發現的資訊保安事故至今的調查結果。根據調查所得，未經授權人士於七月二十日深夜及翌日以網絡攻擊多次嘗試透過「投寄易」系統的通訊錄功能讀取資料，香港郵政系統偵測到異常情況後立即作出堵截，並立即停止涉及網絡攻擊的「投寄易」賬戶的運作。在上述堵截及阻擋網絡攻擊期間，相關帳戶內所儲存的通訊錄資料曾被讀取，當中包括寄件人和收件人的姓名／公司名稱、地址、及／或電話號碼、傳真號碼和電子郵件地址。
-
-香港郵政已於今日向所有受影響帳戶持有人發出電郵通知，提醒各帳戶持有人提高警覺，並應立即通知其通訊錄內的人士有關事故，提醒相關人士提高警覺。香港警務處（警務處）已就事件展開調查，香港郵政現正全力配合警務處的調查工作並密切留意涉事資料的情況。
-
-香港郵政一直根據政府既定程序執行資訊及網絡保安工作。數字政策辦公室（數字辦）亦就事件與香港郵政緊密溝通，備悉香港郵政已即時採取行動，立即堵截有關網絡攻擊，並加強系統的安全措施。相關服務已恢復維持正常，有關帳戶持有人可繼續使用服務。
-
-香港郵政發言人表示隨着科技發展，網絡攻擊日新月異，香港郵政會積極尋求數字辦的意見，不斷提升網絡防衞能力及管理網絡安全風險，以保障用戶資料安全和防止類似事件再次發生。
-
-香港郵政重申，不會透過電郵、短訊或社交媒體發送超連結以收集個人資料或要求付款。香港郵政再次提醒市民，如收到任何聲稱由香港郵政發出的可疑電子郵件或短訊，切勿點擊嵌入的連結，或提供任何個人或財務資料（例如信用卡資料），或進行任何付款。如有查詢，市民可致電香港郵政查詢熱線2921 2222。"
 Hongkong Post updates on the information security incident,2025-07-22 21:42,2025-07-22 22:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200875.htm,"Hongkong Post announced today (July 22) on the investigation result so far of the information security incident identified on July 21. According to the investigation, the unauthorised party had cyberattacked the system by making countless attempts at the mid-night of July 20 and the following day to access and retrieve information through the address book function of EC-Ship system. Hongkong Post had activated the blocking mechanism immediately after the abnormal activities being detected by its system and disabled the operation of the EC-Ship account which was involved in the cyberattacks at once. During the above-mentioned blockage and interception of these cyberattacks, the concerned accounts' address books information, including the senders' and recipients' person/company names, addresses, and/or phone numbers, fax numbers, and email addresses, was being accessed and retrieved.
 
 Hongkong Post has sent emails to inform all affected account holders today and reminded them to remain vigilant, and to immediately inform relevant persons of their address books about this incident and remind them to be vigilant. The Hong Kong Police Force (HKPF) has initiated investigation into the incident and Hongkong Post will fully cooperate with the HKPF in the investigation, and will closely monitor the situation of the involved information.
@@ -17,6 +8,15 @@ Hongkong Post has been following established Government procedures on informatio
 The spokesman for Hongkong Post said that the global cybersecurity landscape was evolving, with various forms of cyberattacks emerging continuously. Hongkong Post would actively seek advice from the DPO to continuously enhance the cyber resilience level and cybersecurity risk management, to safeguard the information security of users and to prevent similar incidents from happening again.
 
 Hongkong Post reiterates that it will not send embedded hyperlinks via emails, SMS messages or social media pages for collecting personal information or requesting for payment. Hongkong Post wishes to alert members of the public again to refrain from clicking on any embedded links or providing any personal or financial information such as credit card information, or making any payment to suspicious emails or SMS messages alleged to be sent by Hongkong Post. For enquiries, members of the public may call the Hongkong Post General Enquiry Hotline at 2921 2222."
+香港郵政資訊保安事故最新情況,2025-07-22 21:42,2025-07-22 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200876.htm,"​香港郵政今日（七月二十二日）公布，有關七月二十一日發現的資訊保安事故至今的調查結果。根據調查所得，未經授權人士於七月二十日深夜及翌日以網絡攻擊多次嘗試透過「投寄易」系統的通訊錄功能讀取資料，香港郵政系統偵測到異常情況後立即作出堵截，並立即停止涉及網絡攻擊的「投寄易」賬戶的運作。在上述堵截及阻擋網絡攻擊期間，相關帳戶內所儲存的通訊錄資料曾被讀取，當中包括寄件人和收件人的姓名／公司名稱、地址、及／或電話號碼、傳真號碼和電子郵件地址。
+
+香港郵政已於今日向所有受影響帳戶持有人發出電郵通知，提醒各帳戶持有人提高警覺，並應立即通知其通訊錄內的人士有關事故，提醒相關人士提高警覺。香港警務處（警務處）已就事件展開調查，香港郵政現正全力配合警務處的調查工作並密切留意涉事資料的情況。
+
+香港郵政一直根據政府既定程序執行資訊及網絡保安工作。數字政策辦公室（數字辦）亦就事件與香港郵政緊密溝通，備悉香港郵政已即時採取行動，立即堵截有關網絡攻擊，並加強系統的安全措施。相關服務已恢復維持正常，有關帳戶持有人可繼續使用服務。
+
+香港郵政發言人表示隨着科技發展，網絡攻擊日新月異，香港郵政會積極尋求數字辦的意見，不斷提升網絡防衞能力及管理網絡安全風險，以保障用戶資料安全和防止類似事件再次發生。
+
+香港郵政重申，不會透過電郵、短訊或社交媒體發送超連結以收集個人資料或要求付款。香港郵政再次提醒市民，如收到任何聲稱由香港郵政發出的可疑電子郵件或短訊，切勿點擊嵌入的連結，或提供任何個人或財務資料（例如信用卡資料），或進行任何付款。如有查詢，市民可致電香港郵政查詢熱線2921 2222。"
 ​香港海關檢獲約一百一十萬元懷疑冰毒（附圖）,2025-07-22 21:41,2025-07-22 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200626.htm,"香港海關七月十九日在香港國際機場檢獲約兩公斤懷疑冰毒，估計市值約一百一十萬元。一名男子被捕。
 
 海關人員七月十九日在香港國際機場檢查一個由墨西哥抵港並報稱載有仙人掌粉末的空運包裹，經檢驗後，發現包裹內藏有約兩公斤懷疑冰毒。海關人員遂於今日（七月二十二日）展開監控遞送行動，在石硤尾拘捕一名十九歲懷疑涉案的男子。
@@ -626,6 +626,23 @@ Public urged to report flooding,2025-07-22 20:00,2025-07-22 20:15,Eng,gia,https:
 Please broadcast the following as soon as possible and repeat it at suitable intervals:
 
 Members of the public are advised to report any street flooding that comes to their notice to the Drainage Services Department by calling the 24-hour drainage hotline on 2300 1110."
+CHP investigates case of severe paediatric enterovirus infection,2025-07-22 19:45,2025-07-22 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200765.htm,"  The Centre for Health Protection (CHP) of the Department of Health is today (July 22) investigating a case of severe paediatric enterovirus (EV) infection, and reminded the public to observe good hand, personal and environmental hygiene.
+
+ The case involves a 5-year-old girl with good past health. She developed fever, headache and vomiting on July 18 and sought medical attention from a private doctor on the following day. On July 21, she was taken to the Accident and Emergency Department of United Christian Hospital and was admitted for treatment. She remains hospitalised.
+
+ A laboratory test of her cerebrospinal fluid specimen was positive for EV. The clinical diagnosis was meningitis.
+
+ Preliminary investigation by the CHP revealed that the patient had travelled to the Mainland with four travel collaterals during the incubation period. One of her travel collaterals developed a cough and runny nose on July 18 and sought medical attention from a private doctor, while the other travel collaterals remained asymptomatic. Her household contacts have remained asymptomatic for the time being. The CHP's investigation is ongoing.
+
+ EV infection is transmitted by direct contact with the nasal and throat secretions of an infected person. Children with EV infection should stay at home until they have recovered to avoid infecting other children. The public should be vigilant and observe the following preventive measures:
+
+
+Wash hands before eating and after going to the toilet and changing diapers;
+Cover mouth and nose when coughing or sneezing;
+Maintain good indoor ventilation; and
+Thoroughly clean toys or appliances contaminated by nasal or oral secretions.
+
+"
 "Guangdong, Hong Kong and Macao collaborate to prevent and control mosquito-borne disease, Chikungunya fever",2025-07-22 19:45,2025-07-22 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200757.htm,"In response to recent cases of Chikungunya fever (CF) recorded in Foshan of Guangdong and Macao, the Centre for Health Protection (CHP) of the Department of Health (DH) today (July 22) said that Guangdong, Hong Kong and Macao have been carrying out joint prevention and control of communicable disease involving the three places in accordance with the well-established liaison and communication mechanism. The CHP will continue to work closely with the health authorities in Guangdong Province and Macao, and will take appropriate preventive and control measures according to risk assessment to prevent the spread of CF in Hong Kong and protect public health.
 
 Collaboration of Guangdong, Hong Kong and Macao on disease prevention and control
@@ -649,23 +666,6 @@ The symptoms of CF are similar to those of dengue fever. Patients with CF typica
 According to the World Health Organization, CF cases have been recorded in more than 110 countries/regions. As of early June this year, over 220 000 cases had been reported in 14 countries/regions worldwide (including the Mainland, Taiwan and Singapore which are popular tourist destinations for Hong Kong citizens). Of these cases, about 80 were fatal.
 
 According to the announcement of the Foshan Municipal Health Bureau, as of July 20, there were 2 285 CF confirmed cases in Foshan. The majority of cases (2 158 cases) were in Shunde District, primarily in Lecong, Beijiao and Chencun towns; 69 cases in Chancheng District, primarily in Shiwan Town, Zumiao and Zhangcha Street; and 58 cases in Nanhai District, primarily in Guicheng Street. All cases were mild, with no severe or fatal cases so far. Regarding Macao, the first CF case this year was recorded on July 18. The patient travelled to Shunde during the incubation period and was classified as an imported case."
-CHP investigates case of severe paediatric enterovirus infection,2025-07-22 19:45,2025-07-22 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200765.htm,"  The Centre for Health Protection (CHP) of the Department of Health is today (July 22) investigating a case of severe paediatric enterovirus (EV) infection, and reminded the public to observe good hand, personal and environmental hygiene.
-
- The case involves a 5-year-old girl with good past health. She developed fever, headache and vomiting on July 18 and sought medical attention from a private doctor on the following day. On July 21, she was taken to the Accident and Emergency Department of United Christian Hospital and was admitted for treatment. She remains hospitalised.
-
- A laboratory test of her cerebrospinal fluid specimen was positive for EV. The clinical diagnosis was meningitis.
-
- Preliminary investigation by the CHP revealed that the patient had travelled to the Mainland with four travel collaterals during the incubation period. One of her travel collaterals developed a cough and runny nose on July 18 and sought medical attention from a private doctor, while the other travel collaterals remained asymptomatic. Her household contacts have remained asymptomatic for the time being. The CHP's investigation is ongoing.
-
- EV infection is transmitted by direct contact with the nasal and throat secretions of an infected person. Children with EV infection should stay at home until they have recovered to avoid infecting other children. The public should be vigilant and observe the following preventive measures:
-
-
-Wash hands before eating and after going to the toilet and changing diapers;
-Cover mouth and nose when coughing or sneezing;
-Maintain good indoor ventilation; and
-Thoroughly clean toys or appliances contaminated by nasal or oral secretions.
-
-"
 衞生防護中心調查一宗兒童感染腸病毒嚴重個案,2025-07-22 19:45,2025-07-22 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200762.htm,"衞生署衞生防護中心今日（七月二十二日）正調查一宗兒童感染腸病毒的嚴重個案，並提醒市民應時刻注意手部、個人和環境衞生。
 
 個案涉及一名過往健康良好的五歲女童，她於七月十八日出現發燒、頭痛及嘔吐，翌日向私家醫生求醫。她於七月二十一日被帶到基督教聯合醫院急症室求醫，獲安排留院接受治療，目前仍然留醫。
@@ -896,34 +896,6 @@ SCS encourages Administrative Service summer interns,2025-07-22 18:26,2025-07-22
 公務員事務局每年夏季及冬季均會舉辦政務職系實習計劃，讓有志成為政務主任的學生，有機會與現職政務主任共事約八星期，提早汲取在政府工作的實際經驗，為未來事業發展奠定基礎。過去五年的統計顯示，每五名新入職的政務主任中，其中一人便曾參加政務職系實習計劃。
 
 政府將於今年九月展開新一輪招聘政務主任、二級行政主任、二級助理勞工事務主任、二級助理貿易主任及二級管理參議主任的工作。有意應徵該等職位的人士，須先應考綜合招聘考試及「基本法及香港國安法測試」，以取得所需成績。其中，新一輪綜合招聘考試現正接受申請，有意投考者須於八月一日或之前於網上報名。詳情請參閱公務員事務局網頁（www.csb.gov.hk/tc_chi/index.html）。"
-與銀行有關的騙案通知,2025-07-22 17:59,2025-07-22 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200677.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
-
-
-
-
-銀行
-騙案類別
-
-
-東亞銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-上海商業銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-創興銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-
-
-金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
-
-任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 Scam alert related to banks,2025-07-22 17:59,2025-07-22 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200676.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
@@ -952,6 +924,34 @@ Fraudulent websites and internet banking login screens
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+與銀行有關的騙案通知,2025-07-22 17:59,2025-07-22 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200677.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
+
+
+
+
+銀行
+騙案類別
+
+
+東亞銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+上海商業銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+創興銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+
+
+金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
+
+任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 30 secondary students to depart for Mainland to join Young Astronaut Training Camp (with photos),2025-07-22 17:56,2025-07-22 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200219.htm,"  A send-off ceremony for the Young Astronaut Training Camp 2025 was held at the Hong Kong Science Museum today (July 22). Thirty selected secondary students will set off for Beijing, Jiuquan, and Xi'an from July 25 to August 2 for a nine-day training programme.
 
  Addressing the send-off ceremony, the Deputy Chief Secretary for Administration, Mr Cheuk Wing-hing, encouraged the Young Astronauts to seize this precious training opportunity to immerse themselves in the country's remarkable aerospace endeavours, look up to aerospace heroes as their role model, and become a valuable new force in promoting the nation's space development.
@@ -1156,25 +1156,6 @@ Note: The disciplinary actions are taken under section 21 of the AMLO. The AMLO 
   The ""iAM Smart"" one-stop personalised digital service platform has already accumulated over 3.5 million registered users and connects more than 1 200 online services from government, public and private organisations, as well as government e-Forms. The DPO will continue upgrading the ""iAM Smart"", with the goal of providing one-stop digital services for all digital government services on the ""iAM Smart"" platform this year, making it the ""single portal for online government services"". For more information on the online services supported by ""iAM Smart"", please visit the ""iAM Smart"" thematic website at www.iamsmart.gov.hk/en/e-service.html.
 
   The ""iAM Smart"" app supports iOS and Android operating systems, and mobile phones with biometric authentication activated. Members of the public can download and use the latest version of the app for free from the Apple App Store, Huawei AppGallery, and Google Play, or by visiting the ""iAM Smart"" thematic website at www.iamsmart.gov.hk/en/download.html."
-一款快速抗原檢測的說明書需進行更新,2025-07-22 16:30,2025-07-22 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200458.htm,"​衞生署今日（七月二十二日）收到一款快速抗原檢測（快測）的供應商通知，指其產品的說明書需進行更新，以免使用該快測的人士錯誤解讀檢測結果。產品資料如下：
-
-名稱：十合一抗原快速檢測試劑
-供應商：SAVEWO Distribution Limited
-製造商：Anhui Deepblue Medical Technology Co., Ltd
-型號：RP1011N-1
-批次：20250301及20250501
-
-根據香港供應商提供的資料，涉事產品可多合一檢測流感、新冠及H5N1禽流感等十款呼吸道病毒，今年三月起在本港零售市場分銷。製造商在進行內部測試後更新說明書，指若H5N1檢測欄為陽性而FIuA+B/COV檢測欄為陰性，則代表H5N1禽流感檢測結果為無效。
-
-供應商已將更新的說明書上載其網頁。已購買涉事批次產品的市民，如對快測結果有疑問，請致電5503 2370向供應商查詢。
-
-相關產品屬C類（中高風險）體外診斷醫療器械，並沒有於衞生署「醫療器械行政管理制度」下表列。
-
-衞生署提醒市民，所有快速抗原檢測均存在一定限制，包括出現假陰性或假陽性結果，因此，快速抗原檢測結果只能用作參考，不能取代醫生的專業診斷。市民如對快速抗原檢測結果有懷疑，應諮詢專業醫護人員。
-
-另外，衞生署已設立自願性的「醫療器械行政管理制度」，推行醫療器械及貿易商的表列制度，以及推出市場後的監察系統，確保在香港供應的醫療器械符合安全、品質和性能的要求。已表列醫療器械的資料均上載到衞生署醫療器械科網站（www.mdd.gov.hk/tc/mdacs/search-database/list-md/index.html）。衞生署建議市民應盡量選購已於衞生署「醫療器械行政管理制度」表列的醫療器械，以確保產品符合安全、品質及性能標準。
-
-衞生署會繼續跟進事件和採取適當行動。"
 Instruction for Use for rapid antigen test kit needs to be updated,2025-07-22 16:30,2025-07-22 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200575.htm,"âThe Department of Health (DH) announced today (July 22) that it had received a notification from the supplier of a rapid antigen test (RAT) stating that a product's Instruction for Use (IFU) needed to be updated to avoid users misinterpreting the test results. The product information is as follows:
 
 Name: Ten Respiratory Pathogens Antigen Test Kit
@@ -1194,15 +1175,25 @@ The DH reminded members of the public that all RATs have limitations, including 
 Separately, the DH has introduced a voluntary MDACS, under which a listing system for medical devices and traders, as well as a post-market monitoring system, is in place to ensure that medical devices supplied in Hong Kong meet the safety, quality and performance requirements. Information on listed medical devices is uploaded to the website of the DH's Medical Device Division (www.mdd.gov.hk/en/mdacs/search-database/list-md/index.html). The DH advised members of the public to purchase medical devices listed under the MDACS wherever possible to ensure that the products meet the standards on safety, quality and performance.
 
 The DHwill continue to follow up on the incident and take appropriate action."
-Tenders invited for licence of fee-paying public car park at New Territories (Shatin) Forensic Medicine Centre,2025-07-22 16:20,2025-07-22 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200522.htm,"  The Government Property Agency (GPA) is inviting tenders for a three-year licence of a fee-paying public car park on portions of the Second Floor of New Territories (Shatin) Forensic Medicine Centre, 7 Lower Shing Mun Road, Tai Wai, Sha Tin, New Territories, Hong Kong.
+一款快速抗原檢測的說明書需進行更新,2025-07-22 16:30,2025-07-22 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200458.htm,"​衞生署今日（七月二十二日）收到一款快速抗原檢測（快測）的供應商通知，指其產品的說明書需進行更新，以免使用該快測的人士錯誤解讀檢測結果。產品資料如下：
 
-  The premises should only be used to operate a fee-paying public car park for the parking of private cars.
+名稱：十合一抗原快速檢測試劑
+供應商：SAVEWO Distribution Limited
+製造商：Anhui Deepblue Medical Technology Co., Ltd
+型號：RP1011N-1
+批次：20250301及20250501
 
-  The tender notice was uploaded today (July 22) to the GPA Property Portal: www.gpaproperty.gov.hk/en/index.html. Tender documents are available for collection at the GPA, 9/F, South Tower, West Kowloon Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon, during the period from 9am to 6pm from Monday to Friday, except public holidays. The documents can also be downloaded from the GPA Property Portal.
+根據香港供應商提供的資料，涉事產品可多合一檢測流感、新冠及H5N1禽流感等十款呼吸道病毒，今年三月起在本港零售市場分銷。製造商在進行內部測試後更新說明書，指若H5N1檢測欄為陽性而FIuA+B/COV檢測欄為陰性，則代表H5N1禽流感檢測結果為無效。
 
-  Interested tenderers who wish to conduct a site inspection of the premises should make a prior appointment with the GPA by calling 3842 6783 by July 29.
+供應商已將更新的說明書上載其網頁。已購買涉事批次產品的市民，如對快測結果有疑問，請致電5503 2370向供應商查詢。
 
-  Tenderers must submit their tenders by placing them in the Government Logistics Department Tender Box placed on the Ground Floor, North Point Government Offices, 333 Java Road, North Point, Hong Kong, before noon on August 12. Late tenders will not be accepted."
+相關產品屬C類（中高風險）體外診斷醫療器械，並沒有於衞生署「醫療器械行政管理制度」下表列。
+
+衞生署提醒市民，所有快速抗原檢測均存在一定限制，包括出現假陰性或假陽性結果，因此，快速抗原檢測結果只能用作參考，不能取代醫生的專業診斷。市民如對快速抗原檢測結果有懷疑，應諮詢專業醫護人員。
+
+另外，衞生署已設立自願性的「醫療器械行政管理制度」，推行醫療器械及貿易商的表列制度，以及推出市場後的監察系統，確保在香港供應的醫療器械符合安全、品質和性能的要求。已表列醫療器械的資料均上載到衞生署醫療器械科網站（www.mdd.gov.hk/tc/mdacs/search-database/list-md/index.html）。衞生署建議市民應盡量選購已於衞生署「醫療器械行政管理制度」表列的醫療器械，以確保產品符合安全、品質及性能標準。
+
+衞生署會繼續跟進事件和採取適當行動。"
 招標承投新界（沙田）法醫學大樓收費公眾停車場牌照,2025-07-22 16:20,2025-07-22 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200519.htm,"政府產業署（產業署）現就位於香港新界沙田大圍下城門道7號新界（沙田）法醫學大樓2樓部分地方的收費公眾停車場牌照招標，牌照期三年。
 
 該處所須用作經營只供私家車停泊的收費公眾停車場。
@@ -1212,6 +1203,15 @@ Tenders invited for licence of fee-paying public car park at New Territories (Sh
 有興趣到有關處所實地視察的投標者須於七月二十九日或之前致電3842 6783與產業署預約。
 
 投標者必須於八月十二日中午十二時前把投標書放入香港北角渣華道333號北角政府合署地下的政府物流服務署投標箱。逾期遞交的投標書概不受理。"
+Tenders invited for licence of fee-paying public car park at New Territories (Shatin) Forensic Medicine Centre,2025-07-22 16:20,2025-07-22 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200522.htm,"  The Government Property Agency (GPA) is inviting tenders for a three-year licence of a fee-paying public car park on portions of the Second Floor of New Territories (Shatin) Forensic Medicine Centre, 7 Lower Shing Mun Road, Tai Wai, Sha Tin, New Territories, Hong Kong.
+
+  The premises should only be used to operate a fee-paying public car park for the parking of private cars.
+
+  The tender notice was uploaded today (July 22) to the GPA Property Portal: www.gpaproperty.gov.hk/en/index.html. Tender documents are available for collection at the GPA, 9/F, South Tower, West Kowloon Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon, during the period from 9am to 6pm from Monday to Friday, except public holidays. The documents can also be downloaded from the GPA Property Portal.
+
+  Interested tenderers who wish to conduct a site inspection of the premises should make a prior appointment with the GPA by calling 3842 6783 by July 29.
+
+  Tenderers must submit their tenders by placing them in the Government Logistics Department Tender Box placed on the Ground Floor, North Point Government Offices, 333 Java Road, North Point, Hong Kong, before noon on August 12. Late tenders will not be accepted."
 ​石澳泳灘及大浪灣泳灘暫停開放,2025-07-22 16:13,2025-07-22 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200562.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列特別報告：
@@ -1282,250 +1282,6 @@ Please broadcast the following as soon as possible:
   The Leisure and Cultural Services Department announced today (July 22) that the shark prevention nets at Silver Mine Bay Beach and Cheung Chau Tung Wan Beach in Islands District have been repaired, and the beaches are reopened. The beaches were temporarily closed earlier for shark prevention net maintenance work.
 
   However, according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Silver Mine Bay Beach is 4, which means the predicted water quality at this beach is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. The red flag has been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
-外匯基金票據投標結果,2025-07-22 15:30,2025-07-22 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200516.htm,"下稿代香港金融管理局發出︰
-
-外匯基金票據投標結果：
-
-
-
-
-投標日期
-：
-2025年7月22日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2530
-
-
-發行日期
-：
-2025年7月23日
-
-
-屆滿日期
-：
-2025年10月22日
-
-
-申請額
-：
-113,650百萬港元
-
-
-發行額
-：
-63,431百萬港元
-
-
-平均接納息率
-：
-0.99厘
-
-
-最高接納息率
-：
-1.15厘
-
-
-分配比例＊
-：
-約8%
-
-
-平均投標息率
-：
-1.18厘
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年7月22日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2559
-
-
-發行日期
-：
-2025年7月23日
-
-
-屆滿日期
-：
-2026年1月21日
-
-
-申請額
-：
-46,270百萬港元
-
-
-發行額
-：
-12,600百萬港元
-
-
-平均接納息率
-：
-1.79厘
-
-
-最高接納息率
-：
-1.86厘
-
-
-分配比例＊
-：
-約76%
-
-
-平均投標息率
-：
-1.94厘
-
-
-
-
-＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
-
----------------------------------------------------------
-
-香港金融管理局在二○二五年七月二十八日開始的一星期內舉行的投標：
-
-
-
-
-投標日期
-：
-2025年7月29日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2531
-
-
-發行日期
-：
-2025年7月30日
-
-
-屆滿日期
-：
-2025年10月30日
-
-
-期限
-：
-92日
-
-
-發行額
-：
-62,455百萬港元
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年7月29日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2560
-
-
-發行日期
-：
-2025年7月30日
-
-
-屆滿日期
-：
-2026年1月28日
-
-
-期限
-：
-182日
-
-
-發行額
-：
-15,000百萬港元
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年7月29日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Y2592
-
-
-發行日期
-：
-2025年7月30日
-
-
-屆滿日期
-：
-2026年7月29日
-
-
-期限
-：
-364日
-
-
-發行額
-：
-5,000百萬港元
-
-
-
-"
 Exchange Fund Bills tender results,2025-07-22 15:30,2025-07-22 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200515.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 Exchange Fund Bills tender results:
@@ -1770,17 +1526,250 @@ HK$5,000 MN
 
 
 "
-Inspection of aquatic products imported from Japan,2025-07-22 15:22,2025-07-22 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200513.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+外匯基金票據投標結果,2025-07-22 15:30,2025-07-22 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200516.htm,"下稿代香港金融管理局發出︰
 
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+外匯基金票據投標結果：
 
-  From noon on July 21 to noon today (July 22), the CFS conducted tests on the radiological levels of 38 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
 
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
 
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 152 600 samples of food imported from Japan (including 100 059 samples of aquatic and related products, seaweeds and sea salt) and 34 694 samples of local catch respectively. All the samples passed the tests."
+投標日期
+：
+2025年7月22日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2530
+
+
+發行日期
+：
+2025年7月23日
+
+
+屆滿日期
+：
+2025年10月22日
+
+
+申請額
+：
+113,650百萬港元
+
+
+發行額
+：
+63,431百萬港元
+
+
+平均接納息率
+：
+0.99厘
+
+
+最高接納息率
+：
+1.15厘
+
+
+分配比例＊
+：
+約8%
+
+
+平均投標息率
+：
+1.18厘
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年7月22日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2559
+
+
+發行日期
+：
+2025年7月23日
+
+
+屆滿日期
+：
+2026年1月21日
+
+
+申請額
+：
+46,270百萬港元
+
+
+發行額
+：
+12,600百萬港元
+
+
+平均接納息率
+：
+1.79厘
+
+
+最高接納息率
+：
+1.86厘
+
+
+分配比例＊
+：
+約76%
+
+
+平均投標息率
+：
+1.94厘
+
+
+
+
+＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
+
+---------------------------------------------------------
+
+香港金融管理局在二○二五年七月二十八日開始的一星期內舉行的投標：
+
+
+
+
+投標日期
+：
+2025年7月29日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2531
+
+
+發行日期
+：
+2025年7月30日
+
+
+屆滿日期
+：
+2025年10月30日
+
+
+期限
+：
+92日
+
+
+發行額
+：
+62,455百萬港元
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年7月29日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2560
+
+
+發行日期
+：
+2025年7月30日
+
+
+屆滿日期
+：
+2026年1月28日
+
+
+期限
+：
+182日
+
+
+發行額
+：
+15,000百萬港元
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年7月29日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Y2592
+
+
+發行日期
+：
+2025年7月30日
+
+
+屆滿日期
+：
+2026年7月29日
+
+
+期限
+：
+364日
+
+
+發行額
+：
+5,000百萬港元
+
+
+
+"
 日本進口水產的檢測情況,2025-07-22 15:22,2025-07-22 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200512.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -1792,6 +1781,17 @@ Inspection of aquatic products imported from Japan,2025-07-22 15:22,2025-07-22 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共152 600個日本進口食物樣本（包括100 059個水產及其製品、海藻及海鹽樣本）及共34 694個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2025-07-22 15:22,2025-07-22 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200513.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on July 21 to noon today (July 22), the CFS conducted tests on the radiological levels of 38 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 152 600 samples of food imported from Japan (including 100 059 samples of aquatic and related products, seaweeds and sea salt) and 34 694 samples of local catch respectively. All the samples passed the tests."
 稅務局在「稅務易」下推出三個新網站,2025-07-22 14:30,2025-07-22 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200288.htm,"稅務局今日（七月二十二日）在「稅務易」下推出三個新稅務網站，即「個人稅務網站」、「商業稅務網站」及「稅務代表網站」，以進一步提升電子稅務的效率和用戶體驗。
 
 稅務局發言人說：「稅務局致力推動稅務數碼化，持續提升電子稅務服務以便利納稅人和提高報稅的效率、可靠性和準確性。三個新稅務網站分別為個人、公司及稅務服務代理人提供電子稅務服務，讓他們可便捷高效地處理稅務事宜。」
@@ -2058,26 +2058,6 @@ Missing girl in Kwai Chung located,2025-07-22 09:34,2025-07-22 09:45,Eng,gia,htt
 Li Choi-yi, aged 15, went missing after she left her residence in On Yam Estate on July 16 night. Her family made a report to Police on July 17.
 
 The girl returned to her residence last night (July 21). She sustained no injuries and no suspicious circumstances were detected."
-警務處提醒市民留意臨時限制飛行區的規定,2025-07-22 08:42,2025-07-22 09:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200147.htm,"警務處今日（七月二十二日）提醒市民，為配合特別活動及確保公共安全，啟德青年運動場及香港大球場一帶即日起至七月三十一日期間，將設立臨時限制飛行區，除獲正式授權的小型無人機外，限制其他小型無人機進入。
-
-有關的兩個臨時限制飛行區分別為啟德青年運動場及香港大球場向外延伸兩公里範圍（詳見附件紅色陰影所示範圍），生效日期和時間如下：
-
-啟德青年運動場一帶
-－－－－－－－－－
-
-七月二十二日、二十四日至二十六日上午九時十五分至下午一時三十分；
-七月二十三日上午九時十五分至下午一時三十分，以及下午四時至晚上七時三十分；及
-七月二十九日至三十一日上午八時三十分至下午一時四十分
-
-
-香港大球場一帶
-－－－－－－－
-
-七月二十五日上午八時三十分至下午一時，以及晚上六時三十分至晚上九時三十分；及
-七月三十一日上午八時三十分至下午一時三十分
-
-
-相關的臨時限制飛行區詳情已載於小型無人機電子平台「SUA一站通」。警方提醒市民，任何人如在沒有許可的情況下在限制飛行區內操作小型無人機，一經定罪，最高可被判罰款10萬元及監禁兩年。"
 Police remind public of establishment of temporary restricted flying zones,2025-07-22 08:42,2025-07-22 09:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200148.htm," The Hong Kong Police Force today (July 22) reminded members of the public that temporary restricted flying zones (RFZs) will be established in the area around the Kai Tak Youth Sports Ground and the Hong Kong Stadium from today to July 31, in order to facilitate special events and ensure public safety. No small unmanned aircraft (SUA), except those authorised, will be permitted to enter these zones.
 
  The two temporary RFZs will cover areas extending two kilometers outwards from the Kai Tak Youth Sports Ground and the Hong Kong Stadium respectively (see the area marked in red in the attachment). The effective dates and times are as follows:
@@ -2100,21 +2080,23 @@ From 8.30am to 1.30pm on July 31
  Details of the temporary RFZs will be shown on the electronic portal for small unmanned aircraft ""eSUA"". The Police reminded the public that any person who operates an SUA within an RFZ without permission shall be liable on conviction to a fine of $100 000 and to imprisonment for two years.
 
 "
-Hongkong Post reports information security incident,2025-07-21 23:57,2025-07-22 00:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/21/P2025072101184.htm,"âHongkong Post announced today (July 21) that an information security incident involving its EC-Ship account holders was identified today. The incident involved a robotic access to information of the address books of account holders of EC-Ship.
+警務處提醒市民留意臨時限制飛行區的規定,2025-07-22 08:42,2025-07-22 09:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200147.htm,"警務處今日（七月二十二日）提醒市民，為配合特別活動及確保公共安全，啟德青年運動場及香港大球場一帶即日起至七月三十一日期間，將設立臨時限制飛行區，除獲正式授權的小型無人機外，限制其他小型無人機進入。
 
-Upon identification of the incident, Hongkong Post has taken immediate measures to block the unauthorised access. It has also followed established guidelines and procedures and reported the case to the Police, the Digital Policy Office (DPO), the Office of the Privacy Commissioner for Personal Data and the Security Bureau respectively on the same day. The EC-Ship service has resumed normal.
+有關的兩個臨時限制飛行區分別為啟德青年運動場及香港大球場向外延伸兩公里範圍（詳見附件紅色陰影所示範圍），生效日期和時間如下：
 
-Hongkong Post condemns such cyberattacks and will work closely with the Police on the investigation. Based on preliminary assessment, the incident could involve the information on the address books of EC-Ship account holders, including senders' and recipients' names, addresses, phone numbers, fax numbers and email addresses. Investigation is still underway to ascertain the number of account holders affected and whether any personal data leakage is involved. Hongkong Post will inform affected account holders as soon as possible when further updates are available.
+啟德青年運動場一帶
+－－－－－－－－－
 
-Hongkong Post has been following established Government procedures on information and cybersecurity. It is currently seeking advice from the DPO to assist with the investigation, and will further strengthen its system security measures.
+七月二十二日、二十四日至二十六日上午九時十五分至下午一時三十分；
+七月二十三日上午九時十五分至下午一時三十分，以及下午四時至晚上七時三十分；及
+七月二十九日至三十一日上午八時三十分至下午一時四十分
 
-Hongkong Post reiterates that it will not send embedded hyperlinks via emails, SMS messages or social media pages for collecting personal information or requesting for payment. Hongkong Post wishes to alert members of the public to refrain from clicking on any embedded links or providing any personal or financial information such as credit card information, or making any payment to suspicious emails or SMS messages alleged to be sent by Hongkong Post. For enquiries, members of the public may call the Hongkong Post General Enquiry Hotline at 2921 2222."
-香港郵政資訊保安事故,2025-07-21 23:57,2025-07-22 00:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/21/P2025072101185.htm,"​香港郵政今日（七月二十一日）公布一宗涉及其投寄易帳戶的資訊保安事故。事件涉及一個網絡攻擊讀取投寄易帳戶持有人的通訊錄資料。
 
-香港郵政在發現事件後已即時採取行動阻止未經授權的讀取，並已即日按既定程序分別向警方報案、通知數字政策辦公室（數字辦），以及向個人資料私隱專員公署和保安局通報事件。投寄易服務現時已恢復維持正常。
+香港大球場一帶
+－－－－－－－
 
-香港郵政譴責該等網絡攻擊，並會與警方合作進行調查。初步結果顯示，事故可能涉及投寄易帳戶持有人在通訊錄的資料，包括寄件人和收件人的姓名、地址、電話號碼、傳真號碼和電郵地址。相關調查仍在進行中，以確定受影響的帳戶持有人數目，以及是否涉及任何個人資料外洩。若有進一步資料，香港郵政會立即通知受影響的帳戶持有人。
+七月二十五日上午八時三十分至下午一時，以及晚上六時三十分至晚上九時三十分；及
+七月三十一日上午八時三十分至下午一時三十分
 
-香港郵政一直根據政府既定程序執行資訊及網絡保安工作。目前正積極尋求數字辦的意見，以協助調查工作，並將進一步加強系統安全。
 
-香港郵政重申，不會透過電郵、短訊或社交媒體發送超連結以收集個人資料或要求付款。香港郵政提醒市民，如收到任何聲稱由香港郵政發出的可疑電子郵件或短訊，切勿點擊嵌入的連結，或提供任何個人或財務資料（例如信用卡資料），或進行任何付款。如有查詢，市民可致電香港郵政查詢熱線2921 2222。"
+相關的臨時限制飛行區詳情已載於小型無人機電子平台「SUA一站通」。警方提醒市民，任何人如在沒有許可的情況下在限制飛行區內操作小型無人機，一經定罪，最高可被判罰款10萬元及監禁兩年。"
