@@ -1,4 +1,25 @@
 title,date,scrape_time,section,source,url,news_content
+DH investigates incident of RCHE and RCHD administering COVID-19 vaccines beyond recommended use-by date,2025-07-23 18:07,2025-07-23 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300686.htm,"âThe Department of Health (DH) today (July 23) is investigating an incident involving a private doctor participating in the COVID-19 Vaccination Programme who administered COVID-19 vaccines that exceeded the recommended use-by date to 21 residents and staff of a residential care home for the elderly (RCHE) and a residential care home for persons with disabilities (RCHD). The relevant COVID-19 vaccines have not exceeded their expiry dates, and none of the affected individuals reported feeling ill. The DH has requested that the two affected institutions and the doctor concerned take immediate remedial action to prevent the recurrence of similar incidents and to closely monitor the health conditions of the affected persons. The concerned doctor's vaccination service under the Vaccination Schemes has been suspended.
+
+Upon reviewing the vaccine orders and vaccination records, the DH found thatthe doctor concerned visited Oi Tak Old People's Home Limited, an RCHE in Yuen Long, on June 14, July 7 and July 9 to provide vaccination services. During these visits, he administered Spikevax JN.1 COVID-19 vaccines that were beyond the recommended use-by date to 18 residents. According to the manufacturer's recommendation, the vaccine should be stored at 2 to 8 degrees Celsius after thawing and should be used within 30 days.
+
+Upon further investigation, the DH found that the doctor concerned had also provided vaccination services at an RCHD, named Quality Rehabilitation Home, in Kwai Tsing District on March 26. During the visit, he administered Spikevax JN.1 COVID-19 vaccines that were beyond the recommended use-by date to a resident and two staff members.
+
+The DH is highly concerned about the incident and has taken immediate actions to follow up on the health conditions of the affected persons. It has been confirmed that none of the affected residents or staff at the RCHE or the RCHD suffered from adverse events as a result of the vaccination. The DH has sought information from the vaccine manufacturer on the safety and efficacy of the vaccine under the above circumstances. Taking into account the history of COVID-19 vaccination and infection of the affected persons, the DH advised that there is no need for the affected individuals to be revaccinated. The DH has instructed the doctor in question to monitor the health conditions of the affected residents. At the request of the DH, the visiting doctor will explain the incident to the affected persons or their relatives and discuss subsequent arrangements.
+
+Meanwhile, the DH has inspected the RCHE and the RCHD concerned to check the storage of vaccines and vaccination procedures. To avoid the recurrence of similar incidents, the staff have been urged to follow the requirements of regular checking of the recommended use-by date of the vaccines, separate storage of vaccines with different recommended use-by dates, and timely disposal of expired vaccines in accordance with the guidelines of the COVID-19 Vaccination Programme.
+
+The DH has suspended the vaccination service of the doctor concerned under the Vaccination Schemes and will continue to follow up on whether the two institutions concerned have complied with the relevant guidelines of the DH. If any person is found to have breached the guidelines or the terms and conditions of the COVID-19 Vaccination Programme, the DH will handle the case according to established procedures."
+​政務司司長赴北京出席十五運會籌辦情況新聞發布會,2025-07-23 18:00,2025-07-23 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300550.htm,"政務司司長陳國基明日（七月二十四日）下午將前赴北京，出席國務院新聞辦公室在七月二十五日舉行，介紹第十五屆全國運動會（十五運會）籌辦情況的新聞發布會。
+
+全國運動會香港賽區統籌辦公室主任楊德強將會隨行。
+
+陳國基將於七月二十五日晚上返港。在他離港期間，政務司副司長卓永興將署理政務司司長職務。"
+CS to attend press conference on preparations for 15th National Games in Beijing,2025-07-23 18:00,2025-07-23 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300551.htm,"  The Chief Secretary for Administration, Mr Chan Kwok-ki, will depart for Beijing tomorrow afternoon (July 24) to attend the press conference on preparations for the 15th National Games organised by the Information Office of the State Council on July 25.
+
+  The Head of the National Games Coordination Office (Hong Kong), Mr Yeung Tak-keung, will join the trip.
+
+  Mr Chan will return to Hong Kong at night on July 25. During his absence, the Deputy Chief Secretary for Administration, Mr Cheuk Wing-hing, will be the Acting Chief Secretary for Administration."
 衞生署調查安老院舍及殘疾人士院舍接種超出建議使用日期新冠疫苗,2025-07-23 17:53,2025-07-23 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300679.htm,"衞生署今日（七月二十三日）正調查一名參與新冠疫苗接種計劃的私家醫生為市民接種超出建議使用日期新冠疫苗的事件，相關新冠疫苗並未超出其有效日期，受影響的21名安老和殘疾人士院舍院友和職員並沒有不適。衞生署已要求兩間涉事院舍和醫生立即改善疫苗管理措施以避免類似事件發生，並須密切跟進受影響人士的健康情況。涉事醫生亦已被暫停在疫苗接種計劃下的服務。
 
 衞生署在核對疫苗訂購及接種紀錄時發現，涉事醫生於六月十四日、七月七日及七月九日到元朗區一間名為「愛德安老院有限公司」的安老院舍提供疫苗接種服務時，為18名院友接種了超過建議使用日期的莫德納JN.1新冠疫苗。根據疫苗製造商的建議，該疫苗須於解凍後儲存於攝氏2至8度，並於30日內使用。
@@ -592,92 +613,6 @@ Note 3: The above endoscopic procedures include bronchoscopy, colonoscopy, colpo
 第二階段環境衞生法例修訂已在二○二五年五月八日獲立法會通過，並將在八月十七日生效，以更有效處理鼠患及其他環境衞生的問題。食環署現時可在適用情況下向大廈管理負責人（例如物業管理公司）送達「消除蟲鼠通知」，要求他們除去大廈公用部分的蟲鼠。在法例修訂下，不遵從「消除蟲鼠通知」的最高罰則將由現時第2級罰款（5,000元）及每日100元，提高至第4級罰款（25,000元）及每日450元，以加強阻嚇力。
 
 會議由環境及生態局副局長黃淑嫻主持，與會者來自三個決策局和20個政府部門和機構。"
-重開三年期港元特區政府機構債券的投標結果,2025-07-23 17:15,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300653.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）以香港特別行政區政府（特區政府）代表身分，宣布在基礎建設債券計劃下，有關重開現有三年期港元政府機構債券（發行編號03GB2804001）的投標，已於今日（七月二十三日）舉行。
-
-今日推出總值20億港元的三年期政府債券，債券的投標申請總額達69.98億港元。投標對發行額比例（即債券的投標申請總額對債券的發行總額的比例）為3.50。平均接納價是101.90，即以年率計的收益率為2.057厘。
-
-特區政府機構債券投標結果
-
-三年期港元特區政府機構債券投標結果：
-
-
-
-
-投標日期
-：
-2025年7月23日
-
-
-發行編號
-：
-03GB2804001（重開）
-
-
-股份代號
-：
-4291（HKGB 2.76 2804）
-
-
-發行及交收日期
-：
-2025年7月24日
-
-
-年期
-：
-3年
-
-
-到期日
-：
-2028年4月25日
-
-
-息率
-：
-2.76%
-
-
-申請額
-：
-69.98億港元
-
-
-配發額
-：
-20億港元
-
-
-投標對發行額比例＊
-：
-3.50
-
-
-平均接納價（收益率）
-：
-101.90（2.057%）
-
-
-最低接納價（收益率）
-：
-101.65（2.151%）
-
-
-分配比率
-：
-約15%
-
-
-平均投標價（收益率）
-：
-101.33（2.270%）
-
-
-
-
-＊即債券的投標申請額對債券的發行額的比例"
 Tender results of re-opening of 3-year HKD HKSAR Institutional Government Bonds,2025-07-23 17:15,2025-07-23 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300648.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA), as representative of the Hong Kong Special Administrative Region Government (HKSAR Government), announced that a tender of 3-year HKD institutional Government Bonds through the re-opening of existing Government Bond (issue number 03GB2804001) under the Infrastructure Bond Programme was held today (July 23).
@@ -764,97 +699,104 @@ Average Tender Price (Yield)
 
 
 * Calculated as the amount of bonds applied for over the amount of bonds issued."
+重開三年期港元特區政府機構債券的投標結果,2025-07-23 17:15,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300653.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）以香港特別行政區政府（特區政府）代表身分，宣布在基礎建設債券計劃下，有關重開現有三年期港元政府機構債券（發行編號03GB2804001）的投標，已於今日（七月二十三日）舉行。
+
+今日推出總值20億港元的三年期政府債券，債券的投標申請總額達69.98億港元。投標對發行額比例（即債券的投標申請總額對債券的發行總額的比例）為3.50。平均接納價是101.90，即以年率計的收益率為2.057厘。
+
+特區政府機構債券投標結果
+
+三年期港元特區政府機構債券投標結果：
+
+
+
+
+投標日期
+：
+2025年7月23日
+
+
+發行編號
+：
+03GB2804001（重開）
+
+
+股份代號
+：
+4291（HKGB 2.76 2804）
+
+
+發行及交收日期
+：
+2025年7月24日
+
+
+年期
+：
+3年
+
+
+到期日
+：
+2028年4月25日
+
+
+息率
+：
+2.76%
+
+
+申請額
+：
+69.98億港元
+
+
+配發額
+：
+20億港元
+
+
+投標對發行額比例＊
+：
+3.50
+
+
+平均接納價（收益率）
+：
+101.90（2.057%）
+
+
+最低接納價（收益率）
+：
+101.65（2.151%）
+
+
+分配比率
+：
+約15%
+
+
+平均投標價（收益率）
+：
+101.33（2.270%）
+
+
+
+
+＊即債券的投標申請額對債券的發行額的比例"
 立法會：環境及生態局局長動議三讀《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》發言全文（只有中文）,2025-07-23 17:11,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300660.htm,"以下是環境及生態局局長謝展寰今日（七月二十三日）在立法會會議動議三讀《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》的發言全文：
 
 主席：
 
 我動議《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》予以三讀並通過。"
-Tender results of 10-year HKD HKSAR Institutional Government Bonds,2025-07-23 17:10,2025-07-23 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300661.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+立法會：環境及生態局局長就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議立法會採納報告發言全文（只有中文）,2025-07-23 17:10,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300655.htm,"以下是環境及生態局局長謝展寰今日（七月二十三日）在立法會會議就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議立法會採納報告的發言全文：
 
-The Hong Kong Monetary Authority (HKMA), as representative of the Hong Kong Special Administrative Region Government (HKSAR Government), announced that a tender for 10-year HKD institutional Government Bonds (issue number 10GB3507001) under the Infrastructure Bond Programme was held today (July 23).
+主席：
 
-A total of HK$2.0 billion 10-year Government Bonds were offered today. A total of HK$10.545 billion tender applications were received. The bid-to-cover ratio, i.e. the ratio of bonds applied for to bonds issued, is 5.27. The average price accepted is 100.43, implying an annualised yield of 3.144 per cent.
+我現在向立法會作出報告：
 
-HKSAR Institutional Government Bonds Tender Results
-
-Tender results of 10-year HKD HKSAR Institutional Government Bonds:
-
-
-
-
-Tender Date
-:
-July 23, 2025
-
-
-Issue Number
-:
-10GB3507001
-
-
-Stock Code
-:
-4294 (HKGB 3.17 3507)
-
-
-Issue and Settlement Date
-:
-July 24, 2025
-
-
-Tenor
-:
-10 years
-
-
-Maturity Date
-:
-24 July 2035
-
-
-Coupon Rate
-:
-3.17 per cent
-
-
-Amount Applied
-:
-HK$10.545 billion
-
-
-Amount Allotted
-:
-HK$2.0 billion
-
-
-Bid-to-Cover Ratio*
-:
-5.27
-
-
-Average Price Accepted (Yield)
-:
-100.43 (3.144 per cent)
-
-
-Lowest Price Accepted (Yield)
-:
-100.21 (3.170 per cent)
-
-
-Pro-rata Ratio
-:
-About 95per cent
-
-
-Average Tender Price (Yield)
-:
-99.13 (3.299 per cent)
-
-
-
-
-* Calculated as the amount of bonds applied for over the amount of bonds issued."
+《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》經修正後已獲全體委員會通過。我‍動‍議「本‍會採納此報告」的議案。"
 十年期港元特區政府機構債券的投標結果,2025-07-23 17:10,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300663.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）以香港特別行政區政府（特區政府）代表身分，宣布在基礎建設債券計劃下所推出的十年期港元政府機構債券（發行編號10GB3507001）的投標已於今日（七月二十三日）舉行。
@@ -941,13 +883,92 @@ Average Tender Price (Yield)
 
 
 ＊即債券的投標申請額對債券的發行額的比例"
-立法會：環境及生態局局長就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議立法會採納報告發言全文（只有中文）,2025-07-23 17:10,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300655.htm,"以下是環境及生態局局長謝展寰今日（七月二十三日）在立法會會議就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議立法會採納報告的發言全文：
+Tender results of 10-year HKD HKSAR Institutional Government Bonds,2025-07-23 17:10,2025-07-23 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300661.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
-主席：
+The Hong Kong Monetary Authority (HKMA), as representative of the Hong Kong Special Administrative Region Government (HKSAR Government), announced that a tender for 10-year HKD institutional Government Bonds (issue number 10GB3507001) under the Infrastructure Bond Programme was held today (July 23).
 
-我現在向立法會作出報告：
+A total of HK$2.0 billion 10-year Government Bonds were offered today. A total of HK$10.545 billion tender applications were received. The bid-to-cover ratio, i.e. the ratio of bonds applied for to bonds issued, is 5.27. The average price accepted is 100.43, implying an annualised yield of 3.144 per cent.
 
-《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》經修正後已獲全體委員會通過。我‍動‍議「本‍會採納此報告」的議案。"
+HKSAR Institutional Government Bonds Tender Results
+
+Tender results of 10-year HKD HKSAR Institutional Government Bonds:
+
+
+
+
+Tender Date
+:
+July 23, 2025
+
+
+Issue Number
+:
+10GB3507001
+
+
+Stock Code
+:
+4294 (HKGB 3.17 3507)
+
+
+Issue and Settlement Date
+:
+July 24, 2025
+
+
+Tenor
+:
+10 years
+
+
+Maturity Date
+:
+24 July 2035
+
+
+Coupon Rate
+:
+3.17 per cent
+
+
+Amount Applied
+:
+HK$10.545 billion
+
+
+Amount Allotted
+:
+HK$2.0 billion
+
+
+Bid-to-Cover Ratio*
+:
+5.27
+
+
+Average Price Accepted (Yield)
+:
+100.43 (3.144 per cent)
+
+
+Lowest Price Accepted (Yield)
+:
+100.21 (3.170 per cent)
+
+
+Pro-rata Ratio
+:
+About 95per cent
+
+
+Average Tender Price (Yield)
+:
+99.13 (3.299 per cent)
+
+
+
+
+* Calculated as the amount of bonds applied for over the amount of bonds issued."
 立法會：環境及生態局局長在全體委員會審議階段就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議修正案發言全文（只有中文）,2025-07-23 17:09,2025-07-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300650.htm,"以下是環境及生態局局長謝展寰今日（七月二十三日）在立法會會議全體委員會審議階段就《2025年促進循環再造及妥善處置產品（雜項修訂）條例草案》動議修正案的發言全文：
 
 主席：
@@ -1310,43 +1331,6 @@ The 15 000 000th visitor of the HKHM is Ms Sun from Guangzhou, who is visiting t
 生產者責任計劃有助發展循環經濟，既能為綠色經濟產業創造就業機會和商機，亦可帶動與廢物管理相關的科技創新和應用。
 
 主席，我謹此陳辭，懇請各位議員支持和通過《條例草案》以及我稍後動議的修正案。"
-立法會一題︰幼兒教育,2025-07-23 16:22,2025-07-23 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300512.htm,"以下是今日（七月二十三日）在立法會會議上張宇人議員的提問和教育局局長蔡若蓮博士的答覆︰
-
-問題：
-
-政府一直致力提升幼兒教育的質素，並支持教師專業發展。然而，有意見指出目前教育局對私立獨立幼稚園教師的培訓支援不足。就此，政府可否告知本會：
-
-（一）就教育局為幼稚園教師所提供的專業交流活動（包括專業發展講座、工作坊和研討會等），該局有否開放予私立獨立幼稚園教師報名；如有，教育局如何讓包括私立獨立幼稚園的幼稚園教師知悉該等專業交流活動的資訊；政府如何檢討該等培訓活動成效，並就檢討結果作出跟進；
-
-（二）有否向私立獨立幼稚園提供學與教資源和參考資料，以及校本支援服務；如有，詳情為何，包括教育局透過甚麼途徑向該等幼稚園提供有關資源和參考資料；如否，原因為何；及
-
-（三）有否私立獨立幼稚園參加教育局由二○二三至二四學年起開展的粵港姊妹幼稚園交流計劃；如有，詳情為何；如否，原因為何？
-
-答覆：
-
-主席：
-
-童年是人生中最寶貴的時期，幼稚園教育是奠定學生健康成長的關鍵。為此，教育局自二○一七／一八學年起實施幼稚園教育計劃，向全港合資格本地非牟利幼稚園提供資助，為所有三至六歲的合資格兒童提供優質幼稚園教育的機會。而教師作為立教之本，配合國家《教育強國建設規劃綱要》提出建立優質專業的教師隊伍，教育局致力支援幼稚園教師提升專業素質，通過參與培訓和研修、建立學習社群、分享經驗、跨境交流等，促進教師不斷更新專業知識、技能、價值觀和態度，以回應時代變遷、課程發展趨勢、適切照顧兒童發展需要，提升幼稚園教育的效能。
-
-目前，香港的幼稚園教育都是以私營模式運作，由志願團體或私人開辦，分為非牟利及私立獨立幼稚園兩類，兩者均須根據《教育條例》註冊。而非牟利幼稚園，是指獲得稅務局根據《稅務條例》第88條賦予的免稅資格。在二○二四／二五學年，全港共有980所幼稚園，其中有802所屬非牟利幼稚園，當中734所參加幼稚園教育計劃。
-
-私立獨立幼稚園則以自負盈虧運作。家長可以按實際情況，為子女選擇入讀私立獨立幼稚園。二○二四／二五學年，全港共有178所私立獨立幼稚園，其中91所提供本地課程，87所提供非本地課程。
-
-就張宇人議員的提問，現回覆如下︰
-
-（一）就教育局為幼稚園教師所提供的專業交流活動，包括工作坊、講座和經驗分享會，以及內地和海外學習交流團，均會開放予非牟利及私立獨立幼稚園教師報名及參加。所有幼稚園校長及教師可按個人專業發展或校本需要，通過教育局培訓行事曆系統查閱培訓活動內容簡介及報讀相關課程。另外，有部分課程或活動，教育局會經信函或高效資訊傳遞系統，向所有幼稚園發放相關資訊，讓教師知悉並報名參加。
-
-教育局亦會因應幼稚園教師的發展需要，適時舉辦專題活動或課程，例如「照顧幼稚園學生的學習多樣性」、「學校落實維護國家安全工作」經驗分享會等。就教師專業發展活動及課程的成效檢討及跟進，一般而言，我們會在交流活動或課程完結前，以調查問卷方式，蒐集參加者的意見及整理評價結果，參考改進，不斷完善。
-
-（二）為支援幼稚園提升教學效能，教育局會根據學校課程和兒童的學習需要，開發多元的學與教資源，例如課程便覽和小冊子、教學示例、短片、動畫及有聲故事等，免費提供學校靈活運用，以設計校本教學活動，豐富同學的學習經歷。教育局會適時將學與教資源／參考資料及支援服務的成果上載至教育局網頁，所有幼稚園教師均可瀏覽及參考。教師亦可從「教育局教育多媒體」EDB EMM網上平台，取得最新資訊。教育局亦會定期發放通函，通知所有幼稚園學與教資源事宜。
-
-所有非牟利及私立獨立幼稚園均可以因應校情及實際需要，自由報名參加由教育局提供的校本支援服務。校本支援的主題會因應課程發展及教師專業發展需要而定，例如推廣中華傳統美德、從遊戲中學習等。
-
-（三）為推動內地與香港在幼兒教育的交流合作，促進兩地教師專業發展，教育局由二○二三／二四學年起開展粵港姊妹幼稚園交流計劃（計劃），讓兩地幼稚園組成學習圈，開展各類專業交流活動。計劃首階段由二○二三／二四學年起，每年名額50所幼稚園，供所有參加幼稚園教育計劃的幼稚園參與，以積累經驗。下一階段的活動，教育局將檢視首階段計劃成效，探討進一步推展及擴大交流幼稚園的實際需要及可行性，用好兩地交流協作平台。
-
-主席，勤懇專業的教師隊伍，是香港教育高質量發展的關鍵。教育局將持續優化及推動教師專業發展，通過開發優質教學資源、組織教師專業培訓課程及活動，推動兩地幼稚園交流協作等，不斷提升幼稚園教師的專業能量，支持香港幼稚園教育更高質量發展。
-
-多謝主席。"
 LCQ1: Early childhood education,2025-07-23 16:22,2025-07-23 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300518.htm,"Following is a question by the Hon Tommy Cheung and a reply by the Secretary for Education, Dr Choi Yuk-lin, in the Legislative Council today (July 23):
 
 Question:
@@ -1384,6 +1368,43 @@ All NPM and PI KGs can freely sign up for school-based support services provided
 President, a dedicated and professional teaching force is key to the high-quality development of education in Hong Kong. The EDB will continue to optimise and promote the professional development of teachers through developing quality learning and teaching resources, organising teacher professional training programmes and activities, and promoting exchanges and collaboration between the KGs in the two places, etc., thereby continuously enhancing the professional capacity of the KG teachers and supporting the quality development of the KG education in Hong Kong.
 
 Thank you, President."
+立法會一題︰幼兒教育,2025-07-23 16:22,2025-07-23 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300512.htm,"以下是今日（七月二十三日）在立法會會議上張宇人議員的提問和教育局局長蔡若蓮博士的答覆︰
+
+問題：
+
+政府一直致力提升幼兒教育的質素，並支持教師專業發展。然而，有意見指出目前教育局對私立獨立幼稚園教師的培訓支援不足。就此，政府可否告知本會：
+
+（一）就教育局為幼稚園教師所提供的專業交流活動（包括專業發展講座、工作坊和研討會等），該局有否開放予私立獨立幼稚園教師報名；如有，教育局如何讓包括私立獨立幼稚園的幼稚園教師知悉該等專業交流活動的資訊；政府如何檢討該等培訓活動成效，並就檢討結果作出跟進；
+
+（二）有否向私立獨立幼稚園提供學與教資源和參考資料，以及校本支援服務；如有，詳情為何，包括教育局透過甚麼途徑向該等幼稚園提供有關資源和參考資料；如否，原因為何；及
+
+（三）有否私立獨立幼稚園參加教育局由二○二三至二四學年起開展的粵港姊妹幼稚園交流計劃；如有，詳情為何；如否，原因為何？
+
+答覆：
+
+主席：
+
+童年是人生中最寶貴的時期，幼稚園教育是奠定學生健康成長的關鍵。為此，教育局自二○一七／一八學年起實施幼稚園教育計劃，向全港合資格本地非牟利幼稚園提供資助，為所有三至六歲的合資格兒童提供優質幼稚園教育的機會。而教師作為立教之本，配合國家《教育強國建設規劃綱要》提出建立優質專業的教師隊伍，教育局致力支援幼稚園教師提升專業素質，通過參與培訓和研修、建立學習社群、分享經驗、跨境交流等，促進教師不斷更新專業知識、技能、價值觀和態度，以回應時代變遷、課程發展趨勢、適切照顧兒童發展需要，提升幼稚園教育的效能。
+
+目前，香港的幼稚園教育都是以私營模式運作，由志願團體或私人開辦，分為非牟利及私立獨立幼稚園兩類，兩者均須根據《教育條例》註冊。而非牟利幼稚園，是指獲得稅務局根據《稅務條例》第88條賦予的免稅資格。在二○二四／二五學年，全港共有980所幼稚園，其中有802所屬非牟利幼稚園，當中734所參加幼稚園教育計劃。
+
+私立獨立幼稚園則以自負盈虧運作。家長可以按實際情況，為子女選擇入讀私立獨立幼稚園。二○二四／二五學年，全港共有178所私立獨立幼稚園，其中91所提供本地課程，87所提供非本地課程。
+
+就張宇人議員的提問，現回覆如下︰
+
+（一）就教育局為幼稚園教師所提供的專業交流活動，包括工作坊、講座和經驗分享會，以及內地和海外學習交流團，均會開放予非牟利及私立獨立幼稚園教師報名及參加。所有幼稚園校長及教師可按個人專業發展或校本需要，通過教育局培訓行事曆系統查閱培訓活動內容簡介及報讀相關課程。另外，有部分課程或活動，教育局會經信函或高效資訊傳遞系統，向所有幼稚園發放相關資訊，讓教師知悉並報名參加。
+
+教育局亦會因應幼稚園教師的發展需要，適時舉辦專題活動或課程，例如「照顧幼稚園學生的學習多樣性」、「學校落實維護國家安全工作」經驗分享會等。就教師專業發展活動及課程的成效檢討及跟進，一般而言，我們會在交流活動或課程完結前，以調查問卷方式，蒐集參加者的意見及整理評價結果，參考改進，不斷完善。
+
+（二）為支援幼稚園提升教學效能，教育局會根據學校課程和兒童的學習需要，開發多元的學與教資源，例如課程便覽和小冊子、教學示例、短片、動畫及有聲故事等，免費提供學校靈活運用，以設計校本教學活動，豐富同學的學習經歷。教育局會適時將學與教資源／參考資料及支援服務的成果上載至教育局網頁，所有幼稚園教師均可瀏覽及參考。教師亦可從「教育局教育多媒體」EDB EMM網上平台，取得最新資訊。教育局亦會定期發放通函，通知所有幼稚園學與教資源事宜。
+
+所有非牟利及私立獨立幼稚園均可以因應校情及實際需要，自由報名參加由教育局提供的校本支援服務。校本支援的主題會因應課程發展及教師專業發展需要而定，例如推廣中華傳統美德、從遊戲中學習等。
+
+（三）為推動內地與香港在幼兒教育的交流合作，促進兩地教師專業發展，教育局由二○二三／二四學年起開展粵港姊妹幼稚園交流計劃（計劃），讓兩地幼稚園組成學習圈，開展各類專業交流活動。計劃首階段由二○二三／二四學年起，每年名額50所幼稚園，供所有參加幼稚園教育計劃的幼稚園參與，以積累經驗。下一階段的活動，教育局將檢視首階段計劃成效，探討進一步推展及擴大交流幼稚園的實際需要及可行性，用好兩地交流協作平台。
+
+主席，勤懇專業的教師隊伍，是香港教育高質量發展的關鍵。教育局將持續優化及推動教師專業發展，通過開發優質教學資源、組織教師專業培訓課程及活動，推動兩地幼稚園交流協作等，不斷提升幼稚園教師的專業能量，支持香港幼稚園教育更高質量發展。
+
+多謝主席。"
 ​一名入境旅客管有未完稅香煙及進口另類吸煙產品罪成判囚（附圖）,2025-07-23 16:10,2025-07-23 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300571.htm,"一名入境女旅客因管有未完稅香煙，未有向海關人員作出申報，以及進口另類吸煙產品，違反《應課稅品條例》和《進出口條例》，今日（七月二十三日）在西九龍裁判法院被判處監禁五個月和罰款一千元。
 
 海關人員於五月十一日在香港國際機場截查一名四十九歲的抵港女旅客，並在她的個人行李內共檢獲四萬支未完稅香煙及六千四百支另類吸煙產品，估計市值共約十八萬三千元，應課稅值共約十三萬二千元。該名抵港旅客隨即被捕。
@@ -1765,51 +1786,6 @@ Inspection of aquatic products imported from Japan,2025-07-23 15:35,2025-07-23 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 152 850 samples of food imported from Japan (including 100 213 samples of aquatic and related products, seaweeds and sea salt) and 34 744 samples of local catch respectively. All the samples passed the tests."
-​立法會十二題：戒煙支援服務及控煙教育,2025-07-23 15:30,2025-07-23 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300330.htm,"以下是今日（七月二十三日）在立法會會議上郭玲麗議員的提問和醫務衞生局局長盧寵茂教授的書面答覆︰
-
-問題：
-
-有意見指出政府近年推行多項控煙措施，其中的戒煙支援服務及教育工作相當重要。就此，政府可否告知本會：
-
-（一）是否知悉，過去三年每月醫院管理局轄下戒煙診所的服務人數，以及該等人士的成功戒煙率為何；
-
-（二）有否統計第（一）項所述的成功戒煙人士的復吸煙率為何，以及有否為他們提供跟進及支援服務；如有，詳情為何；如否，原因為何；
-
-（三）過去三年衞生署資助非政府機構提供社區為本戒煙服務的以下資料：該等非政府機構名稱、服務類別、戒煙服務的參與人數，以及當中完成戒煙服務計劃並成功戒煙和未能完成整個服務計劃的人數為何；
-
-（四）有否調查戒煙服務使用者對各項戒煙支援服務（例如戒煙輔導服務、藥物支援及中醫針灸戒煙服務）的滿意度和收集相關反饋意見；如有，詳情為何；如否，原因為何；
-
-（五）有否統計現時本港不同戒煙治療方法的使用比例為何；
-
-（六）有否統計及評估投入的公共資源與戒煙服務成效的關係；如有，詳情為何；如否，原因為何；及
-
-（七）有否分別研究和分析未成年人士及成年人士吸煙的原因；如有，詳情為何，以及未來的控煙教育及宣傳策略將如何配合有關研究結果；如否，原因為何？
-
-答覆：
-
-主席：
-
-就郭玲麗議員提問，經徵詢醫院管理局（醫管局）後，現綜合回覆如下：
-
-（一）至（六）推動戒煙是控煙策略的重要一環，衞生署負責協調本港提供的戒煙服務。衞生署除了設有綜合戒煙熱線處理有關戒煙的一般查詢和提供專業輔導，亦與本地大學合作設立熱線，特別為年輕的吸煙人士提供電話輔導服務。二○二二年至二○二四年間，衞生署綜合戒煙熱線分別處理了7 404個、9 684個和9 297個查詢，滿意度調查結果顯示超過九成受訪的服務使用者對服務整體滿意。
-
-戒煙服務方面，衞生署與非政府機構合作，提供免費和便捷的社區為本戒煙服務，包括輔導和由西醫（包括免費郵遞戒煙藥物服務）或中醫診症，以及為少數族裔、新移民、青少年和工作間的吸煙人士提供特定服務。衞生署會安排轉介吸煙者接受本港各類戒煙服務，包括上述社區為本戒煙服務或由醫管局轄下診所提供的戒煙服務。醫管局轄下的戒煙診所亦會幫助醫管局病人（特別是患有慢性疾病的患者）戒煙。戒煙服務提供者會為接受戒煙治療的吸煙人士提供52周的跟進服務，以評估他們的戒煙情況。衞生署亦推出「戒煙達人」應用程式，戒煙人士可透過應用程式評估其尼古丁的依賴程度、訂下戒煙計劃、記下戒煙進度和取得對抗煙癮的貼士，協助維持無煙生活。
-
-二○二二年至二○二四年間，20 389名、27 709名和28 559名吸煙人士分別透過醫管局轄下的戒煙診所或社區為本戒煙服務接受戒煙服務（詳見附件）。服務使用者於開始戒煙後52周成功戒煙的比率（即服務使用者匯報自己錄得過去七天沒有吸煙的百分比）由20%至60%不等（註），與海外國家的數字相若，而衞生署和醫管局未有備存有關成功戒煙人士的復吸煙率相關數據。
-
-政府於去年六月宣布「控煙十招」，當中建議加強戒煙服務。現時戒煙服務已經擴展至全港十八區的地區康健中心／地區康健站，以便利戒煙者尋找最適合和便捷的戒煙方法。衞生署亦於今年資助多三個中醫戒煙服務提供者（由一個增至四個）營運以輔導和針灸戒煙為主的戒煙診所。社區為本戒煙服務下中西醫戒煙服務預計每年可用服務名額分別增至約2 600和4 000個。
-
-戒煙是一個具動態性的過程，成效會受社會和環境因素影響，例如過去數次增加煙草稅的經驗顯示，加稅幅度越大，致電戒煙熱線人數越多。另一方面，宣傳教育工作對協助吸煙人士成功戒煙尤為重要，因此「控煙十招」亦建議加強宣傳教育。衞生署致力推廣無煙文化，包括於大眾媒體和宣傳活動推動戒煙。該署自二○二一年推出「六月．戒煙月」活動，及後開始向有吸煙習慣的人士免費提供一星期戒煙藥物（尼古丁替代療法）試用裝，鼓勵吸煙人士嘗試戒煙和增加戒煙成功率，更新增中醫戒煙耳穴貼試用計劃，大部分試用耳穴貼的吸煙者認為有助於紓緩退癮徵狀。每年「六月．戒煙月」活動推行後，戒煙熱線電話查詢數字均明顯上升，可見吸煙人士的戒煙意欲有所上升。
-
-戒煙對任何年齡的吸煙人士均帶來裨益。目前已有多種被證實有效的戒煙療法，研究顯示通過輔導和藥物治療，戒煙成功率會大大增加。通過個人化和具針對性的戒煙服務，醫護人員將更有效協助吸煙者戒除煙癮，同時幫助政府更精準地推動戒煙。政府會繼續支援有意戒煙人士，亦會按需要持續投放資源加強戒煙服務和宣傳推廣工作，守護市民的健康。
-
-（七）二○二三年主題性住戶統計調查（主題性調查）結果顯示，本港習慣每日吸食傳統捲煙的15歲及以上人士中，超過九成是受家人、朋友或其他人影響而開始吸煙。有鑑於此，政府一直積極進行公眾教育工作，推廣無煙環境。衞生署與香港吸煙與健康委員會、非政府機構和醫護專業人員合作針對年輕人宣揚無煙信息，包括聯同地區服務團體透過戒煙比賽、健康講座、訓練計劃和劇場節目，並透過互動教材和活動教室，向學生揭示煙草業推銷煙草產品的伎倆，以及教導他們抵抗朋輩壓力以拒絕染上吸煙習慣的技巧。
-
-主題性調查結果顯示，越年輕的組別吸食加味煙的比率越高，而首次吸煙時吸食加味煙的比率亦接近七成。科學證據說明添加了味道如薄荷或水果味的煙會降低對煙草危害的意識，增加非吸煙人士（特別是青少年）開始吸煙的機會，並令他們的煙癮更深和更難戒除。另外，醫務衞生局委託香港大學公共衞生學院於二○二三年進行有關學生吸煙情況的學校統計調查結果發現有吸食電子煙的中學生和吸食傳統捲煙的中學生比率相若（分別為1.1%），顯示電子煙在吸煙產品當中受年輕人群組歡迎。有研究指出電子煙可成為吸傳統捲煙的入門途徑。就此，「控煙十招」當中包括禁止加味傳統吸煙產品、禁止管有另類吸煙產品，以及禁止向18歲以下人士提供傳統吸煙產品和另類吸煙產品等。
-
-政府會繼續深化戒煙工作，並探討各項中、長期控煙措施，以循序漸進、多管齊下的方式，全方位杜絕煙草製品對社會的禍害，保障市民的健康，邁向「無煙香港」。
-
-註：不同戒煙計劃的服務對象和治療方法（例如：輔導、藥物治療、中醫針灸等）有異，因此所錄得的戒煙率亦有所不同，吸煙人士應選擇最切合個人需要的戒煙服務／方法，以期成功戒煙。"
 LCQ12: Smoking cessation support services and tobacco control education,2025-07-23 15:30,2025-07-23 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300337.htm,"  Following is a question by the Hon Lillian Kwok and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (July 23):
 
 Question:
@@ -1855,6 +1831,80 @@ President,
   The Government will continue to step up the work on smoking cessation and explore various tobacco control measures in the medium and long term in order to eliminate the hazards posed by tobacco products on the society in all aspects and protect the health of the community under a progressive and multi-pronged approach with a view to moving towards a tobacco-free Hong Kong.
 
 Note: The quit rates recorded by different smoking cessation programmes vary due to differences in target groups and treatment methods (for example counselling, pharmacotherapy and Chinese medicine and acupuncture). Smokers should choose the smoking cessation service/method that best suits their personal needs in order to quit smoking successfully."
+​立法會十二題：戒煙支援服務及控煙教育,2025-07-23 15:30,2025-07-23 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300330.htm,"以下是今日（七月二十三日）在立法會會議上郭玲麗議員的提問和醫務衞生局局長盧寵茂教授的書面答覆︰
+
+問題：
+
+有意見指出政府近年推行多項控煙措施，其中的戒煙支援服務及教育工作相當重要。就此，政府可否告知本會：
+
+（一）是否知悉，過去三年每月醫院管理局轄下戒煙診所的服務人數，以及該等人士的成功戒煙率為何；
+
+（二）有否統計第（一）項所述的成功戒煙人士的復吸煙率為何，以及有否為他們提供跟進及支援服務；如有，詳情為何；如否，原因為何；
+
+（三）過去三年衞生署資助非政府機構提供社區為本戒煙服務的以下資料：該等非政府機構名稱、服務類別、戒煙服務的參與人數，以及當中完成戒煙服務計劃並成功戒煙和未能完成整個服務計劃的人數為何；
+
+（四）有否調查戒煙服務使用者對各項戒煙支援服務（例如戒煙輔導服務、藥物支援及中醫針灸戒煙服務）的滿意度和收集相關反饋意見；如有，詳情為何；如否，原因為何；
+
+（五）有否統計現時本港不同戒煙治療方法的使用比例為何；
+
+（六）有否統計及評估投入的公共資源與戒煙服務成效的關係；如有，詳情為何；如否，原因為何；及
+
+（七）有否分別研究和分析未成年人士及成年人士吸煙的原因；如有，詳情為何，以及未來的控煙教育及宣傳策略將如何配合有關研究結果；如否，原因為何？
+
+答覆：
+
+主席：
+
+就郭玲麗議員提問，經徵詢醫院管理局（醫管局）後，現綜合回覆如下：
+
+（一）至（六）推動戒煙是控煙策略的重要一環，衞生署負責協調本港提供的戒煙服務。衞生署除了設有綜合戒煙熱線處理有關戒煙的一般查詢和提供專業輔導，亦與本地大學合作設立熱線，特別為年輕的吸煙人士提供電話輔導服務。二○二二年至二○二四年間，衞生署綜合戒煙熱線分別處理了7 404個、9 684個和9 297個查詢，滿意度調查結果顯示超過九成受訪的服務使用者對服務整體滿意。
+
+戒煙服務方面，衞生署與非政府機構合作，提供免費和便捷的社區為本戒煙服務，包括輔導和由西醫（包括免費郵遞戒煙藥物服務）或中醫診症，以及為少數族裔、新移民、青少年和工作間的吸煙人士提供特定服務。衞生署會安排轉介吸煙者接受本港各類戒煙服務，包括上述社區為本戒煙服務或由醫管局轄下診所提供的戒煙服務。醫管局轄下的戒煙診所亦會幫助醫管局病人（特別是患有慢性疾病的患者）戒煙。戒煙服務提供者會為接受戒煙治療的吸煙人士提供52周的跟進服務，以評估他們的戒煙情況。衞生署亦推出「戒煙達人」應用程式，戒煙人士可透過應用程式評估其尼古丁的依賴程度、訂下戒煙計劃、記下戒煙進度和取得對抗煙癮的貼士，協助維持無煙生活。
+
+二○二二年至二○二四年間，20 389名、27 709名和28 559名吸煙人士分別透過醫管局轄下的戒煙診所或社區為本戒煙服務接受戒煙服務（詳見附件）。服務使用者於開始戒煙後52周成功戒煙的比率（即服務使用者匯報自己錄得過去七天沒有吸煙的百分比）由20%至60%不等（註），與海外國家的數字相若，而衞生署和醫管局未有備存有關成功戒煙人士的復吸煙率相關數據。
+
+政府於去年六月宣布「控煙十招」，當中建議加強戒煙服務。現時戒煙服務已經擴展至全港十八區的地區康健中心／地區康健站，以便利戒煙者尋找最適合和便捷的戒煙方法。衞生署亦於今年資助多三個中醫戒煙服務提供者（由一個增至四個）營運以輔導和針灸戒煙為主的戒煙診所。社區為本戒煙服務下中西醫戒煙服務預計每年可用服務名額分別增至約2 600和4 000個。
+
+戒煙是一個具動態性的過程，成效會受社會和環境因素影響，例如過去數次增加煙草稅的經驗顯示，加稅幅度越大，致電戒煙熱線人數越多。另一方面，宣傳教育工作對協助吸煙人士成功戒煙尤為重要，因此「控煙十招」亦建議加強宣傳教育。衞生署致力推廣無煙文化，包括於大眾媒體和宣傳活動推動戒煙。該署自二○二一年推出「六月．戒煙月」活動，及後開始向有吸煙習慣的人士免費提供一星期戒煙藥物（尼古丁替代療法）試用裝，鼓勵吸煙人士嘗試戒煙和增加戒煙成功率，更新增中醫戒煙耳穴貼試用計劃，大部分試用耳穴貼的吸煙者認為有助於紓緩退癮徵狀。每年「六月．戒煙月」活動推行後，戒煙熱線電話查詢數字均明顯上升，可見吸煙人士的戒煙意欲有所上升。
+
+戒煙對任何年齡的吸煙人士均帶來裨益。目前已有多種被證實有效的戒煙療法，研究顯示通過輔導和藥物治療，戒煙成功率會大大增加。通過個人化和具針對性的戒煙服務，醫護人員將更有效協助吸煙者戒除煙癮，同時幫助政府更精準地推動戒煙。政府會繼續支援有意戒煙人士，亦會按需要持續投放資源加強戒煙服務和宣傳推廣工作，守護市民的健康。
+
+（七）二○二三年主題性住戶統計調查（主題性調查）結果顯示，本港習慣每日吸食傳統捲煙的15歲及以上人士中，超過九成是受家人、朋友或其他人影響而開始吸煙。有鑑於此，政府一直積極進行公眾教育工作，推廣無煙環境。衞生署與香港吸煙與健康委員會、非政府機構和醫護專業人員合作針對年輕人宣揚無煙信息，包括聯同地區服務團體透過戒煙比賽、健康講座、訓練計劃和劇場節目，並透過互動教材和活動教室，向學生揭示煙草業推銷煙草產品的伎倆，以及教導他們抵抗朋輩壓力以拒絕染上吸煙習慣的技巧。
+
+主題性調查結果顯示，越年輕的組別吸食加味煙的比率越高，而首次吸煙時吸食加味煙的比率亦接近七成。科學證據說明添加了味道如薄荷或水果味的煙會降低對煙草危害的意識，增加非吸煙人士（特別是青少年）開始吸煙的機會，並令他們的煙癮更深和更難戒除。另外，醫務衞生局委託香港大學公共衞生學院於二○二三年進行有關學生吸煙情況的學校統計調查結果發現有吸食電子煙的中學生和吸食傳統捲煙的中學生比率相若（分別為1.1%），顯示電子煙在吸煙產品當中受年輕人群組歡迎。有研究指出電子煙可成為吸傳統捲煙的入門途徑。就此，「控煙十招」當中包括禁止加味傳統吸煙產品、禁止管有另類吸煙產品，以及禁止向18歲以下人士提供傳統吸煙產品和另類吸煙產品等。
+
+政府會繼續深化戒煙工作，並探討各項中、長期控煙措施，以循序漸進、多管齊下的方式，全方位杜絕煙草製品對社會的禍害，保障市民的健康，邁向「無煙香港」。
+
+註：不同戒煙計劃的服務對象和治療方法（例如：輔導、藥物治療、中醫針灸等）有異，因此所錄得的戒煙率亦有所不同，吸煙人士應選擇最切合個人需要的戒煙服務／方法，以期成功戒煙。"
+車輛登記號碼網上拍賣於八月七日至十一日舉行,2025-07-23 15:00,2025-07-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300352.htm,"運輸署今日（七月二十三日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於八月七日（星期四）中午十二時至八月十一日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
+
+運輸署發言人說：「是次網上競投會公開拍賣二百個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以「HK」或「XX」為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
+
+參與網上競投的人士應留意以下重點：
+
+（一）競投人士需預先以具有數碼簽署功能的「智方便+」，或以有效電子證書和電郵地址註冊，完成身份驗證後成為「拍牌易」用戶。已登記「智方便」用戶在註冊「拍牌易」用戶時需提供香港身份證號碼，非本港居民而沒有「智方便」戶口的人士則需提供護照或其他身份證明文件號碼。
+
+（二）競投人士在每一場網上拍賣作第一次出價時（包括在拍賣開始前預設自動出價），必須使用「智方便+」或有效電子證書提供數碼簽署以確認提出競價和競價金額，以符合《電子交易條例》的要求。
+
+（三）如果在拍賣結束前的最後10分鐘內就某個車牌號碼仍有競投出價，則該車牌號碼的拍賣結束時間將自動再延長10分鐘，該車牌號碼的拍賣時間最多可延長24小時。
+
+（四）成功競投人士須根據由運輸署發出的通知電郵內的指示，在電郵發出的48小時內登入「拍牌易」辦理後續手續，包括﹕
+
+
+填妥「車輛登記號碼發售備忘錄」（「發售備忘錄」）上有關買主的資料；及
+透過信用卡、「轉數快」（FPS）或「繳費靈」（PPS）於網上繳付有關車牌號碼的買價。「拍牌易」不接受支票或現金付款。
+
+
+（五）車牌號碼只能配予以買主名義登記的汽車。任何車牌號碼如需以有限公司名義登記，成功競投人士必須在「發售備忘錄」買主資料中填妥該公司註冊證明書內的有關資料。
+
+（六）成功競投人士會在付款獲確認後約七個工作天收到通知電郵，並可在「拍牌易」下載「發售備忘錄」。他們須於「發售備忘錄」發出後十二個月內，申請將有關車牌號碼配予以買主名義登記的車輛。如未能如期於十二個月內完成，運輸署將根據法例取消該車牌號碼的分配並安排另行分配，而不會事先通知買主。
+
+運輸署已發信予是次預留普通車牌號碼待拍賣的申請人，詳細介紹「拍牌易」的運作。市民亦可參閱「拍牌易」網頁及觀看教學短片了解詳情。如有查詢，可致電「拍牌易」熱線（3583 3980）或以電郵（e-auction-enquiry@td.gov.hk）查詢。"
+環保署公布六月份檢控數字,2025-07-23 15:00,2025-07-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300273.htm,"二○二五年六月份因觸犯環境保護署執行的管制條例，被法庭定罪的個案共有36宗。
+
+被定罪的個案中，違反《空氣污染管制條例》的個案有一宗；違反《噪音管制條例》的個案有七宗；違反《公眾潔淨及防止妨擾規例》的個案有七宗；違反《產品環保責任條例》的個案有六宗；違反《廢物處置條例》的個案有14宗，另有一宗違反《水污染管制條例》。
+
+一間公司因未持有許可證而將受管制廢物輸入，被罰款三萬元，為六月份錄得最高的罰款額。"
 Online auction of vehicle registration marks to be held from August 7 to 11,2025-07-23 15:00,2025-07-23 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300344.htm,"The Transport Department (TD) today (July 23) said that the next online auction of vehicle registration marks (VRMs) will be held from noon on August 7 (Thursday) to noon on August 11 (Monday) through the auction platform E-Auction (e-auction.td.gov.hk). Interested bidders can participate in the online auction only after they have successfully registered as E-Auction users.
 
  A spokesman for the TD said, ""A total of 200 Ordinary VRMs will be available at this online public auction. The list of VRMs (see Annex) has been uploaded to the E-Auction website. Applicants who have paid a $1,000 deposit to reserve the Ordinary VRM for auction should also register as an E-Auction user in advance in order to participate in the online bidding, including placing the first bid at the opening price of $1,000. Otherwise, the VRMs reserved by them may be bid on by other interested bidders at or above the opening price. Auctions for VRMs with 'HK' or 'XX' as a prefix, special VRMs and personalised VRMs will continue to be carried out through physical auctions by bidding paddles and their announcement arrangements remain unchanged.""
@@ -1880,11 +1930,6 @@ making the auction payment online by credit card, Faster Payment System (FPS) or
 
  The TD has informed all applicants who have reserved the Ordinary VRMs for this round of auction of the E-Auction arrangements in detail by post. Members of the public may refer to the E-Auction website or watch the tutorial videos for more information. Please call the E-Auction hotline (3583 3980) or email (e-auction-enquiry@td.gov.hk) for enquiries.
 "
-EPD convictions in June,2025-07-23 15:00,2025-07-23 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300274.htm,"  Thirty-six convictions were recorded in June 2025 for breaches of legislation enforced by the Environmental Protection Department.
-
-  One of the convictions was under the Air Pollution Control Ordinance, seven were under the Noise Control Ordinance, seven were under the Public Cleansing and Prevention of Nuisances Regulation, six were under the Product Eco-responsibility Ordinance, 14 were under the Waste Disposal Ordinance and one was under the Water Pollution Control Ordinance.
-
-  A company was fined $30,000, which was the heaviest fine in June, for importing controlled waste without a permit."
 LCQ3: Village land and Small House Policy,2025-07-23 15:00,2025-07-23 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300484.htm,"  Following is a question by Dr the Hon Junius Ho and a reply by the Acting Secretary for Development, Mr David Lam, in the Legislative Council today (July 23):
 
 Question:
@@ -1922,35 +1967,11 @@ The Government has engaged a consultant to formulate the policies and approaches
 Hence, whether seen from either the policy, legal or planning perspective, the ""ding"" building proposal will represent a significant deviation from or change to the prevailing arrangements for small houses. Separately, the Government is taking forward the development of the NM in full force. The NM closely relates to the overall public interest and, upon its full development, will supply 3 000 hectares of land with 500 000 new housing units for members of the public from all walks of life, and provide substantial land for industry development and create diverse employment opportunities. Development of the NM is both a consensus of our society and the priority of the Government. Given its controversy, we therefore do not consider it appropriate to consider the ""ding"" building proposal at this juncture, as doing so will invariably spark discussion and divert the Government's efforts and resources.
 
 Thank you, President."
-環保署公布六月份檢控數字,2025-07-23 15:00,2025-07-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300273.htm,"二○二五年六月份因觸犯環境保護署執行的管制條例，被法庭定罪的個案共有36宗。
+EPD convictions in June,2025-07-23 15:00,2025-07-23 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300274.htm,"  Thirty-six convictions were recorded in June 2025 for breaches of legislation enforced by the Environmental Protection Department.
 
-被定罪的個案中，違反《空氣污染管制條例》的個案有一宗；違反《噪音管制條例》的個案有七宗；違反《公眾潔淨及防止妨擾規例》的個案有七宗；違反《產品環保責任條例》的個案有六宗；違反《廢物處置條例》的個案有14宗，另有一宗違反《水污染管制條例》。
+  One of the convictions was under the Air Pollution Control Ordinance, seven were under the Noise Control Ordinance, seven were under the Public Cleansing and Prevention of Nuisances Regulation, six were under the Product Eco-responsibility Ordinance, 14 were under the Waste Disposal Ordinance and one was under the Water Pollution Control Ordinance.
 
-一間公司因未持有許可證而將受管制廢物輸入，被罰款三萬元，為六月份錄得最高的罰款額。"
-車輛登記號碼網上拍賣於八月七日至十一日舉行,2025-07-23 15:00,2025-07-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300352.htm,"運輸署今日（七月二十三日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於八月七日（星期四）中午十二時至八月十一日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
-
-運輸署發言人說：「是次網上競投會公開拍賣二百個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以「HK」或「XX」為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
-
-參與網上競投的人士應留意以下重點：
-
-（一）競投人士需預先以具有數碼簽署功能的「智方便+」，或以有效電子證書和電郵地址註冊，完成身份驗證後成為「拍牌易」用戶。已登記「智方便」用戶在註冊「拍牌易」用戶時需提供香港身份證號碼，非本港居民而沒有「智方便」戶口的人士則需提供護照或其他身份證明文件號碼。
-
-（二）競投人士在每一場網上拍賣作第一次出價時（包括在拍賣開始前預設自動出價），必須使用「智方便+」或有效電子證書提供數碼簽署以確認提出競價和競價金額，以符合《電子交易條例》的要求。
-
-（三）如果在拍賣結束前的最後10分鐘內就某個車牌號碼仍有競投出價，則該車牌號碼的拍賣結束時間將自動再延長10分鐘，該車牌號碼的拍賣時間最多可延長24小時。
-
-（四）成功競投人士須根據由運輸署發出的通知電郵內的指示，在電郵發出的48小時內登入「拍牌易」辦理後續手續，包括﹕
-
-
-填妥「車輛登記號碼發售備忘錄」（「發售備忘錄」）上有關買主的資料；及
-透過信用卡、「轉數快」（FPS）或「繳費靈」（PPS）於網上繳付有關車牌號碼的買價。「拍牌易」不接受支票或現金付款。
-
-
-（五）車牌號碼只能配予以買主名義登記的汽車。任何車牌號碼如需以有限公司名義登記，成功競投人士必須在「發售備忘錄」買主資料中填妥該公司註冊證明書內的有關資料。
-
-（六）成功競投人士會在付款獲確認後約七個工作天收到通知電郵，並可在「拍牌易」下載「發售備忘錄」。他們須於「發售備忘錄」發出後十二個月內，申請將有關車牌號碼配予以買主名義登記的車輛。如未能如期於十二個月內完成，運輸署將根據法例取消該車牌號碼的分配並安排另行分配，而不會事先通知買主。
-
-運輸署已發信予是次預留普通車牌號碼待拍賣的申請人，詳細介紹「拍牌易」的運作。市民亦可參閱「拍牌易」網頁及觀看教學短片了解詳情。如有查詢，可致電「拍牌易」熱線（3583 3980）或以電郵（e-auction-enquiry@td.gov.hk）查詢。"
+  A company was fined $30,000, which was the heaviest fine in June, for importing controlled waste without a permit."
 立法會二十題︰培育環境、社會及管治人才,2025-07-23 14:25,2025-07-23 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300399.htm,"以下是今日（七月二十三日）在立法會會議上陳紹雄議員的提問和教育局局長蔡若蓮博士的書面答覆：
 
 問題：
@@ -2163,41 +2184,6 @@ If engaged in outdoor work or activities, wear a wide-brimmed hat and light-colo
 Drink plenty of water, and avoid beverages containing caffeine or alcohol.
 
 If you feel sick, consult a doctor right away."
-立法會四題：政府服務合約下受僱的非技術員工,2025-07-23 13:00,2025-07-23 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300421.htm,"以下是今日（七月二十三日）在立法會會議上謝偉銓議員的提問和財經事務及庫務局局長許正宇的答覆：
-
-問題：
-
-有物業管理業界人士反映，政府服務合約下受僱的非技術員工中，不少屬清潔工及保安員的基層職位員工是按法定最低工資或略高於該水平的薪酬支薪，由於政府服務合約一般為期三年並屬「全包制」，在法定最低工資改為「一年一檢」後，政府服務承辦商或會因該工資在合約期內多次上調而出現虧蝕。此外，雖然補充勞工優化計劃現已容許輸入物管業勞工，但據悉相關政府服務合約卻不容許承辦商聘用外勞。就此，政府可否告知本會：
-
-（一）現時有多少名政府服務合約下受僱的非技術員工，是按法定最低工資或高於該工資水平不足百分之十的薪酬支薪；
-
-（二）會否考慮優化政府服務合約下受僱的非技術員工的支薪安排，改由政府承擔因法定最低工資上調而增加的額外薪酬開支，而無須由承辦商「包底」承擔有關政策風險；及
-
-（三）會否考慮放寬政府服務合約不得聘用外勞的限制？
-
-答覆：
-
-主席：
-
-就謝偉銓議員的提問，本局諮詢勞工及福利局和四個主要以服務合約形式僱用非技術員工的政府部門（即食物環境衞生署、康樂及文化事務署、政府產業署和房屋署）後，現回覆如下：
-
-（一）政府近年已推行一系列優化措施，以保障外判非技術員工的薪酬待遇。四個主要部門經招標批出的服務合約共涉及43 000多名外判非技術員工，服務合約承辦商對相關員工的「承諾時薪」中位數約為55元，較現行法定最低工資水平（即42.1元）高約三成，同時亦較二○二四年政府統計處就「物業管理、保安及清潔服務」行業中涵蓋非技術工人及服務人員組別的市場中位數（即51元）高約百分之八。
-
-在這43 000多名員工中，約百分之九十九的「承諾時薪」較法定最低工資水平高出至少百分之十（即至少46.3元）；餘下百分之一（約400名）員工的「承諾時薪」則高於法定最低工資水平平均約百分之七。由於「承諾時薪」是承辦商於投標時承諾向非技術員工支付的時薪下限，員工的實際時薪可能會高於此數，而合約期間服務承辦商亦可能因應市場情況上調員工薪酬。
-
-（二）正如我剛才所述，由於四個主要部門約百分之九十九的外判非技術員工的時薪水平均較法定最低工資高出至少百分之十，因此除非法定最低工資水平在短時間內有十分顯著的升幅，否則政府服務承辦商純因法定最低工資上調而增加員工薪酬的可能性會很低。以今年五月生效的法定最低工資為例，由兩年前生效的每小時40元調升至每小時42.1元，升幅約為百分之五。
-
-法定最低工資在「一年一檢」新機制下的調整會較以往頻繁，但由於新機制採用「方程式」調整，而調整的基礎是公開及客觀，企業因此可及早作出規劃，故服務承辦商在投標時應能就其提出的「承諾時薪」作出更有把握的估算。
-
-政府一直要求服務承辦商與香港其他僱主一致，須向僱員提供符合香港法例和僱傭合約的薪酬待遇，包括提供不低於法定最低工資水平的時薪。服務承辦商在投標時會考慮與成本有關的因素，包括物料價格、租金、工資等，並適當地反映在投標價內。基於這些投標部署屬商業決定，政府沒有計劃補貼服務承辦商因為最低工資水平調整而增加的經營成本。
-
-（三）在保障本地勞工優先就業的大前提下，政府適度容許僱主申請輸入勞工，補充本港勞動力。勞工處自二○二三年九月起推行「補充勞工優化計劃」（「優化計劃」），容許「補充勞工計劃」下26個職位類別及非技術或低技術職位可輸入勞工，為期兩年。截至今年六月底，在「優化計劃」下申請輸入清潔員和保安員的人數共約23 000人，而獲批輸入的人數共約7 000人。根據政府統計處發布的《2024年收入及工時按年統計調查報告》，「物業管理、保安及清潔服務」行業中涵蓋非技術工人及服務人員的組別約有十九萬人，「優化計劃」下獲批輸入的清潔員和保安員數目佔上述人數少於百分之四。
-
-政府外判服務合約就非技術員工的薪酬待遇安排與「優化計劃」的安排在多方面均有所不同。具體而言，政府服務承辦商必須以不低於合約訂明的「承諾工資」聘用非技術員工，而「優化計劃」則規定輸入勞工的薪酬不得低於本地工人擔任相類職位的每月中位工資。此外，政府外判服務合約就其他聘用條件（如合約酬金、在八號或以上颱風信號生效時工作的工資安排）均有規定。
-
-我們會與勞工處保持聯繫，了解本地勞工市場中相關非技術勞工的供求情況（包括輸入勞工的情況），並在確認出現勞工短缺的情況及保障本地勞工優先就業的原則下，研究容許於政府外判服務合約輸入勞工的執行安排，包括處理承辦商在合約中需提供的「承諾工資」與輸入勞工的工資差異，以及協調不同制度的監察機制，以確保有效運用公帑並妥善監察服務承辦商。我們必須重申，政府任何輸入勞工的安排，必須在保障本地勞工優先就業的前提下執行。勞工處亦會嚴格把關，嚴謹處理每宗申請。
-
-多謝主席。"
 LCQ4: Non-skilled workers employed under government service contracts,2025-07-23 13:00,2025-07-23 13:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300422.htm,"Following is a question by the Hon Tony Tse and a reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (July 23):
 
 Question:
@@ -2233,6 +2219,41 @@ The remuneration for non-skilled workers under government outsourced service con
 We will maintain communication with LD to keep abreast of the demand and supply of the relevant non-skilled workers in the local labour market (including the situation on labour importation), and explore implementation arrangements to allow importation of labour in government outsourced service contracts upon ascertaining the occurrence of labour shortages under the principle of ensuring employment priority for local workers. The arrangements include addressing the discrepancy between the ""committed wage"" to be provided by contractors under contract requirements and the wages for imported workers, as well as co-ordinating the monitoring mechanisms across different systems, so as to ensure effective use of public money and proper monitoring of service contractors. We have to reiterate that any arrangement by the Government on importation of labour must be implemented on the premise of ensuring employment priority for local workers. LD will also play a robust gate-keeping role and stringently process each application.
 
 Thank you, President."
+立法會四題：政府服務合約下受僱的非技術員工,2025-07-23 13:00,2025-07-23 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300421.htm,"以下是今日（七月二十三日）在立法會會議上謝偉銓議員的提問和財經事務及庫務局局長許正宇的答覆：
+
+問題：
+
+有物業管理業界人士反映，政府服務合約下受僱的非技術員工中，不少屬清潔工及保安員的基層職位員工是按法定最低工資或略高於該水平的薪酬支薪，由於政府服務合約一般為期三年並屬「全包制」，在法定最低工資改為「一年一檢」後，政府服務承辦商或會因該工資在合約期內多次上調而出現虧蝕。此外，雖然補充勞工優化計劃現已容許輸入物管業勞工，但據悉相關政府服務合約卻不容許承辦商聘用外勞。就此，政府可否告知本會：
+
+（一）現時有多少名政府服務合約下受僱的非技術員工，是按法定最低工資或高於該工資水平不足百分之十的薪酬支薪；
+
+（二）會否考慮優化政府服務合約下受僱的非技術員工的支薪安排，改由政府承擔因法定最低工資上調而增加的額外薪酬開支，而無須由承辦商「包底」承擔有關政策風險；及
+
+（三）會否考慮放寬政府服務合約不得聘用外勞的限制？
+
+答覆：
+
+主席：
+
+就謝偉銓議員的提問，本局諮詢勞工及福利局和四個主要以服務合約形式僱用非技術員工的政府部門（即食物環境衞生署、康樂及文化事務署、政府產業署和房屋署）後，現回覆如下：
+
+（一）政府近年已推行一系列優化措施，以保障外判非技術員工的薪酬待遇。四個主要部門經招標批出的服務合約共涉及43 000多名外判非技術員工，服務合約承辦商對相關員工的「承諾時薪」中位數約為55元，較現行法定最低工資水平（即42.1元）高約三成，同時亦較二○二四年政府統計處就「物業管理、保安及清潔服務」行業中涵蓋非技術工人及服務人員組別的市場中位數（即51元）高約百分之八。
+
+在這43 000多名員工中，約百分之九十九的「承諾時薪」較法定最低工資水平高出至少百分之十（即至少46.3元）；餘下百分之一（約400名）員工的「承諾時薪」則高於法定最低工資水平平均約百分之七。由於「承諾時薪」是承辦商於投標時承諾向非技術員工支付的時薪下限，員工的實際時薪可能會高於此數，而合約期間服務承辦商亦可能因應市場情況上調員工薪酬。
+
+（二）正如我剛才所述，由於四個主要部門約百分之九十九的外判非技術員工的時薪水平均較法定最低工資高出至少百分之十，因此除非法定最低工資水平在短時間內有十分顯著的升幅，否則政府服務承辦商純因法定最低工資上調而增加員工薪酬的可能性會很低。以今年五月生效的法定最低工資為例，由兩年前生效的每小時40元調升至每小時42.1元，升幅約為百分之五。
+
+法定最低工資在「一年一檢」新機制下的調整會較以往頻繁，但由於新機制採用「方程式」調整，而調整的基礎是公開及客觀，企業因此可及早作出規劃，故服務承辦商在投標時應能就其提出的「承諾時薪」作出更有把握的估算。
+
+政府一直要求服務承辦商與香港其他僱主一致，須向僱員提供符合香港法例和僱傭合約的薪酬待遇，包括提供不低於法定最低工資水平的時薪。服務承辦商在投標時會考慮與成本有關的因素，包括物料價格、租金、工資等，並適當地反映在投標價內。基於這些投標部署屬商業決定，政府沒有計劃補貼服務承辦商因為最低工資水平調整而增加的經營成本。
+
+（三）在保障本地勞工優先就業的大前提下，政府適度容許僱主申請輸入勞工，補充本港勞動力。勞工處自二○二三年九月起推行「補充勞工優化計劃」（「優化計劃」），容許「補充勞工計劃」下26個職位類別及非技術或低技術職位可輸入勞工，為期兩年。截至今年六月底，在「優化計劃」下申請輸入清潔員和保安員的人數共約23 000人，而獲批輸入的人數共約7 000人。根據政府統計處發布的《2024年收入及工時按年統計調查報告》，「物業管理、保安及清潔服務」行業中涵蓋非技術工人及服務人員的組別約有十九萬人，「優化計劃」下獲批輸入的清潔員和保安員數目佔上述人數少於百分之四。
+
+政府外判服務合約就非技術員工的薪酬待遇安排與「優化計劃」的安排在多方面均有所不同。具體而言，政府服務承辦商必須以不低於合約訂明的「承諾工資」聘用非技術員工，而「優化計劃」則規定輸入勞工的薪酬不得低於本地工人擔任相類職位的每月中位工資。此外，政府外判服務合約就其他聘用條件（如合約酬金、在八號或以上颱風信號生效時工作的工資安排）均有規定。
+
+我們會與勞工處保持聯繫，了解本地勞工市場中相關非技術勞工的供求情況（包括輸入勞工的情況），並在確認出現勞工短缺的情況及保障本地勞工優先就業的原則下，研究容許於政府外判服務合約輸入勞工的執行安排，包括處理承辦商在合約中需提供的「承諾工資」與輸入勞工的工資差異，以及協調不同制度的監察機制，以確保有效運用公帑並妥善監察服務承辦商。我們必須重申，政府任何輸入勞工的安排，必須在保障本地勞工優先就業的前提下執行。勞工處亦會嚴格把關，嚴謹處理每宗申請。
+
+多謝主席。"
 立法會二題：增加政府的地價收入,2025-07-23 12:57,2025-07-23 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300417.htm,"以下是今日（七月二十三日）在立法會會議上陳仲尼議員的提問和署理發展局局長林智文的答覆：
 
 問題：
@@ -2303,165 +2324,6 @@ Thank you, President."
 由此可見，不論是政策、法律或規劃層面，「丁廈」建議均大幅偏離或改動現行小型屋宇安排。另外，政府正全力以赴推進北都發展。北都關乎整體社會利益，全面發展會提供3 000公頃土地，以承載50萬個新住宅單位供不同背景和階層市民居住，亦會提供大量用地拓展產業，以及創造多元就業機會。發展北都是社會共識，亦是政府優次，而「丁廈」有其爭議性，在社會內引發討論會分散政府精力和資源，因此我們不認為現時應就「丁廈」予以考慮。
 
 多謝主席。"
-立法會二十一題：吸引人才與資本來港的計劃,2025-07-23 12:40,2025-07-23 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300295.htm,"以下是今日（七月二十三日）在立法會會議上葛珮帆議員的提問和勞工及福利局局長孫玉菡的書面答覆：
-
-問題：
-
-本港現行設有九項主要吸引人才與資本來港的計劃，包括「高端人才通行證計劃」（高才通計劃）、「一般就業政策」、「輸入內地人才計劃」、「優秀人才入境計劃」、「非本地畢業生留港／回港就業安排」、「輸入中國籍香港永久性居民第二代計劃」、「新資本投資者入境計劃」、「科技人才入境計劃」及「職專畢業生留港計劃」（該等人才入境計劃）。此外，當局於去年六月一日起實施「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃），以提供入境便利予獲認可主辦機構邀請／保證來港參與有利香港特別行政區發展的指定短期活動。就此，政府可否告知本會：
-
-（一）去年六月至上月，當局接獲該等人才入境計劃的申請及獲批宗數，以及涉及的收入分別為何；
-
-（二）自高才通計劃推行至今，每年獲批來港的申請人的所屬地區或國家的分布為何；
-
-（三）過去三年，每年透過該等人才入境計劃獲批來港的申請人中，從事創新科技範疇的人數分別為何，並按該等人才入境計劃列出分項數字；
-
-（四）過去五年，每年透過一般就業政策及輸入內地人才計劃獲批來港從事短期工作的人數，以及其行業／界別的分布分別為何；除該兩項計劃外，政府會否研究推出其他措施或計劃，讓非香港居民可申請來港從事短期工作（即逗留期限不超過180日）；
-
-（五）自短期訪客計劃推行以來，獲批來港的申請人數、所屬地區或國家的分布，以及其指定界別的分布分別為何；
-
-（六）當局有否計劃擴大短期訪客計劃中「認可主辦機構」及／或「指定界別」的清單；若有，詳情為何；若否，原因為何；及
-
-（七）據悉美國政府近年推出一系列新政策，包括收緊簽證制度及大幅縮減研究經費等，導致大量當地科研人員（尤其是華人科學家）考慮離開美國，政府有何措施（包括會否推出具針對性的人才入境計劃或措施）支援本地大學盡力吸引該等海外頂尖科學家來港發展？
-
-答覆：
-
-主席：
-
-政府正推行多項吸引人才與資本投資者的入境計劃，積極吸納專業人才、企業家及高資產人士，豐富本地人才庫及吸引更多新資金落戶香港，提升香港的整體競爭力，促進本地經濟多元化及創新發展。
-
-就議員的提問，經諮詢保安局、教育局、創新科技及工業局、財經事務及庫務局及入境事務處（入境處）後，現答覆如下：
-
-（一）自去年六月一日，截至今年六月底，「高端人才通行證計劃」（高才通計劃）、「一般就業政策」、「輸入內地人才計劃」、「優秀人才入境計劃」（優才計劃）、「非本地畢業生留港／回港就業安排」、「輸入中國籍香港永久性居民第二代計劃」以及「科技人才入境計劃」共接獲逾19萬宗申請，當中近14萬宗獲批。有關分項統計數字載於附件一。「職專畢業生留港計劃」要待首批合資格全日制高級文憑課程學生於二○二六年年中起畢業後才開始接受申請。
-
-在「新資本投資者入境計劃」下，投資推廣署負責審查申請是否符合有關財務規定，入境處則負責審批簽證‍／進入許可、延長逗留期限和無條件限制逗留的申請。去年六月一日至今年六月底，入境處共接獲1295宗「新資本投資者入境計劃」的申請，當中673宗獲批。入境處沒有備存提問涉及各項計劃申請及簽證費用所得收入的統計數字。
-
-（二）以吸納高收入人士或頂尖學府學士畢業生為目標的高才通計劃自二○二二年底推出以來反應十分踴躍。截至今年六月底，共收到約135000宗申請，當中近109000宗獲批，有約四成（約32000名）B類及C類的申請者畢業於海外頂尖大學的學士課程。高才通計劃的獲批個案按申請人及其合資格大學所屬地區的分項統計數字載於附件二。
-
-（三）過去三年，「一般就業政策」及「輸入內地人才計劃」下分別約76000及57000宗獲批申請中，從事創新科技（創科）相關範疇工作的獲批申請人數目分別為1654及4006。優才計劃下，過去三年成功通過甄選程序的獲批個案約有27000宗，當中8021名申請人背景來自創科相關範疇。至於旨在吸納科技人才來港從事研發工作的「科技人才入境計劃」，過去三年共有334位申請人獲批，全數從事創科範疇工作。
-
-就高才通計劃，入境處於二○二三年三月一日調整申請流程，要求有工作經驗的申請人必須申報其職業所屬的界別。自二○二三年三月起至今年六月底，近十萬宗獲批申請當中有26211名申請人申報其過去工作屬創科相關範疇。
-
-提問中的其他人才入境計劃下，申請人申請來港時無須已在港覓得工作，在首個簽證有效期間，申請人如在港受聘或開辦／參與業務，亦無須通知入境處。鑑於計劃的性質，「新資本投資者入境計劃」並不要求申請人申報其職業背景。入境處沒有備存其他計劃獲批申請人剛來港時從事行業的統計資料。
-
-（四）過去五年，「一般就業政策」接獲逾112000宗申請，逾103000宗申請獲批，當中約63000宗為聘用期少於12個月的短期職位。「輸入內地人才計劃」過去五年共收到近88000宗申請，超過77000宗獲批，約31000宗獲批申請為短期職位的個案。兩個計劃下獲批擔任短期職位的個案按行業／界別的分項統計數字載於附件三。
-
-企業若有職位空缺並面對本地招聘困難，便可經由上述兩項就業掛鈎入境計劃提出申請，聘用具備香港所需而又缺乏的特別技能、知識或經驗的外來人才來港從事短期或長期工作。
-
-為方便營商和促進相關界別發展，並提升香港的國際形象，政府亦已於二○二二年六月推出為期兩年的「為來港參與指定界別短期活動的訪客提供入境便利先導計劃」（先導計劃），並於二○二四年六月把先導計劃恆常化為「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）。在先導計劃／短期訪客計劃下，獲政府相關決策局／部門認可的機構可向界別內相關的非本地人才發出邀請信，獲邀人士可以訪客身分來港參與指定短期活動，而無須向入境處申請工作簽證／進入許可。他們每次來港可在不超過連續14個曆日期間參與指定短期活動，並可就該指定活動收取報酬。
-
-上述計劃已能滿足本地企業聘請外來人才來港從事短期工作的需要。目前無意再推出供非香港居民申請來港短期工作的新措施或計劃。
-
-（五）及（六）短期訪客計劃目前涵蓋十二個界別，涉及共400多個認可機構。截至二○二五年三月底，先導計劃／短期訪客計劃已合共惠及近34000名非本地人才，便利他們以訪客身分來港參與各項短期盛事及活動。按界別及受惠人士來源地的統計數字載於附件四。
-
-保安局表示，為確保計劃與時並進，政府不時審視先導計劃／短期訪客計劃的涵蓋範圍，務求使計劃能夠持續有效地達致相關政策目標。自先導計劃推出以來，政府分別兩次在二○二三年二月以及二○二四年六月擴大計劃，在原有十個指定界別外，增加「金融」及「發展與建築」兩個新界別，並新增認可機構至現時400多個。政府會繼續留意短期訪客計劃的實施情況和相關部門及業界的意見，適時檢討計劃的涵蓋範圍。
-
-（七）因應目前全球教育格局變化，教育局已即時呼籲全港所有大學，為受影響的學生學者提供便利措施，維護他們的正當合法權益。至於受影響的科研人員，教育局一直鼓勵各院校按多元人才政策，吸引頂尖人才。教育局樂見本港各大學均積極回應及密切留意情況，充分善用政府支持本地專上院校擴容提質的便利措施。政府會繼續留意事態發展，並按他們的需要通盤考慮支援方案，包括逐步增加香港博士研究生獎學金計劃名額，吸引更多傑出學者來港，發揮香港作為國際專上教育樞紐的角色。
-
-同時，政府致力推動香港發展成為國際創科中心，一直多管齊下吸引世界各地的創科人才來港，並提供更多優質就業職位和發展機遇。舉例而言，「InnoHK創新香港研發平台」（InnoHK研發平台）已匯聚本地和全球各地約2 500名科研人員。政府已開展建設第三個InnoHK研發平台「SEAM@InnoHK」，聚焦可持續發展、能源、先進製造及材料，相信可匯聚更多人才。
-
-此外，政府於二○二五年五月獲立法會撥款30億元設立「前沿科技研究支援計劃」，旨在支持由大學教育資助委員會資助的八所大學以配對資助形式，吸引國際頂尖科研人員在港進行前沿科技研究及提升科研基礎設施。是項計劃預計在二○二五年九月推出。政府亦已預留60億元，資助本地大學在香港設立生命健康研發院，促進本地與海內外跨大學／科研機構和跨學科的合作，並吸引頂尖學者和科學家來港。
-
-現時，國際頂尖學者、科學家和科研人員可按其情況透過合適的人才入境計劃申請來港，無需再另設人才入境計劃。如符合「人才清單」上的相關專業資格，他們亦可在透過相關計劃申請來港時獲得入境便利。眾多計劃中，「科技人才入境計劃」尤以輸入非本地科技人才到港從事研發工作為目標，合資格公司的人才入境申請可獲快速處理。"
-LCQ19: Combating traffic offences,2025-07-23 12:40,2025-07-23 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300325.htm,"âFollowing is a question by the Hon Yung Hoi-yan and a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (July 23):
-
-Question:
-
-It has been reported that after the occurrence of traffic accidents recently, many drivers who caused the accidents chose to hit and run or refused to provide the drivers' personal particulars. There are views that the reason for the drivers who caused the accidents taking such actions is the lighter penalty for the relevant traffic offences, thereby enabling them to circumvent more serious offences such as causing casualties by dangerous driving, which reflected the existence of legal loopholes in the authorities' efforts to combat traffic offences. In this connection, will the Government inform this Council:
-
-(1) of the respective numbers of persons who were (i) arrested, (ii) prosecuted, (iii) convicted after trial and on own plea for being involved in traffic accidents in each of the past five years, together with a breakdown by the offenses involving the drivers concerned (including but not limited to (a) careless driving, (b) causing grievous bodily harm by dangerous driving, (c) causing death by dangerous driving, (d) failing to stop after a traffic accident, (e) failing to report after a traffic accident, and (f) refusing to provide the driver's information after a traffic accident);
-
-(2) given that under the Road Traffic Ordinance (Cap. 374) (the Ordinance), the maximum penalty for refusal to give information on the driver of a vehicle suspected of having committed an offence under the Ordinance is liable to a fine of $10,000 and an imprisonment for six months, whereas the maximum penalty for dangerous driving causing death is a fine of $50,000 and an imprisonment for 10 years; disqualification from driving for not less than five years on first conviction and not less than 10 years or life on subsequent conviction, there are views that the disparity in the penalties between the two offences is significant, which may indirectly encourage drivers who caused accidents to circumvent serious offences by refusing to give personal particulars, whether the Government has plans to increase the penalties and maximum penalty for refusal to give a driver's personal particulars, so as to enhance the deterrent effect; if so, of the details; if not, the reasons for that;
-
-(3) it is learnt that if the registered owner of the vehicle concerned is a limited company and the relevant person refused to give the driver's personal particulars after the traffic accident, the penalty is only limited to a fine and no one has to be imprisoned, whether the Government has plans to review the responsibility of the registrant of the vehicle concerned after a traffic accident, e.g. whether it will hold the responsible individuals of companies of the vehicle involved (including director, general manager or company secretary) responsible for the traffic accident, and whether it will study empowering the Commissioner for Transport to refuse to issue licences to owners of company vehicles who have repeatedly committed offences under section 63(1) of the Ordinance; if so, of the details; if not, the reasons for that;
-
-(4) given that Schedule 8 to the Criminal Procedure Ordinance (Cap. 221) sets out the level of fines for offences, but there are views that the Schedule was last revised in 1994 and has failed to adequately reflect the severity of some of the offences (including behaviour in contravention of traffic legislation) taking into account the current social environment and economic changes, whether the Government has plans to review the Schedule and increase the corresponding amounts of fines; if so, of the details; if not, the reasons for that; and
-
-(5) given that under the Magistrates Ordinance (Cap. 227), the maximum sentence Magistrates' Courts can impose is generally two years' imprisonment and a fine of $100,000; and maximum three years' imprisonment where there are two or more indictable offences being dealt with by the courts at the same time, whether the Government will review the Ordinance and study expanding the Magistrates' power to impose imprisonment and fine in parallel, so as to ensure that they can impose deterrent penalties when more serious offences (including contravention of traffic legislation) are being adjudicated; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
-After consulting the Hong Kong Police Force (HKPF), the Department of Justice, and the Judiciary Administration, my consolidated reponse to the questions raised by the Hon Yung Hoi-yan on combating traffic offences is as follows:
-
-(1) The numbers of arrests related to the offences mentioned in the question from 2020 to 2024 are listed in the table below. Apart from the initial figures, which may have been influenced by the COVID-19 pandemic, the numbers have remained generally stable in recent years.
-
-
-
-
-Offences
-2020
-2021
-2022
-2023
-2024
-
-
-Careless Driving
-26
-48
-25
-36
-34
-
-
-Causing grievous bodily harm by dangerous driving
-84
-93
-102
-103
-102
-
-
-Causing death by dangerous driving
-51
-55
-54
-56
-34
-
-
-Failing to stop after a traffic accident
-7
-20
-24
-23
-33
-
-
-Failing to report a traffic accident
-7
-18
-24
-20
-31
-
-
-Failing to give particulars after a traffic accident
-0
-1
-0
-1
-0
-
-
-
-
-The HKPF does not maintain a breakdown of statistical data for ""prosecutions"", ""convictions through trial"", or ""guilty pleas"".
-
-(2) and (3) In accordnance with sections 63(1), (2) and (3) and 63B(2) and (3) of the Road Traffic Ordinance (Cap. 374) (the Ordinance), if the driver of a vehicle is suspected of having committed an offence under the Ordinance, or an accident occurs owing to the presence of a vehicle on a road, a police officer may, within six months after the date of the alleged offence or accident, demand any person to provide the personal particulars of the driver involved and the relationship (if any) of the person to the driver concerned. Sections 63B(5) and (7) of the Ordinance provide that any person who contravenes section 63B(2) or (3) commits an offence and is liable on conviction to a fine at level 3 (i.e. $10,000) and to imprisonment for six months, unless the person proves that he did not know, and could not with reasonable diligence have ascertained, the personal particulars of the driver involved.
-
-The Government agrees that a registered vehicle owner should have a certain degree of responsibility with regard to who drives the vehicle registered under his name. However, the registered owner may not actually have full control of all operational information of his vehicle. Therefore, the current section 63B of the Ordinance provides a defence provision to exempt registered vehicle owners from the responsibility of providing driver information in respect of the vehicle concerned under certain circumstances to strike a proper balance.
-
-The HKPF has consistently enforced the law strictly and effectively, striving to bring offenders to justice. When investigating traffic accidents, apart from requiring the registered vehicle owner to provide information on the driver who may have been involved in the accident under section 63 of the Ordinance, the HKPF will, depending on the nature of the case, use various methods to gather evidence. These methods include analysing footage from nearby security cameras, dash cameras, or even fingerprints to identify the driver involved. In other words, even if the HKPF cannot obtain information of the driver who may have been involved in the accident from the registered owner, there are still ways for the HKPF to find out the cause of the accident through other means and to prosecute the suspected offender.
-
-The Government will continue to pay heed to stakeholders' views and review the legislation when appropriate.
-
-(4) Schedule 8 to the Criminal Procedure Ordinance (Cap. 221) sets out different levels of fines applicable to penalty provisions under various ordinances. Bureaux and departments will from time to time review and propose adjustments to penalties under relevant legislation based on their policy considerations to ensure that the penalties reflect the severity of the offences. The Government will review the fine levels table as appropriate.
-
-(5) The scope of charges heard in the Magistrates' Courts includes summary offences and indictable offences, with the maximum penalty for indictable offences generally being imprisonment for two years and a fine of $100,000. The Government may, in accordance with relevant policies, empower magistrates to impose maximum penalties under specific legislation when enacting or amending such laws to enhance deterrent effect, instead of amending the Magistrates Ordinance (Cap. 227). Currently, certain ordinances already authorise magistrates to impose a maximum penalty of up to three years' imprisonment and a fine of $5 million for a single offence. In addition, while all criminal proceedings commence in the Magistrates' Courts, more serious indictable offences may be transferred to the District Court or the Court of First Instance of the High Court for trial. The District Court has a sentencing limit of up to seven years' imprisonment, while the Court of First Instance may impose the maximum penalty prescribed by the relevant legislative provisions. This mechanism has been operating effectively.
-
-Currently, different levels of courts (including the Magistrates' Courts) have distinct judicial jurisdictions, allowing cases to be reasonably allocated based on their nature, severity, and complexity to ensure the efficiency of judicial operations. Any proposals to adjust the judicial jurisdiction of individual court levels (including the Magistrates' Courts) should go through a comprehensive and prudent review and an extensive consultation with stakeholders, before any decisions are made. Key considerations include the demarcation of judicial jurisdiction among different court levels, ensuring that each level of courts has adequate judicial manpower and legal support to handle relevant cases, as well as the overall resources, facilities, and supporting arrangements of the courts."
 立法會十九題：打擊交通違例,2025-07-23 12:40,2025-07-23 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300324.htm,"以下是今日（七月二十三日）在立法會會議上容海恩議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
 問題：
@@ -2562,6 +2424,65 @@ Currently, different levels of courts (including the Magistrates' Courts) have d
 （五）裁判法院進行聆訊的控罪範圍包括簡易程序罪行和可公訴罪行，其中可公訴罪行的最高刑罰一般為監禁兩年和罰款十萬元。政府可因應相關政策，適當地在訂立或修訂個別法例時，賦權裁判官在該些法例下可判處的最高刑罰，以達致增加阻嚇力的效果，而不用對《裁判官條例》（第227章）進行相應修訂。現時，某些條例已賦權裁判官可就單一罪行最高判處監禁三年和罰款五百萬元。另外，雖然所有刑事案件的程序都在裁判法院開始，但較嚴重的可公訴罪行可移交區域法院或高等法院原訟法庭審理。區域法院的判刑上限為監禁七年，原訟法庭則可判處有關法例條文訂明的最高刑罰。這機制一直行之有效。
 
 現時不同層級的法院（包括裁判法院）各有不同的司法管轄權，使法院之間的案件按性質、嚴重程度和複雜程度等因素，得以合理地分配，以確保司法工作的效能。任何對調整個別層級的法院（包括裁判法院）司法管轄權的建議，必須經審慎全面檢討，並廣泛諮詢持份者，方可作任何決定。主要考慮因素包括不同層級法院間司法管轄權的界定、如何確保各級法院具備適切司法人手及法律支援以應付相關案件，以及法庭整體的資源、設施和配套安排等。"
+立法會二十一題：吸引人才與資本來港的計劃,2025-07-23 12:40,2025-07-23 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300295.htm,"以下是今日（七月二十三日）在立法會會議上葛珮帆議員的提問和勞工及福利局局長孫玉菡的書面答覆：
+
+問題：
+
+本港現行設有九項主要吸引人才與資本來港的計劃，包括「高端人才通行證計劃」（高才通計劃）、「一般就業政策」、「輸入內地人才計劃」、「優秀人才入境計劃」、「非本地畢業生留港／回港就業安排」、「輸入中國籍香港永久性居民第二代計劃」、「新資本投資者入境計劃」、「科技人才入境計劃」及「職專畢業生留港計劃」（該等人才入境計劃）。此外，當局於去年六月一日起實施「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃），以提供入境便利予獲認可主辦機構邀請／保證來港參與有利香港特別行政區發展的指定短期活動。就此，政府可否告知本會：
+
+（一）去年六月至上月，當局接獲該等人才入境計劃的申請及獲批宗數，以及涉及的收入分別為何；
+
+（二）自高才通計劃推行至今，每年獲批來港的申請人的所屬地區或國家的分布為何；
+
+（三）過去三年，每年透過該等人才入境計劃獲批來港的申請人中，從事創新科技範疇的人數分別為何，並按該等人才入境計劃列出分項數字；
+
+（四）過去五年，每年透過一般就業政策及輸入內地人才計劃獲批來港從事短期工作的人數，以及其行業／界別的分布分別為何；除該兩項計劃外，政府會否研究推出其他措施或計劃，讓非香港居民可申請來港從事短期工作（即逗留期限不超過180日）；
+
+（五）自短期訪客計劃推行以來，獲批來港的申請人數、所屬地區或國家的分布，以及其指定界別的分布分別為何；
+
+（六）當局有否計劃擴大短期訪客計劃中「認可主辦機構」及／或「指定界別」的清單；若有，詳情為何；若否，原因為何；及
+
+（七）據悉美國政府近年推出一系列新政策，包括收緊簽證制度及大幅縮減研究經費等，導致大量當地科研人員（尤其是華人科學家）考慮離開美國，政府有何措施（包括會否推出具針對性的人才入境計劃或措施）支援本地大學盡力吸引該等海外頂尖科學家來港發展？
+
+答覆：
+
+主席：
+
+政府正推行多項吸引人才與資本投資者的入境計劃，積極吸納專業人才、企業家及高資產人士，豐富本地人才庫及吸引更多新資金落戶香港，提升香港的整體競爭力，促進本地經濟多元化及創新發展。
+
+就議員的提問，經諮詢保安局、教育局、創新科技及工業局、財經事務及庫務局及入境事務處（入境處）後，現答覆如下：
+
+（一）自去年六月一日，截至今年六月底，「高端人才通行證計劃」（高才通計劃）、「一般就業政策」、「輸入內地人才計劃」、「優秀人才入境計劃」（優才計劃）、「非本地畢業生留港／回港就業安排」、「輸入中國籍香港永久性居民第二代計劃」以及「科技人才入境計劃」共接獲逾19萬宗申請，當中近14萬宗獲批。有關分項統計數字載於附件一。「職專畢業生留港計劃」要待首批合資格全日制高級文憑課程學生於二○二六年年中起畢業後才開始接受申請。
+
+在「新資本投資者入境計劃」下，投資推廣署負責審查申請是否符合有關財務規定，入境處則負責審批簽證‍／進入許可、延長逗留期限和無條件限制逗留的申請。去年六月一日至今年六月底，入境處共接獲1295宗「新資本投資者入境計劃」的申請，當中673宗獲批。入境處沒有備存提問涉及各項計劃申請及簽證費用所得收入的統計數字。
+
+（二）以吸納高收入人士或頂尖學府學士畢業生為目標的高才通計劃自二○二二年底推出以來反應十分踴躍。截至今年六月底，共收到約135000宗申請，當中近109000宗獲批，有約四成（約32000名）B類及C類的申請者畢業於海外頂尖大學的學士課程。高才通計劃的獲批個案按申請人及其合資格大學所屬地區的分項統計數字載於附件二。
+
+（三）過去三年，「一般就業政策」及「輸入內地人才計劃」下分別約76000及57000宗獲批申請中，從事創新科技（創科）相關範疇工作的獲批申請人數目分別為1654及4006。優才計劃下，過去三年成功通過甄選程序的獲批個案約有27000宗，當中8021名申請人背景來自創科相關範疇。至於旨在吸納科技人才來港從事研發工作的「科技人才入境計劃」，過去三年共有334位申請人獲批，全數從事創科範疇工作。
+
+就高才通計劃，入境處於二○二三年三月一日調整申請流程，要求有工作經驗的申請人必須申報其職業所屬的界別。自二○二三年三月起至今年六月底，近十萬宗獲批申請當中有26211名申請人申報其過去工作屬創科相關範疇。
+
+提問中的其他人才入境計劃下，申請人申請來港時無須已在港覓得工作，在首個簽證有效期間，申請人如在港受聘或開辦／參與業務，亦無須通知入境處。鑑於計劃的性質，「新資本投資者入境計劃」並不要求申請人申報其職業背景。入境處沒有備存其他計劃獲批申請人剛來港時從事行業的統計資料。
+
+（四）過去五年，「一般就業政策」接獲逾112000宗申請，逾103000宗申請獲批，當中約63000宗為聘用期少於12個月的短期職位。「輸入內地人才計劃」過去五年共收到近88000宗申請，超過77000宗獲批，約31000宗獲批申請為短期職位的個案。兩個計劃下獲批擔任短期職位的個案按行業／界別的分項統計數字載於附件三。
+
+企業若有職位空缺並面對本地招聘困難，便可經由上述兩項就業掛鈎入境計劃提出申請，聘用具備香港所需而又缺乏的特別技能、知識或經驗的外來人才來港從事短期或長期工作。
+
+為方便營商和促進相關界別發展，並提升香港的國際形象，政府亦已於二○二二年六月推出為期兩年的「為來港參與指定界別短期活動的訪客提供入境便利先導計劃」（先導計劃），並於二○二四年六月把先導計劃恆常化為「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）。在先導計劃／短期訪客計劃下，獲政府相關決策局／部門認可的機構可向界別內相關的非本地人才發出邀請信，獲邀人士可以訪客身分來港參與指定短期活動，而無須向入境處申請工作簽證／進入許可。他們每次來港可在不超過連續14個曆日期間參與指定短期活動，並可就該指定活動收取報酬。
+
+上述計劃已能滿足本地企業聘請外來人才來港從事短期工作的需要。目前無意再推出供非香港居民申請來港短期工作的新措施或計劃。
+
+（五）及（六）短期訪客計劃目前涵蓋十二個界別，涉及共400多個認可機構。截至二○二五年三月底，先導計劃／短期訪客計劃已合共惠及近34000名非本地人才，便利他們以訪客身分來港參與各項短期盛事及活動。按界別及受惠人士來源地的統計數字載於附件四。
+
+保安局表示，為確保計劃與時並進，政府不時審視先導計劃／短期訪客計劃的涵蓋範圍，務求使計劃能夠持續有效地達致相關政策目標。自先導計劃推出以來，政府分別兩次在二○二三年二月以及二○二四年六月擴大計劃，在原有十個指定界別外，增加「金融」及「發展與建築」兩個新界別，並新增認可機構至現時400多個。政府會繼續留意短期訪客計劃的實施情況和相關部門及業界的意見，適時檢討計劃的涵蓋範圍。
+
+（七）因應目前全球教育格局變化，教育局已即時呼籲全港所有大學，為受影響的學生學者提供便利措施，維護他們的正當合法權益。至於受影響的科研人員，教育局一直鼓勵各院校按多元人才政策，吸引頂尖人才。教育局樂見本港各大學均積極回應及密切留意情況，充分善用政府支持本地專上院校擴容提質的便利措施。政府會繼續留意事態發展，並按他們的需要通盤考慮支援方案，包括逐步增加香港博士研究生獎學金計劃名額，吸引更多傑出學者來港，發揮香港作為國際專上教育樞紐的角色。
+
+同時，政府致力推動香港發展成為國際創科中心，一直多管齊下吸引世界各地的創科人才來港，並提供更多優質就業職位和發展機遇。舉例而言，「InnoHK創新香港研發平台」（InnoHK研發平台）已匯聚本地和全球各地約2 500名科研人員。政府已開展建設第三個InnoHK研發平台「SEAM@InnoHK」，聚焦可持續發展、能源、先進製造及材料，相信可匯聚更多人才。
+
+此外，政府於二○二五年五月獲立法會撥款30億元設立「前沿科技研究支援計劃」，旨在支持由大學教育資助委員會資助的八所大學以配對資助形式，吸引國際頂尖科研人員在港進行前沿科技研究及提升科研基礎設施。是項計劃預計在二○二五年九月推出。政府亦已預留60億元，資助本地大學在香港設立生命健康研發院，促進本地與海內外跨大學／科研機構和跨學科的合作，並吸引頂尖學者和科學家來港。
+
+現時，國際頂尖學者、科學家和科研人員可按其情況透過合適的人才入境計劃申請來港，無需再另設人才入境計劃。如符合「人才清單」上的相關專業資格，他們亦可在透過相關計劃申請來港時獲得入境便利。眾多計劃中，「科技人才入境計劃」尤以輸入非本地科技人才到港從事研發工作為目標，合資格公司的人才入境申請可獲快速處理。"
 LCQ21: Schemes for attracting talents and capital to Hong Kong,2025-07-23 12:40,2025-07-23 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300298.htm," Following is a question by the Hon ElizabethQuatand a written reply by the Secretary for Labour and Welfare, Mr Chris Sun, in the Legislative Council today (July 23):
 
 Question:
@@ -2621,6 +2542,106 @@ President,
   Besides, the Government has secured funding approval from the Legislative Council in May 2025 for the establishment of the $3 billion Frontier Technology Research Support Scheme (FTRSS), which is aimed at supporting, through matching funds, the eight universities funded by the University Grants Committee to attract international top-notch researchers for conducting research projects on frontier technology in Hong Kong and enhance basic research facilities. It is the plan to launch the FTRSS in September 2025. The Government has also set aside $6 billion to support local universities to set up Life and Health Technology Research Institute(s) to foster multi-disciplinary co-operation among universities/research institutions from Hong Kong, the Mainland and overseas, and attract top-notch scholars and scientists to Hong Kong.
 
   At present, top international scholars, scientists and researchers can apply for entry into Hong Kong under suitable talent admission schemes according to their own circumstances. There is no need to set up a separate talent admission scheme. If meeting the relevant professional qualifications in the Talent List, they can also enjoy immigration facilitation when applying for entry into Hong Kong under the relevant schemes. Among the various schemes, the TechTAS specifically targets the admission of non-local technology talents to Hong Kong for research and development work, and processes applications from eligible companies expeditiously."
+LCQ19: Combating traffic offences,2025-07-23 12:40,2025-07-23 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300325.htm,"âFollowing is a question by the Hon Yung Hoi-yan and a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (July 23):
+
+Question:
+
+It has been reported that after the occurrence of traffic accidents recently, many drivers who caused the accidents chose to hit and run or refused to provide the drivers' personal particulars. There are views that the reason for the drivers who caused the accidents taking such actions is the lighter penalty for the relevant traffic offences, thereby enabling them to circumvent more serious offences such as causing casualties by dangerous driving, which reflected the existence of legal loopholes in the authorities' efforts to combat traffic offences. In this connection, will the Government inform this Council:
+
+(1) of the respective numbers of persons who were (i) arrested, (ii) prosecuted, (iii) convicted after trial and on own plea for being involved in traffic accidents in each of the past five years, together with a breakdown by the offenses involving the drivers concerned (including but not limited to (a) careless driving, (b) causing grievous bodily harm by dangerous driving, (c) causing death by dangerous driving, (d) failing to stop after a traffic accident, (e) failing to report after a traffic accident, and (f) refusing to provide the driver's information after a traffic accident);
+
+(2) given that under the Road Traffic Ordinance (Cap. 374) (the Ordinance), the maximum penalty for refusal to give information on the driver of a vehicle suspected of having committed an offence under the Ordinance is liable to a fine of $10,000 and an imprisonment for six months, whereas the maximum penalty for dangerous driving causing death is a fine of $50,000 and an imprisonment for 10 years; disqualification from driving for not less than five years on first conviction and not less than 10 years or life on subsequent conviction, there are views that the disparity in the penalties between the two offences is significant, which may indirectly encourage drivers who caused accidents to circumvent serious offences by refusing to give personal particulars, whether the Government has plans to increase the penalties and maximum penalty for refusal to give a driver's personal particulars, so as to enhance the deterrent effect; if so, of the details; if not, the reasons for that;
+
+(3) it is learnt that if the registered owner of the vehicle concerned is a limited company and the relevant person refused to give the driver's personal particulars after the traffic accident, the penalty is only limited to a fine and no one has to be imprisoned, whether the Government has plans to review the responsibility of the registrant of the vehicle concerned after a traffic accident, e.g. whether it will hold the responsible individuals of companies of the vehicle involved (including director, general manager or company secretary) responsible for the traffic accident, and whether it will study empowering the Commissioner for Transport to refuse to issue licences to owners of company vehicles who have repeatedly committed offences under section 63(1) of the Ordinance; if so, of the details; if not, the reasons for that;
+
+(4) given that Schedule 8 to the Criminal Procedure Ordinance (Cap. 221) sets out the level of fines for offences, but there are views that the Schedule was last revised in 1994 and has failed to adequately reflect the severity of some of the offences (including behaviour in contravention of traffic legislation) taking into account the current social environment and economic changes, whether the Government has plans to review the Schedule and increase the corresponding amounts of fines; if so, of the details; if not, the reasons for that; and
+
+(5) given that under the Magistrates Ordinance (Cap. 227), the maximum sentence Magistrates' Courts can impose is generally two years' imprisonment and a fine of $100,000; and maximum three years' imprisonment where there are two or more indictable offences being dealt with by the courts at the same time, whether the Government will review the Ordinance and study expanding the Magistrates' power to impose imprisonment and fine in parallel, so as to ensure that they can impose deterrent penalties when more serious offences (including contravention of traffic legislation) are being adjudicated; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+After consulting the Hong Kong Police Force (HKPF), the Department of Justice, and the Judiciary Administration, my consolidated reponse to the questions raised by the Hon Yung Hoi-yan on combating traffic offences is as follows:
+
+(1) The numbers of arrests related to the offences mentioned in the question from 2020 to 2024 are listed in the table below. Apart from the initial figures, which may have been influenced by the COVID-19 pandemic, the numbers have remained generally stable in recent years.
+
+
+
+
+Offences
+2020
+2021
+2022
+2023
+2024
+
+
+Careless Driving
+26
+48
+25
+36
+34
+
+
+Causing grievous bodily harm by dangerous driving
+84
+93
+102
+103
+102
+
+
+Causing death by dangerous driving
+51
+55
+54
+56
+34
+
+
+Failing to stop after a traffic accident
+7
+20
+24
+23
+33
+
+
+Failing to report a traffic accident
+7
+18
+24
+20
+31
+
+
+Failing to give particulars after a traffic accident
+0
+1
+0
+1
+0
+
+
+
+
+The HKPF does not maintain a breakdown of statistical data for ""prosecutions"", ""convictions through trial"", or ""guilty pleas"".
+
+(2) and (3) In accordnance with sections 63(1), (2) and (3) and 63B(2) and (3) of the Road Traffic Ordinance (Cap. 374) (the Ordinance), if the driver of a vehicle is suspected of having committed an offence under the Ordinance, or an accident occurs owing to the presence of a vehicle on a road, a police officer may, within six months after the date of the alleged offence or accident, demand any person to provide the personal particulars of the driver involved and the relationship (if any) of the person to the driver concerned. Sections 63B(5) and (7) of the Ordinance provide that any person who contravenes section 63B(2) or (3) commits an offence and is liable on conviction to a fine at level 3 (i.e. $10,000) and to imprisonment for six months, unless the person proves that he did not know, and could not with reasonable diligence have ascertained, the personal particulars of the driver involved.
+
+The Government agrees that a registered vehicle owner should have a certain degree of responsibility with regard to who drives the vehicle registered under his name. However, the registered owner may not actually have full control of all operational information of his vehicle. Therefore, the current section 63B of the Ordinance provides a defence provision to exempt registered vehicle owners from the responsibility of providing driver information in respect of the vehicle concerned under certain circumstances to strike a proper balance.
+
+The HKPF has consistently enforced the law strictly and effectively, striving to bring offenders to justice. When investigating traffic accidents, apart from requiring the registered vehicle owner to provide information on the driver who may have been involved in the accident under section 63 of the Ordinance, the HKPF will, depending on the nature of the case, use various methods to gather evidence. These methods include analysing footage from nearby security cameras, dash cameras, or even fingerprints to identify the driver involved. In other words, even if the HKPF cannot obtain information of the driver who may have been involved in the accident from the registered owner, there are still ways for the HKPF to find out the cause of the accident through other means and to prosecute the suspected offender.
+
+The Government will continue to pay heed to stakeholders' views and review the legislation when appropriate.
+
+(4) Schedule 8 to the Criminal Procedure Ordinance (Cap. 221) sets out different levels of fines applicable to penalty provisions under various ordinances. Bureaux and departments will from time to time review and propose adjustments to penalties under relevant legislation based on their policy considerations to ensure that the penalties reflect the severity of the offences. The Government will review the fine levels table as appropriate.
+
+(5) The scope of charges heard in the Magistrates' Courts includes summary offences and indictable offences, with the maximum penalty for indictable offences generally being imprisonment for two years and a fine of $100,000. The Government may, in accordance with relevant policies, empower magistrates to impose maximum penalties under specific legislation when enacting or amending such laws to enhance deterrent effect, instead of amending the Magistrates Ordinance (Cap. 227). Currently, certain ordinances already authorise magistrates to impose a maximum penalty of up to three years' imprisonment and a fine of $5 million for a single offence. In addition, while all criminal proceedings commence in the Magistrates' Courts, more serious indictable offences may be transferred to the District Court or the Court of First Instance of the High Court for trial. The District Court has a sentencing limit of up to seven years' imprisonment, while the Court of First Instance may impose the maximum penalty prescribed by the relevant legislative provisions. This mechanism has been operating effectively.
+
+Currently, different levels of courts (including the Magistrates' Courts) have distinct judicial jurisdictions, allowing cases to be reasonably allocated based on their nature, severity, and complexity to ensure the efficiency of judicial operations. Any proposals to adjust the judicial jurisdiction of individual court levels (including the Magistrates' Courts) should go through a comprehensive and prudent review and an extensive consultation with stakeholders, before any decisions are made. Key considerations include the demarcation of judicial jurisdiction among different court levels, ensuring that each level of courts has adequate judicial manpower and legal support to handle relevant cases, as well as the overall resources, facilities, and supporting arrangements of the courts."
 ​立法會七題：科技與生活科課程,2025-07-23 12:38,2025-07-23 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300289.htm,"以下是今日（七月二十三日）在立法會會議上梁子穎議員的提問和教育局局長蔡若蓮博士的書面答覆︰
 
 問題：
@@ -3506,47 +3527,6 @@ Post-arrival information
  Lawbreakers enticing students to participate in rental scams using commissions may have committed fraud-related offences, including the offence of ""fraud"" under section 16A and the offence of ""obtaining property by deception"" under section 17 of the Theft Ordinance, and are liable to imprisonment for up to 14 years and 10 years respectively. In addition, under section 159C of the Crimes Ordinance (Cap. 200), a person who has committed the offence of ""conspiracy to defraud"" is liable on conviction to imprisonment for up to 14 years, while a person charged with ""dealing with property known or believed to represent proceeds of indictable offence"" under section 25 of the Organized and Serious Crimes Ordinance for proceeds of deception is liable to maximum penalties of 14 years' imprisonment and a fine of HK$5 million. Depending on the nature and gravity of the case, the Police may also apply to the court for invocation of section 27 of the Organized and Serious Crimes Ordinance to seek enhanced sentences and thus strengthen deterrence. Members of the public are urged not to commit the offence out of greed.
 
  In conclusion, the Government will continue to adopt a multi-pronged approach to stringently combat rental scams, and raise the new arrivals' vigilance against related scams through enhanced publicity and education."
-​立法會十題：街渡渡輪服務,2025-07-23 11:55,2025-07-23 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300285.htm,"以下是今日（七月二十三日）在立法會會議上易志明議員的提問和運輸及物流局局長陳美寶的書面答覆：
-
-問題：
-
-根據政府於本年六月提交本會食物安全及環境衞生事務委員會的文件，漁農自然護理署正與海事處探討允許領有第III類別牌照的漁船「一船兩用」（即容許該類船隻進行捕魚活動之餘，在符合特定條件及安全操作的前提下，亦可接載遊客出海進行休閒漁業活動）的可行性。然而，有街渡服務營辦商對此表示憂慮，指出港人北上消費已導致其乘客量持續下降，擔心「一船兩用」措施將進一步收窄其營運空間。就此，政府可否告知本會：
-
-（一）有否統計，過去三年各條固定班次的街渡渡輪服務航線的載客量，以及同期新增或取消了多少條街渡渡輪服務航線；
-
-（二）政府如何確保「一船兩用」措施不會對現時持有第I類別牌照的街渡服務營辦商造成衝擊；
-
-（三）鑑於有經營固定班次的街渡服務營辦商反映，在面對乘客量持續下降，以及保險費、維修費、燃油費及員工薪酬等營運成本不斷上升的情況下，他們已陷入經營困境，當局有何措施支援街渡服務業界；及
-
-（四）為解決街渡服務面對的困境並促進其長遠發展，當局會否設立專案小組跟進；如會，詳情為何；如否，當局會如何推動街渡服務的持續發展，並促進其配合政府發展海島遊？
-
-答覆：
-
-主席：
-
-大部分街渡渡輪並非市民大眾日常使用的公共交通工具，當中不少主要為旅遊或康樂性質，營運規模較小且屬非常規服務，為往返本港較偏遠及一般不能經由陸路到達的地點提供水路運輸。截至二○二五年六月三十日，全港共有14條固定班次的街渡航線，以及55條按需求而定的街渡航線。
-
-就易志明議員的提問，經諮詢環境及生態局與旅遊事務署後，現綜合回覆如下：
-
-（一）過去三年（二○二二至二○二四年），固定班次的街渡渡輪航線載客量載於附件。
-
-同期固定班次的街渡渡輪航線分別新增及減少了五條，現時航線數目為14條。減少的航線當中，「坪洲—愉景灣（經聖母神樂院）」航線（PC 6）於二○二三年由固定班次的街渡渡輪航線轉為持牌渡輪航線。
-
-（二）根據《商船（本地船隻）（證明書及牌照事宜）規例》（第548D章），第III類別船隻只可用作捕魚及有關用途，不得載客。
-
-漁農自然護理署（漁護署）正探討容許持有第III類別牌照的漁船在符合特定條件和安全標準的前提下，接載遊客出海進行休閒漁業或推廣本地漁業文化的活動（即「一船兩用」）的可行性，以協助捕撈漁民轉型發展休閒漁業。探討方向包括漁船改裝的標準和保險等事宜，並會適時諮詢持份者。
-
-漁護署的初步構思是「一船兩用」的定位為推動休閒漁業發展及推廣漁業文化，擬議活動須具漁業元素，例如以特定漁具進行捕魚示範、手釣教室、漁民文化導賞活動、漁業工作坊等，而非單純載客出海或海島遊等。「一船兩用」活動與街渡接載乘客前往固定地點的定位並不相同。
-
-（三）及（四）政府的一貫政策是公共運輸服務應由私營機構按商業原則經營，以提升效率及成本效益。政府在過去基本上對公共運輸服務並無提供直接資助。
-
-大部分街渡渡輪服務（包括固定班次的街渡渡輪航線）每日接載的乘客量普遍較少，需求亦會因天氣及假日等因素影響而較不穩定。故此，運輸署對街渡渡輪服務的監管較具彈性，以便利營辦商因應市場需求及營運狀況調整經營模式及策略。舉例而言，運輸署容許營辦商因應需求而調整班次、票價及時間表，亦免除其提供經審核的財務資料的要求等。
-
-此外，政府長者及合資格殘疾人士公共交通票價優惠計劃（二元優惠計劃）自二○二二年二月二十七日起擴展至獲運輸署批准參與計劃的街渡航線。現時有13條提供固定班次服務的街渡渡輪航線獲納入二元優惠計劃內，便利更多受惠人士使用有關的街渡服務。
-
-就配合發展海島遊方面，運輸署一直與相關部門（包括旅遊事務署）保持緊密溝通，以評估乘客和遊客就海上交通服務的需求，並會因應特定地區的交通需求，主動邀請營辦商開辦特定的航線。例如，運輸署曾於二○二三年主動邀請營辦商開辦「西貢—滘西村／糧船灣」及「沙頭角—荔枝窩／鴨洲／吉澳」街渡渡輪航線，以配合有關地區因旅遊而衍生的需求。
-
-此外，運輸署積極統籌政府部門，就街渡渡輪相關事宜（包括停靠點設施、船隻牌照、航線規劃等）提供協助。運輸署會繼續與渡輪營辦商聯繫，便利營辦商申辦合適可行的新街渡渡輪航線，並密切跟進其營運情況及實際需要，包括與其他部門召開會議，以商討適當措施促進其長遠發展。"
 LCQ10: Kaito ferry services,2025-07-23 11:55,2025-07-23 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300286.htm,"Following is a question by the Hon Frankie Yick and a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (July 23):
 
 Question:
@@ -3588,17 +3568,47 @@ Also, the Government Public Transport Fare Concession Scheme for the Elderly and
 With regard to aligning with the development of island tourism, the TD has maintained close communication with relevant departments (including the Tourism Commission) to assess passengers and tourists' demand for waterborne transport services, and has proactively invited operators to operate specific routes in view of the traffic demand at certain areas. For example, in 2023, the TD took the initiative to invite operators to operate the ""Sai Kung – Kau Sai Village/High Island"" and ""Sha Tau Kok – Lai Chi Wo/Ap Chau/Kat O"" kaito ferry routes to meet the tourism-driven demand at relevant areas.
 
 In addition, the TD actively co-ordinates government departments to provide assistance on matters relating to kaito ferries (including berthing facilities, vessel licensing and route planning). The TD will continue to liaise with ferry operators to facilitate their applications for operating suitable and feasible new kaito ferry routes, and closely follow up on their operation situation and actual needs, including convening meetings with other departments to discuss appropriate measures to facilitate the long-term development of kaito ferry services."
-Coin Collection Programme,2025-07-23 11:42,2025-07-23 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300322.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+​立法會十題：街渡渡輪服務,2025-07-23 11:55,2025-07-23 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300285.htm,"以下是今日（七月二十三日）在立法會會議上易志明議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
-The Hong Kong Monetary Authority (HKMA) today (July 23) announced a new service schedule of the two Coin Carts under the Coin Collection Programme, for the period of August 18, 2025 up to October 26, 2025. The schedule and other details of the Programme are shown on the HKMA webpage (coincollection.hkma.gov.hk).
+問題：
 
-Since the launch of the Programme in October 2014 up to June 30, 2025, the two Coin Carts had carried out 1 374 000 transactions, collecting 1 052 million coins with a total face value of HK$1,691 million during the period. The collected coins are re-circulated to meet demand.
+根據政府於本年六月提交本會食物安全及環境衞生事務委員會的文件，漁農自然護理署正與海事處探討允許領有第III類別牌照的漁船「一船兩用」（即容許該類船隻進行捕魚活動之餘，在符合特定條件及安全操作的前提下，亦可接載遊客出海進行休閒漁業活動）的可行性。然而，有街渡服務營辦商對此表示憂慮，指出港人北上消費已導致其乘客量持續下降，擔心「一船兩用」措施將進一步收窄其營運空間。就此，政府可否告知本會：
 
-The Coin Carts provide service at locations that are convenient to the public without affecting the normal flow of traffic and pedestrians. Locations that have suitable power supply facilities, such as the Leisure and Cultural Services Department mobile library service locations, are preferred so as to reduce the need for using the Coin Carts' own stand-by generators. This makes the Programme more environmentally friendly. In selecting the service locations, the HKMA has taken into consideration comments and suggestions given by district councils and members of public; and has consulted the Transport Department and the Hong Kong Police Force as necessary.
+（一）有否統計，過去三年各條固定班次的街渡渡輪服務航線的載客量，以及同期新增或取消了多少條街渡渡輪服務航線；
 
-The two Coin Carts collect coins from members of public in the 18 districts of Hong Kong on a rotating basis. Under normal circumstances each Coin Cart will stay at a location for a week, subject to availability of the parking space and the maintenance schedule of the Cart. Service hours are from 10am to 7pm. Each vehicle is equipped with two coin counting machines and operational staff will be present to provide assistance. An electrical wheelchair lift is available for use. Users can choose to exchange coins for banknotes or adding value to their stored value facilities, such as Octopus Cards or e-wallets (including AlipayHK, Octopus Wallet, Tap&Go and WeChat Pay). There is also a Community Chest donation box inside each vehicle. The coin collection service is free of charge.
+（二）政府如何確保「一船兩用」措施不會對現時持有第I類別牌照的街渡服務營辦商造成衝擊；
 
-The HKMA will review the Programme from time to time; and will regularly update the service schedule to give advance notice to the public."
+（三）鑑於有經營固定班次的街渡服務營辦商反映，在面對乘客量持續下降，以及保險費、維修費、燃油費及員工薪酬等營運成本不斷上升的情況下，他們已陷入經營困境，當局有何措施支援街渡服務業界；及
+
+（四）為解決街渡服務面對的困境並促進其長遠發展，當局會否設立專案小組跟進；如會，詳情為何；如否，當局會如何推動街渡服務的持續發展，並促進其配合政府發展海島遊？
+
+答覆：
+
+主席：
+
+大部分街渡渡輪並非市民大眾日常使用的公共交通工具，當中不少主要為旅遊或康樂性質，營運規模較小且屬非常規服務，為往返本港較偏遠及一般不能經由陸路到達的地點提供水路運輸。截至二○二五年六月三十日，全港共有14條固定班次的街渡航線，以及55條按需求而定的街渡航線。
+
+就易志明議員的提問，經諮詢環境及生態局與旅遊事務署後，現綜合回覆如下：
+
+（一）過去三年（二○二二至二○二四年），固定班次的街渡渡輪航線載客量載於附件。
+
+同期固定班次的街渡渡輪航線分別新增及減少了五條，現時航線數目為14條。減少的航線當中，「坪洲—愉景灣（經聖母神樂院）」航線（PC 6）於二○二三年由固定班次的街渡渡輪航線轉為持牌渡輪航線。
+
+（二）根據《商船（本地船隻）（證明書及牌照事宜）規例》（第548D章），第III類別船隻只可用作捕魚及有關用途，不得載客。
+
+漁農自然護理署（漁護署）正探討容許持有第III類別牌照的漁船在符合特定條件和安全標準的前提下，接載遊客出海進行休閒漁業或推廣本地漁業文化的活動（即「一船兩用」）的可行性，以協助捕撈漁民轉型發展休閒漁業。探討方向包括漁船改裝的標準和保險等事宜，並會適時諮詢持份者。
+
+漁護署的初步構思是「一船兩用」的定位為推動休閒漁業發展及推廣漁業文化，擬議活動須具漁業元素，例如以特定漁具進行捕魚示範、手釣教室、漁民文化導賞活動、漁業工作坊等，而非單純載客出海或海島遊等。「一船兩用」活動與街渡接載乘客前往固定地點的定位並不相同。
+
+（三）及（四）政府的一貫政策是公共運輸服務應由私營機構按商業原則經營，以提升效率及成本效益。政府在過去基本上對公共運輸服務並無提供直接資助。
+
+大部分街渡渡輪服務（包括固定班次的街渡渡輪航線）每日接載的乘客量普遍較少，需求亦會因天氣及假日等因素影響而較不穩定。故此，運輸署對街渡渡輪服務的監管較具彈性，以便利營辦商因應市場需求及營運狀況調整經營模式及策略。舉例而言，運輸署容許營辦商因應需求而調整班次、票價及時間表，亦免除其提供經審核的財務資料的要求等。
+
+此外，政府長者及合資格殘疾人士公共交通票價優惠計劃（二元優惠計劃）自二○二二年二月二十七日起擴展至獲運輸署批准參與計劃的街渡航線。現時有13條提供固定班次服務的街渡渡輪航線獲納入二元優惠計劃內，便利更多受惠人士使用有關的街渡服務。
+
+就配合發展海島遊方面，運輸署一直與相關部門（包括旅遊事務署）保持緊密溝通，以評估乘客和遊客就海上交通服務的需求，並會因應特定地區的交通需求，主動邀請營辦商開辦特定的航線。例如，運輸署曾於二○二三年主動邀請營辦商開辦「西貢—滘西村／糧船灣」及「沙頭角—荔枝窩／鴨洲／吉澳」街渡渡輪航線，以配合有關地區因旅遊而衍生的需求。
+
+此外，運輸署積極統籌政府部門，就街渡渡輪相關事宜（包括停靠點設施、船隻牌照、航線規劃等）提供協助。運輸署會繼續與渡輪營辦商聯繫，便利營辦商申辦合適可行的新街渡渡輪航線，並密切跟進其營運情況及實際需要，包括與其他部門召開會議，以商討適當措施促進其長遠發展。"
 硬幣收集計劃,2025-07-23 11:42,2025-07-23 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300323.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（七月二十三日）宣布硬幣收集計劃下兩輛「收銀車」新的服務日程表，羅列了從二○二五年八月十八日至二○二五年十月二十六日的服務地點。日程表及其他有關資訊載於金管局網頁（coincollection.hkma.gov.hk） 。
@@ -3610,6 +3620,17 @@ The HKMA will review the Programme from time to time; and will regularly update 
 兩輛「收銀車」在全港18區輪流服務，向市民收集硬幣，一般情況下，視乎「收銀車」停駐地點的情況及車輛維修安排，每輛「收銀車」會在同一地點停留一星期，服務時間由上午十時至晚上七時。每輛車內有兩部硬幣點算機，並有人員協助，亦設有電動輪椅升降台。市民可將硬幣轉換成鈔票或增值至儲值支付工具，例如八達通卡或電子錢包（包括支付寶香港、八達通銀包、拍住賞及WeChat Pay），或將款項放入車內的公益金捐款箱。硬幣收集服務不收費用。
 
 金管局會不時檢討計劃成效，並按時更新服務日程表以便預早通知市民。"
+Coin Collection Programme,2025-07-23 11:42,2025-07-23 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300322.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) today (July 23) announced a new service schedule of the two Coin Carts under the Coin Collection Programme, for the period of August 18, 2025 up to October 26, 2025. The schedule and other details of the Programme are shown on the HKMA webpage (coincollection.hkma.gov.hk).
+
+Since the launch of the Programme in October 2014 up to June 30, 2025, the two Coin Carts had carried out 1 374 000 transactions, collecting 1 052 million coins with a total face value of HK$1,691 million during the period. The collected coins are re-circulated to meet demand.
+
+The Coin Carts provide service at locations that are convenient to the public without affecting the normal flow of traffic and pedestrians. Locations that have suitable power supply facilities, such as the Leisure and Cultural Services Department mobile library service locations, are preferred so as to reduce the need for using the Coin Carts' own stand-by generators. This makes the Programme more environmentally friendly. In selecting the service locations, the HKMA has taken into consideration comments and suggestions given by district councils and members of public; and has consulted the Transport Department and the Hong Kong Police Force as necessary.
+
+The two Coin Carts collect coins from members of public in the 18 districts of Hong Kong on a rotating basis. Under normal circumstances each Coin Cart will stay at a location for a week, subject to availability of the parking space and the maintenance schedule of the Cart. Service hours are from 10am to 7pm. Each vehicle is equipped with two coin counting machines and operational staff will be present to provide assistance. An electrical wheelchair lift is available for use. Users can choose to exchange coins for banknotes or adding value to their stored value facilities, such as Octopus Cards or e-wallets (including AlipayHK, Octopus Wallet, Tap&Go and WeChat Pay). There is also a Community Chest donation box inside each vehicle. The coin collection service is free of charge.
+
+The HKMA will review the Programme from time to time; and will regularly update the service schedule to give advance notice to the public."
 警務處國安處拘控一名男子,2025-07-23 11:30,2025-07-23 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300343.htm,"警務處國家安全處（國安處）七月二十一日在九龍區採取執法行動，拘捕一名十八歲本地男子，他涉嫌違反《維護國家安全條例》第24條「出於煽動意圖作出具煽動意圖的作為」罪。
 
 調查顯示，該名被捕男子涉嫌三次於同一商業大廈的洗手間內寫上煽動字句，內容包括煽動他人對香港特別行政區（特區）的憲制秩序、行政、立法或司法機關的憎恨或藐視或對其離叛及作出不遵守特區法律的作為等。
@@ -3928,18 +3949,6 @@ In response to Professor the Hon William Wong's questions, the reply is as follo
 PSNFCs mainly provide tutorial services to students receiving formal school education, which constitute an optional rather than mandatory service. For this type of school, the main role of the EDB is to ensure its compliance with the requirements on school premises safety, hygiene, accommodation, teachers' qualifications, and collection of fees under the Education Ordinance. In this connection, the EDB has no intention to set up a certification system for the STEAM courses offered by these PSNFCs.
 
 It should be noted that all schools are responsible for ensuring compliance with relevant ordinances and regulations when arranging science activities and experiments, including the Education Regulations (particularly regulations 21, 24, 26, 27, 31, 32 and 33), the Education Ordinance, the Occupational Safety and Health Ordinance, and regulations related to dangerous goods and disposal of chemical waste."
-赤柱正灘泳灘懸掛紅旗,2025-07-23 10:00,2025-07-23 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300239.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（七月二十三日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
-Red flags hoisted at Silver Mine Bay Beach and Ting Kau Beach,2025-07-23 10:00,2025-07-23 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300212.htm,"Attention TV/radio announcers:
-
-Please broadcast the following as soon as possible:
-
-  Here is an item of interest to swimmers.
-
-  The Leisure and Cultural Services Department announced today (July 23) that according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Silver Mine Bay Beach in Islands District and Ting Kau Beach in Tsuen Wan District is 4, which means the predicted water quality at these beaches is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. Red flags have been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
 Red flag hoisted at Stanley Main Beach,2025-07-23 10:00,2025-07-23 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300238.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -3947,27 +3956,39 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (July 23) that due to big waves, the red flag has been hoisted at Stanley Main Beach in Southern District, Hong Kong Island. Beachgoers are advised not to swim at the beach."
+Red flags hoisted at Silver Mine Bay Beach and Ting Kau Beach,2025-07-23 10:00,2025-07-23 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300212.htm,"Attention TV/radio announcers:
+
+Please broadcast the following as soon as possible:
+
+  Here is an item of interest to swimmers.
+
+  The Leisure and Cultural Services Department announced today (July 23) that according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Silver Mine Bay Beach in Islands District and Ting Kau Beach in Tsuen Wan District is 4, which means the predicted water quality at these beaches is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. Red flags have been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
+赤柱正灘泳灘懸掛紅旗,2025-07-23 10:00,2025-07-23 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300239.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（七月二十三日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 銀礦灣泳灘及汀九灣泳灘懸掛紅旗,2025-07-23 10:00,2025-07-23 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072300213.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出以下特別報告：
 
 游泳人士請注意：康樂及文化事務署今日（七月二十三日）宣布，根據環境保護署的「泳灘水質預報系統」（www.epd.gov.hk/epd/tc_chi/environmentinhk/water/beach_quality/forecast_system.html），離島區的銀礦灣泳灘以及荃灣區的汀九灣泳灘的「泳灘水質預測指數」為4，表示水質因天雨關係而可能短期波動，預測屬於「極差」水平。該等泳灘現已懸掛紅旗，為保障健康，市民應避免下水。"
-LD holds online exhibition on Employment Ordinance and Minimum Wage Ordinance,2025-07-23 09:00,2025-07-23 09:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025071800750.htm,"âThe Labour Department (LD) is holding an online exhibition from 9am today (July 23) to 6pm on July 25 on the LD's website disseminating information about the Employment Ordinance and the Minimum Wage Ordinance to enhance the public's understanding of employment rights and benefits.
-
-Consolidating the content of physical exhibitions held by the LD, the online exhibition features the main provisions of the Employment Ordinance and the Minimum Wage Ordinance, employment rights and benefits for foreign domestic helpers, as well as good human resource management measures.The relevant hyperlink iswww.labour.gov.hk/common/Online_exhibition_EO_MWO/index_en.html."
 勞工處舉辦《僱傭條例》及《最低工資條例》網上展覽,2025-07-23 09:00,2025-07-23 09:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025071800754.htm,"​​​勞工處今日（七月二十三日）上午九時至七月二十五日下午六時透過勞工處網頁發放《僱傭條例》及《最低工資條例》網上展覽資訊，以增加公眾對僱傭權益和福利的認識。
 
 網上展覽整合了勞工處實體展覽的內容，介紹《僱傭條例》及《最低工資條例》的主要條文、外籍家庭傭工的僱傭權益和福利，以及良好人事管理措施。有關網站連結為www.labour.gov.hk/common/Online_exhibition_EO_MWO/index.html。"
-Territory-wide flag day today ,2025-07-23 06:00,2025-07-23 06:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072200267.htm,"  Po Leung Kuk has been issued a Public Subscription Permit to hold a territory-wide flag sale from 7am to 12.30pm today (July 23), a spokesman for the Social Welfare Department (SWD) said.
+LD holds online exhibition on Employment Ordinance and Minimum Wage Ordinance,2025-07-23 09:00,2025-07-23 09:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025071800750.htm,"âThe Labour Department (LD) is holding an online exhibition from 9am today (July 23) to 6pm on July 25 on the LD's website disseminating information about the Employment Ordinance and the Minimum Wage Ordinance to enhance the public's understanding of employment rights and benefits.
 
-Details of the charitable fund-raising activities, including any updated information, covered by the issued Public Subscription Permits have been published on the GovHK website (www.gov.hk/en/theme/fundraising/search). Permits for flag days containing information on contact methods of the flag-selling organisations and the approved flag-selling activities have also been uploaded to the SWD's website (www.swd.gov.hk/en/ngo/controlofc/flagdays) for reference. For enquiries, please call the SWD's hotline at 2343 2255, or the designated hotline of the 1823 Call Centre at 3142 2678.
-
-In the case of suspected fraudulent flag day activities, people should not make any donation and should immediately report the matter to the Police, the spokesman added."
+Consolidating the content of physical exhibitions held by the LD, the online exhibition features the main provisions of the Employment Ordinance and the Minimum Wage Ordinance, employment rights and benefits for foreign domestic helpers, as well as good human resource management measures.The relevant hyperlink iswww.labour.gov.hk/common/Online_exhibition_EO_MWO/index_en.html."
 全港賣旗日,2025-07-23 06:00,2025-07-23 06:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072200270.htm,"社會福利署（社署）發言人表示，保良局獲發公開籌款許可證在今日（七月二十三日）由上午七時至下午十二時三十分，進行全港賣旗活動。
 
 所有獲發許可證於公眾地方進行的慈善籌款活動詳情，包括任何更新的資料，已透過香港政府一站通網頁（www.gov.hk/tc/theme/fundraising/search）發布，而賣旗日許可證亦已上載至社署網頁（www.swd.gov.hk/tc/ngo/controlofc/flagdays），以供查閱賣旗機構的聯絡方法及已獲准舉行的賣旗日活動資料。市民如有查詢，可致電社署熱線2343 2255，或1823電話中心專線3142 2678。
 
 發言人補充說：「市民如對賣旗活動有所懷疑，請不要捐助，並立即通知警方。」"
+Territory-wide flag day today ,2025-07-23 06:00,2025-07-23 06:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/23/P2025072200267.htm,"  Po Leung Kuk has been issued a Public Subscription Permit to hold a territory-wide flag sale from 7am to 12.30pm today (July 23), a spokesman for the Social Welfare Department (SWD) said.
+
+Details of the charitable fund-raising activities, including any updated information, covered by the issued Public Subscription Permits have been published on the GovHK website (www.gov.hk/en/theme/fundraising/search). Permits for flag days containing information on contact methods of the flag-selling organisations and the approved flag-selling activities have also been uploaded to the SWD's website (www.swd.gov.hk/en/ngo/controlofc/flagdays) for reference. For enquiries, please call the SWD's hotline at 2343 2255, or the designated hotline of the 1823 Call Centre at 3142 2678.
+
+In the case of suspected fraudulent flag day activities, people should not make any donation and should immediately report the matter to the Police, the spokesman added."
 香港郵政資訊保安事故最新情況,2025-07-22 21:42,2025-07-22 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200876.htm,"​香港郵政今日（七月二十二日）公布，有關七月二十一日發現的資訊保安事故至今的調查結果。根據調查所得，未經授權人士於七月二十日深夜及翌日以網絡攻擊多次嘗試透過「投寄易」系統的通訊錄功能讀取資料，香港郵政系統偵測到異常情況後立即作出堵截，並立即停止涉及網絡攻擊的「投寄易」賬戶的運作。在上述堵截及阻擋網絡攻擊期間，相關帳戶內所儲存的通訊錄資料曾被讀取，當中包括寄件人和收件人的姓名／公司名稱、地址、及／或電話號碼、傳真號碼和電子郵件地址。
 
 香港郵政已於今日向所有受影響帳戶持有人發出電郵通知，提醒各帳戶持有人提高警覺，並應立即通知其通訊錄內的人士有關事故，提醒相關人士提高警覺。香港警務處（警務處）已就事件展開調查，香港郵政現正全力配合警務處的調查工作並密切留意涉事資料的情況。
@@ -4020,267 +4041,6 @@ CSD's response to media enquiries on unsuccessful visit by member of public to p
 This morning, a visitor who was not on the declared visitors list of the PIC concerned attempted to make a visit. The CSD subsequently declined the visit in accordance with the law.According to the established mechanism, visitors must be declared visitors on the PIC's declared visitors list.
 
 Since the Prison (Amendment) Rules 2025 came into effect last Friday, the CSD has not invoked Rule 48 of the Prison Rules to prohibit any person from conducting visits, nor has it imposed restrictions or conditions on any visits."
-選舉委員會界別分組補選今日接獲15份提名表格,2025-07-22 20:46,2025-07-22 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200821.htm,"​二○二五年選舉委員會界別分組補選的提名期今日（七月二十二日）開始，至八月四日結束。有關界別分組的選舉主任今日共接獲12份候選人提名表格及三份指定團體提名表格。
-
-如某選舉委員會界別分組屬有競逐選舉，便須於九月七日進行投票。
-
-是次補選將填補28個界別分組中合共93個選任委員席位空缺。有關界別分組今日接獲的提名數目如下：
-
-
-
-
-第1界別
-
-
-界別分組
-今日接獲的候選人提名表格數目
-
-
-飲食界
-0
-
-
-商界（第一）
-0
-
-
-商界（第二）
-0
-
-
-商界（第三）
-0
-
-
-香港僱主聯合會
-0
-
-
-酒店界
-1
-
-
-進出口界
-0
-
-
-工業界（第一）
-0
-
-
-工業界（第二）
-0
-
-
-地產及建造界
-0
-
-
-中小企業界
-0
-
-
-旅遊界
-0
-
-
-航運交通界
-0
-
-
-第2界別
-
-
-界別分組
-今日接獲的候選人提名表格數目
-
-
-建築、測量、都市規劃及園境界
-0
-
-
-中醫界
-0
-
-
-教育界
-0
-
-
-法律界
-0
-
-
-醫學及衞生服務界
-0
-
-
-體育、演藝、文化及出版界
-0
-
-
-科技創新界
-0
-
-
-第3界別
-
-
-界別分組
-今日接獲的候選人提名表格數目
-
-
-漁農界
-0
-
-
-同鄉社團
-1
-
-
-基層社團
-1
-
-
-勞工界
-1
-
-
-第4界別
-
-
-界別分組
-今日接獲的候選人提名表格數目
-
-
-鄉議局
-0
-
-
-港九分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
-0
-
-
-新界分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
-0
-
-
-第5界別
-
-
-界別分組
-今日接獲的候選人提名表格數目
-
-
-有關全國性團體香港成員的代表
-8
-
-
-
-
-
-
-總數︰
-12
-
-
-
-
-另外，五個界別分組中合共10個提名委員席位空缺須由指定團體透過補充提名填補。有關界別分組今日共接獲三份提名表格，分項數字如下：
-
-
-
-
-會計界
-
-
-指定團體
-今日接獲的指定團體提名表格數目
-
-
-香港會計諮詢專家協會有限公司
-0
-
-
-
-
-
-體育、演藝、文化及出版界
-
-
-指定團體
-今日接獲的指定團體提名表格數目
-
-
-中國香港體育協會暨奧林匹克委員會
-0
-
-
-香港出版總會有限公司
-0
-
-
-
-
-
-科技創新界
-
-
-指定團體
-今日接獲的指定團體提名表格數目
-
-
-粵港澳大灣區院士聯盟
-0
-
-
-
-
-
-宗教界
-
-
-指定團體
-今日接獲的指定團體提名表格數目
-
-
-天主教香港教區
-0
-
-
-中華回教博愛社
-1（共1名獲提名人士）
-
-
-香港道教聯合會
-1（共2名獲提名人士）
-
-
-
-
-
-內地港人團體的代表
-
-
-指定團體
-今日接獲的指定團體提名表格數目
-
-
-中國香港（地區）商會—廣東
-1（共1名獲提名人士）
-
-
-
-
-
-
-總數：
-3（共4名獲提名人士）
-
-
-
-
-今日接獲的獲提名人士的資料稍後會上載到選舉網站（www.elections.gov.hk）。"
 15 nomination forms for Election Committee Subsector By-elections received today,2025-07-22 20:46,2025-07-22 21:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200822.htm,"The nomination period for the 2025 Election Committee (EC) Subsector By-elections runs from today (July 22) until August 4. A total of 12nomination forms for candidates and three nomination forms from designated bodies were received by the Returning Officers for various subsectors today.
 
 If there is a contested election for an EC subsector, a poll will be held on September 7.
@@ -4542,27 +4302,267 @@ Total:
 
 
 Particulars of the nominated persons received today will be uploaded to the election website (www.elections.gov.hk)."
-"Employers, contractors and employees should be aware of electrical safety at work during rainstorms",2025-07-22 20:01,2025-07-22 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200798.htm,"  As the rainstorm warning has been issued by the Hong Kong Observatory, the Labour Department (LD) reminds employers and contractors that they should adopt necessary work arrangements and take suitable safety measures to protect the safety of their employees when they are carrying out electrical work or handling electrical plant.
+選舉委員會界別分組補選今日接獲15份提名表格,2025-07-22 20:46,2025-07-22 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200821.htm,"​二○二五年選舉委員會界別分組補選的提名期今日（七月二十二日）開始，至八月四日結束。有關界別分組的選舉主任今日共接獲12份候選人提名表格及三份指定團體提名表格。
 
-  A spokesman for the LD said today (July 22) that employers and contractors should avoid assigning employees to carry out electrical work (such as electric arc welding work) or handle electrical plant at places affected by rainstorms, and should refer to the ""Code of Practice in Times of Adverse Weather and 'Extreme Conditions'"" and the ""Guide on Safety at Work in times of Inclement Weather"" issued by the LD.
+如某選舉委員會界別分組屬有競逐選舉，便須於九月七日進行投票。
 
-  Even if electrical work is carried out or electrical plant is handled at places not affected by a rainstorm, suitable safety measures must still be adopted to prevent an electric shock as the air would be more humid. Such measures include:
+是次補選將填補28個界別分組中合共93個選任委員席位空缺。有關界別分組今日接獲的提名數目如下：
 
-(i) Ensure that all live parts of an electrical installation are isolated from the power supply source and rendered dead, and the isolation from the power supply source must be maintained as long as electrical work is being carried out;
 
-(ii) Before carrying out any electrical work or handling any electrical plant, cut off and lock out the power supply source, then test the circuit concerned to confirm that it is dead and display suitable warning notices, and issue a work permit thereafter;
 
-(iii) Ensure that protective devices (such as suitable and adequate fuses and circuit breakers) for the electrical installations or electrical plant have been installed and maintained in good working order, and portable electric tools must be double-insulated or properly earthed;
 
-(iv) Provide suitable personal protective equipment such as insulating gloves and insulating mats for employees; and
+第1界別
 
-(v) If live electrical work is unavoidable, a comprehensive risk assessment should be conducted by a competent person and the appropriate safety precautions should be taken to remove or properly control the electrical hazards involved before such work can proceed.
 
-  In addition, employees should co-operate with the employer or contractor to follow the safety instructions and use the safety equipment provided.
+界別分組
+今日接獲的候選人提名表格數目
 
-  The LD has published guidebooks and leaflets on electrical work safety. These safety publications are available free from divisional offices of the department or can be downloaded from its website (www.labour.gov.hk/eng/public/content2_8.htm).
 
-  Should there be any questions about occupational safety and health matters, please contact the Occupational Safety Officer of the LD at 2559 2297."
+飲食界
+0
+
+
+商界（第一）
+0
+
+
+商界（第二）
+0
+
+
+商界（第三）
+0
+
+
+香港僱主聯合會
+0
+
+
+酒店界
+1
+
+
+進出口界
+0
+
+
+工業界（第一）
+0
+
+
+工業界（第二）
+0
+
+
+地產及建造界
+0
+
+
+中小企業界
+0
+
+
+旅遊界
+0
+
+
+航運交通界
+0
+
+
+第2界別
+
+
+界別分組
+今日接獲的候選人提名表格數目
+
+
+建築、測量、都市規劃及園境界
+0
+
+
+中醫界
+0
+
+
+教育界
+0
+
+
+法律界
+0
+
+
+醫學及衞生服務界
+0
+
+
+體育、演藝、文化及出版界
+0
+
+
+科技創新界
+0
+
+
+第3界別
+
+
+界別分組
+今日接獲的候選人提名表格數目
+
+
+漁農界
+0
+
+
+同鄉社團
+1
+
+
+基層社團
+1
+
+
+勞工界
+1
+
+
+第4界別
+
+
+界別分組
+今日接獲的候選人提名表格數目
+
+
+鄉議局
+0
+
+
+港九分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
+0
+
+
+新界分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
+0
+
+
+第5界別
+
+
+界別分組
+今日接獲的候選人提名表格數目
+
+
+有關全國性團體香港成員的代表
+8
+
+
+
+
+
+
+總數︰
+12
+
+
+
+
+另外，五個界別分組中合共10個提名委員席位空缺須由指定團體透過補充提名填補。有關界別分組今日共接獲三份提名表格，分項數字如下：
+
+
+
+
+會計界
+
+
+指定團體
+今日接獲的指定團體提名表格數目
+
+
+香港會計諮詢專家協會有限公司
+0
+
+
+
+
+
+體育、演藝、文化及出版界
+
+
+指定團體
+今日接獲的指定團體提名表格數目
+
+
+中國香港體育協會暨奧林匹克委員會
+0
+
+
+香港出版總會有限公司
+0
+
+
+
+
+
+科技創新界
+
+
+指定團體
+今日接獲的指定團體提名表格數目
+
+
+粵港澳大灣區院士聯盟
+0
+
+
+
+
+
+宗教界
+
+
+指定團體
+今日接獲的指定團體提名表格數目
+
+
+天主教香港教區
+0
+
+
+中華回教博愛社
+1（共1名獲提名人士）
+
+
+香港道教聯合會
+1（共2名獲提名人士）
+
+
+
+
+
+內地港人團體的代表
+
+
+指定團體
+今日接獲的指定團體提名表格數目
+
+
+中國香港（地區）商會—廣東
+1（共1名獲提名人士）
+
+
+
+
+
+
+總數：
+3（共4名獲提名人士）
+
+
+
+
+今日接獲的獲提名人士的資料稍後會上載到選舉網站（www.elections.gov.hk）。"
 僱主／承建商及僱員須注意在暴雨下工作時的電力安全,2025-07-22 20:01,2025-07-22 20:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200797.htm,"鑑於天文台已發出暴雨警告，勞工處提醒僱主及承建商，當僱員在進行電力工作或處理電力作業裝置時，須採取所需的工作安排及適當安全措施，以保障僱員的工作安全。
 
 勞工處發言人今日（七月二十二日）表示，僱主及承建商須盡量避免委派僱員在受暴雨天氣影響的地方進行電力工作（如電弧焊接工作）或處理電力作業裝置，及應參考勞工處出版的《惡劣天氣及「極端情況」下工作守則》和《惡劣天氣下的工作安全指南》。
@@ -4584,17 +4584,38 @@ Particulars of the nominated persons received today will be uploaded to the elec
 勞工處印備了安全指南及單張，提供有關電力工作的安全指引。這些安全刊物可在該處各分區辦事處免費索取，亦可從該處網頁（www.labour.gov.hk/tc/public/content2_8.htm）下載。
 
 如有任何有關職業安全及健康的問題，可致電2559 2297，與勞工處職業安全主任聯絡。"
-Public urged to report flooding,2025-07-22 20:00,2025-07-22 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200795.htm,"Attention duty announcers, radio and TV stations:
+"Employers, contractors and employees should be aware of electrical safety at work during rainstorms",2025-07-22 20:01,2025-07-22 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200798.htm,"  As the rainstorm warning has been issued by the Hong Kong Observatory, the Labour Department (LD) reminds employers and contractors that they should adopt necessary work arrangements and take suitable safety measures to protect the safety of their employees when they are carrying out electrical work or handling electrical plant.
 
-Please broadcast the following as soon as possible and repeat it at suitable intervals:
+  A spokesman for the LD said today (July 22) that employers and contractors should avoid assigning employees to carry out electrical work (such as electric arc welding work) or handle electrical plant at places affected by rainstorms, and should refer to the ""Code of Practice in Times of Adverse Weather and 'Extreme Conditions'"" and the ""Guide on Safety at Work in times of Inclement Weather"" issued by the LD.
 
-Members of the public are advised to report any street flooding that comes to their notice to the Drainage Services Department by calling the 24-hour drainage hotline on 2300 1110."
+  Even if electrical work is carried out or electrical plant is handled at places not affected by a rainstorm, suitable safety measures must still be adopted to prevent an electric shock as the air would be more humid. Such measures include:
+
+(i) Ensure that all live parts of an electrical installation are isolated from the power supply source and rendered dead, and the isolation from the power supply source must be maintained as long as electrical work is being carried out;
+
+(ii) Before carrying out any electrical work or handling any electrical plant, cut off and lock out the power supply source, then test the circuit concerned to confirm that it is dead and display suitable warning notices, and issue a work permit thereafter;
+
+(iii) Ensure that protective devices (such as suitable and adequate fuses and circuit breakers) for the electrical installations or electrical plant have been installed and maintained in good working order, and portable electric tools must be double-insulated or properly earthed;
+
+(iv) Provide suitable personal protective equipment such as insulating gloves and insulating mats for employees; and
+
+(v) If live electrical work is unavoidable, a comprehensive risk assessment should be conducted by a competent person and the appropriate safety precautions should be taken to remove or properly control the electrical hazards involved before such work can proceed.
+
+  In addition, employees should co-operate with the employer or contractor to follow the safety instructions and use the safety equipment provided.
+
+  The LD has published guidebooks and leaflets on electrical work safety. These safety publications are available free from divisional offices of the department or can be downloaded from its website (www.labour.gov.hk/eng/public/content2_8.htm).
+
+  Should there be any questions about occupational safety and health matters, please contact the Occupational Safety Officer of the LD at 2559 2297."
 渠務署籲請市民報告水浸,2025-07-22 20:00,2025-07-22 20:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200796.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出以下信息，並隔適當時間重播多次：
 
 渠務署呼籲市民，若發現街道水浸，請盡快致電二十四小時渠務熱線向該署報告，電話為二三○○ 一一一○。
 "
+Public urged to report flooding,2025-07-22 20:00,2025-07-22 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200795.htm,"Attention duty announcers, radio and TV stations:
+
+Please broadcast the following as soon as possible and repeat it at suitable intervals:
+
+Members of the public are advised to report any street flooding that comes to their notice to the Drainage Services Department by calling the 24-hour drainage hotline on 2300 1110."
 衞生防護中心調查一宗兒童感染腸病毒嚴重個案,2025-07-22 19:45,2025-07-22 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200762.htm,"衞生署衞生防護中心今日（七月二十二日）正調查一宗兒童感染腸病毒的嚴重個案，並提醒市民應時刻注意手部、個人和環境衞生。
 
 個案涉及一名過往健康良好的五歲女童，她於七月十八日出現發燒、頭痛及嘔吐，翌日向私家醫生求醫。她於七月二十一日被帶到基督教聯合醫院急症室求醫，獲安排留院接受治療，目前仍然留醫。
@@ -4652,15 +4673,6 @@ Maintain good indoor ventilation; and
 Thoroughly clean toys or appliances contaminated by nasal or oral secretions.
 
 "
-投資推廣署舉辦研討會　助內地企業善用香港上市把握出海新機遇（附圖）,2025-07-22 19:44,2025-07-22 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200438.htm,"​投資推廣署（投資署）今日（七月二十二日）以混合形式（線上及線下）舉辦研討會，探討如何善用香港作為國際金融中心的優勢，協助內地餐飲、零售及創意企業把握出海新機遇，透過上市拓展海外市場，加速品牌邁向國際。是次活動吸引逾110位企業代表參與，反應熱烈。與會者認同香港在支持企業拓展國際業務方面具備獨特優勢，並對未來相關機遇深感興趣。
-
-是次研討會邀請多位來自香港交易所、德勤中國和中國國際金融股份有限公司等專業服務機構及企業翹楚，剖析香港上市流程與優勢、財務與稅務策劃，以及上市後的國際業務發展策略。活動亦邀請已在港上市的內地企業參與，闡述他們如何善用香港的獨特優勢，成功上市及開拓國際市場。
-
-投資署助理署長劉智元致歡迎辭時表示：「香港作為國際金融中心，在『一國兩制』下背靠祖國、聯通世界。二○二五年上半年IPO集資額突破1,070億元，位居全球第一，其中零售、消費品及服務業佔主板上市34%，展現強勁活力。投資推廣署近兩年半已協助逾1 300家企業落戶，帶來超過1,600億元投資，充分體現國際企業對香港營商環境的信心與肯定。今年適逢投資推廣署和香港交易所成立25周年，我們將繼續攜手合作，支持企業從上市到拓展環球業務，助力國家雙循環戰略。」
-
-香港交易所環球上市服務部副總裁袁怡萱於活動上介紹香港的上市規則、流程及政策，為企業赴港上市釐清路徑。
-
-於專題討論中，德勤中國資本市場服務華南區（香港）主管合夥人呂志宏表示：「香港具備成熟資本市場、穩健估值及充沛流動性，加上簡單稅制及低稅率，有利企業構建具競爭力的財務與稅務架構。內地餐飲企業在港上市不但能提升品牌知名度，更可借助香港作為『超級聯繫人』及『超級增值人』的重要角色，加快拓展海外業務。」"
 "Invest Hong Kong hosts seminar to help Mainland companies seize new ""go global"" opportunities through Hong Kong listings (with photos)",2025-07-22 19:44,2025-07-22 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200443.htm,"  Invest Hong Kong (InvestHK) today (July 22) hosted a seminar in a hybrid format (both online and offline) to explore how Mainland food and beverage (F&B), retail and creative companies can seize new ""go global"" opportunities by leveraging Hong Kong's strengths as an international financial centre. By listing in Hong Kong, companies can tap into overseas markets and accelerate their global expansion. The event attracted over 110 corporate representatives to participate and received enthusiastic feedback. Participants learned about Hong Kong's unique advantages in supporting global business expansion and expressed strong interest in future opportunities.
   
   Prominent leaders from professional service organisations and corporates, including the Hong Kong Exchanges and Clearing Limited (HKEX), Deloitte China, and China International Capital Corporation Limited, spoke at the seminar. They provided in-depth insights into Hong Kong's listing process and competitive advantages, discussed financial and tax planning strategies, and explored post-listing international business development opportunities. Representatives from Mainland enterprises already listed in Hong Kong also shared their success stories. They highlighted how they have successfully leveraged Hong Kong's unique advantages to go public and scale into global markets.
@@ -4670,36 +4682,15 @@ Thoroughly clean toys or appliances contaminated by nasal or oral secretions.
   Vice President, Global Issuer Services of the HKEX, Ms Maria Yuan, provided an introduction of Hong Kong's listing regulations, processes and policies, mapping the route for companies to list in Hong Kong.
   
   During the panel discussion, the Capital Market Services Group (HK) Leader, Southern Region of Deloitte China, Mr Robert Lui, said, ""Hong Kong's mature capital market, stable valuations, and ample liquidity, combined with its simple, low-tax regime, are favourable factors for businesses to build competitive financial and tax structures. For Mainland F&B companies, listing in Hong Kong not only helps boost brand visibility but also leverages the city's pivotal roles as both a 'super connector' and 'super value-adder', accelerating overseas expansion."""
-衞生防護中心調查兩宗食物中毒個案,2025-07-22 19:35,2025-07-22 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200758.htm,"衞生署衞生防護中心今日（七月二十二日）正調查兩宗有流行病學關連的食物中毒個案，共涉及八人，並呼籲市民及食肆從業人員保持個人、食物及環境衞生，預防經由食物傳播的疾病。
+投資推廣署舉辦研討會　助內地企業善用香港上市把握出海新機遇（附圖）,2025-07-22 19:44,2025-07-22 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200438.htm,"​投資推廣署（投資署）今日（七月二十二日）以混合形式（線上及線下）舉辦研討會，探討如何善用香港作為國際金融中心的優勢，協助內地餐飲、零售及創意企業把握出海新機遇，透過上市拓展海外市場，加速品牌邁向國際。是次活動吸引逾110位企業代表參與，反應熱烈。與會者認同香港在支持企業拓展國際業務方面具備獨特優勢，並對未來相關機遇深感興趣。
 
-兩宗個案群組共涉及七男一女，年齡介乎23歲至25歲。他們分別於七月十日及十九日在旺角西洋菜街一號兆萬中心九樓極上帝王水產放題用膳後，約四至36小時後出現腹痛和腹瀉和嘔吐等病徵。
+是次研討會邀請多位來自香港交易所、德勤中國和中國國際金融股份有限公司等專業服務機構及企業翹楚，剖析香港上市流程與優勢、財務與稅務策劃，以及上市後的國際業務發展策略。活動亦邀請已在港上市的內地企業參與，闡述他們如何善用香港的獨特優勢，成功上市及開拓國際市場。
 
-其中兩名受影響人士已求醫，全部無需入院。
+投資署助理署長劉智元致歡迎辭時表示：「香港作為國際金融中心，在『一國兩制』下背靠祖國、聯通世界。二○二五年上半年IPO集資額突破1,070億元，位居全球第一，其中零售、消費品及服務業佔主板上市34%，展現強勁活力。投資推廣署近兩年半已協助逾1 300家企業落戶，帶來超過1,600億元投資，充分體現國際企業對香港營商環境的信心與肯定。今年適逢投資推廣署和香港交易所成立25周年，我們將繼續攜手合作，支持企業從上市到拓展環球業務，助力國家雙循環戰略。」
 
-衞生防護中心初步調查顯示，受影響人士曾於上述食肆進食共同食物，包括刺身和生蠔。食物環境衞生署食物安全中心（食安中心）在收到相關呈報後，已於即日（七月二十一日）與環境衞生部和衞生防護中心人員到該餐廳進行調查，檢視食物處理流程和衞生，及抽取食物和環境樣本作化驗。
+香港交易所環球上市服務部副總裁袁怡萱於活動上介紹香港的上市規則、流程及政策，為企業赴港上市釐清路徑。
 
-食安中心已即時指示有關處所暫停供應涉事食物及進行清洗消毒處所工作，並向餐廳員工提供食物安全和環境衞生教育。
-
-​衞生防護中心及食安中心的調查仍然繼續。
-
-要預防經由食物傳播的疾病，市民應經常保持個人、食物及環境衞生。在外進食時，應注意以下要點：
-
-
-避免進食生的海產；
-小心選擇冷盤，包括自助餐的刺身、壽司及生蠔；
-如需製作以略煮或未經烹煮的蛋為用料的菜式時，應選用經巴士德消毒的蛋、蛋製品或蛋粉；
-光顧可靠及有牌照的食肆；
-食用預先煮熟或吃剩的食物前，應妥善貯存和翻熱食物；
-火鍋或燒烤時，確保食物已徹底煮熟才進食；
-在烹煮過程中，小心處理並要徹底分開生和熟的食物；
-使用兩套筷子及用具分開處理生及熟的食物；
-不要光顧無牌食物檔；
-飲用經煮沸的水；
-高危人士（包括免疫力較低的人、長者、孕婦及幼童）患食源性疾病的風險較高，故不應進食生或未經徹底煮熟的食物；
-不要嘗試使用鹽、醋、酒及日本芥末殺菌，因為均沒有殺菌效用；及
-進食前及如廁後要洗手。
-
-"
+於專題討論中，德勤中國資本市場服務華南區（香港）主管合夥人呂志宏表示：「香港具備成熟資本市場、穩健估值及充沛流動性，加上簡單稅制及低稅率，有利企業構建具競爭力的財務與稅務架構。內地餐飲企業在港上市不但能提升品牌知名度，更可借助香港作為『超級聯繫人』及『超級增值人』的重要角色，加快拓展海外業務。」"
 CHP investigates two food poisoning clusters,2025-07-22 19:35,2025-07-22 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200763.htm,"The Centre for Health Protection (CHP) of the Department of Health is today (July 22) investigating two epidemiologically linkedfood poisoning clusters affecting eight persons, and reminded the public and restaurant staff to maintain personal, food and environmental hygiene to prevent foodborne diseases.
 
 The two clusters involved seven males and one female aged between 23 and 25, who developed abdominal pain, diarrhoea and vomiting, about four to 36 hours after having meals at Deluxe King Japanese Restaurant at 9/F, CTMA Centre, 1 Sai Yeung Choi Street, Mong Kok, on July 10 and 19 respectively.
@@ -4730,6 +4721,36 @@ Refrain from trying to use salt, vinegar, wine or wasabi to kill bacteria as the
 Always wash hands before eating and after going to the toilet.
 
 "
+衞生防護中心調查兩宗食物中毒個案,2025-07-22 19:35,2025-07-22 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200758.htm,"衞生署衞生防護中心今日（七月二十二日）正調查兩宗有流行病學關連的食物中毒個案，共涉及八人，並呼籲市民及食肆從業人員保持個人、食物及環境衞生，預防經由食物傳播的疾病。
+
+兩宗個案群組共涉及七男一女，年齡介乎23歲至25歲。他們分別於七月十日及十九日在旺角西洋菜街一號兆萬中心九樓極上帝王水產放題用膳後，約四至36小時後出現腹痛和腹瀉和嘔吐等病徵。
+
+其中兩名受影響人士已求醫，全部無需入院。
+
+衞生防護中心初步調查顯示，受影響人士曾於上述食肆進食共同食物，包括刺身和生蠔。食物環境衞生署食物安全中心（食安中心）在收到相關呈報後，已於即日（七月二十一日）與環境衞生部和衞生防護中心人員到該餐廳進行調查，檢視食物處理流程和衞生，及抽取食物和環境樣本作化驗。
+
+食安中心已即時指示有關處所暫停供應涉事食物及進行清洗消毒處所工作，並向餐廳員工提供食物安全和環境衞生教育。
+
+​衞生防護中心及食安中心的調查仍然繼續。
+
+要預防經由食物傳播的疾病，市民應經常保持個人、食物及環境衞生。在外進食時，應注意以下要點：
+
+
+避免進食生的海產；
+小心選擇冷盤，包括自助餐的刺身、壽司及生蠔；
+如需製作以略煮或未經烹煮的蛋為用料的菜式時，應選用經巴士德消毒的蛋、蛋製品或蛋粉；
+光顧可靠及有牌照的食肆；
+食用預先煮熟或吃剩的食物前，應妥善貯存和翻熱食物；
+火鍋或燒烤時，確保食物已徹底煮熟才進食；
+在烹煮過程中，小心處理並要徹底分開生和熟的食物；
+使用兩套筷子及用具分開處理生及熟的食物；
+不要光顧無牌食物檔；
+飲用經煮沸的水；
+高危人士（包括免疫力較低的人、長者、孕婦及幼童）患食源性疾病的風險較高，故不應進食生或未經徹底煮熟的食物；
+不要嘗試使用鹽、醋、酒及日本芥末殺菌，因為均沒有殺菌效用；及
+進食前及如廁後要洗手。
+
+"
 粵港澳三地聯防聯控　加強防控蚊傳疾病基孔肯雅熱,2025-07-22 19:00,2025-07-22 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200734.htm,"就廣東佛山及澳門近期先後錄得基孔肯雅熱個案，衞生署衞生防護中心（中心）今日（七月二十二日）表示，粵港澳三地一直按照行之有效的聯絡溝通機制，對涉及三地的傳染病進行聯防聯控工作。中心會繼續和廣東省、澳門的衞生當局保持緊密聯繫，按照風險評估採取適當的防控措施，預防基孔肯雅熱在本港傳播，保障市民健康。
 
 粵港澳三地聯防聯控
@@ -4753,17 +4774,6 @@ Always wash hands before eating and after going to the toilet.
 世界衞生組織的資料顯示，超過110個國家和地區曾經錄得基孔肯雅熱個案。截至今年六月初，全球14個國家／地區共錄得超過22萬宗個案（包括內地、台灣、新加坡等香港人的旅遊熱點），當中約80宗為死亡個案。
 
 根據佛山市衞生健康局公布，截至七月二十日，當地錄得2 285宗基孔肯雅熱確診個案，絕大部分（2 158宗）出現在順德區，主要集中在樂從鎮、北滘鎮和陳村鎮；另外禪城區有69宗，主要集中在石灣鎮、祖廟和張槎街道；南海區亦有58宗，主要集中在桂城街道。所有患者症狀輕微，暫時沒有錄得嚴重或死亡個案。澳門方面，當局在七月十八日錄得當地今年首宗基孔肯雅熱個案，患者於潛伏期到過順德，被列為輸入個案。"
-香港海關偵破涉款約十一億五千萬元清洗黑錢案,2025-07-22 18:40,2025-07-22 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200720.htm,"香港海關今日（七月二十二日）偵破一宗懷疑利用走私現金和虛擬資產清洗黑錢案件，涉案金額約十一億五千萬元，並拘捕一名本地男子及一名非本地男子。
-
-海關人員早前根據情報鎖定一名三十七歲本地男子和一名五十歲非本地男子並展開財富調查，發現二人以走私方式偷運現金離境，並以來歷不明的資金頻繁和快速地進行巨額的穩定幣和法定貨幣交易，與其背景和財務狀況極不相稱，涉嫌進行清洗黑錢活動。
-
-經深入調查後，海關人員今早突擊搜查四個住宅單位及兩間公司，並根據《有組織及嚴重罪行條例》，以「處理已知道或相信為代表從可公訴罪行的得益的財產」（俗稱洗黑錢）罪名拘捕該兩名分別報稱自僱及無業的男子。行動中，海關人員檢取了一批懷疑涉案物品，包括手提電話、平板電腦及銀行卡等。
-
-案件仍在調查中，兩名被捕人士現正保釋候查，不排除會有更多人被捕。
-
-根據《有組織及嚴重罪行條例》，任何人士如知道或有合理理由相信任何財產，不論全部或部分、直接或間接，代表任何人從可公訴罪行的得益，而仍然處理該財產，即屬犯罪。一經定罪，最高可被判罰款五百萬元及監禁十四年，而相關犯罪得益亦可被沒收。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/）舉報懷疑參與洗黑錢的活動。"
 Hong Kong Customs detects money laundering case involving about $1.15 billion,2025-07-22 18:40,2025-07-22 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200721.htm,"Hong Kong Customs today (July 22) detected a suspected money laundering case involving cash smuggling and virtual assets to launder a total of about $1.15 billion. One local man and one non-local man were arrested.
 
 Acting upon intelligence, Customs officers earlier targeted a 37-year-old local man and a 50-year-old non-local man and initiated a financial investigation. It was revealed that the duo smuggled cash out of Hong Kong, and conducted stablecoin and fiat currency transactions with a doubtful fund source at a frequent and fast pace, which was highly incommensurate with their background and financial status. They were suspected of participating in money laundering activities.
@@ -4775,6 +4785,17 @@ An investigation is ongoing. The two arrested persons have been released on bail
 Under OSCO, a person commits an offence if he or she deals with any property knowing or having reasonable grounds to believe that such property in whole or in part directly or indirectly represents any person's proceeds of an indictable offence. The maximum penalty upon conviction is a fine of $5 million and imprisonment for 14 years while the crime proceeds are also subject to confiscation.
 
 Members of the public may report any suspected money laundering activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/)."
+香港海關偵破涉款約十一億五千萬元清洗黑錢案,2025-07-22 18:40,2025-07-22 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200720.htm,"香港海關今日（七月二十二日）偵破一宗懷疑利用走私現金和虛擬資產清洗黑錢案件，涉案金額約十一億五千萬元，並拘捕一名本地男子及一名非本地男子。
+
+海關人員早前根據情報鎖定一名三十七歲本地男子和一名五十歲非本地男子並展開財富調查，發現二人以走私方式偷運現金離境，並以來歷不明的資金頻繁和快速地進行巨額的穩定幣和法定貨幣交易，與其背景和財務狀況極不相稱，涉嫌進行清洗黑錢活動。
+
+經深入調查後，海關人員今早突擊搜查四個住宅單位及兩間公司，並根據《有組織及嚴重罪行條例》，以「處理已知道或相信為代表從可公訴罪行的得益的財產」（俗稱洗黑錢）罪名拘捕該兩名分別報稱自僱及無業的男子。行動中，海關人員檢取了一批懷疑涉案物品，包括手提電話、平板電腦及銀行卡等。
+
+案件仍在調查中，兩名被捕人士現正保釋候查，不排除會有更多人被捕。
+
+根據《有組織及嚴重罪行條例》，任何人士如知道或有合理理由相信任何財產，不論全部或部分、直接或間接，代表任何人從可公訴罪行的得益，而仍然處理該財產，即屬犯罪。一經定罪，最高可被判罰款五百萬元及監禁十四年，而相關犯罪得益亦可被沒收。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/）舉報懷疑參與洗黑錢的活動。"
 Government announces implementation of elderly-friendly building design and launches Elderly-friendly Building accreditation scheme,2025-07-22 18:34,2025-07-22 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200594.htm,"The Government announced today (July 22) that the Task Force on Promoting Elderly-friendly Building Design (Task Force) led by the Deputy Financial Secretary, Mr Michael Wong, has formulated the proposals on elderly-friendly building design for implementation in phases starting from the middle of this year. Meanwhile, the Development Bureau (DEVB), in collaboration with the Hong Kong Green Building Council Limited (HKGBC) and the BEAM Society Limited (BSL), has launched a voluntary Elderly-friendly Building accreditation scheme to encourage the industry to adopt the recommended best practices for elderly-friendly building design.
 
 With an ageing population in Hong Kong and to encourage ageing in place, ""The Chief Executive's 2023 Policy Address"" announced that the Deputy Financial Secretary would co-ordinate with relevant bureaux to put forward proposals to promote elderly-friendly building design. The Task Force announced in November last year a series of specific proposals for elderly-friendly building design and consulted the stakeholders. Stakeholders from the elderly, professional, developer and other sectors generally supported the proposals and provided valuable suggestions for refining the design proposals.
@@ -4797,23 +4818,23 @@ The accreditation scheme is open for application from today. Please visit the we
 A Government spokesman said, ""After more than a year's effort, the Task Force on Promoting Elderly-friendly Building Design has formulated the final proposals and accomplished its mission. The Government is grateful to stakeholders for their support in promoting elderly-friendly building design and looks forward to facilitating and encouraging the industry to actively incorporate elderly-friendly building design elements into their buildings according to their own circumstances through various means to support ageing in place and make Hong Kong a livable city recognised by the silver hair market.""
 
 Note: Starting from June 30, 2024, building projects are normally required to attain the ""Anticipated Gold"" rating in the BEAM Plus in order to be eligible for GFA concessions for green/amenity features. If a project can only achieve the ""Anticipated Silver"" or ""Anticipated Bronze"" rating, it has to demonstrate compliance with one or more of the specific standards stipulated by the BD in order to be eligible for GFA concessions. Currently, the specific standards include (a) enhanced greening provision; (b) health and well-being; (c) enhanced natural ventilation; (d) adoption of Building Information Modelling (BIM) in plan submissions; and (e) adoption of multi-trade integrated mechanical, electrical and plumbing in building services (MiMEP)."
-公務員事務局局長勉勵政務職系暑期實習生,2025-07-22 18:26,2025-07-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200343.htm,"公務員事務局局長楊何蓓茵今日（七月二十二日）與50多名正參加政務職系暑期實習計劃的大專學生見面交流、分享經驗，並鼓勵他們投考政務主任等政府職位，以專業知識服務社會，為市民謀福祉，為香港謀發展。
+SCS encourages Administrative Service summer interns,2025-07-22 18:26,2025-07-22 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200523.htm,"  The Secretary for the Civil Service, Mrs Ingrid Yeung, met and shared experiences with over 50 tertiary students participating in the Administrative Service Summer Internship Programme today (July 22). She encouraged them to apply for civil service positions such as the Administrative Officer (AO) post, and to use their professional knowledge to serve the community, benefit people's livelihood and contribute to the development of Hong Kong.
 
-公務員事務局今年安排實習生在不同決策局或部門工作後，按他們所見所聞所想，在多個範疇包括交通、規劃發展、社企、地區事務、銀髮經濟等，分組討論和提交政策倡議，公務員事務局會把這些建議交到派駐實習的決策局或部門供他們參考。
+  This year, the Civil Service Bureau (CSB) has arranged for the interns to discuss and submit policy proposals in various areas including transport, planning and development, social enterprises, district affairs, the silver economy, etc, based on their observations and insights gained after working in different bureaux or departments. The CSB will submit these proposals to the bureaux or departments where the interns were assigned to for their reference.
 
-楊何蓓茵於聚會中聆聽實習生分享他們實習期間的工作點滴和政策倡議，並以自己近40年公務員生涯的經歷，分享作為政務主任的寶貴心得，勉勵學生積極充實自己、規劃未來，為國家及香港的發展作貢獻。
+  At the gathering, Mrs Yeung listened to the sharing by interns on both their work experiences and proposed policy initiatives during their internships. Drawing on her nearly 40 years of service in the civil service, she shared valuable insights as an AO and encouraged students to actively enrich themselves, plan ahead for their future and contribute to the development of the country and Hong Kong.
 
-她說：「我知道今輪實習計劃接獲的報名人數創新高，吸引了本地、內地以至海外超過300名大專生報名申請。從大家的分享中，我感受到大家對公共服務的熱誠。我希望藉此呼籲有志服務社會、敢於承擔的年輕人積極考慮加入公務員行列。」
+  She said, ""I am aware that this round of the Programme has received a record number of applications, attracting more than 300 applications from tertiarystudents in Hong Kong, mainland China and overseas. From your sharing, I can genuinely feel your passion for public service. I would like to take this opportunity to call on young people who are dedicated to serve the community and willing to take on responsibilities to join the civil service.
 
-「我期待參與實習的同學們在不久將來成為政務主任，以自身所長，服務市民，貢獻國家和香港。」
+  ""I look forward to interns becoming AOs in the near future, serving the public and contributing to the country and Hong Kong with your own strengths and talents.""
 
-公務員事務局常任秘書長梁卓文及副秘書長張誼亦特別到場與實習生傾談，聆聽他們分享實習生活和對香港發展的意見。
+  The Permanent Secretary for the Civil Service, Mr Clement Leung, and Deputy Secretary for the Civil Service Ms Eureka Cheung also joined the sharing session and spoke with interns to learn about their internship experiences and views on Hong Kong's development.
 
-政務主任是專業的公共行政管理人員，在政府中擔任重要角色，負責協助制定公共政策、統籌和督導各項施政措施、管理公共資源的運用，並推動地區工作及對外宣傳香港等。為讓政務主任在不同公共政策領域中累積經驗、發揮潛能，政務主任會定期調派至各決策局和政府部門工作，擴闊視野，更全面掌握公共行政的各項挑戰與機遇。
+  AOs are professional public administrators who play a pivotal role in the Government. They are responsible for assisting in the formulation of government policies, co-ordinating and supervising various initiatives, managing the use of public resources, promoting district work and publicising Hong Kong externally, etc. To enable AOs to accumulate experience and unleash their full potential in different public policy areas, they are posted to various bureaux and departments at regular intervals, broadening their horizons and gaining a fuller grasp of the challenges and opportunities in public administration.
 
-公務員事務局每年夏季及冬季均會舉辦政務職系實習計劃，讓有志成為政務主任的學生，有機會與現職政務主任共事約八星期，提早汲取在政府工作的實際經驗，為未來事業發展奠定基礎。過去五年的統計顯示，每五名新入職的政務主任中，其中一人便曾參加政務職系實習計劃。
+  The CSB organises the Administrative Service Internship Programme every summer and winter, offering students who aspire to become AOs opportunities to work alongside serving AOs for around eight weeks to gain early practical experiences in public service and lay a solid foundation for their future career development. Statistics from the past five years show that around one in every five newly recruited AOs had participated in the Programme.
 
-政府將於今年九月展開新一輪招聘政務主任、二級行政主任、二級助理勞工事務主任、二級助理貿易主任及二級管理參議主任的工作。有意應徵該等職位的人士，須先應考綜合招聘考試及「基本法及香港國安法測試」，以取得所需成績。其中，新一輪綜合招聘考試現正接受申請，有意投考者須於八月一日或之前於網上報名。詳情請參閱公務員事務局網頁（www.csb.gov.hk/tc_chi/index.html）。"
+  The Government will launch a new round of recruitment for the posts of Administrative Officer, Executive Officer II, Assistant Labour Officer II, Assistant Trade Officer II and Management Services Officer II in September this year. Prospective applicants must first take the Common Recruitment Examination (CRE) and the Basic Law and National Security Law Test to attain the requisite scores. The new round of the CRE is currently open for application. Interested candidates are required to apply online by August 1. For details, please refer to the CSB website (www.csb.gov.hk/english/index.html)."
 SCS encourages Administrative Service summer interns (with photos),2025-07-22 18:26,2025-07-22 21:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200523.htm,"  The Secretary for the Civil Service, Mrs Ingrid Yeung, met and shared experiences with over 50 tertiary students participating in the Administrative Service Summer Internship Programme today (July 22). She encouraged them to apply for civil service positions such as the Administrative Officer (AO) post, and to use their professional knowledge to serve the community, benefit people's livelihood and contribute to the development of Hong Kong.
 
   This year, the Civil Service Bureau (CSB) has arranged for the interns to discuss and submit policy proposals in various areas including transport, planning and development, social enterprises, district affairs, the silver economy, etc, based on their observations and insights gained after working in different bureaux or departments. The CSB will submit these proposals to the bureaux or departments where the interns were assigned to for their reference.
@@ -4848,20 +4869,20 @@ SCS encourages Administrative Service summer interns (with photos),2025-07-22 18
 公務員事務局每年夏季及冬季均會舉辦政務職系實習計劃，讓有志成為政務主任的學生，有機會與現職政務主任共事約八星期，提早汲取在政府工作的實際經驗，為未來事業發展奠定基礎。過去五年的統計顯示，每五名新入職的政務主任中，其中一人便曾參加政務職系實習計劃。
 
 政府將於今年九月展開新一輪招聘政務主任、二級行政主任、二級助理勞工事務主任、二級助理貿易主任及二級管理參議主任的工作。有意應徵該等職位的人士，須先應考綜合招聘考試及「基本法及香港國安法測試」，以取得所需成績。其中，新一輪綜合招聘考試現正接受申請，有意投考者須於八月一日或之前於網上報名。詳情請參閱公務員事務局網頁（www.csb.gov.hk/tc_chi/index.html）。"
-SCS encourages Administrative Service summer interns,2025-07-22 18:26,2025-07-22 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200523.htm,"  The Secretary for the Civil Service, Mrs Ingrid Yeung, met and shared experiences with over 50 tertiary students participating in the Administrative Service Summer Internship Programme today (July 22). She encouraged them to apply for civil service positions such as the Administrative Officer (AO) post, and to use their professional knowledge to serve the community, benefit people's livelihood and contribute to the development of Hong Kong.
+公務員事務局局長勉勵政務職系暑期實習生,2025-07-22 18:26,2025-07-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/22/P2025072200343.htm,"公務員事務局局長楊何蓓茵今日（七月二十二日）與50多名正參加政務職系暑期實習計劃的大專學生見面交流、分享經驗，並鼓勵他們投考政務主任等政府職位，以專業知識服務社會，為市民謀福祉，為香港謀發展。
 
-  This year, the Civil Service Bureau (CSB) has arranged for the interns to discuss and submit policy proposals in various areas including transport, planning and development, social enterprises, district affairs, the silver economy, etc, based on their observations and insights gained after working in different bureaux or departments. The CSB will submit these proposals to the bureaux or departments where the interns were assigned to for their reference.
+公務員事務局今年安排實習生在不同決策局或部門工作後，按他們所見所聞所想，在多個範疇包括交通、規劃發展、社企、地區事務、銀髮經濟等，分組討論和提交政策倡議，公務員事務局會把這些建議交到派駐實習的決策局或部門供他們參考。
 
-  At the gathering, Mrs Yeung listened to the sharing by interns on both their work experiences and proposed policy initiatives during their internships. Drawing on her nearly 40 years of service in the civil service, she shared valuable insights as an AO and encouraged students to actively enrich themselves, plan ahead for their future and contribute to the development of the country and Hong Kong.
+楊何蓓茵於聚會中聆聽實習生分享他們實習期間的工作點滴和政策倡議，並以自己近40年公務員生涯的經歷，分享作為政務主任的寶貴心得，勉勵學生積極充實自己、規劃未來，為國家及香港的發展作貢獻。
 
-  She said, ""I am aware that this round of the Programme has received a record number of applications, attracting more than 300 applications from tertiarystudents in Hong Kong, mainland China and overseas. From your sharing, I can genuinely feel your passion for public service. I would like to take this opportunity to call on young people who are dedicated to serve the community and willing to take on responsibilities to join the civil service.
+她說：「我知道今輪實習計劃接獲的報名人數創新高，吸引了本地、內地以至海外超過300名大專生報名申請。從大家的分享中，我感受到大家對公共服務的熱誠。我希望藉此呼籲有志服務社會、敢於承擔的年輕人積極考慮加入公務員行列。」
 
-  ""I look forward to interns becoming AOs in the near future, serving the public and contributing to the country and Hong Kong with your own strengths and talents.""
+「我期待參與實習的同學們在不久將來成為政務主任，以自身所長，服務市民，貢獻國家和香港。」
 
-  The Permanent Secretary for the Civil Service, Mr Clement Leung, and Deputy Secretary for the Civil Service Ms Eureka Cheung also joined the sharing session and spoke with interns to learn about their internship experiences and views on Hong Kong's development.
+公務員事務局常任秘書長梁卓文及副秘書長張誼亦特別到場與實習生傾談，聆聽他們分享實習生活和對香港發展的意見。
 
-  AOs are professional public administrators who play a pivotal role in the Government. They are responsible for assisting in the formulation of government policies, co-ordinating and supervising various initiatives, managing the use of public resources, promoting district work and publicising Hong Kong externally, etc. To enable AOs to accumulate experience and unleash their full potential in different public policy areas, they are posted to various bureaux and departments at regular intervals, broadening their horizons and gaining a fuller grasp of the challenges and opportunities in public administration.
+政務主任是專業的公共行政管理人員，在政府中擔任重要角色，負責協助制定公共政策、統籌和督導各項施政措施、管理公共資源的運用，並推動地區工作及對外宣傳香港等。為讓政務主任在不同公共政策領域中累積經驗、發揮潛能，政務主任會定期調派至各決策局和政府部門工作，擴闊視野，更全面掌握公共行政的各項挑戰與機遇。
 
-  The CSB organises the Administrative Service Internship Programme every summer and winter, offering students who aspire to become AOs opportunities to work alongside serving AOs for around eight weeks to gain early practical experiences in public service and lay a solid foundation for their future career development. Statistics from the past five years show that around one in every five newly recruited AOs had participated in the Programme.
+公務員事務局每年夏季及冬季均會舉辦政務職系實習計劃，讓有志成為政務主任的學生，有機會與現職政務主任共事約八星期，提早汲取在政府工作的實際經驗，為未來事業發展奠定基礎。過去五年的統計顯示，每五名新入職的政務主任中，其中一人便曾參加政務職系實習計劃。
 
-  The Government will launch a new round of recruitment for the posts of Administrative Officer, Executive Officer II, Assistant Labour Officer II, Assistant Trade Officer II and Management Services Officer II in September this year. Prospective applicants must first take the Common Recruitment Examination (CRE) and the Basic Law and National Security Law Test to attain the requisite scores. The new round of the CRE is currently open for application. Interested candidates are required to apply online by August 1. For details, please refer to the CSB website (www.csb.gov.hk/english/index.html)."
+政府將於今年九月展開新一輪招聘政務主任、二級行政主任、二級助理勞工事務主任、二級助理貿易主任及二級管理參議主任的工作。有意應徵該等職位的人士，須先應考綜合招聘考試及「基本法及香港國安法測試」，以取得所需成績。其中，新一輪綜合招聘考試現正接受申請，有意投考者須於八月一日或之前於網上報名。詳情請參閱公務員事務局網頁（www.csb.gov.hk/tc_chi/index.html）。"
