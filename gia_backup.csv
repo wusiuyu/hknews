@@ -1,55 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-數據峰會2025,2025-07-28 16:40,2025-07-28 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800337.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）聯同香港銀行公會（銀行公會）合辦的數據峰會2025今日（七月二十八日）圓滿舉行，匯聚了約800名來自政府部門、銀行、數據專業服務商和「商業數據通」夥伴等近100間公私營機構的高層代表及業內人士參與。
-
-是次峰會以「數據基建新時代激發商貿新動能」為主題，探討如何通過數據基建優化貿易融資流程及便利中小企借貸，以推動商貿發展，並聚焦於CargoX貿易融資項目、政府數據開放、中小企信貸數據分析和跨境數據驗證四大領域，進行了多場主題演講和專題討論。此外，15間「商業數據通」夥伴機構於峰會現場設置互動展覽，展示商業數據的創新方案及用例，促進業界經驗分享和交流。
-
-峰會上，金管局分享了「商業數據通」的最新發展和未來路向，重點包括：
-
-1. CargoX項目
-
-專家小組增添新成員（詳見附件），進一步完善貿易融資的數碼生態圈；及
-
-
-
-
-六間CargoX試點銀行（註一）參與運輸及物流局港口社區系統的新一輪試行計劃，初步驗證了利用貨運物流數據核實貿易真實性的效用，有助縮短貿易融資流程及改善風險管理。各方將試驗更多嶄新應用場景。
-
-
-2. 政府數據開放
-
-金管局與政府數字政策辦公室（數字辦）及商務及經濟發展局（商經局）正緊密合作，計劃通過「商業數據通」與「授權數據交換閘」，連接商經局於二○二六年逐步上線的「貿易單一窗口」第三階段服務，用戶將可授權分享其進出口報關單資料予參與銀行，促進貸款審批；及
-
-
-
-
-數字辦的「數碼企業身份」平台將於二○二六年底逐步推出，金管局會開展研究及設計在「商業數據通」中應用「數碼企業身份」進行電子簽署，簡化企業授權流程。
-
-
-3.信貸數據分析
-
-金管局正進行「商業信貸資料庫2.0」概念驗證項目，推動商業信貸資料庫營運商構建企業信用評分模型。九間試點銀行（註二）初步認為新模型在簡化貸款申請流程及降低中小企借貸成本等方面成效顯著。
-
-
-4.跨境數據驗證
-
-「商業數據通」今年四月成功與深港跨境數據驗證平台（註三）實現對接，目前已經有銀行成功接入新安排以辦理個人和企業貸款業務。
-
-
-金管局總裁余偉文表示：「金管局一直致力提升本港的數據基建，與數據生態圈內多個重量級策略夥伴攜手，持續不懈地締造數據互聯，釋放傳統和替代數據的潛力，令金融機構、數據提供方和從事商貿的中小企都能體現到共享數據的好處，作業流程得以提速提效。展望未來，我們會繼續透過新世代數據基建『商業數據通』，簡化貿易融資流程，為商貿發展增添動能、激發創新，以惠及更多中小企，推動實體經濟發展。」
-
-運輸及物流局局長陳美寶表示：「本年的數據峰會的主題，正好切合國家賦予香港鞏固金融、貿易與航運三個中心的戰略定位，並以數據作關鍵連接。運輸及物流局正全力構建港口社區系統，聯通整個貨物運送流程所有持份者，同時接通海、陸、空貨物運輸資訊，實現貨物狀態全面透明化。我們會繼續支持業界善用系統開拓更多融資應用案例，進一步打通貨物流、貿易流、資金流。」
-
-香港機場管理局（機管局）主席林天福表示：「香港國際機場是全球第一大貨運機場，是二○一○年以來第14次獲這殊榮。要進一步提升競爭力，我們必須持續善用科技的力量，而空運貨物供應鏈的數碼化正是實現更高效率及提供增值服務的關鍵之一。機管局的『香港國際機場貨運數據平台』採用區塊鏈及智能合約等先進技術，提供可靠的智慧平台，促進安全、無縫及無紙化的資訊交換、高效貨運處理及創新業務方案。我們的貨運數據平台通過與金管局的『商業數據通』合作，能夠協助中小企簡化融資流程，並提升信貸風險管理能力。我們歡迎這方面的持續發展，並期待更多與金管局及其他商業夥伴合作的機會，推動香港成為區內的電子商貿配送中心。」
-
-銀行公會主席禤惠儀表示：「隨着香港正值經濟轉型期，銀行業致力為中小企提供靈活便捷的貸款服務，支持中小企升級轉型以保持競爭力。銀行公會鼓勵會員銀行積極參與由金管局牽頭、與『商業數據通』相關的項目，包括CargoX和『商業信貸資料庫2.0』的概念驗證項目，以及跨境數據驗證測試，透過政府及行業數據，加速貸款審批流程，並提升借貸風險管理。我們期待與金管局及相關政府部門保持緊密合作，進一步優化貿易融資的數碼生態圈，共同加強對中小企的支援，促進香港經濟發展。」
-
-註一：六間CargoX試點銀行為：中國銀行（香港）有限公司、東亞銀行有限公司、恒生銀行有限公司、香港上海滙豐銀行有限公司、上海商業銀行有限公司和渣打銀行（香港）有限公司。
-
-註二：九間參與「商業信貸資料庫2.0」概念驗證項目的試點銀行為：中國銀行（香港）有限公司、東亞銀行有限公司、中國建設銀行（亞洲）股份有限公司、星展銀行（香港）有限公司、恒生銀行有限公司、香港上海滙豐銀行有限公司、華僑銀行（香港）有限公司、上海商業銀行有限公司和渣打銀行（香港）有限公司。
-
-註三：驗證平台運用區塊鏈技術和數據代碼，進行文件驗證時並不涉及數據原文件的跨境傳輸和儲存。其獨特設計為銀行提供創新驗證客戶自主攜帶信用數據的渠道。驗證平台在二○二四年五月推出至今已經為超過10家銀行和徵信機構提供多項服務，透過驗證徵信報告、稅務報告、「認識你的客戶」報告等個人及企業數據，成功促進超過1億港元的中小企貸款。"
 Data Summit 2025,2025-07-28 16:40,2025-07-28 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800336.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) and the Hong Kong Association of Banks (HKAB) successfully co-organised the Data Summit 2025 today (July 28). The Summit attracted around 800 senior executives and industry professionals from almost 100 public and private organisations, including government departments, banks, data specialists and partners of Commercial Data Interchange (CDI).
@@ -101,104 +50,57 @@ Note 1: The six CargoX pilot banks are: Bank of China (Hong Kong) Limited, Bank 
 Note 2: The nine pilot banks participating in the PoC on CCRA 2.0 are: Bank of China (Hong Kong) Limited, Bank of East Asia,Limited, China Construction Bank (Asia) Corporation Limited, DBS Bank (Hong Kong) Limited, Hang Seng Bank Limited, TheHongkong and Shanghai Banking Corporation Limited, OCBC Bank (Hong Kong) Limited, Shanghai Commercial Bank Limited and Standard Chartered Bank (Hong Kong) Limited.
 
 Note3: The platform utilises blockchain technology and data coding (i.e. hash values), enabling document verification without involving any cross-boundary transfer or storage of the original documents. Its unique design provides banks with an innovative way to validate the data presented directly by customers. Since the platform was launched in May 2024, over 10 banks and credit reference agencies have already made use of its varied services to validate different types of personal and corporate data, including credit reports, tax reports, and Know-Your-Customer reports. To date, the platform has successfully facilitated SME loans in excess of HKD100 million."
-DH announces latest situation of Legionnaires' disease cases,2025-07-28 16:30,2025-07-28 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800445.htm,"  The Centre for Health Protection (CHP) of the Department of Health today (July 28) reported the latest number of cases of Legionnaires' disease (LD), and reminded the public of the importance of using and maintaining properly designed man-made water systems, adding that susceptible groups should strictly observe relevant precautions.
+數據峰會2025,2025-07-28 16:40,2025-07-28 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800337.htm,"下稿代香港金融管理局發出︰
 
-  From July 20 to 26, the CHP recorded five community-acquired LD cases. The details of the cases are as follows:
+香港金融管理局（金管局）聯同香港銀行公會（銀行公會）合辦的數據峰會2025今日（七月二十八日）圓滿舉行，匯聚了約800名來自政府部門、銀行、數據專業服務商和「商業數據通」夥伴等近100間公私營機構的高層代表及業內人士參與。
 
+是次峰會以「數據基建新時代激發商貿新動能」為主題，探討如何通過數據基建優化貿易融資流程及便利中小企借貸，以推動商貿發展，並聚焦於CargoX貿易融資項目、政府數據開放、中小企信貸數據分析和跨境數據驗證四大領域，進行了多場主題演講和專題討論。此外，15間「商業數據通」夥伴機構於峰會現場設置互動展覽，展示商業數據的創新方案及用例，促進業界經驗分享和交流。
 
-An 88-year-old female patient with underlying illnesses living in Kwai Tsing District;
-A 61-year-old male patient with underlying illnesses living in Sha Tin District;
-A 60-year-old male patient with underlying illnesses living in Sha Tin District;
-A 68-year-old male patient with good past health living in Kwai Tsing District; and
-An 81-year-old male patient with underlying illnesses living in Yau Tsim Mong District.
+峰會上，金管局分享了「商業數據通」的最新發展和未來路向，重點包括：
 
+1. CargoX項目
 
-The CHP is conducting epidemiological investigations to identify potential sources of infection and high-risk exposure. Initial investigation revealed that all five cases are sporadic cases. No epidemiological linkages have been established between these cases and other confirmed cases previously recorded in Hong Kong.
-
-As of July 26, 90 LD cases had been recorded this year. In 2024 and 2023, there were 135 and 121 LD cases respectively.
-
-Men, people aged over 50, smokers, alcoholics and persons with weakened immunity are more susceptible to LD. Some situations may also increase the risk of infection, including poor maintenance of water systems; living in areas with old water systems, cooling towers or fountains; using electric water heaters, whirlpools and spas or hot water spring spas; and recent stays in hotels or vessels.
-
-Legionellae are found in various environmental settings and grow well in warm water (20 to 45 degrees Celsius). They can be found in aqueous environments such as water tanks, hot and cold water systems, cooling towers, whirlpools and spas, water fountains and home apparatus that support breathing. People may become infected when they breathe in contaminated droplets (aerosols) and mist generated by artificial water systems, or when handling garden soil, compost and potting mixes.
-
-Immunocompromised persons should:
+專家小組增添新成員（詳見附件），進一步完善貿易融資的數碼生態圈；及
 
 
-Use sterile or boiled water for drinking, tooth brushing and mouth rinsing;
-Avoid using humidifiers, or other mist- or aerosol-generating devices; and
-If using humidifiers, or other mist- or aerosol-generating devices, fill the water tank with only sterile or cooled freshly boiled water, and not water directly from the tap. Also, clean and maintain humidifiers/devices regularly according to manufacturers' instructions. Never leave stagnant water in a humidifier/device. Empty the water tank, wipe all surfaces dry, and change the water daily.
 
 
-âThe public should observe the health advice below:
+六間CargoX試點銀行（註一）參與運輸及物流局港口社區系統的新一輪試行計劃，初步驗證了利用貨運物流數據核實貿易真實性的效用，有助縮短貿易融資流程及改善風險管理。各方將試驗更多嶄新應用場景。
 
 
-Observe personal hygiene;
-Do not smoke and avoid alcohol consumption;
-Strainers in water taps and shower heads should be inspected, cleaned, descaled and disinfected regularly or at a frequency recommended by the manufacturer;
-If a fresh-water plumbing system is properly maintained, it is not necessary to install domestic water filters. Use of water filters is not encouraged as clogging occurs easily, which can promote growth of micro-organisms. In case water filters are used, the pore size should be 0.2 micrometres (µm) and the filter needs to be changed periodically according to the manufacturer's recommendations;
-Drain and clean water tanks of buildings at least quarterly;
-Drain or purge for at least one minute infrequently used water outlets (e.g. water taps, shower heads and hot water outlets) and stagnant points of the pipework weekly or before use;
-Seek and follow doctors' professional advice regarding the use and maintenance of home respiratory devices and use only sterile water (not distilled or tap water) to clean and fill the reservoir. Clean and maintain the device regularly according to the manufacturer's instructions. After cleaning/disinfection, rinse the device with sterile water, cooled freshly boiled water or water filtered with 0.2 µm filters. Never leave stagnant water in the device. Empty the water tank, keep all surfaces dry, and change the water daily; and
-When handling garden soil, compost and potting mixes:
+2. 政府數據開放
+
+金管局與政府數字政策辦公室（數字辦）及商務及經濟發展局（商經局）正緊密合作，計劃通過「商業數據通」與「授權數據交換閘」，連接商經局於二○二六年逐步上線的「貿易單一窗口」第三階段服務，用戶將可授權分享其進出口報關單資料予參與銀行，促進貸款審批；及
 
 
-Wear gloves and a face mask;
-Water gardens and compost gently using low pressure;
-Open composted potting mixes slowly and make sure the opening is directed away from the face;
-Wet the soil to reduce dust when potting plants; and
-Avoid working in poorly ventilated places such as enclosed greenhouses.
 
 
-ââ  The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
-二零二五年六月份對外商品貿易統計,2025-07-28 16:30,2025-07-28 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800355.htm,"政府統計處今日（七月二十八日）發表的對外商品貿易統計數字顯示，二零二五年六月份本港整體出口和進口貨值均錄得按年升幅，分別上升11.9%和11.1%。
+數字辦的「數碼企業身份」平台將於二○二六年底逐步推出，金管局會開展研究及設計在「商業數據通」中應用「數碼企業身份」進行電子簽署，簡化企業授權流程。
 
-繼二零二五年五月份錄得15.5%的按年升幅後，二零二五年六月份商品整體出口貨值為4,178億元，較二零二四年同月上升11.9%。同時，繼二零二五年五月份錄得18.9%的按年升幅後，二零二五年六月份商品進口貨值為4,767億元，較二零二四年同月上升11.1%。二零二五年六月份錄得有形貿易逆差589億元，相等於商品進口貨值的12.4%。
 
-二零二五年上半年的商品整體出口貨值較二零二四年同期上升12.5%。同時，商品進口貨值上升12.6%。二零二五年上半年錄得有形貿易逆差1,836億元，相等於商品進口貨值的7.0%。
+3.信貸數據分析
 
-經季節性調整的數字顯示，二零二五年第二季與上一季比較，商品整體出口貨值上升2.8%。同時，商品進口貨值上升3.9%。
+金管局正進行「商業信貸資料庫2.0」概念驗證項目，推動商業信貸資料庫營運商構建企業信用評分模型。九間試點銀行（註二）初步認為新模型在簡化貸款申請流程及降低中小企借貸成本等方面成效顯著。
 
-按國家／地區分析
 
-二零二五年六月份與二零二四年同月比較，輸往亞洲的整體出口貨值上升17.2%。此地區內，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是馬來西亞（升52.6%）、菲律賓（升48.3%）、越南（升37.6%）、中國內地（內地）（升18.3%）和印度（升12.5%）。另一方面，輸往韓國（跌10.9%）的整體出口貨值則錄得跌幅。
+4.跨境數據驗證
 
-除亞洲的目的地外，輸往其他地區的部分主要目的地的整體出口貨值錄得跌幅，尤其是荷蘭（跌35.5%）和美國（跌12.1%）。
+「商業數據通」今年四月成功與深港跨境數據驗證平台（註三）實現對接，目前已經有銀行成功接入新安排以辦理個人和企業貸款業務。
 
-同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升50.6%）、英國（升44.7%）、內地（升17.3%）和泰國（升15.9%）。另一方面，來自韓國（跌27.1%）的進口貨值則錄得跌幅。
 
-二零二五年上半年與二零二四年同期比較，輸往部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升54.4%）、馬來西亞（升34.6%）、台灣（升33.0%）、內地（升18.0%）和日本（升17.5%）。另一方面，輸往阿拉伯聯合酋長國（跌23.6%）的整體出口貨值則錄得跌幅。
+金管局總裁余偉文表示：「金管局一直致力提升本港的數據基建，與數據生態圈內多個重量級策略夥伴攜手，持續不懈地締造數據互聯，釋放傳統和替代數據的潛力，令金融機構、數據提供方和從事商貿的中小企都能體現到共享數據的好處，作業流程得以提速提效。展望未來，我們會繼續透過新世代數據基建『商業數據通』，簡化貿易融資流程，為商貿發展增添動能、激發創新，以惠及更多中小企，推動實體經濟發展。」
 
-同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升70.7%）、英國（升53.8%）、台灣（升39.8%）、馬來西亞（升28.3%）和內地（升10.8%）。另一方面，來自韓國（跌21.0%）的進口貨值則錄得跌幅。
+運輸及物流局局長陳美寶表示：「本年的數據峰會的主題，正好切合國家賦予香港鞏固金融、貿易與航運三個中心的戰略定位，並以數據作關鍵連接。運輸及物流局正全力構建港口社區系統，聯通整個貨物運送流程所有持份者，同時接通海、陸、空貨物運輸資訊，實現貨物狀態全面透明化。我們會繼續支持業界善用系統開拓更多融資應用案例，進一步打通貨物流、貿易流、資金流。」
 
-按主要貨品類別分析
+香港機場管理局（機管局）主席林天福表示：「香港國際機場是全球第一大貨運機場，是二○一○年以來第14次獲這殊榮。要進一步提升競爭力，我們必須持續善用科技的力量，而空運貨物供應鏈的數碼化正是實現更高效率及提供增值服務的關鍵之一。機管局的『香港國際機場貨運數據平台』採用區塊鏈及智能合約等先進技術，提供可靠的智慧平台，促進安全、無縫及無紙化的資訊交換、高效貨運處理及創新業務方案。我們的貨運數據平台通過與金管局的『商業數據通』合作，能夠協助中小企簡化融資流程，並提升信貸風險管理能力。我們歡迎這方面的持續發展，並期待更多與金管局及其他商業夥伴合作的機會，推動香港成為區內的電子商貿配送中心。」
 
-二零二五年六月份與二零二四年同月比較，部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增358億元，升20.2%）和「辦公室機器和自動資料處理儀器」（增47億元，升10.4%）。
+銀行公會主席禤惠儀表示：「隨着香港正值經濟轉型期，銀行業致力為中小企提供靈活便捷的貸款服務，支持中小企升級轉型以保持競爭力。銀行公會鼓勵會員銀行積極參與由金管局牽頭、與『商業數據通』相關的項目，包括CargoX和『商業信貸資料庫2.0』的概念驗證項目，以及跨境數據驗證測試，透過政府及行業數據，加速貸款審批流程，並提升借貸風險管理。我們期待與金管局及相關政府部門保持緊密合作，進一步優化貿易融資的數碼生態圈，共同加強對中小企的支援，促進香港經濟發展。」
 
-同期，部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增284億元，升14.6%）和「通訊、錄音及音響設備和儀器」（增83億元，升17.7%）。
+註一：六間CargoX試點銀行為：中國銀行（香港）有限公司、東亞銀行有限公司、恒生銀行有限公司、香港上海滙豐銀行有限公司、上海商業銀行有限公司和渣打銀行（香港）有限公司。
 
-二零二五年上半年與二零二四年同期比較，部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增1,392億元，升13.4%）和「辦公室機器和自動資料處理儀器」（增1,297億元，升55.4%）。
+註二：九間參與「商業信貸資料庫2.0」概念驗證項目的試點銀行為：中國銀行（香港）有限公司、東亞銀行有限公司、中國建設銀行（亞洲）股份有限公司、星展銀行（香港）有限公司、恒生銀行有限公司、香港上海滙豐銀行有限公司、華僑銀行（香港）有限公司、上海商業銀行有限公司和渣打銀行（香港）有限公司。
 
-同期，部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增1,512億元，升14.6%）和「辦公室機器和自動資料處理儀器」（增1,200億元，升65.2%）。
-
-評論
-
-政府發言人表示，六月商品出口表現維持強韌。商品出口貨值按年進一步明顯增長11.9%。輸往內地和大部分其他亞洲市場的出口繼續顯著擴張，輸往美國和歐盟的出口則下跌。
-
-展望未來，亞洲各經濟體尤其是內地經濟繼續穩步增長，以及香港與不同市場日益緊密的經貿聯繫，應繼續支持商品貿易表現。然而，環球貿易政策前景仍不明朗。政府會繼續密切監察情況，並保持警覺。
-
-進一步資料
-
-表1載列二零二五年六月份對外商品貿易統計數字的分析，表2載列二零二二年一月份至二零二五年六月份原來的按月貿易統計，而表3則顯示同期經季節性調整的對外商品貿易統計數字。
-
-表4載列二零二五年六月份經本港整體出口往十個主要目的地的商品貨值，而表5則載列進口自十個主要供應地的商品貨值。
-
-表6和7載列二零二五年六月份十項主要本港整體出口和進口貨品類別的貨值。
-
-本文所載的對外商品貿易貨值是以當時的價格計算。在比較不同期間的貨值時，並無扣除價格變動的影響。另有專為分析二零二五年六月份對外商品貿易貨量和價格變動的統計數字，將於二零二五年八月中發表。
-
-詳細分析二零二五年六月份本港對外商品貿易表現的統計資料，刊載於二零二五年六月號的《香港對外商品貿易》。該報告將於二零二五年八月初出版，用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1020005&scode=230）瀏覽及下載。
-
-查詢有關商品貿易統計數字，請與政府統計處貿易資料分析組聯絡（電話：2582 4691）。"
+註三：驗證平台運用區塊鏈技術和數據代碼，進行文件驗證時並不涉及數據原文件的跨境傳輸和儲存。其獨特設計為銀行提供創新驗證客戶自主攜帶信用數據的渠道。驗證平台在二○二四年五月推出至今已經為超過10家銀行和徵信機構提供多項服務，透過驗證徵信報告、稅務報告、「認識你的客戶」報告等個人及企業數據，成功促進超過1億港元的中小企貸款。"
 衞生署公布退伍軍人病個案最新情況,2025-07-28 16:30,2025-07-28 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800441.htm,"衞生署衞生防護中心今日（七月二十八日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
 
 在七月二十日至二十六日期間，衞生防護中心錄得五宗社區感染的退伍軍人病個案，詳情如下：
@@ -248,6 +150,55 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 
 
 市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
+二零二五年六月份對外商品貿易統計,2025-07-28 16:30,2025-07-28 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800355.htm,"政府統計處今日（七月二十八日）發表的對外商品貿易統計數字顯示，二零二五年六月份本港整體出口和進口貨值均錄得按年升幅，分別上升11.9%和11.1%。
+
+繼二零二五年五月份錄得15.5%的按年升幅後，二零二五年六月份商品整體出口貨值為4,178億元，較二零二四年同月上升11.9%。同時，繼二零二五年五月份錄得18.9%的按年升幅後，二零二五年六月份商品進口貨值為4,767億元，較二零二四年同月上升11.1%。二零二五年六月份錄得有形貿易逆差589億元，相等於商品進口貨值的12.4%。
+
+二零二五年上半年的商品整體出口貨值較二零二四年同期上升12.5%。同時，商品進口貨值上升12.6%。二零二五年上半年錄得有形貿易逆差1,836億元，相等於商品進口貨值的7.0%。
+
+經季節性調整的數字顯示，二零二五年第二季與上一季比較，商品整體出口貨值上升2.8%。同時，商品進口貨值上升3.9%。
+
+按國家／地區分析
+
+二零二五年六月份與二零二四年同月比較，輸往亞洲的整體出口貨值上升17.2%。此地區內，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是馬來西亞（升52.6%）、菲律賓（升48.3%）、越南（升37.6%）、中國內地（內地）（升18.3%）和印度（升12.5%）。另一方面，輸往韓國（跌10.9%）的整體出口貨值則錄得跌幅。
+
+除亞洲的目的地外，輸往其他地區的部分主要目的地的整體出口貨值錄得跌幅，尤其是荷蘭（跌35.5%）和美國（跌12.1%）。
+
+同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升50.6%）、英國（升44.7%）、內地（升17.3%）和泰國（升15.9%）。另一方面，來自韓國（跌27.1%）的進口貨值則錄得跌幅。
+
+二零二五年上半年與二零二四年同期比較，輸往部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升54.4%）、馬來西亞（升34.6%）、台灣（升33.0%）、內地（升18.0%）和日本（升17.5%）。另一方面，輸往阿拉伯聯合酋長國（跌23.6%）的整體出口貨值則錄得跌幅。
+
+同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升70.7%）、英國（升53.8%）、台灣（升39.8%）、馬來西亞（升28.3%）和內地（升10.8%）。另一方面，來自韓國（跌21.0%）的進口貨值則錄得跌幅。
+
+按主要貨品類別分析
+
+二零二五年六月份與二零二四年同月比較，部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增358億元，升20.2%）和「辦公室機器和自動資料處理儀器」（增47億元，升10.4%）。
+
+同期，部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增284億元，升14.6%）和「通訊、錄音及音響設備和儀器」（增83億元，升17.7%）。
+
+二零二五年上半年與二零二四年同期比較，部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增1,392億元，升13.4%）和「辦公室機器和自動資料處理儀器」（增1,297億元，升55.4%）。
+
+同期，部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增1,512億元，升14.6%）和「辦公室機器和自動資料處理儀器」（增1,200億元，升65.2%）。
+
+評論
+
+政府發言人表示，六月商品出口表現維持強韌。商品出口貨值按年進一步明顯增長11.9%。輸往內地和大部分其他亞洲市場的出口繼續顯著擴張，輸往美國和歐盟的出口則下跌。
+
+展望未來，亞洲各經濟體尤其是內地經濟繼續穩步增長，以及香港與不同市場日益緊密的經貿聯繫，應繼續支持商品貿易表現。然而，環球貿易政策前景仍不明朗。政府會繼續密切監察情況，並保持警覺。
+
+進一步資料
+
+表1載列二零二五年六月份對外商品貿易統計數字的分析，表2載列二零二二年一月份至二零二五年六月份原來的按月貿易統計，而表3則顯示同期經季節性調整的對外商品貿易統計數字。
+
+表4載列二零二五年六月份經本港整體出口往十個主要目的地的商品貨值，而表5則載列進口自十個主要供應地的商品貨值。
+
+表6和7載列二零二五年六月份十項主要本港整體出口和進口貨品類別的貨值。
+
+本文所載的對外商品貿易貨值是以當時的價格計算。在比較不同期間的貨值時，並無扣除價格變動的影響。另有專為分析二零二五年六月份對外商品貿易貨量和價格變動的統計數字，將於二零二五年八月中發表。
+
+詳細分析二零二五年六月份本港對外商品貿易表現的統計資料，刊載於二零二五年六月號的《香港對外商品貿易》。該報告將於二零二五年八月初出版，用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1020005&scode=230）瀏覽及下載。
+
+查詢有關商品貿易統計數字，請與政府統計處貿易資料分析組聯絡（電話：2582 4691）。"
 External merchandise trade statistics for June 2025,2025-07-28 16:30,2025-07-28 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800372.htm,"  The Census and Statistics Department (C&SD) released today (July 28) the external merchandise trade statistics for June 2025. In June 2025, the values of Hong Kong's total exports and imports of goods both recorded year-on-year increases, at 11.9% and 11.1% respectively.
 
   In June 2025, the value of total exports of goods increased by 11.9% over a year earlier to $417.8 billion, after a year-on-year increase by 15.5% in May 2025. Concurrently, the value of imports of goods increased by 11.1% over a year earlier to $476.7 billion in June 2025, after a year-on-year increase by 18.9% in May 2025. A visible trade deficit of $58.9 billion, equivalent to 12.4% of the value of imports of goods, was recorded in June 2025.
@@ -297,6 +248,55 @@ Further information
   The June 2025 issue of ""Hong Kong External Merchandise Trade"" contains detailed analysis on the performance of Hong Kong’s external merchandise trade in June 2025 and will be available in early August 2025. Users can browse and download the report at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1020005&scode=230).
 
   Enquiries on merchandise trade statistics may be directed to the Trade Analysis Section of the C&SD (Tel: 2582 4691)."
+DH announces latest situation of Legionnaires' disease cases,2025-07-28 16:30,2025-07-28 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800445.htm,"  The Centre for Health Protection (CHP) of the Department of Health today (July 28) reported the latest number of cases of Legionnaires' disease (LD), and reminded the public of the importance of using and maintaining properly designed man-made water systems, adding that susceptible groups should strictly observe relevant precautions.
+
+  From July 20 to 26, the CHP recorded five community-acquired LD cases. The details of the cases are as follows:
+
+
+An 88-year-old female patient with underlying illnesses living in Kwai Tsing District;
+A 61-year-old male patient with underlying illnesses living in Sha Tin District;
+A 60-year-old male patient with underlying illnesses living in Sha Tin District;
+A 68-year-old male patient with good past health living in Kwai Tsing District; and
+An 81-year-old male patient with underlying illnesses living in Yau Tsim Mong District.
+
+
+The CHP is conducting epidemiological investigations to identify potential sources of infection and high-risk exposure. Initial investigation revealed that all five cases are sporadic cases. No epidemiological linkages have been established between these cases and other confirmed cases previously recorded in Hong Kong.
+
+As of July 26, 90 LD cases had been recorded this year. In 2024 and 2023, there were 135 and 121 LD cases respectively.
+
+Men, people aged over 50, smokers, alcoholics and persons with weakened immunity are more susceptible to LD. Some situations may also increase the risk of infection, including poor maintenance of water systems; living in areas with old water systems, cooling towers or fountains; using electric water heaters, whirlpools and spas or hot water spring spas; and recent stays in hotels or vessels.
+
+Legionellae are found in various environmental settings and grow well in warm water (20 to 45 degrees Celsius). They can be found in aqueous environments such as water tanks, hot and cold water systems, cooling towers, whirlpools and spas, water fountains and home apparatus that support breathing. People may become infected when they breathe in contaminated droplets (aerosols) and mist generated by artificial water systems, or when handling garden soil, compost and potting mixes.
+
+Immunocompromised persons should:
+
+
+Use sterile or boiled water for drinking, tooth brushing and mouth rinsing;
+Avoid using humidifiers, or other mist- or aerosol-generating devices; and
+If using humidifiers, or other mist- or aerosol-generating devices, fill the water tank with only sterile or cooled freshly boiled water, and not water directly from the tap. Also, clean and maintain humidifiers/devices regularly according to manufacturers' instructions. Never leave stagnant water in a humidifier/device. Empty the water tank, wipe all surfaces dry, and change the water daily.
+
+
+âThe public should observe the health advice below:
+
+
+Observe personal hygiene;
+Do not smoke and avoid alcohol consumption;
+Strainers in water taps and shower heads should be inspected, cleaned, descaled and disinfected regularly or at a frequency recommended by the manufacturer;
+If a fresh-water plumbing system is properly maintained, it is not necessary to install domestic water filters. Use of water filters is not encouraged as clogging occurs easily, which can promote growth of micro-organisms. In case water filters are used, the pore size should be 0.2 micrometres (µm) and the filter needs to be changed periodically according to the manufacturer's recommendations;
+Drain and clean water tanks of buildings at least quarterly;
+Drain or purge for at least one minute infrequently used water outlets (e.g. water taps, shower heads and hot water outlets) and stagnant points of the pipework weekly or before use;
+Seek and follow doctors' professional advice regarding the use and maintenance of home respiratory devices and use only sterile water (not distilled or tap water) to clean and fill the reservoir. Clean and maintain the device regularly according to the manufacturer's instructions. After cleaning/disinfection, rinse the device with sterile water, cooled freshly boiled water or water filtered with 0.2 µm filters. Never leave stagnant water in the device. Empty the water tank, keep all surfaces dry, and change the water daily; and
+When handling garden soil, compost and potting mixes:
+
+
+Wear gloves and a face mask;
+Water gardens and compost gently using low pressure;
+Open composted potting mixes slowly and make sure the opening is directed away from the face;
+Wet the soil to reduce dust when potting plants; and
+Avoid working in poorly ventilated places such as enclosed greenhouses.
+
+
+ââ  The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
 勞工處高度關注昨日在南區發生的致命工作意外,2025-07-28 16:25,2025-07-28 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800511.htm,"​勞工處高度關注昨日（七月二十七日）下午在南區一個建築地盤發生的致命工作意外。意外中一名男工在升降機槽內進行升降機測試工作時被下降的升降機機廂夾斃。對於在意外中有工友身故，勞工處十分難過，並對其家屬致以深切慰問。
 
 勞工處發言人說：「在得知意外發生後，本處已即時派員到意外現場展開調查。我們已向有關承建商發出『暫時停工通知書』，停止其在相連的升降機槽內進行升降機工程，直至我們信納有關承建商已採取適當的措施消除有關危害，才可復工。」
@@ -384,12 +384,12 @@ The Government is actively taking forward the implementation of the Pilot Scheme
 長者如懷疑參與計劃的醫療機構違反醫療券計劃的規定，可致電醫療券計劃熱線（2838 2311）向衞生署醫療券事務科提供相關資料及詳情。衞生署會嚴肅跟進所有懷疑違反醫療券計劃規定的個案。此外，每間大灣區試點醫療機構均設有查詢或投訴熱線。長者亦可向相關醫療機構提出意見，或在有需要時向省或市級衞生當局就「試點計劃」醫療機構作出投訴。市民可參閱以下專題網頁了解更多資料（www.hcv.gov.hk/tc/hcv_gba_pilot_scheme/index.html）。
 
 政府正積極與餘下五間獲納入「試點計劃」的醫療機構推進準備工作，預計相關的醫療機構可於今年下半年內陸續開展相關安排，連同香港大學深圳醫院的一院兩點，合資格長者可以在大灣區內地城市合共21個服務點使用醫療券。"
-港匯指數,2025-07-28 15:50,2025-07-28 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800194.htm,"二○二五年七月二十八日（星期一）的港幣匯率指數為一百零二點九（和上星期六指數相同）。
-
-二○二五年七月二十六日（星期六）的港幣匯率指數為一百零二點九（和上星期五指數比較上升零點一）。"
 Effective Exchange Rate Index,2025-07-28 15:50,2025-07-28 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800197.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, July 28, 2025 is 102.9 (same as last Saturday's index).
 
   The effective exchange rate index for the Hong Kong dollar on Saturday, July 26, 2025 was 102.9 (up 0.1 against last Friday's index)."
+港匯指數,2025-07-28 15:50,2025-07-28 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800194.htm,"二○二五年七月二十八日（星期一）的港幣匯率指數為一百零二點九（和上星期六指數相同）。
+
+二○二五年七月二十六日（星期六）的港幣匯率指數為一百零二點九（和上星期五指數比較上升零點一）。"
 CE expresses sorrow over passing of Dr Hu Hung-lick,2025-07-28 15:42,2025-07-28 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800486.htm,"The Chief Executive, Mr John Lee, today (July 28) expressed sorrow over the passing of Dr Hu Hung-lick.
 
 ""Dr Hu and his late wife, Dr Chung Chi-yung, established Shue Yan College to broaden the tertiary education opportunities of Hong Kong's younger generation. They remained steadfast to the educational philosophy of 'cultivating virtues of benevolence; broadening horizons and knowledge', and spared no effort in promoting Shue Yan to become a post-secondary college and Hong Kong's first private university, Hong Kong Shue Yan University. Dr Hu dedicated himself to the university and served as its President until his passing, commanding the respect and love of the university's staff, students and alumni. Dr Hu devoted substantial financial resources and personal effort to the development of Hong Kong's post-secondary education, nurturing generations of virtuous talent for Hong Kong. He also actively participated in public service and made outstanding contributions to Hong Kong. He was awarded the Grand Bauhinia Medal in 2008.
@@ -437,15 +437,6 @@ To enhance governance of the Hong Kong Special Administrative Region Government,
   He continued, ""The establishment of a dual-track development pathway creates a more favourable environment for nurturing clinical, teaching and research talent. This complements the various reforms within our healthcare system put forward by the HHB in recent years, including preparing for the establishment of the 'Hong Kong Centre for Medical Products Regulation', setting up the 'Greater Bay Area International Clinical Trial Institute', promoting clinical trials, and planning for the establishment of a third medical school. All these initiatives will consolidate Hong Kong's position as an international health and medical innovation hub. I also hope this new measure will attract more non-locally trained doctors who are interested in clinical research and innovation to come to Hong Kong, to further strengthen the medical talent pool for the benefit of the public.""
 
   The HA and the two medical schools have started the relevant recruitment work progressively. To date, five doctors have been officially selected to participate in the dual-track development pathway. Among them, four doctors from the Hong Kong Children's Hospital were appointed by the medical school of HKU, focusing on the research and treatment of various diseases covering paediatric malignant tumours, hematopoietic stem cell transplantation, neonatal intensive care, differences in sex development in children, sudden cardiac death and cardiovascular disease in the young, paediatric hematology and oncology, and the development of simulation-based learning and skills training. Another doctor from the Department of Intensive Care of the New Territories East Cluster was appointed by the medical school of CUHK, focusing on the diagnosis, treatment, research and professional training in pain management and intensive care. Furthermore, various doctors from the New Territories East Cluster are expected to join the medical school of CUHK through the dual-track development pathway within this year, further expanding the talent pool for the integration of teaching and clinical work."
-"Temporary suspension of LCSD's Mobile Libraries 3, 7 and 9 services",2025-07-28 12:30,2025-07-28 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800286.htm,"  Mobile Libraries 3, 7 and 9 will suspend services during designated periods in August for routine maintenance, a spokesman for the Leisure and Cultural Services Department announced today (July 28).
-
-  Mobile Library 3 will suspend services from August 4 to 9. The affected service points are Prime View Garden, Siu Hong Court and Leung King Estate in Tuen Mun; Kingswood Country Club in Tin Shui Wai; and Sheung Tsuen Park, Wang Chau, San Tin and Long Shin Estate in Yuen Long. For enquiries about Mobile Library 3 services, please call 2450 1857.
-
-  Mobile Library 9 will suspend services from August 4 to 16. The affected service points are South Horizons in Ap Lei Chau, Sheung Wan Cultural Square, Tin Wan Estate in Aberdeen, Oi Tung Estate in Aldrich Bay, Tai Hong Street in Lei King Wan and Heng Fa Chuen in Chai Wan. For enquiries about Mobile Library 9 services, please call 2505 4690.
-
-  Mobile Library 7 will suspend services from August 18 to 23. The affected service points are Hoi Fu Court in Mong Kok West, Sceneway Garden in Lam Tin, Chuk Yuen (South) Estate and Fung Tak Estate in Wong Tai Sin and Kai Yip Estate in Kowloon Bay. For enquiries about Mobile Library 7 services, please call 2926 3056.
-
-  Readers are welcome to use other public libraries during the service suspension periods. They may also renew library materials by telephoning 2698 0002 or 2827 2833, or via www.hkpl.gov.hk."
 康文署流動圖書館三、七及九暫停服務,2025-07-28 12:30,2025-07-28 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800284.htm,"康樂及文化事務署發言人今日（七月二十八日）宣布，流動圖書館三、七及九將於八月不同時段暫停服務，以便進行例行保養維修工程。
 
 流動圖書館三於八月四日至九日暫停服務，受影響的服務站包括屯門景峰花園、兆康苑及良景邨；天水圍嘉湖鄉村俱樂部；以及元朗上村公園、橫洲、新田及朗善邨。查詢有關流動圖書館三的服務詳情，可致電2450 1857。
@@ -455,35 +446,19 @@ To enhance governance of the Hong Kong Special Administrative Region Government,
 流動圖書館七於八月十八日至二十三日暫停服務，受影響的服務站包括旺角西海富苑、藍田匯景花園、黃大仙竹園（南）邨及鳳德邨，以及九龍灣啟業邨。查詢有關流動圖書館七的服務詳情，可致電2926 3056。
 
 在暫停服務期間，讀者可使用其他公共圖書館借閱或歸還圖書館資料，亦可致電2698 0002或2827 2833，或透過www.hkpl.gov.hk續借圖書館資料。"
-寄往葡萄牙的郵遞服務延誤,2025-07-28 12:22,2025-07-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800327.htm,​香港郵政今日（七月二十八日）宣布，接獲葡萄牙郵政機關通知，因受罷工影響，寄往葡萄牙的郵件派遞服務會有所延誤。
+"Temporary suspension of LCSD's Mobile Libraries 3, 7 and 9 services",2025-07-28 12:30,2025-07-28 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800286.htm,"  Mobile Libraries 3, 7 and 9 will suspend services during designated periods in August for routine maintenance, a spokesman for the Leisure and Cultural Services Department announced today (July 28).
+
+  Mobile Library 3 will suspend services from August 4 to 9. The affected service points are Prime View Garden, Siu Hong Court and Leung King Estate in Tuen Mun; Kingswood Country Club in Tin Shui Wai; and Sheung Tsuen Park, Wang Chau, San Tin and Long Shin Estate in Yuen Long. For enquiries about Mobile Library 3 services, please call 2450 1857.
+
+  Mobile Library 9 will suspend services from August 4 to 16. The affected service points are South Horizons in Ap Lei Chau, Sheung Wan Cultural Square, Tin Wan Estate in Aberdeen, Oi Tung Estate in Aldrich Bay, Tai Hong Street in Lei King Wan and Heng Fa Chuen in Chai Wan. For enquiries about Mobile Library 9 services, please call 2505 4690.
+
+  Mobile Library 7 will suspend services from August 18 to 23. The affected service points are Hoi Fu Court in Mong Kok West, Sceneway Garden in Lam Tin, Chuk Yuen (South) Estate and Fung Tak Estate in Wong Tai Sin and Kai Yip Estate in Kowloon Bay. For enquiries about Mobile Library 7 services, please call 2926 3056.
+
+  Readers are welcome to use other public libraries during the service suspension periods. They may also renew library materials by telephoning 2698 0002 or 2827 2833, or via www.hkpl.gov.hk."
 Postal services to Thailand subject to delay,2025-07-28 12:22,2025-07-28 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800322.htm,"âHongkong Post announced today (July 28) that, as advised by the postal administration of Thailand, owing to the circumstances in the region, mail delivery services to postcode areas 31180, 32140, 32150, 32210, 32230, 33110, 33140, 33150, 34260 and 34280 are subject to delay."
+寄往葡萄牙的郵遞服務延誤,2025-07-28 12:22,2025-07-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800327.htm,​香港郵政今日（七月二十八日）宣布，接獲葡萄牙郵政機關通知，因受罷工影響，寄往葡萄牙的郵件派遞服務會有所延誤。
 寄往泰國的郵遞服務延誤,2025-07-28 12:22,2025-07-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800323.htm,​香港郵政今日（七月二十八日）宣布，接獲泰國郵政機關通知，因受當地情況影響，寄往郵政編碼地區31180、32140、32150、32210、32230、33110、33140、33150、34260及34280的郵件派遞服務會有所延誤。
 Postal services to Portugal subject to delay,2025-07-28 12:22,2025-07-28 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800326.htm,"âHongkong Post announced today (July 28) that, as advised by the postal administration of Portugal, due to strike action, mail delivery services to Portugal are subject to delay."
-DH appeals for early testing and management of hepatitis B in support of World Hepatitis Day,2025-07-28 12:10,2025-07-28 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800288.htm,"âThe Department of Health (DH) today (July 28) said that with the Government's promulgation and efforts over the past three decades, the prevalence of hepatitis B virus (HBV) infection in Hong Kong has been significantly reduced and is moving progressively towards the goal of a ""hepatitis B-free generation"".
-
-World Hepatitis Day is designated on July 28 every year. This year, the DH has adopted the slogan ""1 in 20: Test and Manage Hep B Early"" to remind members of the public to undergo testing early if they are uncertain whether they are having chronic hepatitis B (CHB). Early identification and management can effectively lower the risk of serious liver diseases caused by CHB.
-
-  ""The prevalence of HBV infection in Hong Kong was over 10 per cent in the 1970s. Since the 1980s, the Government has implemented various effective and free preventive measures, including universal antenatal screening for hepatitis B, administration of hepatitis B immunoglobulin for babies born to mothers with hepatitis B, universal neonatal hepatitis B vaccination since 1988, use of antivirals for pregnant women with CHB and high viral load, and post-vaccination serologic testing arranged for babies born to mothers with hepatitis B in recent years. Currently, the prevalence of HBV infection is less than 1 per cent among those under 35 years old. Hong Kong is moving towards the goal of a 'hepatitis B-free generation'"", said the Consultant (Special Preventive Programme) of the Public Health Services Branch of the Centre for Health Protection of the DH, Dr Bonnie Wong.
-
-Hepatitis B infection can be acute or chronic. Severe cases of hepatitis B infection can lead to liver failure, cirrhosis or liver cancer. As derived from the findings of the Population Health Survey (PHS) 2020-22 conducted by the DH, about 5.6 per cent (about 410 000 people) of the Hong Kong population have CHB. The survey found that the prevalence of HBV infection among participants aged 35 to 84 was significantly higher at 7.8 per cent, mainly because those born before 1988 had not benefited from the universal childhood hepatitis B immunisation programme. The survey also found that nearly 40 per cent of people with CHB were not aware of their conditions and about 70 per cent of people with CHB did not receive any medical follow-up. CHB is a lifelong infection that often shows no symptoms for decades. Without treatment, about 15 to 40 per cent of the patients with CHB may develop serious liver diseases like cirrhosis or liver cancer in the long run. Liver cancer is Hong Kong's third leading cause of cancer deaths, which claimed around 1 400 lives every year. About 80 per cent of primary liver cancer patients have CHB.
-
-The DH, in support of World Hepatitis Day, urges members of the public in Hong Kong to pay attention to CHB, which is the leading cause of cirrhosis and liver cancer. People who are not sure whether they have CHB, especially those at higher risk of infection, such as those who have not received vaccination, or whose family members (including parents, siblings and offspring) or sexual partners have CHB, are advised to undergo early testing to review their health condition and take appropriate preventive measures, including receiving hepatitis B vaccination.
-
-Apart from the traditional venous blood sampling, rapid test for hepatitis B using blood drop from a finger-prick is also available and the result will be available in 15 to 30 minutes. Hepatitis B testing is available at different healthcare organisations, and some even offer mobile testing services. Members of the public may consult their family doctors for details and the charges if they wish to have hepatitis B testing.
-
-If you are diagnosed with CHB, in line with the principle of ""test and manage early"", you should consult your doctor for advice and receive regular follow-ups and examinations. Current antiviral medications for hepatitis B can inhibit virus replication effectively and thereby greatly reduce the risk of complications such as cirrhosis and liver cancer.
-
-Separately, the 2024 Policy Address announced a risk-based hepatitis B screening in the community for early identification of people with CHB in the community, and to provide subsequent management. The Primary Healthcare Commission is exploring the relevant arrangement and details will be announced in due course. In addition, the Government will announce the Hong Kong Viral Hepatitis Action Plan 2025-2030 within this year, to promulgate measures to further alleviate the public health burden of viral hepatitis.
-
-To raise the public and healthcare workers' awareness of the risk of hepatitis, the DH and community partners have respectively launched a number of publicity campaigns to disseminate the messages to different population groups, including:
-
-promoting health information through multiple channels, such as newspaper columns, radio interviews and social media;
-organising online and physical health seminars in District Health Centres;
-organising roving exhibitions on health promotions in various districts across the territory; and
-organising community public education activities by non-governmental organisations (including Asiahep Hong Kong Limited, Hong Kong Hepatitis B Free Foundation, the Hong Kong Liver Foundation and the Hong Kong Liver Transplant Patients' Association) to educate the public on the prevention of hepatitis B, and provide services such as rapid testing and risk assessment.
-
-
-For more information on World Hepatitis Day 2025 and hepatitis B, please visit the thematic website and Viral Hepatitis Control Office's website of the DH."
 響應「世界肝炎日」　乙肝「早驗早處理」,2025-07-28 12:10,2025-07-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800298.htm,"衞生署今日（七月二十八日）表示，經過政府三十多年來的推動和努力，香港乙型肝炎（乙肝）感染率已大幅降低，並逐步邁向「無乙肝新一代」的目標。
 
 每年七月二十八日為「世界肝炎日」，衞生署今年特別以「廿分之一係咪你乙肝早驗早處理」為口號，提醒市民若不確定是否患有慢性乙型肝炎，應及早進行測試。早發現、早治療可有效減低乙肝所引發的嚴重肝臟疾病的風險。
@@ -509,6 +484,31 @@ For more information on World Hepatitis Day 2025 and hepatitis B, please visit t
 
 
 更多有關「世界肝炎日2025」及乙型肝炎的資訊，可瀏覽衞生署專題網頁及控制病毒性肝炎辦公室網頁。"
+DH appeals for early testing and management of hepatitis B in support of World Hepatitis Day,2025-07-28 12:10,2025-07-28 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800288.htm,"âThe Department of Health (DH) today (July 28) said that with the Government's promulgation and efforts over the past three decades, the prevalence of hepatitis B virus (HBV) infection in Hong Kong has been significantly reduced and is moving progressively towards the goal of a ""hepatitis B-free generation"".
+
+World Hepatitis Day is designated on July 28 every year. This year, the DH has adopted the slogan ""1 in 20: Test and Manage Hep B Early"" to remind members of the public to undergo testing early if they are uncertain whether they are having chronic hepatitis B (CHB). Early identification and management can effectively lower the risk of serious liver diseases caused by CHB.
+
+  ""The prevalence of HBV infection in Hong Kong was over 10 per cent in the 1970s. Since the 1980s, the Government has implemented various effective and free preventive measures, including universal antenatal screening for hepatitis B, administration of hepatitis B immunoglobulin for babies born to mothers with hepatitis B, universal neonatal hepatitis B vaccination since 1988, use of antivirals for pregnant women with CHB and high viral load, and post-vaccination serologic testing arranged for babies born to mothers with hepatitis B in recent years. Currently, the prevalence of HBV infection is less than 1 per cent among those under 35 years old. Hong Kong is moving towards the goal of a 'hepatitis B-free generation'"", said the Consultant (Special Preventive Programme) of the Public Health Services Branch of the Centre for Health Protection of the DH, Dr Bonnie Wong.
+
+Hepatitis B infection can be acute or chronic. Severe cases of hepatitis B infection can lead to liver failure, cirrhosis or liver cancer. As derived from the findings of the Population Health Survey (PHS) 2020-22 conducted by the DH, about 5.6 per cent (about 410 000 people) of the Hong Kong population have CHB. The survey found that the prevalence of HBV infection among participants aged 35 to 84 was significantly higher at 7.8 per cent, mainly because those born before 1988 had not benefited from the universal childhood hepatitis B immunisation programme. The survey also found that nearly 40 per cent of people with CHB were not aware of their conditions and about 70 per cent of people with CHB did not receive any medical follow-up. CHB is a lifelong infection that often shows no symptoms for decades. Without treatment, about 15 to 40 per cent of the patients with CHB may develop serious liver diseases like cirrhosis or liver cancer in the long run. Liver cancer is Hong Kong's third leading cause of cancer deaths, which claimed around 1 400 lives every year. About 80 per cent of primary liver cancer patients have CHB.
+
+The DH, in support of World Hepatitis Day, urges members of the public in Hong Kong to pay attention to CHB, which is the leading cause of cirrhosis and liver cancer. People who are not sure whether they have CHB, especially those at higher risk of infection, such as those who have not received vaccination, or whose family members (including parents, siblings and offspring) or sexual partners have CHB, are advised to undergo early testing to review their health condition and take appropriate preventive measures, including receiving hepatitis B vaccination.
+
+Apart from the traditional venous blood sampling, rapid test for hepatitis B using blood drop from a finger-prick is also available and the result will be available in 15 to 30 minutes. Hepatitis B testing is available at different healthcare organisations, and some even offer mobile testing services. Members of the public may consult their family doctors for details and the charges if they wish to have hepatitis B testing.
+
+If you are diagnosed with CHB, in line with the principle of ""test and manage early"", you should consult your doctor for advice and receive regular follow-ups and examinations. Current antiviral medications for hepatitis B can inhibit virus replication effectively and thereby greatly reduce the risk of complications such as cirrhosis and liver cancer.
+
+Separately, the 2024 Policy Address announced a risk-based hepatitis B screening in the community for early identification of people with CHB in the community, and to provide subsequent management. The Primary Healthcare Commission is exploring the relevant arrangement and details will be announced in due course. In addition, the Government will announce the Hong Kong Viral Hepatitis Action Plan 2025-2030 within this year, to promulgate measures to further alleviate the public health burden of viral hepatitis.
+
+To raise the public and healthcare workers' awareness of the risk of hepatitis, the DH and community partners have respectively launched a number of publicity campaigns to disseminate the messages to different population groups, including:
+
+promoting health information through multiple channels, such as newspaper columns, radio interviews and social media;
+organising online and physical health seminars in District Health Centres;
+organising roving exhibitions on health promotions in various districts across the territory; and
+organising community public education activities by non-governmental organisations (including Asiahep Hong Kong Limited, Hong Kong Hepatitis B Free Foundation, the Hong Kong Liver Foundation and the Hong Kong Liver Transplant Patients' Association) to educate the public on the prevention of hepatitis B, and provide services such as rapid testing and risk assessment.
+
+
+For more information on World Hepatitis Day 2025 and hepatitis B, please visit the thematic website and Viral Hepatitis Control Office's website of the DH."
 運輸署發出四個正式的士車隊牌照（附圖）,2025-07-28 12:00,2025-07-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800233.htm,"運輸署今日（七月二十八日）公布，已根據《道路交通（公共服務車輛）規例》（第374D章）第12E（1）條，向四支的士車隊發出正式的士車隊牌照，為期五年。四支車隊由今日起正式投入服務，詳情如下：
 
 
@@ -601,17 +601,6 @@ Urban
   The TD has set up a taxi fleet thematic website. It also introduces information about the taxi fleet service to the public and tourists through various online and offline channels, including the TD's HKeMobility mobile application, and collaboration with the Hong Kong Tourism Board, the Airport Authority Hong Kong, the Kai Tak Cruise Terminal operator and Hong Kong Talent Engage.
 
   In addition, the TD has set up about 80 designated fleet taxi stopping places across 13 locations, such as the airport, certain boundary control points, the Hong Kong West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link, some Airport Express stations, the Kai Tak Cruise Terminal and Hong Kong Disneyland. Information plates have been installed at these locations. The TD has also put up signage and display panels at some of these locations, and displayed online hailing QR codes via leaflets and posters for the public and tourists to make their bookings."
-LD reminds employers and employees to take heat stroke preventive measures in times of Heat Stress at Work Warning,2025-07-28 11:30,2025-07-28 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800283.htm,"  âAs the Heat Stress at Work Warning is now in effect, the Labour Department (LD) reminds employers and employees to take appropriate measures during the effective period of the warning to prevent heat stroke when working in hot weather or hot environments.
-  
-  Employees who work outdoors or in non-air-conditioned indoor environments face high levels of heat stress and are at a relatively higher risk of heat stroke. Employers should assess the risk factors of heat stress for employees at work and, based on the identified risk factors, take necessary preventive and control measures, including rescheduling work periods, setting up shading covers, providing ventilation and heat dissipation equipment, and reminding employees to replenish water and rest in a timely manner.
-  
-  The Heat Stress at Work Warning is formulated by the LD based on the Hong Kong Heat Index. There are three levels of the warning: Amber, Red and Black, which help employers and employees better understand the level of heat stress while working outdoors or indoors without air-conditioning systems.
-  
-  A spokesman for the LD said that when the department issues the Heat Stress at Work Warning, employers must refer to the criteria and recommendations provided in the ""Guidance Notes on Prevention of Heat Stroke at Work"" to conduct risk assessments, according to the workloads and other relevant heat stress risk factors, for employees who work outdoors or in non-air-conditioned indoor workplaces. Appropriate rest breaks should be arranged every hour, as far as reasonably practicable, based on various levels of the Heat Stress at Work Warning, to reduce employees' risk of heat stroke.
-  
-  Employees must also follow instructions to rest on time. Whenever there are any symptoms of heat-related illnesses, such as headache, dizziness, thirst, and nausea, they should rest in a cool and shady place, drink water, and inform employers/supervisors to take appropriate action immediately.
-  
-  The LD issued the ""Guidance Notes on Prevention of Heat Stroke at Work"", detailing the various risk factors that should be considered when conducting heat stress risk assessments and recommending corresponding control measures for identified risk factors for employers' and employees' reference. For the Heat Stress at Work Warning and related guidelines, please refer to the department's thematic webpage: www.labour.gov.hk/eng/news/prevention_of_heat_stroke_at_work.htm."
 勞工處提醒僱主及僱員在工作暑熱警告生效期間採取預防中暑措施,2025-07-28 11:30,2025-07-28 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800282.htm,"由於工作暑熱警告現已生效，勞工處提醒僱主及僱員在警告生效期間採取適當措施，以預防在酷熱天氣下或高溫環境中工作而引致中暑。
 
 在戶外或沒有空調的室內環境工作的僱員會面對高水平的熱壓力，中暑的風險亦相對較高。僱主應評估僱員工作時的熱壓力風險因素，並因應所識別的風險因素採取所需的預防及控制措施，包括重新編排工作時段、設置遮蔭上蓋、提供通風及散熱設備、提醒員工適時補充水分及休息。
@@ -626,6 +615,17 @@ LD reminds employers and employees to take heat stroke preventive measures in ti
 ​SmartPLAY康體通系統進行系統維護期間暫停服務,2025-07-28 11:30,2025-07-28 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800250.htm,"康樂及文化事務署今日（七月二十八日）宣布，SmartPLAY康體通將於七月三十日（星期三）凌晨零時至早上二時暫停服務，以便進行系統維護。用戶如需於上述日期使用系統，敬請預早安排，在服務暫停時段之前或後使用系統。
 "
 SmartPLAY system to temporarily suspend service for system maintenance,2025-07-28 11:30,2025-07-28 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800244.htm,  The Leisure and Cultural Services Department announced today (July 28) that the SmartPLAY system will be temporarily suspended from midnight to 2am on July 30 (Wednesday) for system maintenance. Users who plan to use the system on the above-mentioned date are advised to use it before or after the suspension period.
+LD reminds employers and employees to take heat stroke preventive measures in times of Heat Stress at Work Warning,2025-07-28 11:30,2025-07-28 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800283.htm,"  âAs the Heat Stress at Work Warning is now in effect, the Labour Department (LD) reminds employers and employees to take appropriate measures during the effective period of the warning to prevent heat stroke when working in hot weather or hot environments.
+  
+  Employees who work outdoors or in non-air-conditioned indoor environments face high levels of heat stress and are at a relatively higher risk of heat stroke. Employers should assess the risk factors of heat stress for employees at work and, based on the identified risk factors, take necessary preventive and control measures, including rescheduling work periods, setting up shading covers, providing ventilation and heat dissipation equipment, and reminding employees to replenish water and rest in a timely manner.
+  
+  The Heat Stress at Work Warning is formulated by the LD based on the Hong Kong Heat Index. There are three levels of the warning: Amber, Red and Black, which help employers and employees better understand the level of heat stress while working outdoors or indoors without air-conditioning systems.
+  
+  A spokesman for the LD said that when the department issues the Heat Stress at Work Warning, employers must refer to the criteria and recommendations provided in the ""Guidance Notes on Prevention of Heat Stroke at Work"" to conduct risk assessments, according to the workloads and other relevant heat stress risk factors, for employees who work outdoors or in non-air-conditioned indoor workplaces. Appropriate rest breaks should be arranged every hour, as far as reasonably practicable, based on various levels of the Heat Stress at Work Warning, to reduce employees' risk of heat stroke.
+  
+  Employees must also follow instructions to rest on time. Whenever there are any symptoms of heat-related illnesses, such as headache, dizziness, thirst, and nausea, they should rest in a cool and shady place, drink water, and inform employers/supervisors to take appropriate action immediately.
+  
+  The LD issued the ""Guidance Notes on Prevention of Heat Stroke at Work"", detailing the various risk factors that should be considered when conducting heat stress risk assessments and recommending corresponding control measures for identified risk factors for employers' and employees' reference. For the Heat Stress at Work Warning and related guidelines, please refer to the department's thematic webpage: www.labour.gov.hk/eng/news/prevention_of_heat_stroke_at_work.htm."
 二○二五年八月份射擊練習,2025-07-28 11:00,2025-07-28 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072400311.htm,"新圍／大嶺靶場和青山靶場兩個軍事用地將於下月（八月）舉行實彈射擊練習。
 
 射擊練習開始前和射擊時，射擊練習區將懸掛紅旗或紅燈。為免發生危險，各界人士切勿進入射擊練習區及靶場範圍。
@@ -902,44 +902,6 @@ August 1 (Friday)
 
 
 "
-天氣酷熱　衞生署提醒市民預防高溫引發的疾病,2025-07-28 06:45,2025-07-28 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800015.htm,"天氣酷熱，衞生署衞生防護中心（中心）今日（七月二十八日）提醒市民，應採取適當措施預防高溫引發的疾病，例如熱痙攣、熱衰竭和中暑。
-
-在高溫環境下，大量出汗及散熱困難，均會導致身體不勝負荷，市民應採取以下預防措施：
-
-
-適時補充水分，以防脫水；
-穿着淺色、寬鬆及通爽的衣物，減少吸熱，方便排汗及散熱；
-保持室內空氣流通，例如打開窗戶；
-避免進行劇烈運動或作長程的登山或遠足等活動；
-戶外活動最好安排在早上或下午較後時間進行，同時應帶備充足水分；及
-避免飲用含咖啡因的飲品，例如咖啡和茶，以及酒精類飲品，以免增加水分經泌尿系統流失的速度。
-
-
-除上述要點，重點人群包括嬰兒及小童、長者、孕婦、長期病如心臟病或高血壓患者、戶外／體力勞動者和過胖人士均較易中暑，應特別注意：
-
-
-應盡量避免攜帶嬰幼兒於高溫時段外出；如必須外出時，成人需確保嬰幼兒處於溫度適中，通風或有冷氣的地方，不應獨留嬰幼兒在汽車等密閉空間內；
-長者、孕婦、長期病患者和過胖人士應密切關注身體狀況，如血壓、心率等指標出現異常或病情出現波動，應盡快尋求協助。盡量避免高溫時段外出，在室內時要注意通風或開風扇／冷氣保持適宜的溫度。高溫亦有機會導致慢性疾病（如心血管和呼吸道疾病）患者的病情惡化，故此應確保常用藥物儲備充足及與家人、鄰里和社區保持聯繫。如感到不適，應立即尋求協助。
-戶外工作及／或體力勞動者盡量安排在較涼快的時間工作。若必須在炎熱環境下工作，盡可能在工作地點加設遮蔭上蓋、提供通風及散熱設備。開始工作後，循序漸進調整工作步伐，並適時在蔭涼處休息，恢復體力。
-
-
-中心總監徐樂堅醫生說：「中暑是高溫天氣下最常見的健康風險之一。在過去五年，本港每年有超過200宗因中暑入院的個案，當中死亡的個案每年約有二至五宗，集中於五月至九月的夏季時間。重點人群較易中暑，病徵包括頭暈、頭痛、噁心、氣促、神志不清等，嚴重者會出現全身痙攣或昏迷等現象，若不及時替患者降溫及急救，便會有生命危險。」
-
-​市民亦應留意由香港天文台（天文台）公布的最新天氣，以及實時和預測的紫外線指數。當紫外線指數偏高（6或以上）時：
-
-
-減少陽光直接照射皮膚或眼睛；
-在進行戶外活動時，應塗抹防曬系數30或以上的廣譜及防水的防曬產品。如需長時間在戶外逗留，或在游泳、流汗或以毛巾抺身後，應每兩小時再次塗上防曬產品；
-使用含避蚊胺的昆蟲驅避劑預防蚊傳疾病時，應先塗上防曬霜，然後再塗上昆蟲驅避劑；
-選擇有遮蔭的地方；
-戴上能阻隔紫外線的太陽眼鏡；
-穿着長袖的寬鬆衣物；及
-戴闊邊帽或撐傘。
-
-
-若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
-
-市民可透過以下途徑，取得更多資料：衞生署健康教育專線（2833 0111）、中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
 DH reminds public to take precautions against heat-related illnesses during very hot weather,2025-07-28 06:45,2025-07-28 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800013.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (July 28) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke during very hot weather.
 
 In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
@@ -990,6 +952,44 @@ If engaged in outdoor work or activities, wear a wide-brimmed hat and light-colo
 Drink plenty of water, and avoid beverages containing caffeine or alcohol.
 
 If you feel sick, consult a doctor right away."
+天氣酷熱　衞生署提醒市民預防高溫引發的疾病,2025-07-28 06:45,2025-07-28 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800015.htm,"天氣酷熱，衞生署衞生防護中心（中心）今日（七月二十八日）提醒市民，應採取適當措施預防高溫引發的疾病，例如熱痙攣、熱衰竭和中暑。
+
+在高溫環境下，大量出汗及散熱困難，均會導致身體不勝負荷，市民應採取以下預防措施：
+
+
+適時補充水分，以防脫水；
+穿着淺色、寬鬆及通爽的衣物，減少吸熱，方便排汗及散熱；
+保持室內空氣流通，例如打開窗戶；
+避免進行劇烈運動或作長程的登山或遠足等活動；
+戶外活動最好安排在早上或下午較後時間進行，同時應帶備充足水分；及
+避免飲用含咖啡因的飲品，例如咖啡和茶，以及酒精類飲品，以免增加水分經泌尿系統流失的速度。
+
+
+除上述要點，重點人群包括嬰兒及小童、長者、孕婦、長期病如心臟病或高血壓患者、戶外／體力勞動者和過胖人士均較易中暑，應特別注意：
+
+
+應盡量避免攜帶嬰幼兒於高溫時段外出；如必須外出時，成人需確保嬰幼兒處於溫度適中，通風或有冷氣的地方，不應獨留嬰幼兒在汽車等密閉空間內；
+長者、孕婦、長期病患者和過胖人士應密切關注身體狀況，如血壓、心率等指標出現異常或病情出現波動，應盡快尋求協助。盡量避免高溫時段外出，在室內時要注意通風或開風扇／冷氣保持適宜的溫度。高溫亦有機會導致慢性疾病（如心血管和呼吸道疾病）患者的病情惡化，故此應確保常用藥物儲備充足及與家人、鄰里和社區保持聯繫。如感到不適，應立即尋求協助。
+戶外工作及／或體力勞動者盡量安排在較涼快的時間工作。若必須在炎熱環境下工作，盡可能在工作地點加設遮蔭上蓋、提供通風及散熱設備。開始工作後，循序漸進調整工作步伐，並適時在蔭涼處休息，恢復體力。
+
+
+中心總監徐樂堅醫生說：「中暑是高溫天氣下最常見的健康風險之一。在過去五年，本港每年有超過200宗因中暑入院的個案，當中死亡的個案每年約有二至五宗，集中於五月至九月的夏季時間。重點人群較易中暑，病徵包括頭暈、頭痛、噁心、氣促、神志不清等，嚴重者會出現全身痙攣或昏迷等現象，若不及時替患者降溫及急救，便會有生命危險。」
+
+​市民亦應留意由香港天文台（天文台）公布的最新天氣，以及實時和預測的紫外線指數。當紫外線指數偏高（6或以上）時：
+
+
+減少陽光直接照射皮膚或眼睛；
+在進行戶外活動時，應塗抹防曬系數30或以上的廣譜及防水的防曬產品。如需長時間在戶外逗留，或在游泳、流汗或以毛巾抺身後，應每兩小時再次塗上防曬產品；
+使用含避蚊胺的昆蟲驅避劑預防蚊傳疾病時，應先塗上防曬霜，然後再塗上昆蟲驅避劑；
+選擇有遮蔭的地方；
+戴上能阻隔紫外線的太陽眼鏡；
+穿着長袖的寬鬆衣物；及
+戴闊邊帽或撐傘。
+
+
+若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
+
+市民可透過以下途徑，取得更多資料：衞生署健康教育專線（2833 0111）、中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
 酷熱天氣警告已發出,2025-07-28 06:45,2025-07-28 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/28/P2025072800012.htm,"電台及電視台當值宣布員注意：
 
 請盡速播出下列特別報告：
@@ -1046,12 +1046,12 @@ The HA expresses deep sorrow over this incident and extends its sincere condolen
 The HA is very concerned about the incident. Since the lifts involved in the project have not yet undergone all required works and adjustments, and have not been handed over for use and management by QMH. The HA is aware that site staff from the ArchSD immediately contacted and followed up with the contractor after the accident. The contractor has been urged to take the incident seriously and to adopt all necessary measures as soon as possible to ensure site safety. The contractor has also been requested to thoroughly investigate the cause of the incident and to submit a report to the ArchSD and the HA as soon as possible to prevent similar accidents from happening again.
 
 The HA has always placed paramount importance on industrial safety at hospital construction sites. The HA notes that the contractor will report this incident to the Labour Department, and the HA will also urge the ArchSD and the contractor to fully co-operation with the Labour Department and other relevant enforcement agencies in their investigation."
-Labour Department investigates fatal work accident in Southern District,2025-07-27 22:05,2025-07-27 22:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/27/P2025072700732.htm,"âThe Labour Department (LD) is investigating a fatal work accident that happened in the Southern District this afternoon (July 27) in which a man died.
-
-  The LD immediately deployed staff to the scene upon receiving a report of the accident, and is now conducting an investigation to look into its cause."
 勞工處調查南區致命工作意外,2025-07-27 22:05,2025-07-27 22:15,Chi,gia,https://www.info.gov.hk/gia/general/202507/27/P2025072700733.htm,"勞工處現正調查今日（七月二十七日）下午在南區發生的一宗致命工作意外，意外中一名男子死亡。
 
 勞工處接報後已即時派員到現場，現正就意外原因展開調查。"
+Labour Department investigates fatal work accident in Southern District,2025-07-27 22:05,2025-07-27 22:15,Eng,gia,https://www.info.gov.hk/gia/general/202507/27/P2025072700732.htm,"âThe Labour Department (LD) is investigating a fatal work accident that happened in the Southern District this afternoon (July 27) in which a man died.
+
+  The LD immediately deployed staff to the scene upon receiving a report of the accident, and is now conducting an investigation to look into its cause."
 醫院管理局就瑪麗醫院重建工程地盤工業意外的聲明,2025-07-27 21:53,2025-07-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202507/27/P2025072700723.htm,"下稿代醫院管理局發出：
 
 醫院管理局（醫管局）發言人今日（七月二十七日）就瑪麗醫院重建工程地盤的工業意外有以下聲明︰
@@ -1198,14 +1198,3 @@ Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf.
 "
-HKSAR Government opposes smears against Police lawful enforcement actions,2025-07-27 16:46,2025-07-27 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202507/27/P2025072700516.htm,"The Government of the Hong Kong Special Administrative Region (HKSAR) today (July 27) strongly opposed and disapproved of smears with distorted facts by government officials and politicians from countries like the United States, Canada and Australia, as well as anti-China organisations, on HKSAR's lawful act to pursue wanted persons endangering national security absconding from Hong Kong. Not only did such foreign government officials and politicians, as well as anti-China organisations, turned a blind eye to illegal acts of criminals, but also deliberately smeared and spread irresponsible remarks, in an attempt to mislead the public, about the measures and actions taken by the HKSAR Government in accordance with the law. The HKSAR Government strongly disapproved of such acts.
-
-A spokesman for the HKSAR Government said, ""Acts and activities endangering national security could bring very serious consequences. Prompt actions must be taken to prevent and suppress such acts and activities effectively. According to Article 37 of the Hong Kong National Security Law (HKNSL), this Law shall apply to a person who is a permanent resident of the HKSAR or an incorporated or unincorporated body such as a company or an organisation which is set up in the HKSAR if the person or the body commits an offence under the HKNSL outside the HKSAR. Additionally, Article 38 of the HKNSL stipulates that this Law shall apply to offences under this Law committed against the HSKAR from outside the HKSAR by a person who is not a permanent resident of the HKSAR. Therefore, the Hong Kong Police Force has the responsibility to pursue, in accordance with the law, persons suspected of committing offences under the HKNSL outside Hong Kong.""
-
-""The 'Hong Kong Parliament' is an organisation which aims to subvert state power; its objectives include promoting 'self-determination', promulgating the so-called 'Hong Kong Constitution', and overthrowing or undermining the basic system of the People's Republic of China established by the Constitution of the People's Republic of China or overthrowing the body of the central power of People's Republic of China or the body of power of the HKSAR with unlawful means, thereby suspected of having committed the offence of 'Subversion' contrary to Article 22 of the HKNSL. Thus, Police applied to the court for arrest warrants in accordance with the law and put the persons involved on wanted list. Any acts disregarding the facts and smearing HKSAR's work in safeguarding national security with untruthful remarks are hypocritical and irresponsible, and will not win any public support.""
-
-""We have to stress that both the HKNSL and the Safeguarding National Security Ordinance clearly stipulate that human rights shall be respected and protected in safeguarding national security in the HKSAR. The rights and freedoms, including the freedoms of speech, of the press and of publication, and the freedoms of association, of assembly, of procession and of demonstration, enjoyed by Hong Kong people under the Basic Law and the provisions of the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights as applicable to the HKSAR are protected in accordance with the law. However, regarding an extremely small minority of organisations and individuals endangering national security, the HKSAR Government will not condone their criminal acts, and will not give up pursuing them, including adopting all practical measures to bring those fugitives endangering national security who have absconded from Hong Kong to justice.""
-
-The spokesman emphasised, ""Absconders should not think they can evade criminal liability by absconding from Hong Kong. Ultimately, they will be liable for their acts constituting serious offences endangering national security and be punished by the law. No country or organisation should harbour criminals nor try to exonerate these people with different excuses.""
-
-""The Constitution and the Basic Law steadfastly safeguard the rights and freedoms enjoyed by Hong Kong people. Any attempt by foreign countries or external forces to undermine Hong Kong's situation will only expose their own weakness and faulty arguments and be doomed to fail. The HKSAR Government will continue to unwaveringly discharge its duty in safeguarding national security,"" the spokesman reiterated."
