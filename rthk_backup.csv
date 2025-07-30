@@ -1,4 +1,24 @@
 title,date,summary,scrape_time,section,source,url,news_content
+'Govt reacted quickly despite unpredictable rainstorm',2025-07-30 12:09,,2025-07-30 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1815764-20250730.htm,"Chief Secretary Eric Chan on Wednesday said heavy rain and thunderstorms on Tuesday developed rapidly and it was difficult for authorities to make clear predictions. 
+
+Speaking to reporters at the Legislative Council after an antechamber exchange session, Chan said the SAR has a comprehensive, well-established and effective mechanism for handling extreme weather conditions. 
+
+He said the steering committee on handling extreme weather meets when possible extreme weather conditions are predicted, so that various departments can get prepared as soon as possible.
+
+“The heavy rain yesterday developed rapidly and in a sudden between 8am and 9am, and the heavy rainfall was concentrated in several districts. It's hard to predict the situation clearly beforehand,” Chan said. 
+
+“Actually, after the Black Rainstorm Warning was issued, our emergency co-ordination and command centre was activated immediately, and various departments took immediate actions. Despite the flooding, fallen trees and obstruction on some roads, the problems were solved quickly.” 
+
+Meanwhile, the observatory said it is hard to predict the time and location of rain and thunderstorms due to their random nature, as well as technological limitations. 
+
+On an RTHK programme, assistant director of the observatory Cheng Yuen-chung said Tuesday’s Black Rainstorm Warning was triggered by a broad trough over the South China coast which allowed rain and thunderstorms to develop rapidly. 
+
+“High randomness is a characteristic of heavy rain... the rain mainly affected southeastern parts of Hong Kong, but if it moved a bit to the north, more places would have been affected,” Cheng said.
+
+“Eastern District, Southern District and Lamma Island saw extremely heavy rain reaching 100 millimetres in an hour yesterday, higher than the rainfall indication of 70 millimetres per hour of the Black Rainstorm Warning. If the rainstorm area moved a little, more places would have been affected by heavier rain.” 
+
+Cheng also said that because the rainstorm lingered and continued to intensify, it was difficult to forecast its movements."
+黃色工作暑熱警告生效,2025-07-30 11:55,,2025-07-30 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815775-20250730.htm,黃色工作暑熱警告生效。
 內地股市半日個別發展,2025-07-30 11:41,,2025-07-30 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815772-20250730.htm,"滬深股市半日個別發展，創新藥、影視院線相關股份上升；固態電池、數字貨幣和多元金融板塊下跌。
 
 上證綜合指數報3628點，升18點，升幅0.52%。
@@ -6,6 +26,9 @@ title,date,summary,scrape_time,section,source,url,news_content
 深證成份指數報11283點，跌6點，跌幅0.06%。
 
 創業板指數報2389點，跌17點，跌幅0.71%。"
+國家海嘯預警中心：海嘯料對部分沿岸地區造成災害性影響,2025-07-30 11:39,,2025-07-30 12:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815773-20250730.htm,"俄羅斯遠東堪察加半島對開海域發生8級以上強烈地震，引發海嘯，多國發出海嘯警報或預警。
+
+中國自然資源部海嘯預警中心發布海嘯黃色警報，指根據最新監測分析結果，地震已引發海嘯，預計對上海，舟山，台北，屏東，台東，花蓮和宜蘭沿岸造成災害性影響。"
 國家海嘯預警中心：俄國地震料對部分沿岸地區造成災害性影響,2025-07-30 11:39,,2025-07-30 11:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815773-20250730.htm, 
 'New subsidised homes meet needs of young families',2025-07-30 11:39,,2025-07-30 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1815769-20250730.htm,"A lawmaker said on Wednesday that subsidised homes to be put on the market from this year are more suitable for young families.
 
@@ -48,12 +71,12 @@ Leung welcomed the idea, but said that facilities such as security gates should 
 
 中央氣象台預計，竹節草還將有所增強，並將於日間在寧波到啟東一帶沿海再次登陸。國家海洋預報台早上發佈海浪橙色警報和風暴潮藍色警報。"
 陳國基稱政府有完整方法應對極端天氣　機制行之有效,2025-07-30 11:03,,2025-07-30 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815767-20250730.htm, 
-下月起抵港人士預約的士　需赴機場一號停車場旁指定上客區上車,2025-07-30 10:59,,2025-07-30 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815766-20250730.htm,"運輸署表示，由8月1日上午5時起，已預約乘坐的士的人士，需要前往機場一號停車場旁邊之「預約的士上客區」上車。機場抵港大堂內會加設指示牌，方便找尋相關位置。
+下月起抵港人士　需赴機場一號停車場旁「預約的士上客區上車,2025-07-30 10:59,,2025-07-30 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815766-20250730.htm,"運輸署表示，由8月1日上午5時起，已預約乘坐的士的人士，需要前往機場一號停車場旁邊之「預約的士上客區」上車。機場抵港大堂內會加設指示牌，方便找尋相關位置。
 
 運輸署在社交網頁發文指，隨住三跑道系統投入運作和機場新建客運設施啟用，預計乘客對機場的士服務的需求增加，新安排旨在提升的士站的處理量。
 
 至於現時供沒有預約的士之乘客，使用的市區、新界和大嶼山的士站，各位置則維持不變，即繼續保留在原來一號客運大樓接機大堂外地面層之的士站上車。"
-下月起抵港人士　需赴機場一號停車場旁「預約的士上客區上車,2025-07-30 10:59,,2025-07-30 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815766-20250730.htm,"運輸署表示，由8月1日上午5時起，已預約乘坐的士的人士，需要前往機場一號停車場旁邊之「預約的士上客區」上車。機場抵港大堂內會加設指示牌，方便找尋相關位置。
+下月起抵港人士預約的士　需赴機場一號停車場旁指定上客區上車,2025-07-30 10:59,,2025-07-30 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815766-20250730.htm,"運輸署表示，由8月1日上午5時起，已預約乘坐的士的人士，需要前往機場一號停車場旁邊之「預約的士上客區」上車。機場抵港大堂內會加設指示牌，方便找尋相關位置。
 
 運輸署在社交網頁發文指，隨住三跑道系統投入運作和機場新建客運設施啟用，預計乘客對機場的士服務的需求增加，新安排旨在提升的士站的處理量。
 
@@ -72,10 +95,10 @@ Leung welcomed the idea, but said that facilities such as security gates should 
 昨日柴灣環翠邨商場停車場水深一度及膝，港島東立法會議員梁熙表示，當天文台發出紅雨信號後就開始水浸，早前十號風球後當局已經清理道路的樹枝、樹葉，但有山上的枝葉未清理完，暴雨期間沖下來並阻塞渠道。
 
 他說今次渠務署應變隊伍反應快，使用排水機器人協助抽水，但涉事的領展停車場，在兩年前世紀大雨後未按要求整改排水系統，出現嚴重水浸，將來會同領展跟進有關工作，因為使用公帑協助排水不合理。"
-日股半日升7點,2025-07-30 10:34,,2025-07-30 11:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815763-20250730.htm,日本股市半日變動不大，日經平均指數上午收市報40682點，升7點。
 駐日領館緊急提醒中國同胞防範海嘯,2025-07-30 10:34,,2025-07-30 11:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815759-20250730.htm,"中國駐日本福岡總領事館發布緊急提醒，根據日本氣象部門消息，受俄羅斯堪察加半島附近強烈地震影響，預計海嘯將於當地中午12時30分起抵達宮崎縣、大分縣、鹿兒島縣及沖繩縣沿岸。
 
 總領館提醒上述四縣沿海地區的中國同胞，密切關注海嘯預警和防災訊息，立刻遠離海邊、港口和河口區域，前往高處，做好防災、應急避難等準備，確保人身安全。"
+日股半日升7點,2025-07-30 10:34,,2025-07-30 11:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815763-20250730.htm,日本股市半日變動不大，日經平均指數上午收市報40682點，升7點。
 特朗普稱或不出席南非二十國集團峰會,2025-07-30 10:33,,2025-07-30 11:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815762-20250730.htm,"美國總統特朗普表示，他可能會派其他人代表美國，出席11月在南非舉行的二十國集團領導人峰會，他本人可能不會出席。
 
 特朗普在總統專機空軍一號上表示，他不打算前往南非，因為他同南非之間有很多問題。
@@ -119,6 +142,9 @@ Leung welcomed the idea, but said that facilities such as security gates should 
 外電在政策會議前訪問了12位分析師，當中一半預計新加坡將放鬆貨幣政策設置，以應對預期的經濟缺口，有一半估計維持政策不變。
 
 金管局聲明說，今年較早時已兩次放鬆貨幣政策，在應對中期物價穩定風險上，現行政策處於適當位置。"
+中超聯賽原董事長劉軍受賄、非國家工作人員受賄判囚11年,2025-07-30 09:35,,2025-07-30 09:45,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815755-20250730.htm,"中超聯賽有限責任公司原董事長劉軍受賄、非國家工作人員受賄案，在湖北省通山縣人民法院宣判，合共判處有期徒刑十一年，罰款一百一十萬元人民幣。
+
+另外，中國足球協會紀律委員會原主任王小平受賄案，在湖北省松滋市人民法院公開宣判，他判處有期徒刑十年六個月，罰款七十萬元人民幣。"
 滬指初段偏軟　創業板指數跌1%,2025-07-30 09:35,,2025-07-30 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815754-20250730.htm,"滬深股市開市初段下跌。
 
 上證綜合指數較早時報3604點，跌5點，跌幅0.15%。
@@ -126,9 +152,6 @@ Leung welcomed the idea, but said that facilities such as security gates should 
 深證成份指數報11230點，跌58點，跌幅0.52%。
 
 創業板指數報2382點，跌24點，跌幅1%。"
-中超聯賽原董事長劉軍受賄、非國家工作人員受賄判囚11年,2025-07-30 09:35,,2025-07-30 09:45,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815755-20250730.htm,"中超聯賽有限責任公司原董事長劉軍受賄、非國家工作人員受賄案，在湖北省通山縣人民法院宣判，合共判處有期徒刑十一年，罰款一百一十萬元人民幣。
-
-另外，中國足球協會紀律委員會原主任王小平受賄案，在湖北省松滋市人民法院公開宣判，他判處有期徒刑十年六個月，罰款七十萬元人民幣。"
 人行開展3090億元人民幣逆回購,2025-07-30 09:30,,2025-07-30 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815752-20250730.htm,"人民銀行公開市場開展3090億元人民幣逆回購操作，期限為7日，利率維持於1.4厘。
 
 對沖到期量後，單日淨投放1585億元，連續4日淨投放。"
@@ -396,13 +419,6 @@ Among European economies, Germany is still expected to avoid contraction while f
 此外，美國5月標準普爾/Case-Shiller 20個大城市樓價指數按年升2.8%，低過市場預期。4月則上升3.4%。
 
 經季節調整，樓價指數按月跌0.3%，跌幅略多於預期。未經季節調整的樓價指數按月升0.4%，升幅低於4月的0.8%。"
-美股初段變動不大,2025-07-29 21:45,,2025-07-29 22:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815705-20250729.htm,"美股初段變動不大。
-
-道瓊斯指數較早時報44807點，跌29點。
-
-納斯達克指數報21271點，升93點，升幅0.44%。
-
-標準普爾500指數報6399點，升10點，升幅0.16%。"
 寶潔上季盈利按年升15%　擬提高美國產品售價應對關稅,2025-07-29 21:45,,2025-07-29 22:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815704-20250729.htm,"寶潔(P&G)公布，上季盈利約36.2億美元，按年升15%，經調整每股核心盈利1.48美元，按年升6%，好過市場預期。
 
 期內，銷售淨額208.9億美元，按年升2%，高於市場預期。自然銷售增長2%。 
@@ -410,6 +426,13 @@ Among European economies, Germany is still expected to avoid contraction while f
 截至6月底，去年度盈利159.7億美元，按年升7%，經調整每股核心盈利6.83美元，按年升4%。
 
 寶潔預計，美國的關稅措施將為今個財年增加約10億美元的稅前成本，計劃提高部分產品在美國的售價，以抵消新增關稅的成本。"
+美股初段變動不大,2025-07-29 21:45,,2025-07-29 22:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815705-20250729.htm,"美股初段變動不大。
+
+道瓊斯指數較早時報44807點，跌29點。
+
+納斯達克指數報21271點，升93點，升幅0.44%。
+
+標準普爾500指數報6399點，升10點，升幅0.16%。"
 澳洲進口預先包裝莎樂美腸或受沙門氏菌污染　需下架及回收,2025-07-29 21:27,,2025-07-29 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815703-20250729.htm,"食物安全中心呼籲市民不要食用一批進口預先包裝莎樂美腸，有關產品可能受致病菌沙門氏菌污染，業界如持有受影響批次產品，應立即停止使用或出售。
 
 產品名稱Primo Reserve Hot Sopressa Salami，品牌Primo，淨重80克，來源地是澳洲，此日期或之前食用為2025年9月9日，經銷商是百佳超級市場（香港）有限公司。
@@ -455,14 +478,14 @@ Raymond Chan, the HKMA's executive director (enforcement and anti-money launderi
 
 署方已加強與業界溝通，提醒業界遵循良好衞生規範，並推廣對食物安全的關注。"
 葵涌失蹤男子梁偉林已被尋回　事主無受傷案件無可疑,2025-07-29 21:02,,2025-07-29 21:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815698-20250729.htm,上星期三在葵涌失蹤的61歲男子梁偉林，下午在興芳路一個商場外被尋回，他沒有受傷，案件沒有可疑。
-解放軍南部戰區於黃岩島領海周邊海空域組織戰備警巡,2025-07-29 20:52,,2025-07-29 21:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815693-20250729.htm,"解放軍南部戰區組織海空兵力，於中國黃岩島領海周邊海空域，開展戰備警巡。
-
-央視報道，本月以來，戰區部隊組織海空兵力持續加強黃岩島領海周邊海空域巡邏警戒，進一步強化有關海空域管控力度，堅決捍衛國家主權安全，堅決維護南海地區和平穩定。"
 紐約曼哈頓槍擊案　調查指疑兇針對美國國家美式足球聯盟,2025-07-29 20:52,,2025-07-29 21:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815695-20250729.htm,"美國紐約曼哈頓辦公大樓槍擊案，造成4人死亡、疑兇亦自盡。警方繼續調查案件，紐約市長亞當斯說，初步調查顯示，疑兇針對美國國家美式足球聯盟發動襲擊。
 
 亞當斯接受美國傳媒訪問，說調查人員在疑兇身上找到一張字條，上面提到，疑兇懷疑自己患上慢性創傷性腦病變，並認為國家美式足球聯盟在預防球員患上這項腦部疾病方面，做得不夠。
 
 初步調查估計，27歲的疑兇原本計劃針對聯盟位於大樓內的總部發動襲擊，但因為「搭錯𨋢」，而去了一間地產公司的辦公室。事件造成4人死亡，包括一名警員。"
+解放軍南部戰區於黃岩島領海周邊海空域組織戰備警巡,2025-07-29 20:52,,2025-07-29 21:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815693-20250729.htm,"解放軍南部戰區組織海空兵力，於中國黃岩島領海周邊海空域，開展戰備警巡。
+
+央視報道，本月以來，戰區部隊組織海空兵力持續加強黃岩島領海周邊海空域巡邏警戒，進一步強化有關海空域管控力度，堅決捍衛國家主權安全，堅決維護南海地區和平穩定。"
 數字政策辦公室與互聯網基建聯絡小組商討應對網絡安全挑戰策略,2025-07-29 20:52,,2025-07-29 21:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815696-20250729.htm,"數字政策辦公室高度關注近期香港公私營機構的網絡安全事故，今日與互聯網基建聯絡小組召開特別會議，商討應對日益嚴峻的網絡安全挑戰相關策略。
 
 數字政策專員黃志光表示，會議深入分析近期網絡安全事故的成因，討論優化技術措施，亦可讓業界及早識別潛在風險及加強防禦，提升香港整體網絡安全環境。
@@ -581,14 +604,14 @@ Raymond Chan, the HKMA's executive director (enforcement and anti-money launderi
 在岸人民幣低收36點子,2025-07-29 17:56,,2025-07-29 18:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815674-20250729.htm,"在岸人民幣窄幅波動，收市創逾1個星期新低，報7.1765兌1美元，較上日跌36點子。
 
 市場人士表示，中美貿易談判仍在進行，人民幣預計保持平穩。"
+中美於瑞典展開第二天經貿會談,2025-07-29 17:52,,2025-07-29 18:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815676-20250729.htm,"中美經貿團隊在瑞典首都斯德哥爾摩，展開第二日會談。雙方在之前一日會面逾5小時，美國貿易代表格里爾表示，目前難言今輪會談會否達成協議，抑或會否延長關稅休戰期限，但對話朝正確方向前進。
+
+新華社發稿指，中美雙方朝解決經貿問題正確方向穩步前行，隨着會談逐漸進入「深水區」，需要雙方坦誠交流，進一步增進共識、減少誤解、加強合作。"
 陳維民估計最快明年初才會發出穩定幣牌照,2025-07-29 17:52,,2025-07-29 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815677-20250729.htm,"金管局副總裁陳維民表示，穩定幣發牌申請要提交的文件多、工作強度大，當局要逐一審視資料是否齊全，加上提交補充資料，相信並非短期內可以完成。
 
 他笑言，已有心理準備團隊未來數月難以放假，強調要「穩陣少少」，並且對每一個申請要公平，估計最快明年初才會發出牌照，首階段亦只會發出數個牌照。
 
 陳維民說，不預期首批會發出多少牌照，強調監管門檻很高，又指穩定幣發行人牌照申請是持續過程。他指，牌照並無年期限制，但發行人做得不好，當局有不同手段應對，最嚴重可以撤銷牌照。"
-中美於瑞典展開第二天經貿會談,2025-07-29 17:52,,2025-07-29 18:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815676-20250729.htm,"中美經貿團隊在瑞典首都斯德哥爾摩，展開第二日會談。雙方在之前一日會面逾5小時，美國貿易代表格里爾表示，目前難言今輪會談會否達成協議，抑或會否延長關稅休戰期限，但對話朝正確方向前進。
-
-新華社發稿指，中美雙方朝解決經貿問題正確方向穩步前行，隨着會談逐漸進入「深水區」，需要雙方坦誠交流，進一步增進共識、減少誤解、加強合作。"
 金管局：《穩定幣條例》生效後將設6個月過渡安排,2025-07-29 17:47,,2025-07-29 18:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815675-20250729.htm,"《穩定幣條例》本周五起生效。金管局表示，將設6個月過渡安排，處理之前在香港已有穩定幣發行業務的機構，包括向有能力遵守監管規定的發行人，發出臨時牌照；若發行人未能在條例生效後3個月內符合相關要求，須在法例生效後4個月內有序結束在香港的業務；如果金融管理專員未能信納發行人有能力符合發牌準則及監管規定，發行人要在接獲拒絕通知後一個月內有序結束香港業務。
 
 金管局表示，會適時公布首階段獲發牌照的穩定幣發行人，重申初期只會發出數個牌照，即使取得牌照，公司短期盈利仍有不確定性，提醒投資者保持冷靜和獨立思考。目前不打算公布表達申請意願或提交申請的機構名單。
@@ -598,13 +621,6 @@ Raymond Chan, the HKMA's executive director (enforcement and anti-money launderi
 此外，發行人要在發行和贖回時進行客戶盡職審查，確定客戶錢包的擁有權或控制權，亦要採用科技方案持續篩查客戶的穩定幣交易及錢包地址、將高風險錢包地址列入黑名單等。
 
 當局指，若懷疑發行人違反要求或相關條件等情況，金管局會評估或展開調查，可罰款、警告或譴責、命令糾正，暫時吊銷或撤銷牌照，亦可轉介至相關監管機構或尋求執法部門協助，並向公眾發警示。"
-大批動漫迷到動漫節掃貨　有參展商稱生意有雙位數增長,2025-07-29 17:38,,2025-07-29 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815673-20250729.htm,"今屆動漫電玩節最後一日開放，早上在黑色暴雨警告訊號下，大會宣布如常開放，無阻大批動漫迷入場購買心頭好，下午人流越來越多。
-
-從外地返港的動漫迷羅小姐最後衝刺入場掃貨，她提到自己喜歡抽卡及日本卡通人物，形容是「無預算」，已經花費4000至5000元購買公仔及盲盒等。她提到自己一直在外國居住，但外國較少動漫周邊產品，因此今日買到心儀產品，十分興奮。
-
-不少角色扮演者把握最後一日機會，悉心打扮入場，扮演日本動漫角色的盧先生，提早兩個月準備服飾、配件、道具。他提到今年人流氣氛旺，但首四日展期有較多動漫迷到三樓展館尋找心儀動漫角色合照，導致場館人流較多，但場地空間有限，令角色扮演者行動稍為不便。他希望下年能夠拓展場館空間，以及增加登記證名額，讓更多角色扮演者能入場互相交流。
-
-大部分參展商也沒有減價促銷。參展商負責人陳小姐提到，今年人流比去年好，帶動生意有雙位數增長。她說，今日暴雨主要集中在上午時段，下午人流有所恢復，對生意影響不大。"
 'Authority to probe management at outage-hit block',2025-07-29 17:38,,2025-07-29 17:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1815669-20250729.htm,"The Property Management Services Authority will look into whether the company managing a To Kwa Wan residential building hit by a power outage complies with regulations, Home Affairs Secretary Alice Mak said on Tuesday.
 
 Some 2,000 residents of I-Feng Mansions were affected by the outage, which followed a water leak in the block on Saturday. Some parts of the building were still without power as of Tuesday evening.
@@ -622,6 +638,13 @@ Mak said licensed property management firms are required under a code of practic
 Mak said government departments, power supplier CLP and a volunteer team from China State Construction International Holdings have assisted with the electricity repair work.
 
 However, she said home owners and property management companies should take responsibility for building management and maintenance."
+大批動漫迷到動漫節掃貨　有參展商稱生意有雙位數增長,2025-07-29 17:38,,2025-07-29 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815673-20250729.htm,"今屆動漫電玩節最後一日開放，早上在黑色暴雨警告訊號下，大會宣布如常開放，無阻大批動漫迷入場購買心頭好，下午人流越來越多。
+
+從外地返港的動漫迷羅小姐最後衝刺入場掃貨，她提到自己喜歡抽卡及日本卡通人物，形容是「無預算」，已經花費4000至5000元購買公仔及盲盒等。她提到自己一直在外國居住，但外國較少動漫周邊產品，因此今日買到心儀產品，十分興奮。
+
+不少角色扮演者把握最後一日機會，悉心打扮入場，扮演日本動漫角色的盧先生，提早兩個月準備服飾、配件、道具。他提到今年人流氣氛旺，但首四日展期有較多動漫迷到三樓展館尋找心儀動漫角色合照，導致場館人流較多，但場地空間有限，令角色扮演者行動稍為不便。他希望下年能夠拓展場館空間，以及增加登記證名額，讓更多角色扮演者能入場互相交流。
+
+大部分參展商也沒有減價促銷。參展商負責人陳小姐提到，今年人流比去年好，帶動生意有雙位數增長。她說，今日暴雨主要集中在上午時段，下午人流有所恢復，對生意影響不大。"
 HK stocks edge down amid Sino-US talks,2025-07-29 17:20,,2025-07-29 17:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815659-20250729.htm,"Mainland China and Hong Kong stocks were mixed on Tuesday as Chinese and US officials began a second day of talks in Stockholm to resolve longstanding economic disputes and step back from an escalating trade war between the world's two biggest economies.
 
 In Hong Kong, the benchmark Hang Seng Index ended down 37.68 points, or 0.15
@@ -837,14 +860,14 @@ A resident surnamed Chow said he managed to move his vehicle out of the car park
 44歲男子疑西貢失蹤　警方籲提供消息,2025-07-29 13:08,,2025-07-29 13:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815631-20250729.htm,"警方呼籲市民提供一名在西貢失蹤男子的消息。44歲男子嚴淦，在本月27日在白腊灣最後露面後便告失蹤，警方同日接獲報案。
 
 他身高約1.7米、體重約75公斤、中等身材、長面型、黃皮膚及蓄短黑髮。他最後露面時身穿深色游泳套裝，橙色救生衣及戴藍色帽。任何人如有消息請與警方聯絡。"
-環翠停車場水深一度及膝　梁熙料耀興道「瀑布」因未及清理樹枝,2025-07-29 13:07,,2025-07-29 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815630-20250729.htm,"天文台早上發出今年首個黑色暴雨警告，生效接近2小時，東區及南區雨勢特別大，錄得每小時雨量超過100毫米大暴雨，多個地點嚴重水浸，包括柴灣環翠停車場、柴灣道迴旋處等。
+梁熙稱環翠停車場水深一度及膝　料耀興道「瀑布」因未及清理樹枝,2025-07-29 13:07,,2025-07-29 13:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815630-20250729.htm,"天文台早上發出今年首個黑色暴雨警告，生效接近2小時，東區及南區雨勢特別大，錄得每小時雨量超過100毫米大暴雨，多個地點嚴重水浸，包括柴灣環翠停車場、柴灣道迴旋處等。
 
 港島東立法會議員梁熙說，今早有關愛隊成員自願出動，清理渠口及協助渠道去水等，形容水浸情況受控。他建議當局應該加快在有需要路段更換大排水渠及加裝減壓閥等工程，避免每次大雨都出現水浸。
 
 梁熙表示，今早曾到柴灣環翠停車場視察，並提醒車主駕車離開，直至水深及膝時，約八至九成的車已駛離停車場。
 
 至於筲箕灣耀興道山邊護土牆，出現像瀑布的水流。梁熙估計是早前颱風韋帕襲港後，仍有落葉及樹枝未及清理，被大雨沖到排水溝位置，形成大水亂流，甚至「瀑布」情況。"
-梁熙稱環翠停車場水深一度及膝　料耀興道「瀑布」因未及清理樹枝,2025-07-29 13:07,,2025-07-29 13:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815630-20250729.htm,"天文台早上發出今年首個黑色暴雨警告，生效接近2小時，東區及南區雨勢特別大，錄得每小時雨量超過100毫米大暴雨，多個地點嚴重水浸，包括柴灣環翠停車場、柴灣道迴旋處等。
+環翠停車場水深一度及膝　梁熙料耀興道「瀑布」因未及清理樹枝,2025-07-29 13:07,,2025-07-29 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815630-20250729.htm,"天文台早上發出今年首個黑色暴雨警告，生效接近2小時，東區及南區雨勢特別大，錄得每小時雨量超過100毫米大暴雨，多個地點嚴重水浸，包括柴灣環翠停車場、柴灣道迴旋處等。
 
 港島東立法會議員梁熙說，今早有關愛隊成員自願出動，清理渠口及協助渠道去水等，形容水浸情況受控。他建議當局應該加快在有需要路段更換大排水渠及加裝減壓閥等工程，避免每次大雨都出現水浸。
 
@@ -869,17 +892,17 @@ The observatory warned that showers were particularly heavy over Southern distri
 法院或審裁處的登記處及辦事處於辦公時間內會照常辦公。法庭使用者可如常透過綜合法院案件管理系統，使用個別法院或審裁處登記處已推行的電子服務。
  
 司法機構說，預計明日前往法院的人士眾多，法庭使用者應提早抵達法院大樓，尤其是在早上或午飯後的繁忙時段。"
-Residential rents rise to near a six-year high,2025-07-29 12:43,,2025-07-29 13:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815614-20250729.htm,"Hong Kong's overall home rental prices rose in June to the highest level in almost six years as buyers took a wait-and-see approach and demand from new immigrants and students boosted the rental market.
+Residential rents rise to near six-year highs,2025-07-29 12:43,,2025-07-29 15:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815614-20250729.htm,"Hong Kong's overall home rental prices rose in June to the highest level in almost six years as potential buyers took a wait-and-see approach and demand from new arrivals and students boosted the rental market.
 
 Figures released by the Rating and Valuation Department on Tuesday showed that the key gauge of overall rental prices stood at 195.6, 0.3 percent higher than that for May.
 
-That was the highest level since September 2019 and also 1.6 percent higher year on year. However the pace of the price increase has slowed down.
+That was the highest level since September 2019 and also 1.6 percent higher year on year. However, the pace of the rental increase has slowed down.
 
-Rents for units of almost all sizes headed north, though larger units, those measuring more than 1,722 square feet, saw bigger price spikes.
+Rents for units of almost all sizes headed north, though larger units – those measuring more than 1,722 square feet – saw bigger spikes.
 
 The rises also came as home prices rose for a third consecutive month in June, thanks to relatively low interest rates as developers continued to sell existing stock due to high inventories.
 
-The official home price index, a key gauge measuring the city's lived-in home prices, stood at 286.7 in June, 0.03 percent higher on a monthly basis, while narrowing down the annual decline to 5.2 percent last month. 
+The official home price index, a key gauge measuring the city's lived-in home prices, stood at 286.7 last month, 0.03 percent higher on a monthly basis, while narrowing the year-on-year decline to 5.2 percent.
 
 Taking the first six months together, home prices retreated 0.9 percent year on year. 
 
@@ -894,17 +917,17 @@ An active push by developers to offload inventories to replenish capital also we
 ""Given the improvement in market sentiment, coupled with current low financing cost situation, we are optimistic that we are proceeding to a 'bottoming out'.
 
 ""This may also cap an end to the residential market correction that has been going on since 2021,"" he added."
-Residential rents rise to near six-year highs,2025-07-29 12:43,,2025-07-29 15:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815614-20250729.htm,"Hong Kong's overall home rental prices rose in June to the highest level in almost six years as potential buyers took a wait-and-see approach and demand from new arrivals and students boosted the rental market.
+Residential rents rise to near a six-year high,2025-07-29 12:43,,2025-07-29 13:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815614-20250729.htm,"Hong Kong's overall home rental prices rose in June to the highest level in almost six years as buyers took a wait-and-see approach and demand from new immigrants and students boosted the rental market.
 
 Figures released by the Rating and Valuation Department on Tuesday showed that the key gauge of overall rental prices stood at 195.6, 0.3 percent higher than that for May.
 
-That was the highest level since September 2019 and also 1.6 percent higher year on year. However, the pace of the rental increase has slowed down.
+That was the highest level since September 2019 and also 1.6 percent higher year on year. However the pace of the price increase has slowed down.
 
-Rents for units of almost all sizes headed north, though larger units – those measuring more than 1,722 square feet – saw bigger spikes.
+Rents for units of almost all sizes headed north, though larger units, those measuring more than 1,722 square feet, saw bigger price spikes.
 
 The rises also came as home prices rose for a third consecutive month in June, thanks to relatively low interest rates as developers continued to sell existing stock due to high inventories.
 
-The official home price index, a key gauge measuring the city's lived-in home prices, stood at 286.7 last month, 0.03 percent higher on a monthly basis, while narrowing the year-on-year decline to 5.2 percent.
+The official home price index, a key gauge measuring the city's lived-in home prices, stood at 286.7 in June, 0.03 percent higher on a monthly basis, while narrowing down the annual decline to 5.2 percent last month. 
 
 Taking the first six months together, home prices retreated 0.9 percent year on year. 
 
@@ -970,11 +993,3 @@ An active push by developers to offload inventories to replenish capital also we
 手機設備股向下，比亞迪電子跌近3%，舜宇跌近2%。
 
 醫藥股多數上升，藥明康德急升逾10%，公司上半年盈利升近1倍。石藥集團升逾6%，藥明生物升近4%，是升幅最大的3隻藍籌股。"
-柴灣道往東區走廊支路及赤柱灘道等須暫時關閉,2025-07-29 12:07,,2025-07-29 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815621-20250729.htm,"運輸署宣布，因應水浸關係，赤柱灘道、赤柱崗道、赤柱村道，及柴灣道通往東區走廊往北角方向的支路，須暫時關閉。
-
-運輸署呼籲，駕駛人士考慮改用其他道路，及遵從在場警務人員的指示。"
-城巴及九巴部分路線服務受暴雨影響須改道或暫停,2025-07-29 12:05,,2025-07-29 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815620-20250729.htm,"受暴雨影響，城巴及九巴多條路線服務受影響。
-
-城巴路線15C停止服務；6、6X、9、14、63、73、260、及973號則維持有限度服務。
-
-九巴方面，路線118號改道行駛；91號服務已恢復正常。"
