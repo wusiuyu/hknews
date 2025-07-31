@@ -1,4 +1,13 @@
 title,date,summary,scrape_time,section,source,url,news_content
+渣打上半年香港業務稅前基本溢利升39%　暫緩還款貸款倍升,2025-07-31 14:59,,2025-07-31 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815995-20250731.htm,"渣打集團上半年稅前基本溢利46.8億美元，按年升18%。單計第2季有24.03億美元，按年升31%，按季升6%。
+
+香港繼續是貢獻最大的市場，上半年稅前溢利升約39%至14.5億美元，經營收入升約26%至27.8億美元，信貸減值升約81%至1.7億美元。
+
+上半年內地、新加坡、印度、英國及美國市場稅前基本溢利亦有增長。
+
+截至6月底，集團因應客戶財務困難的暫緩還款貸款增至9.76億美元，較去年底增加24%。香港的暫緩還款貸款升1.2倍至2.5億美元。
+
+渣打指，中國商業房地產總風險承擔維持穩定，截至6月底為19億美元，較去年底略減5%，信貸減值風險承擔比例則升3個百分點至73%。集團透過於渤海銀行的聯營投資，進一步間接承擔中國商業房地產風險。"
 韓股低收0.3%　結束6連升　本月累升近6%,2025-07-31 14:50,,2025-07-31 15:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815998-20250731.htm,"韓股結束6連升。首爾綜合指數收報3245點，跌9點，跌幅0.28%。
 
 韓股本月累計升近5.7%。"
@@ -83,12 +92,12 @@ StanChart, which earns most of its revenue in Asia and Africa, said the reported
 That compared with US$3.49 billion a year earlier and the US$3.83 billion average of 15 analyst estimates compiled by the bank.
 
 The London-headquartered lender also announced a further US$1.3 billion share buyback that it said would start imminently. (Reuters)"
-港股早市跌270點　恒指失守25000點關口,2025-07-31 12:22,,2025-07-31 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815980-20250731.htm,"美國聯儲局一如市場預期維持利率不變，但內地7月官方製造業採購經理指數（PMI）降至49.3，按月跌0.4點，反映製造業景氣回落，並連續4個月處於收縮區間。消息不利港股表現，恒生指數失守25000點，早段一度跌至24778點，跌398點，其後跌幅略為收窄，上午收市報24906點，跌270點，跌幅1.07%，主板成交約1672億元。
-
-科技指數先跌後回升，上午收市報5509點，升18點，升幅0.34%。"
 港股早市跌270點    恒指失守二萬五,2025-07-31 12:22,,2025-07-31 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815980-20250731.htm,"美聯儲一如市場預期維持利率不變，但今早公布內地7月官方製造業採購經理指數（PMI）降至49.3，按月跌0.4點，反映製造業景氣回落，並連續4個月處於收縮區間。消息不利港股表現，港股競價時段下跌，恒生指數失守25000點，早段一度跌至24778點，跌398點，其後跌幅略為收窄，上午收市報24906點，跌270點，跌幅1.07%，主板成交1671億。
 
 科技指數反而先跌後回升, 早段跌至5418點，其後回穩, 上午收報5509點,  升18點，升幅0.34%。主要由騰訊、阿里巴巴回升支持, 另外快手造好, 早市升近9%。"
+港股早市跌270點　恒指失守25000點關口,2025-07-31 12:22,,2025-07-31 13:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815980-20250731.htm,"美國聯儲局一如市場預期維持利率不變，但內地7月官方製造業採購經理指數（PMI）降至49.3，按月跌0.4點，反映製造業景氣回落，並連續4個月處於收縮區間。消息不利港股表現，恒生指數失守25000點，早段一度跌至24778點，跌398點，其後跌幅略為收窄，上午收市報24906點，跌270點，跌幅1.07%，主板成交約1672億元。
+
+科技指數先跌後回升，上午收市報5509點，升18點，升幅0.34%。"
 滙豐銀行維持利率不變,2025-07-31 12:09,,2025-07-31 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815978-20250731.htm,"滙豐宣布，維持港元最優惠利率於5.25厘不變。
 
 港元儲蓄存款戶口利率亦維持不變，戶口結餘在5000元或以上為0.25厘，5000元以下是零。"
@@ -698,11 +707,6 @@ EIA又指，上星期汽油庫存減少270萬桶，至2.284億桶，減幅多過
 美國6月二手樓臨時買賣合約按月意外轉跌0.8%,2025-07-30 22:46,,2025-07-30 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815889-20250730.htm,"全美不動產協會(NAR)公布，美國6月二手樓臨時買賣合約指數意外跌至72，按月轉跌0.8%，市場原先估計會升0.3%。5月則錄得1.8%升幅。
 
 按年比較，指數跌2.8%。"
-加拿大維持利率在2.75厘不變　,2025-07-30 22:45,,2025-07-30 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815888-20250730.htm,"加拿大維持利率在2.75厘不變，符合市場預期。
-
-央行表示，當地經濟保持一定韌性，而且潛在通脹壓力持續，決定今次維持利率不變，不過，由於關稅導致出口急劇逆轉，上季出口或大跌25%，進口大跌10%，經濟可能會收縮1.5%。
-
-當局指，如果經濟疲弱進一步令通脹放緩，到時或會考慮減息。"
 寧德時代上半年盈利升33%　中期息每10股10.07元,2025-07-30 22:45,,2025-07-30 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815873-20250730.htm,"寧德時代公布，上半年盈利約305億元人民幣，按年增長33%。派中期息每10股10.07元。
 
 期內，收入1788.9億元，按年升逾7%，受惠動力電池需求持續增長，動力電池系統收入升近17%至近1316億元。
@@ -710,6 +714,11 @@ EIA又指，上星期汽油庫存減少270萬桶，至2.284億桶，減幅多過
 按地區劃分，境內收入升逾1%至約1177億元，境外收入升逾21%至612億元。
 
 綜合毛利率25.02%，按年擴闊1.57個百分點。"
+加拿大維持利率在2.75厘不變　,2025-07-30 22:45,,2025-07-30 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815888-20250730.htm,"加拿大維持利率在2.75厘不變，符合市場預期。
+
+央行表示，當地經濟保持一定韌性，而且潛在通脹壓力持續，決定今次維持利率不變，不過，由於關稅導致出口急劇逆轉，上季出口或大跌25%，進口大跌10%，經濟可能會收縮1.5%。
+
+當局指，如果經濟疲弱進一步令通脹放緩，到時或會考慮減息。"
 俄堪察加半島地震後島上有火山噴發　日本等地解除海嘯警報,2025-07-30 22:44,,2025-07-30 23:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815894-20250730.htm,"俄羅斯遠東地區堪察加半島對開海域早上發生8級以上強烈地震，觸發海嘯。俄羅斯官員說，是有關地區自1952年發生的最強一次地震。
 
 監測部門錄得堪察加半島出現高達4米海嘯，島上的克柳切夫火山在地震後開始噴發，當局建議民眾不要前往鄰近地區。千島群島的北庫里爾斯克市受海嘯衝擊，沿岸有工廠被海嘯沖走。
@@ -1204,39 +1213,3 @@ Kwan said the force's investigation into the alleged crimes was continuing."
 深證成份指數報11203點，跌86點，跌幅0.77%。
 
 創業板指數報2367點，跌38點，跌幅1.62%。"
-中央召開黨外人士座談會就當前經濟形勢和下半年經濟工作聽取意見,2025-07-30 15:13,,2025-07-30 15:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815820-20250730.htm,"中共中央上星期三在中南海召開黨外人士座談會，就當前經濟形勢和下半年經濟工作聽取意見。
-
-中共中央總書記習近平主持並發表重要講話強調，做好下半年經濟工作，要堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，保持政策連續性穩定性，增強靈活性預見性，著力穩就業、穩企業、穩市場、穩預期，有力提振消費、破除「內捲」，暢通國內大循環，促進國內國際雙循環，努力完成全年經濟社會發展目標任務，實現「十四五」圓滿收官。
-
-習近平指出，今年上半年，國家經濟運行穩中有進，社會大局保持穩定。這反映中國經濟基礎穩、優勢多、韌性強、潛力大，支持高水平發展的積極因素在不斷積累。
-
-習近平強調，當前國家經濟運行依然面臨不少風險挑戰。下半年要在宏觀政策上持續發力、適時加力，重點做好全方位擴大內需、堅定不移深化改革擴大開放、推動科技創新和產業創新深度融合發展、持續防範化解重點領域風險、多措並舉保障改善民生等工作。
-
-習近平對各民主黨派、全國工商聯和無黨派人士提出兩點希望，要統一思想認識和凝聚廣泛共識，以及立足自身優勢，推動高水平發展。"
-港股曾跌逾440點　滙控及恒生績後急挫,2025-07-30 15:09,,2025-07-30 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815817-20250730.htm,"港股下午跌幅擴大，恒生指數一度跌逾440點，低見25082點，較早時報25161點，跌362點，跌幅1.42%。
-
-滙控中午公布中期業績後曾急挫近5%，較早時跌逾4%，報96.65元；恒生績後曾急挫近7%，報114.4元。
-
-科指一度跌逾3%，跌穿5500點，較早時報5497點，跌2.6%。"
-"HSBC H1 pretax profit falls, misses expectations",2025-07-30 15:07,,2025-07-30 15:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1815788-20250730.htm,"HSBC Holdings reported a 26 percent fall in first-half pretax profit on Wednesday, weighed down by a US$2.1 billion hit from its stake in Bank of Communications.
-
-The US$15.8 billion profit for the first six months of this year, versus US$21.6 billion a year earlier, missed analysts' expectations. First-half revenue fell nine percent to US$34.1 billion.
-
-The result compared with the US$16.5 billion average of broker estimates compiled by HSBC.
-
-The sharper-than-expected drop in HSBC's earnings showed the challenge ahead for CEO Georges Elhedery, as the bank racked up losses in China where it has increasingly pinned its plans for growth in recent years after shrinking in Western markets.
-
-Expected credit losses grew by US$900 million compared to the first half of last year to US$1.9 billion, the bank said, partly due to its exposure to Hong Kong's commercial real estate sector.
-
-HSBC also said the impact of US President Donald Trump's trade tariffs could cause it to miss its profitability target of a mid-teens return on tangible equity in future years, in a scenario where the economy deteriorates and central banks slash policy rates.
-
-The group announced a new share buyback worth up to US$3 billion, on top of a US$3 billion buyback programme announced earlier this year. (Reuters)"
-非住宅空置率上升　許正宇稱疫後在家工作及電商興起致需求變化,2025-07-30 15:02,,2025-07-30 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1815815-20250730.htm,"財經事務及庫務局局長許正宇表示，本港經濟穩健增長，但數字反映私人寫字樓或商業樓宇的整體空置率上升，認為空置率並非完全受香港整體經濟影響，涉及其他因素如物業供應量、企業本身營運狀況、市民和旅客消費模式轉變等，政府目前未見有需要改變繳付非住宅物業印花稅的安排。
-
-在立法會大會上，選委界議員江玉歡關注政府會否考慮允許非住宅物業的業主，以分期方式繳付物業交易印花稅，或考慮推出政策誘因及措施，如適度放寬外資或「新資本投資者入境計劃」申請人，以投資非住宅物業的限制等。
-
-許正宇說，今年上半年共有761間非香港公司在香港新設營業地點，截至上月底，本港註冊公司總數接近150萬間，認為在不同的經濟周期和環境下，私人市場有很強韌性，亦會調整自己的策略面對不同挑戰。
-
-另一名選委界議員蘇長荣指出，本港現時各樣經濟情況均表現良好，但非住宅物業需求不升反跌，形容是反常現象，關注政府有否釐清成因，會否因勢施策抑或採取放任態度。
-
-許正宇表示，有關情況並不只是香港獨有，尤其疫後在家工作及電商的興起，對寫字樓及私人零售需求出現變化。政府會採取一系列措施，包括吸納更多不同計劃，例如資本投資、家族辦公室等，希望從供和需兩方面，進一步推動市場持續平穩發展。"
