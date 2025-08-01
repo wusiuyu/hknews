@@ -1,4 +1,5 @@
 title,date,summary,scrape_time,section,source,url,news_content
+天文台發出黃色暴雨警告信號,2025-08-02 06:50,,2025-08-02 07:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816285-20250802.htm,天文台在早上6時50分，發出黃色暴雨警告信號。
 德股和法股本周累計跌逾3%,2025-08-02 05:56,,2025-08-02 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816279-20250802.htm,"歐洲主要股市收市下跌，市場評估美國對數十個國家加徵關稅的影響。
 
 德國DAX指數報23425點，跌639點，跌幅近2.7%。
@@ -82,29 +83,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 期內，就業分項指數跌至43.4，降至5年來最低水平。製造業新訂單分項指數升至47.1，高於6月的46.4，但仍連續6個月收縮。投入物價分項指數意外降至64.8，市場原先估計會升至70。 
 
 另外，標普全球公布，美國7月製造業採購經理指數（PMI）終值為49.8，高於初值的49.5。"
-US job growth weaker than expected,2025-08-01 22:47,,2025-08-01 23:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1816265-20250801.htm,"US job growth missed expectations in July, official data showed on Friday, while revisions to hiring figures in recent months brought them to the weakest levels since the Covid-19 pandemic.
-
-The employment numbers point to risks in the key labour market as companies grapple with US President Donald Trump's sweeping tariffs – putting pressure on the central bank as it mulls the best time to cut interest rates.
-
-The world's biggest economy added 73,000 jobs last month, while hiring numbers were revised significantly lower for May and June, the Labor Department said.
-
-The jobless rate nudged up from 4.1 percent to 4.2 percent.
-
-Experts have warned that private sector firms appear to be in a wait-and-see mode due to heightened uncertainty over Trump's rapidly changing trade policy.
-
-With tariff levels climbing since the start of the year, both on imports from various countries and on sector-specific products such as steel, aluminium and autos, many firms have faced higher business costs.
-
-On Friday, the Department of Labor said hiring numbers for May were revised down from 144,000 to 19,000. The figure for June was shifted from 147,000 to 14,000.
-
-This was notably lower than job creation levels in recent years. During the pandemic, the economy lost jobs.
-
-Average hourly earnings rose by 0.3 percent to US$36.44 in July, the Labor Department said.
-
-It added that employment continued rising in healthcare and in social assistance, while the federal government continued shedding jobs.
-
-The US economy has added an average of just 35,000 jobs per month since May, data showed.
-
-A sharp weakening in the labour market could push the Federal Reserve towards slashing interest rates sooner to shore up the economy. (AFP)"
 US stocks fall after weak jobs data,2025-08-01 22:47,,2025-08-02 06:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1816265-20250801.htm,"Wall Street stocks finished sharply lower on Friday following a weak July jobs report that raised concerns about US economic health.
 
 Major US indices fell 1.2 percent or more after the Department of Labor reported lower than expected jobs data for July and announced downward revisions to the prior two months.
@@ -128,6 +106,29 @@ Following the jobs data, yields on US Treasury bonds fell sharply as markets pri
 O'Hare also pointed to the ""disappointing price action"" in the market following generally strong earnings from large tech companies.
 
 On Friday, Apple fell 2.4 percent despite reporting much better than expected results. (AFP)"
+US job growth weaker than expected,2025-08-01 22:47,,2025-08-01 23:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1816265-20250801.htm,"US job growth missed expectations in July, official data showed on Friday, while revisions to hiring figures in recent months brought them to the weakest levels since the Covid-19 pandemic.
+
+The employment numbers point to risks in the key labour market as companies grapple with US President Donald Trump's sweeping tariffs – putting pressure on the central bank as it mulls the best time to cut interest rates.
+
+The world's biggest economy added 73,000 jobs last month, while hiring numbers were revised significantly lower for May and June, the Labor Department said.
+
+The jobless rate nudged up from 4.1 percent to 4.2 percent.
+
+Experts have warned that private sector firms appear to be in a wait-and-see mode due to heightened uncertainty over Trump's rapidly changing trade policy.
+
+With tariff levels climbing since the start of the year, both on imports from various countries and on sector-specific products such as steel, aluminium and autos, many firms have faced higher business costs.
+
+On Friday, the Department of Labor said hiring numbers for May were revised down from 144,000 to 19,000. The figure for June was shifted from 147,000 to 14,000.
+
+This was notably lower than job creation levels in recent years. During the pandemic, the economy lost jobs.
+
+Average hourly earnings rose by 0.3 percent to US$36.44 in July, the Labor Department said.
+
+It added that employment continued rising in healthcare and in social assistance, while the federal government continued shedding jobs.
+
+The US economy has added an average of just 35,000 jobs per month since May, data showed.
+
+A sharp weakening in the labour market could push the Federal Reserve towards slashing interest rates sooner to shore up the economy. (AFP)"
 一對日本母子在蘇州地鐵站內遇襲　日媒稱疑犯已被抓獲,2025-08-01 22:42,,2025-08-01 23:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816263-20250801.htm,"江蘇蘇州市有一對日本母子遇襲，母親受傷到醫院接受治療，沒有生命危險。共同社報道，中方有關部門已抓獲涉案疑犯。
 
 事發在昨日傍晚，這對母子乘搭地鐵後，在前往車站內的洗手間途中被人用類似石頭的東西砸傷。日本政府要求中國當局確保日僑的安全，並防止類似事件再次發生。
@@ -294,23 +295,6 @@ The Transport Department said it will soon set out all the reservation-free days
 水志偉預計，初期會有10多間機構申請牌照，主要是本地金融機構及虛擬資產公司。
 
 他表示，穩定幣具備全天候及跨境支付作用，有助貿易結算，建議先考慮在本地的零售交易、旅遊、消費，以至品牌會員積分系統應用。"
-National Games will be a great event: Yeung,2025-08-01 19:04,,2025-08-01 21:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816222-20250801.htm,"The Hong Kong official in charge of the coordinating office for the National Games on Friday said preparations for the upcoming event are in the final stage, and that he is confident it will be a great success.
-
-It is the first time that the Hong Kong and Macau SARs are taking part in co-hosting the nation's biggest sporting extravaganza, which takes place every four years. 
-
-Themed events are planned for this weekend across the Greater Bay Area to mark the 100-day countdown to the Games, which commence on November 9. 
-
-Speaking on RTHK's Backchat programme, Yeung Tak-keung, Head of the National Games Coordination Office in Hong Kong, said lots of work had been put into preparing for the event.
-
-""We started organising the Games almost two years back. During the past two years we had a lot of liaison and coordination with our counterparts in Guangdong and Macau...we are very confident we can put up a good event in Hong Kong,"" Yeung said.  
-
-""A lot of logistics [issues were worked out], not only the competition events themselves, we also organised the transport, hotels, accommodation, catering and many other things...We are confident that it will be a great event.""
-
-There will be a total of 34 sporting events featured at the National Games. Hong Kong will stage eight of them. 
-
-Yeung stressed that the venues and infrastructure in Hong Kong are ready for the Games, especially after all the events that have been held in the city in the past year. 
-
-He also noted that the National Games for Persons with Disabilities and the Special Olympic Games will be held in Guangdong, Hong Kong, and Macau from December 8."
 'National Games preparations in the final stage',2025-08-01 19:04,,2025-08-01 19:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816222-20250801.htm,"The Hong Kong official in charge of the coordinating office for the National Games on Friday said preparations for the upcoming event are in the final stage.
 
 It's the first time that the Hong Kong and Macau SARs are taking part in co-hosting the nation's biggest sporting extravaganza, which takes place every four years. 
@@ -328,16 +312,33 @@ There will be a total of 34 sporting events featured at the National Games. Hong
 Yeung stressed that the venues and infrastructure in Hong Kong are ready for the Games, especially after all the events that have been held in the city in the past year. 
 
 He also noted that the National Games for Persons with Disabilities and the Special Olympic Games will be held in Guangdong, Hong Kong, and Macau from December 8."
+National Games will be a great event: Yeung,2025-08-01 19:04,,2025-08-01 21:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816222-20250801.htm,"The Hong Kong official in charge of the coordinating office for the National Games on Friday said preparations for the upcoming event are in the final stage, and that he is confident it will be a great success.
+
+It is the first time that the Hong Kong and Macau SARs are taking part in co-hosting the nation's biggest sporting extravaganza, which takes place every four years. 
+
+Themed events are planned for this weekend across the Greater Bay Area to mark the 100-day countdown to the Games, which commence on November 9. 
+
+Speaking on RTHK's Backchat programme, Yeung Tak-keung, Head of the National Games Coordination Office in Hong Kong, said lots of work had been put into preparing for the event.
+
+""We started organising the Games almost two years back. During the past two years we had a lot of liaison and coordination with our counterparts in Guangdong and Macau...we are very confident we can put up a good event in Hong Kong,"" Yeung said.  
+
+""A lot of logistics [issues were worked out], not only the competition events themselves, we also organised the transport, hotels, accommodation, catering and many other things...We are confident that it will be a great event.""
+
+There will be a total of 34 sporting events featured at the National Games. Hong Kong will stage eight of them. 
+
+Yeung stressed that the venues and infrastructure in Hong Kong are ready for the Games, especially after all the events that have been held in the city in the past year. 
+
+He also noted that the National Games for Persons with Disabilities and the Special Olympic Games will be held in Guangdong, Hong Kong, and Macau from December 8."
 【重溫】2025年8月1日新聞天地,2025-08-01 18:52,,2025-08-01 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816233-20250801.htm,詳盡報道本地時事，大中華消息、國際局勢等新聞，緊貼最新熱話。
 在岸人民幣低收176點子　創近兩個半月新低,2025-08-01 18:46,,2025-08-01 19:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816236-20250801.htm,"在岸人民幣收市創近兩個半月新低，收報7.2106兌1美元，較上日跌176點子。
 
 分析指，美國公布一系列對等關稅稅率，擾動全球市場情緒，市場購匯偏多，美元指數重返100關口以上，預料人民幣短期繼續走弱。"
-楊恩健指建煌華廈警鐘運作正常　六月檢查時消防系統亦正常,2025-08-01 18:41,,2025-08-01 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816235-20250801.htm,"旺角洗衣街建煌華廈三死一傷火警，有大廈居民表示，火警時沒有聽到警鐘響起，消防處處長楊恩健說，消防處人員下午再檢查大廈警鐘系統，發現運作正常，可能是火警發生時，沒有人敲打裝置，以至沒有響鐘，今年六月檢查大廈消防系統時，所有設備運作正常。
+楊恩健指建煌華廈警鐘運作正常　去年檢查時消防系統亦正常,2025-08-01 18:41,,2025-08-02 00:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816235-20250801.htm,"旺角洗衣街建煌華廈三死一傷火警，有大廈居民表示，火警時沒有聽到警鐘響起，消防處處長楊恩健說，消防處人員下午再檢查大廈警鐘系統，發現運作正常，可能是火警發生時，沒有人敲打裝置，以至沒有響鐘，去年六月檢查大廈消防系統時，所有設備運作正常。
 
 楊恩健出席一項活動後表示，調查發現，焚燒得比較嚴重是冷氣機旁的一排光管，正調查是否與火警有關，三名死者的致命原因，他表示有待驗屍確定，初步顯示死者沒有燒傷的情況。
 
 對於遇到火警，市民應如何逃生，楊恩健認為，市民應第一時間逃離起火單位，如果無法逃離單位，就應到有窗戶的房間躲避。"
-楊恩健指建煌華廈警鐘運作正常　去年檢查時消防系統亦正常,2025-08-01 18:41,,2025-08-02 00:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816235-20250801.htm,"旺角洗衣街建煌華廈三死一傷火警，有大廈居民表示，火警時沒有聽到警鐘響起，消防處處長楊恩健說，消防處人員下午再檢查大廈警鐘系統，發現運作正常，可能是火警發生時，沒有人敲打裝置，以至沒有響鐘，去年六月檢查大廈消防系統時，所有設備運作正常。
+楊恩健指建煌華廈警鐘運作正常　六月檢查時消防系統亦正常,2025-08-01 18:41,,2025-08-01 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816235-20250801.htm,"旺角洗衣街建煌華廈三死一傷火警，有大廈居民表示，火警時沒有聽到警鐘響起，消防處處長楊恩健說，消防處人員下午再檢查大廈警鐘系統，發現運作正常，可能是火警發生時，沒有人敲打裝置，以至沒有響鐘，今年六月檢查大廈消防系統時，所有設備運作正常。
 
 楊恩健出席一項活動後表示，調查發現，焚燒得比較嚴重是冷氣機旁的一排光管，正調查是否與火警有關，三名死者的致命原因，他表示有待驗屍確定，初步顯示死者沒有燒傷的情況。
 
@@ -431,13 +432,6 @@ The suspect is currently being detained for investigation."
 九龍區樓價按周升2.38%，創去年3月中旬後最大升幅，新界西樓價升1.22%，港島及新界東樓價變動不大。
 
 今年以來樓價升0.87%，仍較2021年8月紀錄高位下跌27.44%。"
-港交所下周實施新例　新股超額逾百倍　公開認購佔比須增至35%,2025-08-01 17:20,,2025-08-01 17:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816210-20250801.htm,"港交所公布優化首次公開招股(IPO)市場定價及公開市場規定的諮詢總結，收到1253份回應，在稍作修訂及釐清後，將採納諮詢文件大部分建議，《上市規則》新規定下星期一生效。
-
-在發售及定價機制方面，國際配售最低比例由原來建議的50%下調至40%。公開認購初訂佔比5%，其後視乎超額認購倍數而要加大分配比例，若超額逾百倍，分配比例須增至35%。而經諮詢後，聯交所決定基石投資者禁售期維持6個月不變。
-
-公開市場規定的主要修訂包括，最低初始公眾持股量門檻由原來建議的5%，上調至10%；而適用於A+H發行人的初始自由流通量門檻則由原來建議的佔H股總數10%，改為佔A+H股總數的5%。
-
-另外，聯交所就持續公眾持股量規定作進一步諮詢，為期兩個月，10月1日截止。建議A+H發行人的公眾持有H股，須達10億港元市值或5%公眾持股量。非內地註冊成立的公司，以及無其他上市股份的H股公司，公眾持股量須達25%或上市時規定的較低百分比，替代門檻為10億港元市值及10%公眾持股量。"
 習近平與尼泊爾總統鮑德爾就中尼建交70周年互致賀電,2025-08-01 17:20,,2025-08-01 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816215-20250801.htm,"國家主席習近平與尼泊爾總統鮑德爾互致賀電，慶祝中尼建交70周年。
 
 習近平表示，近年中尼政治互信持續增強，戰略合作夥伴關係不斷深化，他高度重視中尼關係發展，願意同鮑德爾一起努力，以建交70周年為契機，弘揚傳統友誼，加強各領域交流合作，推動中尼關係更好惠及兩國人民，為地區和平與發展貢獻力量。
@@ -445,6 +439,13 @@ The suspect is currently being detained for investigation."
 鮑德爾表示，中國是尼泊爾值得信任的鄰居和發展夥伴，期待進一步深化各領域合作。
 
 國務院總理李強同日與尼泊爾總理奧利互致賀電時亦表示，願意與尼方一起努力，加快推進高質量共建「一帶一路」及各領域交流合作。"
+港交所下周實施新例　新股超額逾百倍　公開認購佔比須增至35%,2025-08-01 17:20,,2025-08-01 17:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816210-20250801.htm,"港交所公布優化首次公開招股(IPO)市場定價及公開市場規定的諮詢總結，收到1253份回應，在稍作修訂及釐清後，將採納諮詢文件大部分建議，《上市規則》新規定下星期一生效。
+
+在發售及定價機制方面，國際配售最低比例由原來建議的50%下調至40%。公開認購初訂佔比5%，其後視乎超額認購倍數而要加大分配比例，若超額逾百倍，分配比例須增至35%。而經諮詢後，聯交所決定基石投資者禁售期維持6個月不變。
+
+公開市場規定的主要修訂包括，最低初始公眾持股量門檻由原來建議的5%，上調至10%；而適用於A+H發行人的初始自由流通量門檻則由原來建議的佔H股總數10%，改為佔A+H股總數的5%。
+
+另外，聯交所就持續公眾持股量規定作進一步諮詢，為期兩個月，10月1日截止。建議A+H發行人的公眾持有H股，須達10億港元市值或5%公眾持股量。非內地註冊成立的公司，以及無其他上市股份的H股公司，公眾持股量須達25%或上市時規定的較低百分比，替代門檻為10億港元市值及10%公眾持股量。"
 港交所下周一實施新例　新股公開認購回撥最高至35%,2025-08-01 17:20,,2025-08-01 20:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816210-20250801.htm,"港交所公布優化首次公開招股（IPO）市場定價及公開市場規定諮詢總結，收到1253份回應，經修訂及釐清後將採納大部分建議，《上市規則》新規定下星期一生效。
 
 在發售及定價機制方面，國際配售最低比例由原來建議的50%下調至40%，現行機制未有規定。發行人可選擇公開認購有沒有回補機制，以便更靈活分配股份。若有回補，公開認購初訂佔比5%，其後視乎超額認購倍數而要加大分配比例，最高分配比例35%。若發行人選擇無回補，最多可以將60%發售股份分配至公開認購，高於現行的50%。
@@ -789,13 +790,6 @@ So far, some 140,000 participants have enrolled in the scheme, with over 85,000 
 1星期及2星期跌幅較大，分別跌逾19及逾16點子，連跌3日。
 
 港匯持續偏軟，港元貼近7.85兌1美元的弱方兌換保證水平。"
-內地股市半日偏軟,2025-08-01 11:39,,2025-08-01 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816162-20250801.htm,"滬深股市半日偏軟，軍工、影視院線股下跌；中藥、光伏設備板塊上升。
-
-上證綜合指數報3566點，跌6點，跌幅0.19%。
-
-深證成份指數報10992點，跌16點，跌幅0.15%。
-
-創業板指數報2324點，跌3點，跌幅0.16%。"
 "Steep tariffs slapped on Canada, Brazil and India",2025-08-01 11:39,,2025-08-01 12:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1816159-20250801.htm,"US President Donald Trump slapped steep tariffs on exports from dozens of trading partners including Canada, Brazil, India, as he pressed ahead with plans to reorder the global economy ahead of a Friday trade deal deadline.
 
 The rates included a 35 percent duty on many goods from Canada, 50 percent for Brazil, 25 percent for India, 20 percent for Taiwan and 39 percent for Switzerland, according to a presidential executive order.
@@ -831,6 +825,13 @@ The higher tariffs on Canadian goods contrasted sharply with Trump's decision to
 Trump complained to reporters earlier that Canada had ""been very poorly led."" 
 
 Canada's government did not immediately comment but it has previously disputed there being any basis for the tariffs. (Reuters)"
+內地股市半日偏軟,2025-08-01 11:39,,2025-08-01 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816162-20250801.htm,"滬深股市半日偏軟，軍工、影視院線股下跌；中藥、光伏設備板塊上升。
+
+上證綜合指數報3566點，跌6點，跌幅0.19%。
+
+深證成份指數報10992點，跌16點，跌幅0.15%。
+
+創業板指數報2324點，跌3點，跌幅0.16%。"
 工展會購物節今天起一連四日在亞博舉行　丘應樺：期望丁財兩旺,2025-08-01 11:30,,2025-08-01 12:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816161-20250801.htm,"由廠商會主辦的「第5屆工展會購物節」，今日起一連四日在亞洲國際博覽館舉行，設有八大主題區，合共300個攤位。
 
 商務及經濟發展局局長丘應樺在開幕禮致辭時表示，本港旅客數字有顯著上升，情況令人鼓舞。今年上半年的訪港旅客錄得約2400萬人次，按年增長12%，反映本港旅遊業復蘇勢頭非常良好，為零售消費市場帶來更多商機；政府會繼續發揮香港國際旅遊樞紐角色，吸引更多旅客來港，進一步提振零售業。
@@ -845,18 +846,18 @@ Canada's government did not immediately comment but it has previously disputed t
 丘應樺說，要吸引及留住消費者，最終要靠產品本身，香港品牌尤其受到消費者信賴及喜愛。他說，購物節自舉辦以來，深受市民及旅客好評，也為港商提供推廣和銷售產品的平台，期望今次活動丁財兩旺。
 
 廠商會會長盧金榮表示，工展會展出數千款商品及食品，並有不同主題表演及娛樂節目，可以鼓勵市民留港消費，同時吸引更多旅客來港體驗，為本地經濟注入更多動力。"
-李夏茵稱多採納前線意見冀員工直接反映　公開理性討論,2025-08-01 11:26,,2025-08-01 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816160-20250801.htm,"新任醫管局行政總裁李夏茵今日履新，她會見傳媒時表示，離開曾任職的醫管局3年多，上任後最重要與員工及所有持份者溝通。
+李夏茵：設計服務模式及政策時　希望多採納前線意見,2025-08-01 11:26,,2025-08-01 12:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816160-20250801.htm,"新任醫管局行政總裁李夏茵今日履新，她會見傳媒時表示，離開曾任職的醫管局3年多，上任後最重要與員工及所有持份者溝通。
 
-曾任醫務衞生局副局長的李夏茵說，在政府期間感到醫管局人員可能對有些政策未必很理解。她希望員工不用怕，直接反映意見，「敢言文化（speak up culture）」就是公平、公開理性討論，只要有理據，必定可討論或採納。
+曾任醫務衞生局副局長的李夏茵說，在政府期間感到醫管局同事可能對有些政策未必很理解。她希望員工不用怕，直接反映意見，「敢言文化（speak up culture）」就是公平、公開理性討論，只要有理據，必定可討論或採納。
 
 李夏茵強調，員工是醫管局的基石，前線員工與病人有較多接觸，會知道如何可令服務更到位，形容「智慧在民間」，日後在設計服務模式及政策時，希望多採納前線意見。她亦提到，地區是醫管局最堅實夥伴，醫院並不在「山上」，希望未來管理團隊等多與社區溝通，解說服務及了解需求。
 
 對於醫務衞生局局長盧寵茂形容她「強勢回歸」醫管局，李夏茵認為是祝福，亦是政府對醫管局的寄望，希望醫管局會有改革，令服務更到位。她說，時代不同，很多新模式可改善服務流程，令到市民更得益，未來工作會朝著這個方向，令市民有幸福感。
 
 另外，李夏茵說，部分醫療事故先由病人家屬向傳媒公開，情況不理想，反映醫患關係有進步空間，強調醫管局持公平、公開、透明態度處理，未來亦會多加培訓發言人制度，希望溝通方面做得更好。"
-李夏茵：設計服務模式及政策時　希望多採納前線意見,2025-08-01 11:26,,2025-08-01 12:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816160-20250801.htm,"新任醫管局行政總裁李夏茵今日履新，她會見傳媒時表示，離開曾任職的醫管局3年多，上任後最重要與員工及所有持份者溝通。
+李夏茵稱多採納前線意見冀員工直接反映　公開理性討論,2025-08-01 11:26,,2025-08-01 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816160-20250801.htm,"新任醫管局行政總裁李夏茵今日履新，她會見傳媒時表示，離開曾任職的醫管局3年多，上任後最重要與員工及所有持份者溝通。
 
-曾任醫務衞生局副局長的李夏茵說，在政府期間感到醫管局同事可能對有些政策未必很理解。她希望員工不用怕，直接反映意見，「敢言文化（speak up culture）」就是公平、公開理性討論，只要有理據，必定可討論或採納。
+曾任醫務衞生局副局長的李夏茵說，在政府期間感到醫管局人員可能對有些政策未必很理解。她希望員工不用怕，直接反映意見，「敢言文化（speak up culture）」就是公平、公開理性討論，只要有理據，必定可討論或採納。
 
 李夏茵強調，員工是醫管局的基石，前線員工與病人有較多接觸，會知道如何可令服務更到位，形容「智慧在民間」，日後在設計服務模式及政策時，希望多採納前線意見。她亦提到，地區是醫管局最堅實夥伴，醫院並不在「山上」，希望未來管理團隊等多與社區溝通，解說服務及了解需求。
 
@@ -901,14 +902,14 @@ Canada's government did not immediately comment but it has previously disputed t
 
 中方引述譚森表示，美中關係保持穩定，對美國工商界在華營商至關重要，期待雙方繼續透過對話解決分歧、加強合作。"
 日股半日跌約0.4%,2025-08-01 10:35,,2025-08-01 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816149-20250801.htm,日本股市半日下跌，日經平均指數上午收市報40914點，跌155點，跌幅0.38%。
-當局續查旺角3死1傷火警　起火單位對面住戶稱消防很快將火撲熄,2025-08-01 10:27,,2025-08-01 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816147-20250801.htm,"警方及消防繼續調查旺角洗衣街發生3死1傷火警，消防及政府化驗所人員早上再到大廈調查。
+當局續查旺角3死1傷火警　住客片段所見白煙不斷從門縫進入單位,2025-08-01 10:27,,2025-08-01 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816147-20250801.htm,"警方及消防繼續調查旺角洗衣街發生3死1傷火警，消防及政府化驗所人員早上再到大廈調查。
 
 現場是洗衣街111-121號建煌華廈，住戶池小姐住在起火單位對面，從她提供的片段所見，火警發生時，不斷有白煙從門縫進入她的單位，她說，由於太大煙，無法立即逃生，只能留在屋內。
 
 池小姐說，事發時聞到燒焦的氣味，之後看見有白煙滲進她的屋內。消防在火警發生後，很快已到場將火撲熄。
 
 池小姐又說，單位到早上仍有濃烈的煙味，所以她決定暫時搬離住所。她說，與涉事單位住戶認識，大廈管理公司平日管理沒有異常，有作恒常的火警鐘測試，但火警發生時，她沒有聽到火警鐘響聲，亦不太清楚起火原因。"
-當局續查旺角3死1傷火警　住客片段所見白煙不斷從門縫進入單位,2025-08-01 10:27,,2025-08-01 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816147-20250801.htm,"警方及消防繼續調查旺角洗衣街發生3死1傷火警，消防及政府化驗所人員早上再到大廈調查。
+當局續查旺角3死1傷火警　起火單位對面住戶稱消防很快將火撲熄,2025-08-01 10:27,,2025-08-01 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816147-20250801.htm,"警方及消防繼續調查旺角洗衣街發生3死1傷火警，消防及政府化驗所人員早上再到大廈調查。
 
 現場是洗衣街111-121號建煌華廈，住戶池小姐住在起火單位對面，從她提供的片段所見，火警發生時，不斷有白煙從門縫進入她的單位，她說，由於太大煙，無法立即逃生，只能留在屋內。
 
@@ -1043,9 +1044,11 @@ Sales of iPhones in mainland China were US$15.4 billion in the quarter, compared
 談到前鋒約基利斯及其他新兵，阿迪達形容有驚喜，指出每當有新球員參與訓練和比賽，他們的態度和個人質素都令人難以置信，他非常高興。
 
 熱刺領隊法蘭形容，這場球賽雖然是友賽，但仍然相當具競爭性，他賽前亦提過，對阿仙奴的比賽永遠不只是友賽般簡單，非常滿意球隊上半場的表現，特別球隊在整場賽事維持良好防守，他希望在進攻方面再作改善。"
-"Mong Kok flat fire kills three, including boy aged six",2025-08-01 07:45,,2025-08-01 08:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816121-20250801.htm,"A fire at a residential building in Mong Kok on Thursday night has claimed the lives of three people believed to be from the same family - including a six-year-old boy. A 75-year-old woman thought to a relative of the deceased was injured in the blaze. 
+"Mong Kok flat fire kills three, including boy, 6",2025-08-01 07:45,,2025-08-01 13:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816121-20250801.htm,"A fire at a residential building in Mong Kok on Thursday night has claimed the lives of three people believed to be from the same family, including a six-year-old boy.
 
-Firefighters rushed to Kin Wong Mansion on Sai Yee street after receiving a report of a fire there at around 11 pm.
+A 75-year-old woman thought to be a relative of the deceased was injured in the blaze.
+
+Firefighters rushed to Kin Wong Mansion on Sai Yee Street after receiving a report of a fire there at around 11pm.
 
 There, they found an injured 75-year-old woman asking for help. She was sent to hospital.
 
@@ -1058,11 +1061,9 @@ Police later told reporters they believe the three victims of the blaze, along w
 Forty-eight people were evacuated from the building.
 
 At a briefing, the Fire Services Department said 86 firefighters and medical personnel were deployed to the scene. But they said they weren't able to enter the flat for investigations immediately because of the high temperatures, and will conduct a probe when flat cools down to try to figure out what had started the fire."
-"Mong Kok flat fire kills three, including boy, 6",2025-08-01 07:45,,2025-08-01 13:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816121-20250801.htm,"A fire at a residential building in Mong Kok on Thursday night has claimed the lives of three people believed to be from the same family, including a six-year-old boy.
+"Mong Kok flat fire kills three, including boy aged six",2025-08-01 07:45,,2025-08-01 08:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816121-20250801.htm,"A fire at a residential building in Mong Kok on Thursday night has claimed the lives of three people believed to be from the same family - including a six-year-old boy. A 75-year-old woman thought to a relative of the deceased was injured in the blaze. 
 
-A 75-year-old woman thought to be a relative of the deceased was injured in the blaze.
-
-Firefighters rushed to Kin Wong Mansion on Sai Yee Street after receiving a report of a fire there at around 11pm.
+Firefighters rushed to Kin Wong Mansion on Sai Yee street after receiving a report of a fire there at around 11 pm.
 
 There, they found an injured 75-year-old woman asking for help. She was sent to hospital.
 
