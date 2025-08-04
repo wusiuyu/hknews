@@ -55,14 +55,14 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 選管會將於本月18日在伊利沙伯體育館為候選人舉行簡介會，由選管會主席陸啟康主持。"
 紅雨生效　教育局稱學校應採取應變措施,2025-08-04 22:47,,2025-08-04 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816657-20250804.htm,教育局表示，紅色暴雨警告信號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。
-Red rainstorm alert issued,2025-08-04 22:41,,2025-08-05 02:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816656-20250804.htm,"The Observatory issued the red rainstorm warning at 2:10am early Tuesday morning to replace the black rainstorm warning. The latter signal was issued at 11:45pm on Monday evening. The Observatory warns of possible flooding as heavy downpours lashed parts of Hong Kong. The second red rainstorm warning of the day was issued earlier at 10.35pm.
+Black rainstorm alert issued,2025-08-04 22:41,,2025-08-05 00:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816656-20250804.htm,"The Observatory issued the black rainstorm warning at 11:45pm on Monday, warning of possible flooding as heavy downpours lashed parts of Hong Kong. The second red rainstorm warning of the day was issued earlier at 10.35pm.
 
 ""Rain is particularly heavy in Kwai Tsing and Sha Tin districts. It may cause serious flooding. Residents who are likely to be affected are advised to take necessary precautions to avoid possible flood damage,"" the forecaster said. 
 
 ""Heavy rain of more than 70 millimetres of hourly rainfall has fallen or is expected to fall in the above regions.""
 
 Monday's first red rainstorm alert was in effect from 12.20pm and lasted for an hour, while the amber warning was in force on four separate occasions."
-Black rainstorm alert issued,2025-08-04 22:41,,2025-08-05 00:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816656-20250804.htm,"The Observatory issued the black rainstorm warning at 11:45pm on Monday, warning of possible flooding as heavy downpours lashed parts of Hong Kong. The second red rainstorm warning of the day was issued earlier at 10.35pm.
+Red rainstorm alert issued,2025-08-04 22:41,,2025-08-05 02:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816656-20250804.htm,"The Observatory issued the red rainstorm warning at 2:10am early Tuesday morning to replace the black rainstorm warning. The latter signal was issued at 11:45pm on Monday evening. The Observatory warns of possible flooding as heavy downpours lashed parts of Hong Kong. The second red rainstorm warning of the day was issued earlier at 10.35pm.
 
 ""Rain is particularly heavy in Kwai Tsing and Sha Tin districts. It may cause serious flooding. Residents who are likely to be affected are advised to take necessary precautions to avoid possible flood damage,"" the forecaster said. 
 
@@ -441,6 +441,7 @@ The system, he added, will continue to improve as more data comes in with more d
 日股挫508點收市,2025-08-04 14:36,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816587-20250804.htm,"日股連跌兩個交易日。
 
 日經指數收報40290點，跌508點，跌幅1.25%。"
+台股低收0.2%,2025-08-04 14:26,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816584-20250804.htm,台灣股市收市偏軟，加權指數收市報23378點，跌55點，跌幅0.24%。
 澳門外港近港澳碼頭發生致命車禍　3人死亡包括私家車司機,2025-08-04 14:26,,2025-08-04 16:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816585-20250804.htm,"澳門發生致命交通意外，造成3人死亡，包括是澳門居民的私家車司機，另外4人受傷。
 
 警方表示，事發在早上6時許，現場是外港近港澳碼頭附近，經初步搜證，涉事私家車由友誼大馬路駛至事故位置時，失控撞及多個鐵欄，私家車司機及車上6名乘客受傷，其中司機和兩名乘客送院搶救後不治。
@@ -455,7 +456,6 @@ The system, he added, will continue to improve as more data comes in with more d
 警方表示，經初步搜證，私家車早上從皇朝區一個停車場開出，之後沿海邊馬路，經天橋駛入友誼馬路，當駛至事故位置時，私家車失控接向左方路邊。至於具體事故成因仍在調查，又呼籲如果有目睹事故的任何資訊，可與警方聯絡。
 
 根據消防局早前的消息，清晨的交通意外接報有一輛輕私家車冒煙，趕到時並無發現煙火，現場共有七名傷者，分別送到政府山頂醫院和鏡湖醫院搶救，需要深切治療。"
-台股低收0.2%,2025-08-04 14:26,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816584-20250804.htm,台灣股市收市偏軟，加權指數收市報23378點，跌55點，跌幅0.24%。
 HK waiting for athletes' list in National Games race,2025-08-04 14:03,,2025-08-04 14:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816577-20250804.htm,"The Hong Kong official in charge of the coordinating office for the National Games on Monday said it is waiting for the mainland to decide which athletes will be sent to compete in the events that will be staged in the SAR so that it can refine the competition schedule.
 
 Hong Kong will co-host its first National Games in November with Guangdong and Macau.
@@ -523,7 +523,7 @@ Yeung added final testing for ticket sales is under way and that an announcement
 陸庭龍說，近年內地民眾存款增長，投資取態亦轉趨保守，相信大部分保守資金不會因為恢復徵收增值稅，就大幅轉移至較高風險的資產，例如私募股權或資本操作，對整體債市影響有限。
 
 他說，不排除有機構會將部分資金由國債調配至風險較高的項目，但仍要視乎投資的值搏率，國債債息的走向則主要視乎內地的通脹和經濟形勢。"
-New restrictions slapped on 16 NSL suspects,2025-08-04 13:04,,2025-08-04 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
+New restrictions slapped on 16 subversion suspects,2025-08-04 13:04,,2025-08-04 16:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
 
 The Secretary for Security exercised his powers under section 89 of the legislation to prohibit the suspects from dealing with funds or have any property dealings related to absconders.
 
@@ -538,7 +538,7 @@ The suspects are among 19 people who have been accused of endangering national s
 The police further issued a reminder to members of the public that it is an offence to make available any funds or other financial assets or economic resources to an absconder either directly or indirectly.
 
 The Secretary for Security also instructed the police to sort out the relevant evidence for him to consider exercising powers under the SNSO to prohibit the operation of the ""Hong Kong Parliament"" and the ""Hong Kong Democratic Independence Union"" in the SAR."
-New restrictions slapped on 16 subversion suspects,2025-08-04 13:04,,2025-08-04 16:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
+New restrictions slapped on 16 NSL suspects,2025-08-04 13:04,,2025-08-04 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
 
 The Secretary for Security exercised his powers under section 89 of the legislation to prohibit the suspects from dealing with funds or have any property dealings related to absconders.
 
@@ -651,12 +651,12 @@ Mok said the department has also introduced four types of pumping robots to hand
 隔夜拆息五連跌，報約0.134厘，單日跌約5個基點，跌至半個月低位。
 
 反映銀行資金成本的3個月拆息亦再度向下，跌約4個基點，跌至1.582厘，創約1個半月新低。"
-保安局就16名指明潛逃者施行措施　撤銷特區護照及禁止提供資金,2025-08-04 11:55,,2025-08-04 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816558-20250804.htm, 
 南韓南部地區暴雨　2500多人緊急疏散避險,2025-08-04 11:55,,2025-08-04 12:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816557-20250804.htm,"南韓南部地區出現新一輪暴雨，2500多人緊急疏散避險。
 
 當局表示，當地昨日至今日清晨5時，全羅南道務安郡每小時降雨量超過142毫米。釜山、光州、忠清南道、全羅南道、慶尚北道和慶尚南道都有人因暴雨要緊急疏散避險，行政安全部上調中央災難安全對策本部應急響應。
 
 務安郡一名60多歲男子昨日被水沖走後失聯，被發現時處於心臟驟停狀態，其後證實死亡。當局說，他的確切死因有待確認。"
+保安局就16名指明潛逃者施行措施　撤銷特區護照及禁止提供資金,2025-08-04 11:55,,2025-08-04 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816558-20250804.htm, 
 內地股市半日個別發展,2025-08-04 11:46,,2025-08-04 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816555-20250804.htm,"滬深股市半日個別發展，軍工、貴金屬、遊戲、燃氣等股份上升；創新藥、硅能源、零售等股份則下跌。
 
 上證綜合指數報3567點，升7點，升幅0.2%。
@@ -752,26 +752,26 @@ The Nikkei 225 was down 2.07 percent at 39,930 while South Korea dipped 0.2 perc
 
 分析又預計，未來債券市場結構及制度安排、債券稅制或持續優化，關注公募免稅會否被取消、所得稅會否相應調整。"
 天文台：未來一兩小時香港廣泛地區可能受大雨影響,2025-08-04 10:13,,2025-08-04 10:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816545-20250804.htm,天文台發出特別天氣提示，表示與活躍西南季候風相關的雷雨區正於本港有所發展，未來一兩小時香港廣泛地區可能受大雨影響，市民應提高警覺。
-衞生防護中心指基孔肯雅熱疫苗仍較新　留意專家意見及數據分析,2025-08-04 10:05,,2025-08-04 10:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816544-20250804.htm,"本港出現今年首宗由外地輸入的基孔肯雅熱個案，12歲男患者於潛伏期到過佛山市順德區。衞生防護中心傳染病處高級醫生黃凱基表示，現時的基孔肯雅熱預防疫苗仍然較新，未有在任何地區被廣泛使用，世界衞生組織及相關專家，仍就安全性和效能進行研究，暫時只應用於較少規模的人群及一些非常高危人士身上，本港會繼續留意專家意見及數據分析。
-
-黃凱基在本台節目《千禧年代》強調，基孔肯雅熱對一般健康人士來說，徵狀都較輕微，但對免疫力較弱的人，包括長者及幼童，出現較嚴重情況的機會則較大，少部分人會關節痛持續數個月，甚至更長，但強調這病毒主要由蚊叮咬傳播，一般社交不會傳播病毒，所以做好防蚊、滅蚊和控蚊是最重要。
-
-黃凱基又說，本港與內地交往頻繁，有輸入個案是意料之中，但香港監察機制恆之有效，亦有針對性滅蚊控蚊工作，基孔肯雅熱在港成為風土病的可能性極低，而局部傳播的風險則屬於中至高。他提到，暫時並無準確可信的基孔肯雅熱病毒快速檢測劑可以使用，呼籲市民如有不適應立即求醫，如果醫生發現有懷疑感染個案，可以將血液樣本送到衞生防護中心做檢測確定。"
 衞生防護中心稱基孔肯雅熱疫苗仍較新　續留意專家意見及數據分析,2025-08-04 10:05,,2025-08-04 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816544-20250804.htm,"本港出現今年首宗由外地輸入的基孔肯雅熱個案，12歲男患者於潛伏期到過佛山市順德區。衞生防護中心傳染病處高級醫生黃凱基表示，現時的基孔肯雅熱預防疫苗仍然較新，未有在任何地區被廣泛使用，世界衞生組織及相關專家，仍就安全性和效能進行研究，暫時只應用於較少規模的人群及一些非常高危人士身上，本港會繼續留意專家意見及數據分析。
 
 黃凱基在本台節目《千禧年代》強調，基孔肯雅熱對一般健康人士來說，徵狀都較輕微，但對免疫力較弱的人，包括長者及幼童，出現較嚴重情況的機會則較大，少部分人會關節痛持續數個月，甚至更長，但強調這病毒主要由蚊叮咬傳播，一般社交不會傳播病毒，所以做好防蚊、滅蚊和控蚊是最重要。
 
 黃凱基又說，本港與內地交往頻繁，有輸入個案是意料之中，但香港監察機制恆之有效，亦有針對性滅蚊控蚊工作，基孔肯雅熱在港成為風土病的可能性極低，而局部傳播的風險則屬於中至高。他提到，暫時並無準確可信的基孔肯雅熱病毒快速檢測劑可以使用，呼籲市民如有不適應立即求醫，如果醫生發現有懷疑感染個案，可以將血液樣本送到衞生防護中心做檢測確定。"
-人行開展5448億元人民幣逆回購操作　單日轉為淨投放,2025-08-04 09:58,,2025-08-04 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816542-20250804.htm,"人民銀行公開市場開展5448億元人民幣逆回購操作，期限為7日，利率維持於1.4厘。
+衞生防護中心指基孔肯雅熱疫苗仍較新　留意專家意見及數據分析,2025-08-04 10:05,,2025-08-04 10:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816544-20250804.htm,"本港出現今年首宗由外地輸入的基孔肯雅熱個案，12歲男患者於潛伏期到過佛山市順德區。衞生防護中心傳染病處高級醫生黃凱基表示，現時的基孔肯雅熱預防疫苗仍然較新，未有在任何地區被廣泛使用，世界衞生組織及相關專家，仍就安全性和效能進行研究，暫時只應用於較少規模的人群及一些非常高危人士身上，本港會繼續留意專家意見及數據分析。
 
-對沖到期量後，單日轉為淨投放490億元。
+黃凱基在本台節目《千禧年代》強調，基孔肯雅熱對一般健康人士來說，徵狀都較輕微，但對免疫力較弱的人，包括長者及幼童，出現較嚴重情況的機會則較大，少部分人會關節痛持續數個月，甚至更長，但強調這病毒主要由蚊叮咬傳播，一般社交不會傳播病毒，所以做好防蚊、滅蚊和控蚊是最重要。
 
-據路透統計，本周公開市場共有16632億元逆回購到期，規模逐日遞減，其中今日到期4958億元。"
+黃凱基又說，本港與內地交往頻繁，有輸入個案是意料之中，但香港監察機制恆之有效，亦有針對性滅蚊控蚊工作，基孔肯雅熱在港成為風土病的可能性極低，而局部傳播的風險則屬於中至高。他提到，暫時並無準確可信的基孔肯雅熱病毒快速檢測劑可以使用，呼籲市民如有不適應立即求醫，如果醫生發現有懷疑感染個案，可以將血液樣本送到衞生防護中心做檢測確定。"
 習近平︰人民群眾積極建言獻策　有關部門要認真研究吸納,2025-08-04 09:58,,2025-08-04 10:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816540-20250804.htm,"中共中央總書記、國家主席、中央軍委主席習近平，就研究吸收網民對「十五五」規劃編制工作意見建議作出重要指示，強調各級黨委和政府要始終堅持以人民為中心，廣泛深入地察民情、聽民聲、匯民智，凝聚起推進中國式現代化的強大合力，不斷實現人民對美好生活的嚮往。
 
 習近平說，「十五五」規劃編制工作網絡徵求意見活動參與度高、覆蓋面廣，是全過程人民民主的一次生動實踐，廣大人民群眾積極建言獻策，提出許多有價值的意見建議，有關部門要認真研究吸納。
 
 為貫徹落實習近平關於完成「十五五」規劃編制工作的重要指示精神，今年5月20日至6月20日，「十五五」規劃編制工作開展網絡徵求意見活動，分別在人民日報、新華社及央視總台所屬官網等開設專欄，聽取全社會意見建議，累計收到網民建言超過311萬條。"
+人行開展5448億元人民幣逆回購操作　單日轉為淨投放,2025-08-04 09:58,,2025-08-04 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816542-20250804.htm,"人民銀行公開市場開展5448億元人民幣逆回購操作，期限為7日，利率維持於1.4厘。
+
+對沖到期量後，單日轉為淨投放490億元。
+
+據路透統計，本周公開市場共有16632億元逆回購到期，規模逐日遞減，其中今日到期4958億元。"
 內地股市初段個別發展,2025-08-04 09:56,,2025-08-04 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816539-20250804.htm,"滬深股市在開市初段個別發展。
 
 上證綜合指數較早時報3562點，升2點，升幅0.06%。
@@ -922,17 +922,6 @@ Critics, including former leaders of the BLS, slammed Trump's move and called on
 救援人員經過連日搜索，清理了20多米的堵塞隧道後，尋回全部5名礦工的遺體。有遇難者的遺體，已經運抵家鄉準備舉殯。
 
 負責營運出事銅礦的智利國家銅業公司，正在調查今次事故是由採礦活動抑或地震造成。"
-中東各方譴責以色列國安部長到阿克薩清真寺祈禱,2025-08-04 03:49,,2025-08-04 04:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816509-20250804.htm,"以色列國家安全部部長本格維爾，到訪耶路撒冷舊城區的阿克薩清真寺，並在寺內祈禱，被認為是挑戰猶太人不能夠在清真寺內祈禱的規定。
-
-巴勒斯坦、以及巴勒斯坦武裝組織哈馬斯、還有多個中東國家都譴責本格維爾的舉動。
-
-根據一個猶太人組織發布的片段顯示，本格維爾當地星期日早上，率領一班人在清真寺內行走。亦有片段見到本格維爾正在祈禱。本格維爾說，他是為了以色列在加沙戰爭中戰勝哈馬斯，以及為了被扣押的以色列人員平安回家而祈禱。
-
-巴勒斯坦總統阿巴斯的發言人譴責本格維爾的行為危險，批評他跨越所有紅線，破壞了阿拉伯國家和國際社會，為恢復地區和平穩定所做的努力，呼籲國際社會、特別是美國政府立即介入制止。
-
-哈馬斯的聲明就提到，本格維爾的行為，是以色列針對巴勒斯坦人民和土地侵略的延續，認為是對地區局勢火上加油。
-
-沙特阿拉伯和約旦都先後譴責事件，認為加劇地區緊張局勢，會導致嚴重後果。"
 中東多方譴責以色列國安部長到阿克薩清真寺祈禱,2025-08-04 03:49,,2025-08-04 04:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816509-20250804.htm,"以色列國家安全部部長本格維爾，到訪耶路撒冷舊城區的阿克薩清真寺，並在寺內祈禱，被認為是挑戰猶太人不能夠在清真寺內祈禱的規定。巴勒斯坦、以及巴勒斯坦武裝組織哈馬斯、還有多個中東國家都譴責本格維爾的舉動。
 
 根據一個猶太人組織發布的片段顯示，本格維爾當地星期日早上，率領一班人在清真寺內行走，亦有片段見到本格維爾正在祈禱。
@@ -944,13 +933,19 @@ Critics, including former leaders of the BLS, slammed Trump's move and called on
 哈馬斯的聲明就提到，本格維爾的行為是以色列針對巴勒斯坦人民和土地侵略的延續，認為是對地區局勢火上加油。
 
 沙特阿拉伯和約旦都先後譴責事件，認為加劇地區緊張局勢，會導致嚴重後果。"
+中東各方譴責以色列國安部長到阿克薩清真寺祈禱,2025-08-04 03:49,,2025-08-04 04:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816509-20250804.htm,"以色列國家安全部部長本格維爾，到訪耶路撒冷舊城區的阿克薩清真寺，並在寺內祈禱，被認為是挑戰猶太人不能夠在清真寺內祈禱的規定。
+
+巴勒斯坦、以及巴勒斯坦武裝組織哈馬斯、還有多個中東國家都譴責本格維爾的舉動。
+
+根據一個猶太人組織發布的片段顯示，本格維爾當地星期日早上，率領一班人在清真寺內行走。亦有片段見到本格維爾正在祈禱。本格維爾說，他是為了以色列在加沙戰爭中戰勝哈馬斯，以及為了被扣押的以色列人員平安回家而祈禱。
+
+巴勒斯坦總統阿巴斯的發言人譴責本格維爾的行為危險，批評他跨越所有紅線，破壞了阿拉伯國家和國際社會，為恢復地區和平穩定所做的努力，呼籲國際社會、特別是美國政府立即介入制止。
+
+哈馬斯的聲明就提到，本格維爾的行為，是以色列針對巴勒斯坦人民和土地侵略的延續，認為是對地區局勢火上加油。
+
+沙特阿拉伯和約旦都先後譴責事件，認為加劇地區緊張局勢，會導致嚴重後果。"
 波音防務部門員工拒絕資方薪酬調整方案　周一午夜起罷工,2025-08-04 03:11,,2025-08-04 03:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816508-20250804.htm,"美國飛機製造商波音防務部門的工會，拒絕公司提出的薪酬調整方案，工會宣布當地星期一午夜起罷工。
 
 波音公司上星期向工會提出新的合約，4年內加薪20%，亦會提供更多休假，但工會不滿新合約未能達到員工的要求，在就業前景方面也缺乏保障，表決之後決定拒絕方案，將會如期展開罷工。
 
 工會的聲明表示，任何合約都應該反映防務部門的工人的技術水平、以及在國防工業發揮的關鍵作用。今次參與罷工的波音員工，有份參與組裝戰鬥機、和供應給美國海軍使用的MQ-25無人加油機。"
-美國貿易代表：關稅稅率基本已確定　變動可能性不大,2025-08-04 02:37,,2025-08-04 02:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816507-20250804.htm,"美國貿易代表格里爾表示，美國早前公布對多個貿易夥伴徵收的關稅基本上已經確定，不預期關稅稅率會隨著談判而降低。
-
-美國特朗普政府上星期公布，對多個國家或地區實施關稅，稅率介乎10%至41%，本月7日生效。格里爾接受美國哥倫比亞廣播公司訪問時表示，雖然仍在與多個貿易夥伴商討，研究可以透過甚麼方式合作，但美國政府這一輪宣布的關稅，很多都是根據協議而設定，還有部分是基於貿易逆差或順差的水平而訂立，因此稅率基本上已經確定，出現變化的可能性不大。
-
-至於美國和中國的貿易談判，格里爾說非常良好，雙方正著眼於稀土磁鐵和礦產的供應。他說，美方會致力確保稀土磁鐵的供應鏈能夠回復暢通，估計中美雙方的討論進度大約在一半。"
