@@ -1,4 +1,33 @@
 title,date,summary,scrape_time,section,source,url,news_content
+港股先低後高　恒指升225點收市,2025-08-04 16:19,,2025-08-04 16:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816602-20250804.htm,港股先低後高，恒生指數初段最多跌135點，低見24372點，午後升幅一度擴大至逾240點，高見24748點，收市報24733點，升225點，升幅0.92%，主板成交額近2347億元。
+Taxi fleet 'fares better with new AI dispatch system',2025-08-04 16:12,,2025-08-04 16:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816597-20250804.htm,"Researchers say a new dispatch system uses artificial intelligence to improve taxi utilisation and passenger waiting times. 
+
+The smart dispatch decision system is jointly developed by the faculty of engineering at the University of Hong Kong and the SynCab taxi fleet. 
+
+The system, in use since the launch of SynCab's fleet in early July, currently covers more than 160 cabs. 
+
+The director of the Smart Mobility Lab at the university, Professor Ke Jintao, said the system can, compared to the broadcasting system used before, better guarantee that drivers who are closest or most suitable get to pick up customers.
+
+""We use AI algorithms to consider multiple factors, including weather, traffic congestion ... to determine the best order for each driver.""
+
+Ke says the system is better suited to electric cars with its tailored algorithm as it uses machine-learning models to predict remaining battery power.
+
+The system, he added, will continue to improve as more data comes in with more drivers and passengers.
+
+""Then we will retrain the data and have a more efficient version of the algorithm, improve further, and we can have a win-win situation again."""
+李澤鉅：從沒有打算出售深水灣物業　網上報道及貼文內容全屬虛構,2025-08-04 16:11,,2025-08-04 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816598-20250804.htm,"長和主席李澤鉅表示，從沒有打算出售深水灣道79號物業，個別網上及社交媒體有關出售該物業的報道及貼文內容全屬虛構，穿鑿附會，並無事實根據。
+
+他又指，網上經常出現有關他與家人的消息，當中大部分出於捏造，有些不符情理，有些不合邏輯，有些甚至有訛騙之嫌。鑒於詐騙個案猖獗，他呼籲各媒體及各界人士切勿輕信或參與散播謠言，以免誤墮詐騙陷阱而招致損失。"
+「義務法律服務表揚計劃」455名法律專業人員獲獎,2025-08-04 16:11,,2025-08-04 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816601-20250804.htm,"政務司司長辦公室轄下行政署公布「義務法律服務表揚計劃」結果，表揚在2023年至2024年期間為市民提供義務法律服務的法律專業人員、律師事務所和大律師辦事處。
+
+是次表揚計劃共有455名法律專業人員獲獎。其中，330名法律專業人員在表揚期內曾提供不少於30小時義務法律服務而獲得個人組獎項。此外，125名法律專業人員獲頒個人組特別獎項，以感謝他們在表揚期內曾提供不少於50小時義務法律服務。累計義務法律服務時數最多的一名獲獎者，服務時數長達567小時。
+
+除個人組獎項，是次表揚計劃共有9家律師事務所和大律師辦事處獲得公司組獎項。這些律師事務所和大律師辦事處致力推動義務法律服務，所屬法律專業人員在表揚期內亦曾提供達指定累計時數的義務法律服務。"
+李家超明日率領特區政府代表團訪問澳門,2025-08-04 16:09,,2025-08-04 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816600-20250804.htm,"行政長官李家超明日率領特區政府代表團訪問澳門。
+ 
+代表團成員包括財政司司長陳茂波、政制及內地事務局局長曾國衞、醫務衞生局局長盧寵茂、運輸及物流局局長陳美寶和行政長官辦公室主任葉文娟。期間李家超將與澳門特區行政長官岑浩輝會面，並到訪當地基建設施。
+ 
+李家超同日下午返港。"
 中電：數據中心電力需求增長強勁　密切監察燃料價格走勢,2025-08-04 16:08,,2025-08-04 16:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816599-20250804.htm,"中電上半年在香港的售電量按年下跌1.7%。不過，首席執行官蔣東強表示，上半年有關數據的電力需求增長達6.7%，而整體數據中心電力需求亦佔整體售電量逾6%，形容有關方面的電力需求增長強勁，與本港發展創科中心的目標一致。
 
 集團預計在2024年至28年間，會有18間數據中心落成，去年至今年上半年已有6間投產，集團在北部都會區已完成在周邊鋪設電網主骨幹，當有需要時會伸延至相關地方。
@@ -45,17 +74,10 @@ title,date,summary,scrape_time,section,source,url,news_content
 北京啟動全市防汛一級應急響應,2025-08-04 14:56,,2025-08-04 15:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816588-20250804.htm,"北京在下午1時把暴雨預警信號升為紅色，預計午後開始，北京市將出現強降雨天氣，最強降雨集中在傍晚6時至明早5時。市防汛指揮部啟動全市防汛一級應急響應。
 
 當局要求市民非必要不外出，遇有積水路段請勿涉水行車，不要在低窪路段和區域停放車輛。企業單位非必要不要求員工上班。學校停止全部線下教學活動和野外教學活動，培訓機構停止全部線下培訓活動。在工地停工，關閉所有景區、公園，做好受威脅遊客疏散。重點危險區域和主要搶險救援道路，將實施臨時交通管制措施。涉及山區地質災害沿線和途經洪水區域的火車將及時採取停運等措施。"
-韓股高收0.9%,2025-08-04 14:36,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816586-20250804.htm,南韓股市收市上升，首爾綜合指數報3147點，升28點，升幅0.91%。
 日股挫508點收市,2025-08-04 14:36,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816587-20250804.htm,"日股連跌兩個交易日。
 
 日經指數收報40290點，跌508點，跌幅1.25%。"
-澳門外港近港澳碼頭發生致命車禍　3人死亡包括私家車司機,2025-08-04 14:26,,2025-08-04 16:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816585-20250804.htm,"澳門發生致命交通意外，造成3人死亡，包括是澳門居民的私家車司機，另外4人受傷。
-
-警方表示，事發在早上6時許，現場是外港近港澳碼頭附近，經初步搜證，涉事私家車由友誼大馬路駛至事故位置時，失控撞及多個鐵欄，私家車司機及車上6名乘客受傷，其中司機和兩名乘客送院搶救後不治。
-
-警方正調查事故具體成因，呼籲如果有目睹事故的任何資訊，可與警方聯絡。
-
-根據澳門消防局早前的消息，早上的交通意外接報有一輛車冒煙，趕到時並無發現煙火，現場共有7名傷者，分別送往政府山頂醫院和鏡湖醫院搶救。"
+韓股高收0.9%,2025-08-04 14:36,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816586-20250804.htm,南韓股市收市上升，首爾綜合指數報3147點，升28點，升幅0.91%。
 澳門外港近港澳碼頭清晨嚴重車禍　三人死亡包括一名司機,2025-08-04 14:26,,2025-08-04 14:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816585-20250804.htm,"澳門清晨發生嚴重交通意外，造成三人死亡，包括一名司機。
 
 警方表示，事發在清晨6時許，在外港近港澳碼頭附近的大賽車大樓，涉事的澳門駕駛者及兩名輕型私家車的乘客，送院搶救後死亡。
@@ -64,6 +86,13 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 根據消防局早前的消息，清晨的交通意外接報有一輛輕私家車冒煙，趕到時並無發現煙火，現場共有七名傷者，分別送到政府山頂醫院和鏡湖醫院搶救，需要深切治療。"
 台股低收0.2%,2025-08-04 14:26,,2025-08-04 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816584-20250804.htm,台灣股市收市偏軟，加權指數收市報23378點，跌55點，跌幅0.24%。
+澳門外港近港澳碼頭發生致命車禍　3人死亡包括私家車司機,2025-08-04 14:26,,2025-08-04 16:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816585-20250804.htm,"澳門發生致命交通意外，造成3人死亡，包括是澳門居民的私家車司機，另外4人受傷。
+
+警方表示，事發在早上6時許，現場是外港近港澳碼頭附近，經初步搜證，涉事私家車由友誼大馬路駛至事故位置時，失控撞及多個鐵欄，私家車司機及車上6名乘客受傷，其中司機和兩名乘客送院搶救後不治。
+
+警方正調查事故具體成因，呼籲如果有目睹事故的任何資訊，可與警方聯絡。
+
+根據澳門消防局早前的消息，早上的交通意外接報有一輛車冒煙，趕到時並無發現煙火，現場共有7名傷者，分別送往政府山頂醫院和鏡湖醫院搶救。"
 HK waiting for athletes' list in National Games race,2025-08-04 14:03,,2025-08-04 14:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816577-20250804.htm,"The Hong Kong official in charge of the coordinating office for the National Games on Monday said it is waiting for the mainland to decide which athletes will be sent to compete in the events that will be staged in the SAR so that it can refine the competition schedule.
 
 Hong Kong will co-host its first National Games in November with Guangdong and Macau.
@@ -132,6 +161,21 @@ Yeung added final testing for ticket sales is under way and that an announcement
 
 他說，不排除有機構會將部分資金由國債調配至風險較高的項目，但仍要視乎投資的值搏率，國債債息的走向則主要視乎內地的通脹和經濟形勢。"
 New restrictions slapped on 16 NSL suspects,2025-08-04 13:04,,2025-08-04 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
+
+The Secretary for Security exercised his powers under section 89 of the legislation to prohibit the suspects from dealing with funds or have any property dealings related to absconders.
+
+Twelve of the suspects will also have their SAR passports revoked and some of them will be removed from their positions as company directors.
+
+The suspects are among 19 people who have been accused of endangering national security by forming or taking part in a group called the ""Hong Kong Parliament"" – which has been deemed as a subversive organisation that aims to overturn the nation’s constitutional order.
+
+""These lawless wanted criminals are hiding in the United Kingdom, the United States, Canada, Germany, Australia, Thailand, China's Taiwan region, etc, and continue to blatantly engage in activities that endanger national security,” a government spokesman said in a statement.
+
+“They also intended to incite hatred through smear and slander against the Central Authorities and the HKSAR. We therefore have taken such measures to make a significant impact,” the spokesman added.
+
+The police further issued a reminder to members of the public that it is an offence to make available any funds or other financial assets or economic resources to an absconder either directly or indirectly.
+
+The Secretary for Security also instructed the police to sort out the relevant evidence for him to consider exercising powers under the SNSO to prohibit the operation of the ""Hong Kong Parliament"" and the ""Hong Kong Democratic Independence Union"" in the SAR."
+New restrictions slapped on 16 subversion suspects,2025-08-04 13:04,,2025-08-04 16:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1816575-20250804.htm,"Sixteen national security suspects who were placed on a wanted list last month for alleged subversion had new financial restrictions imposed on them in accordance with the Safeguarding National Security Ordinance (SNSO).
 
 The Secretary for Security exercised his powers under section 89 of the legislation to prohibit the suspects from dealing with funds or have any property dealings related to absconders.
 
@@ -386,7 +430,7 @@ The Nikkei 225 was down 2.07 percent at 39,930 while South Korea dipped 0.2 perc
 港股競價時段跌75點　失守24500點,2025-08-04 09:23,,2025-08-04 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816537-20250804.htm,"港股低開，恒生指數跌穿24500點水平，恒指競價時段報24431點，跌75點，跌幅0.31%。
 
 科技指數報5361點，跌35點，跌幅0.66%。"
-潮玩產品「盲盒」營銷受歡迎　學者稱滿足消費欲望及減壓,2025-08-04 09:14,,2025-08-04 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816534-20250804.htm,"內地潮玩玩具產業興起，有內地學者認為，與年輕人重視自我表達，產品滿足到情緒價值有關。潮玩玩具產業潛力大，伴隨而來有嚴重盜版問題。有內地律師認為，做好保護知識產權工作，有助促進消費。
+潮玩產品「盲盒」營銷受歡迎　內地律師促做好保護知識產權工作,2025-08-04 09:14,,2025-08-04 10:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816534-20250804.htm,"內地潮玩玩具產業興起，有內地學者認為，與年輕人重視自我表達，產品滿足到情緒價值有關。潮玩玩具產業潛力大，伴隨而來有嚴重盜版問題。有內地律師認為，做好保護知識產權工作，有助促進消費。
 
 近年潮玩玩具商家經常採用「盲盒」營銷模式，即消費者在購買時不知道產品具體款式，受不少年輕人熱捧。復旦大學市場營銷學系青年副研究員余伊琦表示，「盲盒」的不確定性，增加消費者參與感，產品本身亦滿足到消費者的情緒價值，令年輕一輩成為「盲盒」的客群。
 
@@ -395,7 +439,7 @@ The Nikkei 225 was down 2.07 percent at 39,930 while South Korea dipped 0.2 perc
 有報告分析，中國的潮玩產業規模至明年將超過1100億元人民幣，複合年均增長率達24%，但假貨問題湧現，內地海關不時執法檢獲偽冒產品。
 
 從事商事訴訟的內地律師柯錦雄說，偽冒產品會打擊商家的設計和生產意願，認為做好保護知識產權工作，更能讓商家設計出年輕人喜愛的產品，促進消費。他認為，內地在保護知識產權的力度已非常強大，但長遠仍要民眾更有意識，不要買盜版貨。"
-潮玩產品「盲盒」營銷受歡迎　內地律師促做好保護知識產權工作,2025-08-04 09:14,,2025-08-04 10:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816534-20250804.htm,"內地潮玩玩具產業興起，有內地學者認為，與年輕人重視自我表達，產品滿足到情緒價值有關。潮玩玩具產業潛力大，伴隨而來有嚴重盜版問題。有內地律師認為，做好保護知識產權工作，有助促進消費。
+潮玩產品「盲盒」營銷受歡迎　學者稱滿足消費欲望及減壓,2025-08-04 09:14,,2025-08-04 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816534-20250804.htm,"內地潮玩玩具產業興起，有內地學者認為，與年輕人重視自我表達，產品滿足到情緒價值有關。潮玩玩具產業潛力大，伴隨而來有嚴重盜版問題。有內地律師認為，做好保護知識產權工作，有助促進消費。
 
 近年潮玩玩具商家經常採用「盲盒」營銷模式，即消費者在購買時不知道產品具體款式，受不少年輕人熱捧。復旦大學市場營銷學系青年副研究員余伊琦表示，「盲盒」的不確定性，增加消費者參與感，產品本身亦滿足到消費者的情緒價值，令年輕一輩成為「盲盒」的客群。
 
@@ -657,10 +701,10 @@ He said the city has held a number of test events over the past year for the upc
 他認為本屆政府工作有進步，例如在極端天氣下，或某些大廈停電、停水，政府反應比以往快，更見到「Work Together」，無論地區人士、區議會、關愛隊、三會和立法會議員等，都聯繫合作，看到以前可能要兩個星期才做到的事，現在可能是兩至三天便完成。 
 
 他形容，政府推進政策就是把「大動脈」盡量打開，血液流暢得最好，但落到地區就是「微絲血管」，要靠地區治理，亦希望大家利用地區治理體系，打通「任督二脈」。"
-【重溫】2025年8月3日新聞天地,2025-08-03 18:29,,2025-08-03 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816483-20250803.htm,詳盡報道本地時事，大中華消息、國際局勢等新聞，緊貼最新熱話。
 關愛隊向安達邨居民派蚊怕水提醒做好防蚊,2025-08-03 18:29,,2025-08-03 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816475-20250803.htm,"本港發現今年首宗基孔肯雅熱輸入個案後，食環署派員到患者居住的觀塘安達邨一帶噴蚊油，區議員聯同關愛隊向居民派發蚊怕水、蚊貼，提醒他們做好防蚊措施。有居民表示會做好防蚊措施，減少帶兒子到公園遊玩。
 
 國家衛健委副主任、國家疾控局局長沈洪兵星期六到佛山，指導基孔肯雅熱疫情防控工作。"
+【重溫】2025年8月3日新聞天地,2025-08-03 18:29,,2025-08-03 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816483-20250803.htm,詳盡報道本地時事，大中華消息、國際局勢等新聞，緊貼最新熱話。
 全運會｜十五運會和殘特奧會火炬取名「綻放」,2025-08-03 18:28,,2025-08-03 18:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816474-20250803.htm,"十五運會和殘特奧會倒計時100天啟動儀式，星期六晚在深圳舉行，國家體育總局局長高志丹在致辭中表示，倒數一百天標誌著這場全國關注舉世矚目體育盛會，正式進入籌辦衝刺攻堅階段。
 
 行政長官李家超表示，全運會首次由粵港澳三地聯合承辦，彰顯國家對大灣區協同發展的堅定信心。
@@ -780,17 +824,3 @@ Leung said the department can increase class options for the disabled, adding th
 另外，政府修訂資助專上學額門檻，包括要求人才計劃的受養人須居港滿兩年，設有兩年過渡期。蔡若蓮形容有關調整合理、溫和，影響最小，並沒有改變受養人是本地生的定義。被問到會否擔心引來司法覆核，她說已徵詢律政司意見，即使是本地學生，申請不同津貼或資助時都要符合資格，做法完全符合法例。
 
 蔡若蓮又說，去年有1000多名受養人申請大學聯招，修訂後未符合資格的學生，院校仍可以「超收」形式錄取，不佔本地生及非本地生的學額，大學亦會擇優而取，不認為有需要為「超收」特別設定限額。被問到日後若果來港求學受養子女增加，甚麽情況下會再收緊居港年期要求，蔡若蓮指暫時看不到有需要調整，相信隨著教育配套陸續加強，即使增加至2000多人也不算大數目，本港有能力吸納。"
-警熱線及平台打擊依托咪酯毒品　鄧炳強形容有人吸食後如「喪屍」,2025-08-03 16:17,,2025-08-03 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816465-20250803.htm,"警方設立打擊依托咪酯毒品舉報熱線6629 2966，同時會有WhatsApp和微信舉報平台。保安局表示，熱線24小時運作，當局在新學年會在健康校園活動的毒品檢測中加入依托咪酯，以做到全城一起抗毒。
-
-保安局下午在油塘舉行抗毒宣傳活動，保安局局長鄧炳強表示，有人吸食依托咪酯毒品後失去知覺、流口水及爛臉等，形容有如喪屍。出席活動的藝人郭富城獲委任為「榮譽禁毒專員」，他說毒品會招致禍害，呼籲公眾不要接觸。
-
-香港中毒控制中心毒理學參考化驗室顧問醫生張耀君表示，每種毒品的各種毒性和後遺症資料，都是由濫用者以身心健康和生命換取回來，呼籲公眾不要接觸毒品。"
-福島第一核電站完成第十三次核污水排海,2025-08-03 16:17,,2025-08-03 16:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1816464-20250803.htm,"日本東京電力公司結束福島第一核電站第十三次核污水排海，共排放約7800噸。
-
-東電計劃今年度分七次、共排放約5.46萬噸核污水，今次是第二次。
-
-排海期間，核電站周圍海水放射性物質氚的濃度未出現異常。
-
-核污水排海從2023年8月開始，至今共排放近10.2萬噸。
-
-第十三次排海原定本月1日結束，但由於俄羅斯堪察加半島地震而對福島縣發出海嘯預警等信息，排海作業兩度暫停，導致延遲結束。"
