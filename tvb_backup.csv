@@ -1,6 +1,11 @@
 id,title,date,scrape_time,section,source,url,news_content
-689125aabccdd0876dfa7406,港元匯價觸及弱方兌換保證 金管局於紐約時段承接64.29億港元沽盤,2025-08-05 05:26,2025-08-05 05:30,finance,tvb,https://news.tvb.com/tc/finance/689125aabccdd0876dfa7406,港元匯價觸及弱方兌換保證，金融管理局在紐約時段，承接64.29億港元沽盤。
-688fb03bbccdd0876dee920c,天氣｜紅雨及山泥傾瀉警告生效 大埔區塔門及東坪洲有可能出現嚴重水浸,2025-08-05 05:21,2025-08-05 05:30,local,tvb,https://news.tvb.com/tc/local/688fb03bbccdd0876dee920c,"<a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">直播｜預測雨量圖及雷達圖像</a>
+688fb03bbccdd0876dee920c,天氣｜紅雨及山泥傾瀉警告生效 天文台料北區可能出現嚴重水浸,2025-08-05 05:30,2025-08-05 05:45,local,tvb,https://news.tvb.com/tc/local/688fb03bbccdd0876dee920c,"<a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">直播｜預測雨量圖及雷達圖像</a>
+
+[05:30]
+天文台：北區有大暴雨，有可能出現嚴重水浸。
+
+[05:30]
+天文台：是否需要發出黑色暴雨警告信號要視乎雷雨區的發展。
 
 [05:20]
 天文台清晨5時20分改發紅色暴雨警告信號。
@@ -111,6 +116,7 @@ id,title,date,scrape_time,section,source,url,news_content
 
 [02:50]
 天文台：受活躍西南季候風影響，珠江口一帶持續有雷雨區發展，預料未來兩三小時本港可能受大驟雨影響。"
+689125aabccdd0876dfa7406,港元匯價觸及弱方兌換保證 金管局於紐約時段承接64.29億港元沽盤,2025-08-05 05:26,2025-08-05 05:30,finance,tvb,https://news.tvb.com/tc/finance/689125aabccdd0876dfa7406,港元匯價觸及弱方兌換保證，金融管理局在紐約時段，承接64.29億港元沽盤。
 6891238abccdd0876dfa686f,[05:20]紅色暴雨警告信號生效,2025-08-05 05:20,2025-08-05 05:30,local,tvb,https://news.tvb.com/tc/local/6891238abccdd0876dfa686f,"天文台清晨5時20分改發紅色暴雨警告信號。
 
 暴雨警告信號現時為紅色，表示香港廣泛地區已錄得，或預料會有每小時雨量超過50毫米的大雨，且雨勢可能持續。
