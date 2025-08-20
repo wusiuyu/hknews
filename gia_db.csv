@@ -1,17 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
 港匯指數,2025-08-20 16:00,2025-08-20 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000209.htm,二○二五年八月二十日（星期三）的港幣匯率指數為一百零三點八（和昨日指數比較上升零點一）。
 Effective Exchange Rate Index,2025-08-20 16:00,2025-08-20 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000211.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, August 20, 2025 is 103.8 (up 0.1 against yesterday's index)."
-日本進口水產的檢測情況,2025-08-20 15:51,2025-08-20 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000503.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由八月十九日中午截至今日（八月二十日）中午，食安中心已對185個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共159 291個日本進口食物樣本（包括104 347個水產及其製品、海藻及海鹽樣本）及共36 148個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 Inspection of aquatic products imported from Japan,2025-08-20 15:51,2025-08-20 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000504.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -23,6 +12,17 @@ Inspection of aquatic products imported from Japan,2025-08-20 15:51,2025-08-20 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 159 291 samples of food imported from Japan (including 104 347 samples of aquatic and related products, seaweeds and sea salt) and 36 148 samples of local catch respectively. All the samples passed the tests."
+日本進口水產的檢測情況,2025-08-20 15:51,2025-08-20 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000503.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由八月十九日中午截至今日（八月二十日）中午，食安中心已對185個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共159 291個日本進口食物樣本（包括104 347個水產及其製品、海藻及海鹽樣本）及共36 148個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 車輛登記號碼網上拍賣於九月四日至八日舉行,2025-08-20 15:00,2025-08-20 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000266.htm,"運輸署今日（八月二十日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於九月四日（星期四）中午十二時至九月八日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
 
 運輸署發言人說：「是次網上競投會公開拍賣二百個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以「HK」或「XX」為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
@@ -71,21 +71,6 @@ making the auction payment online by credit card, Faster Payment System(FPS) or 
 (6) Successful bidders will receive a notification email around seven working days after payment has been confirmed and can download the Memorandum of Sale from the E-Auction. The purchaser must apply for the VRM to be assigned to a motor vehicle registered in the name of the purchaser within 12 months from the date of issue of the Memorandum of Sale. If the purchaser fails to do so within the 12-month period, in accordance with the statutory provision, the allocation of the VRM will be cancelled and a new allocation will be arranged by the TD without prior notice to the purchaser.
 
  The TD has informed all applicants who have reserved the Ordinary VRMs for this round of auction of the E-Auction arrangements in detail by post. Members of the public may refer to the E-Auction website or watch the tutorial videos for more information. Please call the E-Auction hotline (3583 3980) or email (e-auction-enquiry@td.gov.hk) for enquiries."
-CMAB launches the website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War,2025-08-20 14:00,2025-08-20 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000378.htm,"âThe Constitutional and Mainland Affairs Bureau (CMAB) today (August 20) officially launched the Website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, introducing a series of diverse commemorative activities for the public to join and remember the history.
-
-The website lists a series of commemorative activities organised by government bureaux and departments, community groups, non-governmental organisations, and various sectors of community from later this year to next year. These activities include the official ceremony, exhibitions of historical artefacts and photos, guided tours to wartime relics, seminars, thematic lectures and workshops, film screenings, micro-dramas, book exhibitions, and performances.
-
-A CMAB spokesman said, ""The core spirit of the 80th Anniversary of the Victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War is 'remembering history, honoring martyrs, cherishing peace, and creating a great future.' To deepen and broaden the public's understanding of wartime history and the historical significance of victory in the war, and to strengthen their affection for and sense of belonging to our country, theHong Kong Special Administrative Region (HKSAR) Governmentwill organise various forms of commemorative and educational activities. It will also make appropriate arrangements to co-ordinate and support commemorative activities in the community.""
-
-The official ceremony will be held on September 3 at the Hong Kong City Hall Memorial Garden to commemorate the victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, honoring the martyrs and civilians who lost their lives in the war.
-
-To enhance public understanding of the historical significance of the victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, the Government will stage two large-scale special exhibitions. The first is the ""United in Arms, Standing for Peace – 80th Anniversary of the Chinese Victory in the War of Resistance"" Exhibition, jointly organised by the Hong Kong Museum of History (HKMH) and the National Museum of China, running from August 27 to December 15. The second is the ""Standing Together for Peacebuilding: Commemorating the 80th Anniversary of Victory in the War of Resistance in Guangdong and Hong Kong"" Exhibition, jointly organised by the Hong Kong Museum of the War of Resistance and Coastal Defence (MWRCD) and the Guangdong Museum of Revolutionary History, running from August 29, 2025, to July 8, 2026.
-
-Additionally, the Hong Kong Film Archive, in collaboration with the HKMH, the Hong Kong Heritage Museum, and the MWRCD, will present a thematic screening programme ""Cine Memories of the War of Resistance"" from August 30 to September 20, featuring six films on the theme of the war free of charge, including ""The Sinking of the Lisbon Maru"".
-
-Apart from the special exhibitions and a series of other exhibitions of historical artefacts and photos held at different venues, the HKSAR Government and non-governmental organisations will also introduce different thematic activities in order to encourage the public to gain a more comprehensive understanding of this significant period in history with a profound impact on our country. These activities include thematic Mainland exchange tours for students and youths, field studies on local wartime history, as well as educational visits to museums.
-
-Please visit the website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War (www.80avictory.gov.hk) for details."
 政制及內地事務局推出中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年紀念網頁,2025-08-20 14:00,2025-08-20 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000377.htm,"政制及內地事務局今日（八月二十日）正式推出中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年紀念網頁，介紹連串多元化的紀念活動，讓巿民參與，銘記歷史。
 
 網頁列出由政府政策局及部門、地區團體、民間組織和社區各界於今年下旬至明年舉辦的一連串紀念活動，包括官方紀念儀式、文物及圖片展覽、抗戰遺蹟導賞、研討會、專題講座及工作坊、抗戰電影欣賞、微短劇、抗戰書籍展覽，以及文藝晚會等。
@@ -101,6 +86,21 @@ Please visit the website for the 80th Anniversary of Victory in the Chinese Peop
 除上述的特別展覽和一系列在不同場地舉行的文物和圖片展覽外，特區政府和民間團體亦將推出不同主題的抗戰歷史參觀活動，鼓勵市民更全面地了解這段對中華民族影響深遠的重要歷史，包括主題式的學生和青年內地交流團、結合本地抗戰歷史的實地考察活動，博物館參觀學習等。
 
 歡迎巿民瀏覽中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年紀念網頁（www.80avictory.gov.hk）了解各項活動的詳情。"
+CMAB launches the website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War,2025-08-20 14:00,2025-08-20 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000378.htm,"âThe Constitutional and Mainland Affairs Bureau (CMAB) today (August 20) officially launched the Website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, introducing a series of diverse commemorative activities for the public to join and remember the history.
+
+The website lists a series of commemorative activities organised by government bureaux and departments, community groups, non-governmental organisations, and various sectors of community from later this year to next year. These activities include the official ceremony, exhibitions of historical artefacts and photos, guided tours to wartime relics, seminars, thematic lectures and workshops, film screenings, micro-dramas, book exhibitions, and performances.
+
+A CMAB spokesman said, ""The core spirit of the 80th Anniversary of the Victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War is 'remembering history, honoring martyrs, cherishing peace, and creating a great future.' To deepen and broaden the public's understanding of wartime history and the historical significance of victory in the war, and to strengthen their affection for and sense of belonging to our country, theHong Kong Special Administrative Region (HKSAR) Governmentwill organise various forms of commemorative and educational activities. It will also make appropriate arrangements to co-ordinate and support commemorative activities in the community.""
+
+The official ceremony will be held on September 3 at the Hong Kong City Hall Memorial Garden to commemorate the victory of the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, honoring the martyrs and civilians who lost their lives in the war.
+
+To enhance public understanding of the historical significance of the victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War, the Government will stage two large-scale special exhibitions. The first is the ""United in Arms, Standing for Peace – 80th Anniversary of the Chinese Victory in the War of Resistance"" Exhibition, jointly organised by the Hong Kong Museum of History (HKMH) and the National Museum of China, running from August 27 to December 15. The second is the ""Standing Together for Peacebuilding: Commemorating the 80th Anniversary of Victory in the War of Resistance in Guangdong and Hong Kong"" Exhibition, jointly organised by the Hong Kong Museum of the War of Resistance and Coastal Defence (MWRCD) and the Guangdong Museum of Revolutionary History, running from August 29, 2025, to July 8, 2026.
+
+Additionally, the Hong Kong Film Archive, in collaboration with the HKMH, the Hong Kong Heritage Museum, and the MWRCD, will present a thematic screening programme ""Cine Memories of the War of Resistance"" from August 30 to September 20, featuring six films on the theme of the war free of charge, including ""The Sinking of the Lisbon Maru"".
+
+Apart from the special exhibitions and a series of other exhibitions of historical artefacts and photos held at different venues, the HKSAR Government and non-governmental organisations will also introduce different thematic activities in order to encourage the public to gain a more comprehensive understanding of this significant period in history with a profound impact on our country. These activities include thematic Mainland exchange tours for students and youths, field studies on local wartime history, as well as educational visits to museums.
+
+Please visit the website for the 80th Anniversary of Victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War (www.80avictory.gov.hk) for details."
 招標承投港珠澳大橋香港口岸鋪位租用權,2025-08-20 12:36,2025-08-20 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000349.htm,"政府產業署（產業署）現就位於香港大嶼山港珠澳大橋香港口岸順暉路33號旅檢大樓一樓（i）第508號鋪位及（ii）第509號鋪位的政府物業租用權分別招標，租期三年，並可按條文規定續租兩年。
 
 該兩個處所只可用作一般零售及／或服務用途（不包括售賣香煙、雪茄或其他煙草產品）。
@@ -126,6 +126,13 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (August 20) that due to big waves, red flags have been hoisted at Big Wave Bay Beach in Southern District, Hong Kong Island, and Pui O Beach in Islands District. Beachgoers are advised not to swim at these beaches."
+Red flag hoisted at Silver Mine Bay Beach,2025-08-20 10:09,2025-08-20 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000226.htm,"Attention TV/radio announcers:
+
+Please broadcast the following as soon as possible:
+
+  Here is an item of interest to swimmers.
+
+  The Leisure and Cultural Services Department announced today (August 20) that according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Silver Mine Bay Beach in Islands District is 4, which means the predicted water quality at this beach is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. The red flag has been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
 大浪灣泳灘及貝澳泳灘懸掛紅旗,2025-08-20 10:09,2025-08-20 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000224.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列特別報告：
@@ -136,13 +143,6 @@ The Leisure and Cultural Services Department announced today (August 20) that du
 請盡快播出以下特別報告：
 
 游泳人士請注意：康樂及文化事務署今日（八月二十日）宣布，根據環境保護署的「泳灘水質預報系統」（www.epd.gov.hk/epd/tc_chi/environmentinhk/water/beach_quality/forecast_system.html），離島區的銀礦灣泳灘的「泳灘水質預測指數」為4，表示水質因天雨關係而可能短期波動，預測屬於「極差」水平。該泳灘現已懸掛紅旗，為保障健康，市民應避免下水。"
-Red flag hoisted at Silver Mine Bay Beach,2025-08-20 10:09,2025-08-20 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202508/20/P2025082000226.htm,"Attention TV/radio announcers:
-
-Please broadcast the following as soon as possible:
-
-  Here is an item of interest to swimmers.
-
-  The Leisure and Cultural Services Department announced today (August 20) that according to the Beach Water Quality Forecast System of the Environmental Protection Department (www.epd.gov.hk/epd/english/environmentinhk/water/beach_quality/forecast_system.html), the Beach Water Quality Forecast Index for Silver Mine Bay Beach in Islands District is 4, which means the predicted water quality at this beach is ""Very Poor"" due to potential transient water quality fluctuations caused by heavy rain. The red flag has been hoisted, and beachgoers are advised not to enter the water to safeguard their health."
 全港賣旗日,2025-08-20 06:00,2025-08-20 06:15,Chi,gia,https://www.info.gov.hk/gia/general/202508/20/P2025081900320.htm,"社會福利署（社署）發言人表示，東華三院獲發公開籌款許可證在今日（八月二十日）由上午七時至下午十二時三十分，進行全港賣旗活動。
 
 所有獲發許可證於公眾地方進行的慈善籌款活動詳情，包括任何更新的資料，已透過香港政府一站通網頁（www.gov.hk/tc/theme/fundraising/search）發布，而賣旗日許可證亦已上載至社署網頁（www.swd.gov.hk/tc/ngo/controlofc/flagdays），以供查閱賣旗機構的聯絡方法及已獲准舉行的賣旗日活動資料。市民如有查詢，可致電社署熱線2343 2255，或1823電話中心專線3142 2678。
@@ -355,13 +355,6 @@ The hospital has reported the incident to the Hospital Authority Head Office via
 本院高度關注事件，強烈譴責涉嫌非禮本院員工的行為，並會採取「零容忍」態度，嚴肅跟進事件及全力配合警方調查。本院已向該名員工致以慰問及提供支援。
 
 醫院已透過早期事故通報系統向醫院管理局總辦事處呈報事件。"
-STL concludes visit to Beijing (with photos),2025-08-19 19:36,2025-08-19 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900731.htm,"The Secretary for Transport and Logistics, Ms Mable Chan,continued her visit to Beijing today (August 19). She called on theHong Kong and Macao Affairs Office of the State Council(HKMAO) and visited a railway operation in Beijing.
-
-Together with the Permanent Secretary for Transport and Logistics, Mr Kevin Choi, andDeputy Secretaries for Transport and Logistics Ms Joan Hung and Miss Amy Chan,Ms Chancalled on theExecutive Deputy Director of the HKMAO, Mr Xu Qifang,in the morningto report the latest work progress of the Transport and Logistics Bureau(TLB)on various fronts, covering cross-boundary transport infrastructure, shipping and logistics, aviation and local transport. Ms Chan expressed her gratitude for the HKMAO's full recognition of the workof the TLB andthe continued guidance of the HKMAO.She reassuredthat the Bureau willcontinue toembrace a bold mindsetinbreakingnew groundandproactively taking forward reforms.
-
-Accompanied by the Mainland China Business Director of the MTR CorporationLimited (MTRCL), Mr Sammy Wong, the delegation visitedMetroLine16to gain insights into the latest situation of the corporation'sbusiness on the Mainland.The MTRCL has been expanding its railway networks on the Mainland and overseas in recent years, including several lines itinvests in, constructs and operates. Ms Chan thanked the frontline staff for bringing the MTRCL's experience in operations to Beijing and different parts of the world.
-
-Ms Chan and her delegation concluded their visit to Beijing this evening, and will return to Hong Kong tonight."
 運輸及物流局局長結束北京訪問（附圖）,2025-08-19 19:36,2025-08-19 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900726.htm,"運輸及物流局局長陳美寶今日（八月十九日）繼續北京訪問，拜訪國務院港澳事務辦公室（港澳辦），並參觀北京的地鐵運作。
 
 陳美寶與運輸及物流局常任秘書長蔡傑銘、副秘書長洪思敏和陳婉雯早上一同拜會港澳辦分管日常工作的副主任徐啟方，匯報運輸及物流局在多方面的最新工作進展，包括跨境運輸基建、航運物流、航空、本地交通等。陳美寶感謝港澳辦對運輸及物流局工作的充分肯定以及一直以來的指導，她表示會繼續以「破局」思維，積極推進制度改革。
@@ -369,25 +362,23 @@ Ms Chan and her delegation concluded their visit to Beijing this evening, and wi
 他們又在香港鐵路有限公司（港鐵）中國內地業務總監黃琨暐陪同下參觀地鐵16號線，了解港鐵內地業務的最新情況。港鐵近年不斷在內地及海外拓展鐵路網絡，當中包括在北京參與投資、建設和營運多條鐵路線。陳美寶又與前線員工交流，感謝他們將香港鐵路的營運經驗帶到北京及世界不同地方。
 
 陳美寶一行今日傍晚結束訪京行程，並會在晚上返抵香港。"
-CS to depart for Beijing tomorrow,2025-08-19 19:15,2025-08-19 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900749.htm,"  The Chief Secretary for Administration, Mr Chan Kwok-ki, will depart for a visit to Beijing tomorrow morning (August 20). The Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, will join the visit.
+STL concludes visit to Beijing (with photos),2025-08-19 19:36,2025-08-19 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900731.htm,"The Secretary for Transport and Logistics, Ms Mable Chan,continued her visit to Beijing today (August 19). She called on theHong Kong and Macao Affairs Office of the State Council(HKMAO) and visited a railway operation in Beijing.
 
-  During his visit to Beijing, Mr Chan will call on leaders of the Hong Kong and Macao Affairs Office of the State Council and attend the establishment ceremony of the Patriotic Education Base for Hong Kong and Macao Youth. The Convenor of the Working Group on Patriotic Education under the Constitution and Basic Law Promotion Steering Committee, Dr Starry Lee, will also attend the ceremony.
+Together with the Permanent Secretary for Transport and Logistics, Mr Kevin Choi, andDeputy Secretaries for Transport and Logistics Ms Joan Hung and Miss Amy Chan,Ms Chancalled on theExecutive Deputy Director of the HKMAO, Mr Xu Qifang,in the morningto report the latest work progress of the Transport and Logistics Bureau(TLB)on various fronts, covering cross-boundary transport infrastructure, shipping and logistics, aviation and local transport. Ms Chan expressed her gratitude for the HKMAO's full recognition of the workof the TLB andthe continued guidance of the HKMAO.She reassuredthat the Bureau willcontinue toembrace a bold mindsetinbreakingnew groundandproactively taking forward reforms.
 
-  Mr Chan and the delegation will return to Hong Kong on the afternoon of August 21. During his absence, the Deputy Chief Secretary for Administration, Mr Cheuk Wing-hing, will be the Acting Chief Secretary for Administration. During Mr Tsang's absence, the Under Secretary for Constitutional and Mainland Affairs, Mr Clement Woo, will be the Acting Secretary for Constitutional and Mainland Affairs."
+Accompanied by the Mainland China Business Director of the MTR CorporationLimited (MTRCL), Mr Sammy Wong, the delegation visitedMetroLine16to gain insights into the latest situation of the corporation'sbusiness on the Mainland.The MTRCL has been expanding its railway networks on the Mainland and overseas in recent years, including several lines itinvests in, constructs and operates. Ms Chan thanked the frontline staff for bringing the MTRCL's experience in operations to Beijing and different parts of the world.
+
+Ms Chan and her delegation concluded their visit to Beijing this evening, and will return to Hong Kong tonight."
 ​政務司司長明日出訪北京,2025-08-19 19:15,2025-08-19 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900748.htm,"政務司司長陳國基明日（八月二十日）上午啓程前往北京訪問，政制及內地事務局局長曾國衞亦會隨行。
 
 訪京期間，陳國基將拜訪國務院港澳事務辦公室領導，以及出席港澳青少年愛國主義教育基地設立儀式。「憲法和基本法推廣督導委員會」轄下的「愛國主義教育工作小組」組長李慧琼博士亦會出席儀式。
 
 陳國基一行將於八月二十一日下午返港。陳國基離港期間，政務司副司長卓永興將署理政務司司長職務。曾國衞離港期間，政制及內地事務局副局長胡健民將署任政制及內地事務局局長。"
-"Hong Kong Science Museum's exhibition on aerospace, aviation and navigation welcomes its 100 000th visitor (with photos)",2025-08-19 18:38,2025-08-19 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900388.htm,"The ""Bank of China (Hong Kong) Presents: National Development and Achievements Series - Endless Exploration: The Journey of Chinese Aerospace, Aviation and Navigation"" exhibition currently being held at the Hong Kong Science Museum (HKScM) has been well received by the local public and tourists since its opening on August 1, and welcomed its 100 000th visitor today (August 19). To mark this special moment, the Acting Director of Leisure and Cultural Services, Miss Eve Tam, and the Deputy General Manager of Corporate Social Responsibility Office of Bank of China (Hong Kong), Ms Angel Yip, presented to the 100 000th visitor a commemorative certificate and a meaningful box set of aerospace pins provided by the News Center of the China National Space Administration (CNSA). This is the first time for Hong Kong to showcase the country's achievements in three major aeronautical arenas, namely aerospace, aviation and navigation, in the same exhibition. The exhibition will run until September 7, and it should not be missed.
+CS to depart for Beijing tomorrow,2025-08-19 19:15,2025-08-19 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900749.htm,"  The Chief Secretary for Administration, Mr Chan Kwok-ki, will depart for a visit to Beijing tomorrow morning (August 20). The Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, will join the visit.
 
-The 100 000th visitor is a primary five student, Tim Tong. Today is his birthday, and he is very interested in space, so his mother brought him and his sister to visit the HKScM. Tim's favourite part of the exhibition is the interactive exhibits.
+  During his visit to Beijing, Mr Chan will call on leaders of the Hong Kong and Macao Affairs Office of the State Council and attend the establishment ceremony of the Patriotic Education Base for Hong Kong and Macao Youth. The Convenor of the Working Group on Patriotic Education under the Constitution and Basic Law Promotion Steering Committee, Dr Starry Lee, will also attend the ceremony.
 
-Jointly presented by the Hong Kong Special Administrative Region Government and the CNSA, this exhibition features over 100 exhibits, including the first concurrent display in Hong Kong of lunar soil samples collected from the near side and far side of the Moon by the Chang'e-5 and the Chang'e-6 respectively. The samples are national treasures. Other exhibits debuting in Hong Kong include the Chang'e-6 returner and parachute, seawater samples collected from 10 000 metres under the sea, as well as models of the ""three pearls"" of the shipbuilding industry, namely an aircraft carrier, a liquefied natural gas carrier and a luxury cruise ship. The exhibition also showcases three large-scale models including the Long March-5 carrier rocket, the Fendouzhe full-ocean-depth manned submersible, and the Y-20 heavy lifter.
-
-The HKScM also organises a series of activities that are free of charge with on-site enrolment. Pop-up science demonstrations are held daily at various intervals, explaining the scientific principles of pressure in the deep sea in a simple way. There are three sessions of fixed-point guided tours in the afternoon on Saturdays and Sundays, led by professional docents, for participants to gain a deep understanding of the technological principles and historical significance behind the exhibits. As well, four sessions of the Earth Science Workshop: Deep Sea Odyssey will be held on August 30 and September 7. Participants can test submersibles and conduct experiments to learn about the mysterious deep-sea world, its amazing creatures, unique geology, and the importance of ocean conservation.
-
-The exhibition is jointly organised by the Leisure and Cultural Services Department and the News Center of the CNSA, and is solely sponsored by Bank of China (Hong Kong). It is one of the activities of the Chinese Culture Promotion Series. For details of the exhibition and activities, please visit the HKScM website at hk.science.museum/en/web/scm/exhibition/exploration2025.html."
+  Mr Chan and the delegation will return to Hong Kong on the afternoon of August 21. During his absence, the Deputy Chief Secretary for Administration, Mr Cheuk Wing-hing, will be the Acting Chief Secretary for Administration. During Mr Tsang's absence, the Under Secretary for Constitutional and Mainland Affairs, Mr Clement Woo, will be the Acting Secretary for Constitutional and Mainland Affairs."
 香港科學館三航展覽喜迎第十萬名參觀者（附圖）,2025-08-19 18:38,2025-08-19 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900438.htm,"「中國銀行（香港）呈獻：國家發展成就系列——無盡探索：中國的航天、航空及航海」展覽現正在香港科學館舉行，自八月一日開展以來，廣受市民及旅客歡迎，今日（八月十九日）迎來第十萬名參觀者。為紀念這個特別時刻，署理康樂及文化事務署（康文署）署長譚美兒及中國銀行（香港）企業社會責任辦公室副總經理葉麗麗，向第十萬名參觀者送上紀念證書和由國家航天局新聞宣傳中心提供的中國夢．航天夢——航天徽章套盒，別具意義。這是香港首次同時展示國家在航天、航空及航海三大領域成就的展覽，展期至九月七日，市民萬勿錯過。
 
 第十萬名參觀者是小學五年級的唐同學，今日生日的他對太空很有興趣，媽媽便帶他和妹妹一起到香港科學館參觀。唐同學最喜歡展覽的互動展品。
@@ -397,6 +388,15 @@ The exhibition is jointly organised by the Leisure and Cultural Services Departm
 香港科學館亦舉辦一系列活動，供公眾免費即場參加。展覽每日不定期舉行快閃科學示範，以簡單明瞭的方式讓公眾認識深海壓力的科學原理。而逢星期六、日下午設有三節定點導賞，由專業講解員帶領深入解讀展品背後的科技原理與歷史意義。八月三十日及九月七日將舉辦四場「小製作大發現：深海『床』寶」工作坊，讓參加者測試深潛器並進行小實驗，認識充滿奧秘的深海世界，了解深海無數奇妙的生物、獨特的地質及保護海洋的重要性。
 
 展覽由康文署和國家航天局新聞宣傳中心聯合籌劃，中國銀行（香港）獨家贊助，是弘揚中華文化系列活動之一。有關展覽和活動詳情，請瀏覽香港科學館網頁hk.science.museum/tc/web/scm/exhibition/exploration2025.html。"
+"Hong Kong Science Museum's exhibition on aerospace, aviation and navigation welcomes its 100 000th visitor (with photos)",2025-08-19 18:38,2025-08-19 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900388.htm,"The ""Bank of China (Hong Kong) Presents: National Development and Achievements Series - Endless Exploration: The Journey of Chinese Aerospace, Aviation and Navigation"" exhibition currently being held at the Hong Kong Science Museum (HKScM) has been well received by the local public and tourists since its opening on August 1, and welcomed its 100 000th visitor today (August 19). To mark this special moment, the Acting Director of Leisure and Cultural Services, Miss Eve Tam, and the Deputy General Manager of Corporate Social Responsibility Office of Bank of China (Hong Kong), Ms Angel Yip, presented to the 100 000th visitor a commemorative certificate and a meaningful box set of aerospace pins provided by the News Center of the China National Space Administration (CNSA). This is the first time for Hong Kong to showcase the country's achievements in three major aeronautical arenas, namely aerospace, aviation and navigation, in the same exhibition. The exhibition will run until September 7, and it should not be missed.
+
+The 100 000th visitor is a primary five student, Tim Tong. Today is his birthday, and he is very interested in space, so his mother brought him and his sister to visit the HKScM. Tim's favourite part of the exhibition is the interactive exhibits.
+
+Jointly presented by the Hong Kong Special Administrative Region Government and the CNSA, this exhibition features over 100 exhibits, including the first concurrent display in Hong Kong of lunar soil samples collected from the near side and far side of the Moon by the Chang'e-5 and the Chang'e-6 respectively. The samples are national treasures. Other exhibits debuting in Hong Kong include the Chang'e-6 returner and parachute, seawater samples collected from 10 000 metres under the sea, as well as models of the ""three pearls"" of the shipbuilding industry, namely an aircraft carrier, a liquefied natural gas carrier and a luxury cruise ship. The exhibition also showcases three large-scale models including the Long March-5 carrier rocket, the Fendouzhe full-ocean-depth manned submersible, and the Y-20 heavy lifter.
+
+The HKScM also organises a series of activities that are free of charge with on-site enrolment. Pop-up science demonstrations are held daily at various intervals, explaining the scientific principles of pressure in the deep sea in a simple way. There are three sessions of fixed-point guided tours in the afternoon on Saturdays and Sundays, led by professional docents, for participants to gain a deep understanding of the technological principles and historical significance behind the exhibits. As well, four sessions of the Earth Science Workshop: Deep Sea Odyssey will be held on August 30 and September 7. Participants can test submersibles and conduct experiments to learn about the mysterious deep-sea world, its amazing creatures, unique geology, and the importance of ocean conservation.
+
+The exhibition is jointly organised by the Leisure and Cultural Services Department and the News Center of the CNSA, and is solely sponsored by Bank of China (Hong Kong). It is one of the activities of the Chinese Culture Promotion Series. For details of the exhibition and activities, please visit the HKScM website at hk.science.museum/en/web/scm/exhibition/exploration2025.html."
 ​香港海關於機場檢獲約四百四十萬元懷疑大麻花（附圖）,2025-08-19 18:35,2025-08-19 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900680.htm,"香港海關昨日（八月十八日）在香港國際機場偵破兩宗行李藏毒的販毒案件，共檢獲約二十二公斤、估計市值共約四百四十萬元的懷疑大麻花、一件懷疑另類吸煙產品，以及七十九支未完稅香煙。
 
 第一宗案件涉及一名昨日從泰國曼谷飛抵本港的二十一歲男子。海關人員替他清關時，在其寄艙行李內發現重約十二公斤、藏於錫紙袋的懷疑大麻花，並在其手提行李內檢獲一件懷疑另類吸煙產品，該名男子隨即被捕。
@@ -435,7 +435,7 @@ Under the Import and Export Ordinance, importing an alternative smoking product 
 Under the Dutiable Commodities Ordinance, any person who imports, possesses, sells or buys dutiable commodities without a valid licence commits an offence. The maximum penalty upon conviction is a fine of $1 million and imprisonment for two years.
 
 Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-​行政長官出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮致辭（只有中文）（附圖／短片）,2025-08-19 18:15,2025-08-19 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900708.htm,"以下是行政長官李家超今日（八月十九日）出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮的致辭：
+​行政長官出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮致辭（只有中文）（附圖）,2025-08-19 18:15,2025-08-19 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900708.htm,"以下是行政長官李家超今日（八月十九日）出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮的致辭：
 
 謝曉東會長（香港區潮人聯會會長）、楊奮彬永遠榮譽會長（香港區潮人聯會永遠榮譽會長）、各位「自己人」（潮州話）、各位嘉賓：
 
@@ -456,7 +456,7 @@ Members of the public may report any suspected drug trafficking activities to Cu
 粵港澳三地上周已公布了全運會和殘特奧會的票務安排。香港市民現在已可以在官方票務網站和微信小程序註冊開戶，由八月底開始分階段購買賽事門票。香港賽區首批次的賽事門票將於八月二十八日開始發售，我希望大家都記得留意，一同入場支持全國健兒的精彩表現。所以我希望聯會積極推動會員投入全運會的熱潮，以潮汕好客之道，迎接來香港觀看比賽的朋友，為國家、為香港的體育事業貢獻力量。我對「自己人」的情懷深厚，雖然我自己並非潮汕的鄉親，但我肯定是潮汕鄉親的「自己人」老友記。最近我正忙於進行《施政報告》諮詢，我希望在諮詢過程中，與「自己人」交談時，大家能給予多點意見。在《施政報告》宣布後，我向大家講解時，希望大家一邊「喝茶吃飯」（潮州話），一邊介紹《施政報告》。
 
 我在此祝願國家富強，也希望潮港繁榮共進，香港區潮人聯會新一屆會董會工作順利。多謝大家！"
-​行政長官出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮致辭（只有中文）（附圖）,2025-08-19 18:15,2025-08-19 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900708.htm,"以下是行政長官李家超今日（八月十九日）出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮的致辭：
+​行政長官出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮致辭（只有中文）（附圖／短片）,2025-08-19 18:15,2025-08-19 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202508/19/P2025081900708.htm,"以下是行政長官李家超今日（八月十九日）出席香港區潮人聯會慶祝中華人民共和國成立七十六周年暨第六屆會董會就職典禮的致辭：
 
 謝曉東會長（香港區潮人聯會會長）、楊奮彬永遠榮譽會長（香港區潮人聯會永遠榮譽會長）、各位「自己人」（潮州話）、各位嘉賓：
 
