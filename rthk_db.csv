@@ -1,4 +1,11 @@
 title,date,summary,scrape_time,section,source,url,news_content
+私隱公署發表兩宗零售商資料外洩事故報告　有個人資料暗網被公開,2025-08-21 12:25,,2025-08-21 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819162-20250821.htm,"個人資料私隱專員公署發表兩份個人資料外洩事故調查報告，分別涉及珠寶公司和服裝公司，違反《個人資料（私隱）條例》的相關規定。
+
+其中一宗個案，涉及一家珠寶公司及其母公司共用的資訊系統資料在去年11月遭受黑客盜取及刪除，受影響資料包括兩家公司的客戶、現職及離職員工的個人資料，受影響的資料當事人約79400名，其中超過75000名屬公司客戶。事故中，黑客透過暴力攻擊，取得一個靜止超過13年、具系統管理員權限的帳戶，並於一台用於內部開發及編程的桌上電腦注入木馬程式。
+
+另外一宗個案涉及一家總公司是日本跨國企業的服裝公司，其客戶關係管理平台及電子商務平台於去年11月遭受未獲授權的第三方入侵。事故中，黑客利用一名現職員工的管理帳戶的憑證，從一個不明的海外IP位址連接並下載當中的訂單資料，外洩的個人資料牽涉59205名客戶。個人資料私隱專員鍾麗玲表示，在外洩事故發生約兩個月後，受影響的個人資料被不法之徒在「暗網」公開並可下載，亦有證據顯示資料被用作詐騙用途。
+
+鍾麗玲表示，兩宗個案均涉及持有大量客戶個人資料的零售公司，其中一宗個案的受影響資料更被販賣圖利。她提醒機構應該投放足夠的資源保障所持有的個人資料，採取合適的措施保障載有個人資料的系統，包括停用已被終止支援的軟件、加強資訊系統的密碼管理，以及定期為資訊系統進行全面保安風險評估及審計等。"
 東亞銀行中期盈利升14%　中期息每股0.39元,2025-08-21 12:19,,2025-08-21 12:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819161-20250821.htm, 
 恒指半日跌24點,2025-08-21 12:16,,2025-08-21 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819160-20250821.htm,"港股窄幅上落，恒生指數在25100點爭持，半日高低點數波幅約120點，中午收市報25140點，跌24點，跌幅0.1%，半日主板成交額近1242億元。
 
@@ -89,10 +96,10 @@ Mainland stocks also opened higher with the benchmark Shanghai Composite Index u
 人行開展2530億元人民幣逆回購操作,2025-08-21 09:34,,2025-08-21 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819139-20250821.htm,"人民銀行公開市場開展2530億元人民幣7日期逆回購操作，利率維持於1.4厘。
 
 對沖到期量後，單日淨投放1243億元，連續連續5日淨投放。"
+人民幣中間價升至9個半月高位,2025-08-21 09:25,,2025-08-21 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819137-20250821.htm,人民幣中間價報7.1287兌1美元，較上日中間價升97點子，創9個半月高位。
 恒指競價時段升50點,2025-08-21 09:25,,2025-08-21 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819138-20250821.htm,"港股在競價時段微升，恒生指數報25216點，升50點，升幅0.2%。
 
 科技指數報5539點，跌1點，跌幅0.03%。"
-人民幣中間價升至9個半月高位,2025-08-21 09:25,,2025-08-21 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819137-20250821.htm,人民幣中間價報7.1287兌1美元，較上日中間價升97點子，創9個半月高位。
 《環看天下》：印度總理莫迪會見王毅　分析：中印合作低調推進,2025-08-21 09:15,,2025-08-21 10:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819136-20250821.htm,"印度總理莫迪日前會見應邀訪問印度的中共中央政治局委員、中央外辦主任王毅。印度政府宣布，莫迪即將訪華並出席在月底舉行的上海合作組織天津峰會。
 
 中印關係近期出現更多回暖跡象，有分析觀望，兩國企業的合作規模或有機會逐步擴大，並可能漸漸由低調變成公開。"
@@ -482,7 +489,7 @@ The students then paid a visit to Hangzhou Normal University, and exchanged view
 習近平強調，治藏穩藏興藏，首先是要保持西藏的政治安定、社會穩定、民族團結、宗教和順。要進一步鑄牢中華民族共同體意識、推進中華民族共同體建設，加強黨史、新中國史、改革開放史、社會主義發展史、中華民族發展史宣傳教育，廣泛宣傳西藏自治區60年來的輝煌成就，講好新時代西藏故事。
 
 習近平指出，西藏發展有自身特點，要從實際出發推動高質量發展。要因地制宜發展高原特色優勢產業，特別是特色農牧業和清潔能源產業，有力有序有效推進雅下水電工程、川藏鐵路等重大項目建設。"
-Jimmy Lai lied in court: prosecutors,2025-08-20 19:43,,2025-08-20 21:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1819073-20250820.htm,"Prosecutors have accused former media tycoon Jimmy Lai of lying when testifying in his national security trial by denying knowledge of lobby groups that were pushing for actions against China.  
+Lai lied in court: prosecutors,2025-08-20 19:43,,2025-08-20 20:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1819073-20250820.htm,"Prosecutors have accused former media tycoon Jimmy Lai of lying when testifying in his national security trial by denying knowledge of lobby groups that were pushing for actions against China.  
 
 Entering a third day of closing submissions on Wednesday, prosecutor Anthony Chau pointed to “inconsistencies and fallacies” in the defendant’s evidence, alleging Lai of concealing his knowledge of the Inter-Parliamentary Alliance on China (IPAC) before his arrest. 
 
@@ -511,7 +518,7 @@ Senior Counsel Robert Pang singled out three of the articles to say they were a 
 Judge Lee, in response, said the bench will look beyond the articles when making a ruling. 
 
 The defence will continue its closing arguments on Thursday."
-Lai lied in court: prosecutors,2025-08-20 19:43,,2025-08-20 20:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1819073-20250820.htm,"Prosecutors have accused former media tycoon Jimmy Lai of lying when testifying in his national security trial by denying knowledge of lobby groups that were pushing for actions against China.  
+Jimmy Lai lied in court: prosecutors,2025-08-20 19:43,,2025-08-20 21:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1819073-20250820.htm,"Prosecutors have accused former media tycoon Jimmy Lai of lying when testifying in his national security trial by denying knowledge of lobby groups that were pushing for actions against China.  
 
 Entering a third day of closing submissions on Wednesday, prosecutor Anthony Chau pointed to “inconsistencies and fallacies” in the defendant’s evidence, alleging Lai of concealing his knowledge of the Inter-Parliamentary Alliance on China (IPAC) before his arrest. 
 
@@ -584,14 +591,6 @@ The defence will continue its closing arguments on Thursday."
 有即將參與閱兵的東北抗聯的血脈士兵說，會與戰友一起弘揚抗戰偉大精神，繼續做好各項任務，堅持維護世界和平。"
 受閱方隊加緊排練　有女兵將第三次受閱,2025-08-20 18:42,,2025-08-20 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819055-20250820.htm,下月3日的閱兵，受閱方隊正加緊排練，有參與閱兵的女兵，今次將會是她第三次受閱，她說一次受閱，終生光榮，三次受閱，體現的她內心的堅定信念和絕對忠誠。
 下月3日閱兵以新型四代裝備為主體　部分首次公開亮相,2025-08-20 18:41,,2025-08-20 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819060-20250820.htm,今年是中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年，下月3日會在北京舉行閱兵，將歷時約70分鐘。閱兵領導小組辦公室副主任、中央軍委聯合參謀部作戰局少將副局長吳澤棵說，今次受閱的武器裝備，都是國產現役主戰裝備，以新型四代裝備為主體，包括一些國之重器，部分是首次公開亮相，充分彰顯軍隊捍衛國家主權、安全、發展利益，以及維護世界和平的強大能力。
-特朗普稱普京或根本不欲達成協議,2025-08-20 18:36,,2025-08-20 19:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819056-20250820.htm,"美國總統特朗普表示，設法安排俄烏元首直接會面，如果成事，他亦會加入會面。報道指，特朗普與匈牙利總理歐爾班，討論過以匈牙利首都布達佩斯，作為會面地點的可能。特朗普又承認，俄羅斯總統普京，可能根本不想達成協議。
-
-另外，特朗普明確表示，美國不會派地面部隊協助烏克蘭防衛，但會考慮提供空中支援。"
-本港沒有錄得新增感染基孔肯雅熱個案,2025-08-20 18:36,,2025-08-20 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819066-20250820.htm,"衞生防護中心表示，截至今日下午五時，中心沒有錄得新增感染基孔肯雅熱個案。本港今年累計錄得九宗輸入個案，五宗病例在潛伏期內曾前往佛山市，四宗病例則曾前往孟加拉。
-
-中心提醒市民應留意除佛山外，全球多國正爆發基孔肯雅熱，外遊前必須注意當地情況。市民應採取妥善防蚊和個人保護措施，特別是從蚊傳疾病流行地區回港後。若出現發燒或急性關節痛等病徵，應立即就醫並通知醫生相關旅遊史。
-
-食環署正進行病媒調查及針對滅蚊工作，並會於病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。"
 百度上季盈利升33%　經調整盈利跌35%,2025-08-20 18:36,,2025-08-20 18:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819058-20250820.htm,"百度第2季盈利73.2億元人民幣，按年升逾33%，按季跌5%。以非公認會計準則計，經調整盈利約48億元，按年及按季跌35%及約26%。總收入327.1億元，按年跌約4%，按季升近1%。
 
 第2季百度核心業務經調整盈利47.9億元，按年及按季分別跌34%及24%；收入262.5億元，按年跌約2%，按季升逾3%。
@@ -601,6 +600,14 @@ The defence will continue its closing arguments on Thursday."
 百度上半年盈利逾150億元，按年升近38%。收入微跌約0.4%至651.7億元。
 
 集團表示，受人工智能(AI)新領域推動，第2季核心非在線營銷收入首次突破突破100億元，按年升34%，收入結構更趨均衡及多元化。集團將致力投資AI，推動移動生態的AI轉型，保持智能雲健康增長勢頭，並加快蘿蔔快跑的全球擴張。"
+特朗普稱普京或根本不欲達成協議,2025-08-20 18:36,,2025-08-20 19:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819056-20250820.htm,"美國總統特朗普表示，設法安排俄烏元首直接會面，如果成事，他亦會加入會面。報道指，特朗普與匈牙利總理歐爾班，討論過以匈牙利首都布達佩斯，作為會面地點的可能。特朗普又承認，俄羅斯總統普京，可能根本不想達成協議。
+
+另外，特朗普明確表示，美國不會派地面部隊協助烏克蘭防衛，但會考慮提供空中支援。"
+本港沒有錄得新增感染基孔肯雅熱個案,2025-08-20 18:36,,2025-08-20 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819066-20250820.htm,"衞生防護中心表示，截至今日下午五時，中心沒有錄得新增感染基孔肯雅熱個案。本港今年累計錄得九宗輸入個案，五宗病例在潛伏期內曾前往佛山市，四宗病例則曾前往孟加拉。
+
+中心提醒市民應留意除佛山外，全球多國正爆發基孔肯雅熱，外遊前必須注意當地情況。市民應採取妥善防蚊和個人保護措施，特別是從蚊傳疾病流行地區回港後。若出現發燒或急性關節痛等病徵，應立即就醫並通知醫生相關旅遊史。
+
+食環署正進行病媒調查及針對滅蚊工作，並會於病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。"
 伊利沙伯醫院呼籲市民提防假冒來電　不應向來歷不明來電提供資料,2025-08-20 18:27,,2025-08-20 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819064-20250820.htm,"伊利沙伯醫院提醒市民留意來歷不明的欺詐電話，發言人說，近日收到市民通知，指收到聲稱來自伊利沙伯醫院的電話，以錄音或真人對話形式，訛稱有緊急通知，院方已就事件向警方報案。
 
 院方重申，醫院如需要聯絡病人，一般會透過職員親自致電病人，並提供相關資料以核實身分。醫院提醒市民不應向來歷不明的來電提供任何個人資料，如接到懷疑欺詐電話應向警方求助。"
@@ -656,6 +663,11 @@ The official ceremony will be held on September 3 at the Hong Kong City Hall Mem
 在岸人民幣兌美元靠穩收市,2025-08-20 17:21,,2025-08-20 17:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819045-20250820.htm,"在岸人民幣收報7.1793兌1美元，上升27點子。人民幣中間價跌至逾1星期新低，較外電預測偏強逾500點子。
 
 市場人士表示，美元近期持續上升，但午後結匯需求增加，有利人民幣反彈。"
+Hong Kong stocks close higher,2025-08-20 17:18,,2025-08-20 17:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1819048-20250820.htm,"Hong Kong stocks ended higher on Wednesday, with the benchmark Hang Seng Index up 0.2 percent at 25,165.
+
+The Shanghai Composite Index finished up 1.04 percent at 3,766 after hitting an intra-day high of 3,767, the highest level in nearly a decade.
+
+The Shenzhen Component Index closed 0.9 percent higher at 11,926. (Xinhua)"
 煤氣料今年香港售氣量基本持平　北都發展將推動未來售氣量增長,2025-08-20 17:18,,2025-08-20 17:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819047-20250820.htm,"煤氣預期，今年香港售氣量按年基本持平，下半年訪港客量將帶動酒店和主題樂園等用氣量，整體氣溫上升及市民離港消費則影響燃氣需求。
 
 煤氣指，隨著積極配合並參與北部都會區的發展，預料未來將進一步推動售氣量增長。
@@ -663,11 +675,6 @@ The official ceremony will be held on September 3 at the Hong Kong City Hall Mem
 集團表示，內地城市燃氣管網的發展已趨成熟，預料資本投資額可降低。集團致力將資本投資維持在低水平、出售非核心資產，同時透過加快重組，實現資產價值最大化，以繼續保持集團穩健向前。
 
 集團又指，將繼續大力發展「海陸空」三個領域的綠色燃料產業。"
-Hong Kong stocks close higher,2025-08-20 17:18,,2025-08-20 17:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1819048-20250820.htm,"Hong Kong stocks ended higher on Wednesday, with the benchmark Hang Seng Index up 0.2 percent at 25,165.
-
-The Shanghai Composite Index finished up 1.04 percent at 3,766 after hitting an intra-day high of 3,767, the highest level in nearly a decade.
-
-The Shenzhen Component Index closed 0.9 percent higher at 11,926. (Xinhua)"
 Pop Mart shares up after near-400pc profit surge in H1,2025-08-20 17:15,,2025-08-20 17:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1819041-20250820.htm,"Shares of Chinese toymaker Pop Mart on Wednesday reversed course and rose 12.5 percent, the most in almost four months, after the company posted a nearly 400 percent surge in net profit in the first half of the year, compared to the same period last year. 
 
 The increase also came as the company's chief executive, Wang Ning, said at an earnings conference that the firm, which is the maker of Labubu dolls, is well positioned to hit its annual target revenue of 20 billion yuan for this year, adding that ""reaching 30 billion yuan should be quite easy"". 
@@ -753,8 +760,8 @@ Video clips circulating online showed thick smoke and flames coming from the str
 Police said the hut on Shek O Village Road caught fire at around 1pm. 
 
 The blaze was put out at around 2pm after firefighters arrived at the scene."
-政府採購飲用水事件　鑫鼎鑫男董事女股東涉違商品說明條例被捕,2025-08-20 15:53,,2025-08-20 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819034-20250820.htm, 
 政府採購飲用水事件　鑫鼎鑫男董事女股東涉違商品條例被海關拘捕,2025-08-20 15:53,,2025-08-20 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819034-20250820.htm, 
+政府採購飲用水事件　鑫鼎鑫男董事女股東涉違商品說明條例被捕,2025-08-20 15:53,,2025-08-20 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819034-20250820.htm, 
 滬股高收1%　創10年新高　滬深兩市成交額再縮減,2025-08-20 15:13,,2025-08-20 16:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819031-20250820.htm,"內地股市反彈，尾市升幅擴大，滬深兩市成交額進一步縮減至2.41萬億元人民幣。白酒、半導體股造好，影視、創新藥股份下跌。
 
 上證指數反覆向上，早段跌至3700點附近，收市報3766點，升38點，升幅1.04%，創10年新高。
@@ -928,31 +935,3 @@ Some cross harbour bus services were affected, as authorities closed off the imm
 新增清單涵蓋範圍，包括風力渦輪機及零部件、移動式起重機、推土機和其他重型設備、軌道車輛、壓縮機和泵等。
 
 不少企業擔心，美國的做法將推高成本，對企業利潤空間，構成沉重打擊。美國自6月4日起將所有貿易伙伴的鋼鋁產品關稅，從25%上調至50%，英國除外，已招致多國反對和批評。"
-"Penicillin allergy often misdiagnosed, say researchers",2025-08-20 12:40,,2025-08-20 13:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1819009-20250820.htm,"Researchers at the University of Hong Kong’s faculty of medicine on Wednesday said people told they are allergic to penicillin should undergo tests as around 90 percent may have been wrongly diagnosed.
-
-This comes after the researchers analysed over 4,700 knee replacement procedures performed at Queen Mary Hospital between 1993 and 2021.
-
-They found that those believed to have a penicillin allergy were five times more likely to develop a periprosthetic joint infection after surgery, leaving them needing further treatment.
-
-The team said during surgical procedures, those thought to have the allergy are given alternatives to penicillin which are less effective and increase their chances of complications.
-
-But actual testing for the allergy is not common, the researchers said. 
-
-“Usual people would not feel this is a big issue, as they have been labelled for decades of their life, it hasn’t really affected them. But now we realise even in situations like this, in surgeries and this very common type of surgery [joint replacement surgery], it may affect the outcome,” said Dr Philip Li, who led the research. 
- 
-“Having this common label does have a bit of a consequence in overall healthcare and the long term outcomes of patients,” he added. 
-
-The researchers have launched a pilot scheme at the university’s community pharmacy to allow people to have tests to see if they are allergic to penicillin. 
-
-They said the programme has been well-received by patients since its launch last year, and they hope it can be expanded to other community pharmacies in future."
-恒指半日跌142點　泡泡瑪特破頂　升幅近9%,2025-08-20 12:37,,2025-08-20 13:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1819006-20250820.htm,"港股連跌5個交易日，恒生指數在25000點水平上落，初段最多跌逾230點，低見24887點，其後一度近乎收復所有失地，中午收市報24980點，跌142點，跌幅近0.6%，半日主板成交額1444億元。
-
-科技指數在5500點水平爭持，半日報5472點，跌幅近1.3%。ATMXJ下跌，阿里巴巴和京東跌逾1%。
-
-翰森製藥跌近8%，是半日跌幅最大的藍籌股，公司計劃折讓6.5%配股，集資約39.2億元。
-
-網上醫療平台股受壓，家電和體育用品股向下。
-
-舜宇光學公布業績後升近7%，是表現最好的恒指及科指成份股。部分本地地產及收租股、中資金融股向上。
-
-另外，泡泡瑪特半日收報305元創新高，升幅近9%，成交額近62億元，是最大成交額港股。"
