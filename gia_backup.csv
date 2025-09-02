@@ -1,17 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
 港匯指數,2025-09-02 15:50,2025-09-02 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200221.htm,二○二五年九月二日（星期二）的港幣匯率指數為一百零三點六（和昨日指數相同）。
 Effective Exchange Rate Index,2025-09-02 15:50,2025-09-02 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200223.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, September 2, 2025 is 103.6(same as yesterday's index)."
-日本進口水產的檢測情況,2025-09-02 15:40,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200595.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由九月一日中午截至今日（九月二日）中午，食安中心已對150個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共162 461個日本進口食物樣本（包括106 281個水產及其製品、海藻及海鹽樣本）及共36 800個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 Inspection of aquatic products imported from Japan,2025-09-02 15:40,2025-09-02 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200596.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -23,6 +12,17 @@ Inspection of aquatic products imported from Japan,2025-09-02 15:40,2025-09-02 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 162 461 samples of food imported from Japan (including 106 281 samples of aquatic and related products, seaweeds and sea salt) and 36 800 samples of local catch respectively. All the samples passed the tests."
+日本進口水產的檢測情況,2025-09-02 15:40,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200595.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由九月一日中午截至今日（九月二日）中午，食安中心已對150個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共162 461個日本進口食物樣本（包括106 281個水產及其製品、海藻及海鹽樣本）及共36 800個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 外匯基金票據投標結果,2025-09-02 15:18,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200563.htm,"下稿代香港金融管理局發出︰
 
 外匯基金票據投標結果：
@@ -435,6 +435,19 @@ HK$15,600 MN
 
 
 "
+香港海關檢獲約一百二十七萬元懷疑冒牌貨物（附圖）,2025-09-02 15:15,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200564.htm,"香港海關八月十三日在屯門內河船碼頭海關驗貨場檢獲約七千七百件懷疑冒牌貨物，包括球鞋、手袋和球衣，估計市值約一百二十七萬元。
+
+海關當日透過風險評估，抽查一個從內地抵港的四十呎貨櫃。經檢查後，海關人員在貨櫃內檢獲該批懷疑冒牌貨物。
+
+初步調查顯示，該批懷疑冒牌貨物將會轉口至海外地區。
+
+案件仍在調查中。
+
+海關會繼續透過風險評估和情報分析嚴厲執法，打擊冒牌物品和走私活動。
+
+根據《商品說明條例》，任何人進出口冒牌物品，即屬違法，一經定罪，最高可被判罰款五十萬元及監禁五年。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑冒牌活動。"
 選舉委員會界別分組補選投票通知卡已寄給投票人／獲授權代表,2025-09-02 15:15,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200295.htm,"二○二五年選舉委員會（選委會）界別分組補選將於九月七日（星期日）舉行，以填補六個選委會界別分組的席位空缺。選舉事務處已向該六個需競逐的界別分組約3 600名投票人／獲授權代表寄出投票通知卡，通知他們投票時間及應前往獲編配的投票站投票。
 
 選舉事務處向投票人／獲授權代表寄出的選舉郵件內，除附有投票通知卡外，亦有他們獲編配投票站的位置圖、投票程序簡介、所屬界別分組的候選人簡介，以及廉政公署宣傳廉潔選舉的單張。
@@ -478,19 +491,6 @@ Customs will continue to take stringent enforcement action against counterfeit g
 Under the Trade Descriptions Ordinance, any person who imports or exports any goods to which a forged trademark is applied commits an offence. The maximum penalty upon conviction is a fine of $500,000 and imprisonment for five years.
 
 Members of the public may report any suspected counterfeiting activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-香港海關檢獲約一百二十七萬元懷疑冒牌貨物（附圖）,2025-09-02 15:15,2025-09-02 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200564.htm,"香港海關八月十三日在屯門內河船碼頭海關驗貨場檢獲約七千七百件懷疑冒牌貨物，包括球鞋、手袋和球衣，估計市值約一百二十七萬元。
-
-海關當日透過風險評估，抽查一個從內地抵港的四十呎貨櫃。經檢查後，海關人員在貨櫃內檢獲該批懷疑冒牌貨物。
-
-初步調查顯示，該批懷疑冒牌貨物將會轉口至海外地區。
-
-案件仍在調查中。
-
-海關會繼續透過風險評估和情報分析嚴厲執法，打擊冒牌物品和走私活動。
-
-根據《商品說明條例》，任何人進出口冒牌物品，即屬違法，一經定罪，最高可被判罰款五十萬元及監禁五年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑冒牌活動。"
 連場大雨的八月,2025-09-02 15:00,2025-09-02 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200283.htm,"主要受八月上旬與活躍西南季候風及高空擾動相關的大雨及八月中旬數個熱帶氣旋影響，八月遠較正常多雨。天文台錄得全月總雨量939.2毫米，較八月正常值453.2毫米高超過一倍，是有紀錄以來八月份的第三高。雖然首半年雨量遠低於正常，但由於七月及八月出現連場大雨，本年首八個月累積雨量為1 985.3毫米，追上同期正常值的1 921.5毫米。本月雲量亦遠較正常多，平均雲量為百分之八十一，較正常值百分之七十高百分之十一，是有紀錄以來八月份的其中一個第四高。雖然八月平均氣溫29.0度只較正常高0.3度，但連同氣溫高於正常的六月及七月，本年六月至八月的夏季較正常炎熱。夏季平均最低氣溫27.2度、平均最高氣溫31.9度及平均氣溫29.1度，分別是有紀錄以來同期的其中一個第六高、其中一個第七高及其中一個第九高。
 
 受一股西南氣流影響，八月首日本港天氣酷熱及部分時間有陽光，而下午部分地區有大驟雨及雷暴，北區錄得超過70毫米雨量。一股活躍西南季候風及高空擾動於八月二日至五日為廣東沿岸帶來大驟雨及狂風雷暴。連場大雨導致天文台需要在四日內三度發出黑色暴雨警告。八月五日天文台總部錄得破紀錄368.9毫米的日雨量，是自一八八四年有紀錄以來八月份的最高日雨量。這單日雨量已是八月雨量正常值的八成以上。在這四日，天文台的累積雨量接近600毫米，而將軍澳及慈雲山的雨量更超過800毫米。在傾盆大雨下，八月五日早上天文台氣溫下降至全月最低的24.0度。
@@ -582,15 +582,6 @@ The Chairman of the MSEC, Mr Wilfred Ng, said today (September 2), ""This world-
 The ""M"" Mark System aims to encourage and help local National Sports Associations and private or non-government organisations to organise more major international sports events and nurture them into sustainable undertakings. Sports events meeting the assessment criteria will be considered for ""M"" Mark status by the MSEC. Funding support will also be provided to some events. The ""M"" Mark System aims to promote the development of major sports events, cultivate a sustainable sporting culture, enhance Hong Kong's image as a centre for major international sports events and bring tangible economic benefits to our community.
 
 For details of ""M"" Mark events, please visit www.mevents.org.hk."
-大型體育活動事務委員會向「李寧二零二五香港公開羽毛球錦標賽　滙豐世界羽聯世界巡迴賽超級500」頒授「M」品牌認可,2025-09-02 14:45,2025-09-02 15:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200289.htm,"下稿代大型體育活動事務委員會發出：
-
-大型體育活動事務委員會向於九月九至十四日在香港體育館舉行的「李寧二零二五香港公開羽毛球錦標賽 滙豐世界羽聯世界巡迴賽超級500」頒授「M」品牌認可。
-
-委員會主席吳守基今日（九月二日）表示：「這項世界級賽事雲集奧運獎牌得主和來自世界各地的羽毛球精英，將吸引許多本地、海外和內地的羽毛球愛好者，有助推廣旅遊和促進經濟。我相信屆時中國香港隊將會在主場全力以赴，爭取佳績。」
-
-「M」品牌計劃旨在鼓勵及協助本地體育總會、私人或非政府機構舉辦更多大型國際體育活動，並加以扶植，使有關活動得以持續舉行。各類符合審批準則的體育活動有機會獲委員會授予「M」品牌認可，部分活動更會獲得撥款資助。設立「M」品牌制度的目的是推動發展大型體育活動，為香港培養可持續的體育文化，並把香港的形象提高為國際體育盛事之都，為社會帶來實質的經濟利益。
-
-有關「M」品牌活動的詳情，請瀏覽www.mevents.org.hk。"
 "Major Sports Events Committee awards ""M"" Mark status to LI-NING Hong Kong Open Badminton Championships 2025 part of HSBC BWF World Tour Super 500  ",2025-09-02 14:45,2025-09-02 15:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200285.htm,"The following is issued on behalf of the Major Sports Events Committee:
 
 The Major Sports Events Committee (MSEC) has awarded ""M"" Mark status to the LI-NING Hong Kong Open Badminton Championships 2025 part of the HSBC BWF World Tour Super 500, which will be held from September 9 to 14 at the Hong Kong Coliseum.
@@ -600,6 +591,15 @@ The Chairman of the MSEC, Mr Wilfred Ng, said today (September 2), ""This world-
 The ""M"" Mark System aims to encourage and help local National Sports Associations and private or non-government organisations to organise more major international sports events and nurture them into sustainable undertakings. Sports events meeting the assessment criteria will be considered for ""M"" Mark status by the MSEC. Funding support will also be provided to some events. The ""M"" Mark System aims to promote the development of major sports events, cultivate a sustainable sporting culture, enhance Hong Kong's image as a centre for major international sports events and bring tangible economic benefits to our community.
 
 For details of ""M"" Mark events, please visit www.mevents.org.hk."
+大型體育活動事務委員會向「李寧二零二五香港公開羽毛球錦標賽　滙豐世界羽聯世界巡迴賽超級500」頒授「M」品牌認可,2025-09-02 14:45,2025-09-02 15:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200289.htm,"下稿代大型體育活動事務委員會發出：
+
+大型體育活動事務委員會向於九月九至十四日在香港體育館舉行的「李寧二零二五香港公開羽毛球錦標賽 滙豐世界羽聯世界巡迴賽超級500」頒授「M」品牌認可。
+
+委員會主席吳守基今日（九月二日）表示：「這項世界級賽事雲集奧運獎牌得主和來自世界各地的羽毛球精英，將吸引許多本地、海外和內地的羽毛球愛好者，有助推廣旅遊和促進經濟。我相信屆時中國香港隊將會在主場全力以赴，爭取佳績。」
+
+「M」品牌計劃旨在鼓勵及協助本地體育總會、私人或非政府機構舉辦更多大型國際體育活動，並加以扶植，使有關活動得以持續舉行。各類符合審批準則的體育活動有機會獲委員會授予「M」品牌認可，部分活動更會獲得撥款資助。設立「M」品牌制度的目的是推動發展大型體育活動，為香港培養可持續的體育文化，並把香港的形象提高為國際體育盛事之都，為社會帶來實質的經濟利益。
+
+有關「M」品牌活動的詳情，請瀏覽www.mevents.org.hk。"
 一名入境旅客因進口另類吸煙產品罪成判囚（附圖）,2025-09-02 14:38,2025-09-02 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200553.htm,"​一名入境男旅客因進口另類吸煙產品，違反《進出口條例》，今日（九月二日）在西九龍裁判法院被判處監禁六個月。
 
 海關人員於七月七日在香港國際機場截查一名二十一歲抵港男旅客，並在其攜帶的個人行李內檢獲約四萬二千二百件另類吸煙產品，估計市值共約十二萬六千六百元。該名抵港旅客隨即被捕。
@@ -618,8 +618,8 @@ Customs welcomes the sentence. The custodial sentence has imposed a considerable
 Under the IEO, a person who imports an alternative smoking product into Hong Kong commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
 
 Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-Postal services to Norway subject to delay  ,2025-09-02 14:08,2025-09-02 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200539.htm,"âHongkong Post announced today (September 2) that, as advised by the postal administration of Norway, mail delivery services to postcode areas 7600–8299 and 8600–8999 are subject to delay due to a landslide."
 寄往挪威的郵遞服務延誤,2025-09-02 14:08,2025-09-02 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200541.htm,​香港郵政今日（九月二日）宣布，接獲挪威郵政機關通知，因受山泥傾瀉影響，郵政編碼地區7600–8299及8600–8999的郵件派遞服務會有所延誤。
+Postal services to Norway subject to delay  ,2025-09-02 14:08,2025-09-02 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200539.htm,"âHongkong Post announced today (September 2) that, as advised by the postal administration of Norway, mail delivery services to postcode areas 7600–8299 and 8600–8999 are subject to delay due to a landslide."
 DH reminds public to take precautions against heat-related illnesses during very hot weather,2025-09-02 06:46,2025-09-02 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200001.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (September 2) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke during very hot weather.
 
 In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
@@ -657,6 +657,19 @@ Wear a wide-brimmed hat or use an umbrella.
 âIf symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
 
 âThe public may obtain more information from the DH's Health Education Infoline (2833 0111), heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast, UV Indexand weather information for hiking and mountaineering; and press releases of the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
+Very Hot Weather Warning issued,2025-09-02 06:45,2025-09-02 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200002.htm,"Attention TV/radio announcers:
+
+Please broadcast the following as soon as possible:
+
+The Hong Kong Observatory has issued the Very Hot Weather Warning.
+
+To prevent heat stroke, avoid prolonged activities outdoors.
+
+If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
+
+Drink plenty of water, and avoid beverages containing caffeine or alcohol.
+
+If you feel sick, consult a doctor right away."
 酷熱天氣警告已發出,2025-09-02 06:45,2025-09-02 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200004.htm,"電台及電視台當值宣布員注意：
 
 請盡速播出下列特別報告：
@@ -708,26 +721,6 @@ Wear a wide-brimmed hat or use an umbrella.
 若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
 
 市民可透過以下途徑，取得更多資料：衞生署健康教育專線（2833 0111）、中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
-Very Hot Weather Warning issued,2025-09-02 06:45,2025-09-02 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/02/P2025090200002.htm,"Attention TV/radio announcers:
-
-Please broadcast the following as soon as possible:
-
-The Hong Kong Observatory has issued the Very Hot Weather Warning.
-
-To prevent heat stroke, avoid prolonged activities outdoors.
-
-If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
-
-Drink plenty of water, and avoid beverages containing caffeine or alcohol.
-
-If you feel sick, consult a doctor right away."
-駐布魯塞爾經貿辦支持香港管弦樂團歐洲巡演及阿姆斯特丹皇家音樂廳首演（附圖）,2025-09-01 23:34,2025-09-02 02:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100783.htm,"香港管弦樂團（港樂）於八月三十日及三十一日在阿姆斯特丹皇家音樂廳演出，這不僅是港樂首次登上這座享譽國際的殿堂舞台，亦為其二○二五至二六年度歐洲巡演揭開序幕。香港駐布魯塞爾經濟貿易辦事處（駐布魯塞爾經貿辦）全力支持是次巡演，彰顯香港特別行政區政府推動香港文化發展與促進國際交流的承諾。
-
-於八月三十日在阿姆斯特丹舉行的招待會上，香港駐歐盟特派代表翁佩雯致辭時表示：「今晚的演出不僅是一場音樂盛會，更是對文化卓越、國際合作，以及香港獨特的東西薈萃的精神的禮讚。駐布魯塞爾經貿辦十分榮幸能支持這次巡演，這也是我們持續推動香港藝術才華登上國際舞台的重要舉措之一。」
-
-翁佩雯亦指出，港樂只是香港充滿活力、多元文化景象中的亮眼例子之一，她誠邀觀眾親身體驗香港這座城市—一個將東方傳統與西方創意完美交融於藝術文化、時尚、美食與生活方式的國際都會。
-​
-在梵志登的領導下，港樂將於二○二五至二六樂季開始前，於荷蘭、意大利及奧地利舉辦一系列共四場音樂會。其後，樂團將繼續巡演，在意大利南蒂羅爾梅拉諾音樂節及奧地利格拉費內格音樂節上獻藝。"
 "HKETO, Brussels supports Hong Kong Philharmonic Orchestra's European Tour and Debut at Het Concertgebouw (with photos)",2025-09-01 23:34,2025-09-02 02:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100786.htm,"The Hong Kong Philharmonic Orchestra (HK Phil) performed at Het Concertgebouw in Amsterdam on August 30 and 31, marking its debut at the renowned venue and the opening of its 2025/26 European tour. The Hong Kong Economic and Trade Office in Brussels (HKETO, Brussels) supports the tour as part of the Hong Kong Special Administrative Region Government's commitment to promoting Hong Kong's cultural development and international engagement.
 
 Speaking at a reception held in Amsterdam on August 30, the Special Representative for Hong Kong Economic and Trade Affairs to the European Union, Ms Shirley Yung said, ""Tonight's performance is more than just a concert – it is a celebration of cultural excellence, international collaboration, and the unique spirit of Hong Kong where East meets West. At the Hong Kong Economic and Trade Office in Brussels, we are proud to support this tour as part of our ongoing commitment to showcasing Hong Kong's artistic brilliance on the global stage.""
@@ -749,6 +742,13 @@ Speaking at a reception held in Amsterdam on August 30, the Special Representati
 She also mentioned that the Hong Kong Philharmonic is just one shining example of the city's vibrant and dynamic cultural scene, and encouraged the audience to experience Hong Kong, a place where Eastern heritage and Western innovation blend seamlessly, in its arts and culture, fashion, cuisine, and lifestyle.
 
 Under the direction of Jaap van Zweden, the HK Phil is presenting a series of four concerts across the Netherlands, Italy and Austria ahead of its 2025-26 season. The HK Phil will continue its tour with performances at the Südtirol Festival Merano in Italy and the Grafenegg Festival in Austria."
+駐布魯塞爾經貿辦支持香港管弦樂團歐洲巡演及阿姆斯特丹皇家音樂廳首演（附圖）,2025-09-01 23:34,2025-09-02 02:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100783.htm,"香港管弦樂團（港樂）於八月三十日及三十一日在阿姆斯特丹皇家音樂廳演出，這不僅是港樂首次登上這座享譽國際的殿堂舞台，亦為其二○二五至二六年度歐洲巡演揭開序幕。香港駐布魯塞爾經濟貿易辦事處（駐布魯塞爾經貿辦）全力支持是次巡演，彰顯香港特別行政區政府推動香港文化發展與促進國際交流的承諾。
+
+於八月三十日在阿姆斯特丹舉行的招待會上，香港駐歐盟特派代表翁佩雯致辭時表示：「今晚的演出不僅是一場音樂盛會，更是對文化卓越、國際合作，以及香港獨特的東西薈萃的精神的禮讚。駐布魯塞爾經貿辦十分榮幸能支持這次巡演，這也是我們持續推動香港藝術才華登上國際舞台的重要舉措之一。」
+
+翁佩雯亦指出，港樂只是香港充滿活力、多元文化景象中的亮眼例子之一，她誠邀觀眾親身體驗香港這座城市—一個將東方傳統與西方創意完美交融於藝術文化、時尚、美食與生活方式的國際都會。
+​
+在梵志登的領導下，港樂將於二○二五至二六樂季開始前，於荷蘭、意大利及奧地利舉辦一系列共四場音樂會。其後，樂團將繼續巡演，在意大利南蒂羅爾梅拉諾音樂節及奧地利格拉費內格音樂節上獻藝。"
 上水游泳池暫時關閉,2025-09-01 21:08,2025-09-01 21:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100779.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列報告，並於適當時間重複廣播：
@@ -832,15 +832,6 @@ Reporter: According to WIPO, Shenzhen is the main contributor in terms of PCT ap
 Secretary for Innovation, Technology and Industry: Based on my understanding, the chief economist of WIPO mentioned Huawei and Tencent as major players in the PCT applications. I can also tell you, besides big companies, many universities in Hong Kong have seen their patent application numbers increase very rapidly. For the number of the patent application increase in the past two years, our top-100 five universities in Hong Kong have patent applications with the increase rate of 27 per cent and 23.4 per cent. Hong Kong's patent application increases very fast. Take Huawei as an example: Huawei has built a big research institute in Hong Kong Science Park. The number of employees last year has increased to over 700. The number will continue to increase. That means many big companies have set research institutes in Hong Kong. They want to fully utilise advantages of Hong Kong to enhance their R&D (research and development). I believe the patent number in the overall Greater Bay Area will continue to increase. Thank you.
 
 (Please also refer to the Chinese portion of the remarks.)"
-Three incoming passengers convicted and jailed for importing alternative smoking products (with photos),2025-09-01 19:25,2025-09-01 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100705.htm,"Two male and one female incoming passengers were sentenced to six months' imprisonment at the West Kowloon Magistrates' Courts today (September 1) for importing alternative smoking products, in contravention of the Import and Export Ordinance(IEO).
-
-Customs officers intercepted a 42-year-old incoming male passenger at Hong Kong International Airport (HKIA) on July 4 and seized about 92 600 alternative smoking products from his personal baggage with an estimated market value of about $278,000. In addition, Customs officers intercepted a 21-year-old incoming female passenger and a 27-year-old incoming male passenger at HKIA on July 5 and seized about 91 000 alternative smoking products respectively from their personal baggage with an estimated market value of about $546,000 in total. The three passengers were subsequently arrested.
-
-Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
-
-Under the IEO, a person who imports an alternative smoking product into Hong Kong commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en/)."
 ​三名入境旅客因進口另類吸煙產品罪成判囚（附圖）,2025-09-01 19:25,2025-09-01 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100702.htm,"兩男一女入境旅客因進口另類吸煙產品，違反《進出口條例》，今日（九月一日）在西九龍裁判法院均被判處監禁六個月。
 
 海關人員於七月四日在香港國際機場截查一名四十二歲抵港男旅客，並在其攜帶的個人行李內檢獲約九萬二千六百件另類吸煙產品，估計市值約二十七萬八千元。此外，海關人員於七月五日在香港國際機場截查一名二十一歲抵港女旅客及一名二十七歲抵港男旅客，在他們攜帶的個人行李內分別檢獲約九萬一千件另類吸煙產品，估計市值共約五十四萬六千元。三名抵港旅客隨即被捕。
@@ -850,6 +841,15 @@ Members of the public may report any suspected illicit cigarette activities to C
 根據《進出口條例》，任何人進口另類吸煙產品即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/tc/）舉報懷疑私煙活動。"
+Three incoming passengers convicted and jailed for importing alternative smoking products (with photos),2025-09-01 19:25,2025-09-01 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100705.htm,"Two male and one female incoming passengers were sentenced to six months' imprisonment at the West Kowloon Magistrates' Courts today (September 1) for importing alternative smoking products, in contravention of the Import and Export Ordinance(IEO).
+
+Customs officers intercepted a 42-year-old incoming male passenger at Hong Kong International Airport (HKIA) on July 4 and seized about 92 600 alternative smoking products from his personal baggage with an estimated market value of about $278,000. In addition, Customs officers intercepted a 21-year-old incoming female passenger and a 27-year-old incoming male passenger at HKIA on July 5 and seized about 91 000 alternative smoking products respectively from their personal baggage with an estimated market value of about $546,000 in total. The three passengers were subsequently arrested.
+
+Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
+
+Under the IEO, a person who imports an alternative smoking product into Hong Kong commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
+
+Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en/)."
 Speech by FS at 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters Ceremonial Dinner (English only)(with photos/video),2025-09-01 19:10,2025-09-01 21:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100662.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters Ceremonial Dinner today (September 1):
 
 Deputy Director-General Wang (Deputy Director General of WIPO, Ms Wang Binying), æå¯ç¹æ´¾å¡ (Deputy Commissioner of the Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Hong Kong Special Administrative Region Mr Li Yongsheng), å¼µå¯å±é· (Deputy Commissioner of the China National Intellectual Property Administration Mr Zhang Zhicheng), çå¯å±é· (Deputy Director of Bureau III of the Hong Kong and Macao Affairs Office of the State Council, Mr Wang Jie), ladies and gentlemen,
@@ -924,6 +924,43 @@ In that same spirit, I want to assure you that Hong Kong is open and welcoming. 
 Ladies and gentlemen, I know you will enjoy this special evening and the innovative company all about you.
 
 Thank you."
+基孔肯雅熱最新情況,2025-09-01 19:10,2025-09-01 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100606.htm,"衞生署衞生防護中心（中心）表示，截至今日（九月一日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。
+
+中心總監徐樂堅醫生說：「根據廣東省疾病預防控制局的資訊，過去一周（八月二十四日至三十日）廣東省新增225宗基孔肯雅熱個案，較過去兩周分別為830宗（八月十日至十六日）及336宗（八月十七日至二十三日）進一步減少。全部均為輕症病例，沒有嚴重或死亡個案。雖然廣東省的新增病例數字過去一個月持續遞減，但現時全球多國正爆發基孔肯雅熱，市民外遊前必須注意當地情況。中心亦呼籲學校按照食物環境衞生署（食環署）的滅蚊指引，加強防止校園範圍積水的工作及清除蚊子滋生的地方，務必提醒教職員及學生，應時刻做好防蚊及個人保護措施，防範蚊傳疾病在校園傳播。」
+
+本港今年累計錄得13宗基孔肯雅熱確診個案，全部屬輸入個案。本港在二○一六至二○一九年每年錄得介乎一至11宗輸入個案。
+
+繼續加強防控
+
+食環署繼續進行病媒調查及針對性滅蚊工作，並於確診病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，包括：
+
+
+在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
+每星期巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
+加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
+
+
+​此外，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。此外，港口衞生科人員亦會向旅客派發宣傳單張、為抵港人士進行體溫篩查、為發燒或出現相關病徵的旅客進行健康評估，及在有需要時轉介旅客到醫院作出跟進。
+
+​為加強長者對預防蚊傳疾病的意識，衞生署長者健康服務的外展分隊已透過在長者地區中心及長者鄰舍中心舉行的講座，向長者講解相關疾病的預防及提供外遊健康建議。此外，外展分隊亦已提醒全港所有安老院舍加強防控蚊患措施。衞生署轄下的母嬰健康院、學生健康服務中心及健康評估中心亦會提醒孕婦、嬰幼兒照顧者、學生有關蚊傳疾病的症狀和預防措施。
+
+為加強對少數族裔的支援，有關基孔肯雅熱的重要資訊亦已翻譯成10種少數族裔語言（包括印度語、尼泊爾語、巴基斯坦語、泰語、印尼語、他加祿語、越南語、旁遮普語、僧伽羅語及孟加拉語）並上載至衞生防護中心網站（www.chp.gov.hk/tc/static/104022.html）。
+
+徐樂堅醫生提醒市民，無論在本地或是外遊期間都必須時刻採取妥善防蚊和個人保護措施。若出現相關病徵，特別是從蚊傳疾病流行地區回港後，應立即求醫，並通知醫生相關旅遊史。使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
+
+
+先仔細閱讀標籤說明；
+在進入可能被蚊叮的範圍前使用；
+塗在外露皮膚及衣服；
+孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
+先塗防曬霜，再塗昆蟲驅避劑；
+遵照標籤說明，只於有需要時重複使用；及
+除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
+
+​
+​​此外，食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
+
+市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 Update on chikungunya fever,2025-09-01 19:10,2025-09-01 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100607.htm,"  The Centre for Health Protection (CHP) of the Department of Health (DH) announced that as of 5pm today (September 1), nonew cases of chikungunya fever (CF) had been recorded.
 
 ""According to information from the Guangdong Provincial Disease Control and Prevention Administration, there were 225 new CF cases in Guangdong in the past week (August 24 to 30), showing a further decrease compared to the previous two weeks, which reported 830 cases (August 10 to 16) and 336 cases (August 17 to 23) respectively. All cases were mild, with no severe or fatal cases reported. Although the number of new CF cases in Guangdong Province has continued to decline over the past month, many countries worldwide are experiencing CF outbreaks. Members of the public should check the situation of the destinations before travelling abroad. The CHP also urged schools to follow the Food and Environmental Hygiene Department (FEHD)'s anti-mosquito guidelines to strengthen efforts to clear stagnant water on school premises and eliminate mosquito breeding sites. They should also remind staff members and students to enact mosquito prevention and personal protective measures to prevent the spread of mosquito-borne diseases on campus,"" the Controller of the CHP, Dr Edwin Tsui, said.
@@ -998,43 +1035,6 @@ In that same spirit, I want to assure you that Hong Kong is open and welcoming. 
 Ladies and gentlemen, I know you will enjoy this special evening and the innovative company all about you.
 
 Thank you."
-基孔肯雅熱最新情況,2025-09-01 19:10,2025-09-01 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100606.htm,"衞生署衞生防護中心（中心）表示，截至今日（九月一日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。
-
-中心總監徐樂堅醫生說：「根據廣東省疾病預防控制局的資訊，過去一周（八月二十四日至三十日）廣東省新增225宗基孔肯雅熱個案，較過去兩周分別為830宗（八月十日至十六日）及336宗（八月十七日至二十三日）進一步減少。全部均為輕症病例，沒有嚴重或死亡個案。雖然廣東省的新增病例數字過去一個月持續遞減，但現時全球多國正爆發基孔肯雅熱，市民外遊前必須注意當地情況。中心亦呼籲學校按照食物環境衞生署（食環署）的滅蚊指引，加強防止校園範圍積水的工作及清除蚊子滋生的地方，務必提醒教職員及學生，應時刻做好防蚊及個人保護措施，防範蚊傳疾病在校園傳播。」
-
-本港今年累計錄得13宗基孔肯雅熱確診個案，全部屬輸入個案。本港在二○一六至二○一九年每年錄得介乎一至11宗輸入個案。
-
-繼續加強防控
-
-食環署繼續進行病媒調查及針對性滅蚊工作，並於確診病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，包括：
-
-
-在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
-每星期巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
-加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
-
-
-​此外，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。此外，港口衞生科人員亦會向旅客派發宣傳單張、為抵港人士進行體溫篩查、為發燒或出現相關病徵的旅客進行健康評估，及在有需要時轉介旅客到醫院作出跟進。
-
-​為加強長者對預防蚊傳疾病的意識，衞生署長者健康服務的外展分隊已透過在長者地區中心及長者鄰舍中心舉行的講座，向長者講解相關疾病的預防及提供外遊健康建議。此外，外展分隊亦已提醒全港所有安老院舍加強防控蚊患措施。衞生署轄下的母嬰健康院、學生健康服務中心及健康評估中心亦會提醒孕婦、嬰幼兒照顧者、學生有關蚊傳疾病的症狀和預防措施。
-
-為加強對少數族裔的支援，有關基孔肯雅熱的重要資訊亦已翻譯成10種少數族裔語言（包括印度語、尼泊爾語、巴基斯坦語、泰語、印尼語、他加祿語、越南語、旁遮普語、僧伽羅語及孟加拉語）並上載至衞生防護中心網站（www.chp.gov.hk/tc/static/104022.html）。
-
-徐樂堅醫生提醒市民，無論在本地或是外遊期間都必須時刻採取妥善防蚊和個人保護措施。若出現相關病徵，特別是從蚊傳疾病流行地區回港後，應立即求醫，並通知醫生相關旅遊史。使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
-
-
-先仔細閱讀標籤說明；
-在進入可能被蚊叮的範圍前使用；
-塗在外露皮膚及衣服；
-孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
-先塗防曬霜，再塗昆蟲驅避劑；
-遵照標籤說明，只於有需要時重複使用；及
-除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
-
-​
-​​此外，食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
-
-市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 ​創新科技及工業局局長會見傳媒談話內容,2025-09-01 18:36,2025-09-01 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100634.htm,"以下是創新科技及工業局局長孫東教授今日（九月一日）出席世界知識產權組織《2025年全球創新指數》世界百強創新集群排名發布活動後會見傳媒的談話內容：
 
 創新科技及工業局局長：各位媒體朋友，大家下午好。世界知識產權組織剛剛公布了《2025年全球創新指數》世界百強創新集群的排名，當中「深圳—香港—廣州」集群排名全球第一。特區政府對此表示歡迎，這個排名充分體現了粵港澳大灣區卓越的創新能力已經被全世界高度認可，同時非常感謝世界知識產權組織將發布活動首次選址香港舉辦，讓我們都有機會能夠在現場親身目睹這個排名的發布。
@@ -1050,16 +1050,16 @@ Thank you."
 記者：想跟進一下，就是香港跟內地的合作。剛才陳部長也提到，比如說在河套合作區，積極地跟內地對接，在河套區未來的合作方向是怎麼樣？政策會如何促進香港跟內地的融合？會有甚麼措施拆牆鬆綁、促進河套區的發展？
 
 創新科技及工業局局長：大家看到這次排名之所以成功，有賴於粵港澳大灣區我們一些核心城市的集體合作，「深圳—香港—廣州」這個集群實際上代表了我們未來發展的方向。下一步，我相信特區政府會進一步深化與大灣區其他兄弟城市的緊密合作。剛才談到河套是我們一個重要的合作平台，今年下半年河套香港園區就要開園，目前很多一些來自海內外的機構已經開始準備入駐。這裏面有非常好的科技公司，也有國際最頂尖的大學，陸續地進入河套。過去幾星期，我們跟深圳以及國家有關方面正在緊鑼密鼓地商討一些具體的創新要素跨境流動，包括數據以及生物樣本等等，務求使得今後我們河套的發展是一個獨特的、一個新的創科發展園區。除了河套以外，我們還有前海、南沙，這些都是「十四五」規劃中粵港澳大灣區重要的合作平台。我相信未來香港一定會深化與大灣區兄弟城市的合作，大家做到珠聯璧合、共同發展。"
-個人資料私隱專員宣誓擁護《基本法》和效忠香港特區（附圖）,2025-09-01 18:28,2025-09-01 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100620.htm,"鍾麗玲於二○二五年八月十五日再度獲委任為個人資料私隱專員，並由九月四日起生效。
-
-鍾麗玲今日（九月一日）在行政長官李家超監誓下作出誓言，宣誓擁護《中華人民共和國香港特別行政區基本法》，效忠中華人民共和國香港特別行政區，盡忠職守，遵守法律，廉潔奉公，為香港特別行政區服務。
-
-政府發言人表示：「個人資料私隱專員宣誓擁護《基本法》和效忠香港特區，體現『愛國者治港』的原則和責任。」"
 Privacy Commissioner for Personal Data swears to uphold Basic Law and bear allegiance to HKSAR (with photo),2025-09-01 18:28,2025-09-01 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100621.htm,"Ms Ada Chung Lai-ling was reappointed as the Privacy Commissioner for Personal Data (Privacy Commissioner) on August 15, 2025, with effect from September 4.
 
 Ms Chung today (September 1) took an oath, which was administered by the Chief Executive, Mr John Lee, and swore that she will uphold the Basic Law of the Hong Kong Special Administrative Region (HKSAR) of the People's Republic of China (PRC), bear allegiance to the HKSAR of the PRC and serve the HKSAR conscientiously, dutifully, in full accordance with the law, honestly and with integrity.
 
 A Government spokesperson said, ""The Privacy Commissioner took the oath to uphold the Basic Law and bear allegiance to the HKSAR, thereby embodying the principle and responsibility of 'patriots administering Hong Kong'."""
+個人資料私隱專員宣誓擁護《基本法》和效忠香港特區（附圖）,2025-09-01 18:28,2025-09-01 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100620.htm,"鍾麗玲於二○二五年八月十五日再度獲委任為個人資料私隱專員，並由九月四日起生效。
+
+鍾麗玲今日（九月一日）在行政長官李家超監誓下作出誓言，宣誓擁護《中華人民共和國香港特別行政區基本法》，效忠中華人民共和國香港特別行政區，盡忠職守，遵守法律，廉潔奉公，為香港特別行政區服務。
+
+政府發言人表示：「個人資料私隱專員宣誓擁護《基本法》和效忠香港特區，體現『愛國者治港』的原則和責任。」"
 ​水務署成立管道機械人聯合實驗室（附圖）,2025-09-01 18:03,2025-09-01 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100209.htm,"水務署今日（九月一日）宣布成立管道機械人聯合實驗室，專注於開發管道機械人技術，並促進研發本地的水管檢測機械人，並命名為「智管探」，以進入帶壓水管檢測供水管道內的狀況。水務署與香港理工大學及深圳市博銘維技術股份有限公司簽訂合作備忘錄，共同開發相關技術。
 
 水務署署長黃恩諾在典禮致辭時表示，水務署一直致力與不同機構合作，研發和應用先進科技以推動香港智慧水務發展，並積極探索創新的方法，以提升供水管道檢測的技術和效率。水務署期望透過管道機械人聯合實驗室加速開發能應用在不同管道情況的智能機械人，進行高精準度的檢查，藉此減低水管爆裂和滲漏的風險，甚至有望監測水質狀況。
@@ -1137,6 +1137,58 @@ The launch event of the 2025 GII Ranking of World's Top 100 Innovation Clusters,
 元朗－天水圍天耀邨天耀社區中心
 
 除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
+衞生署公布退伍軍人病個案最新情況,2025-09-01 17:00,2025-09-01 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100547.htm,"衞生署衞生防護中心今日（九月一日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
+
+在八月二十四日至三十日期間，衞生防護中心錄得三宗退伍軍人病個案，當中一宗屬輸入個案，兩宗屬社區感染，全部病人均有長期病患。詳情如下：
+
+社區感染個案：
+
+76歲男病人，居於觀塘區；及
+65歲男病人，居於東區。
+
+
+輸入個案：
+
+61歲男病人，於潛伏期內曾到內地。
+
+
+衞生防護中心正展開流行病學調查，以找出可能的感染源頭和高風險接觸因素。初步調查顯示三宗個案全部屬散發個案，沒有資料顯示這些個案與本港早前錄得的其他確診個案有流行病學關連。
+
+截至八月三十日，今年錄得114宗退伍軍人病個案。本港於二○二四年及二○二三年分別錄得135及121宗退伍軍人病個案。
+
+男士、50歲以上人士、吸煙人士、酗酒人士和免疫力弱的人士均較易感染退伍軍人病。另外，有些情況也可能增加患病風險，包括供水系統保養欠佳、居所使用舊式供水系統或附近設有冷卻水塔或噴水池、使用電熱水器、按摩池或溫泉，以及近期曾到酒店或船隻。
+
+退伍軍人桿菌可存在於多種環境，尤其適合在攝氏20至45度的溫水生長。它可存活在不同水源環境，如水缸、冷熱水系統、冷卻水塔、按摩池、噴水池和家居呼吸道醫療器材等。病人有機會因吸入人工製水系統釋出受污染的水點和霧氣而受感染。在處理花園土壤、堆肥和培養土時亦可能受感染。
+
+免疫力弱的人士應：
+
+
+以無菌水或經煮沸的水飲用、刷牙及漱口；
+避免使用加濕器或其他可產生霧氣的設備；及
+如要使用加濕器或其他可產生霧氣的設備，應使用無菌水或煮沸後剛冷卻的食水，不應直接從水龍頭注水入盛水器。此外，應按照製造商的指示定期清洗及保養加濕器或設備，不要讓設備儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水。
+
+
+​市民應採取以下健康建議：
+
+
+注意個人衞生；
+不要吸煙和避免飲酒；
+定期或按製造商建議的次數，為水龍頭及花灑頭的隔濾器進行檢查、清潔、除垢及消毒；
+如果食水系統保養妥善，無需安裝家庭式濾水器。由於濾水器容易堵塞而滋生微生物，故不建議使用。若選擇使用濾水器，孔徑大小應為0.2微米，並必須按照製造商的建議定期更換濾芯；
+至少每季排走大廈水缸的存水一次，並清洗水缸；
+每星期或在使用前為不常使用的出水口（如水龍頭、淋浴噴頭、熱水出水口等）和喉管內有水滯留的地方排水，或沖洗至少一分鐘；
+使用和保養家居呼吸道醫療器材時，需諮詢和跟從醫生專業意見，並只可用無菌水（非蒸餾水或水龍頭食水）清洗和注入容器。按照製造商的指示定期清洗及保養器材。清洗或消毒後，應用無菌水、煮沸後剛冷卻的食水，或經0.2微米孔徑濾水器過濾的水沖洗器材。切勿讓器材儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水；及
+如需處理花園土壤、堆肥和培養土：
+
+
+戴上手套及口罩；
+應使用低水壓灌溉花園和堆肥；
+慢慢開啓培養土的包裝袋，並確保開口遠離面部；
+為盆栽移盆時可將泥土弄濕，以免塵土飛揚；及
+避免在通風較差的環境工作，如密封的溫室。
+
+
+市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
 HAD opens temporary heat shelters,2025-09-01 17:00,2025-09-01 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100566.htm,"  The Home Affairs Department will continue to open 19 community halls/community centres as temporary heat shelters today (September 1).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -1284,58 +1336,6 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 
 
 ââ  The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
-衞生署公布退伍軍人病個案最新情況,2025-09-01 17:00,2025-09-01 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100547.htm,"衞生署衞生防護中心今日（九月一日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
-
-在八月二十四日至三十日期間，衞生防護中心錄得三宗退伍軍人病個案，當中一宗屬輸入個案，兩宗屬社區感染，全部病人均有長期病患。詳情如下：
-
-社區感染個案：
-
-76歲男病人，居於觀塘區；及
-65歲男病人，居於東區。
-
-
-輸入個案：
-
-61歲男病人，於潛伏期內曾到內地。
-
-
-衞生防護中心正展開流行病學調查，以找出可能的感染源頭和高風險接觸因素。初步調查顯示三宗個案全部屬散發個案，沒有資料顯示這些個案與本港早前錄得的其他確診個案有流行病學關連。
-
-截至八月三十日，今年錄得114宗退伍軍人病個案。本港於二○二四年及二○二三年分別錄得135及121宗退伍軍人病個案。
-
-男士、50歲以上人士、吸煙人士、酗酒人士和免疫力弱的人士均較易感染退伍軍人病。另外，有些情況也可能增加患病風險，包括供水系統保養欠佳、居所使用舊式供水系統或附近設有冷卻水塔或噴水池、使用電熱水器、按摩池或溫泉，以及近期曾到酒店或船隻。
-
-退伍軍人桿菌可存在於多種環境，尤其適合在攝氏20至45度的溫水生長。它可存活在不同水源環境，如水缸、冷熱水系統、冷卻水塔、按摩池、噴水池和家居呼吸道醫療器材等。病人有機會因吸入人工製水系統釋出受污染的水點和霧氣而受感染。在處理花園土壤、堆肥和培養土時亦可能受感染。
-
-免疫力弱的人士應：
-
-
-以無菌水或經煮沸的水飲用、刷牙及漱口；
-避免使用加濕器或其他可產生霧氣的設備；及
-如要使用加濕器或其他可產生霧氣的設備，應使用無菌水或煮沸後剛冷卻的食水，不應直接從水龍頭注水入盛水器。此外，應按照製造商的指示定期清洗及保養加濕器或設備，不要讓設備儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水。
-
-
-​市民應採取以下健康建議：
-
-
-注意個人衞生；
-不要吸煙和避免飲酒；
-定期或按製造商建議的次數，為水龍頭及花灑頭的隔濾器進行檢查、清潔、除垢及消毒；
-如果食水系統保養妥善，無需安裝家庭式濾水器。由於濾水器容易堵塞而滋生微生物，故不建議使用。若選擇使用濾水器，孔徑大小應為0.2微米，並必須按照製造商的建議定期更換濾芯；
-至少每季排走大廈水缸的存水一次，並清洗水缸；
-每星期或在使用前為不常使用的出水口（如水龍頭、淋浴噴頭、熱水出水口等）和喉管內有水滯留的地方排水，或沖洗至少一分鐘；
-使用和保養家居呼吸道醫療器材時，需諮詢和跟從醫生專業意見，並只可用無菌水（非蒸餾水或水龍頭食水）清洗和注入容器。按照製造商的指示定期清洗及保養器材。清洗或消毒後，應用無菌水、煮沸後剛冷卻的食水，或經0.2微米孔徑濾水器過濾的水沖洗器材。切勿讓器材儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水；及
-如需處理花園土壤、堆肥和培養土：
-
-
-戴上手套及口罩；
-應使用低水壓灌溉花園和堆肥；
-慢慢開啓培養土的包裝袋，並確保開口遠離面部；
-為盆栽移盆時可將泥土弄濕，以免塵土飛揚；及
-避免在通風較差的環境工作，如密封的溫室。
-
-
-市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
 香港與世界知識產權組織簽署「WIPO Lex裁判文書」數據庫諒解備忘錄（附圖）,2025-09-01 16:53,2025-09-01 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100453.htm,"香港特別行政區政府今日（九月一日）與世界知識產權組織（WIPO）簽署有關「WIPO Lex裁判文書」數據庫的諒解備忘錄，加強資訊共享，以共建更緊密、知識層面更豐富的全球知識產權社群。
 
 「WIPO Lex裁判文書」數據庫提供免費和公開的全球重要知識產權相關司法判決。行政長官在二○二四年《施政報告》中提出，香港將在中央政府的支持下參與數據庫。根據諒解備忘錄，香港將向數據庫提供司法機構在知識產權領域中具指導性的判決，便利國際知識產權界取得相關判決，同時彰顯香港知識產權司法水平。
@@ -1385,6 +1385,20 @@ Inspection of aquatic products imported from Japan,2025-09-01 16:40,2025-09-01 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共162 235個日本進口食物樣本（包括106 131個水產及其製品、海藻及海鹽樣本）及共36 750個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+於二○二五年到期的銀色債券系列的第六個付息日息率,2025-09-01 16:30,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100500.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局以香港特別行政區政府代表身分於今日（九月一日）公布，在政府債券計劃的零售債券發行計劃下發行，於二○二五年到期的銀色債券系列（發行編號：03GB2509R）（債券），其第六個付息日之相關年息率。
+
+根據二○二二年八月九日的債券發行通函，債券的第六個付息日為二○二五年九月十五日（註），而適用於該付息日的息率，則定於二○二五年九月一日，按當前的浮息及定息的較高者作出釐定及公布。
+
+於二○二五年九月一日，債券的浮息及定息分別如下：
+
+浮息： +1.52%（附件）
+定息： +4.00%
+
+根據上列之浮息及定息，現釐定及公布債券第六次付息以年息4.00厘計算。
+
+註：債券的第六個付息日原訂為二○二五年九月十四日（星期日），由於該日並非債券發行通函所定義的香港營業日，有關付息日更改為二○二五年九月十五日，即根據前述通函訂定的下一個營業日，利息亦將累計至新的付款日，即二○二五年九月十五日。"
 二零二五年七月份零售業銷貨額臨時統計數字,2025-09-01 16:30,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100343.htm,"政府統計處今日（九月一日）發表最新的零售業銷貨額數字。
 
 二零二五年七月的零售業總銷貨價值的臨時估計為297億元，較二零二四年同月上升1.8%。二零二五年六月的零售業總銷貨價值的修訂估計較二零二四年同月上升0.7%。與二零二四年同期比較，二零二五年首七個月合計的零售業總銷貨價值的臨時估計下跌2.6%。
@@ -1467,20 +1481,6 @@ Further information
   More detailed statistics are given in the ""Report on Monthly Survey of Retail Sales"". Users can browse and download this publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1080003&scode=530).
 
   Users who have enquiries about the survey results may contact the Distribution Services Statistics Section of C&SD (Tel: 3903 7400; E-mail : mrs@censtatd.gov.hk)."
-於二○二五年到期的銀色債券系列的第六個付息日息率,2025-09-01 16:30,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100500.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局以香港特別行政區政府代表身分於今日（九月一日）公布，在政府債券計劃的零售債券發行計劃下發行，於二○二五年到期的銀色債券系列（發行編號：03GB2509R）（債券），其第六個付息日之相關年息率。
-
-根據二○二二年八月九日的債券發行通函，債券的第六個付息日為二○二五年九月十五日（註），而適用於該付息日的息率，則定於二○二五年九月一日，按當前的浮息及定息的較高者作出釐定及公布。
-
-於二○二五年九月一日，債券的浮息及定息分別如下：
-
-浮息： +1.52%（附件）
-定息： +4.00%
-
-根據上列之浮息及定息，現釐定及公布債券第六次付息以年息4.00厘計算。
-
-註：債券的第六個付息日原訂為二○二五年九月十四日（星期日），由於該日並非債券發行通函所定義的香港營業日，有關付息日更改為二○二五年九月十五日，即根據前述通函訂定的下一個營業日，利息亦將累計至新的付款日，即二○二五年九月十五日。"
 Interest rate for sixth interest payment of Silver Bond Series due 2025,2025-09-01 16:30,2025-09-01 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100499.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority, as representative of the Hong Kong Special Administrative Region Government, announced today (September 1) the relevant per annum interest rate for the sixth interest payment of Silver Bond Series due 2025 (Issue Number 03GB2509R) (the Bonds) issued under the Retail Bond Issuance Programme of the Government Bond Programme.
@@ -1496,59 +1496,6 @@ Based on the Floating Rate and Fixed Rate set out above, the relevant interest r
 
 Note: The original sixth interest payment was on September 14, 2025 (Sunday). As the aforesaid payment date is not a business day in Hong Kong under the definition of the Issue Circular, the interest payment date will be rescheduled to September 15, 2025, i.e. the next day which is a business day in Hong Kong in accordance with the aforesaid Circular. The interest will be accrued to September 15, 2025, the new payment date."
 Speech by FS at launch event of 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters (English only) (with photo),2025-09-01 16:25,2025-09-01 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100544.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the launch event of the 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters today (September 1):
-
-Deputy Director-General Wang Binying (Deputy Director General of World Intellectual Property Organization, Ms Wang Binying), å°æ¬çé³å®¶æå¯é¨é· (Vice Minister of the Ministry of Science and Technology, Dr Chen Jiachang), å¼µå¿æå¯å±é·(Deputy Commissioner of the China National Intellectual Property Administration, Dr Zhang Zhicheng), çæ·å¯å±é· (Deputy Director of Bureau III of the Hong Kong and Macao Affairs Office of the State Council, Mr Wang Jie), çåæé¨é· (Director-General of the Department of Educational, Scientific and Technological Affairs of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region, Dr Wang Weiming), distinguished guests, ladies and gentlemen,
-
-Good afternoon. It is a great pleasure to join you today for the launch of the Global Innovation Index (GII) Ranking of the World's Top 100 Innovation Clusters.
-
-And a warm welcome to the scientists, academics, policymakers and business leaders joining us from around the world. Today's gathering presents an exceptional opportunity to exchange insights, learn from one another, and explore new avenues for collaboration in innovation and technology.
-
-Let me also express my sincere appreciation to the World Intellectual Property Organization (WIPO) for selecting Hong Kong as the host city for this landmark occasion. My gratitude also goes to the central authorities and organisations for their steadfast support in making this event a reality.
-
-The evolving GII Innovation Clusters
-
-For years now, the GII's Science and Technology Cluster ranking has been globally recognised as a rigorous assessment of innovation concentration. By analysing patent filings and scientific publications, it offers governments, investors and researchers a valuable snapshot of regional strengths and potential partnerships.
-
-This year, the ranking has been revamped as “Innovation Clusters”, with the timely and judicious addition of venture capital deals as a key indicator. Innovation today is not only driven by ideas and talent, but also by capital - the essential fuel enabling inspiring ideas to emerge as real-world enterprises.
-
-Hong Kong and the Greater Bay Area: a leading innovation powerhouse
-
-Allow me to turn to Hong Kong and the Guangdong-Hong Kong-Macao Greater Bay Area (GBA). Together, we are exceptionally well positioned to become one of the world's most dynamic and influential innovation clusters, with Hong Kong playing a pivotal role.
-
-Under the “one country, two systems” framework, Hong Kong enjoys unparalleled advantages. We have seamless and often priority access to the GBA and the broader Mainland market. No less important, we uphold the rule of law, maintain robust intellectual property protection, ensure the free flow of capital, data and talent, and are fully aligned with international standards and best practices.
-
-Let me highlight three areas - technology, capital and talent - in which Hong Kong offers unique value.
-
-First, technology. Hong Kong is a centre of academic and research excellence. We are home to five universities ranked among the world's top 100 - three of which are in the global top 20 in artificial intelligence and data science, and two in the top 25 for medical sciences. Our city also hosts 15 State Key Laboratories and six National Engineering Research Centres.
-
-In recent years, we have made significant investments to strengthen our entire innovation chain, from fundamental research to outcome commercialisation and advanced manufacturing. We are strategically focused on sectors in which we hold clear advantages: artificial intelligence, biotech, fintech, new energy and new materials.
-
-We are also proactive in attracting leading global enterprises with cutting-edge technologies to Hong Kong. To date, we have welcomed more than 80 such companies, committing a total investment of about US$6.5 billion, while creating more than 20 000 high-quality jobs.
-
-Collaboration with our sister cities in the GBA further amplifies our potential. Guangzhou and Shenzhen lead in application and deployment, while Dongguan and Huizhou have compelling strengths in advanced manufacturing. Together, these cities offer immense production capacity, commercialisation opportunities and access to a vast consumer market.
-
-To accelerate this collaboration, Hong Kong is developing its Northern Metropolis. A strategic area bordering Shenzhen, it covers one-third of Hong Kong's landmass. It will include the Shenzhen–Hong Kong Science and Technology Innovation Co-operation Zone, which will pioneer cross-boundary policies that enable the seamless flow of talent, capital, data and other resources.
-
-Second, capital. Hong Kong is Asia's premier financial centre. We offer deep liquidity, a wide spectrum of financing channels and a supportive environment for innovation.
-
-Consider our stock market. In the first seven months of this year, Hong Kong led the world in IPO fundraising, with 53 new listings raising about US$16 billion. Follow-on fundraising reached US$44 billion, nearly double the figure over the same period in 2024. Over the years, we have introduced targeted reforms to boost the listing of innovation and technology companies.
-
-Beyond the equities market, Hong Kong is blessed with a vibrant ecosystem of angel investors, venture capital and private equity funds, supporting companies at every stage of growth.
-
-We are also committed to nurturing patient capital. In 2022, we established the Hong Kong Investment Corporation (HKIC). It invests directly and co-invests with private partners in strategic sectors such as hard tech, biotech and green technology. To date, the HKIC has invested in more than 120 projects across various sectors, leveraging more than five dollars of market capital for every single dollar it invested.
-
-Third, talent, the cornerstone of successful innovation. More than home to top-tier universities and research institutes, Hong Kong offers exceptional quality of life. With a safe and cosmopolitan environment, world-class education and abundant career opportunities across finance, technology and beyond, Hong Kong is a city where talent can flourish.
-
-We are attracting global innovation talent through a variety of admission schemes, including overseas Chinese scientists and researchers. With Hong Kong's international outlook and the GBA's vast market potential, we are confident that our region will continue to attract the brightest minds from around the world.
-
-Concluding remarks
-
-Taken together, Hong Kong and the Greater Bay Area combine the strengths of the San Francisco Bay Area and the New York Bay Area - bringing together world-class tech research, innovative companies, deep financial markets, manufacturing capabilities and a massive consumer base.
-
-Ladies and gentlemen, later today, you will hear from prominent speakers across the GBA and other global innovation clusters. They will share their insights on the opportunities that lie ahead in their regions.
-
-I trust that today’s dynamic discussions will inspire even greater collaboration across borders and disciplines. And I wish you an enjoyable stay in Hong Kong, Asia's world city. Thank you very much."
-Speech by FS at launch event of 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters (English only) (with photo/video),2025-09-01 16:25,2025-09-01 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100544.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the launch event of the 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters today (September 1):
 
 Deputy Director-General Wang Binying (Deputy Director General of World Intellectual Property Organization, Ms Wang Binying), å°æ¬çé³å®¶æå¯é¨é· (Vice Minister of the Ministry of Science and Technology, Dr Chen Jiachang), å¼µå¿æå¯å±é·(Deputy Commissioner of the China National Intellectual Property Administration, Dr Zhang Zhicheng), çæ·å¯å±é· (Deputy Director of Bureau III of the Hong Kong and Macao Affairs Office of the State Council, Mr Wang Jie), çåæé¨é· (Director-General of the Department of Educational, Scientific and Technological Affairs of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region, Dr Wang Weiming), distinguished guests, ladies and gentlemen,
 
@@ -1654,6 +1601,59 @@ Taken together, Hong Kong and the Greater Bay Area combine the strengths of the 
 Ladies and gentlemen, later today, you will hear from prominent speakers across the GBA and other global innovation clusters. They will share their insights on the opportunities that lie ahead in their regions.
 
 I trust that today’s dynamic discussions will inspire even greater collaboration across borders and disciplines. And I wish you an enjoyable stay in Hong Kong, Asia's world city. Thank you very much."
+Speech by FS at launch event of 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters (English only) (with photo/video),2025-09-01 16:25,2025-09-01 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100544.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the launch event of the 2025 Global Innovation Index Ranking of World's Top 100 Innovation Clusters today (September 1):
+
+Deputy Director-General Wang Binying (Deputy Director General of World Intellectual Property Organization, Ms Wang Binying), å°æ¬çé³å®¶æå¯é¨é· (Vice Minister of the Ministry of Science and Technology, Dr Chen Jiachang), å¼µå¿æå¯å±é·(Deputy Commissioner of the China National Intellectual Property Administration, Dr Zhang Zhicheng), çæ·å¯å±é· (Deputy Director of Bureau III of the Hong Kong and Macao Affairs Office of the State Council, Mr Wang Jie), çåæé¨é· (Director-General of the Department of Educational, Scientific and Technological Affairs of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region, Dr Wang Weiming), distinguished guests, ladies and gentlemen,
+
+Good afternoon. It is a great pleasure to join you today for the launch of the Global Innovation Index (GII) Ranking of the World's Top 100 Innovation Clusters.
+
+And a warm welcome to the scientists, academics, policymakers and business leaders joining us from around the world. Today's gathering presents an exceptional opportunity to exchange insights, learn from one another, and explore new avenues for collaboration in innovation and technology.
+
+Let me also express my sincere appreciation to the World Intellectual Property Organization (WIPO) for selecting Hong Kong as the host city for this landmark occasion. My gratitude also goes to the central authorities and organisations for their steadfast support in making this event a reality.
+
+The evolving GII Innovation Clusters
+
+For years now, the GII's Science and Technology Cluster ranking has been globally recognised as a rigorous assessment of innovation concentration. By analysing patent filings and scientific publications, it offers governments, investors and researchers a valuable snapshot of regional strengths and potential partnerships.
+
+This year, the ranking has been revamped as “Innovation Clusters”, with the timely and judicious addition of venture capital deals as a key indicator. Innovation today is not only driven by ideas and talent, but also by capital - the essential fuel enabling inspiring ideas to emerge as real-world enterprises.
+
+Hong Kong and the Greater Bay Area: a leading innovation powerhouse
+
+Allow me to turn to Hong Kong and the Guangdong-Hong Kong-Macao Greater Bay Area (GBA). Together, we are exceptionally well positioned to become one of the world's most dynamic and influential innovation clusters, with Hong Kong playing a pivotal role.
+
+Under the “one country, two systems” framework, Hong Kong enjoys unparalleled advantages. We have seamless and often priority access to the GBA and the broader Mainland market. No less important, we uphold the rule of law, maintain robust intellectual property protection, ensure the free flow of capital, data and talent, and are fully aligned with international standards and best practices.
+
+Let me highlight three areas - technology, capital and talent - in which Hong Kong offers unique value.
+
+First, technology. Hong Kong is a centre of academic and research excellence. We are home to five universities ranked among the world's top 100 - three of which are in the global top 20 in artificial intelligence and data science, and two in the top 25 for medical sciences. Our city also hosts 15 State Key Laboratories and six National Engineering Research Centres.
+
+In recent years, we have made significant investments to strengthen our entire innovation chain, from fundamental research to outcome commercialisation and advanced manufacturing. We are strategically focused on sectors in which we hold clear advantages: artificial intelligence, biotech, fintech, new energy and new materials.
+
+We are also proactive in attracting leading global enterprises with cutting-edge technologies to Hong Kong. To date, we have welcomed more than 80 such companies, committing a total investment of about US$6.5 billion, while creating more than 20 000 high-quality jobs.
+
+Collaboration with our sister cities in the GBA further amplifies our potential. Guangzhou and Shenzhen lead in application and deployment, while Dongguan and Huizhou have compelling strengths in advanced manufacturing. Together, these cities offer immense production capacity, commercialisation opportunities and access to a vast consumer market.
+
+To accelerate this collaboration, Hong Kong is developing its Northern Metropolis. A strategic area bordering Shenzhen, it covers one-third of Hong Kong's landmass. It will include the Shenzhen–Hong Kong Science and Technology Innovation Co-operation Zone, which will pioneer cross-boundary policies that enable the seamless flow of talent, capital, data and other resources.
+
+Second, capital. Hong Kong is Asia's premier financial centre. We offer deep liquidity, a wide spectrum of financing channels and a supportive environment for innovation.
+
+Consider our stock market. In the first seven months of this year, Hong Kong led the world in IPO fundraising, with 53 new listings raising about US$16 billion. Follow-on fundraising reached US$44 billion, nearly double the figure over the same period in 2024. Over the years, we have introduced targeted reforms to boost the listing of innovation and technology companies.
+
+Beyond the equities market, Hong Kong is blessed with a vibrant ecosystem of angel investors, venture capital and private equity funds, supporting companies at every stage of growth.
+
+We are also committed to nurturing patient capital. In 2022, we established the Hong Kong Investment Corporation (HKIC). It invests directly and co-invests with private partners in strategic sectors such as hard tech, biotech and green technology. To date, the HKIC has invested in more than 120 projects across various sectors, leveraging more than five dollars of market capital for every single dollar it invested.
+
+Third, talent, the cornerstone of successful innovation. More than home to top-tier universities and research institutes, Hong Kong offers exceptional quality of life. With a safe and cosmopolitan environment, world-class education and abundant career opportunities across finance, technology and beyond, Hong Kong is a city where talent can flourish.
+
+We are attracting global innovation talent through a variety of admission schemes, including overseas Chinese scientists and researchers. With Hong Kong's international outlook and the GBA's vast market potential, we are confident that our region will continue to attract the brightest minds from around the world.
+
+Concluding remarks
+
+Taken together, Hong Kong and the Greater Bay Area combine the strengths of the San Francisco Bay Area and the New York Bay Area - bringing together world-class tech research, innovative companies, deep financial markets, manufacturing capabilities and a massive consumer base.
+
+Ladies and gentlemen, later today, you will hear from prominent speakers across the GBA and other global innovation clusters. They will share their insights on the opportunities that lie ahead in their regions.
+
+I trust that today’s dynamic discussions will inspire even greater collaboration across borders and disciplines. And I wish you an enjoyable stay in Hong Kong, Asia's world city. Thank you very much."
 教育局局長會見傳媒談話內容（只有中文）（附圖）,2025-09-01 16:24,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100506.htm,"以下是教育局局長蔡若蓮博士今日（九月一日）上午出席大埔舊墟公立學校開學禮後與傳媒的談話內容：
 
 教育局局長：各位傳媒朋友、各位市民，今日是新學年的第一日，是開學日。我在此祝願全港學校開學事事順利，老師工作愉快，同學學業進步。
@@ -1685,31 +1685,3 @@ I trust that today’s dynamic discussions will inspire even greater collaborati
 教育局局長：2,500元學生津貼方面，我們的教育資源和社會資源有限。我們希望提高所有公帑資源的效能，集中資源幫助最有需要的同學。除了學校的全方位學習津貼，或照顧學習差異、對非華語和有特殊學習需要同學的津貼外，我們亦為經濟有困難的同學提供各種經濟幫助，包括在校免費午膳和上網費津貼計劃。我們會密切留意，亦會注意同學的實際需要，同時容許學校因應實際情況對一些因家庭變故而有經濟需要的同學作出特別安排。未來我們亦會朝這方向，更加精準和有針對性地幫助有經濟需要的同學。
 
 至於剛才提到長假期間我們可如何關心同學的精神健康，正如我之前所說，目前我們面對的社會越來越複雜，大家亦非常關心同學的精神健康問題，因此長假期除了學校安排一些愉快和有益身心的活動給同學外，我亦鼓勵不同持份者，包括家長或相關團體，整個社會總動員，一起關心年青一代的健康愉快成長。多謝。"
-港匯指數,2025-09-01 16:00,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100192.htm,"二○二五年九月一日（星期一）的港幣匯率指數為一百零三點六（和上星期六指數比較上升零點一）。
-
-二○二五年八月三十日（星期六）的港幣匯率指數為一百零三點五（和上星期五指數比較下降零點二）。"
-專業服務協進支援計劃接受新一輪申請,2025-09-01 16:00,2025-09-01 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100489.htm,"專業服務協進支援計劃下的主計劃今日（九月一日）邀請新一輪撥款申請，歡迎專業團體、工商組織及研究院所等非分配利潤機構提交建議項目。
-
-為數二億元的支援計劃旨在資助由業界主導的非牟利項目，以加強本港專業服務行業與境外同業的交流和合作、推動相關宣傳活動，以及提高本港專業服務水平和對外競爭力。
-
-支援計劃下主計劃每個獲批項目的最高資助額為三百萬元或合資格項目成本總額的百分之九十，以較低者為準。主計劃涵蓋的專業服務行業眾多，包括會計、法律及爭議解決、建築、工程、醫療、資訊及通訊科技、設計，以及技術測試及分析等服務。無論是只涉及個別專業服務或跨界別專業服務的項目，均可申請資助。一般而言，推行項目的直接開支均可獲得資助，例如人手開支、活動場地及布置費用、製作及推廣費用、相關項目工作人員及積極參加者在香港以外的交通及住宿費用等。主計劃亦會資助香港境外舉行並為期較長的專業實習／見習計劃，參加人士的交通費和住宿費亦可獲資助。
-
-截至二○二五年八月初，已有超過一百二十個不同項目獲得主計劃資助，當中包括在香港及香港以外地方舉辦的項目。這些項目包括提升本地專業人士水平的能力提升項目，例如培訓課程、工作坊及考察團；展示本港專業服務行業優勢的外展及推廣活動，例如路演、推介會及參加外地展覽；加強本港專業人士與境外相類行業互動聯繫的交流活動，例如外訪活動及本地舉辦的國際會議和專題講座；對香港專業服務具潛力的境外市場進行調查，以至為專業人士制訂良好做法指引和手冊等。有關主計劃的細節及已獲資助項目的詳情，可瀏覽www.pass.gov.hk/main/tc/home。
-
-此外，政府已在支援計劃下預留五千萬元，成立專業人士參與活動津貼計劃（津貼計劃），津貼香港主要專業團體在疫情穩定後參與由政府（例如香港經濟貿易辦事處）和香港貿易發展局舉辦的相關活動，以加強向內地及海外市場推廣香港的競爭優勢和專業服務。津貼計劃的細節和活動名單載於www.pass.gov.hk/psp/tc。來自支援計劃下合資格專業行業的香港專業人士可善用津貼計劃的資助參加相關活動。
-
-主計劃和津貼計劃全年接受項目及活動建議申請，並按季度進行批核。新一輪申請截止日期為二○二五年十一月三十日。政府本月會為有意向支援計劃申請資助的機構舉辦簡介會。如有需要，支援計劃秘書處也可提供一對一的諮詢服務，以討論初步的項目構思或正在規劃中的項目。如欲登記參加簡介會、安排諮詢或有其他查詢，請聯絡支援計劃秘書處（電話：3655 5418或電郵：pass@cedb.gov.hk）。"
-Professional Services Advancement Support Scheme invites new round of applications,2025-09-01 16:00,2025-09-01 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100487.htm,"The Main Programme under the Professional Services Advancement Support Scheme (PASS) is inviting a new round of applications for project proposals starting today (September1) from non-profit-distributing organisations such as professional bodies, trade and industrial organisations and research institutes.
-
-PASS, with a total allocation of $200million, aims at funding non-profit-making industry-led projects to increase exchanges and co-operation between Hong Kong's professional services and external counterparts, promote relevant publicity activities, and enhance the standards and external competitiveness of Hong Kong's professional services.
-
-The maximum grant for each approved project under the Main Programme of PASS is $3million or 90per cent of the total eligible project cost, whichever is lower. A wide range of professional services, such as accounting, legal and dispute resolution, architecture, engineering, healthcare, information and communications technology, design and technical testing and analysis, are eligible for the Main Programme. Sector-specific projects and cross-sectoral projects are both welcome. Expenses directly incurred for implementing a project, such as manpower costs, venue and set-up costs, production and promotion costs, and the project team and active participants' travel and accommodation costs outside Hong Kong, are typically eligible for funding support under the Scheme. Funding support may also be provided for travel and accommodation costs incurred by participants of relatively longer professional internships or attachment programmes outside Hong Kong which are funded by the Main Programme.
-
-Up to early August2025, more than 120projects had been funded under the Main Programme, including project deliverables in and outside Hong Kong. The deliverables include capacity-building programmes for enhancing the standards of local professionals, such as training programmes, workshops and study tours; outreach and promotional activities for showcasing the strengths of Hong Kong's professional services, such as roadshows, promotional seminars and participation in exhibitions outside Hong Kong; exchange activities for deepening interaction between Hong Kong professionals and their external counterparts, such as visits to other economies and international conferences and seminars held in Hong Kong; and research projects on potential external markets for Hong Kong professional services and development of best practice guidelines and manuals for professionals. Details about the Main Programme and its funded projects are available at www.pass.gov.hk/main/en/home.
-
-Furthermore, with a view to stepping up the promotion of Hong Kong's competitive edges and professional services to the Mainland and overseas markets, $50million has been set aside for the Professionals Participation Subsidy Programme (PSP) under PASS to subsidise Hong Kong major professional bodies to participate in relevant activities organised by the Government (such as Hong Kong Economic and Trade Offices) and the Hong Kong Trade Development Council after the pandemic situation has stabilised. Details of the PSP and its list of activities are available at www.pass.gov.hk/psp. Hong Kong professionals from the eligible professional sectors under PASS may make use of the PSP subsidy to join the relevant activities.
-
-The Main Programme and the PSP receive applications for project and activity proposals all year round, and they are processed on a quarterly basis. The deadline for the new round of applications is November30,2025. A briefing session will be held this month for organisations interested in applying for the PASS funding. One-on-one consultations are also available upon request for discussing preliminary project ideas or projects in the planning stage. To register for the briefing session, schedule a consultation, or for other enquiries, please contact the PASS Secretariat at 36555418 or pass@cedb.gov.hk."
-Effective Exchange Rate Index,2025-09-01 16:00,2025-09-01 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/01/P2025090100193.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, September 1, 2025 is 103.6 (up 0.1 against last Saturday's index).
-
-âThe effective exchange rate index for the Hong Kong dollar on Saturday, August 30, 2025 is 103.5 (down 0.2 against last Friday's index)."
