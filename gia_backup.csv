@@ -1,72 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-選舉委員會界別分組補選投票率（1300）,2025-09-07 13:15,2025-09-07 13:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700423.htm,"二○二五年選舉委員會界別分組補選截至今日（九月七日）下午一時的投票率如下：
-
-
-
-
-界別分組
-投票人人數
-累積投票人數
-累積投票率（%）
-
-
-第一界別
-
-
-商界（第三）
-106
-106
-100.00%
-
-
-第二界別
-
-
-建築、測量、都市規劃及園境界
-54
-26
-48.15%
-
-
-科技創新界
-49
-49
-100.00%
-
-
-第三界別
-
-
-勞工界
-675
-532
-78.81%
-
-
-第四界別
-
-
-港九分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
-1,505
-1,347
-89.50%
-
-
-新界分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
-1,242
-1,098
-88.41%
-
-
-總數︰
-3,631
-3,158
-86.97%
-
-
-
-
-請注意投票數字只作臨時參考之用。"
 Election Committee Subsector By-elections voter turnout (1300),2025-09-07 13:15,2025-09-07 13:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700424.htm," The voter turnout figures for the 2025 Election Committee Subsector By-elections as at 1pm today (September 7) are as follows:
 
 
@@ -135,6 +67,74 @@ Total:
 
 
  The voter turnout figures are for temporary reference only."
+選舉委員會界別分組補選投票率（1300）,2025-09-07 13:15,2025-09-07 13:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700423.htm,"二○二五年選舉委員會界別分組補選截至今日（九月七日）下午一時的投票率如下：
+
+
+
+
+界別分組
+投票人人數
+累積投票人數
+累積投票率（%）
+
+
+第一界別
+
+
+商界（第三）
+106
+106
+100.00%
+
+
+第二界別
+
+
+建築、測量、都市規劃及園境界
+54
+26
+48.15%
+
+
+科技創新界
+49
+49
+100.00%
+
+
+第三界別
+
+
+勞工界
+675
+532
+78.81%
+
+
+第四界別
+
+
+港九分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
+1,505
+1,347
+89.50%
+
+
+新界分區委員會、地區撲滅罪行委員會及地區防火委員會委員的代表
+1,242
+1,098
+88.41%
+
+
+總數︰
+3,631
+3,158
+86.97%
+
+
+
+
+請注意投票數字只作臨時參考之用。"
 選舉委員會界別分組補選投票率（1200）,2025-09-07 12:15,2025-09-07 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700383.htm,"二○二五年選舉委員會界別分組補選截至今日（九月七日）中午十二時的投票率如下：
 
 
@@ -407,19 +407,6 @@ Total:
 
 
  The voter turnout figures are for temporary reference only."
-Liquor Licensing Board to meet on Tuesday,2025-09-07 11:00,2025-09-07 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090500248.htm,"The following is issued on behalf of the Liquor Licensing Board:
-
-The Liquor Licensing Board will meet on Tuesday (September 9) to consider an application for renewal of a liquor licence.
-
-The application is:
-
-New Territories:
-----------
-Chiu Fung Hot Pot Restaurant in Yuen Long
-
-The board will also consider revocation of the liquor licences of 2 KIMS' POCHA in Tsim Sha Tsui and TAO Square in Tsuen Wan.
-
-The meeting will be held at 9.45am in the conference room, Room 102, 1/F, 258 Queen's Road East, Wan Chai. Members of the public are welcome to attend."
 酒牌局周二舉行會議,2025-09-07 11:00,2025-09-07 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090500244.htm,"下稿代酒牌局發出：
 
 酒牌局星期二（九月九日）舉行會議，討論一宗酒牌續期個案。
@@ -433,6 +420,19 @@ The meeting will be held at 9.45am in the conference room, Room 102, 1/F, 258 Qu
 此外，酒牌局亦會考慮撤銷位於尖沙咀的2 KIMS' POCHA及荃灣的稻坊的酒牌。
 
 酒牌局會議於上午九時四十五分在灣仔皇后大道東258號一樓102號會議室舉行，歡迎市民旁聽。"
+Liquor Licensing Board to meet on Tuesday,2025-09-07 11:00,2025-09-07 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090500248.htm,"The following is issued on behalf of the Liquor Licensing Board:
+
+The Liquor Licensing Board will meet on Tuesday (September 9) to consider an application for renewal of a liquor licence.
+
+The application is:
+
+New Territories:
+----------
+Chiu Fung Hot Pot Restaurant in Yuen Long
+
+The board will also consider revocation of the liquor licences of 2 KIMS' POCHA in Tsim Sha Tsui and TAO Square in Tsuen Wan.
+
+The meeting will be held at 9.45am in the conference room, Room 102, 1/F, 258 Queen's Road East, Wan Chai. Members of the public are welcome to attend."
 ​律政司副司長在青Teen友法師友計劃2025啟動禮致辭（只有中文）（附圖）,2025-09-07 10:52,2025-09-07 11:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700301.htm,"以下是律政司副司長張國鈞博士今日（九月七日）在青Teen友法師友計劃2025啟動禮致辭：
 
 尊敬的Roden會長（香港律師會會長湯文龍）、Sharon（香港律師會「青Teen講場」籌委會主席譚雪欣）、周一鳴處長（警務處處長）、各位立法會議員、各位律師朋友、各位同學：
@@ -637,22 +637,22 @@ SWD urges public not to take children/family members to care centres or services
 Please broadcast the following special announcement immediately, and repeat it at frequent intervals:
 
 ""Due to the issuing of Tropical Cyclone Warning Signal No. 3, the Social Welfare Department advises members of the public not to take their children or family members to services units providing after school care programmes for primary school children or elderly services centres. Those centres and services units that normally operate on Sundays and public holidays will, however, remain open to serve those whose families cannot provide alternative care for them. Members of the public who have the need for the services mentioned may contact the centres or services units concerned and confirm their operation hours in advance."""
-幼稚園及部分特殊學校停課,2025-09-07 05:00,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700148.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
-
-由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
 Classes of kindergartens and some special schools are suspended,2025-09-07 05:00,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700147.htm," Attention TV and radio duty announcers:
 
  Please broadcast the following special announcement by the Education Bureau concerning schools, and repeat it at suitable intervals:
 
 As the Tropical Cyclone Warning Signal no. 3 is now in force, classes of kindergartens, schools for children with physical disability and schools for children with intellectual disability are suspended today."
-民政事務總署緊急事故熱線已運作,2025-09-07 04:10,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700125.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播：
+幼稚園及部分特殊學校停課,2025-09-07 05:00,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700148.htm,"電台及電視台當值宣布員注意，請播出下列教育局發出有關學校的特別報告，並適時重播：
 
-由於三號熱帶氣旋警告信號已經發出，民政事務總署已設立一條二十四小時緊急事故熱線2572 8427供市民查詢有關消息。"
+由於三號熱帶氣旋警告信號現正生效，幼稚園、肢體傷殘兒童學校及智障兒童學校今日停課。"
 HAD's emergency hotline activated,2025-09-07 04:10,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700124.htm,"Attention duty announcers, radio and TV stations:
 
 Please broadcast the following as soon as possible and repeat it at suitable intervals:
 
   Following the issuing of Tropical Cyclone Warning Signal No. 3, the Home Affairs Department has activated a round-the-clock hotline, 2572 8427, for public enquiries on the tropical cyclone."
+民政事務總署緊急事故熱線已運作,2025-09-07 04:10,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700125.htm,"電台及電視台當值廣播員注意，請盡速播出並隔適當時間重播：
+
+由於三號熱帶氣旋警告信號已經發出，民政事務總署已設立一條二十四小時緊急事故熱線2572 8427供市民查詢有關消息。"
 Marine Department announcement,2025-09-07 03:00,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/07/P2025090700098.htm,"Attention duty announcers, radio and TV stations:
 
 Please broadcast the following message as soon as possible and repeat it at suitable intervals:
@@ -788,39 +788,6 @@ Maintain a balanced diet, perform physical activity regularly, take adequate res
 
 
 ââFor the latest information, members of the public can visit the CHP'sseasonal influenzaandCOVID-19 & Flu Expresswebpages."
-Update on chikungunya fever,2025-09-06 17:30,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600600.htm,"âThe Centre for Health Protection (CHP) of the Department of Health (DH) announced that as of 5pm today (September 6), no new cases of chikungunya fever (CF) had been recorded.
-
-  ""According to the World Health Organization, CF cases have been recorded in more than 110 countries/regions. Many countries worldwide experienced CF outbreaks this year, and as of July this year, over 240 000 cases had been reported in 16 countries/regions worldwide. Of these cases, about 90 were fatal. High temperatures and rainfall levels in summer continue to pose a risk of outbreaks of various mosquito-borne diseases in Hong Kong and around the world, and members of the public must remain vigilant. They must take proper mosquito control and personal protective measures both locally and during travel. Individuals experiencing relevant symptoms should seek medical advice promptly and inform their doctors if they have a travel history,"" the Controller of the CHP, Dr Edwin Tsui, said.
-
-  So far this year, Hong Kong has recorded a total of 13 confirmed CF cases. All are imported cases. From 2016 to 2019, Hong Kong recorded between one and 11 imported cases annually.
-
-Continuously strengthening prevention and control
-
-  The Food and Environmental Hygiene Department (FEHD) continues to conduct vector investigations and targeted mosquito control operations, and intensify mosquito prevention and control measures at the residences of recently confirmed patients, as well as at locations visited after the onset of symptoms. These measures include:
-
-
-carrying out intensive fogging in scrubby areas within a 250-metre radius of the relevant locations to kill adult mosquitoes;
-carrying out inspections of the locations, removing stagnant water, applying insecticides and disposing of abandoned water containers every week with a view to preventing mosquito breeding; and
-enhancing public education efforts through organising health talks, setting up mobile education stations, and distributing publicity leaflets.
-
-
-  Additionally, the CHP's Port Health Division continues to step up inspections at boundary control points and to remind cross-boundary public transport operators and other relevant parties to ensure good environmental hygiene and effective implementation of anti-mosquito measures. Furthermore, staff members of the Port Health Division distribute leaflets to travellers, conduct temperature screenings for inbound travellers, conduct health assessments for travellers with fever or related symptoms and refer them to hospitals for follow-ups when necessary.
-
-  Proper use of DEET-containing insect repellents or other effective active ingredients can prevent mosquito bites, but the following precautions should be taken when using them:
-
-
-read the label instructions carefully first;
-apply right before entering an area with a risk of mosquito bites;
-apply on exposed skin and clothing;
-use DEET of up to 30 per cent for pregnant women and up to 10 per cent for children (For children who travel to countries or areas where mosquito-borne diseases are endemic or epidemic and where exposure is likely, those aged 2 months or above can use DEET-containing insect repellents with a DEET concentration of up to 30 per cent);
-apply sunscreen first, then insect repellent;
-reapply only when needed and follow the instructions; and
-in addition to DEET, there are other insect repellents available on the market containing different active ingredients, such as IR3535 and picaridin. When using any insect repellent, the public should follow the usage instructions and precautions on the product label.
-
-
-  The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
-
-  The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
 基孔肯雅熱最新情況,2025-09-06 17:30,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600597.htm,"衞生署衞生防護中心（中心）表示，截至今日（九月六日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。
 
 中心總監徐樂堅醫生說：「根據世界衞生組織的資料顯示，超過110個國家和地區曾經錄得基孔肯雅熱本土傳播個案。今年全球多國爆發基孔肯雅熱，截至今年七月，全球16個國家／地區共錄得超過24萬宗個案，當中約90宗為死亡個案。夏季溫度及雨量處於高水平，令多種蚊傳疾病在香港，以至全球爆發的風險持續，市民不能掉以輕心，無論在本地或是外遊期間都必須時刻採取妥善防蚊和個人保護措施。若出現相關病徵，特別是從蚊傳疾病流行地區回港後，應立即求醫，並通知醫生相關旅遊史。」
@@ -854,6 +821,39 @@ in addition to DEET, there are other insect repellents available on the market c
 ​​此外，食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
 
 市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
+Update on chikungunya fever,2025-09-06 17:30,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600600.htm,"âThe Centre for Health Protection (CHP) of the Department of Health (DH) announced that as of 5pm today (September 6), no new cases of chikungunya fever (CF) had been recorded.
+
+  ""According to the World Health Organization, CF cases have been recorded in more than 110 countries/regions. Many countries worldwide experienced CF outbreaks this year, and as of July this year, over 240 000 cases had been reported in 16 countries/regions worldwide. Of these cases, about 90 were fatal. High temperatures and rainfall levels in summer continue to pose a risk of outbreaks of various mosquito-borne diseases in Hong Kong and around the world, and members of the public must remain vigilant. They must take proper mosquito control and personal protective measures both locally and during travel. Individuals experiencing relevant symptoms should seek medical advice promptly and inform their doctors if they have a travel history,"" the Controller of the CHP, Dr Edwin Tsui, said.
+
+  So far this year, Hong Kong has recorded a total of 13 confirmed CF cases. All are imported cases. From 2016 to 2019, Hong Kong recorded between one and 11 imported cases annually.
+
+Continuously strengthening prevention and control
+
+  The Food and Environmental Hygiene Department (FEHD) continues to conduct vector investigations and targeted mosquito control operations, and intensify mosquito prevention and control measures at the residences of recently confirmed patients, as well as at locations visited after the onset of symptoms. These measures include:
+
+
+carrying out intensive fogging in scrubby areas within a 250-metre radius of the relevant locations to kill adult mosquitoes;
+carrying out inspections of the locations, removing stagnant water, applying insecticides and disposing of abandoned water containers every week with a view to preventing mosquito breeding; and
+enhancing public education efforts through organising health talks, setting up mobile education stations, and distributing publicity leaflets.
+
+
+  Additionally, the CHP's Port Health Division continues to step up inspections at boundary control points and to remind cross-boundary public transport operators and other relevant parties to ensure good environmental hygiene and effective implementation of anti-mosquito measures. Furthermore, staff members of the Port Health Division distribute leaflets to travellers, conduct temperature screenings for inbound travellers, conduct health assessments for travellers with fever or related symptoms and refer them to hospitals for follow-ups when necessary.
+
+  Proper use of DEET-containing insect repellents or other effective active ingredients can prevent mosquito bites, but the following precautions should be taken when using them:
+
+
+read the label instructions carefully first;
+apply right before entering an area with a risk of mosquito bites;
+apply on exposed skin and clothing;
+use DEET of up to 30 per cent for pregnant women and up to 10 per cent for children (For children who travel to countries or areas where mosquito-borne diseases are endemic or epidemic and where exposure is likely, those aged 2 months or above can use DEET-containing insect repellents with a DEET concentration of up to 30 per cent);
+apply sunscreen first, then insect repellent;
+reapply only when needed and follow the instructions; and
+in addition to DEET, there are other insect repellents available on the market containing different active ingredients, such as IR3535 and picaridin. When using any insect repellent, the public should follow the usage instructions and precautions on the product label.
+
+
+  The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
+
+  The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
 再錄得兩宗兒童感染甲型流感的嚴重個案　衞生防護中心呼籲學童新學年盡快接種流感疫苗,2025-09-06 17:20,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600627.htm,"​衞生署衞生防護中心（中心）今日（九月六日）公布錄得兩宗兒童感染甲型流感的嚴重個案，其中一宗個案同時感染2019冠狀病毒病。中心呼籲市民時刻保持良好個人和環境衞生。學校和家長亦應盡快安排學童和子女在新學年參與季節性流感疫苗接種計劃，免費接種流感疫苗，以預防感染呼吸道疾病。
 
 中心總監徐樂堅醫生說：「接種流感疫苗是預防流感的第一道防線，可降低感染後出現嚴重併發症和死亡的機會。計及上述兩宗個案，開學後已錄得三宗兒童感染流感的嚴重個案。自今年一月起，中心累計已接獲14宗兒童感染流感病毒的嚴重個案，當中10宗未有接種二○二四／二五季度的疫苗。因此，我們希望學校和家長和我們通力合作，在新學年參與季節性流感疫苗學校外展活動或自行安排子女到家庭醫生接種流感疫苗，加強保障學童健康。」
@@ -889,43 +889,6 @@ in addition to DEET, there are other insect repellents available on the market c
 
 
 ​​市民可參閱中心的網頁，了解更多有關流感及2019冠狀病毒病及流感速遞周報的資訊。"
-民政事務總署開放臨時避暑中心,2025-09-06 17:00,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600615.htm,"民政事務總署今日（九月六日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
-
-臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
-
-如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
-
-臨時避暑中心的地點如下：
-
-香港島：
-———
-中西區－堅尼地城石山街12號1樓堅尼地城社區綜合大樓
-東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區－鴨脷洲利東邨利東社區會堂
-灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘－藍田啟田道71號藍田（西區）社區中心
-深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌葵盛西邨第六座平台葵盛社區會堂
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂
-元朗－天水圍天耀邨天耀社區中心
-
-除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
 HAD opens temporary heat shelters,2025-09-06 17:00,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600616.htm," The Home Affairs Department will continue to open 19 community halls/community centres as temporary heat shelters today (September 6).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -1021,6 +984,43 @@ Tin Yiu Community Centre
 Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf."
+民政事務總署開放臨時避暑中心,2025-09-06 17:00,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600615.htm,"民政事務總署今日（九月六日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
+
+臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
+
+如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
+
+臨時避暑中心的地點如下：
+
+香港島：
+———
+中西區－堅尼地城石山街12號1樓堅尼地城社區綜合大樓
+東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區－鴨脷洲利東邨利東社區會堂
+灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
+
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘－藍田啟田道71號藍田（西區）社區中心
+深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
+
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌葵盛西邨第六座平台葵盛社區會堂
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂
+元朗－天水圍天耀邨天耀社區中心
+
+除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
 尋回元朗失蹤男子,2025-09-06 16:55,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600625.htm,"一名在元朗失蹤的男子已被尋回。
 
 四十二歲男子陳健民九月三日上午離開其位於大棠路的住所後便告失蹤，其家人翌日（九月四日）向警方報案。
@@ -1063,23 +1063,6 @@ The Leisure and Cultural Services Department announced today (September 6) that 
 It will be reopened at 7pm today.
 
 âThe department appeals to swimmers to be considerate and to keep the swimming pools clean. They are advised not to swim after a full meal and should use the toilet facilities if necessary before swimming."
-EAC Chairman visits polling station and Central Counting Station of Election Committee Subsector By-elections (with photos),2025-09-06 16:10,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600355.htm,"The following is issued on behalf of the Electoral Affairs Commission:
-
- The 2025 Election Committee Subsector (ECSS) By-elections will be held tomorrow (September 7). The Chairman of the Electoral Affairs Commission (EAC), Mr Justice David Lok, accompanied by the Convenor and Members of the Technical Advisory Committee (TAC), visited the polling station located at the Exhibition Gallery of Hong Kong Central Library, and the Central Counting Station (CCS) and Media Centre located at the Hong Kong Convention and Exhibition Centre (HKCEC) this morning (September 6) and appealed to eligible voters to cast their votes tomorrow.
-
-Mr Justice Lok said that the preparatory work for the 2025 ECSS By-elections is ready and the staff members are carrying out final preparations and rehearsals. He thanked the staff members for their efforts so that the By-elections tomorrow would be conducted in an orderly and smooth manner.
-
-There will be 28 candidates contesting a total of 21 seats in six subsectors in the By-elections. Five ordinary polling stations (OPSs) and one dedicated polling station at a police station will be set up for about 3 600 voters/authorised representatives (ARs) of the related subsectors. The polling hours will be from 9am to 6pm. Voters/ARs are reminded to bring the original of their valid Hong Kong identity card to vote at the designated polling station as specified on their poll card.
-
-EAC members Professor Daniel Shek and Mr Bernard Man, SC, also visited the polling stations located at Wai Tsuen Sports Centre and Tiu Keng Leng Sports Centre this morning respectively. They then joined Mr Justice Lok in the CCS, who were accompanied by the Convenor and Members of the TAC, to inspect the on-site drill conducted by staff members to ensure a smooth operation of the counting work.
-
-Mr Justice Lok added that the Electronic Poll Register System will continue to be used at OPSs for issuing ballot papers to voters/ARs, so that the issuance process can be conducted accurately and efficiently. Once the poll is closed, all ballot boxes will be delivered to the CCS at the HKCEC where counting of votes will take place. Candidates, election agents and counting agents may enter the CCS and observe the count at designated areas of the counting zone. Members of the public and media may also enter the public area of the CCS to observe the count.
-
- Once the counting of votes is completed, the Returning Officers will declare the election results to the candidates and their agents at the counting zone of the CCS. The Registration and Electoral Office (REO)will also arrange for the Returning Officers to announce again the election results of each subsector on the stage of the Media Centre. Members of the public may observe the process from the designated public area at the Media Centre, which will accommodate approximately 200 seats. Admission will begin at 6pm on the polling day on a first-come, first-served basis until full capacity is reached. To facilitate admission control, all admitted members of the public will be required to wear a wristband provided by the REO for identification purpose.All election results will be published via press releases and the election website (www.elections.gov.hk).
-
- In addition, Mr Justice Lok and the Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, also accompanied the Chief Executive, Mr John Lee, to visit the polling station at the Exhibition Gallery of Hong Kong Central Library this afternoon to inspect the final preparatory work including the set-up of the venue and rehearsals. The EAC and the REO are fully prepared on all fronts to ensure that the By-elections tomorrow would be conducted orderly and efficiently, in an open, honest and fair manner.
-
-  For enquiries, please call the election hotline on 2891 1001 or visit the election website."
 選管會主席巡視選舉委員會界別分組補選投票站及中央點票站（附圖）,2025-09-06 16:10,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600352.htm,"下稿代選舉管理委員會發出：
 
 二○二五年選舉委員會界別分組補選明日（九月七日）舉行。選舉管理委員會（選管會）主席陸啟康法官今日（九月六日）上午在技術諮詢委員會召集人及成員的陪同下巡視設於香港中央圖書館展覽館的投票站和設於香港會議展覽中心的中央點票站及新聞中心，並呼籲合資格的投票人明日踴躍投票。
@@ -1097,6 +1080,23 @@ Mr Justice Lok added that the Electronic Poll Register System will continue to b
 另外，陸啟康法官亦在今日下午與政制及內地事務局局長曾國衞，陪同行政長官李家超視察了香港中央圖書館展覽館的投票站在場地佈置及運作綵排等的最後準備情況。選管會及選舉事務處在各方面均已準備就緒，將全力確保明日補選在公開、誠實及公平的情況下，安全有序及高效地進行。
 
 如有查詢，可致電選舉熱線（2891 1001），或瀏覽選舉網站。"
+EAC Chairman visits polling station and Central Counting Station of Election Committee Subsector By-elections (with photos),2025-09-06 16:10,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600355.htm,"The following is issued on behalf of the Electoral Affairs Commission:
+
+ The 2025 Election Committee Subsector (ECSS) By-elections will be held tomorrow (September 7). The Chairman of the Electoral Affairs Commission (EAC), Mr Justice David Lok, accompanied by the Convenor and Members of the Technical Advisory Committee (TAC), visited the polling station located at the Exhibition Gallery of Hong Kong Central Library, and the Central Counting Station (CCS) and Media Centre located at the Hong Kong Convention and Exhibition Centre (HKCEC) this morning (September 6) and appealed to eligible voters to cast their votes tomorrow.
+
+Mr Justice Lok said that the preparatory work for the 2025 ECSS By-elections is ready and the staff members are carrying out final preparations and rehearsals. He thanked the staff members for their efforts so that the By-elections tomorrow would be conducted in an orderly and smooth manner.
+
+There will be 28 candidates contesting a total of 21 seats in six subsectors in the By-elections. Five ordinary polling stations (OPSs) and one dedicated polling station at a police station will be set up for about 3 600 voters/authorised representatives (ARs) of the related subsectors. The polling hours will be from 9am to 6pm. Voters/ARs are reminded to bring the original of their valid Hong Kong identity card to vote at the designated polling station as specified on their poll card.
+
+EAC members Professor Daniel Shek and Mr Bernard Man, SC, also visited the polling stations located at Wai Tsuen Sports Centre and Tiu Keng Leng Sports Centre this morning respectively. They then joined Mr Justice Lok in the CCS, who were accompanied by the Convenor and Members of the TAC, to inspect the on-site drill conducted by staff members to ensure a smooth operation of the counting work.
+
+Mr Justice Lok added that the Electronic Poll Register System will continue to be used at OPSs for issuing ballot papers to voters/ARs, so that the issuance process can be conducted accurately and efficiently. Once the poll is closed, all ballot boxes will be delivered to the CCS at the HKCEC where counting of votes will take place. Candidates, election agents and counting agents may enter the CCS and observe the count at designated areas of the counting zone. Members of the public and media may also enter the public area of the CCS to observe the count.
+
+ Once the counting of votes is completed, the Returning Officers will declare the election results to the candidates and their agents at the counting zone of the CCS. The Registration and Electoral Office (REO)will also arrange for the Returning Officers to announce again the election results of each subsector on the stage of the Media Centre. Members of the public may observe the process from the designated public area at the Media Centre, which will accommodate approximately 200 seats. Admission will begin at 6pm on the polling day on a first-come, first-served basis until full capacity is reached. To facilitate admission control, all admitted members of the public will be required to wear a wristband provided by the REO for identification purpose.All election results will be published via press releases and the election website (www.elections.gov.hk).
+
+ In addition, Mr Justice Lok and the Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, also accompanied the Chief Executive, Mr John Lee, to visit the polling station at the Exhibition Gallery of Hong Kong Central Library this afternoon to inspect the final preparatory work including the set-up of the venue and rehearsals. The EAC and the REO are fully prepared on all fronts to ensure that the By-elections tomorrow would be conducted orderly and efficiently, in an open, honest and fair manner.
+
+  For enquiries, please call the election hotline on 2891 1001 or visit the election website."
 Incoming passenger convicted and jailed for possession of duty-not-paid cigarettes (with photo),2025-09-06 15:38,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600534.htm,"  An incoming female passenger was sentenced to six weeks' imprisonment and fined $1,500 at the Fanling Magistrates' Courts today (September 6) for possessing duty-not-paid cigarettes and failing to declare them to Customs o
 fficers, in contravention of the Dutiable Commodities Ordinance (DCO).
 
@@ -1134,15 +1134,6 @@ Moving forward, the HA and the National Clinical Research Center for Interventio
 國家放射與治療臨床醫學研究中心為中國首個介入醫學領域的國家級臨床研究中心。中心聚焦泛血管疾病的介入診療技術研發與臨床應用，並積極響應「健康中國2030」的戰略目標，推動高品質醫療創新、技術標準化及全國協同合作。
 
 醫管局與國家放射與治療臨床醫學研究中心未來將共同規劃及落實不同合作項目，着力推動臨床診療、科研創新及醫療人才培育的發展，進一步促進雙方在心血管疾病防治領域的協同發展，惠及更多患者。"
-CS inspects passing-out parade at HK Police College (with photos/video),2025-09-06 13:45,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600361.htm,"The Chief Secretary for Administration, Mr Chan Kwok-ki, inspected the passing-out parade for 30 probationary inspectors and 182 recruit police constables at the Hong Kong Police College today (September 6), and witnessed them becoming members of the Hong Kong Police Force (HKPF). He encouraged the graduates to understand the needs of citizens with empathy, and efficiently respond to societal concerns.
-
-Speaking at the ceremony, Mr Chan said that national security is the fundamental premise and solid defence for Hong Kong's prosperous development. Police officers, as the law enforcers, should have a deep understanding of the provisions and spirit of the Hong Kong National Security Law and take precise enforcement actions, shoulder their legal responsibilities to safeguard the future of Hong Kong and protect the livelihoods of its citizens.
-
-He mentioned that the HKPF is professional, highly efficient and world-renowned. With its extensive experience, advanced technologies and global networks, the HKPF has always been indispensable in international collaborations, contributing Hong Kong’s expertise and strengths towards a safer world.
-
-He said that the badges worn by HKPF officers not only represent the powers and responsibilities conferred by the law, but also honour the trust of over 7 million citizens for a safe and stable life. He detailed four aspirations for the graduates. ""Always be loyal and uphold the rule of law""–officers should remain loyal to their work, and ensure that each enforcement action adheres strictly to legal requirements. ""Be precise and professional, and embrace changes""–officers should constantly enhance their professional capabilities and application of technology, equip themselves with a global vision and insights into global policing developments, and continuously improve their enforcement capabilities under complex international circumstances. ""Serve the community with compassion, humanity and courage"" –officers should always be accountable for the safety of the public and strive to be trustworthy protectors of citizens. ""Be devoted to our home and country, and expand global horizons""–officers should build a foundation in Hong Kong, serve the country, learn from advanced global experience, and further earn international reputation for the HKPF.
-
-In conclusion, Mr Chan encouraged the graduates to resolutely safeguard national security and social stability with courage, professionalism and dedication, and serve the community wholeheartedly."
 政務司司長主持香港警察學院結業會操（附圖／短片）,2025-09-06 13:45,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600359.htm,"政務司司長陳國基今日（九月六日）出席香港警察學院結業會操，檢閱30名見習督察及182名學警，見證他們正式成為警隊的一分子，並勉勵結業學員以同理心理解市民的需要，以高效率的行動回應社會的關注。
 
 陳國基致辭時表示，國家安全是香港繁榮發展的根本前提和堅實屏障，警務人員作為執法者須深刻理解《香港國安法》的條文內容和精神，並準確執法，肩負法律職責，守護香港未來及保障市民生活。
@@ -1153,29 +1144,12 @@ In conclusion, Mr Chan encouraged the graduates to resolutely safeguard national
 
 最後，陳國基寄語結業學員以無畏勇氣、專業素養、無私奉獻，堅決維護國家安全和社會安定，全心服務市民。
 "
-貝澳泳灘暫停開放,2025-09-06 13:33,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600445.htm,"電台及電視台當值宣布員注意：
+CS inspects passing-out parade at HK Police College (with photos/video),2025-09-06 13:45,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600361.htm,"The Chief Secretary for Administration, Mr Chan Kwok-ki, inspected the passing-out parade for 30 probationary inspectors and 182 recruit police constables at the Hong Kong Police College today (September 6), and witnessed them becoming members of the Hong Kong Police Force (HKPF). He encouraged the graduates to understand the needs of citizens with empathy, and efficiently respond to societal concerns.
 
-請盡快播出下列特別報告：
+Speaking at the ceremony, Mr Chan said that national security is the fundamental premise and solid defence for Hong Kong's prosperous development. Police officers, as the law enforcers, should have a deep understanding of the provisions and spirit of the Hong Kong National Security Law and take precise enforcement actions, shoulder their legal responsibilities to safeguard the future of Hong Kong and protect the livelihoods of its citizens.
 
-游泳人士請注意︰康樂及文化事務署今日（九月六日）宣布，離島區貝澳泳灘須進行防鯊網維修工程，現已暫停開放，並已懸掛紅旗，市民請勿在該處游泳，直至另行通知。"
-Pui O Beach temporarily closed,2025-09-06 13:33,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600452.htm,"Attention TV/radio announcers:
+He mentioned that the HKPF is professional, highly efficient and world-renowned. With its extensive experience, advanced technologies and global networks, the HKPF has always been indispensable in international collaborations, contributing Hong Kong’s expertise and strengths towards a safer world.
 
-Please broadcast the following as soon as possible:
+He said that the badges worn by HKPF officers not only represent the powers and responsibilities conferred by the law, but also honour the trust of over 7 million citizens for a safe and stable life. He detailed four aspirations for the graduates. ""Always be loyal and uphold the rule of law""–officers should remain loyal to their work, and ensure that each enforcement action adheres strictly to legal requirements. ""Be precise and professional, and embrace changes""–officers should constantly enhance their professional capabilities and application of technology, equip themselves with a global vision and insights into global policing developments, and continuously improve their enforcement capabilities under complex international circumstances. ""Serve the community with compassion, humanity and courage"" –officers should always be accountable for the safety of the public and strive to be trustworthy protectors of citizens. ""Be devoted to our home and country, and expand global horizons""–officers should build a foundation in Hong Kong, serve the country, learn from advanced global experience, and further earn international reputation for the HKPF.
 
-Here is an item of interest to swimmers.
-
-The Leisure and Cultural Services Department announced today (September 6) that Pui O Beach in Islands District is temporarily closed until further notice for maintenance of shark prevention net. Red flag has been hoisted at the beach. Beachgoers are advised not to swim at the beach."
-入境旅客管有未完稅香煙罪成判囚（附圖）,2025-09-06 13:31,2025-09-07 05:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600436.htm,"​一名入境女旅客因管有未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（九月六日）在九龍城裁判法院被判處監禁四個月和罰款一千五百元。
-
-海關人員於九月五日在香港國際機場截查該名六十一歲抵港女旅客，在其攜帶的個人行李內共檢獲九千六百支未完稅香煙，市值約四萬三千元，應課稅值約三萬一千元。該名旅客隨即被捕。
-
-海關對判刑表示歡迎，監禁判刑具相當阻嚇作用，並充分反映罪行的嚴重性。海關提醒市民，根據《條例》，煙草屬應課稅品。任何人士若處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款一百萬元及監禁兩年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
-Incoming passenger convicted and jailed for possessing duty-not-paid cigarettes (with photo),2025-09-06 13:31,2025-09-07 05:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/06/P2025090600437.htm,"âAn incoming female passenger was sentenced to four months' imprisonment and fined $1,500 at the Kowloon City Magistrates' Courts today (September 6) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted the incoming 61-year-old female passenger at Hong Kong International Airport on September 5 and seized 9 600 duty-not-paid cigarettes with an estimated market value of about $43,000 and a duty potential of about $31,000 from her personal baggage. The passenger was subsequently arrested.
-
-Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences. Customs reminds members of the public that under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $1 million and imprisonment for two years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+In conclusion, Mr Chan encouraged the graduates to resolutely safeguard national security and social stability with courage, professionalism and dedication, and serve the community wholeheartedly."
