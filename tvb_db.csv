@@ -1,4 +1,9 @@
 id,title,date,scrape_time,section,source,url,news_content
+68bddd6deee6da38c4bced41,風暴塔巴｜凌晨5點將發出八號東南風球 料在今早10點前維持,2025-09-08 04:30,2025-09-08 04:45,local,tvb,https://news.tvb.com/tc/local/68bddd6deee6da38c4bced41,"在澳門，八號東北風球生效。八號東南風球將於凌晨5點發出，預料在今早10點前維持。
+
+按現時預測路徑，未來數小時塔巴，會在澳門西南約130公里內掠過，強度會進一步增強。澳門風力可達8至9級，有頻密大驟雨及雷暴。
+
+由於未來數日正值天文大潮，疊加風暴潮影響，日間內港一帶，有機會出現0.5至1米水浸。黃色風暴潮警告生效。"
 68bde450eee6da38c4bd2d47,風暴塔巴．現場｜尖沙咀風勢增強 不少市民釣魚,2025-09-08 04:00,2025-09-08 04:30,local,tvb,https://news.tvb.com/tc/local/68bde450eee6da38c4bd2d47,
 68bdae75eee6da38c4bb63dd,風暴塔巴｜八號信號至少維持至今早11時 所有日校停課,2025-09-08 04:00,2025-09-08 04:15,local,tvb,https://news.tvb.com/tc/local/68bdae75eee6da38c4bb63dd,"八號東南烈風或暴風信號生效，至少維持至早上11時。所有日校今日停課，當局暫時收到一宗塌樹報告。
 
@@ -258,11 +263,6 @@ id,title,date,scrape_time,section,source,url,news_content
 
 天文台會視乎該熱帶氣旋的強度、其強風區與本港的距離及本地風力變化，評估是否需要在星期日改發更高熱帶氣旋警告信號。"
 68bddfe8eee6da38c4bcff10,風暴塔巴．現場｜紅磡風勢強勁 警方曾巡邏,2025-09-08 03:41,2025-09-08 04:15,local,tvb,https://news.tvb.com/tc/local/68bddfe8eee6da38c4bcff10,
-68bddd6deee6da38c4bced41,風暴塔巴｜澳門八號東北風球料在今早10點前維持,2025-09-08 03:30,2025-09-08 04:15,local,tvb,https://news.tvb.com/tc/local/68bddd6deee6da38c4bced41,"澳門發出八號東北風球，預料在今早10點前維持。
-
-按現時預測路徑，未來數小時塔巴會在澳門西南約130公里內掠過，強度會進一步增強。澳門風力可達8至9級，有頻密大驟雨及雷暴。
-
-由於未來數日正值天文大潮，疊加風暴潮影響日間內港一帶，有機會出現0.5至1米水浸。黃色風暴潮警告生效。"
 68bdd65ceee6da38c4bcbdfc,風暴塔巴．現場｜杏花邨風勢增大 居民應加強防風措施,2025-09-08 03:01,2025-09-08 03:30,local,tvb,https://news.tvb.com/tc/local/68bdd65ceee6da38c4bcbdfc,
 68bdbcfbeee6da38c4bbdf9f,風暴塔巴｜國泰將取消少量周一航班 大灣區航空七班航班延誤,2025-09-08 02:35,2025-09-08 02:45,local,tvb,https://news.tvb.com/tc/local/68bdbcfbeee6da38c4bbdf9f,"機管局稱昨晚運作大致正常，但連同今早部分航班升降或受影響。
 
@@ -304,7 +304,6 @@ id,title,date,scrape_time,section,source,url,news_content
 結果何允輝蟬聯全國風翼錦標賽男子組冠軍；周梓熙奪得亞軍。魏瑋恩為港隊贏得全國錦標賽女子組季軍。"
 68bda8b4eee6da38c4bb3731,風暴塔巴．現場｜紅磡碼頭間中有市民經過 稱感到風勢算大,2025-09-07 23:45,2025-09-08 00:45,local,tvb,https://news.tvb.com/tc/local/68bda8b4eee6da38c4bb3731,
 68bda8afeee6da38c4bb36d6,風暴塔巴．現場｜杏花邨風力增強 現場暫時停雨,2025-09-07 23:45,2025-09-08 00:45,local,tvb,https://news.tvb.com/tc/local/68bda8afeee6da38c4bb36d6,
-68bda279eee6da38c4bb0506,風暴塔巴．現場｜杏花邨風力增強 無居民外出,2025-09-07 23:19,2025-09-08 00:00,local,tvb,https://news.tvb.com/tc/local/68bda279eee6da38c4bb0506,
 68bda289eee6da38c4bb055e,選委會界別分組補選投票率97.33% 選管會：選民重視其責任,2025-09-07 23:19,2025-09-08 00:45,local,tvb,https://news.tvb.com/tc/local/68bda289eee6da38c4bb055e,"選舉委員會界別分組補選，21個席位經投票選出。點票和公布結果花了約兩小時。選管會指投票率百分之97.33，反映合資格選民重視其責任。
 
 首先完成點票的，是有近1,500人，最多人投票的港九三會界別分組，六名候選人選出五人當選。
@@ -325,6 +324,7 @@ id,title,date,scrape_time,section,source,url,news_content
 選舉管理委員會主席陸啟康表示：「第一次用新的電子點票系統點票，毋須將選票先按界別分類而點算，而整個過程都非常順利，一般不會評論投票率，但數字都可看到，就算今日如此的天氣，所有選民及有資格的投票人，或授權人士都非常重視今日的責任，踴躍出來投票。」
 
 這次的當選人連同，其餘選委會成員合共1,500人，將於12月舉行的立法會選舉中，負責提名候選人，並選出選委會界別議員，之後到明年選委會就會再換屆。"
+68bda279eee6da38c4bb0506,風暴塔巴．現場｜杏花邨風力增強 無居民外出,2025-09-07 23:19,2025-09-08 00:00,local,tvb,https://news.tvb.com/tc/local/68bda279eee6da38c4bb0506,
 68bda26ceee6da38c4bb047f,風暴塔巴｜部分市民無懼追風 有茶餐廳受影響料損失數千元,2025-09-07 23:18,2025-09-08 00:00,local,tvb,https://news.tvb.com/tc/local/68bda26ceee6da38c4bb047f,"塔巴襲港，向來是「當位風」的杏花邨，在八號信號生效初期，尚算風平浪靜，不少住戶已做足防風措施，但都有部分市民，不理天文台勸告，走近岸邊，感受風力。
 
 唐先生說：「暫時一般，因為它未完全來到，上次打風再強勁些，(明天)早上睡個好覺，下午再努力工作。」
