@@ -9,13 +9,7 @@ id,title,date,scrape_time,section,source,url,news_content
 <a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">熱帶氣旋預測路徑</a>
 
 <a href=""https://www.hko.gov.hk/tc/wxinfo/currwx/fnd.htm"" target=""_blank"" rel="""">九天天氣預報</a>"
-68bdf06ceee6da38c4bd88bc,[04:55]黃色暴雨警告信號生效,2025-09-08 04:55,2025-09-08 05:00,local,tvb,https://news.tvb.com/tc/local/68bdf06ceee6da38c4bd88bc,"天文台凌晨4時55分發出黃色暴雨警告信號。
-
-暴雨警告信號現時為黃色，表示香港廣泛地區已錄得或預料會有每小時雨量超過30毫米的大雨，且雨勢可能持續。
-
-一些低窪地帶及排水欠佳的地區會出現水淹。天文台呼籲可能受大雨及水浸影響之市民，應採取適當的預防措施，以防止可能引致的損失。
-
-大雨可能引致山洪暴發，市民應遠離河道。可能受河道氾濫影響之市民應採取適當的預防措施，以避免損失。"
+68bdf28ceee6da38c4bd9d19,風暴塔巴．現場｜黃雨生效 紅磡曾落大雨,2025-09-08 05:00,2025-09-08 05:30,local,tvb,https://news.tvb.com/tc/local/68bdf28ceee6da38c4bd9d19,
 68ba65793e8e1a2fb694ad31,風暴塔巴．不斷更新｜黃雨警告生效 八號信號至少維持至今早11時,2025-09-08 04:55,2025-09-08 05:00,local,tvb,https://news.tvb.com/tc/local/68ba65793e8e1a2fb694ad31,"<a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">熱帶氣旋預測路徑</a>
 
 [04:55]
@@ -274,6 +268,13 @@ id,title,date,scrape_time,section,source,url,news_content
 星期一(9月8日)風勢頗大，有狂風大驟雨及雷暴，海有大浪及湧浪。受風暴潮影響，星期一早上沿岸低窪地區有機會出現水浸。
 
 天文台會視乎該熱帶氣旋的強度、其強風區與本港的距離及本地風力變化，評估是否需要在星期日改發更高熱帶氣旋警告信號。"
+68bdf06ceee6da38c4bd88bc,[04:55]黃色暴雨警告信號生效,2025-09-08 04:55,2025-09-08 05:00,local,tvb,https://news.tvb.com/tc/local/68bdf06ceee6da38c4bd88bc,"天文台凌晨4時55分發出黃色暴雨警告信號。
+
+暴雨警告信號現時為黃色，表示香港廣泛地區已錄得或預料會有每小時雨量超過30毫米的大雨，且雨勢可能持續。
+
+一些低窪地帶及排水欠佳的地區會出現水淹。天文台呼籲可能受大雨及水浸影響之市民，應採取適當的預防措施，以防止可能引致的損失。
+
+大雨可能引致山洪暴發，市民應遠離河道。可能受河道氾濫影響之市民應採取適當的預防措施，以避免損失。"
 68bdeb93eee6da38c4bd5eeb,風暴塔巴．現場｜杏花邨落大雨 能見度低,2025-09-08 04:31,2025-09-08 05:00,local,tvb,https://news.tvb.com/tc/local/68bdeb93eee6da38c4bd5eeb,
 68bddd6deee6da38c4bced41,風暴塔巴｜凌晨5點將發出八號東南風球 料在今早10點前維持,2025-09-08 04:30,2025-09-08 04:45,local,tvb,https://news.tvb.com/tc/local/68bddd6deee6da38c4bced41,"在澳門，八號東北風球生效。八號東南風球將於凌晨5點發出，預料在今早10點前維持。
 
@@ -302,7 +303,6 @@ id,title,date,scrape_time,section,source,url,news_content
 理大學生顏同學說：「出門時看風不是很大，沒有想到他會下雨，就想那邊找一個安全地方拍拍月亮，紅月亮百年一遇嘛，沒有看到就很失落。若不是因為有紅月亮，也不會在颱風天出來，畢竟有點危險。」
 
 大學生蘇同學稱：「真的想出來看月食，想早些下來找個位置，但已經濕透就算了，隨處逛一會兒。在有蓋地方走著走著，便突然很大雨，很大風吹過來。」"
-68bdc875eee6da38c4bc4f01,風暴塔巴．現場｜紅磡風勢增大惟雨勢漸弱 市民未能如願賞月食,2025-09-08 02:01,2025-09-08 02:15,local,tvb,https://news.tvb.com/tc/local/68bdc875eee6da38c4bc4f01,
 68bdc865eee6da38c4bc4e7d,風暴塔巴｜專營巴士通宵服務暫停,2025-09-08 02:01,2025-09-08 02:15,local,tvb,https://news.tvb.com/tc/local/68bdc865eee6da38c4bc4e7d,"專營巴士通宵服務暫停。
 
 九巴及龍運所有通宵路線暫停。至於日間服務視乎路面情況，其中九巴B1、B9；龍運S1、S64，S64C、S64P及S64X將維持有限度服務，其餘路線暫停服務。
@@ -310,6 +310,7 @@ id,title,date,scrape_time,section,source,url,news_content
 城巴稱大部分日間路線暫停服務，除個別連接機場、深圳灣口岸及香園圍口岸路線。頭班車起有限度服務。
 
 皇巴維持正常服務至八號信號生效後至少兩小時，有需要時加密班次，其後班次調整至每半小時一班。"
+68bdc875eee6da38c4bc4f01,風暴塔巴．現場｜紅磡風勢增大惟雨勢漸弱 市民未能如願賞月食,2025-09-08 02:01,2025-09-08 02:15,local,tvb,https://news.tvb.com/tc/local/68bdc875eee6da38c4bc4f01,
 68bdc390eee6da38c4bc1c12,風暴塔巴．現場｜杏花邨風勢雨勢減弱,2025-09-08 01:40,2025-09-08 02:00,local,tvb,https://news.tvb.com/tc/local/68bdc390eee6da38c4bc1c12,
 68bdc15feee6da38c4bc0b7f,風暴塔巴｜旺角部分食肆仍然營業 市面有小量人流,2025-09-08 01:31,2025-09-08 02:00,local,tvb,https://news.tvb.com/tc/local/68bdc15feee6da38c4bc0b7f,"隨著塔巴逐步逼近，凌晨後各區的雨勢增強。旺角凌晨開始一度下大雨，沒有打傘的途人要急忙避雨。八號信號下，部分食肆至凌晨一時許仍然營業，停雨時吸引不少市民光顧，市面都有小量人流。
 
@@ -720,6 +721,7 @@ id,title,date,scrape_time,section,source,url,news_content
 68bd5f7aeee6da38c4b8dc8c,選委會投票結束 投票箱運到會展中央點票站,2025-09-07 18:33,2025-09-07 19:00,local,tvb,https://news.tvb.com/tc/local/68bd5f7aeee6da38c4b8dc8c,"投票結束後，投票箱運到會展的中央點票站。
 
 選管會主席陸啟康、政制及內地事務局局長曾國衞等，到場視察及倒出票箱中的選票。陸啟康早上指有信心點票工作，能夠在合理時間內完成。按照程序，所有選票點算完後，選舉主任會在中央票站宣布結果。"
+68bd5f20eee6da38c4b8d67d,風暴塔巴．現場｜鯉魚門風力增強 仍有客人到食肆用餐,2025-09-07 18:31,2025-09-07 19:00,local,tvb,https://news.tvb.com/tc/local/68bd5f20eee6da38c4b8d67d,
 68bd5f13eee6da38c4b8d5dd,風暴塔巴｜本港下午天氣明顯轉差 民眾不擔心打風,2025-09-07 18:31,2025-09-07 19:30,local,tvb,https://news.tvb.com/tc/local/68bd5f13eee6da38c4b8d5dd,"隨著塔巴逐漸靠近，本港下午天氣明顯轉差。
 
 以往打風的水浸黑點杏花村，風勢逐漸增強，浪花不時泊打岸邊，附近的商場，趕緊做好防風措施。
@@ -747,7 +749,6 @@ id,title,date,scrape_time,section,source,url,news_content
 <a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">熱帶氣旋預測路徑</a>
 
 <a href=""https://www.hko.gov.hk/tc/wxinfo/currwx/fnd.htm"" target=""_blank"" rel="""">九天天氣預報</a>"
-68bd5f20eee6da38c4b8d67d,風暴塔巴．現場｜鯉魚門風力增強 仍有客人到食肆用餐,2025-09-07 18:31,2025-09-07 19:00,local,tvb,https://news.tvb.com/tc/local/68bd5f20eee6da38c4b8d67d,
 68bd583eeee6da38c4b8a170,風暴塔巴．公共服務｜教育局：所有日校明天停課 夜課安排明天公布,2025-09-07 18:01,2025-09-07 18:30,local,tvb,https://news.tvb.com/tc/local/68bd583eeee6da38c4b8a170,教育局：所有日校明天停課，夜課安排明天公布。
 68bd57b9eee6da38c4b89e5b,風暴塔巴｜天文台夜晚9時20分改發八號信號 至少維持至明早11時,2025-09-07 18:00,2025-09-07 18:15,local,tvb,https://news.tvb.com/tc/local/68bd57b9eee6da38c4b89e5b,"三號強風信號生效。天文台稱將在晚上9時20分，改發八號烈風或暴風信號，至少維持至明早11時。
 
@@ -976,8 +977,3 @@ Saddam Irrban指出：「有些遊客仍然找不到清真餐廳，我認為應�
 <a href=""https://news.tvb.com/tc/live/liveevent2"" target=""_blank"" rel="""">熱帶氣旋預測路徑</a>
 
 <a href=""https://www.hko.gov.hk/tc/wxinfo/currwx/fnd.htm"" target=""_blank"" rel="""">九天天氣預報</a>"
-68bca649eee6da38c4b32f07,風暴塔巴｜澳門早上8時將改發三號風球 晚間發八號機會中等至較高,2025-09-07 05:22,2025-09-07 05:45,local,tvb,https://news.tvb.com/tc/local/68bca649eee6da38c4b32f07,"澳門一號風球仍然生效。
-
-澳門氣象局指，受塔巴外圍環流影響，今日開始驟雨增多及有雷暴，風勢增大，將於早上8時改發三號風球。
-
-按現時預測路徑，它將採取較接近珠江口路徑，周一初時在澳門西南約150公里附近掠過，而且不能排除其近岸增強的可能性，今日晚間發出八號風球機會中等至較高。"
