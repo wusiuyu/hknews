@@ -1,4 +1,70 @@
 title,date,scrape_time,section,source,url,news_content
+立法會十題：規管數字資產,2025-09-10 14:40,2025-09-10 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000346.htm,"以下是今日（九月十日）在立法會會議上譚岳衡議員的提問和財經事務及庫務局局長許正宇的書面答覆：
+
+問題：
+
+《穩定幣條例》（第656章）（《條例》）於上月一日生效後，非「認許提供者」不得向零售或專業投資者「要約提供」穩定幣。但據報虛擬資產場外交易（OTC）機構（包括找換店）目前不屬於《條例》下的認許提供者，令部分OTC機構可以利用《條例》的灰色地帶（例如以被動交易方式或客戶主動報價）繼續運營，規避《條例》監管，因而為投資者帶來風險及增加行業不確定性。就此，政府可否告知本會：
+
+（一）針對上述非認許提供者規避《條例》監管的行為，政府現時有何措施預防、應對和監管；會否發布具體指引或例子，以進一步釐清何為《條例》中未明確定義的交易或營運行為；
+
+（二）據報在現時的監管框架下，散戶投資者可能轉以不受《條例》監管的離岸平台交易或利用點對點交易，令他們需承擔更高的投資風險，政府將如何平衡嚴格監管與市場需求，包括完善監管制度、加快發牌審批、加強投資者教育，或擴大可交易資產範圍（例如合規穩定幣）等，以保障散戶投資者的利益；及
+
+（三）鑑於政府於今年六月就設立數字資產交易及託管服務提供者發牌制度的立法建議發布諮詢文件，制訂該發牌制度的工作進展及立法時間表為何；如有立法時間表，詳情為何；如沒有立法時間表，原因為何？
+
+答覆：
+
+主席︰
+
+《穩定幣條例》（第656章）（《條例》）已於二○二五年八月一日實施，其中一個目的是監管指明穩定幣的發行及限制可要約提供指明穩定幣的人士，以保障指明穩定幣持有人及潛在持有人。
+
+就問題的各部分，經諮詢香港金融管理局（金管局）及證券及期貨事務監察委員會（證監會），現答覆如下：
+
+（一）根據《條例》第9條，目前只有「認許提供者」可要約提供指明穩定幣。現時，《條例》指明五類「認許提供者」，分別為（一）持牌的穩定幣發行人、（二）由證監會發牌的虛擬資產服務提供者、（三）持有儲值支付工具牌照的人士、（四）獲證監會發牌進行第1類受規管活動的法團，及（五）認可機構。「認許提供者」可以向零售投資者和專業投資者要約提供由受金管局監管的持牌發行人發行的穩定幣（受監管的穩定幣）；至於非受監管的穩定幣，只可向專業投資者（根據《證券及期貨條例》（第571章）附表1第1部第1條的定義）要約提供。
+
+虛擬資產場外交易機構目前不屬《條例》下的「認許提供者」，因此不能向零售或專業投資者要約提供指明穩定幣（不論該穩定幣是否受監管）。
+
+《條例》實施初期，金管局會通過加強宣傳，加深業界對《條例》的認識，促使業界遵守《條例》的相關要求。同時，金管局會監察市面上涉及穩定幣交易的情況，如果發現有涉嫌違反《條例》的行為，會根據相關事實和證據，考慮進一步跟進行動。
+
+（二）如上文所述，根據《條例》規定，目前只有「認許提供者」可要約提供指明穩定幣。公眾必須留意，目前金管局尚未向任何穩定幣發行人發出牌照。公眾向《條例》指明的「認許提供者」購買受監管穩定幣，才會受到《條例》的保障。假如公眾透過非受監管的渠道購買穩定幣，或購買任何非受監管的穩定幣，須自行承擔風險。
+
+金管局會透過不同渠道，包括社交媒體平台，持續進行公眾教育，以加深公眾對《條例》的認識。
+
+（三）財經事務及庫務局（財庫局）於二○二五年六月發表的《香港數字資產發展政策宣言2.0》表明，優化法律與監管是推動數字資產行業發展的其中一個重點。政府及金融監管機構會繼續秉持「相同業務、相同風險、相同規則」的原則，強調風險為本，持續優化和建立一套既切合本地情況，又依循國際標準和慣例的監管制度，為香港數字資產市場健康、負責任和可持續發展提供穩固基礎。
+
+財庫局與證監會剛於二○二五年六月二十七日至八月二十九日期間，就數字資產交易及託管服務提供者發牌制度的立法建議進行了公眾諮詢。財庫局與證監會正參考公眾諮詢所得的意見，制訂相關發牌制度的細節，並將適時公布立法時間表。"
+LCQ10: Regulation of digital assets,2025-09-10 14:40,2025-09-10 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000338.htm," Following is a question by Dr the Hon Tan Yueheng and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (September 10):
+
+Question:
+
+ Since the Stablecoins Ordinance (Cap. 656) (the Ordinance) came into effect on the first of last month, non-permitted offerors have been prohibited from offering stablecoins to retail or professional investors. However, it has been reported that as virtual asset over-the-counter (OTC) trading institutions (including money changers) are currently not classified as permitted offerors under the Ordinance, some OTC trading institutions can take advantage of the grey areas of the Ordinance, such as through passive trading or customer-initiated quotes, to continue operation while circumventing the Ordinance, hence posing risks to investors and increasing industry uncertainty. In this connection, will the Government inform this Council:
+
+(1) of the current measures in place to prevent, address, and regulate the aforesaid circumvention of the Ordinance by non-permitted offerors; whether it will release specific guidelines or examples to further clarify what constitute transactions or operational activities that are not explicitly defined in the Ordinance;
+
+(2) as it has been reported that under the current regulatory framework, retail investors may switch to trading on offshore platforms not regulated by the Ordinance or using P2P transactions, hence subjecting them to higher investment risks, how the Government will strike a balance between strict regulation and market demand, including improving the regulatory regime, expediting licensing approvals, strengthening investor education, and broadening the scope of tradable assets (e.g. compliant stablecoins), to protect the interests of retail investors; and
+
+(3) given that the Government issued a consultation paper in June this year on legislative proposals for regulating digital asset dealing and custodian services, of the progress of the establishment of the licensing regime and the legislative timetable; if there is a legislative timetable, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+ The Stablecoins Ordinance (Cap. 656) (Ordinance) came into effect on August 1, 2025. One of its purposes is to regulate the issue of specified stablecoins and impose restrictions on the persons who may offer specified stablecoins, with a view to protecting holders and potential holders of specified stablecoins.
+
+ After consultation with the Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC), the reply to the various parts of the question is as follows:
+
+(1) Under section 9 of the Ordinance, currently only ""permitted offerors"" may offer specified stablecoins. At present, the Ordinance specifies five types of ""permitted offerors"", namely (1) licensed stablecoin issuers; (2) virtual asset service providers licensed by the SFC; (3) persons with a stored value facility licence; (4) corporations licensed by the SFC to conduct Type 1 regulated activities; and (5) authorised institutions. ""Permitted offerors"" may offer stablecoins issued by licensed issuers regulated by the HKMA (i.e. regulated stablecoins) to both retail and professional investors; however, unregulated stablecoins may only be offered to professional investors (as defined in section 1 of Part 1 of Schedule 1 to the Securities and Futures Ordinance (Cap. 571)).
+
+ Virtual asset over-the-counter (OTC) trading institutions are not ""permitted offerors"" under the Ordinance, and therefore cannot offer specified stablecoins to retail or professional investors, regardless of whether such stablecoins are regulated.
+
+ During the initial implementation of the Ordinance, the HKMA will step up publicity efforts to enhance the industry's understanding of the Ordinance and promote the industry's compliance with its relevant requirements. At the same time, the HKMA will monitor transactions involving stablecoin in the market. If a suspected contravention of the Ordinance is identified, the HKMA will consider follow-up action based on the relevant facts and evidence.
+
+(2) As mentioned above, under the Ordinance, currently only ""permitted offerors"" are permitted to offer specified stablecoins. Members of the public must note that the HKMA has not licensed any stablecoin issuer yet. While the Ordinance offers protection to members of the public who purchase regulated stablecoins from ""permitted offerors"" as specified in the Ordinance, members of the public who acquire stablecoins through unregulated channels or acquire any unregulated stablecoins will have to bear their own risk.
+
+ The HKMA will continue to conduct public education through various channels, including social media platforms, to enhance public understanding of the Ordinance.
+
+(3) In the ""Policy Statement 2.0 on the Development of Digital Assets in Hong Kong"" issued in June 2025, the Financial Services and the Treasury Bureau (FSTB) has made clear that enhancing the legal and regulatory framework is one of the key focuses in promoting the development of the digital asset sector. Guided by the principle of ""same activity, same risks, same regulation"" under a risk-based approach, the Government and financial regulators will continue to enhance and establish a regulatory framework that reflects local circumstances and aligns with international standards and practices, with a view to providing a solid foundation for the healthy, responsible and sustainable development of the digital asset market in Hong Kong.
+
+ The FSTB and the SFC recently conducted a public consultation on the legislative proposals for the licensing regimes for digital asset dealing and custodian service providers from June 27 to August 29, 2025. The FSTB and the SFC are formulating details of the licensing regimes based on the views received from the public consultation, and will announce the legislative timetable in due course."
 立法會十二題：優化跨境匯款安排,2025-09-10 14:15,2025-09-10 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025090900713.htm,"以下是今日（九月十日）在立法會會議上梁子穎議員的提問和財經事務及庫務局局長許正宇的書面答覆：
 
 問題：
@@ -1237,143 +1303,6 @@ President,
 (3) As regards comments made in the question on setting a retirement age for commercial vehicle drivers, we notice that different regions have adopted various practices. For instance, Australia, Canada and the United Kingdom impose no restrictions, whereas the Mainland imposes age restrictions on the types of vehicles that may be driven. We consider that medical assessment would help prevent illnesses and build healthy lifestyle habits. As currently nearly 40 percent of taxi and light bus driving licence holders are aged 65 or above, a blanket retirement age would inevitably disrupt the manpower in the trade. The Government proposes to first enhance the requirements for medical certification of commercial vehicle drivers at this stage, and will continue to review and enhance its effectiveness.
 
   Thank you, President."
-立法會十五題：境外人士來港參加短期活動及受訓,2025-09-10 12:15,2025-09-10 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000302.htm,"以下是今日（九月十日）在立法會會議上陳祖恒議員的提問和保安局局長鄧炳強的書面答覆：
-
-問題：
-
-據悉隨着香港推進「八大中心」的發展，越來越多境外人士參與在香港舉辦的活動。然而，在現時制度下境外人士受邀來港參加研討會、演講、簽約、實習等短期或單次性活動需要申請工作或受訓簽證，雖然政府推出的「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）可為來港參與短期活動訪客提供入境便利，但該計劃只限於獲認可主辦機構邀請／保證來港的人士。就此，政府可否告知本會：
-
-（一）鑑於有業界人士反映，雖然根據入境事務處資料，審批來港就業、投資及受訓等簽證申請一般需時四星期，但其過往經驗顯示相關程序需時約六至八星期，更曾有嘉賓因簽證申請需時過久而致無法出席活動，當局會否考慮為來港參與短期或單次性活動的簽證申請訂定更明確的審批時間，以讓申請人和活動主辦機構能作出更準確的預算；
-
-（二）至今透過短期訪客計劃來港參與指定短期活動的人數為何，並按該計劃所涵蓋的12個指定界別以下表列出分項數字；
-
-
-
-
-指定界別
-二○二二年
-二○二三年
-二○二四年
-二○二五年至今
-
-
-醫療衞生
-
-
-
-
-
-
-高等教育
-
-
-
-
-
-
-文化藝術
-
-
-
-
-
-
-體育
-
-
-
-
-
-
-文物
-
-
-
-
-
-
-創意產業
-
-
-
-
-
-
-創新及科技
-
-
-
-
-
-
-香港桂冠論壇
-
-
-
-
-
-
-航空
-
-
-
-
-
-
-國際／大型活動
-
-
-
-
-
-
-金融
-
-
-
-
-
-
-發展與建築
-
-
-
-
-
-
-
-
-（三）鑑於有意見認為，隨着越來越多盛事在港舉行，現時短期訪客計劃的認可主辦機構以法定機構及政府部門為主的做法難以應付發展需要，當局會否研究優化該計劃，例如按需要分階段擴大認可主辦機構清單至涵蓋商業機構，並要求該等機構簽署聲明承諾不會濫用機制，以及引入各行業的權威性機構協助當局審批簽證的工作，以切合八大中心的發展需要；及
-
-（四）鑑於有意見認為，隨着越來越多內地企業通過香港「走出去」，將有很多內地居民需要來港培訓，當局會否考慮擴大「來港受訓」簽證的申請資格至涵蓋所有內地居民，以進一步提升本港協助企業「出海」的專業服務的競爭力？
-
-答覆：
-
-主席：
-
-政府致力鞏固和持續發展香港在「十四五」規劃下的「八大中心」定位，確保香港的競爭力和經濟發展。就入境政策而言，入境事務處（入境處）在維持有效入境管制的同時亦一直提供便捷的出入境服務以方便真正的訪客，促進更多人才匯聚香港交流。
-
-一般而言，訪客不得在港從事有薪或無薪的工作，他們可以簽訂合約、參與短期研討會或其他會議，亦可在不受酬的情況下發表演講等。入境處的網站載有訪客獲准參與的活動的相關資訊供公眾參考：www.immd.gov.hk/hkt/services/visas/permissible-activities.html。
-
-為促進更多人才訪港交流，政府於二○二二年六月推出為期兩年的「為來港參與指定界別短期活動的訪客提供入境便利先導計劃」（先導計劃），並於二○二四年六月把先導計劃恆常化為「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）。在短期訪客計劃下，獲政府相關決策局／部門認可的機構可向界別內相關的非本地人才發出邀請信，獲邀人士可以訪客身分來港參與指定短期活動，而無須向入境處申請工作簽證／進入許可。他們每次來港可在不超過連續14個曆日期間參與指定短期活動，並可就該指定活動收取報酬。
-
-就陳議員的提問，經諮詢入境處後，我現回覆如下：
-
-（一）一般而言，就來港就業、投資及受訓的簽證／進入許可的所有申請，入境處在收齊所需文件後，會於四星期內完成申請審批。相關申請程序及所需時間已清晰載於入境處網站。在二○二四年，99%相關簽證／進入許可申請於收齊文件後四星期內完成審批。入境處亦會因應個別情況（例如在港舉辦的大型活動），在可行情況下加快有關簽證／進入許可申請的審批。
-
-為提供更好服務以精益求精，入境處已將簽證／進入許可的申請全面電子化，並在網頁列出所需提交文件清單，讓申請人清楚了解並可預先準備好所需文件，減少需補交文件的機會。入境處會繼續透過優化程序提高效率。
-
-（二）及（三）截至二○二五年六月底，先導計劃／短期訪客計劃已合共惠及36 951名非本地人才，便利他們以訪客身分來港參與各項短期盛事及活動，無須向入境處申請工作簽證／進入許可。按界別的統計數字載於附件。
-
-為確保計劃與時並進，政府不時審視計劃的涵蓋範圍及運作機制，務求使計劃能夠在風險可控的前提下，持續有效地促進相關界別發展，並提升香港的國際形象。自先導計劃推出以來，政府分別兩次在二○二三年二月以及二○二四年六月擴大計劃，在原有10個指定界別外，增加「金融」及「發展與建築」兩個新界別，認可機構亦從計劃剛推出時約350個增加18%至現時的400多個，當中包括政府決策局／部門、公營／法定機構、專業組織和業界協會等。目前，計劃下設有機制，各參與的政策局／部門均會協助把關，確保計劃的執行持續符合政策目標。
-
-如前述，目前短期訪客計劃在公營機構以外亦涵蓋專業組織和業界協會。商業機構亦可與計劃下的認可機構合作舉辦合資格的指定短期活動，以享相關入境便利。在考慮是否進一步放寬計劃時，政府必須考慮兩大原則，包括合資格根據計劃來港進行指定短期活動的人士不會取代本地勞動力，及不會構成濫用風險（包括非法就業）。政府會繼續留意短期訪客計劃的實施情況和相關部門及業界的意見，適時檢討計劃的涵蓋範圍，以期在入境管制與便利之間取得適當平衡。我們歡迎有興趣的商業機構主動與所屬界別的相關決策局／部門或認可機構聯絡並考慮合辦合資格的活動，以期促進計劃下更多不同形式的交流合作。
-
-（四）來港受訓入境安排的實施，為有真正需要來港接受培訓的人士提供便利，讓他們在本港汲取知識、經驗或技能，同時有助促進和鞏固香港在協助包括內地企業「走出去」的角色。
-
-目前，設於香港而有相當規模的公司的內地業務伙伴及／或於內地分部的僱員，可申請來港受訓。在二○二五年（截至七月），內地居民獲批來港受訓的月均數字為197宗，較二○二四年（月均194宗）稍微上升。
-
-政府會繼續不時檢視來港受訓入境安排以確保該安排持續符合目標和香港的發展需要。"
 LCQ15: Non-local people coming to Hong Kong to participate in short-term activities and receive training,2025-09-10 12:15,2025-09-10 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000310.htm,"Following is a question by the Hon Sunny Tan and a written reply by the Secretary for Security, Mr Tang Ping-keung, in the Legislative Council today (September 10):
 
 Question:
@@ -1511,6 +1440,143 @@ As mentioned above, the STV Scheme currently extends beyond the public sector an
 Currently, Mainland business associates and/or employees of Mainland branches of well-established companies in Hong Kong may apply to enter Hong Kong for training. In 2025 (as at July), the monthly average number of cases involving Mainland residents approved for entry to Hong Kong for training was 197, representing a slight increase from 2024 which recorded a monthly average of 194 cases.
 
 The Government will continue to timely review the entry arrangement for training in Hong Kong to ensure that the arrangement remains consistent with the objectives and the development needs of Hong Kong."
+立法會十五題：境外人士來港參加短期活動及受訓,2025-09-10 12:15,2025-09-10 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000302.htm,"以下是今日（九月十日）在立法會會議上陳祖恒議員的提問和保安局局長鄧炳強的書面答覆：
+
+問題：
+
+據悉隨着香港推進「八大中心」的發展，越來越多境外人士參與在香港舉辦的活動。然而，在現時制度下境外人士受邀來港參加研討會、演講、簽約、實習等短期或單次性活動需要申請工作或受訓簽證，雖然政府推出的「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）可為來港參與短期活動訪客提供入境便利，但該計劃只限於獲認可主辦機構邀請／保證來港的人士。就此，政府可否告知本會：
+
+（一）鑑於有業界人士反映，雖然根據入境事務處資料，審批來港就業、投資及受訓等簽證申請一般需時四星期，但其過往經驗顯示相關程序需時約六至八星期，更曾有嘉賓因簽證申請需時過久而致無法出席活動，當局會否考慮為來港參與短期或單次性活動的簽證申請訂定更明確的審批時間，以讓申請人和活動主辦機構能作出更準確的預算；
+
+（二）至今透過短期訪客計劃來港參與指定短期活動的人數為何，並按該計劃所涵蓋的12個指定界別以下表列出分項數字；
+
+
+
+
+指定界別
+二○二二年
+二○二三年
+二○二四年
+二○二五年至今
+
+
+醫療衞生
+
+
+
+
+
+
+高等教育
+
+
+
+
+
+
+文化藝術
+
+
+
+
+
+
+體育
+
+
+
+
+
+
+文物
+
+
+
+
+
+
+創意產業
+
+
+
+
+
+
+創新及科技
+
+
+
+
+
+
+香港桂冠論壇
+
+
+
+
+
+
+航空
+
+
+
+
+
+
+國際／大型活動
+
+
+
+
+
+
+金融
+
+
+
+
+
+
+發展與建築
+
+
+
+
+
+
+
+
+（三）鑑於有意見認為，隨着越來越多盛事在港舉行，現時短期訪客計劃的認可主辦機構以法定機構及政府部門為主的做法難以應付發展需要，當局會否研究優化該計劃，例如按需要分階段擴大認可主辦機構清單至涵蓋商業機構，並要求該等機構簽署聲明承諾不會濫用機制，以及引入各行業的權威性機構協助當局審批簽證的工作，以切合八大中心的發展需要；及
+
+（四）鑑於有意見認為，隨着越來越多內地企業通過香港「走出去」，將有很多內地居民需要來港培訓，當局會否考慮擴大「來港受訓」簽證的申請資格至涵蓋所有內地居民，以進一步提升本港協助企業「出海」的專業服務的競爭力？
+
+答覆：
+
+主席：
+
+政府致力鞏固和持續發展香港在「十四五」規劃下的「八大中心」定位，確保香港的競爭力和經濟發展。就入境政策而言，入境事務處（入境處）在維持有效入境管制的同時亦一直提供便捷的出入境服務以方便真正的訪客，促進更多人才匯聚香港交流。
+
+一般而言，訪客不得在港從事有薪或無薪的工作，他們可以簽訂合約、參與短期研討會或其他會議，亦可在不受酬的情況下發表演講等。入境處的網站載有訪客獲准參與的活動的相關資訊供公眾參考：www.immd.gov.hk/hkt/services/visas/permissible-activities.html。
+
+為促進更多人才訪港交流，政府於二○二二年六月推出為期兩年的「為來港參與指定界別短期活動的訪客提供入境便利先導計劃」（先導計劃），並於二○二四年六月把先導計劃恆常化為「為來港參與指定界別短期活動的訪客提供入境便利計劃」（短期訪客計劃）。在短期訪客計劃下，獲政府相關決策局／部門認可的機構可向界別內相關的非本地人才發出邀請信，獲邀人士可以訪客身分來港參與指定短期活動，而無須向入境處申請工作簽證／進入許可。他們每次來港可在不超過連續14個曆日期間參與指定短期活動，並可就該指定活動收取報酬。
+
+就陳議員的提問，經諮詢入境處後，我現回覆如下：
+
+（一）一般而言，就來港就業、投資及受訓的簽證／進入許可的所有申請，入境處在收齊所需文件後，會於四星期內完成申請審批。相關申請程序及所需時間已清晰載於入境處網站。在二○二四年，99%相關簽證／進入許可申請於收齊文件後四星期內完成審批。入境處亦會因應個別情況（例如在港舉辦的大型活動），在可行情況下加快有關簽證／進入許可申請的審批。
+
+為提供更好服務以精益求精，入境處已將簽證／進入許可的申請全面電子化，並在網頁列出所需提交文件清單，讓申請人清楚了解並可預先準備好所需文件，減少需補交文件的機會。入境處會繼續透過優化程序提高效率。
+
+（二）及（三）截至二○二五年六月底，先導計劃／短期訪客計劃已合共惠及36 951名非本地人才，便利他們以訪客身分來港參與各項短期盛事及活動，無須向入境處申請工作簽證／進入許可。按界別的統計數字載於附件。
+
+為確保計劃與時並進，政府不時審視計劃的涵蓋範圍及運作機制，務求使計劃能夠在風險可控的前提下，持續有效地促進相關界別發展，並提升香港的國際形象。自先導計劃推出以來，政府分別兩次在二○二三年二月以及二○二四年六月擴大計劃，在原有10個指定界別外，增加「金融」及「發展與建築」兩個新界別，認可機構亦從計劃剛推出時約350個增加18%至現時的400多個，當中包括政府決策局／部門、公營／法定機構、專業組織和業界協會等。目前，計劃下設有機制，各參與的政策局／部門均會協助把關，確保計劃的執行持續符合政策目標。
+
+如前述，目前短期訪客計劃在公營機構以外亦涵蓋專業組織和業界協會。商業機構亦可與計劃下的認可機構合作舉辦合資格的指定短期活動，以享相關入境便利。在考慮是否進一步放寬計劃時，政府必須考慮兩大原則，包括合資格根據計劃來港進行指定短期活動的人士不會取代本地勞動力，及不會構成濫用風險（包括非法就業）。政府會繼續留意短期訪客計劃的實施情況和相關部門及業界的意見，適時檢討計劃的涵蓋範圍，以期在入境管制與便利之間取得適當平衡。我們歡迎有興趣的商業機構主動與所屬界別的相關決策局／部門或認可機構聯絡並考慮合辦合資格的活動，以期促進計劃下更多不同形式的交流合作。
+
+（四）來港受訓入境安排的實施，為有真正需要來港接受培訓的人士提供便利，讓他們在本港汲取知識、經驗或技能，同時有助促進和鞏固香港在協助包括內地企業「走出去」的角色。
+
+目前，設於香港而有相當規模的公司的內地業務伙伴及／或於內地分部的僱員，可申請來港受訓。在二○二五年（截至七月），內地居民獲批來港受訓的月均數字為197宗，較二○二四年（月均194宗）稍微上升。
+
+政府會繼續不時檢視來港受訓入境安排以確保該安排持續符合目標和香港的發展需要。"
 立法會八題：推動「一帶一路」建設,2025-09-10 12:04,2025-09-10 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000165.htm,"以下是今日（九月十日）在立法會會議上馬逢國議員的提問和商務及經濟發展局局長丘應樺的書面答覆：
 
 問題：
@@ -1753,80 +1819,6 @@ Applicants who have not attained the requisite CRE results may also apply. Arran
 Applicants may also choose to attend the JRE on November 29 in one of the seven cities outside Hong Kong (i.e. Beijing, Shanghai, London, New York, Toronto, Vancouver and Sydney). In addition, the CRE and paper-based BLNST will also be held on the same day in these seven cities. The application period for the CRE and BLNST outside Hong Kong is the same as that of the joint recruitment exercise. Applicants may apply for the CRE and BLNST online from September 13 to October 3 (Hong Kong time). Similarly, applicants who will take the CRE and BLNST outside Hong Kong have to obtain the requisite results for their JRE answers to be processed.
 
  Details of the joint recruitment exercise and the online application system will be available on the CSB website (www.csb.gov.hk) from this Saturday. For the recruitment of AO, relevant information will also be available on a dedicated website at www.ao-recruitment.gov.hk. Applicants must apply online through the CSB website and may visit the relevant webpage for any updates on the examination arrangements."
-LCQ14: Building a data trading ecosystem,2025-09-10 11:51,2025-09-10 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000277.htm,"Following is a question by the Hon Martin Liao and a written reply by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, in the Legislative Council today (September 10):
-
-Question:
-
-  The Financial Secretary has indicated in the 2024-2025 Budget that the Government has commissioned an expert group to undertake an in depth study on how to develop a robust data trading ecosystem in Hong Kong. In this connection, will the Government inform this Council:
-
-(1) given that the facilitation measure on the Standard Contract for the Cross-boundary Flow of Personal Information Within the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong) (the GBA Standard Contract) has been extended to all sectors since November 1 last year to facilitate the safe cross-boundary flow of personal information within the GBA, of the current number of enterprises participating in the GBA Standard Contract and the details of their respective industries;
-
-(2) whether the Government will explore the setting up of a data exchange in Hong Kong and the development of a comprehensive data market trading system, including standardised data format, data pricing mechanisms, categorised and hierarchical rules for data protection, data security protection mechanisms, definition of data ownership, etc., with a view to enhancing the marketisation of data elements; if so, of the details; if not, the reasons for that; and
-
-(3) as there are views that, following the active development of the data trading market in the Mainland, more legal disputes relating to cross-boundary data trading (such as those concerning data storage, processing, ownership, and trading) may arise constantly, how will the Government capitalise on Hong Kong's strengths as a ""super connector"" and an international arbitration centre to establish a cross-boundary data trading dispute resolution mechanism, thereby laying a solid foundation for developing a robust data trading ecosystem?
-
-Reply:
-
-President,
-
-  Having consulted the Department of Justice (DoJ), our reply to the questions raised by the Hon Martin Liao is as follows:
-
-(1) The Innovation, Technology and Industry Bureau and the Cyberspace Administration of China signed the ""Memorandum of Understanding on Facilitating Cross-boundary Data Flow within the Guangdong-Hong Kong-Macao Greater Bay Area"" in June 2023, and jointly announced the facilitation measure on the ""Standard Contract for the Cross-boundary Flow of Personal Information within the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong)"" (the GBA Standard Contract) in December 2023 to facilitate cross boundary flow of personal information from the Mainland cities in the GBA to Hong Kong and streamline the relevant arrangements.
-
-The ""early and pilot implementation"" arrangement of the facilitation measure on the GBA Standard Contract for the banking, credit referencing and healthcare sectors has operated smoothly and received positive industry feedback. From November 2024, the facilitation measure on the GBA Standard Contract was regularised and extended to all sectors. As of end-August 2025, the Digital Policy Office has processed around 100 filing applications from different sectors, including healthcare, credit referencing, insurance, securities and printing sectors, etc. The proportion of filing applications by sectors is as follows:
-
-
-
-
-Sector
-Proportion
-
-
-Healthcare
-24%
-
-
-Credit Referencing
-16%
-
-
-Insurance
-14%
-
-
-Securities
-9%
-
-
-Printing
-9%
-
-
-Information Technology
-8%
-
-
-Banking
-7%
-
-
-Others
-12%
-
-
-
-
-(2) With the acceleration of global digital transformation, data has become a key production factor, and a highly efficient data ecosystem is one of the key factors attracting enterprises to establish a foothold in Hong Kong. Hong Kong is underpinned by its distinctive advantages under ""one country, two systems"" and endowed with the characteristics of an international city. From supply and demand of data to application scenarios, Hong Kong is equipped with a robust foundation and possess an abundance of favourable conditions for promoting the development of data ecosystem.
-
-The Financial Secretary announced in the 2024-25 Budget that an expert group, comprising professionals from sectors such as information technology, commerce and industry, finance and data sources, is commissioned to study how to develop a robust data trading ecosystem in Hong Kong. This includes Hong Kong's role as a ""super connector"" in data trading, the prerequisites, rules, and measures for promoting international data trading, as well as feasible implementation models. The study also covers key issues related to data trading, including data format standardisation, data pricing mechanisms, and data security protection, etc. The expert group is conducting a consultancy study on these topics and is expected to complete work and submit recommendations to the Government within 2025-26.
-
-(3) Resolving legal issues and disputes that may arise from cross-boundary data flow (including through the voluntary adoption of the GBA Standard Contract) depends on the arrangements agreed upon by the parties to the contract and other applicable laws and regulations. Taking the GBA Standard Contract as an example, the contract template stipulates that any disputes arising between the parties to the contract shall be resolved through negotiation. If negotiation fails, the parties may choose to resolve the dispute through litigation or arbitration. If arbitration is opted, the dispute may be submitted to arbitral institutions including, inter alia, the Hong Kong International Arbitration Centre, and the arbitral proceedings may be conducted in Hong Kong in accordance with the arbitration rules in force at the time. This provides a dispute resolution mechanism for cross-boundary data flow within the GBA.
-
-In strengthening Hong Kong's advantages as an international arbitration centre, Hong Kong has been committed to promoting online dispute resolution (ODR) and deal-making services. According to information provided by the DoJ, the 2018 Policy Address proposed supporting the development of an online platform to provide efficient and cost-effective ODR services in Hong Kong. As a result, eBRAM International Online Dispute Resolution Centre (eBRAM Centre) was established. Since 2022, eBRAM Centre has launched online platforms, including the ""eBRAM APEC Online Dispute Resolution Platform"", ""Online Mediation Platform"" and ""Online Arbitration Platform"", providing efficient, cost-effective, and secure ODR services for parties from anywhere in the world. To facilitate cross-boundary commercial transactions and expand cross-boundary businesses, eBRAM Centre launched the ""Deal-Making Portal"" in December 2023. As of August 2025, more than 550 enterprises of various categories (including legal, professional and commercial services, information technology, etc. from Hong Kong, Mainland and other regions) have joined the ""Deal-Making Portal"".
-
-Regarding the GBA, the DoJ first published the Action Plan on the Construction of Rule of Law in the Guangdong-Hong Kong-Macao Greater Bay Area in April 2024, actively supporting the establishment and promotion of a common ODR platform within the GBA. eBRAM Centre launched the thematic website of the GBA Online Collaborative Platform in July 2024, providing one-stop information on dispute resolution services within the GBA to integrate the arbitration and mediation resources of the GBA. A total of 14 memoranda of understanding with institutions have been signed so far for the Collaborative Platform.
-
-The Government believes that Hong Kong, leveraging its strengths as an international legal and dispute resolution hub, particularly its professional expertise and institutional foundation in arbitration and mediation, can continue to enhance its dispute resolution mechanisms. This will help build a more robust ecosystem for resolving cross-boundary commercial disputes, including those arising from cross-boundary data flow. The Government will continue to monitor relevant developments, conduct study as and when appropriate, maintain communication with stakeholders in the legal and dispute resolution sectors. The Government will also strengthen exchanges and cooperation with the Mainland legal community to promote regional experience sharing as and when appropriate."
 ​立法會十四題：構建數據交易生態,2025-09-10 11:51,2025-09-10 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000266.htm,"以下是今日（九月十日）在立法會會議上廖長江議員的提問和創新科技及工業局局長孫東教授的書面答覆：
 
 問題：
@@ -1901,6 +1893,80 @@ The Government believes that Hong Kong, leveraging its strengths as an internati
 就粵港澳大灣區而言，律政司在二○二四年四月首次發布《粵港澳大灣區法治建設行動綱領》，積極支持建立及推廣大灣區內通用的線上爭議解決平台。eBRAM中心於二○二四年七月推出大灣區在線爭議解決機構協作平台的主題網站，提供一站式有關大灣區內爭議解決服務的資訊，以整合大灣區仲調資源。協作平台至今載有與14個機構簽署的合作備忘錄。
 
 政府相信香港可憑藉其作為國際法律服務及爭議解決中心的優勢，尤其在仲裁及調解服務方面的專業能力與制度基礎，繼續優化爭議解決機制，為解決跨境商業糾紛，包括跨境數據流動所引致的糾紛，構建更完善的生態。政府將繼續密切留意相關發展趨勢，適時作出研究，並與法律及爭議解決業界持份者保持溝通。政府亦會適時加強與內地法律界的交流協作，推動區域層面的經驗分享。"
+LCQ14: Building a data trading ecosystem,2025-09-10 11:51,2025-09-10 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000277.htm,"Following is a question by the Hon Martin Liao and a written reply by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, in the Legislative Council today (September 10):
+
+Question:
+
+  The Financial Secretary has indicated in the 2024-2025 Budget that the Government has commissioned an expert group to undertake an in depth study on how to develop a robust data trading ecosystem in Hong Kong. In this connection, will the Government inform this Council:
+
+(1) given that the facilitation measure on the Standard Contract for the Cross-boundary Flow of Personal Information Within the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong) (the GBA Standard Contract) has been extended to all sectors since November 1 last year to facilitate the safe cross-boundary flow of personal information within the GBA, of the current number of enterprises participating in the GBA Standard Contract and the details of their respective industries;
+
+(2) whether the Government will explore the setting up of a data exchange in Hong Kong and the development of a comprehensive data market trading system, including standardised data format, data pricing mechanisms, categorised and hierarchical rules for data protection, data security protection mechanisms, definition of data ownership, etc., with a view to enhancing the marketisation of data elements; if so, of the details; if not, the reasons for that; and
+
+(3) as there are views that, following the active development of the data trading market in the Mainland, more legal disputes relating to cross-boundary data trading (such as those concerning data storage, processing, ownership, and trading) may arise constantly, how will the Government capitalise on Hong Kong's strengths as a ""super connector"" and an international arbitration centre to establish a cross-boundary data trading dispute resolution mechanism, thereby laying a solid foundation for developing a robust data trading ecosystem?
+
+Reply:
+
+President,
+
+  Having consulted the Department of Justice (DoJ), our reply to the questions raised by the Hon Martin Liao is as follows:
+
+(1) The Innovation, Technology and Industry Bureau and the Cyberspace Administration of China signed the ""Memorandum of Understanding on Facilitating Cross-boundary Data Flow within the Guangdong-Hong Kong-Macao Greater Bay Area"" in June 2023, and jointly announced the facilitation measure on the ""Standard Contract for the Cross-boundary Flow of Personal Information within the Guangdong-Hong Kong-Macao Greater Bay Area (Mainland, Hong Kong)"" (the GBA Standard Contract) in December 2023 to facilitate cross boundary flow of personal information from the Mainland cities in the GBA to Hong Kong and streamline the relevant arrangements.
+
+The ""early and pilot implementation"" arrangement of the facilitation measure on the GBA Standard Contract for the banking, credit referencing and healthcare sectors has operated smoothly and received positive industry feedback. From November 2024, the facilitation measure on the GBA Standard Contract was regularised and extended to all sectors. As of end-August 2025, the Digital Policy Office has processed around 100 filing applications from different sectors, including healthcare, credit referencing, insurance, securities and printing sectors, etc. The proportion of filing applications by sectors is as follows:
+
+
+
+
+Sector
+Proportion
+
+
+Healthcare
+24%
+
+
+Credit Referencing
+16%
+
+
+Insurance
+14%
+
+
+Securities
+9%
+
+
+Printing
+9%
+
+
+Information Technology
+8%
+
+
+Banking
+7%
+
+
+Others
+12%
+
+
+
+
+(2) With the acceleration of global digital transformation, data has become a key production factor, and a highly efficient data ecosystem is one of the key factors attracting enterprises to establish a foothold in Hong Kong. Hong Kong is underpinned by its distinctive advantages under ""one country, two systems"" and endowed with the characteristics of an international city. From supply and demand of data to application scenarios, Hong Kong is equipped with a robust foundation and possess an abundance of favourable conditions for promoting the development of data ecosystem.
+
+The Financial Secretary announced in the 2024-25 Budget that an expert group, comprising professionals from sectors such as information technology, commerce and industry, finance and data sources, is commissioned to study how to develop a robust data trading ecosystem in Hong Kong. This includes Hong Kong's role as a ""super connector"" in data trading, the prerequisites, rules, and measures for promoting international data trading, as well as feasible implementation models. The study also covers key issues related to data trading, including data format standardisation, data pricing mechanisms, and data security protection, etc. The expert group is conducting a consultancy study on these topics and is expected to complete work and submit recommendations to the Government within 2025-26.
+
+(3) Resolving legal issues and disputes that may arise from cross-boundary data flow (including through the voluntary adoption of the GBA Standard Contract) depends on the arrangements agreed upon by the parties to the contract and other applicable laws and regulations. Taking the GBA Standard Contract as an example, the contract template stipulates that any disputes arising between the parties to the contract shall be resolved through negotiation. If negotiation fails, the parties may choose to resolve the dispute through litigation or arbitration. If arbitration is opted, the dispute may be submitted to arbitral institutions including, inter alia, the Hong Kong International Arbitration Centre, and the arbitral proceedings may be conducted in Hong Kong in accordance with the arbitration rules in force at the time. This provides a dispute resolution mechanism for cross-boundary data flow within the GBA.
+
+In strengthening Hong Kong's advantages as an international arbitration centre, Hong Kong has been committed to promoting online dispute resolution (ODR) and deal-making services. According to information provided by the DoJ, the 2018 Policy Address proposed supporting the development of an online platform to provide efficient and cost-effective ODR services in Hong Kong. As a result, eBRAM International Online Dispute Resolution Centre (eBRAM Centre) was established. Since 2022, eBRAM Centre has launched online platforms, including the ""eBRAM APEC Online Dispute Resolution Platform"", ""Online Mediation Platform"" and ""Online Arbitration Platform"", providing efficient, cost-effective, and secure ODR services for parties from anywhere in the world. To facilitate cross-boundary commercial transactions and expand cross-boundary businesses, eBRAM Centre launched the ""Deal-Making Portal"" in December 2023. As of August 2025, more than 550 enterprises of various categories (including legal, professional and commercial services, information technology, etc. from Hong Kong, Mainland and other regions) have joined the ""Deal-Making Portal"".
+
+Regarding the GBA, the DoJ first published the Action Plan on the Construction of Rule of Law in the Guangdong-Hong Kong-Macao Greater Bay Area in April 2024, actively supporting the establishment and promotion of a common ODR platform within the GBA. eBRAM Centre launched the thematic website of the GBA Online Collaborative Platform in July 2024, providing one-stop information on dispute resolution services within the GBA to integrate the arbitration and mediation resources of the GBA. A total of 14 memoranda of understanding with institutions have been signed so far for the Collaborative Platform.
+
+The Government believes that Hong Kong, leveraging its strengths as an international legal and dispute resolution hub, particularly its professional expertise and institutional foundation in arbitration and mediation, can continue to enhance its dispute resolution mechanisms. This will help build a more robust ecosystem for resolving cross-boundary commercial disputes, including those arising from cross-boundary data flow. The Government will continue to monitor relevant developments, conduct study as and when appropriate, maintain communication with stakeholders in the legal and dispute resolution sectors. The Government will also strengthen exchanges and cooperation with the Mainland legal community to promote regional experience sharing as and when appropriate."
 Speech by Secretary for Health at Opening Ceremony of BIOHK2025 (English only),2025-09-10 11:50,2025-09-10 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000295.htm,"  Following is the speech by the Secretary for Health, Professor Lo Chung-mau, at the Opening Ceremony of BIOHK2025 today (September 10):
 
 Mr C Y Leung (Vice-Chairman of the National Committee of the Chinese People's Political Consultative Conference), Professor Sun Dong (Secretary for Innovation, Technology and Industry), Professor Albert Yu (Chairman of the Hong Kong Biotechnology Organization (HKBIO) and President of BIOHK2025), distinguished guests, ladies and gentlemen,
@@ -2131,16 +2197,33 @@ Honourable Vice-Chairman C Y Leung (Vice-Chairman of the National Committee of t
   Ladies and gentlemen, Hong Kong is open for innovation. As we gather here at BIOHK2025, we reaffirm our shared commitment to shaping the future of biotechnology. The opportunities ahead are vast, and the momentum is real. Let us seize the moment together for a healthier and smarter future, starting right here in Hong Kong.
 
   In closing, I would like to take this opportunity to thank the HKBIO and the relevant stakeholders, including our industry leaders and experts, for their continued efforts and significant contributions to promote the development of biotechnology in Hong Kong. May I wish the BIOHK2025 a resounding success. Thank you."
-EMSD announces test results of LPG quality in August 2025,2025-09-10 10:40,2025-09-10 11:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000212.htm,"The Electrical and Mechanical Services Department (EMSD) today (September 10) announced that the department collected eight liquefied petroleum gas (LPG) samples from auto-LPG filling stations and LPG terminals on a random basis during August 2025 for laboratory tests. The results show that the LPG quality of all these samples complied with auto-LPG specifications.
+Speech by SITI at Opening Ceremony of BIOHK2025 (English only) (with photo),2025-09-10 11:00,2025-09-10 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000273.htm,"  Following is the speech by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, at the Opening Ceremony of BIOHK2025 today (September 10):
 
-The detailed test results are available on the EMSD's website (www.emsd.gov.hk/en/gas_safety/lpg_vehicle_scheme/publications/general/results_of_lpg_sample_analysis/index.html). Enquiries can also be made to the EMSD's hotline on 2333 3762.
+Honourable Vice-Chairman C Y Leung (Vice-Chairman of the National Committee of the Chinese People's Political Consultative Conference), Professor Albert Yu (Chairman of the Hong Kong Biotechnology Organization (HKBIO) and President of BIOHK2025), Professor CM Lo (Secretary for Health, Professor Lo Chung-mau), Professor Herman Hu (Member of the National Committee of the Chinese People's Political Consultative Conference Professor Hu Shao-ming), distinguished guests, ladies and gentlemen,
 
-In addition, the EMSD has been vetting independent third-party test reports submitted by LPG supply companies for each shipment to ensure that the quality of imported LPG complies with the specified requirements."
+  Good morning. It is a true pleasure to see you all again at BIOHK2025. Time flies. This marks the fourth edition of this annual flagship biotechnology convention in Hong Kong. Following the success of past years, I am delighted to witness the continued growth of this event in its scale, diversity and global significance, mirroring the dynamism of Hong Kong's ever-growing innovation and technology (I&T) ecosystem.
+
+  Let me begin with some exciting updates of Hong Kong's I&T developments. With strong support from our motherland, the Plaque Presentation Ceremony for 15 State Key Laboratories (SKLs) in Hong Kong was held last month, recognising our city's world-class capabilities and outstanding achievements in scientific research. Among all, six of the SKLs focus on life and health technologies, covering various aspects such as digestive disease, emerging infectious diseases, and pharmaceutical biotechnology. These SKLs serve as engines of discovery and magnets for talent, translating R&D (research and development) into real-world applications that benefit society.
+
+  Another milestone worth celebrating is the recent announcement by the World Intellectual Property Organization (WIPO) that the Shenzhen-Hong Kong-Guangzhou cluster ranks first globally in its Global Innovation Index (GII) 2025. This is truly a remarkable achievement. The top ranking is not only a recognition of the strong innovative capacity of the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), but also a powerful endorsement of the GBA as a fertile ground for I&T investment and entrepreneurship, including biotechnology and other frontier technologies.
+
+  For the first time, WIPO has included venture capital investment as a new metric in its GII ranking, highlighting the importance of transforming scientific research into economic value. It also reflects a broader global trend and standard: innovation must be scalable, sustainable and investable. It also affirms that Hong Kong's efforts in fostering effective collaboration among the Government, industry, academic, research and investment sectors are on the right track.
+
+  As you may be aware, the Hong Kong Special Administrative Region Government has identified life and health technology as a strategic industry, and we are committed to develop Hong Kong into a global leader in this field. Every step requires strategic investment and long-term vision, and Hong Kong is rising to seize these opportunities. I am confident that our world-class R&D infrastructure such as the InnoHK research clusters and the future Life and Health Technology Research Institute, coupled with proactive funding schemes like the Research, Academic and Industry Sectors One-plus Scheme and the upcoming Innovation and Technology Industry-Oriented Fund, will empower Hong Kong to navigate its I&T journey with strength and resilience.
+
+  Ladies and gentlemen, Hong Kong is open for innovation. As we gather here at BIOHK2025, we reaffirm our shared commitment to shaping the future of biotechnology. The opportunities ahead are vast, and the momentum is real. Let us seize the moment together for a healthier and smarter future, starting right here in Hong Kong.
+
+  In closing, I would like to take this opportunity to thank the HKBIO and the relevant stakeholders, including our industry leaders and experts, for their continued efforts and significant contributions to promote the development of biotechnology in Hong Kong. May I wish the BIOHK2025 a resounding success. Thank you."
 機電署公布二○二五年八月份石油氣品質化驗結果,2025-09-10 10:40,2025-09-10 11:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000211.htm,"機電工程署（機電署）今日（九月十日）公布，該署於二○二五年八月以隨機抽樣的方式從石油氣加氣站和儲藏庫抽取了八個石油氣樣本化驗，結果顯示所有樣本品質均符合車用石油氣規格。
 
 詳細化驗結果載於機電署網頁（www.emsd.gov.hk/tc/gas_safety/lpg_vehicle_scheme/publications/general/results_of_lpg_sample_analysis/index.html），公眾人士亦可致電該署熱線2333 3762查詢。
 
 此外，機電署一直有檢視石油氣供應公司在每一次進口時提交的第三者獨立檢驗報告，以確保進口的石油氣品質符合規定。"
+EMSD announces test results of LPG quality in August 2025,2025-09-10 10:40,2025-09-10 11:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000212.htm,"The Electrical and Mechanical Services Department (EMSD) today (September 10) announced that the department collected eight liquefied petroleum gas (LPG) samples from auto-LPG filling stations and LPG terminals on a random basis during August 2025 for laboratory tests. The results show that the LPG quality of all these samples complied with auto-LPG specifications.
+
+The detailed test results are available on the EMSD's website (www.emsd.gov.hk/en/gas_safety/lpg_vehicle_scheme/publications/general/results_of_lpg_sample_analysis/index.html). Enquiries can also be made to the EMSD's hotline on 2333 3762.
+
+In addition, the EMSD has been vetting independent third-party test reports submitted by LPG supply companies for each shipment to ensure that the quality of imported LPG complies with the specified requirements."
 Speech by CE at 10th Belt and Road Summit (English only) (with photos/video),2025-09-10 10:14,2025-09-10 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/10/P2025091000232.htm," Following is the speech by the Chief Executive, Mr John Lee, at the 10th Belt and Road Summit today (September 10):
 
 Honourable Director Zhou Ji (the Director of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region (HKSAR)), Secretary Feng Fei (Secretary of the CPC Hainan Provincial Committee), Vice Minister Yan Dong (Vice Minister of Commerce), Vice Chairman Li Zhen (Vice Chairman of the State-owned Assets Supervision and Administration Commission of the State Council), Deputy Secretary General Xiao Weiming (Deputy Secretary General of the National Development and Reform Commission), Commissioner Cui Jianchun (Commissioner of the Ministry of Foreign Affairs in the HKSAR), Professor Frederick Ma (Chairman of the Hong Kong Trade Development Council), officials and friends from around the world, distinguished guests, ladies and gentlemen,
@@ -2770,17 +2853,6 @@ The HKSAR Government spokesman stressed, ""Since the return of Hong Kong to the 
 ""Under 'one country, two systems', Hong Kong has the distinctive advantage of enjoying strong support of the motherland and being closely connected to the world. Hong Kong is a member in the World Trade Organization and the Asia Pacific Economic Cooperation in its own right. With the unparalleled connectivity to the Mainland and the rest of the world, Hong Kong will continue to play its unique role as ""super-connector"" and ""super value-adder"". The stable environment benefitted from the implementation of HKNSL has served Hong Kong well to produce strong and ever-growing trade performance with the world, including that the EU continues to be one of Hong Kong's top trading partners. In addition, according to the Economic Freedom of the World 2024 Annual Report released by the Fraser Institute, Hong Kong is ranked the freest economy in the world, ranking first in ""freedom to trade internationally"" and ""regulation"". Also, in the World Competitiveness Yearbook 2025, Hong Kong's overall ranking has moved up by two places from the previous year to become one of the world's top three most competitive economies, and it even tops the rankings in ""business legislation"" and ""tax policy"". Hong Kong will continue to leverage its strengths to enhance its role as international financial, maritime and trade centres, among others, whilst proactively integrating into the overall development of our nation, including the Guangdong-Hong Kong-Macao Greater Bay Area development, the high-quality development of the Belt and Road Initiative, etc.. The HKSAR Government will also continue to create strong impetus for growth at full steam and proactively compete for enterprises and talents to strengthen the city's competitiveness.""
 
 The spokesman reiterated, ""Any attempt by foreign countries or external forces to undermine Hong Kong's prosperity and stability by slandering the city will only expose their own weakness and faulty arguments and be doomed to fail. The HKSAR Government will continue to discharge its duty, in adherence to the principle of the rule of law, to steadfastly ensure the successful implementation of the principles of 'one country, two systems', 'Hong Kong people administering Hong Kong' and a high degree of autonomy. It will continue to create strong impetus for growth at full steam, forge a better integration of a capable government and an efficient market, and proactively compete for enterprises and talent to strengthen the city's competitiveness. It will take the city's economic development to new heights, better serving Hong Kong citizens and fostering the city's development."""
-九龍城致命交通意外,2025-09-09 23:06,2025-09-09 23:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900925.htm,"警方正調查今日（九月九日）下午在九龍城發生的致命交通意外，意外中一名女子死亡。
-
-下午三時三十五分，一名六十二歲男子駕駛一輛私家車沿盛德街往馬頭圍邨一停車場行駛。當駛至近該停車場入口時，該輛私家車據報逆線行駛並失控，期間撞倒該名五十五歲女途人及一名六十二歲女途人，再撞向停泊在該停車場的一輛私家車及一輛輕型貨車。
-
-該名五十五歲女途人頭部及雙腳受傷，昏迷被送往廣華醫院治理，於下午四時零七分被證實死亡。該名六十二歲女途人、該名六十二歲男司機、車上四名乘客（三男一女，年齡介乎四十六歲至五十八歲）受傷，均清醒分別被送往廣華醫院及伊利沙伯醫院治理。
-
-經進一步調查後，該名六十二歲男子涉嫌危險駕駛引致他人死亡被捕，現正被扣留調查。
-
-西九龍總區交通部特別調查隊正跟進調查案件。
-
-任何人如目睹意外發生或有任何資料提供，請致電三六六一九○○○與調查人員聯絡。"
 Fatal traffic accident in Kowloon City,2025-09-09 23:06,2025-09-09 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900924.htm," Police are investigating a fatal traffic accident in Kowloon City this afternoon (September 9), in which a woman died.
 
  At 3.35pm, a private car driven by a 62-year-old man was travelling along Shing Tak Street towards a car park at Ma Tau Wat Estate. When approaching the entrance of the car park, the private car reportedly travelled in the opposite direction and went out of control, during which it knocked down a 55-year-old female pedestrian and a 62-year-old female pedestrian, and then crashed into a parked private car and a parked light goods vehicle inside the car park.
@@ -2792,6 +2864,17 @@ Fatal traffic accident in Kowloon City,2025-09-09 23:06,2025-09-09 23:30,Eng,gia
  Investigation by the Special Investigation Team of Traffic, Kowloon West is under way.
 
  Anyone who witnessed the accident or has any information to offer is urged to contact the investigating officers on 3661 9000."
+九龍城致命交通意外,2025-09-09 23:06,2025-09-09 23:30,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900925.htm,"警方正調查今日（九月九日）下午在九龍城發生的致命交通意外，意外中一名女子死亡。
+
+下午三時三十五分，一名六十二歲男子駕駛一輛私家車沿盛德街往馬頭圍邨一停車場行駛。當駛至近該停車場入口時，該輛私家車據報逆線行駛並失控，期間撞倒該名五十五歲女途人及一名六十二歲女途人，再撞向停泊在該停車場的一輛私家車及一輛輕型貨車。
+
+該名五十五歲女途人頭部及雙腳受傷，昏迷被送往廣華醫院治理，於下午四時零七分被證實死亡。該名六十二歲女途人、該名六十二歲男司機、車上四名乘客（三男一女，年齡介乎四十六歲至五十八歲）受傷，均清醒分別被送往廣華醫院及伊利沙伯醫院治理。
+
+經進一步調查後，該名六十二歲男子涉嫌危險駕駛引致他人死亡被捕，現正被扣留調查。
+
+西九龍總區交通部特別調查隊正跟進調查案件。
+
+任何人如目睹意外發生或有任何資料提供，請致電三六六一九○○○與調查人員聯絡。"
 Hong Kong enters its summer influenza season with another case of severe paediatric influenza A infection reported,2025-09-09 21:26,2025-09-09 21:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900855.htm,"The Centre for Health Protection (CHP) of the Department of Health today (September 9) announced a case of severe paediatric influenza A infection. The CHP also reminded members of the public that the local influenza activity has further increased over the past week, indicating that Hong Konghas entered the summer influenza season. Members of the public should maintain good personal and environmental hygiene at all times. Schools and parents should arrange for children to participate in the seasonal influenza vaccination (SIV) programmes at the start of the new school year to receive free vaccination and prevent respiratory infections.
 
 New case of severe paediatric influenza A infection
@@ -2958,23 +3041,6 @@ An international workshop themed ""Effective Ombudsmanship for People’s Liveli
   The second discussion, themed ""Leveraging Hong Kong's Financial Strengths to Empower Mainland Enterprises' Global Operations"", was moderated by the Global Head of Financial Services, Fintech & Sustainability at InvestHK, Mr King Leung. The panel guests explored how Mainland enterprises leverage Hong Kong to establish corporate treasury centres, optimise cross-border fund pool management structures, and reduce foreign exchange and financing risks. It also delved into the adoption opportunities of fintech and Renminbi internationalisation in supporting Mainland enterprises to expand globally.
 
   The seminar successfully facilitated in-depth dialogue between Mainland enterprises and Hong Kong industry leaders, reinforcing Hong Kong as a premier platform for Mainland enterprises' global expansion."
-八月份白紋伊蚊誘蚊器指數回落,2025-09-09 19:50,2025-09-09 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900712.htm,"食物環境衞生署（食環署）今日（九月九日）公布，八月份全港白紋伊蚊誘蚊器指數為百分之五點三，較七月份的百分之八點一為低，反映相關政府部門持續加緊採取防蚊及滅蚊行動，令本月的整體蚊患情況較上月有所改善。此外，食環署已加強白紋伊蚊誘蚊器指數的資訊發放，讓更多市民可以更快掌握蚊患情況，並會繼續進行控蚊工作，進一步降低基孔肯雅熱及登革熱的傳播風險。
-
-八月份，全部64個監察地區的分區誘蚊器指數均低於百分之二十的警戒水平。八月份每月誘蚊器指數及分區誘蚊器指數高於警戒水平的監察地區數目減少，是由於各政府部門及持份者持續加緊採取防蚊及滅蚊行動，亦有機會受天氣等因素影響。八月份的總雨量為939.2毫米，較七月份的601.7毫米及六月份的237.3毫米大幅上升。整體而言，八月份全港白紋伊蚊誘蚊器指數為百分之五點三，屬於二級水平（顯示監察地區內白紋伊蚊的分布情況頗為廣泛），各相關部門及持份者仍會持續進行控蚊工作。
-
-另外，八月份白紋伊蚊密度指數為一點一，表示在發現白紋伊蚊的誘蚊器中，白紋伊蚊的平均數量為一點一隻，顯示整體監察地區內的白紋伊蚊成蚊數量並不多。
-
-現時，食環署會定期在部門網頁公布白紋伊蚊誘蚊器指數。為讓更多市民可以更快掌握蚊患情況，食環署已加強資訊發放，並通過新聞公布及社交媒體盡快發放最新的誘蚊器指數。
-
-此外，為進一步降低基孔肯雅熱的傳播風險，食環署將原先在分區指數達20%時啓動的強化控蚊工作，擴展至指數介乎10%至20%的區域。具體而言，食環署會在有關區域進行詳細風險評估，找出蚊患情況較高的地點，聯同各部門及持份者進行密集且具針對性的控蚊工作，亦會通知附近的屋苑，建議管理公司和住戶提高警覺，共同採取防蚊滅蚊措施。
-
-為降低基孔肯雅熱及登革熱的傳播風險，食環署繼續在全港各區加強防控蚊患措施，並在病者的住所及於感染期曾到訪的地點250米範圍內進行病媒調查及針對性滅蚊工作，包括清除蚊蟲滋生地、於不能清除的積水處施放殺幼蟲劑，以及於成蚊棲息處如樹木茂密、陰暗隱蔽的地點和荒廢結構進行超低微量霧化處理，以殺滅成蚊。
-
-食環署今年繼續分三期進行全港滅蚊運動，第三期滅蚊運動已於八月四日展開，至十月二十四日止。其間，食環署各分區辦事處會針對區內一些受關注的地點，例如公眾街巿、熟食中心、小販巿場、單幢式樓宇、街道和後巷、大廈的公用地方、村屋、建築地盤、空置土地及路旁工地等，進行一連串的清除積水及防治蚊患行動。為進一步加強滅蚊的成效，食環署已聯同相關部門，於五月七日展開第二期全城防蚊及滅蚊行動，除繼續第一期工作，包括清除潛在蚊子滋生地外，食環署呼籲私人物業管理公司及早維修處所，以減少蚊子滋生地，並開始定期以超低微量噴灑方式殺滅成蚊。
-
-食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境以徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
-
-​白紋伊蚊是傳播登革熱及基孔肯雅熱的病媒。登革熱常見於熱帶及亞熱帶地區，在多個東南亞國家，已成為風土病。世界衞生組織（世衞）於二○二四年共錄得超過1 400萬宗登革熱個案，創歷史新高。此外，根據世衞的資料顯示，超過110個國家和地區曾經錄得基孔肯雅熱本土傳播個案。今年全球多國爆發基孔肯雅熱，截至七月，全球16個國家／地區共錄得超過24萬宗個案。鄰近地區登革熱及基孔肯雅熱的活躍程度仍然高企，巿民不應鬆懈，並應繼續採取有效的防治蚊患措施。"
 一名入境旅客管有未完稅香煙罪成判囚（附圖）,2025-09-09 19:50,2025-09-09 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900797.htm,"​一名入境男旅客因管有未完稅香煙和未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（九月九日）在粉嶺裁判法院被判處監禁四星期及罰款一千二百元。
 
 海關人員於八月二十九日在落馬洲支線管制站截查該名八十三歲抵港男旅客，在其攜帶的斜孭袋及購物袋內檢獲一千七百八十一支未完稅香煙，估計市值約七千元，應課稅值約五千元。該名旅客隨即被捕。
@@ -3006,6 +3072,23 @@ The FEHD continues to conduct its three-phase Anti-mosquito Campaign this year. 
 The FEHD appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
 âAedes albopictus is a kind of mosquito that can transmit DF and CF. DF is commonly found in tropical and subtropical regions of the world, and has become endemic in many countries in Southeast Asia. In 2024, the World Health Organization (WHO) recorded over 14 million cases, which was a record number. Additionally, according to the WHO, CF cases have been recorded in more than 110 countries/regions. Many countries worldwide experienced CF outbreaks this year, and as of July, over 240 000 cases had been reported in 16 countries/regions worldwide. The DF and CF activities in neighbouring areas have remained high. Members of the public should stay vigilant and continue to carry out effective mosquito prevention and control measures."
+八月份白紋伊蚊誘蚊器指數回落,2025-09-09 19:50,2025-09-09 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900712.htm,"食物環境衞生署（食環署）今日（九月九日）公布，八月份全港白紋伊蚊誘蚊器指數為百分之五點三，較七月份的百分之八點一為低，反映相關政府部門持續加緊採取防蚊及滅蚊行動，令本月的整體蚊患情況較上月有所改善。此外，食環署已加強白紋伊蚊誘蚊器指數的資訊發放，讓更多市民可以更快掌握蚊患情況，並會繼續進行控蚊工作，進一步降低基孔肯雅熱及登革熱的傳播風險。
+
+八月份，全部64個監察地區的分區誘蚊器指數均低於百分之二十的警戒水平。八月份每月誘蚊器指數及分區誘蚊器指數高於警戒水平的監察地區數目減少，是由於各政府部門及持份者持續加緊採取防蚊及滅蚊行動，亦有機會受天氣等因素影響。八月份的總雨量為939.2毫米，較七月份的601.7毫米及六月份的237.3毫米大幅上升。整體而言，八月份全港白紋伊蚊誘蚊器指數為百分之五點三，屬於二級水平（顯示監察地區內白紋伊蚊的分布情況頗為廣泛），各相關部門及持份者仍會持續進行控蚊工作。
+
+另外，八月份白紋伊蚊密度指數為一點一，表示在發現白紋伊蚊的誘蚊器中，白紋伊蚊的平均數量為一點一隻，顯示整體監察地區內的白紋伊蚊成蚊數量並不多。
+
+現時，食環署會定期在部門網頁公布白紋伊蚊誘蚊器指數。為讓更多市民可以更快掌握蚊患情況，食環署已加強資訊發放，並通過新聞公布及社交媒體盡快發放最新的誘蚊器指數。
+
+此外，為進一步降低基孔肯雅熱的傳播風險，食環署將原先在分區指數達20%時啓動的強化控蚊工作，擴展至指數介乎10%至20%的區域。具體而言，食環署會在有關區域進行詳細風險評估，找出蚊患情況較高的地點，聯同各部門及持份者進行密集且具針對性的控蚊工作，亦會通知附近的屋苑，建議管理公司和住戶提高警覺，共同採取防蚊滅蚊措施。
+
+為降低基孔肯雅熱及登革熱的傳播風險，食環署繼續在全港各區加強防控蚊患措施，並在病者的住所及於感染期曾到訪的地點250米範圍內進行病媒調查及針對性滅蚊工作，包括清除蚊蟲滋生地、於不能清除的積水處施放殺幼蟲劑，以及於成蚊棲息處如樹木茂密、陰暗隱蔽的地點和荒廢結構進行超低微量霧化處理，以殺滅成蚊。
+
+食環署今年繼續分三期進行全港滅蚊運動，第三期滅蚊運動已於八月四日展開，至十月二十四日止。其間，食環署各分區辦事處會針對區內一些受關注的地點，例如公眾街巿、熟食中心、小販巿場、單幢式樓宇、街道和後巷、大廈的公用地方、村屋、建築地盤、空置土地及路旁工地等，進行一連串的清除積水及防治蚊患行動。為進一步加強滅蚊的成效，食環署已聯同相關部門，於五月七日展開第二期全城防蚊及滅蚊行動，除繼續第一期工作，包括清除潛在蚊子滋生地外，食環署呼籲私人物業管理公司及早維修處所，以減少蚊子滋生地，並開始定期以超低微量噴灑方式殺滅成蚊。
+
+食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境以徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
+
+​白紋伊蚊是傳播登革熱及基孔肯雅熱的病媒。登革熱常見於熱帶及亞熱帶地區，在多個東南亞國家，已成為風土病。世界衞生組織（世衞）於二○二四年共錄得超過1 400萬宗登革熱個案，創歷史新高。此外，根據世衞的資料顯示，超過110個國家和地區曾經錄得基孔肯雅熱本土傳播個案。今年全球多國爆發基孔肯雅熱，截至七月，全球16個國家／地區共錄得超過24萬宗個案。鄰近地區登革熱及基孔肯雅熱的活躍程度仍然高企，巿民不應鬆懈，並應繼續採取有效的防治蚊患措施。"
 行政長官與海南省委書記會面（附圖）,2025-09-09 19:00,2025-09-09 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900755.htm,"​行政長官李家超今日（九月九日）在禮賓府與海南省委書記馮飛會面，就深化瓊港合作交流意見。行政長官辦公室主任葉文娟和政制及內地事務局副局長胡健民亦有出席。
 
 李家超歡迎馮飛書記率領代表團訪港，出席第十屆「一帶一路高峰論壇」。李家超表示很高興繼三月訪問海南省後，再次與馮飛書記會面。他說，香港與海南地緣相近、人緣相親、商緣相連。兩地政府三月簽署了《海南省人民政府香港特別行政區政府合作備忘錄》，涵蓋經貿投資、金融、數據安全有序流動、旅遊，以及人才交流共五個領域的深度合作，進一步加強瓊港交流合作。
@@ -3022,15 +3105,6 @@ Mr Lee said that Hainan and Hong Kong are both key links under the Belt and Road
 
 Highlighting that the Hainan Provincial People's Government is the first provincial government of the Mainland to utilise Hong Kong's financing platform and professional services to issue bonds, Mr Lee welcomed and thanked the Hainan Provincial People's Government for leveraging Hong Kong's advantages as an international financial centre and a platform for offshore Renminbi debt products, jointly contributing to the Belt and Road Initiative. The HKSAR Government will continue to actively play its bridging role, deepening exchanges and co-operation between Hong Kong and Hainan in various areas such as economy and trade, tourism, and talent, achieving complementarities and mutual benefits, and contributing to the country's high-quality development.
 "
-"Countryside Conservation Office holds ""Discovering Ecological Wonders"" National Ecology Day Thematic Exhibition 2025 (with photos)",2025-09-09 18:45,2025-09-09 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090800662.htm,"The Countryside Conservation Office (CCO) under the Environment and Ecology Bureau is holding the ""Discovering Ecological Wonders"" National Ecology Day Thematic Exhibition 2025 starting today (September 9) in celebration of the third National Ecology Day (NED).
-
-The exhibition aims to enhance public awareness regarding the culture and natural ecology of Hong Kong's countryside, encourage the public to visit the countryside, and raise the community's awareness of ecological civilisation, as well as embodying the country's core concept of ""lucid waters and lush mountains are invaluable assets"".
-
-The exhibition comprises six zones: Culture Quest, Water Bird Soar, Butterfly Wonderland, Virtual Countryside Walk, Kuk Po Chill & Click, and Countryside Conservation Photo Booth. Combining multimedia interactive installations and educational elements, the exhibition includes a card game, virtual reality games, simulated Danaid butterfly marking, microscopic views of butterfly scales, a special reed field photo zone and a selfie booth, allowing visitors to interactively learn about the culture and natural habitats of the local countryside. The exhibition will also feature the Nature's Gala special event to be held at 2pm on September 13, comprising singing and children's martial arts performances, among others, to attract a wider audience.
-
-The exhibition will be held from today to September 17 at the Event Hall, UG/F, Citywalk 2, Tsuen Wan. Admission is free. The opening hours are from noon to 7pm, with extended hours to 8pm on September 13. For details of the exhibition, please visit the CCO's Facebook page (www.facebook.com/countrysideconservationhk).
-
-The country had designated August 15 as NED every year since 2023, with a view to enhancing public awareness of ecological civilisation and environmental protection. Government and non-governmental organisations have launched a series of special events fromAugust 15to September 28, including this exhibition, to enable the public to respond to and participate in the thirdNED this year. Details of theNEDThematic Exhibition and special events have been uploaded to the Countryside Conservation Office website (cco.gov.hk/en/event-calendar/ned2025) and the Hong Kong Biodiversity Information Hub website of the Agriculture, Fisheries and Conservation Department (bih.gov.hk/en/education-programmes/programmes/index.html)."
 鄉郊保育辦公室舉辦「生態『悠』蹤」全國生態日專題展覽2025（附圖）,2025-09-09 18:45,2025-09-09 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090800658.htm,"環境及生態局轄下鄉郊保育辦公室（鄉郊辦）今日（九月九日）起舉辦「生態『悠』蹤」全國生態日專題展覽2025，以響應第三屆全國生態日。
 
 是次展覽旨在提高公眾對香港鄉郊文化及自然生態的關注，鼓勵市民到訪鄉郊，並提高社會對生態文明建設的意識，貫徹國家落實「綠水青山就是金山銀山」的精神。
@@ -3040,6 +3114,15 @@ The country had designated August 15 as NED every year since 2023, with a view t
 展覽由今日起至九月十七日於荃灣荃新天地二期高層地下中庭舉行，免費入場。展覽時間為中午十二時至晚上七時，九月十三日將延長開放至晚上八時。有關展覽詳情，請瀏覽鄉郊辦Facebook專頁（www.facebook.com/countrysideconservationhk）。
 
 國家自二○二三起將每年八月十五日定為全國生態日，以提高社會生態文明和環境保護意識，政府及非政府機構在八月十五日至九月二十八日推出多項特別活動，包括是次展覽，讓市民一同響應及參與今年第三屆全國生態日。全國生態日專題展覽，以及有關特別活動的詳情，已上載至鄉郊保育辦公室網站（cco.gov.hk/tc/event-calendar/ned2025）和漁農自然護理署的香港生物多樣性資訊站（bih.gov.hk/tc/education-programmes/programmes/index.html）。"
+"Countryside Conservation Office holds ""Discovering Ecological Wonders"" National Ecology Day Thematic Exhibition 2025 (with photos)",2025-09-09 18:45,2025-09-09 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090800662.htm,"The Countryside Conservation Office (CCO) under the Environment and Ecology Bureau is holding the ""Discovering Ecological Wonders"" National Ecology Day Thematic Exhibition 2025 starting today (September 9) in celebration of the third National Ecology Day (NED).
+
+The exhibition aims to enhance public awareness regarding the culture and natural ecology of Hong Kong's countryside, encourage the public to visit the countryside, and raise the community's awareness of ecological civilisation, as well as embodying the country's core concept of ""lucid waters and lush mountains are invaluable assets"".
+
+The exhibition comprises six zones: Culture Quest, Water Bird Soar, Butterfly Wonderland, Virtual Countryside Walk, Kuk Po Chill & Click, and Countryside Conservation Photo Booth. Combining multimedia interactive installations and educational elements, the exhibition includes a card game, virtual reality games, simulated Danaid butterfly marking, microscopic views of butterfly scales, a special reed field photo zone and a selfie booth, allowing visitors to interactively learn about the culture and natural habitats of the local countryside. The exhibition will also feature the Nature's Gala special event to be held at 2pm on September 13, comprising singing and children's martial arts performances, among others, to attract a wider audience.
+
+The exhibition will be held from today to September 17 at the Event Hall, UG/F, Citywalk 2, Tsuen Wan. Admission is free. The opening hours are from noon to 7pm, with extended hours to 8pm on September 13. For details of the exhibition, please visit the CCO's Facebook page (www.facebook.com/countrysideconservationhk).
+
+The country had designated August 15 as NED every year since 2023, with a view to enhancing public awareness of ecological civilisation and environmental protection. Government and non-governmental organisations have launched a series of special events fromAugust 15to September 28, including this exhibition, to enable the public to respond to and participate in the thirdNED this year. Details of theNEDThematic Exhibition and special events have been uploaded to the Countryside Conservation Office website (cco.gov.hk/en/event-calendar/ned2025) and the Hong Kong Biodiversity Information Hub website of the Agriculture, Fisheries and Conservation Department (bih.gov.hk/en/education-programmes/programmes/index.html)."
 政務司副司長在立法會經濟發展事務委員會會議就發展銀髮經濟開場發言（只有中文）,2025-09-09 18:40,2025-09-09 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900612.htm,"以下是政務司副司長卓永興今日（九月九日）在立法會經濟發展事務委員會會議就發展銀髮經濟的開場發言：
 
 主席、各位委員：
@@ -3220,6 +3303,15 @@ in addition to DEET, there are other insect repellents available on the market c
 ââThe FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
 The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
+醫務衞生局局長見證香港中醫醫院與三間本地大學簽署合作協議,2025-09-09 17:25,2025-09-09 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900354.htm,"醫務衞生局（醫衞局）局長盧寵茂教授今日（九月九日）出席香港中醫醫院與三間設有中醫或中醫藥學院的本地大學（即香港浸會大學（浸大）、香港中文大學（中大）和香港大學（港大））合作協議簽署儀式，見證香港中醫醫院作為相關大學的中醫藥教學醫院，與大學建立緊密合作夥伴關係，共同推動本港中醫藥高質量、高水平及全方位發展。
+
+盧寵茂教授說：「香港中醫醫院今日正式成為三間大學的中醫藥教學醫院，是香港中醫藥服務、教學培訓及科研發展的重要里程碑。我期望香港中醫醫院與三間大學發揮協同效應，為市民提供更優質的中醫服務，並推動中醫藥教學培訓和科研創新。特區政府會繼續全力支持香港中醫醫院與各持份者攜手合作，善用粵港澳大灣區的發展平台，同時充分發揮香港背靠祖國、聯通世界的獨特優勢，為國家中醫藥發展作出貢獻。」
+
+香港中醫醫院的臨床服務涵蓋六個中醫分科服務，包括中醫內科、中醫外科、中醫婦科、中醫兒科、中醫骨傷科及中醫針灸科，三間大學的中醫藥專家將會參與其中，並共同制訂臨床標準與指引，讓醫院為市民提供優質安全的服務。與此同時，作為三間大學的中醫藥教學醫院，香港中醫醫院會為本科生和研究生提供本地臨床實習及深造培訓機會，成為中醫藥人才培訓的重要基地。此外，醫院的多樣化病例，可以與各大學的頂尖科研實力結合，共同推進中醫藥科研發展，包括中成藥研發和臨床研究。香港中醫醫院亦會透過三間大學的國際學術網絡，積極加強與內地和海外同儕的合作，共同助力中醫藥走向國際。
+
+在簽署儀式上，盧寵茂教授、浸大校長衞炳江教授（香港中醫醫院代表）與三間大學代表——浸大副校長（研究及拓展）呂愛平教授、中大醫學院院長趙偉仁教授和港大副校長（健康）暨李嘉誠醫學院院長劉澤星教授，共同見證香港中醫醫院營運機構董事局主席王桂壎分別與浸大中醫藥學院院長李敏教授、中大中醫學院院長林志秀教授，以及港大李嘉誠醫學院副院長（臨床事務）暨香港大學醫療系統總監黃穎兒教授簽署合作協議。香港中醫醫院行政總監卞兆祥教授亦有出席儀式後舉行的傳媒簡報會。
+
+位於將軍澳百勝角路一號的香港中醫醫院採用公私營協作模式，由政府全資興建。政府在二○二一年透過招標程序委託浸大作為承辦機構，而浸大其後亦按服務契約的要求，於同年成立一所擔保有限公司作為營運機構，負責該院的管理、營運及保養。香港中醫醫院將於今年十二月起分階段投入服務。"
 Secretary for Health witnesses signing of collaboration agreements between The Chinese Medicine Hospital of Hong Kong and three local universities (with photos),2025-09-09 17:25,2025-09-09 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900355.htm,"The Secretary for Health, Professor Lo Chung-mau, today (September 9) attended the signing ceremony of the collaboration agreements between The Chinese Medicine Hospital of Hong Kong (CMHHK) and three local universities with schools of Chinese medicine, namely Hong Kong Baptist University (HKBU), the Chinese University of Hong Kong (CUHK), and the University of Hong Kong (HKU). He witnessed CMHHK, as the Chinese medicine (CM) teaching hospital for the respective universities, establish a close partnership with the universities to promote the high-quality and high-standard development of CM in Hong Kong on all fronts.
 
 Professor Lo said, ""Today, CMHHK becomes the CM teaching hospital for the three universities, which marks a significant milestone in the development of CM services, training and education, and scientific research in Hong Kong. I expect CMHHK and the three universities to create synergy in providing better CM services for members of the public, as well as fostering training and education, and scientific research and innovation in CM. The Hong Kong Special Administrative Region Government will continue to give full support to the CMHHK in collaborating with various stakeholders to make good use of the development platform of the Guangdong-Hong Kong-Macao Greater Bay Area and fully leverage Hong Kong's unique advantage of enjoying strong support from the motherland and being closely connected to the world, with a view to contributing to the national development of CM.""
@@ -3238,15 +3330,6 @@ Located at 1 Pak Shing Kok Road in Tseung Kwan O, CMHHK adopts a public-private 
 在簽署儀式上，盧寵茂教授、浸大校長衞炳江教授（香港中醫醫院代表）與三間大學代表——浸大副校長（研究及拓展）呂愛平教授、中大醫學院院長趙偉仁教授和港大副校長（健康）暨李嘉誠醫學院院長劉澤星教授，共同見證香港中醫醫院營運機構董事局主席王桂壎分別與浸大中醫藥學院院長李敏教授、中大中醫學院院長林志秀教授，以及港大李嘉誠醫學院副院長（臨床事務）暨香港大學醫療系統總監黃穎兒教授簽署合作協議。香港中醫醫院行政總監卞兆祥教授亦有出席儀式後舉行的傳媒簡報會。
 
 位於將軍澳百勝角路一號的香港中醫醫院採用公私營協作模式，由政府全資興建。政府在二○二一年透過招標程序委託浸大作為承辦機構，而浸大其後亦按服務契約的要求，於同年成立一所擔保有限公司作為營運機構，負責該院的管理、營運及保養。香港中醫醫院將於今年十二月起分階段投入服務。"
-醫務衞生局局長見證香港中醫醫院與三間本地大學簽署合作協議,2025-09-09 17:25,2025-09-09 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900354.htm,"醫務衞生局（醫衞局）局長盧寵茂教授今日（九月九日）出席香港中醫醫院與三間設有中醫或中醫藥學院的本地大學（即香港浸會大學（浸大）、香港中文大學（中大）和香港大學（港大））合作協議簽署儀式，見證香港中醫醫院作為相關大學的中醫藥教學醫院，與大學建立緊密合作夥伴關係，共同推動本港中醫藥高質量、高水平及全方位發展。
-
-盧寵茂教授說：「香港中醫醫院今日正式成為三間大學的中醫藥教學醫院，是香港中醫藥服務、教學培訓及科研發展的重要里程碑。我期望香港中醫醫院與三間大學發揮協同效應，為市民提供更優質的中醫服務，並推動中醫藥教學培訓和科研創新。特區政府會繼續全力支持香港中醫醫院與各持份者攜手合作，善用粵港澳大灣區的發展平台，同時充分發揮香港背靠祖國、聯通世界的獨特優勢，為國家中醫藥發展作出貢獻。」
-
-香港中醫醫院的臨床服務涵蓋六個中醫分科服務，包括中醫內科、中醫外科、中醫婦科、中醫兒科、中醫骨傷科及中醫針灸科，三間大學的中醫藥專家將會參與其中，並共同制訂臨床標準與指引，讓醫院為市民提供優質安全的服務。與此同時，作為三間大學的中醫藥教學醫院，香港中醫醫院會為本科生和研究生提供本地臨床實習及深造培訓機會，成為中醫藥人才培訓的重要基地。此外，醫院的多樣化病例，可以與各大學的頂尖科研實力結合，共同推進中醫藥科研發展，包括中成藥研發和臨床研究。香港中醫醫院亦會透過三間大學的國際學術網絡，積極加強與內地和海外同儕的合作，共同助力中醫藥走向國際。
-
-在簽署儀式上，盧寵茂教授、浸大校長衞炳江教授（香港中醫醫院代表）與三間大學代表——浸大副校長（研究及拓展）呂愛平教授、中大醫學院院長趙偉仁教授和港大副校長（健康）暨李嘉誠醫學院院長劉澤星教授，共同見證香港中醫醫院營運機構董事局主席王桂壎分別與浸大中醫藥學院院長李敏教授、中大中醫學院院長林志秀教授，以及港大李嘉誠醫學院副院長（臨床事務）暨香港大學醫療系統總監黃穎兒教授簽署合作協議。香港中醫醫院行政總監卞兆祥教授亦有出席儀式後舉行的傳媒簡報會。
-
-位於將軍澳百勝角路一號的香港中醫醫院採用公私營協作模式，由政府全資興建。政府在二○二一年透過招標程序委託浸大作為承辦機構，而浸大其後亦按服務契約的要求，於同年成立一所擔保有限公司作為營運機構，負責該院的管理、營運及保養。香港中醫醫院將於今年十二月起分階段投入服務。"
 Secretary for Health witnesses signing of collaboration agreements between The Chinese Medicine Hospital of Hong Kong and three local universities,2025-09-09 17:25,2025-09-09 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900355.htm,"The Secretary for Health, Professor Lo Chung-mau, today (September 9) attended the signing ceremony of the collaboration agreements between The Chinese Medicine Hospital of Hong Kong (CMHHK) and three local universities with schools of Chinese medicine, namely Hong Kong Baptist University (HKBU), the Chinese University of Hong Kong (CUHK), and the University of Hong Kong (HKU). He witnessed CMHHK, as the Chinese medicine (CM) teaching hospital for the respective universities, establish a close partnership with the universities to promote the high-quality and high-standard development of CM in Hong Kong on all fronts.
 
 Professor Lo said, ""Today, CMHHK becomes the CM teaching hospital for the three universities, which marks a significant milestone in the development of CM services, training and education, and scientific research in Hong Kong. I expect CMHHK and the three universities to create synergy in providing better CM services for members of the public, as well as fostering training and education, and scientific research and innovation in CM. The Hong Kong Special Administrative Region Government will continue to give full support to the CMHHK in collaborating with various stakeholders to make good use of the development platform of the Guangdong-Hong Kong-Macao Greater Bay Area and fully leverage Hong Kong's unique advantage of enjoying strong support from the motherland and being closely connected to the world, with a view to contributing to the national development of CM.""
@@ -3256,222 +3339,16 @@ The clinical services of CMHHK cover six specialised CM services, namely Interna
 At the signing ceremony, Professor Lo; the President and Vice-Chancellor of HKBU, Professor Alexander Wai (representative of CMHHK); and representatives of the three universities, namely the Vice-President (Research and Development) of HKBU, Professor Lyu Aiping; the Dean of the Faculty of Medicine of the CUHK, Professor Philip Chiu; and the Vice-President and Pro-Vice-Chancellor (Health) and Dean of the LKS Faculty of Medicine of the HKU, Professor Lau Chak-sing, jointly witnessed the signing of agreements by the Chairperson of the Board of Directors of CMHHK Operator, Mr Huen Wong, with the Dean of the School of Chinese Medicine of HKBU, Professor Li Min; the Director of the School of Chinese Medicine of the CUHK, Professor Lin Zhixiu; and the Associate Dean (Clinical Affairs) of the LKS Faculty of Medicine of HKU and Director of HKU Health System, Professor Victoria Wong, respectively. The Hospital Chief Executive of CMHHK, Professor Bian Zhaoxiang, also attended the media briefing held after the signing ceremony.
 
 Located at 1 Pak Shing Kok Road in Tseung Kwan O, CMHHK adopts a public-private partnership model with its construction fully funded by the Government. The Government commissioned HKBU as the Contractor through tendering procedures in 2021. HKBU subsequently incorporated a company limited by guarantee in the same year in accordance with the service deed to act as the operator for managing, operating and maintaining the hospital. CMHHK will commence services in phases starting from December this year."
-挪威和西班牙部分地區禽肉及禽類產品暫停進口,2025-09-09 17:22,2025-09-09 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900683.htm,"食物環境衞生署食物安全中心（中心）今日（九月九日）宣布，因應世界動物衞生組織通報，指挪威諾爾蘭郡哈德瑟爾和西班牙安達盧西亞Huelva省爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
-
-中心發言人說，香港目前與挪威只建立禽肉進口機制，並無禽蛋進口機制。根據政府統計處的資料，本港今年首六個月從挪威進口約四十公斤冷藏禽肉。此外，本港今年首六個月從西班牙進口約五十公噸冷藏禽肉及約五萬隻禽蛋。
-
-發言人說：「中心已就事件聯絡挪威和西班牙當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
 Import of poultry meat and products from areas in Norway and Spain suspended,2025-09-09 17:22,2025-09-09 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900684.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (September 9) that in view of notifications from the World Organisation for Animal Health (WOAH) about outbreaks of highly pathogenic H5N1 avian influenza in Hadsel of Nordland County in Norway and Huelva Province of Andalucía in Spain, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the above-mentioned areas with immediate effect to protect public health in Hong Kong.
 
 A CFS spokesman said that Hong Kong currently has established a protocol with Norway for the import of poultry meat but not for poultry eggs. According to the Census and Statistics Department, Hong Kong imported about 40 kilograms of frozen poultry meat from Norway in the first six months of this year. Moreover, Hong Kong imported about 50 tonnes of frozen poultry meat, and about 50 000 poultry eggs from Spain in the first six months of this year.
 
 ""The CFS has contacted the Norwegian and Spanish authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreak. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
-外匯基金票據投標結果,2025-09-09 17:06,2025-09-09 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900662.htm,"下稿代香港金融管理局發出︰
+挪威和西班牙部分地區禽肉及禽類產品暫停進口,2025-09-09 17:22,2025-09-09 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900683.htm,"食物環境衞生署食物安全中心（中心）今日（九月九日）宣布，因應世界動物衞生組織通報，指挪威諾爾蘭郡哈德瑟爾和西班牙安達盧西亞Huelva省爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
-外匯基金票據投標結果：
+中心發言人說，香港目前與挪威只建立禽肉進口機制，並無禽蛋進口機制。根據政府統計處的資料，本港今年首六個月從挪威進口約四十公斤冷藏禽肉。此外，本港今年首六個月從西班牙進口約五十公噸冷藏禽肉及約五萬隻禽蛋。
 
-
-
-
-投標日期
-：
-2025年9月9日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2537
-
-
-發行日期
-：
-2025年9月10日
-
-
-屆滿日期
-：
-2025年12月10日
-
-
-申請額
-：
-178,007百萬港元
-
-
-發行額
-：
-63,280百萬港元
-
-
-平均接納息率
-：
-2.93厘
-
-
-最高接納息率
-：
-3.00厘
-
-
-分配比例＊
-：
-約48%
-
-
-平均投標息率
-：
-3.16厘
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年9月9日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2566
-
-
-發行日期
-：
-2025年9月10日
-
-
-屆滿日期
-：
-2026年3月11日
-
-
-申請額
-：
-48,160百萬港元
-
-
-發行額
-：
-15,600百萬港元
-
-
-平均接納息率
-：
-2.77厘
-
-
-最高接納息率
-：
-2.82厘
-
-
-分配比例＊
-：
-約13%
-
-
-平均投標息率
-：
-2.89厘
-
-
-
-
-＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
-
----------------------------------------------------------
-
-香港金融管理局在二○二五年九月十五日開始的一星期內舉行的投標：
-
-
-
-
-投標日期
-：
-2025年9月16日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2538
-
-
-發行日期
-：
-2025年9月17日
-
-
-屆滿日期
-：
-2025年12月17日
-
-
-期限
-：
-91日
-
-
-發行額
-：
-62,580百萬港元
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年9月16日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2567
-
-
-發行日期
-：
-2025年9月17日
-
-
-屆滿日期
-：
-2026年3月18日
-
-
-期限
-：
-182日
-
-
-發行額
-：
-14,000百萬港元
-
-
-
-"
+發言人說：「中心已就事件聯絡挪威和西班牙當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
 Exchange Fund Bills tender results,2025-09-09 17:06,2025-09-09 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900661.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 Exchange Fund Bills tender results:
@@ -3678,6 +3555,217 @@ HK$14,000 MN
 
 
 "
+外匯基金票據投標結果,2025-09-09 17:06,2025-09-09 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900662.htm,"下稿代香港金融管理局發出︰
+
+外匯基金票據投標結果：
+
+
+
+
+投標日期
+：
+2025年9月9日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2537
+
+
+發行日期
+：
+2025年9月10日
+
+
+屆滿日期
+：
+2025年12月10日
+
+
+申請額
+：
+178,007百萬港元
+
+
+發行額
+：
+63,280百萬港元
+
+
+平均接納息率
+：
+2.93厘
+
+
+最高接納息率
+：
+3.00厘
+
+
+分配比例＊
+：
+約48%
+
+
+平均投標息率
+：
+3.16厘
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年9月9日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2566
+
+
+發行日期
+：
+2025年9月10日
+
+
+屆滿日期
+：
+2026年3月11日
+
+
+申請額
+：
+48,160百萬港元
+
+
+發行額
+：
+15,600百萬港元
+
+
+平均接納息率
+：
+2.77厘
+
+
+最高接納息率
+：
+2.82厘
+
+
+分配比例＊
+：
+約13%
+
+
+平均投標息率
+：
+2.89厘
+
+
+
+
+＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
+
+---------------------------------------------------------
+
+香港金融管理局在二○二五年九月十五日開始的一星期內舉行的投標：
+
+
+
+
+投標日期
+：
+2025年9月16日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2538
+
+
+發行日期
+：
+2025年9月17日
+
+
+屆滿日期
+：
+2025年12月17日
+
+
+期限
+：
+91日
+
+
+發行額
+：
+62,580百萬港元
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年9月16日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2567
+
+
+發行日期
+：
+2025年9月17日
+
+
+屆滿日期
+：
+2026年3月18日
+
+
+期限
+：
+182日
+
+
+發行額
+：
+14,000百萬港元
+
+
+
+"
+文化體育及旅遊局召開會議統籌內地國慶黃金周旅客訪港的預備工作（附圖）,2025-09-09 17:00,2025-09-09 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900582.htm,"文化體育及旅遊局今日（九月九日）召開會議，統籌十月一日至八日內地國慶黃金周期間接待訪港旅客的預備工作。會議由文化體育及旅遊局局長羅淑佩主持，除香港海關、香港警務處、入境事務處、運輸署以及多區民政事務處等政府部門代表外，多個旅遊相關機構包括旅遊業監管局、香港旅遊發展局、香港旅遊業議會、西九文化區管理局、主要旅遊景點及酒店業等亦有派員出席。
+
+羅淑佩說：「一連八日的內地國慶黃金周即將到來，適逢中秋佳節，香港將有多項活動同時進行，為旅客帶來豐富精彩的旅遊體驗。香港特別行政區政府有關部門會與相關機構及旅遊業界保持緊密聯繫，為接待訪港旅客作好預備，確保各項環節運作暢順，為訪港旅客提供優質體驗。」
+
+相關單位會在內地國慶黃金周前保持緊密聯繫，為迎接訪港旅客的各個範疇預早計劃並推進各項準備工作。"
 提防冒認由金管局發出的文件,2025-09-09 17:00,2025-09-09 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900609.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）收到市民查詢，指有騙徒冒認金管局職員發出文件，聲稱已授權一間投資管理公司為某「人工智能投資應用程式」開立及管理帳戶，企圖誘騙市民轉帳到該帳戶進行投資。
@@ -3701,11 +3789,37 @@ The HKMA clarifies that the documents purported to be issued by the HKMA are fra
 The HKMA reminds the public to carefully verify documents purported to be issued by the HKMA, or institutions purported to be regulated by the HKMA. If in doubt, the public may refer to the Register of Authorized Institutions and Local Representative Offices, the Register of Stored Value Facility Licensees, and the List of Approved Money Brokers available on the HKMA website, or contact the HKMA (enquiry hotline: 2878 8222).
 
 The HKMA has reported the case to the Hong Kong Police Force. Members of the public who suspect that they have become victims of any fraudulent acts should contact the Police or the Commercial Crime Bureau of the Hong Kong Police Force at 2860 5012 for follow-up actions and investigation."
-文化體育及旅遊局召開會議統籌內地國慶黃金周旅客訪港的預備工作（附圖）,2025-09-09 17:00,2025-09-09 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900582.htm,"文化體育及旅遊局今日（九月九日）召開會議，統籌十月一日至八日內地國慶黃金周期間接待訪港旅客的預備工作。會議由文化體育及旅遊局局長羅淑佩主持，除香港海關、香港警務處、入境事務處、運輸署以及多區民政事務處等政府部門代表外，多個旅遊相關機構包括旅遊業監管局、香港旅遊發展局、香港旅遊業議會、西九文化區管理局、主要旅遊景點及酒店業等亦有派員出席。
+Quarterly business receipts indices for service industries for second quarter of 2025,2025-09-09 16:30,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900575.htm,"  Business receipts in value terms of most of the major service industries showed increases of varying magnitudes in the second quarter of 2025 when compared with the second quarter of 2024, according to the provisional figures of business receipts indices released today (September 9) by the Census and Statistics Department (C&SD).
 
-羅淑佩說：「一連八日的內地國慶黃金周即將到來，適逢中秋佳節，香港將有多項活動同時進行，為旅客帶來豐富精彩的旅遊體驗。香港特別行政區政府有關部門會與相關機構及旅遊業界保持緊密聯繫，為接待訪港旅客作好預備，確保各項環節運作暢順，為訪港旅客提供優質體驗。」
+  Comparing the second quarter of 2025 with the second quarter of 2024, double-digit increases were recorded in business receipts indices of the financing (except banking) (+27.7%), import/export trade (+21.2%), insurance (+20.7%) and banking (+14.5%) industries. On the other hand, the real estate industry recorded a decrease of 8.1% in business receipts index during the same period.
 
-相關單位會在內地國慶黃金周前保持緊密聯繫，為迎接訪港旅客的各個範疇預早計劃並推進各項準備工作。"
+  Analysed by service domain, business receipts index of the computer and information technology services domain increased by 75.6% year-on-year during the same period, while that of the tourism, convention and exhibition services domain also increased by 9.6% year-on-year.
+
+  On a seasonally adjusted quarter-to-quarter comparison, business receipts in value terms of around half of the major service industries recorded increases of varying magnitudes in the second quarter of 2025 when compared with the first quarter of 2025. In particular, business receipts indices of the financing (except banking) and real estate industries increased by 3.5% and 3.0% respectively. On the other hand, business receipts index of the insurance industry decreased by 13.9% during the same period.
+
+  Analysed by service domain, comparing the second quarter of 2025 with the first quarter of 2025 on a seasonally adjusted basis, business receipts index of the computer and information technology services domain increased by 10.0%, whereas that of the tourism, convention and exhibition services domain decreased by 5.6%.
+
+Commentary
+
+  A Government spokesman said that business receipts of most service industries recorded increases in the second quarter of 2025 over a year earlier. More notable increases in business receipts were seen for the financing (except banking), import/export trade, insurance, and banking industries.
+
+  Looking ahead, the continued economic expansion should benefit the business of various service industries. Though some industries may be more affected by external uncertainties, steady economic growth in Asia particularly the Mainland, sustained increases in local employment earnings, together with the Government's various measures to boost the economy and attract investment, would provide support to different service industries.
+
+Further information
+
+  Table 1 presents the business receipts indices and their corresponding year-on-year rates of change in respect of selected service industries and service domains for the recent five quarters, while Table 2 shows the corresponding quarter-to-quarter rates of change in the business receipts indices for the recent five quarters based on the seasonally adjusted series.
+
+  The revised figures of business receipts indices for the second quarter of 2025 will be released at the website of the C&SD (www.censtatd.gov.hk/en/web_table.html?id=660-69001) on October 17, 2025.
+
+  Data for compiling the business receipts indices are mainly based on the Quarterly Survey of Service Industries conducted by the C&SD, supplemented by relevant data provided by the Hong Kong Monetary Authority and the Hong Kong Tourism Board.
+
+  A service domain differs from a service industry in that it comprises those economic activities which straddle different industries but are somehow related to a common theme. It may include all activities carried out by all establishments in a service industry that is closely related to the domain. For a service industry that is less closely related, however, only a portion of the establishments in the industry or even only part of the economic activities of the establishments is related to the domain. Taking the tourism, convention and exhibition services domain as an example, it includes all services of convention and exhibition organisers, short-term accommodation services and services of travel agents, and some of the services (only those involving visitors as customers) of restaurants, retailers and transport operators.
+
+  The classification of service industries follows the Hong Kong Standard Industrial Classification Version 2.0, which is used in various economic surveys for classifying economic units into relevant industry classes.
+
+  More detailed statistics are given in the report ""Quarterly Business Receipts Indices for Service Industries, Second Quarter 2025"". Users can browse and download this publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1080006&scode=520).
+
+  For enquiries about the business receipts indices, please contact the Business Services Statistics Section of the C&SD (Tel: 3903 7274 or e-mail: business-receipts@censtatd.gov.hk)."
 二零二五年第二季服務行業按季業務收益指數,2025-09-09 16:30,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900414.htm,"政府統計處今日（九月九日）發表的業務收益指數的臨時數字顯示，二零二五年第二季與二零二四年第二季比較，大部分主要服務行業以價值計算的業務收益均有不同程度的升幅。
 
 二零二五年第二季與二零二四年第二季比較，金融業（銀行除外）（+27.7%）、進出口貿易業（+21.2%）、保險業（+20.7%）及銀行業（+14.5%）的業務收益指數均錄得雙位數升幅。另一方面，地產業的業務收益指數同期則下跌8.1%。
@@ -3779,37 +3893,6 @@ Further information
   More detailed statistics are given in the ""Report on Monthly Survey on the Business Situation of Small and Medium-sized Enterprises"". Users can browse and download the publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1080015&scode=300).
 
   Users who have enquiries about the survey results may contact Industrial Production Statistics Section of the C&SD (Tel: 3903 7246; email: sme-survey@censtatd.gov.hk)."
-Quarterly business receipts indices for service industries for second quarter of 2025,2025-09-09 16:30,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900575.htm,"  Business receipts in value terms of most of the major service industries showed increases of varying magnitudes in the second quarter of 2025 when compared with the second quarter of 2024, according to the provisional figures of business receipts indices released today (September 9) by the Census and Statistics Department (C&SD).
-
-  Comparing the second quarter of 2025 with the second quarter of 2024, double-digit increases were recorded in business receipts indices of the financing (except banking) (+27.7%), import/export trade (+21.2%), insurance (+20.7%) and banking (+14.5%) industries. On the other hand, the real estate industry recorded a decrease of 8.1% in business receipts index during the same period.
-
-  Analysed by service domain, business receipts index of the computer and information technology services domain increased by 75.6% year-on-year during the same period, while that of the tourism, convention and exhibition services domain also increased by 9.6% year-on-year.
-
-  On a seasonally adjusted quarter-to-quarter comparison, business receipts in value terms of around half of the major service industries recorded increases of varying magnitudes in the second quarter of 2025 when compared with the first quarter of 2025. In particular, business receipts indices of the financing (except banking) and real estate industries increased by 3.5% and 3.0% respectively. On the other hand, business receipts index of the insurance industry decreased by 13.9% during the same period.
-
-  Analysed by service domain, comparing the second quarter of 2025 with the first quarter of 2025 on a seasonally adjusted basis, business receipts index of the computer and information technology services domain increased by 10.0%, whereas that of the tourism, convention and exhibition services domain decreased by 5.6%.
-
-Commentary
-
-  A Government spokesman said that business receipts of most service industries recorded increases in the second quarter of 2025 over a year earlier. More notable increases in business receipts were seen for the financing (except banking), import/export trade, insurance, and banking industries.
-
-  Looking ahead, the continued economic expansion should benefit the business of various service industries. Though some industries may be more affected by external uncertainties, steady economic growth in Asia particularly the Mainland, sustained increases in local employment earnings, together with the Government's various measures to boost the economy and attract investment, would provide support to different service industries.
-
-Further information
-
-  Table 1 presents the business receipts indices and their corresponding year-on-year rates of change in respect of selected service industries and service domains for the recent five quarters, while Table 2 shows the corresponding quarter-to-quarter rates of change in the business receipts indices for the recent five quarters based on the seasonally adjusted series.
-
-  The revised figures of business receipts indices for the second quarter of 2025 will be released at the website of the C&SD (www.censtatd.gov.hk/en/web_table.html?id=660-69001) on October 17, 2025.
-
-  Data for compiling the business receipts indices are mainly based on the Quarterly Survey of Service Industries conducted by the C&SD, supplemented by relevant data provided by the Hong Kong Monetary Authority and the Hong Kong Tourism Board.
-
-  A service domain differs from a service industry in that it comprises those economic activities which straddle different industries but are somehow related to a common theme. It may include all activities carried out by all establishments in a service industry that is closely related to the domain. For a service industry that is less closely related, however, only a portion of the establishments in the industry or even only part of the economic activities of the establishments is related to the domain. Taking the tourism, convention and exhibition services domain as an example, it includes all services of convention and exhibition organisers, short-term accommodation services and services of travel agents, and some of the services (only those involving visitors as customers) of restaurants, retailers and transport operators.
-
-  The classification of service industries follows the Hong Kong Standard Industrial Classification Version 2.0, which is used in various economic surveys for classifying economic units into relevant industry classes.
-
-  More detailed statistics are given in the report ""Quarterly Business Receipts Indices for Service Industries, Second Quarter 2025"". Users can browse and download this publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1080006&scode=520).
-
-  For enquiries about the business receipts indices, please contact the Business Services Statistics Section of the C&SD (Tel: 3903 7274 or e-mail: business-receipts@censtatd.gov.hk)."
 Red flag lowered at Tai Po Lung Mei Beach,2025-09-09 16:26,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900655.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible and repeat it at regular intervals:
@@ -3853,16 +3936,6 @@ Please broadcast the following as soon as possible and repeat it at regular inte
 歡迎各位積極考慮在香港設立國際業務地區總部、跨國供應鏈管理中心、財資中心、電商中心、知識產權管理中心、科研中心等，讓香港的各種優勢，成就大家的國際化發展。
 
 最後，祝願希望今天的研討會圓滿成功，各位嘉賓朋友事業宏達，身體健康！謝謝大家！"
-就一宗區議員行為失當施加處分,2025-09-09 16:00,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900577.htm,"民政及青年事務局（民青局）局長麥美娟今日（九月九日）以書面通知屯門區區議員葉吉江，就其危險駕駛罪被法庭判刑構成行為失當一事，決定暫停葉吉江的區議員職能和職務一星期。
-
-民青局局長於七月十八日根據《區議會條例》（第547章）（《條例》）第72C條委任監察委員會，就葉吉江的指稱行為失當進行調查。委員會於九月一日向民青局局長呈交報告。委員會經考慮與指稱行為失當相關證據；事件對區議員、區議會及政府的聲譽及威信造成的負面影響；以及葉吉江的書面陳述後，認為葉吉江因危險駕駛罪被法庭判刑構成行為失當，建議暫停葉吉江的區議員職能和職務一星期。
-
-根據《條例》第72D條及《區議員履職監察制度指引》，民青局局長在考慮報告後，同意委員會的意見，認為葉吉江因危險駕駛罪被法庭判刑構成行為失當，決定暫停葉吉江的區議員職能和職務一星期，被暫停職務期間無權就停職期間收取任何酬金或津貼（包括任滿酬金），但可獲發還其就該期間所產生的運作開支如辦事處租金和員工薪酬。
-
-麥美娟說：「在完善地區治理後，這是政府首次根據區議員履職監察制度對區議員行為失當作出調查及處分。政府非常重視區議員的品行和誠信操守，他們的言行應符合公眾期望，及與區議會及區議員應有的聲譽相稱。政府會繼續監察區議員的履職情況，確保每一位區議員能盡忠職守、為居民服務。政府亦感謝監察委員會五名成員的工作，以及就本案件提出的意見。」
-
-葉吉江由明日（九月十日）起至九月十六日（包括首尾兩日）被暫停其區議員職能和職務，相關安排亦已上載區議會網站讓公眾查閱。"
-Effective Exchange Rate Index,2025-09-09 16:00,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900224.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, September 9, 2025 is 103.5 (down 0.1 against yesterday's index)."
 Sanctions imposed on District Council member for misconduct,2025-09-09 16:00,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900578.htm,"  The Secretary for Home and Youth Affairs (SHYA), Miss Alice Mak, informed Tuen Mun District Council (DC) member Mr Kenneth Yip Kat-kong in writing today (September 9) that, in light of his dangerous driving conviction, which constituted misconduct, his functions and duties as a DC member shall be suspended for one week.
 
   The SHYA appointed a supervisory committee on July 18 pursuant to section 72C of the District Councils Ordinance (Cap. 547) to investigate the alleged misconduct of Mr Yip. The supervisory committee submitted a report to the SHYA on September 1. After considering the evidence related to the misconduct, the negative impact of the incident on DC members, DCs and the Government's reputation and credibility, as well as Mr Yip's written representation, the supervisory committee concluded that Mr Yip's dangerous driving conviction constituted misconduct and recommended suspending Mr Yip's functions and duties as a DC member for one week.
@@ -3872,18 +3945,17 @@ Sanctions imposed on District Council member for misconduct,2025-09-09 16:00,202
   Miss Mak said, ""This is the first time the Government has investigated and imposed sanctions on a DC member for misconduct in accordance with the performance monitoring mechanism for DC members under the improved district governance. The Government places strong emphasis on the conduct and integrity of DC members, and they should conduct themselves in a manner that is in line with public expectations and commensurate with the reputation of the DC and its members. The Government will continue to monitor the performance of DC members to ensure that every DC member upholds their duties to serve the people. The Government would also like to express gratitude to the five members of the supervisory committee for their work and opinions on the case.""
 
   Mr Yip will be suspended from his functions and duties as a DC member from tomorrow (September 10) to September 16 (both dates inclusive). The DC website has been updated accordingly for public information."
+Effective Exchange Rate Index,2025-09-09 16:00,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900224.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, September 9, 2025 is 103.5 (down 0.1 against yesterday's index)."
 港匯指數,2025-09-09 16:00,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900223.htm,二○二五年九月九日（星期二）的港幣匯率指數為一百零三點五（和昨日指數比較下降零點一）。
-日本進口水產的檢測情況,2025-09-09 15:55,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900622.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+就一宗區議員行為失當施加處分,2025-09-09 16:00,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900577.htm,"民政及青年事務局（民青局）局長麥美娟今日（九月九日）以書面通知屯門區區議員葉吉江，就其危險駕駛罪被法庭判刑構成行為失當一事，決定暫停葉吉江的區議員職能和職務一星期。
 
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+民青局局長於七月十八日根據《區議會條例》（第547章）（《條例》）第72C條委任監察委員會，就葉吉江的指稱行為失當進行調查。委員會於九月一日向民青局局長呈交報告。委員會經考慮與指稱行為失當相關證據；事件對區議員、區議會及政府的聲譽及威信造成的負面影響；以及葉吉江的書面陳述後，認為葉吉江因危險駕駛罪被法庭判刑構成行為失當，建議暫停葉吉江的區議員職能和職務一星期。
 
-由九月八日中午截至今日（九月九日）中午，食安中心已對86個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+根據《條例》第72D條及《區議員履職監察制度指引》，民青局局長在考慮報告後，同意委員會的意見，認為葉吉江因危險駕駛罪被法庭判刑構成行為失當，決定暫停葉吉江的區議員職能和職務一星期，被暫停職務期間無權就停職期間收取任何酬金或津貼（包括任滿酬金），但可獲發還其就該期間所產生的運作開支如辦事處租金和員工薪酬。
 
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+麥美娟說：「在完善地區治理後，這是政府首次根據區議員履職監察制度對區議員行為失當作出調查及處分。政府非常重視區議員的品行和誠信操守，他們的言行應符合公眾期望，及與區議會及區議員應有的聲譽相稱。政府會繼續監察區議員的履職情況，確保每一位區議員能盡忠職守、為居民服務。政府亦感謝監察委員會五名成員的工作，以及就本案件提出的意見。」
 
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共163 871個日本進口食物樣本（包括107 200個水產及其製品、海藻及海鹽樣本）及共37 100個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+葉吉江由明日（九月十日）起至九月十六日（包括首尾兩日）被暫停其區議員職能和職務，相關安排亦已上載區議會網站讓公眾查閱。"
 Inspection of aquatic products imported from Japan,2025-09-09 15:55,2025-09-09 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900623.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -3895,41 +3967,17 @@ Inspection of aquatic products imported from Japan,2025-09-09 15:55,2025-09-09 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 163 871 samples of food imported from Japan (including 107 200 samples of aquatic and related products, seaweeds and sea salt) and 37 100 samples of local catch respectively. All the samples passed the tests."
-Speech by FS at Brazil's Independence Day Reception (English only),2025-09-09 15:15,2025-09-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900610.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at Brazil's Independence Day Reception today (September 9):
+日本進口水產的檢測情況,2025-09-09 15:55,2025-09-09 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900622.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
-Ambassador Valler (Consul-General of Brazil in Hong Kong, Mr Wladimir Valler Filho), Deputy Commissioner Pan Yundong (Deputy Commissioner of the Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong Special Administrative Region), Consuls-General, distinguished guests, ladies and gentlemen,
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
 
-  Good afternoon.
+由九月八日中午截至今日（九月九日）中午，食安中心已對86個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
 
-It's a pleasure to be here, today, in celebration of Brazil's National Day – the 203rd anniversary of its Declaration of Independence. On this special occasion, we honour not only the rich history and culture of Brazil but also the enduring friendship between our peoples.
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
 
-Brazil is a country of enviable superlatives. The world's fifth-largest nation in area, it's also the seventh-largest in population, with some 213 million people.
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
-As Latin America's largest economy, Brazil has built an impressive and diversified industrial base, with globally competitive companies spanning agriculture, manufacturing, aerospace, metallurgy, services, and more.
-
-I'm pleased to say that Brazil is also our key trading partner in Latin America. Last year, Brazil was Hong Kong's largest import source and second-largest export market in the region. Bilateral merchandise trade between our economies last year reached US$3.4 billion - an increase of more than 18 per cent year on year. These figures speak to the strength and potential of our economic ties.
-
-At a time when protectionism and unilateralism are on the rise globally, Brazil continues to champion multilateralism and international co-operation. It has been a steadfast partner to our country, China, in building a multipolar world and a more sustainable planet. These shared values are more important than ever, as we work together to build a more inclusive and resilient global community. 
-
-Last year marked the 50th anniversary of diplomatic relations between China and Brazil, when President Xi Jinping paid a state visit to Brazil. It was a milestone celebrated with the signing of over 30 bilateral agreements. And during President Lula da Silva's state visit to our country in May this year, a further 20 co-operation agreements were concluded, covering a wide range of areas including science and technology, digital economy, finance, and more.
-
-This deepening of co-operation between Brazil and China opens up new and exciting avenues for Hong Kong to strengthen its engagement with Brazil. Under the unique ""one country, two systems"" framework, Hong Kong serves as a vital bridge between China and the rest of the world. We are well positioned to facilitate and expand bilateral ties across business, trade and innovation.
-
-Hong Kong offers a world-class business environment, underpinned by the rule of law, a free and open economy, and a regulatory regime that is aligned with the best international standards and enriched by a vibrant international and diverse community. These core strengths continue to earn us high recognition in global competitiveness rankings and positive feedback from international businesses operating here.
-
-In trade, our zero-tariff regime, efficient logistics, and seamless customs clearance make Hong Kong an ideal gateway for Brazilian goods entering the Greater Bay Area and the broader Chinese and Asian markets. 
-
-One area of particular promise for future collaboration is innovation and technology. Brazil leads Latin America in the number and diversity of its start-ups, reflecting a dynamic and entrepreneurial spirit. Likewise, Hong Kong is emerging as a leading I&T hub, bolstered by the strength of the Greater Bay Area, which hosted an innovation cluster that tops the world in a recent ranking by the World Intellectual Property Organization.
-
-We are actively attracting global talent, companies and start-ups to join our thriving innovation ecosystem, with nearly 30 per cent of start-up founders coming from outside Hong Kong.
-
-It helps that Hong Kong is Asia's leading financial centre, offering a full range of funding options, with deep liquidity, exceptional professional services, and unparalleled international connectivity. For start-ups and innovators, launching here is effectively an international seal of approval. If a start-up can thrive in Hong Kong, it is likely to succeed elsewhere.
-
-Of course, our growing ties are not limited to business alone. We welcome Brazilian music, dance, food and drink, entertainment and, yes, football, too. I had the pleasure of enjoying a taste of Brazilian culture in June, at the opening ceremony of ""Extravaganza! When Brazil Meets Hong Kong"", down by the harbour. It was a joyful and colourful celebration that added vibrancy to Hong Kong's calendar as Asia's events capital.
-
-I am delighted to hear that Brazil's ""Extravaganza"" will return to Hong Kong next year, and I look forward to even more cultural exchanges that bring our communities closer together.
-
-On this note, I wish you a happy national day. Thank you very much."
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共163 871個日本進口食物樣本（包括107 200個水產及其製品、海藻及海鹽樣本）及共37 100個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 Speech by FS at Brazil's Independence Day Reception (English only) (with photos),2025-09-09 15:15,2025-09-09 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900610.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at Brazil's Independence Day Reception today (September 9):
 
 Ambassador Valler (Consul-General of Brazil in Hong Kong, Mr Wladimir Valler Filho), Deputy Commissioner Pan Yundong (Deputy Commissioner of the Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong Special Administrative Region), Consuls-General, distinguished guests, ladies and gentlemen,
@@ -3965,50 +4013,38 @@ Of course, our growing ties are not limited to business alone. We welcome Brazil
 I am delighted to hear that Brazil's ""Extravaganza"" will return to Hong Kong next year, and I look forward to even more cultural exchanges that bring our communities closer together.
 
 On this note, I wish you a happy national day. Thank you very much."
-EDB announces Study Subsidy Scheme for Designated Professions/Sectors for 2026/27 cohort - undergraduate programmes,2025-09-09 14:30,2025-09-09 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900348.htm,"âThe Education Bureau (EDB) announced today (September 9) that the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP) will subsidise a total of 4 781 places in 57 undergraduate programmes, covering 3 425 places in 57 first-year-first-degree (FYFD) programmes and 1 356 places in 45 top-up degree (TUD) programmes of eight post-secondary institutions for the cohort to be admitted in the 2026/27 academic year.
+Speech by FS at Brazil's Independence Day Reception (English only),2025-09-09 15:15,2025-09-09 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900610.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at Brazil's Independence Day Reception today (September 9):
 
-The programmes of the SSSDP fall under 10 disciplines that have been identified as having keen manpower demand, namely architecture and engineering, computer science, creative industries, financial technology, healthcare, insurance, logistics, sports and recreation, testing and certification, and tourism and hospitality. The programmes include 16 applied degree programmes, which will receive additional subsidies, with a view to further strengthening the vocational and professional education and training progression pathway at the post-secondary level.
+Ambassador Valler (Consul-General of Brazil in Hong Kong, Mr Wladimir Valler Filho), Deputy Commissioner Pan Yundong (Deputy Commissioner of the Office of the Commissioner of the Ministry of Foreign Affairs in the Hong Kong Special Administrative Region), Consuls-General, distinguished guests, ladies and gentlemen,
 
-The programmes and numbers of subsidised places under the SSSDP are determined by the EDB in consultation with relevant policy bureaux and departments. Details of the participating institutions, the programmes and the numbers of subsidised places are listed in the Annex. The EDB will continue to work with relevant policy bureaux and departments to explore covering more suitable programmes in the SSSDP.
+  Good afternoon.
 
-The annual subsidy amounts for the 2026/27 academic year will remain unchanged at $81,450 for laboratory-based programmes and $46,780 for non-laboratory-based programmes. For applied degree programmes, including the additional annual subsidies, the total annual subsidy amounts will also remain unchanged at $89,620 for laboratory-based programmes and $51,880 for non-laboratory-based programmes.
+It's a pleasure to be here, today, in celebration of Brazil's National Day – the 203rd anniversary of its Declaration of Independence. On this special occasion, we honour not only the rich history and culture of Brazil but also the enduring friendship between our peoples.
 
-The subsidy amounts are applicable to both new and continuing eligible students. The subsidy is tenable for the normal duration of the programmes concerned. Subsidised students will pay a tuition fee with the subsidy applied. Students in need may still apply for student financial assistance from the Student Finance Office of the Working Family and Student Financial Assistance Agency in respect of the actual amount of tuition fee payable.
+Brazil is a country of enviable superlatives. The world's fifth-largest nation in area, it's also the seventh-largest in population, with some 213 million people.
 
-The subsidised FYFD intake places are allocated mainly through the Joint University Programmes Admissions System to ensure that eligible students are selected on a merit basis, whereas the subsidised places of the TUD programmes are allocated in accordance with the existing admission arrangements of the self-financing TUD programmes, i.e. through direct admission by institutions. Students can apply for admission to the programmes directly through the institutions concerned.
+As Latin America's largest economy, Brazil has built an impressive and diversified industrial base, with globally competitive companies spanning agriculture, manufacturing, aerospace, metallurgy, services, and more.
 
-The SSSDP was launched in the 2015/16 academic year to subsidise students to pursue designated full-time locally accredited self-financing undergraduate programmes in selected disciplines. The objectives are as follows:
+I'm pleased to say that Brazil is also our key trading partner in Latin America. Last year, Brazil was Hong Kong's largest import source and second-largest export market in the region. Bilateral merchandise trade between our economies last year reached US$3.4 billion - an increase of more than 18 per cent year on year. These figures speak to the strength and potential of our economic ties.
 
-(1) to increase the supply of subsidised undergraduate places by leveraging the supply of the self-financing post-secondary education sector;
+At a time when protectionism and unilateralism are on the rise globally, Brazil continues to champion multilateralism and international co-operation. It has been a steadfast partner to our country, China, in building a multipolar world and a more sustainable planet. These shared values are more important than ever, as we work together to build a more inclusive and resilient global community. 
 
-(2) to nurture talent in support of specific industries with keen demand for human resources;
+Last year marked the 50th anniversary of diplomatic relations between China and Brazil, when President Xi Jinping paid a state visit to Brazil. It was a milestone celebrated with the signing of over 30 bilateral agreements. And during President Lula da Silva's state visit to our country in May this year, a further 20 co-operation agreements were concluded, covering a wide range of areas including science and technology, digital economy, finance, and more.
 
-(3) to encourage the self-financing post-secondary education sector to offer programmes in selected disciplines that meet Hong Kong's social and economic needs by providing targeted financial support; and
+This deepening of co-operation between Brazil and China opens up new and exciting avenues for Hong Kong to strengthen its engagement with Brazil. Under the unique ""one country, two systems"" framework, Hong Kong serves as a vital bridge between China and the rest of the world. We are well positioned to facilitate and expand bilateral ties across business, trade and innovation.
 
-(4) to support the healthy and sustainable development of the self-financing post-secondary education sector to complement the University Grants Committee-funded sector in broadening and diversifying study opportunities.
+Hong Kong offers a world-class business environment, underpinned by the rule of law, a free and open economy, and a regulatory regime that is aligned with the best international standards and enriched by a vibrant international and diverse community. These core strengths continue to earn us high recognition in global competitiveness rankings and positive feedback from international businesses operating here.
 
-The SSSDP has been expanded to include TUD programmes with effect from the 2023/24 academic year. As for the designated sub-degree programmes, the relevant details for the 2026/27 cohort, including the participating institutions, the sub-degree programmes, the numbers of subsidised places and the subsidy amounts, will be announced in due course.
+In trade, our zero-tariff regime, efficient logistics, and seamless customs clearance make Hong Kong an ideal gateway for Brazilian goods entering the Greater Bay Area and the broader Chinese and Asian markets. 
 
-Details of the SSSDP are available on the EDB website (www.cspe.edu.hk/sssdp)."
-教育局公布二○二六／二七學年指定專業／界別課程資助計劃──學士學位課程,2025-09-09 14:30,2025-09-09 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202509/09/P2025090900338.htm,"​教育局今日（九月九日）公布，在二○二六／二七學年，指定專業／界別課程資助計劃將資助八所專上院校共57個學士學位課程提供4 781個學額，涵蓋57個第一年學士學位課程的3 425個學額，以及45個銜接學位課程的1 356個學額。
+One area of particular promise for future collaboration is innovation and technology. Brazil leads Latin America in the number and diversity of its start-ups, reflecting a dynamic and entrepreneurial spirit. Likewise, Hong Kong is emerging as a leading I&T hub, bolstered by the strength of the Greater Bay Area, which hosted an innovation cluster that tops the world in a recent ranking by the World Intellectual Property Organization.
 
-獲納入資助計劃的學位課程屬於10個對人才需求殷切的範疇，分別為建築及工程、電腦科學、創意工業、金融科技、護理、保險、物流、運動及康樂、檢測及認證和旅遊及款待，當中包括16個應用學位課程，有關課程將獲額外資助，以進一步強化職業專才教育在專上教育層面的進階路徑。
+We are actively attracting global talent, companies and start-ups to join our thriving innovation ecosystem, with nearly 30 per cent of start-up founders coming from outside Hong Kong.
 
-資助計劃下受資助的課程和學額數目經教育局諮詢相關政策局和部門後決定，參與院校、課程及資助學額的詳情載於附件。教育局會繼續與相關政策局和部門合作，研究將更多合適課程納入資助計劃。
+It helps that Hong Kong is Asia's leading financial centre, offering a full range of funding options, with deep liquidity, exceptional professional services, and unparalleled international connectivity. For start-ups and innovators, launching here is effectively an international seal of approval. If a start-up can thrive in Hong Kong, it is likely to succeed elsewhere.
 
-在二○二六／二七學年，實驗室為本課程與非實驗室為本課程的年度資助金額將維持不變，分別為81,450元及46,780元。應用學位課程在計算額外年度資助後，其總年度資助額亦將維持不變，實驗室為本課程為89,620元，非實驗室為本課程則為51,880元。
+Of course, our growing ties are not limited to business alone. We welcome Brazilian music, dance, food and drink, entertainment and, yes, football, too. I had the pleasure of enjoying a taste of Brazilian culture in June, at the opening ceremony of ""Extravaganza! When Brazil Meets Hong Kong"", down by the harbour. It was a joyful and colourful celebration that added vibrancy to Hong Kong's calendar as Asia's events capital.
 
-資助金額適用於符合資格的新生和舊生。資助會在課程的正常修業期內發放。獲資助的學生只需支付扣除資助後的學費。有需要的學生仍可就實際應繳的學費向在職家庭及學生資助事務處轄下的學生資助處申請學生資助。
+I am delighted to hear that Brazil's ""Extravaganza"" will return to Hong Kong next year, and I look forward to even more cultural exchanges that bring our communities closer together.
 
-第一年學士學位課程的資助學額主要通過大學聯合招生辦法分配，以確保合資格的學生是按表現為本的制度錄取。至於銜接學位課程的資助學額則根據自資銜接學位課程的現行收生方法分配，即由院校直接收生，學生可直接向有關院校申請報讀課程。
-
-資助計劃由二○一五／一六學年起推行，資助學生修讀選定範疇的指定全日制經本地評審自資學士學位課程，目的如下：
-
-（一）善用自資專上教育界別的供應，以增加資助學士學位課程的學額；
-（二）為有殷切人力資源需求的特定行業培育人才；
-（三）提供特定的資助，鼓勵自資專上教育界別開辦選定範疇的課程，以配合香港的社會和經濟需要；以及
-（四）支持自資專上教育界別的健康和可持續發展，以便與大學教育資助委員會資助界別相輔相成，開拓並提供多元化的升學機會。
-
-資助計劃由二○二三／二四學年起擴大至涵蓋銜接學位課程。資助計劃在二○二六／二七學年的指定副學位課程及相關詳情，包括參與院校、副學位課程、資助學額和資助金額，將於稍後公布。
-
-資助計劃的詳情載於教育局網頁（www.cspe.edu.hk/sssdp）。"
+On this note, I wish you a happy national day. Thank you very much."
