@@ -1,4 +1,9 @@
 title,date,summary,scrape_time,section,source,url,news_content
+醫管局：公立醫院全日暫停普通科及專科門診等所有非緊急服務,2025-09-24 07:00,,2025-09-24 07:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824360-20250924.htm,"醫管局宣布，公立醫院今日全日暫停所有非緊急服務，包括普通科門診、專科門診、專職醫療門診例如物理治療、職業治療等、老人科及精神科日間醫院、各類日間服務、非緊急化驗例如抽血、交樣本及診斷服務。
+
+醫管局發言人表示，非緊急病人不應在風暴或惡劣天氣期間前往公立醫院或診所，以免發生危險。公立醫院會於八號熱帶氣旋警告信號取消後，盡快恢復所有受影響的非緊急服務，並會於未來一星期陸續通知受影響的病人，盡快為病人另約診症日期，病人毋須擔心。各醫院聯網已設立電話熱線，供有需要病人查詢。
+
+醫管局強調，在八號或以上熱帶氣旋警告信號生效期間，公立醫院的緊急服務包括急症室、住院及緊急手術服務等會維持正常。醫管局重大事故控制中心會密切監察各醫院的運作情況，亦會與各政府部門保持密切溝通，以減低惡劣天氣對公立醫院服務的影響。"
 城門河附近行人隧道水浸　往沙田沿路有塌樹,2025-09-24 06:33,,2025-09-24 07:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824359-20250924.htm,"十號颶風信號生效，多區狂風暴雨。政府接獲多宗塌樹報告，天文台預計，受顯著風暴潮影響，本港沿岸增水約2至3米。
 
 沙田城門河附近的行人隧道，近清晨6時，海水沿岸不斷湧入隧道，導致水浸。
@@ -44,10 +49,10 @@ title,date,summary,scrape_time,section,source,url,news_content
 公司預期，本季收入介乎122億至128億美元，高過預期的119億美元，又預計本季經調整每股盈利介乎3.6至3.9美元，高過預期的3.05美元。
 
 美光股價在收市後延長交易時段升近1%。"
-所有學校今日停課,2025-09-24 05:08,,2025-09-24 05:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824349-20250924.htm,"教育局宣布，受超強颱風樺加沙影響，所有學校包括中學、小學、特殊學校、幼稚園、幼稚園暨幼兒中心及夜校，今日停課。
+教育局宣布所有學校今日停課,2025-09-24 05:08,,2025-09-24 06:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824349-20250924.htm,"教育局宣布，受超強颱風樺加沙影響，所有學校包括中學、小學、特殊學校、幼稚園、幼稚園暨幼兒中心及夜校，今日停課。
 
 教育局日前已提早宣布，昨日及今日一連兩天所有學校停課。"
-教育局宣布所有學校今日停課,2025-09-24 05:08,,2025-09-24 06:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824349-20250924.htm,"教育局宣布，受超強颱風樺加沙影響，所有學校包括中學、小學、特殊學校、幼稚園、幼稚園暨幼兒中心及夜校，今日停課。
+所有學校今日停課,2025-09-24 05:08,,2025-09-24 05:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824349-20250924.htm,"教育局宣布，受超強颱風樺加沙影響，所有學校包括中學、小學、特殊學校、幼稚園、幼稚園暨幼兒中心及夜校，今日停課。
 
 教育局日前已提早宣布，昨日及今日一連兩天所有學校停課。"
 十號信號生效　天文台稱本港水位普遍開始上升　沿岸增水約2米,2025-09-24 05:06,,2025-09-24 05:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824348-20250924.htm,"十號颶風信號現正生效，預料會維持一段時間。
@@ -198,6 +203,7 @@ More to follow."
 
 港鐵會於頭班車開出前，再發放最新列車服務安排資訊。"
 天文台視乎本地風力變化評估是否需發十號颶風信號,2025-09-24 01:49,,2025-09-24 02:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824316-20250924.htm, 
+天文台改發九號烈風或暴風風力增強信號,2025-09-24 01:40,,2025-09-24 02:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824313-20250924.htm,天文台在凌晨1時40分改發九號烈風或暴風風力增強信號。
 T9 issued as Ragasa approaches,2025-09-24 01:40,,2025-09-24 02:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824314-20250924.htm,"The Hong Kong Observatory on Wednesday issued the T9 Increasing Gale or Storm Signal at 1.40am, as Super Typhoon Ragasa continued barreling towards the territory.
 
 Ragasa is expected to pass within 100 kilometres to the south of Hong Kong later on Wednesday morning.
@@ -232,7 +238,6 @@ Overtopping waves are expected along the shoreline, which will be particularly s
 The observatory warned people to stay away from the shore.
 _____________________________
 Last updated: 2025-09-24 HKT 01:58"
-天文台改發九號烈風或暴風風力增強信號,2025-09-24 01:40,,2025-09-24 02:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824313-20250924.htm,天文台在凌晨1時40分改發九號烈風或暴風風力增強信號。
 特朗普出席聯大會議　批聯合國未能支持美國主導的和平努力,2025-09-24 01:31,,2025-09-24 02:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824312-20250924.htm,"美國總統特朗普出席在紐約舉行的聯合國大會並致詞。
 
 特朗普在長近一小時的發言中提到多個議題。他批評聯合國未能支持由美國主導的和平努力，說自己調停了七場衝突，與多個國家的領導人溝通，但從未收到聯合國提出願意協助達成和平協議。
@@ -483,6 +488,7 @@ Deputy chief fire officer Fok Chun-ming called on people not to engage in danger
 
 不少打工仔中午過後已可以提早下班。有市民表示，天文台預警安排能讓僱主及僱員有足夠準備。"
 三款艦載機首次在福建艦彈射升降,2025-09-23 18:59,,2025-09-23 19:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824256-20250923.htm,中國海軍三款艦載機，成功完成在福建艦上的首次彈射起飛和著艦訓練，驗證中國完全自主研製的電磁彈射和阻攔系統與多型艦載機的良好適配性，使福建艦初步具備全甲板作業能力，對推進海軍轉型建設具有里程碑意義。
+【重溫】2025年9月23日新聞天地,2025-09-23 18:58,,2025-09-23 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824261-20250923.htm,詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。
 Three sought medical treatment amid typhoon,2025-09-23 18:58,,2025-09-23 19:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824257-20250923.htm,"The Hospital Authority said three people – two males and one female – had sought treatment at the accident and emergency units at public hospitals as of 4.50pm on Tuesday as Super Typhoon Ragasa edged closer to Hong Kong.
 
 As of 5pm, there were four reports of fallen trees and one report of landslide.
@@ -496,7 +502,6 @@ Meanwhile, the Government Flying Service deployed a drone to collect weather dat
 A video posted on the Security Bureau’s social media showed the drone piercing through the core of the eye wall of the super typhoon.
 
 Given Ragasa's immense power and vast reach, the drone only managed to capture about a quarter of the eye wall, the post said."
-【重溫】2025年9月23日新聞天地,2025-09-23 18:58,,2025-09-23 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824261-20250923.htm,詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。
 八號信號生效　天文台將評估需否在今晚至明日凌晨改發更高信號,2025-09-23 18:56,,2025-09-23 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824265-20250923.htm,"八號西北烈風或暴風信號，現正生效。
 
 天文台表示，按照現時預測，超強颱風樺加沙會於明日早上最接近珠江口一帶，本港風力將進一步增強。天文台會視乎樺加沙與香港的距離及本地風力變化，評估是否需要在今晚11時至明日凌晨3時之間改發更高熱帶氣旋警告信號。
@@ -516,13 +521,6 @@ OECD上調今年全球增長預測至3.2%　內地全年增長4.9%,2025-09-23 18
 OECD在最新經濟展望中，亦上調內地及美國的增長預測，預期今年內地經濟增長將放緩至4.9%，明年進一步放緩至4.4%，分別較原先預期上調0.2和0.1個百分點。
 
 OECD又預計，美國今年經濟增長將放緩至1.8%，較原先預期上調0.2個百分點，但維持明年放緩至1.5%的預測。"
-三人柴灣防坡堤觀浪墮海後獲救　父母與兒子留醫東區醫院,2025-09-23 18:45,,2025-09-23 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，墮海的母親和兒子正在東區醫院深切治療部留醫。
-
-她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
-
-消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘舢舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
-
-霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上舢舨，為母親及男童進行心肺復甦法，並將父親救上舢舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
 一家三口柴灣海面防坡堤觀浪墮海　母親和5歲兒子深切治療部留醫,2025-09-23 18:45,,2025-09-23 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，母親和兒子墮海，正在東區醫院深切治療部留醫。
 
 她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
@@ -530,6 +528,13 @@ OECD又預計，美國今年經濟增長將放緩至1.8%，較原先預期上調
 消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘山舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
 
 霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上山舨，為母親及男童進行心肺復甦法，並將父親救上山舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
+三人柴灣防坡堤觀浪墮海後獲救　父母與兒子留醫東區醫院,2025-09-23 18:45,,2025-09-23 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，墮海的母親和兒子正在東區醫院深切治療部留醫。
+
+她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
+
+消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘舢舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
+
+霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上舢舨，為母親及男童進行心肺復甦法，並將父親救上舢舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
 澳門八號風球及進入即時預防狀態　廣東多地「五停」,2025-09-23 18:41,,2025-09-23 19:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824260-20250923.htm,"澳門下午5時發出八號風球，氣象局預料凌晨改發9號風球的機會高，明日改發10號風球機會較高。
 
 中央氣象台預料樺加沙明日日間於廣東深圳到徐聞一帶沿海登陸。廣東進入防風Ⅰ級應急響應狀態，深圳、佛山、珠海等多個城市實施「五停」，即停課、停工、停產、停運、停業。"
@@ -684,14 +689,14 @@ MTR bosses said railway services were expected to continue operating during the 
 消息又說，母親及男童送院時昏迷，初步已恢復呼吸和脈搏，而父親則清醒送院。
 
 三人獲救後先被送到海事處柴灣公眾貨物裝卸區，救護員即場急救，再將他們送院。消防派出「蛙人」及先遣急救員參與救援。"
-港珠澳大橋暫停通關　澳門將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
+港珠澳大橋各口岸暫停通關　將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
 
 澳門當局說，8號颱風期間「逗留期限」屆滿的旅客，在8號風球除下後，24小時內經國際機場以外口岸離境，或48小時內經國際機場離境，不會視作逾期逗留。但如果旅客在懸掛8號風球前已逾期逗留，就會依法處罰。
 
 澳門將在下午5時改掛8號風球，並因已發出黄色風暴潮警告，預測低漥地區會出現水浸。水位最高時間會在明早10時至下午2時之間。民防中心已經在下午1時，開始執行低漥地區疏散撤離計劃。其中一隊由120多名司警，在天鴿時水浸嚴重的康公康一帶執行任務，對區內受影響的2400多戶，涉及25間酒店、2間娛樂場、1間員工宿舍、1間安老院約有40名長者及12名員工，以及1間衛生中心，進行排查疏散撤離工作。
 
 司警局副局長賴文威估計，由於區內大部份是無人留宿的商舖，當中涉及需要撤離的戶數約360戶，而需撤離人數約942人，但需一級輔助撤離的只有3戶涉及6名人士。"
-港珠澳大橋各口岸暫停通關　將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
+港珠澳大橋暫停通關　澳門將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
 
 澳門當局說，8號颱風期間「逗留期限」屆滿的旅客，在8號風球除下後，24小時內經國際機場以外口岸離境，或48小時內經國際機場離境，不會視作逾期逗留。但如果旅客在懸掛8號風球前已逾期逗留，就會依法處罰。
 
@@ -765,7 +770,6 @@ Alongside Chan, Senior Counsel Jat Sew-tong has been appointed as the new vice-c
 中心說，因應近期本港受颱風以及連日暴雨影響，再次提醒市民，特別是高風險群組例如長期病患者，盡量避免接觸土壤或泥水，以免受類鼻疽病菌感染。
 
 中心去年共錄得23宗類鼻疽個案。因應2022年深水埗出現的類鼻疽群組個案，中心及水務署已採取一系列的預防及監察措施，包括在全港所有配水庫的通風口加裝高效能空氣過濾網、加強食水的餘氯含量、持續監測配水庫及用戶水龍頭食水的餘氯含量，並加強健康教育和監測感染個案。"
-環境及生態局：現屆政府將維持暫緩實施垃圾收費,2025-09-23 15:19,,2025-09-23 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824222-20250923.htm, 
 最高人民檢察院稱持續深化合作追繳犯罪資金　維護地區安全穩定,2025-09-23 15:19,,2025-09-23 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824221-20250923.htm,"第十五屆中國—東盟成員國總檢察長會議今日在香港舉行，本屆會議由中華人民共和國最高人民檢察院主辦，香港特區律政司承辦。中國與東盟成員國的總檢察長及檢察機關代表共約80人來港出席會議。本屆會議以「數字時代打擊洗錢、腐敗犯罪及資金追繳」為主題。
 
 中國首席大檢察官、最高人民檢察院檢察長應勇在致辭時表示，本次會議的主題反映與會各方對洗錢犯罪、腐敗犯罪，以及非法資金跨境轉移危害的共同認識，體現各國檢察機關加強反洗錢、反腐敗國際合作的共同願望，持續深化在犯罪資金追繳方面的合作，更好地攜手維護地區安全穩定，促進共同發展。
@@ -775,6 +779,7 @@ Alongside Chan, Senior Counsel Jat Sew-tong has been appointed as the new vice-c
 律政司司長林定國表示，香港會繼續加強與東盟成員國在打擊跨境犯罪方面的合作，以應對地區經濟和社會形勢的最新發展。
 
 林定國又提出數字時代打擊洗錢與腐敗犯罪需多管齊下，包括加強公眾教育與加重刑罰以遏止公眾替他人洗錢；嚴格執行法律義務並要求金融機構識別和上報可疑交易；運用法律手段阻止犯罪資金繼續外流；以及提升檢控機關的科技犯罪辦案能力。"
+環境及生態局：現屆政府將維持暫緩實施垃圾收費,2025-09-23 15:19,,2025-09-23 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824222-20250923.htm, 
 滬深股市尾段轉強　創指轉升收市,2025-09-23 15:19,,2025-09-23 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824220-20250923.htm,"滬深股市尾段轉強。旅遊及酒店、醫療服務等股份下跌，銀行、港口航運等股份上升。
 
 上證指數在3800點關口失而復得，收報3821點，跌6點，跌幅0.18%。
@@ -787,10 +792,10 @@ Alongside Chan, Senior Counsel Jat Sew-tong has been appointed as the new vice-c
 根據《公眾衞生及市政條例》之下的《泳灘規例》，任何人士如不遵從有關暫時封閉的安排即屬違法，一經定罪，最高可被判罰款2000元及監禁14天。
 
 康文署呼籲在惡劣天氣下，市民應遠離岸邊，切勿前往泳灘進行水上活動，以免危及個人及救援人員的安全。"
-荃灣三楝屋村謀殺案　男子疑被兒子用刀刺傷送院後不治,2025-09-23 15:11,,2025-09-23 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824218-20250923.htm,"荃灣三楝屋村發生謀殺案，警方下午近2時接報，一名男子聲稱用刀刺傷自己的父親，該名父親送往仁濟醫院後不治。
+荃灣三棟屋村謀殺案　男子疑被兒子用刀刺傷送院後不治,2025-09-23 15:11,,2025-09-23 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824218-20250923.htm,"荃灣三棟屋村發生謀殺案，警方下午近2時接報，一名男子聲稱用刀刺傷自己的父親，該名父親送往仁濟醫院後不治。
 
 警員正在現場調查，暫列作謀殺案跟進。"
-荃灣三棟屋村謀殺案　男子疑被兒子用刀刺傷送院後不治,2025-09-23 15:11,,2025-09-23 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824218-20250923.htm,"荃灣三棟屋村發生謀殺案，警方下午近2時接報，一名男子聲稱用刀刺傷自己的父親，該名父親送往仁濟醫院後不治。
+荃灣三楝屋村謀殺案　男子疑被兒子用刀刺傷送院後不治,2025-09-23 15:11,,2025-09-23 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824218-20250923.htm,"荃灣三楝屋村發生謀殺案，警方下午近2時接報，一名男子聲稱用刀刺傷自己的父親，該名父親送往仁濟醫院後不治。
 
 警員正在現場調查，暫列作謀殺案跟進。"
 天文台料樺加沙於香港以西登陸　「西登」影響較「東登」更大,2025-09-23 15:06,,2025-09-23 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824217-20250923.htm,"天文台表示，樺加沙將維持超強颱風的強度，預料會在明早最接近珠江口一帶，隨後在香港以西登陸，而「西登」對香港的影響較「東登」更大。
@@ -1300,7 +1305,7 @@ The observatory called on residents to stay away from the shoreline and not to p
 失落金球奬的巴塞羅那球星也馬，則連續兩年成為最佳年輕球員。
 
 巴塞羅那的艾坦娜則歷史性在女子金球奬3連霸。"
-Public services to halt when T8 is issued,2025-09-23 07:15,,2025-09-23 07:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824122-20250923.htm,"Members of the public should avoid heading to public hospitals and clinics on Tuesday afternoon, the Hospital Authority announced on Monday ahead of the issuance of the Gale or Storm Signal No. 8.
+Non-emergency services to stop when T8 is up,2025-09-23 07:15,,2025-09-23 08:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824122-20250923.htm,"Members of the public should avoid heading to public hospitals and clinics on Tuesday afternoon, the Hospital Authority announced on Monday ahead of the issuance of the Gale or Storm Signal No. 8.
 
 All non-emergency services will be halted when the typhoon warning is upgraded to No. 8 at 2.20pm, and operations will only resume after the No. 8 signal is cancelled.
 
@@ -1311,7 +1316,7 @@ The HA will notify patients in the coming week to reschedule their appointments.
 Meanwhile, the Social Welfare Department said residents should not bring their children and family members to care centres even though the facilities will remain open for those in need under the Strong Wind Signal No. 3.
 
 When the No. 8 or a higher signal is issued, ""day child care services units, centres providing after-school care programmes, day rehabilitation units, elderly day services centres and SWD welfare services units will not open,"" the department added."
-Non-emergency services to stop when T8 is up,2025-09-23 07:15,,2025-09-23 08:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824122-20250923.htm,"Members of the public should avoid heading to public hospitals and clinics on Tuesday afternoon, the Hospital Authority announced on Monday ahead of the issuance of the Gale or Storm Signal No. 8.
+Public services to halt when T8 is issued,2025-09-23 07:15,,2025-09-23 07:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824122-20250923.htm,"Members of the public should avoid heading to public hospitals and clinics on Tuesday afternoon, the Hospital Authority announced on Monday ahead of the issuance of the Gale or Storm Signal No. 8.
 
 All non-emergency services will be halted when the typhoon warning is upgraded to No. 8 at 2.20pm, and operations will only resume after the No. 8 signal is cancelled.
 
