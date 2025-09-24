@@ -1,4 +1,6 @@
 title,date,summary,scrape_time,section,source,url,news_content
+天文台局部地區大雨提示　西貢及新界北有大暴雨　大埔雨勢特別大,2025-09-24 16:19,,2025-09-24 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824478-20250924.htm,天文台發出局部地區大雨提示，西貢區及新界北區有大暴雨，每小時雨量預料或已超過100毫米；大埔區雨勢亦特別大，每小時雨量預料或已超過70毫米，有可能出現嚴重水浸，提醒市民高度戒備，採取適當的預防措施，以減少大雨和水浸帶來的風險。
+本港機場明早逐步回復運作　料明日全日逾一千班航班升降,2025-09-24 16:10,,2025-09-24 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824477-20250924.htm, 
 樺加沙逐漸遠離香港　天文台料八號信號今晚8時前維持,2025-09-24 16:01,,2025-09-24 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824476-20250924.htm,"八號東南烈風或暴風信號現正生效，強颱風樺加沙正逐漸遠離香港，但烈風至暴風程度的東南風仍影響本港多處地區。
 
 天文台預料八號烈風或暴風信號會在今晚8時前維持，隨後視乎本地風力減弱程度，考慮改發三號強風信號。"
@@ -9,6 +11,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 消防處表示，在熱帶氣旋樺加沙吹襲本港的極端天氣下，救護人員無懼風雨，為市民提供緊急救護服務，守護生命。
 
 處方在社交專頁提醒市民，雖然樺加沙正逐漸遠離，仍然應該繼續留在室內，注意安全。"
+天文台局部地區大雨提示　西貢有大暴雨　北區及大埔雨勢特別大,2025-09-24 15:54,,2025-09-24 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824474-20250924.htm,天文台發出局部地區大雨提示，西貢區有大暴雨，每小時雨量預料或已超過100毫米；新界北區及大埔區雨勢亦特別大，每小時雨量預料或已超過70毫米，有可能出現嚴重水浸，市民應採取適當的預防措施，以防止水浸可能引致的損失。
 天文台局部地區大雨提示　西貢區及北區雨勢特別大,2025-09-24 15:54,,2025-09-24 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824474-20250924.htm,天文台發出局部地區大雨提示，西貢區及新界北區的雨勢特別大，已錄得或預料會有每小時雨量超過70毫米的大雨，有可能出現嚴重水浸，市民應採取適當的預防措施，以防止水浸可能引致的損失。
 運輸署督導營辦商做好檢視　確保安全後陸續恢復鐵路及巴士服務,2025-09-24 15:46,,2025-09-24 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824473-20250924.htm,"運輸署與跨專業團隊通宵在緊急事故交通協調中心，密切監察全港各區主要幹道、隧道和橋樑等重要道路的交通及運輸情況。
 
@@ -37,8 +40,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 渠務署已根據現場環境派遣緊急應變隊伍到場處理，並調配強力排水機械人「龍吸水」及「小禹」前往現場協助。受顯著風暴潮影響，部分地區可能會有嚴重水浸，渠務署呼籲居住在高水浸風險地區的市民及早遷離居所或到庇護中心暫避。
 
 渠務署會繼續與天文台保持緊密聯繫，在有需要時迅速增派人手和緊急應變隊伍，及時清理淤塞及水浸，市民如發現排水設施淤塞或有水浸情況，可致電24小時渠務熱線2300 1110，以便盡快派員處理。"
-港鐵觀塘綫及港島綫已恢復全綫服務　,2025-09-24 15:20,,2025-09-24 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824467-20250924.htm, 
-天文台發出黃色暴雨警告信號,2025-09-24 15:20,,2025-09-24 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824468-20250924.htm,天文台在下午3時20分發出黃色暴雨警告信號。
 港鐵觀塘綫及港島綫已恢復全綫服務,2025-09-24 15:20,,2025-09-24 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824467-20250924.htm,"港鐵逐步恢復服務，其中荃灣綫、觀塘綫及港島綫已恢復全綫服務，目前提供每15分鐘一班車。
 
 觀塘綫黃埔站至調景嶺站、港島綫堅尼地城站至柴灣站、荃灣綫中環站至荃灣站每15分鐘一班車。
@@ -48,6 +49,8 @@ title,date,summary,scrape_time,section,source,url,news_content
 東鐵綫金鐘站至紅磡站每15分鐘一班車；紅磡站至羅湖或落馬洲站準備中。屯馬綫荃灣西站至鑽石山站每15分鐘一班車，屯門站至荃灣西站及鑽石山站至烏溪沙站準備中。
 
 迪士尼綫欣澳站至迪士尼站及機場快綫香港站至博覽館站仍準備中，市區預辦登機服務暫停；輕鐵準備中；港鐵巴士暫停服務；高速鐵路香港段今日全部班次取消。"
+港鐵觀塘綫及港島綫已恢復全綫服務　,2025-09-24 15:20,,2025-09-24 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824467-20250924.htm, 
+天文台發出黃色暴雨警告信號,2025-09-24 15:20,,2025-09-24 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824468-20250924.htm,天文台在下午3時20分發出黃色暴雨警告信號。
 天文台料八號信號今晚8時前維持　隨後視乎風力考慮改發三號,2025-09-24 15:17,,2025-09-24 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824466-20250924.htm,"八號東南烈風或暴風信號，現正生效，樺加沙正逐漸遠離香港，但烈風至暴風程度的東南風仍影響本港多處地區。
 
 天文台預料八號烈風或暴風信號會在今晚8時前維持，隨後視乎本地風力減弱程度，考慮改發三號強風信號。"
@@ -88,10 +91,10 @@ title,date,summary,scrape_time,section,source,url,news_content
 將軍澳綫北角站至寶琳站，每15分鐘一班車；調景嶺站至康城站則20分鐘一班車。屯馬綫尖東站至荃灣西站， 每15分鐘一班車；鑽石山站至何文田站則每18分鐘一班車。
 
 其餘路綫的露天段，以及迪士尼綫欣澳站至迪士尼站、機場快綫香港站至博覽館站，和輕鐵列車仍在準備中。港鐵巴士及市區預辦登機服務暫停，高鐵香港段今日全部班次取消。"
+除何文田美沙酮診所外　其他美沙酮診所將盡快開放,2025-09-24 13:45,,2025-09-24 14:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824454-20250924.htm,衞生署宣布，由於天文台已改發八號熱帶氣旋警告信號，除何文田美沙酮診所外，其他美沙酮診所將會盡快開放提供服務，直至服務時間完結為止。衞生署其他診所繼續關閉。
 警稱全港仍處於高風險狀態　市民如非必要勿外出,2025-09-24 13:45,,2025-09-24 14:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824453-20250924.htm,"警方表示，超強颱風「樺加沙」來勢洶洶，雖然十號信號已經取消，但八號信號現正懸掛，全港仍處於高風險狀態。路面仍有積水、倒塌樹木和棚架等潛在危險，呼籲市民切勿掉以輕心。
 
 警方說，極端天氣期間，非必要請勿外出，切勿冒險追風，留在安全地方，保障自己和家人的安全。"
-除何文田美沙酮診所外　其他美沙酮診所將盡快開放,2025-09-24 13:45,,2025-09-24 14:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824454-20250924.htm,衞生署宣布，由於天文台已改發八號熱帶氣旋警告信號，除何文田美沙酮診所外，其他美沙酮診所將會盡快開放提供服務，直至服務時間完結為止。衞生署其他診所繼續關閉。
 共62人在風暴期間受傷　當局收到437宗塌樹報告,2025-09-24 13:43,,2025-09-24 14:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824452-20250924.htm,"天文台在下午1時20分改發八號東南烈風或暴風信號。
 
 醫院管理局表示，截至中午12時，合共62人在風暴期間受傷，在公立醫院急症室接受診治，當局共收到437宗塌樹報告。
@@ -404,15 +407,15 @@ Water levels over the eastern coast of Hong Kong have generally risen to more th
 天文台表示，超強颱風樺加沙正開始遠離本港，但相關颶風仍間中影響本港西南部，十號颶風信號會維持一段時間。
 
 天文台預料，本港會逐漸轉吹東南風，市民不要離開有屏蔽地方，並留意破壞性的風力。樺加沙亦正為本港帶來顯著風暴潮，本港沿岸水位今早9時普遍已上升至海圖基準面3米以上，沿岸水位亦逐步上升，預料在中午前後達至最高。"
-新西蘭財政部任命首位女性央行總裁,2025-09-24 09:50,,2025-09-24 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824394-20250924.htm,"新西蘭財政部宣布，任命布雷曼（Anna Breman）為新任央行總裁，成為首位女性總裁，任期5年。
-
-布雷曼現時擔任瑞典中央銀行（Riksbank）第一副總裁，她將於今年12月1日正式到新西蘭央行履新，意味著她將不會參與新西蘭央行10月8日的議息會議。"
 台灣花蓮堰塞湖溢堤至少14死18傷　救難人員持續搜救,2025-09-24 09:50,,2025-09-24 10:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824395-20250924.htm,"在台灣，受超強颱風樺加沙引發的暴雨影響，花蓮馬太鞍溪堰塞湖溢堤，大量洪水沖入鄰近鄉鎮，至少14人死亡，18人受傷，據報仍有多人失聯，救難人員持續搜救。
 
 事發在昨日，花蓮縣消防部門說，光復鄉罹難人數最多，多數是長者，初步相信是來不及撤離，目前洪水已退，當局派人逐戶搜尋。
 
 樺加沙的外圍環流持續影響台灣東部、北部及南部海岸區域，帶來強降雨，氣象部門持續發布暴雨特報。災害應變中心統計，超過7900人撤離，花蓮佔超過5300人。"
 新西蘭財政部委任首位女性央行總裁,2025-09-24 09:50,,2025-09-24 10:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824394-20250924.htm,"新西蘭財政部宣布，任命布雷曼（Anna Breman）為新任央行總裁，成為首位女性總裁，任期5年。
+
+布雷曼現時擔任瑞典中央銀行（Riksbank）第一副總裁，她將於今年12月1日正式到新西蘭央行履新，意味著她將不會參與新西蘭央行10月8日的議息會議。"
+新西蘭財政部任命首位女性央行總裁,2025-09-24 09:50,,2025-09-24 10:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824394-20250924.htm,"新西蘭財政部宣布，任命布雷曼（Anna Breman）為新任央行總裁，成為首位女性總裁，任期5年。
 
 布雷曼現時擔任瑞典中央銀行（Riksbank）第一副總裁，她將於今年12月1日正式到新西蘭央行履新，意味著她將不會參與新西蘭央行10月8日的議息會議。"
 人行公開市場開展4015億元人民幣逆回購操作,2025-09-24 09:43,,2025-09-24 10:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824389-20250924.htm,"人民銀行公開市場開展4015億元人民幣7日期逆回購操作，利率維持1.4厘。
@@ -450,8 +453,8 @@ Water levels over the eastern coast of Hong Kong have generally risen to more th
 樺加沙正為本港帶來顯著風暴潮，本港東部沿岸的水位今早8時普遍已上升至海圖基準面3米以上。
 
 由高級科學主任蔡振榮講述最新風暴消息。"
-消防接130宗塌樹及90宗升降機事故報告　籲市民留在室內地方,2025-09-24 08:54,,2025-09-24 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824383-20250924.htm,超強颱風樺加沙吹襲本港，截至早上8時，消防處接獲多個求助個案，包括超過130宗緊急塌樹事故以及超過90宗升降機事故。消防處正全力處理，保障市民安全。消防處呼籲市民留在室內安全地方，密切留意最新天氣消息，若遇到緊急情況，應立即報警求助。
 消防處接獲多宗塌樹及升降機事故報告　籲市民留在室內地方,2025-09-24 08:54,,2025-09-24 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824383-20250924.htm,超強颱風樺加沙吹襲本港，截至早上8時，消防處接獲多個求助個案，包括超過130宗緊急塌樹事故以及超過90宗升降機事故。消防處正全力處理，保障市民安全。消防處呼籲市民留在室內安全地方，密切留意最新天氣消息，若遇到緊急情況，應立即報警求助。
+消防接130宗塌樹及90宗升降機事故報告　籲市民留在室內地方,2025-09-24 08:54,,2025-09-24 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824383-20250924.htm,超強颱風樺加沙吹襲本港，截至早上8時，消防處接獲多個求助個案，包括超過130宗緊急塌樹事故以及超過90宗升降機事故。消防處正全力處理，保障市民安全。消防處呼籲市民留在室內安全地方，密切留意最新天氣消息，若遇到緊急情況，應立即報警求助。
 紅磡海旁大風大浪　記者在採訪車亦感到車身被吹至搖晃,2025-09-24 08:51,,2025-09-24 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824382-20250924.htm,在十號颶風信號生效下，多處地方出現狂風暴雨。其中在紅磡海逸豪園附近海旁，海面非常大浪，海水不斷泊打上岸，加上非常大風，令人難以企穩，記者坐在採訪車都感到車身被大風吹至搖晃。
 耿爽：必須高度重視並加快解決巴勒斯坦問題,2025-09-24 08:44,,2025-09-24 09:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824381-20250924.htm,"中國常駐聯合國副代表耿爽表示，必須高度重視並加快解決巴勒斯坦問題。
 
@@ -496,12 +499,12 @@ Water levels over the eastern coast of Hong Kong have generally risen to more th
 大澳鄉委會：海水水位上漲料出現水浸　部分居民撤離,2025-09-24 07:55,,2025-09-24 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824371-20250924.htm,"十號颶風信號生效，大澳海水水位不斷上漲，大澳鄉委會主席何紹基說，現已升高3.1米左右，擔心防浸措施未必可以應付，預料海水會倒灌，令大澳街道出現水浸。而現時風力猛烈，一出門已聽到很大風聲，令人幾乎站不穩。
 
 他說，多個政府部門的人員包括警方、消防、民安隊等，勸喻及協助部分住在地下位置或棚屋的居民撤離，他說因為經歷過多次十號颶風信號，一些年紀較大或行動不便的居民都接受勸喻，願意撤離。"
-十號颶風信號生效　天文台稱樺加沙正在本港以南100公里外掠過,2025-09-24 07:50,,2025-09-24 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824370-20250924.htm,"十號颶風信號現正生效，天文台表示，超強颱風樺加沙正在本港以南100公里外掠過，十號颶風信號會維持一段時間。
+樺加沙正在本港以南100公里外掠過,2025-09-24 07:50,,2025-09-24 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824370-20250924.htm,"十號颶風信號現正生效，天文台表示，超強颱風樺加沙正在本港以南100公里外掠過，十號颶風信號會維持一段時間。
 
 天文台表示，樺加沙環流廣闊，預料有關颶風區仍會於今早影響本港南部地區，本港今早會逐漸由吹偏東風轉為東南風，原本受遮蔽地方可能變得當風。
 
 本港今日天氣會持續惡劣，有頻密狂風大驟雨及雷暴，海有極巨浪及湧浪，岸邊會出現越堤浪。"
-樺加沙正在本港以南100公里外掠過,2025-09-24 07:50,,2025-09-24 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824370-20250924.htm,"十號颶風信號現正生效，天文台表示，超強颱風樺加沙正在本港以南100公里外掠過，十號颶風信號會維持一段時間。
+十號颶風信號生效　天文台稱樺加沙正在本港以南100公里外掠過,2025-09-24 07:50,,2025-09-24 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824370-20250924.htm,"十號颶風信號現正生效，天文台表示，超強颱風樺加沙正在本港以南100公里外掠過，十號颶風信號會維持一段時間。
 
 天文台表示，樺加沙環流廣闊，預料有關颶風區仍會於今早影響本港南部地區，本港今早會逐漸由吹偏東風轉為東南風，原本受遮蔽地方可能變得當風。
 
@@ -1054,13 +1057,6 @@ OECD上調今年全球增長預測至3.2%　內地全年增長4.9%,2025-09-23 18
 OECD在最新經濟展望中，亦上調內地及美國的增長預測，預期今年內地經濟增長將放緩至4.9%，明年進一步放緩至4.4%，分別較原先預期上調0.2和0.1個百分點。
 
 OECD又預計，美國今年經濟增長將放緩至1.8%，較原先預期上調0.2個百分點，但維持明年放緩至1.5%的預測。"
-三人柴灣防坡堤觀浪墮海後獲救　父母與兒子留醫東區醫院,2025-09-23 18:45,,2025-09-23 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，墮海的母親和兒子正在東區醫院深切治療部留醫。
-
-她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
-
-消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘舢舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
-
-霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上舢舨，為母親及男童進行心肺復甦法，並將父親救上舢舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
 一家三口柴灣海面防坡堤觀浪墮海　母親和5歲兒子深切治療部留醫,2025-09-23 18:45,,2025-09-23 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，母親和兒子墮海，正在東區醫院深切治療部留醫。
 
 她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
@@ -1068,6 +1064,13 @@ OECD又預計，美國今年經濟增長將放緩至1.8%，較原先預期上調
 消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘山舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
 
 霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上山舨，為母親及男童進行心肺復甦法，並將父親救上山舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
+三人柴灣防坡堤觀浪墮海後獲救　父母與兒子留醫東區醫院,2025-09-23 18:45,,2025-09-23 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824262-20250923.htm,"柴灣嘉業街對開海面下午有一家三口墮海。警方柴灣分區指揮官趙慧明表示，初步了解三人到防坡堤觀浪，墮海的母親和兒子正在東區醫院深切治療部留醫。
+
+她又說，由於天氣愈來愈差、海浪愈來愈大，希望市民顧及自身安全，留在安全地方，不要到危險位置追風逐浪，因有關行為不但危害自身安全，亦危害拯救人員的安危，如有市民不聽從警方指示，仍然逗留在危險地方，警方會採取行動，包括將有關人士移離危險位置。
+
+消防處副消防總長霍振明表示，在下午3時許接報，有三人於嘉業街對開海面遇溺，消防在接報5分鐘後到場，發現一男一女及一名小童墮海，當時有一艘舢舨已將墮海女子及小童救起，另一名男子就仍在海面救待救援。
+
+霍振明表示，由於岸邊與海面有超過兩米距離，導致救援出現困難，消防要先派人登上舢舨，為母親及男童進行心肺復甦法，並將父親救上舢舨，然後轉移到另一地點，才能將3人送上岸，轉送東區醫院。"
 澳門八號風球及進入即時預防狀態　廣東多地「五停」,2025-09-23 18:41,,2025-09-23 19:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824260-20250923.htm,"澳門下午5時發出八號風球，氣象局預料凌晨改發9號風球的機會高，明日改發10號風球機會較高。
 
 中央氣象台預料樺加沙明日日間於廣東深圳到徐聞一帶沿海登陸。廣東進入防風Ⅰ級應急響應狀態，深圳、佛山、珠海等多個城市實施「五停」，即停課、停工、停產、停運、停業。"
@@ -1141,19 +1144,6 @@ In Hong Kong, the Hang Seng Index gave up 185 points, or 0.7 percent, to close a
 飛行服務隊定翼機穿過樺加沙風眼拍攝內部結構,2025-09-23 17:12,,2025-09-23 17:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824243-20250923.htm,"八號西北烈風或暴風信號，現正生效。保安局表示，政府飛行服務隊剛剛派出定翼機直擊超強颱風樺加沙的中心，收集天氣數據，定翼機更穿越風眼核心，穿過風眼瞬間拍攝到樺加沙的內部結構。
 
 保安局在社交專頁上載片段，指由於今次颱風威力強大，範圍極廣，穿過暴風中心時亦不足以拍攝到完整清晰的風眼，只能捕捉到風眼壁的四分之一，形容是十分誇張，又說樺加沙威力巨大，呼籲市民密切留意最新天氣消息，做好安全措施。"
-Higher typhoon signal possible between 11pm-3am,2025-09-23 17:11,,2025-09-23 17:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824242-20250923.htm,"The observatory says it could issue a higher typhoon warning signal between 11pm on Tuesday and 3am on Wednesday as Super Typhoon Ragasa gets closer to Hong Kong.
-
-The number eight signal was issued at 2.20pm on Tuesday. 
-
-Forecasters said a higher alert would depend on the storm's distance from the city and the change in local wind conditions.
-
-They said the territory was already seeing some gale force winds on high ground.
-
-Ragasa is expected to be at its closest to the SAR on Wednesday morning. 
-
-""The weather is expected to deteriorate rapidly overnight, with winds strengthening quickly. The weather will be persistently adverse tomorrow. Gale to storm force winds will prevail locally, and winds will reach hurricane force offshore and on high ground at first,"" the observatory warned.
-
-""Seas will be phenomenal with swells. There will be overtopping waves over the shoreline, which will be particularly significant along the eastern and southern coasts."""
 Observatory to consider T9 signal between 1-3am,2025-09-23 17:11,,2025-09-23 23:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824242-20250923.htm,"The observatory says it will consider upgrading the T8 signal to T9 between 1am and 3am on Wednesday as Super Typhoon Ragasa gets closer to Hong Kong.
 
 The number eight signal was issued at 2.20pm on Tuesday.
@@ -1169,6 +1159,19 @@ Gusts of wind of up to 116 kilometres per hour have been recorded at Tate’s Ca
 ""Seas will be phenomenal with swells and overtopping waves over the shoreline, which will be particularly significant along the eastern and southern coasts.""
 _____________________________
 Last updated: 2025-09-23 HKT 23:01"
+Higher typhoon signal possible between 11pm-3am,2025-09-23 17:11,,2025-09-23 17:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1824242-20250923.htm,"The observatory says it could issue a higher typhoon warning signal between 11pm on Tuesday and 3am on Wednesday as Super Typhoon Ragasa gets closer to Hong Kong.
+
+The number eight signal was issued at 2.20pm on Tuesday. 
+
+Forecasters said a higher alert would depend on the storm's distance from the city and the change in local wind conditions.
+
+They said the territory was already seeing some gale force winds on high ground.
+
+Ragasa is expected to be at its closest to the SAR on Wednesday morning. 
+
+""The weather is expected to deteriorate rapidly overnight, with winds strengthening quickly. The weather will be persistently adverse tomorrow. Gale to storm force winds will prevail locally, and winds will reach hurricane force offshore and on high ground at first,"" the observatory warned.
+
+""Seas will be phenomenal with swells. There will be overtopping waves over the shoreline, which will be particularly significant along the eastern and southern coasts."""
 天文台將評估需否晚上11時至明日凌晨3時改發更高警告信號,2025-09-23 16:52,,2025-09-23 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824241-20250923.htm,"八號西北烈風或暴風信號，現正生效。
 
 天文台表示，按照現時預測，超強颱風樺加沙會於明日早上最接近珠江口一帶，本港風力將進一步增強。
@@ -1196,43 +1199,3 @@ Sherry said she started buying extra food from Sunday.
 KMB, Long Win Bus, and Citybus said services on most of their routes would be suspended by around 4.20pm.
 
 MTR bosses said railway services were expected to continue operating during the signal 8, but a higher warning signal would mean trains stop running on outdoor sections of the various lines."
-港股低收185點,2025-09-23 16:23,,2025-09-23 17:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824239-20250923.htm,"港股連跌2日。恒生指數最先升後跌，波幅逾450點，低見26003點，尾段跌幅收窄，收市報26159點，跌185點，跌幅0.7%。主板總成交金額近2946億元。
-
-科技指數低收1.45%。ATMXJ大多向下，表現較差的美團及京東分別跌近3%和逾4%。百度跌逾5%，是表現最差藍籌股。
-
-醫藥股及汽車股受壓，中生製藥及石藥跌逾4%；蔚來跌近6%，是表現最差科指成份股。內需及內房股亦向下。"
-樺加沙續移近香港　風力將進一步增強,2025-09-23 16:18,,2025-09-23 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824237-20250923.htm,"八號西北烈風或暴風信號，現正生效。
-
-天文台表示，過去數小時，超強颱風樺加沙繼續移近香港。按照現時預測，樺加沙會維持超強颱風的強度，於明日早上最接近珠江口一帶，本港風力將進一步增強。
-
-天文台會視乎樺加沙與香港的距離及本地風力變化，評估今晚較後時間至明日初時，是否需要改發更高熱帶氣旋警告信號。
-
-天文台說，樺加沙環流廣闊，風勢猛烈，預料今日稍後天氣開始急速轉壞，風力迅速上升。"
-柴灣一家三口墮海其中兩人昏迷　據悉於防波堤觀浪由經過船家救起,2025-09-23 16:17,,2025-09-23 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824236-20250923.htm,"柴灣嘉業街對開海面一家三口墮海，三人現已被救起，其中母親及5歲男童被救起時昏迷。
-
-案發在下午3時許，消息說，這個一家四口家庭，包括年約40歲父親、38歲母親、9歲女兒及5歲兒子。
-
-據了解，當時一家四口懷疑在岸邊的防波堤觀浪，期間母親及男童懷疑首先墮海，父親跳落海救人，經過的船家將三人救起，交由接報到場的消防處理。
-
-消息又說，母親及男童送院時昏迷，初步已恢復呼吸和脈搏，而父親則清醒送院。
-
-三人獲救後先被送到海事處柴灣公眾貨物裝卸區，救護員即場急救，再將他們送院。消防派出「蛙人」及先遣急救員參與救援。"
-柴灣一男一女及一男童墮海　消息指警方調查是否涉岸邊觀浪,2025-09-23 16:17,,2025-09-23 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824236-20250923.htm,"柴灣嘉業街對開海面一男一女及一名男童墮海，三人現已被救起，其中女子及男童昏迷。據報三人為一家三口。
-
-案發在下午3時許，消息說，當時這個家庭的母親及男童懷疑首先墮海，父親跳落海救人，消防亦接報到場，將3人救起。母親及男童昏迷，父親則清醒。據了解，警方正調查他們事發前是否在岸邊觀浪。
-
-3人獲救後先被送到海事處柴灣公眾貨物裝卸區，救護員即場急救，再將他們送院。消防派出「蛙人」及先遣急救員參與救援。"
-港珠澳大橋暫停通關　澳門將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
-
-澳門當局說，8號颱風期間「逗留期限」屆滿的旅客，在8號風球除下後，24小時內經國際機場以外口岸離境，或48小時內經國際機場離境，不會視作逾期逗留。但如果旅客在懸掛8號風球前已逾期逗留，就會依法處罰。
-
-澳門將在下午5時改掛8號風球，並因已發出黄色風暴潮警告，預測低漥地區會出現水浸。水位最高時間會在明早10時至下午2時之間。民防中心已經在下午1時，開始執行低漥地區疏散撤離計劃。其中一隊由120多名司警，在天鴿時水浸嚴重的康公康一帶執行任務，對區內受影響的2400多戶，涉及25間酒店、2間娛樂場、1間員工宿舍、1間安老院約有40名長者及12名員工，以及1間衛生中心，進行排查疏散撤離工作。
-
-司警局副局長賴文威估計，由於區內大部份是無人留宿的商舖，當中涉及需要撤離的戶數約360戶，而需撤離人數約942人，但需一級輔助撤離的只有3戶涉及6名人士。"
-港珠澳大橋各口岸暫停通關　將適當處理因颱風逾期逗留住宿問題,2025-09-23 16:15,,2025-09-23 17:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1824235-20250923.htm,"港珠澳大橋各口岸下午3時起暫停出境通關。澳門警方呼籲旅客要留意「逗留許可」期限，合理安排行程離澳。如因包括因口岸停止通關服務、停航等不可抗力原因，而無法按時離境，旅客入住的酒店可提前通報治安警察局，適當處理因受颱風導致逾期逗留人士的住宿問題。
-
-澳門當局說，8號颱風期間「逗留期限」屆滿的旅客，在8號風球除下後，24小時內經國際機場以外口岸離境，或48小時內經國際機場離境，不會視作逾期逗留。但如果旅客在懸掛8號風球前已逾期逗留，就會依法處罰。
-
-澳門將在下午5時改掛8號風球，並因已發出黄色風暴潮警告，預測低漥地區會出現水浸。水位最高時間會在明早10時至下午2時之間。民防中心已經在下午1時，開始執行低漥地區疏散撤離計劃。其中一隊由120多名司警，在天鴿時水浸嚴重的康公康一帶執行任務，對區內受影響的2400多戶，涉及25間酒店、2間娛樂場、1間員工宿舍、1間安老院約有40名長者及12名員工，以及1間衛生中心，進行排查疏散撤離工作。
-
-司警局副局長賴文威估計，由於區內大部份是無人留宿的商舖，當中涉及需要撤離的戶數約360戶，而需撤離人數約942人，但需一級輔助撤離的只有3戶涉及6名人士。"
