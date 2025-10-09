@@ -115,6 +115,15 @@ step up encouraging service providers to organise more experiential activities t
 （七）優化現有照顧者資訊網的AI聊天機械人功能。
 
 社署會繼續聆聽不同持分者的意見，推動業界持續優化並積極推廣暫託服務，讓長者、殘疾人士及其照顧者獲得適時和適切的支援。"
+LandsD extends coverage of 3D Indoor Map to all MTR stations,2025-10-09 12:00,2025-10-09 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900165.htm,"The Lands Department (LandsD) today (October 9) extended the coverage of the 3D Indoor Map and the 3D Indoor Network to all MTR stations, providing more comprehensive spatial data to facilitate public travel.
+
+The LandsD collaborated with MTR Corporation Limited to release the 3D Indoor Map of around 30 selected MTR stations in March this year, providing information on points of interest and a supporting indoor point-to-point pedestrian route planning service within the stations. The coverage of the 3D Indoor Map has now been extended to the entire rail network, covering all 98 MTR stations across 10 MTR lines, namely Airport Express, Disneyland Resort Line, East Rail Line, Island Line, Kwun Tong Line, South Island Line, Tseung Kwan O Line, Tsuen Wan Line, Tuen Ma Line and Tung Chung Line. The Map provides interior layout information of the publicly accessible areas within stations, such as levels, units, shops, points of interest and indoor routes.
+
+To support point-to-point route planning, the 3D Indoor Network captures connections between different parts of the stations, linking facilities, shops, entrances and exits as well as interfacing with the outdoor 3D Pedestrian Network. Based on information stored in the 3D Indoor Map and the 3D Indoor Network, the system displays facilities and areas along routes and offers barrier-free route options.
+
+The 3D Indoor Map dataset has been uploaded to the Common Spatial Data Infrastructure (CSDI) Portal (portal.csdi.gov.hk) for free download by the public. To support application development, the portal also provides multiple Application Programming Interfaces (APIs), including the APIs of the 3D Indoor Map of MTR stations and the 3D Pedestrian Route Search, together with sample codes demonstrating related functions. Members of the public can also browse the 3D Indoor Map and use the point-to-point route planning tool on the online application platform ""Open3Dhk"" (3d.map.gov.hk).
+
+In addition, the LandsD launched the 3D Visualisation Map (non-textured models) in late September this year. The new dataset covers the whole territory of Hong Kong and consists of over 220 000 geometric models representing different types of ground features, including buildings and infrastructure. It has been uploaded to the CSDI Portal for free download by the public."
 貝澳泳灘及洪聖爺灣泳灘重新開放,2025-10-09 12:00,2025-10-09 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900335.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列特別報告：
@@ -194,15 +203,6 @@ Please broadcast the following as soon as possible:
   The Leisure and Cultural Services Department announced today (October 9) that the shark prevention nets at Pui O Beach and Hung Shing Yeh Beach in Islands District have been repaired, and the beaches are reopened.
 
   The beaches were temporarily closed earlier for shark prevention net maintenance work."
-LandsD extends coverage of 3D Indoor Map to all MTR stations,2025-10-09 12:00,2025-10-09 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900165.htm,"The Lands Department (LandsD) today (October 9) extended the coverage of the 3D Indoor Map and the 3D Indoor Network to all MTR stations, providing more comprehensive spatial data to facilitate public travel.
-
-The LandsD collaborated with MTR Corporation Limited to release the 3D Indoor Map of around 30 selected MTR stations in March this year, providing information on points of interest and a supporting indoor point-to-point pedestrian route planning service within the stations. The coverage of the 3D Indoor Map has now been extended to the entire rail network, covering all 98 MTR stations across 10 MTR lines, namely Airport Express, Disneyland Resort Line, East Rail Line, Island Line, Kwun Tong Line, South Island Line, Tseung Kwan O Line, Tsuen Wan Line, Tuen Ma Line and Tung Chung Line. The Map provides interior layout information of the publicly accessible areas within stations, such as levels, units, shops, points of interest and indoor routes.
-
-To support point-to-point route planning, the 3D Indoor Network captures connections between different parts of the stations, linking facilities, shops, entrances and exits as well as interfacing with the outdoor 3D Pedestrian Network. Based on information stored in the 3D Indoor Map and the 3D Indoor Network, the system displays facilities and areas along routes and offers barrier-free route options.
-
-The 3D Indoor Map dataset has been uploaded to the Common Spatial Data Infrastructure (CSDI) Portal (portal.csdi.gov.hk) for free download by the public. To support application development, the portal also provides multiple Application Programming Interfaces (APIs), including the APIs of the 3D Indoor Map of MTR stations and the 3D Pedestrian Route Search, together with sample codes demonstrating related functions. Members of the public can also browse the 3D Indoor Map and use the point-to-point route planning tool on the online application platform ""Open3Dhk"" (3d.map.gov.hk).
-
-In addition, the LandsD launched the 3D Visualisation Map (non-textured models) in late September this year. The new dataset covers the whole territory of Hong Kong and consists of over 220 000 geometric models representing different types of ground features, including buildings and infrastructure. It has been uploaded to the CSDI Portal for free download by the public."
 "Hong Kong's higher education system achieves global recognition, showcasing success of education policy",2025-10-09 11:56,2025-10-09 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900273.htm,"An Education Bureau spokesman today (October 9) said that, according to the World University Rankings 2026 just announced by Times Higher Education (THE), an international higher education organisation, University Grants Committee (UGC)-funded universitieshave continued to hold top spots, rendering Hong Kong the only city in the world with five universities ranked among the global top 100, with all its ranked institutions gaining higher positions. The encouraging results fully recognise the achievements of Hong Kong's post-secondary education sector in its pursuit of and endeavour for excellence. They also serve as testimony to the Government's significant progress in developing Hong Kong into an international post-secondary education hub.
 
 According to the latest THE World University Rankings, the University of Hong Kong rose two places to 33rd globally; the Chinese University of Hong Kong moved up three places to 41st; the Hong Kong University of Science and Technology jumped eight places to 58th; City University of Hong Kong advanced three places to 75th; and the Hong Kong Polytechnic University climbed one place to 83rd, staying among the world's top 100. In addition, Hong Kong Baptist University recorded an improvement in ranking, while the Education University of Hong Kong and Lingnan University entered the Rankings for the first time.
@@ -218,7 +218,7 @@ To further consolidate and leverage the strengths of Hong Kong's post-secondary 
 Following the Government's doubling of the enrolment ceilings for non-local students of UGC-funded universities from 20 per cent to 40 per cent from the 2024/25 academic year, the number of non-local students enrolled in the UGC-funded programmes has recorded double-digit year-on-year growth, with students coming from over 100 countries and regions. To support continuous capacity expansion and quality enhancement of the post-secondary education sector, on the premise of ensuring opportunities for local students to pursue further studies, starting from the 2026/27 academic year, the Government will raise the enrolment ceiling for self-financing non-local students for taught programmes of funded-post-secondary institutions from the level equivalent to 40 per cent of local student places to 50 per cent; and the over-enrolment ceiling of self-financing places of funded research postgraduate programmes will be increased from 100 per cent to 120 per cent. Moreover, the Government will establish the cross-departmental Task Force on Study in Hong Kong to further promote Hong Kong's higher education and quality resources in areas such as academic studies, scientific research and international co-operation to attract more students and scholars to study or conduct research in Hong Kong.
 
 The spokesman added, ""These achievements fully showcase the effectiveness of the Government's continuous commitment to investing in education and proactively leading the post-secondary education sector in Hong Kong to expand capacity and enhance quality, seeking changes through innovation, as well as the support of a series of policy measures for building world-class universities and academic subjects. In the coming decade, along with the rapid education development of our nation, Hong Kong's education will also embrace a golden era. We will continue to deepen Hong Kong's role as an international hub for post-secondary education and a converging point of global talent, seize opportunities, and leverage strengths for contribution to the development of Hong Kong and the country."""
-Speech by FS at OASES Enterprises Signing Ceremony (English only) (with video),2025-10-09 11:47,2025-10-09 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900331.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the OASES Enterprises Signing Ceremony today (October 9):
+Speech by FS at OASES Enterprises Signing Ceremony (English only),2025-10-09 11:47,2025-10-09 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900331.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the OASES Enterprises Signing Ceremony today (October 9):
 
 Peter (Director-General of the Office for Attracting Strategic Enterprises, Mr Peter Yan), government colleagues, representatives of our valued strategic enterprises, distinguished guests, ladies and gentlemen,
 
@@ -249,7 +249,38 @@ Peter (Director-General of the Office for Attracting Strategic Enterprises, Mr P
   On that note, to our strategic enterprises here today, I thank you once again for choosing Hong Kong as your partner for growth. I wish you every success in your journey ahead.
 
   Thank you."
-Speech by FS at OASES Enterprises Signing Ceremony (English only),2025-10-09 11:47,2025-10-09 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900331.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the OASES Enterprises Signing Ceremony today (October 9):
+Speech by FS at OASES Enterprises Signing Ceremony (English only) (with photos/video),2025-10-09 11:47,2025-10-09 13:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900331.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the OASES Enterprises Signing Ceremony today (October 9):
+
+Peter (Director-General of the Office for Attracting Strategic Enterprises, Mr Peter Yan), government colleagues, representatives of our valued strategic enterprises, distinguished guests, ladies and gentlemen,
+
+  Good morning.
+
+  It is my great pleasure to welcome you all to the Signing Ceremony today, where the fifth batch of 18 strategic enterprises affirm their plans to establish or expand in Hong Kong.
+
+  The enterprises joining us today represent a wide spectrum of cutting-edge industries - from leading global pharmaceutical firms to trailblazers in generative AI, autonomous driving, and microelectronics. They also include leading pioneers in new media and Web3 technologies.
+
+  This is a significant milestone. With today’s addition, the number of strategic enterprises attracted to Hong Kong will surpass 100. Collectively, they are bringing in over HK$60 billion in investment and creating about 22 000 quality jobs. Beyond numbers, they also bring transformative ideas, world-class expertise, global perspectives, and a spirit of innovation that will further enrich our fast-evolving innovation and technology ecosystem.
+
+  Today is special also because, for the first time, we are welcoming cultural and creative enterprises that integrate technology with artistry and entertainment. This is an initiative announced in this year’s Budget, and I’m delighted to see it becoming a reality . The global digital entertainment market is growing rapidly, powered by IPs, AI and Web3. Hong Kong - with our unique connectivity to both the Chinese Mainland and the world, openness and diversity as an international city, and a vibrant ecosystem in innovation and technology - is an ideal launchpad for these enterprises to grow and scale across Asia and beyond.
+
+  To all the strategic enterprises joining us today: a very warm welcome to Hong Kong. I am delighted that you have chosen our city as your base for growth and further innovative breakthroughs. Here, you will find the capital, talent, partners, ecosystem and network that will help you succeed.
+
+  The deepening collaboration between Hong Kong and the sister cities in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) also offers tremendous growth opportunities, particularly for those in sectors such as AI, biotech and new energy. The GBA is an innovation powerhouse that merges innovative strengths and advanced manufacturing capabilities. This year, the Shenzhen-Hong Kong-Guangzhou science and technology cluster is ranked the world’s top innovation cluster by the World Intellectual Property Organization.
+
+  A highlight of this collaboration is the Co-operation Zone between Hong Kong and Shenzhen along the Shenzhen River, known as Hetao or the Loop. This Co-operation Zone will serve as a testing ground for innovative policies, including the unimpeded flow of critical factors of production, including people, capital, goods and data.
+
+  In this connection, Hong Kong’s appeal is clear. Take pharmaceutical companies for example. We are working to establish a primary evaluation mechanism for drug and medical device approvals. This will allow Hong Kong to independently review and approve drugs, medical products and devices developed in this zone, accelerating their time to the market. In Hetao, Hong Kong and Shenzhen have established cross-boundary clinical trial institutions, enabling studies that meet the regulatory standards of both jurisdictions. Together with other favourable government policies like talent, shared advanced laboratories and supercomputing power, Hong Kong is on the way to becoming a regional drug development hub.
+
+  I’m pleased to note that some of you are already engaged in long-term collaborations with our medical schools and clinical trial institutions in the GBA, and I encourage you to explore more.
+
+  Ladies and gentlemen, looking ahead, our efforts to attract strategic enterprises will grow in depth and breadth.
+
+  Our goal is simple and clear: to bring more strategic enterprises to Hong Kong, so that we can have an even more vibrant ecosystem and a growing industry base to help our businesses and start-ups thrive, and to provide our people with more and better career opportunities.
+
+  On that note, to our strategic enterprises here today, I thank you once again for choosing Hong Kong as your partner for growth. I wish you every success in your journey ahead.
+
+  Thank you."
+Speech by FS at OASES Enterprises Signing Ceremony (English only) (with video),2025-10-09 11:47,2025-10-09 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900331.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the OASES Enterprises Signing Ceremony today (October 9):
 
 Peter (Director-General of the Office for Attracting Strategic Enterprises, Mr Peter Yan), government colleagues, representatives of our valued strategic enterprises, distinguished guests, ladies and gentlemen,
 
@@ -417,19 +448,6 @@ Wear a wide-brimmed hat or use an umbrella.
 âIf symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
 
 âThe public may obtain more information from the DH's Health Education Infoline (2833 0111), heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast, UV Indexand weather information for hiking and mountaineering; and press releases of the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
-Very Hot Weather Warning issued,2025-10-09 09:46,2025-10-09 10:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900212.htm,"Attention TV/radio announcers:
-
-Please broadcast the following as soon as possible:
-
-The Hong Kong Observatory has issued the Very Hot Weather Warning.
-
-To prevent heat stroke, avoid prolonged activities outdoors.
-
-If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
-
-Drink plenty of water, and avoid beverages containing caffeine or alcohol.
-
-If you feel sick, consult a doctor right away."
 酷熱天氣警告已發出,2025-10-09 09:46,2025-10-09 10:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900215.htm,"電台及電視台當值宣布員注意：
 
 請盡速播出下列特別報告：
@@ -443,6 +461,19 @@ If you feel sick, consult a doctor right away."
 要充分喝水，但避免喝含咖啡因或酒精的飲品。
 
 如有不適，要盡快看醫生。"
+Very Hot Weather Warning issued,2025-10-09 09:46,2025-10-09 10:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900212.htm,"Attention TV/radio announcers:
+
+Please broadcast the following as soon as possible:
+
+The Hong Kong Observatory has issued the Very Hot Weather Warning.
+
+To prevent heat stroke, avoid prolonged activities outdoors.
+
+If engaged in outdoor work or activities, wear a wide-brimmed hat and light-coloured, loose-fitting clothes. Stay in shaded areas as much as possible.
+
+Drink plenty of water, and avoid beverages containing caffeine or alcohol.
+
+If you feel sick, consult a doctor right away."
 香港高等教育體系再度為港增光　彰顯教育政策成效,2025-10-09 09:14,2025-10-09 09:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/09/P2025100900184.htm,"教育局發言人今日（十月九日）表示，根據國際高等教育機構泰晤士高等教育（THE）剛公布的二○二六年世界大學排名，大學教育資助委員會（教資會）資助大學繼續位列頂尖，令香港成為全球唯一擁有五所大學躋身世界百強且所有上榜院校排名均有上升的城市，成績令人鼓舞，充分肯定香港專上教育界別精益求精、奮發圖強的成果，亦見證政府在建設香港成為國際專上教育樞紐上取得顯著進展。
 
 根據最新THE世界大學排名，香港大學上升兩位至全球第33名，香港中文大學上升三位至第41名，香港科技大學上升八位至第58名，香港城市大學上升三位至第75名和香港理工大學上升一位至第83名繼續位列世界百強。此外，香港浸會大學的名次亦有所上升，而香港教育大學及嶺南大學則首次登上該排名榜。
@@ -476,31 +507,16 @@ At the opening reception and ceremony organised by HKETO Brussels in Paris on Oc
 ""Hong Kong hosts one of the largest and most dynamic film industries in the world, and the Government is committed to supporting our film industry and facilitating international exchanges and collaboration"", Ms Yung added. She also highlighted the Film Development Fund and the annual Hong Kong International Film and TV Market.
 
 The ""Making Waves – Navigators of Hong Kong Cinema"" programme is a touring film exhibition promoting a diverse range of Hong Kong films, from classic to contemporary, especially those by new filmmakers. First launched in 2022, Making Waves has already travelled to 15 international cities, showcasing Hong Kong filmmakers whose works transformed film aesthetics and heralded unprecedented awareness of socio-political issues."
-波蘭和德國部分地區禽肉及禽類產品暫停進口,2025-10-08 18:58,2025-10-08 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800656.htm,"食物環境衞生署食物安全中心（中心）今日（十月八日）宣布，因應波蘭農業和農村發展部和世界動物衞生組織分別通報，指波蘭大波蘭省Ostrzeszowski區，以及德國圖林根州Greiz區爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
-
-中心發言人說，根據政府統計處的資料，本港今年首六個月從波蘭進口約一千七百三十公噸冷藏禽肉，以及從德國進口約三十公噸冷藏禽肉。
-
-發言人說：「中心已就事件聯絡波蘭和德國當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
 Import of poultry meat and products from areas in Poland and Germany suspended,2025-10-08 18:58,2025-10-08 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800660.htm,"  The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (October 8) that in view of notifications from the Ministry of Agriculture and Rural Development of Poland and the World Organisation for Animal Health (WOAH) about outbreaks of highly pathogenic H5N1 avian influenza in the Ostrzeszowski District of the Wielkopolskie Region in Poland, and the Greiz District in the State of Thüringen in Germany respectively, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the above-mentioned areas with immediate effect to protect public health in Hong Kong.
 
   A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 1 730 tonnes of frozen poultry meat from Poland, and about 30 tonnes of frozen poultry meat from Germany in the first six months of this year.
 
   ""The CFS has contacted the Polish and German authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreaks. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
-​香港海關搗破兩個懷疑私煙貯存倉庫（附圖）,2025-10-08 18:33,2025-10-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800662.htm,"香港海關今日（十月八日）在葵涌和觀塘偵破兩宗私煙案件，搗破兩個懷疑私煙貯存倉庫，檢獲共約三十五萬支懷疑私煙，估計市值約一百六十萬元，應課稅值約一百二十萬元，並拘捕三名懷疑涉案人士。
+波蘭和德國部分地區禽肉及禽類產品暫停進口,2025-10-08 18:58,2025-10-08 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800656.htm,"食物環境衞生署食物安全中心（中心）今日（十月八日）宣布，因應波蘭農業和農村發展部和世界動物衞生組織分別通報，指波蘭大波蘭省Ostrzeszowski區，以及德國圖林根州Greiz區爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
-首宗案件中，海關人員今日上午在葵涌進行反私煙行動，於和宜合道一座工業大廈的一個劏房單位內，檢獲約二十九萬支懷疑私煙。懷疑涉案的一名三十三歲男子及一名五十二歲女子被捕。二人均報稱無業。
+中心發言人說，根據政府統計處的資料，本港今年首六個月從波蘭進口約一千七百三十公噸冷藏禽肉，以及從德國進口約三十公噸冷藏禽肉。
 
-第二宗案件中，海關人員同日上午在觀塘進行反私煙行動，於興業街一座工業大廈內截查一名形跡可疑的男子，並於其背囊檢獲二千二百支懷疑私煙，逐拘捕該名報稱運輸工人的六十二歲男子。其後，海關人員押解他到該工廈內的一個迷你倉進行搜查，再檢獲約六萬一千支懷疑私煙。
-
-經初步調查，海關相信涉案的懷疑私煙貯存倉庫主要供應私煙予葵涌及東九龍一帶。海關會繼續追查私煙的來源，不排除會有更多人被捕。
-
-三名被捕人士已被落案控以「處理應課稅品條例適用的貨品」罪，首宗案件的被捕男女將於明日（十月九日）在西九龍裁判法院提堂；第二宗案件的被捕男子將於十一月十日在觀塘裁判法院提堂。
-
-海關會繼續根據風險評估和情報分析從源頭堵截，並透過針對貯存及分銷販賣多管齊下的執法策略，致力打擊私煙活動。
-
-海關強調買賣私煙同屬違法。根據《應課稅品條例》，任何人若處理、管有、售賣或購買私煙即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
+發言人說：「中心已就事件聯絡波蘭和德國當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
 Hong Kong Customs raids two suspected illicit cigarette storage centres (with photos),2025-10-08 18:33,2025-10-08 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800663.htm,"Hong Kong Customs today (October 8) detected two illicit cigarette cases and raided two suspected illicit cigarette storage centres in Kwai Chung and Kwun Tong. About 350 000 suspected illicit cigarettes with an estimated market value of about $1.6 million and a duty potential of about $1.2 million were seized. Three persons suspected to be connected with the cases were arrested.
 
 In the first case, Customs officers conducted an anti-illicit cigarette operation in Kwai Chung this morning and seized about 290 000 suspected illicit cigarettes inside a subdivided flat in an industrial building on Wo Yi Hop Road. A 33-year-old man and a 52-year-old woman, both claiming to be unemployed, suspected to be connected with the case were arrested.
@@ -516,6 +532,21 @@ Customs will continue its risk assessment and intelligence analysis for intercep
 Customs stresses that it is an offence to buy or sell illicit cigarettes. Under the Dutiable Commodities Ordinance, anyone involved in dealing with, possession of, selling or buying illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
 
 Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+​香港海關搗破兩個懷疑私煙貯存倉庫（附圖）,2025-10-08 18:33,2025-10-08 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800662.htm,"香港海關今日（十月八日）在葵涌和觀塘偵破兩宗私煙案件，搗破兩個懷疑私煙貯存倉庫，檢獲共約三十五萬支懷疑私煙，估計市值約一百六十萬元，應課稅值約一百二十萬元，並拘捕三名懷疑涉案人士。
+
+首宗案件中，海關人員今日上午在葵涌進行反私煙行動，於和宜合道一座工業大廈的一個劏房單位內，檢獲約二十九萬支懷疑私煙。懷疑涉案的一名三十三歲男子及一名五十二歲女子被捕。二人均報稱無業。
+
+第二宗案件中，海關人員同日上午在觀塘進行反私煙行動，於興業街一座工業大廈內截查一名形跡可疑的男子，並於其背囊檢獲二千二百支懷疑私煙，逐拘捕該名報稱運輸工人的六十二歲男子。其後，海關人員押解他到該工廈內的一個迷你倉進行搜查，再檢獲約六萬一千支懷疑私煙。
+
+經初步調查，海關相信涉案的懷疑私煙貯存倉庫主要供應私煙予葵涌及東九龍一帶。海關會繼續追查私煙的來源，不排除會有更多人被捕。
+
+三名被捕人士已被落案控以「處理應課稅品條例適用的貨品」罪，首宗案件的被捕男女將於明日（十月九日）在西九龍裁判法院提堂；第二宗案件的被捕男子將於十一月十日在觀塘裁判法院提堂。
+
+海關會繼續根據風險評估和情報分析從源頭堵截，並透過針對貯存及分銷販賣多管齊下的執法策略，致力打擊私煙活動。
+
+海關強調買賣私煙同屬違法。根據《應課稅品條例》，任何人若處理、管有、售賣或購買私煙即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
 Government announces subscription and allocation results of Silver Bond,2025-10-08 18:18,2025-10-08 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800664.htm,"  The Government announced today (October 8) the subscription and allocation results of the new batch of Silver Bond.
   
   According to the subscription information submitted by the Placing Banks and the Designated Securities Brokers, as at the close of the subscription period on September 29, 2025, a total of 371,821 valid applications were received for a total of HK$98,227,300,000 in principal amount of bonds.
@@ -648,6 +679,13 @@ in addition to DEET, there are other insect repellents available on the market c
 主席，在行政長官帶領下，我們不斷深化改革，強化治理體系。我們會全力落實《施政報告》內有關公務員管理的各項措施，繼續精益求精，並以盡忠竭誠、砥礪奮進、敢於創新的精神，全力協助行政長官施政，積極服務市民，為國家、為香港的發展作出貢獻。
 
 本人謹此陳辭，懇請議員支持議案。"
+"CE to attend flame-lighting ceremony of 15th National Games, 12th National Games for Persons with Disabilities and 9th National Special Olympic Games in Nansha, Guangzhou",2025-10-08 18:00,2025-10-08 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800648.htm,"The Chief Executive, Mr John Lee, will depart for Nansha, Guangzhou, tomorrow morning (October 9) to attend the flame-lighting ceremony of the 15th National Games (NG), the 12th National Games for Persons with Disabilities (NGD) and the 9th National Special Olympic Games (NSOG).
+
+Mr Lee will be an officiating guest at the ceremony and will light the flame for the 15th NG, the 12th NGD and the 9th NSOG on behalf of the Hong Kong Special Administrative Region. The Vice President and Secretary-General of the Organising Committee of the 15th NG, the 12th NGD and the 9th NSOG and Chief Secretary for Administration, Mr Chan Kwok-ki, will receive the flame of the 15th NG, the 12th NGD and the 9th NSOG.
+
+  Guangdong, Hong Kong and Macao will be presented with the flame of the 15th NG, the 12th NGD and the 9th NSOG at the ceremony, symbolising their cohosting of the Games.
+
+Mr Lee will return to Hong Kong the same afternoon."
 行政長官赴廣州南沙出席第十五屆全國運動會和全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會火種採集儀式,2025-10-08 18:00,2025-10-08 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800649.htm,"行政長官李家超明日（十月九日）早上前赴廣州南沙，出席第十五屆全國運動會（十五運會）和全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會（殘特奧會）火種採集儀式。
 
 李家超將擔任儀式主禮嘉賓，代表香港特別行政區點燃十五運會和殘特奧會聖火。十五運會組委會和殘特奧會組委會副主任兼秘書長、政務司司長陳國基將受領十五運會和殘特奧會火種。
@@ -673,37 +711,6 @@ Hong Kong Customs launches pilot run for duty stamp system for three months (wit
   The trial duty stamps are designed to bear both physical and digital anti-counterfeiting features. Customs officers and members of the public can scan the encrypted QR code on the trial duty stamp using dedicated devices available at the designated control points or retail outlets to ascertain the duty-paid status of the cigarettes. For easy identification, trial duty stamps affixed by Customs officers and local manufacturers are respectively in blue and green colours.
 
   Participation in the pilot run is voluntary. Hong Kong Customs welcomes the public to give suggestions and views on the pilot run throughquestionnaires. After the mid-term evaluation, Hong Kong Customs will extend the pilot run to more Duty Collection Offices at various control points."
-"CE to attend flame-lighting ceremony of 15th National Games, 12th National Games for Persons with Disabilities and 9th National Special Olympic Games in Nansha, Guangzhou",2025-10-08 18:00,2025-10-08 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800648.htm,"The Chief Executive, Mr John Lee, will depart for Nansha, Guangzhou, tomorrow morning (October 9) to attend the flame-lighting ceremony of the 15th National Games (NG), the 12th National Games for Persons with Disabilities (NGD) and the 9th National Special Olympic Games (NSOG).
-
-Mr Lee will be an officiating guest at the ceremony and will light the flame for the 15th NG, the 12th NGD and the 9th NSOG on behalf of the Hong Kong Special Administrative Region. The Vice President and Secretary-General of the Organising Committee of the 15th NG, the 12th NGD and the 9th NSOG and Chief Secretary for Administration, Mr Chan Kwok-ki, will receive the flame of the 15th NG, the 12th NGD and the 9th NSOG.
-
-  Guangdong, Hong Kong and Macao will be presented with the flame of the 15th NG, the 12th NGD and the 9th NSOG at the ceremony, symbolising their cohosting of the Games.
-
-Mr Lee will return to Hong Kong the same afternoon."
-與銀行有關的騙案通知,2025-10-08 17:55,2025-10-08 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800653.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
-
-
-
-
-銀行
-騙案類別
-
-
-富邦銀行（香港）有限公司
-欺詐網站及網上銀行登入畫面
-
-
-新加坡銀行有限公司
-欺詐社交媒體頁面
-
-
-
-
-金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
-
-任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 Scam alert related to banks,2025-10-08 17:55,2025-10-08 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800652.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
@@ -728,6 +735,30 @@ Fraudulent social media page
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+與銀行有關的騙案通知,2025-10-08 17:55,2025-10-08 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800653.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
+
+
+
+
+銀行
+騙案類別
+
+
+富邦銀行（香港）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+新加坡銀行有限公司
+欺詐社交媒體頁面
+
+
+
+
+金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
+
+任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 立法會：保安局局長就《行政長官2025年施政報告》致謝議案辯論（第一節）致辭全文（只有中文）,2025-10-08 17:50,2025-10-08 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800600.htm,"以下是保安局局長鄧炳強今日（十月八日）在立法會會議上就《行政長官2025年施政報告》致謝議案辯論（第一節：深化改革 心繫民生、「一國兩制」行穩致遠、強化治理體系和粵港澳大灣區建設）的致辭全文︰
 
 主席、各位議員：
@@ -1194,87 +1225,6 @@ Three incoming passengers convicted and jailed for importing prohibited articles
 根據《進出口條例》，任何人在沒有有效進口許可證下進口藥劑產品及藥物，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動。"
-立法會十八題：在惡劣天氣下進行高風險活動,2025-10-08 17:25,2025-10-08 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800535.htm,"以下是今日（十月八日）在立法會會議上林琳議員的提問和保安局局長鄧炳強的書面答覆：
-
-問題：
-
-有意見指出，儘管政府不斷呼籲市民在惡劣天氣情況下遠離危險區域，但仍有不少人不理勸告追風逐浪，該等行為不僅對自身生命安全造成嚴重威脅，亦加重政府救援部門的工作負擔和佔用公共應急資源。就此，政府可否告知本會：
-
-（一）過去兩年，政府共收到多少宗市民在惡劣天氣警告信號（包括黃色、紅色或黑色暴雨警告，以及三號或以上熱帶氣旋警告）生效期間，無視政府呼籲進行高風險活動（例如追風、觀浪、游泳等）而遇險求助的個案；香港消防處及政府飛行服務隊展開就該等求助個案所進行的搜索及救援行動的平均成本為何；
-
-（二）會否檢視現時法例，就市民在惡劣天氣警告下進行高風險活動的行為制訂明確罰則，例如就在暴雨警告信號生效期間進入高危地點（例如海邊、山澗、堤岸等）制訂嚴厲罰則，以加強阻嚇力；如會，具體詳情（包括時間表）為何；如否，原因為何；及
-
-（三）據報有家長在極端天氣下仍帶兒童前往高危區域，政府會否因應該等罔顧危險的行為，進一步完善有關照顧及看管兒童的法規，包括明確界定該等行為的違法性質及加強相關罰則；政府會如何透過家校溝通和社區親子活動等渠道進行家庭教育，提升家長群體在極端天氣下的安全意識？
-
-答覆：
-
-主席：
-
-近年極端天氣越趨頻繁，每逢風暴來襲，政府均事先透過各種渠道提醒市民保持警惕，切勿冒險追風逐浪，又反覆呼籲市民遠離高危地點。惟仍有個別的人罔顧自身及家人的安全，帶同年幼子女前往海邊或高危地點追風逐浪，罔顧他們的安危。
-
-政府強烈譴責颱風期間的追風逐浪等罔顧安全、極度自私的行為。追風逐浪的人往往低估風暴的風險，且過度高估自身逃生能力。這種極不負責任的行為不僅危及自身及子女安全，萬一遇到事故，更令拯救他們的救援人員置於極度危險境地。此等行為會增加公共救援服務的負擔，不當分散真正急需救援人士的資源，損害公眾利益。
-
-就林琳議員的提問，經諮詢文化體育及旅遊局、教育局、環境及生態局及民政及青年事務局後，現綜合回覆如下：
-
-（一）在二○二三年一月一日至二○二五年八月三十一日期間，在黃色、紅色或黑色暴雨警告，或三號或以上熱帶氣旋警告生效時，消防處、香港警務處（警務處）及政府飛行服務隊曾派員處理由露營或行山等而引致的攀山拯救，及由游泳或滑浪等而引致的遇溺事故詳情如下：
-
-
-
-
-年份
-攀山拯救（宗）
-出動人員（人）
-遇溺事故（宗）
-出動人員（人）
-
-
-二○二三
-23
-352
-16
-334
-
-
-二○二四
-25
-229
-4
-170
-
-
-二○二五
-			（截至八月三十一日）
-10
-103
-3
-123
-
-
-
-
-救援部隊沒有備存相關開支的統計資料。
-
-（二）政府高度關注並嚴厲譴責個別的人在惡劣天氣期間進行高風險活動，甚至帶同年幼子女前往海邊或高危地點觀浪的行為。警務處、康樂及文化事務署及漁農自然護理署具有現行法規規範相關危險行為，當中包括：
-
-
-警務處可根據《侵害人身罪條例》（第212章）第27（1）條，如家長或負有照顧責任的人士帶同不足16歲的兒童或少年人前往追風致其生命可能受危害，可以「疏忽照顧兒童」罪將其拘捕；
-警務處可根據《警隊條例》（第232章）第63條，如追風人士拒絕聽從警務人員的指示遠離岸邊及返回安全地方，可以「阻差辦公」罪將其拘捕；
-康樂及文化事務署署長可根據《泳灘規例》（第132E章）第4（1）及（2）條，封閉泳灘禁止巿民進入或使用；
-康樂及文化事務署署長可根據《遊樂場地規例》（第132BC章）第4條，封閉遊樂場地禁止巿民進入或使用；以及
-漁農自然護理署署長可根據《郊野公園及特別地區規例》（第208A章）第13（1）至（3）條，封閉郊野公園禁止巿民進入或使用。
-
-
-在近期超強颱風樺加沙襲港期間，警方嚴厲執法，包括進行三次執法行動，共拘捕四人，相關人士在颱風期間帶同年幼子女前往海邊或高危地點追風逐浪，涉嫌觸犯《侵害人身罪條例》的「疏忽照顧兒童」罪。另外，一名男子在已封閉的屯門黃金泳灘游泳，涉嫌違反《泳灘規例》規定，警方已向法庭申請傳票檢控該名人士。警方會積極跟進其他相關個案，適時發布相關執法及行動，以表明對同類行為的「零容忍」態度。
-
-上述提及的執法行動已清楚表明政府對這些危害生命安全和不負責任的行為予以追究責任的立場。我們亦留意到社會有意見，希望研究從法律層面針對這些在惡劣天氣下追風逐浪的不負責行為，政府會通盤考慮並作研究。
-
-（三）從超強颱風樺加沙襲港期間，警方有效引用《侵害人身罪條例》下的「疏忽照顧兒童」罪追究攜同子女或兒童觀浪的執法例子中可見，相關法例具備實際成效。而「疏忽照顧兒童」罪的最高刑罰為監禁10年，亦具相當阻嚇力。
-
-為進一步提升家長及兒童在惡劣天氣情況下的安全意識及自律性，教育局會透過學校課程及全方位學習活動，包括在小學人文科指導學生認識天氣警告及惡劣天氣下的應變措施，及初中地理科涵蓋暴雨和颱風下的極端天氣狀況，讓學生識別有關危險警告訊號及需採取的預防措施，以培養其面對惡劣天氣時的判斷能力與責任感，以及透過「家長電子專遞」網頁向家長發放信息，提醒家長和學生在惡劣天氣下往返學校時應注意的事宜，並按需要通知學校，請學校向家長進一步轉達有關信息。康文署則與中國香港拯溺總會每年合辦「水上安全運動」活動，宣傳「顧己及人，切勿在惡劣天氣下進行水上活動」等信息，並舉辦多個外展活動，向中、小學生推廣水上安全的重要性，有關活動今年共有超過1 500名學生參加。消防處亦於二○二四年推出「消防處社區應急先鋒計劃」，透過講義和實體課堂教授防災應變、惡劣天氣應對及溺水、山嶺事故等自救知識，以提升市民應急能力與意識。該計劃已推廣至學校、社會團體及家教會等不同層面，截至今年八月三十一日，已有6 515名市民獲委任為該計劃的社區先鋒。
-
-政府亦已善用電視宣傳短片及社交媒體平台等不同渠道，提醒市民在惡劣天氣下切勿追風逐浪，強調有關行為不僅對個人生命構成威脅，更可能違反相關法規，呼籲公眾必須保持警惕，共同維護公共安全。
-
-政府將繼續加強執法，並從學校及社區層面入手，聯同社會各界加強相關宣傳，從源頭遏止惡劣天氣下的追風逐浪行為，以保障社會整體安全。"
 LCQ18: Engaging in high-risk activities during inclement weather,2025-10-08 17:25,2025-10-08 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800537.htm,"  Following is a question by the Hon Nixie Lam and a written reply by the Secretary for Security, Mr Tang Ping-keung, in the Legislative Council today (October 8):
 
 Question:
@@ -1357,6 +1307,87 @@ To further enhance the safety awareness of parents and children during adverse w
 The Government has also made full use of various channels, including TV Announcements in the Public Interest and social media platforms, to remind members of the public not to engage in wind-chasing and wave-watching activities during adverse weather conditions, emphasising that such acts not only endanger their personal safety but may also contravene the relevant legislation, and appealing to the public to stay vigilant and work together to safeguard public safety.
 
 The Government will continue to step up law enforcement and collaborate with schools and community organisations to enhance publicity efforts, aiming to curb the wind-chasing and wave-watching behaviours under adverse weather conditions at source and safeguard overall public safety."
+立法會十八題：在惡劣天氣下進行高風險活動,2025-10-08 17:25,2025-10-08 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800535.htm,"以下是今日（十月八日）在立法會會議上林琳議員的提問和保安局局長鄧炳強的書面答覆：
+
+問題：
+
+有意見指出，儘管政府不斷呼籲市民在惡劣天氣情況下遠離危險區域，但仍有不少人不理勸告追風逐浪，該等行為不僅對自身生命安全造成嚴重威脅，亦加重政府救援部門的工作負擔和佔用公共應急資源。就此，政府可否告知本會：
+
+（一）過去兩年，政府共收到多少宗市民在惡劣天氣警告信號（包括黃色、紅色或黑色暴雨警告，以及三號或以上熱帶氣旋警告）生效期間，無視政府呼籲進行高風險活動（例如追風、觀浪、游泳等）而遇險求助的個案；香港消防處及政府飛行服務隊展開就該等求助個案所進行的搜索及救援行動的平均成本為何；
+
+（二）會否檢視現時法例，就市民在惡劣天氣警告下進行高風險活動的行為制訂明確罰則，例如就在暴雨警告信號生效期間進入高危地點（例如海邊、山澗、堤岸等）制訂嚴厲罰則，以加強阻嚇力；如會，具體詳情（包括時間表）為何；如否，原因為何；及
+
+（三）據報有家長在極端天氣下仍帶兒童前往高危區域，政府會否因應該等罔顧危險的行為，進一步完善有關照顧及看管兒童的法規，包括明確界定該等行為的違法性質及加強相關罰則；政府會如何透過家校溝通和社區親子活動等渠道進行家庭教育，提升家長群體在極端天氣下的安全意識？
+
+答覆：
+
+主席：
+
+近年極端天氣越趨頻繁，每逢風暴來襲，政府均事先透過各種渠道提醒市民保持警惕，切勿冒險追風逐浪，又反覆呼籲市民遠離高危地點。惟仍有個別的人罔顧自身及家人的安全，帶同年幼子女前往海邊或高危地點追風逐浪，罔顧他們的安危。
+
+政府強烈譴責颱風期間的追風逐浪等罔顧安全、極度自私的行為。追風逐浪的人往往低估風暴的風險，且過度高估自身逃生能力。這種極不負責任的行為不僅危及自身及子女安全，萬一遇到事故，更令拯救他們的救援人員置於極度危險境地。此等行為會增加公共救援服務的負擔，不當分散真正急需救援人士的資源，損害公眾利益。
+
+就林琳議員的提問，經諮詢文化體育及旅遊局、教育局、環境及生態局及民政及青年事務局後，現綜合回覆如下：
+
+（一）在二○二三年一月一日至二○二五年八月三十一日期間，在黃色、紅色或黑色暴雨警告，或三號或以上熱帶氣旋警告生效時，消防處、香港警務處（警務處）及政府飛行服務隊曾派員處理由露營或行山等而引致的攀山拯救，及由游泳或滑浪等而引致的遇溺事故詳情如下：
+
+
+
+
+年份
+攀山拯救（宗）
+出動人員（人）
+遇溺事故（宗）
+出動人員（人）
+
+
+二○二三
+23
+352
+16
+334
+
+
+二○二四
+25
+229
+4
+170
+
+
+二○二五
+			（截至八月三十一日）
+10
+103
+3
+123
+
+
+
+
+救援部隊沒有備存相關開支的統計資料。
+
+（二）政府高度關注並嚴厲譴責個別的人在惡劣天氣期間進行高風險活動，甚至帶同年幼子女前往海邊或高危地點觀浪的行為。警務處、康樂及文化事務署及漁農自然護理署具有現行法規規範相關危險行為，當中包括：
+
+
+警務處可根據《侵害人身罪條例》（第212章）第27（1）條，如家長或負有照顧責任的人士帶同不足16歲的兒童或少年人前往追風致其生命可能受危害，可以「疏忽照顧兒童」罪將其拘捕；
+警務處可根據《警隊條例》（第232章）第63條，如追風人士拒絕聽從警務人員的指示遠離岸邊及返回安全地方，可以「阻差辦公」罪將其拘捕；
+康樂及文化事務署署長可根據《泳灘規例》（第132E章）第4（1）及（2）條，封閉泳灘禁止巿民進入或使用；
+康樂及文化事務署署長可根據《遊樂場地規例》（第132BC章）第4條，封閉遊樂場地禁止巿民進入或使用；以及
+漁農自然護理署署長可根據《郊野公園及特別地區規例》（第208A章）第13（1）至（3）條，封閉郊野公園禁止巿民進入或使用。
+
+
+在近期超強颱風樺加沙襲港期間，警方嚴厲執法，包括進行三次執法行動，共拘捕四人，相關人士在颱風期間帶同年幼子女前往海邊或高危地點追風逐浪，涉嫌觸犯《侵害人身罪條例》的「疏忽照顧兒童」罪。另外，一名男子在已封閉的屯門黃金泳灘游泳，涉嫌違反《泳灘規例》規定，警方已向法庭申請傳票檢控該名人士。警方會積極跟進其他相關個案，適時發布相關執法及行動，以表明對同類行為的「零容忍」態度。
+
+上述提及的執法行動已清楚表明政府對這些危害生命安全和不負責任的行為予以追究責任的立場。我們亦留意到社會有意見，希望研究從法律層面針對這些在惡劣天氣下追風逐浪的不負責行為，政府會通盤考慮並作研究。
+
+（三）從超強颱風樺加沙襲港期間，警方有效引用《侵害人身罪條例》下的「疏忽照顧兒童」罪追究攜同子女或兒童觀浪的執法例子中可見，相關法例具備實際成效。而「疏忽照顧兒童」罪的最高刑罰為監禁10年，亦具相當阻嚇力。
+
+為進一步提升家長及兒童在惡劣天氣情況下的安全意識及自律性，教育局會透過學校課程及全方位學習活動，包括在小學人文科指導學生認識天氣警告及惡劣天氣下的應變措施，及初中地理科涵蓋暴雨和颱風下的極端天氣狀況，讓學生識別有關危險警告訊號及需採取的預防措施，以培養其面對惡劣天氣時的判斷能力與責任感，以及透過「家長電子專遞」網頁向家長發放信息，提醒家長和學生在惡劣天氣下往返學校時應注意的事宜，並按需要通知學校，請學校向家長進一步轉達有關信息。康文署則與中國香港拯溺總會每年合辦「水上安全運動」活動，宣傳「顧己及人，切勿在惡劣天氣下進行水上活動」等信息，並舉辦多個外展活動，向中、小學生推廣水上安全的重要性，有關活動今年共有超過1 500名學生參加。消防處亦於二○二四年推出「消防處社區應急先鋒計劃」，透過講義和實體課堂教授防災應變、惡劣天氣應對及溺水、山嶺事故等自救知識，以提升市民應急能力與意識。該計劃已推廣至學校、社會團體及家教會等不同層面，截至今年八月三十一日，已有6 515名市民獲委任為該計劃的社區先鋒。
+
+政府亦已善用電視宣傳短片及社交媒體平台等不同渠道，提醒市民在惡劣天氣下切勿追風逐浪，強調有關行為不僅對個人生命構成威脅，更可能違反相關法規，呼籲公眾必須保持警惕，共同維護公共安全。
+
+政府將繼續加強執法，並從學校及社區層面入手，聯同社會各界加強相關宣傳，從源頭遏止惡劣天氣下的追風逐浪行為，以保障社會整體安全。"
 立法會七題：「盲盒」銷售模式,2025-10-08 17:20,2025-10-08 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800552.htm,"以下是今日（十月八日）在立法會會議上李浩然議員的提問和商務及經濟發展局局長丘應樺的書面答覆：
 
 問題：
@@ -1447,237 +1478,6 @@ President,
  The Government will continue to closely monitor the trends of unfair trade practices and the latest requirements for safety standards of various articles to formulate appropriate strategies, thereby protecting consumers' rights and interests and safety.
 
  Furthermore, there are strict regulations in Hong Kong on the import and export of all prohibited/controlled items and dutiable commodities. These regulations are applicable to all modes of import and export, including articles purchased through cross-border electronic commerce platforms. According to the Import and Export Ordinance (Cap. 60), import and export of all controlled items (including dangerous drugs, arms, ammunition, weapons, controlled chemicals, pharmaceuticals, and animals and plants, etc) must be accompanied by a valid licence or permit issued by the relevant authorities. Any person who brings any controlled item into/out of Hong Kong (whether by person, by post, or through purchasing agents or consolidated consignments) without a valid licence or permit may be prosecuted, in addition to confiscation of the subject item. In terms of tax, apart from four categories of dutiable commodities that are subject to duty under the Dutiable Commodities Ordinance (Cap. 109) (i.e. liquor, tobacco, hydrocarbon and methyl alcohol), Hong Kong does not impose duty on any other imported or exported goods. Any person who imports or exports dutiable goods must obtain a valid permit from the C&ED and make proper declaration on the manifest. For consumption of dutiable goods in Hong Kong, one must ensure that the relevant duty has been duly paid."
-民政事務總署開放臨時避暑中心,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800581.htm,"民政事務總署今日（十月八日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
-
-臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
-
-如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
-
-臨時避暑中心的地點如下：
-
-香港島：
-———
-中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
-東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區－鴨脷洲利東邨利東社區會堂
-灣仔－銅鑼灣銅鑼灣徑20號摩頓臺活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘－藍田啟田道71號藍田（西區）社區中心
-深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌葵盛西邨第六座平台葵盛社區會堂
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂
-元朗－天水圍天耀邨天耀社區中心
-
-除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
-​立法會：政務司司長就《行政長官2025年施政報告》致謝議案辯論（第一節）致辭全文（只有中文）,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800603.htm,"以下是政務司司長陳國基今日（十月八日）在立法會會議上就《行政長官2025年施政報告》致謝議案辯論（第一節：深化改革心繫民生、「一國兩制」行穩致遠、強化治理體系和粵港澳大灣區建設）的致辭全文︰
-
-主席：
-
-我衷心感謝李慧琼議員提出的致謝議案，以及多位議員在第一節辯論中提出的寶貴意見。
-
-行政長官早前發表二○二五年《施政報告》，以「深化改革心繫民生發揮優勢同創未來」為主題，在今年作為國家「十四五」規劃收官之年，以及「十五五」規劃謀篇布局之年，提出多項政策措施，引領香港更主動對接國家發展戰略、進一步鞏固香港的競爭力、發展經濟、改善民生，帶領社會改革創新。
-
-剛才議員圍繞「深化改革心繫民生」、「一國兩制」行穩致遠、強化治理體系，以及粵港澳大灣區建設這四個重要議題提出很多很有用的見解。我會先作整體回應，然後各司局長會就其所屬政策範疇作進一步說明。
-
-「一國兩制」行穩致遠
-
-我們會繼續全面準確、堅定不移貫徹「一國兩制」、「港人治港」、高度自治的方針，充分發揮「一國兩制」制度優勢，保持香港長期繁榮穩定。
-
-特區政府已在二○二一年完善選舉制度、二○二三年完善地區治理體系及重塑區議會，全面落實「愛國者治港」原則。我們會全力籌辦好今年十二月七日舉行的第八屆立法會選舉，確保選舉公平、公正、誠實和安全有序進行。我們會確保特區的管治權牢牢掌握在愛國者手中。
-
-特區政府致力構建以愛國愛港為核心、與「一國兩制」方針相適應的主流價值觀。由我擔任主席的「憲法和基本法推廣督導委員會」，已於去年成立轄下的「愛國主義教育工作小組」，以協調政府部門及非政府機構推動愛國主義教育。工作小組認為愛國主義教育是關乎人心、需要深耕細作的工作，應以軟性和打動人心的方式進行。工作小組按香港的實際情況訂下短、中、長期的工作目標和政策措施。今年是中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年，我們的重點是做好抗戰勝利80周年紀念活動。
-
-特區政府舉辦多項紀念和教育活動，得到市民和青少年廣泛參與，有效宣揚銘記歷史、珍愛和平的主題。我們會繼續梳理及修繕保護全港各區的中共抗戰遺址，推廣內地的愛國主義教育設施，並將其納入特區愛國主義教育基地。我們深切明白到愛國主義教育的工作關係到國家安全以及特區的長治久安，因此我們必定會竭盡所能，以更多創新思維，持之以恆，久久為功，在特區全方位推廣愛國主義教育。
-
-維護國家主權、安全、發展利益是「一國兩制」方針的最高原則。《香港國安法》實施五年來，香港從「由亂到治」邁向「由治及興」。特區政府會繼續堅定不移維護國家主權、安全、發展利益，深入踐行「總體國家安全觀」，居安思危，防範風險，確保香港長治久安。我們會加強《憲法》和《基本法》的宣傳教育，加強市民對《憲法》、《基本法》、國家安全，以及「一國兩制」的認識，持續完善維護國家安全的法律制度和執行機制，並以多管齊下的策略，推展國家安全相關宣傳教育，將國安信息進一步植根社區。
-
-中華優秀傳統文化是我們的優勢，是維繫國家、民族團結的重要根基。教育局持續透過優化課程、為學生舉辦多元化的全方位學習活動等，增進學生對國家的認識，並以中華文化作為價值觀教育的主軸，進一步加強學生的國民身分認同和文化自信。
-
-教育局將持續支援學校，將愛國主義教育融入日常學與教之中，厚植學生家國情懷，同時繼續凝聚社會各界的資源和力量，並善用內地和本地愛國主義教育設施，讓學生更深入了解國家的歷史文化和成就。
-
-強化治理體系
-
-本屆政府上任以來，持續強化治理體系，致力提升執行效率和服務質素。早前超強颱風樺加沙襲港，由行政長官指導和由我統籌的應對極端天氣督導委員會，發揮頂層領導作用，在充分準備及全方位部署下，迅速統籌協調各相關部門，全力減低對市民的影響。各部門嚴陣以待，整個應對過程展現高效協作與專業能力。
-
-早前有議員提到公務員存有「不做不錯」的心態，我對此並不認同。無論是應對超強颱風樺加沙，或是上個月處理鰂魚涌一枚重達一千磅的戰時炸彈，部門同事均是緊守崗位、全力以赴，大量人員更是通宵達旦工作，充分展現責任感、使命感，以及主動多走一步的專業精神。不同部門同事無分你我，緊密協作，更確保資源的精準投放，以及應變行動的流暢執行。
-
-事實上，本屆政府自上任以來不斷推行改革，建立「以結果為目標」的政府和公務員團隊。在《2025年世界競爭力年報》中，香港在「政府效率」排名世界第二，不但反映香港公務員整體是一支優秀隊伍，亦反映本屆政府的改革和公務員共同努力的成果。
-
-今年《施政報告》就進一步強化治理，提出建立部門首長責任制及強化公務員評核機制。這並非因為不滿公務員整體表現，其目的是要把公務員的管理，變得更為制度化、系統化、公平化。責任制強調部門首長須負責管理好部門團隊，發揮最大效能；同時樹立固定機制，當部門出現問題時，可按問題輕重，作出調整和糾正。
-
-我們亦會強化公務員評核機制，鼓勵優秀公務員精益求精、提振士氣；同時要求管理方針對性地協助有不足的員工提升能力，並妥善處理個別長期表現欠佳的情況，以確保整體服務水平不斷提升。
-
-此外，為進一步提升政府效能，政府將成立AI效能提升組，由政務司副司長領導相關政策局並邀請業界代表參與，推動政府部門有效應用AI人工智能技術。小組將統籌指導各部門應用AI、研究重組工作流程，以及推動科技革新以提效提質。
-
-粵港澳大灣區建設
-
-香港是粵港澳大灣區中心城市和區域發展核心引擎之一，在大灣區建設中肩負引領帶動的重任，在國家進一步改革開放中更具有不可替代的重要作用。特區政府會繼續帶領全社會更主動對接國家戰略、更積極融入國家發展大局，加強與廣東、澳門的互利合作，提升人流、物流、數據流、資金流，促進協同發展。
-
-為深化大灣區內的規則銜接和機制對接，律政司將繼續推動訂立大灣區仲裁員名冊、設立大灣區商事調解及仲裁平台，減低解決跨境爭議的成本，並支持大灣區律師的專業發展，組建大灣區律師聯會，設立法律資訊平台，同時加強推廣香港法律及其他專業服務，支援企業出海需要。
-
-總結
-
-今年的《施政報告》既立足當前，更謀劃長遠。在香港加快邁向「由治及興」的進程上，我們繼續背靠祖國強大後盾，堅定不移貫徹「一國兩制」方針，善用粵港澳大灣區的優勢，同時進一步強化治理，發揮香港擁有獨一無二的優勢，讓香港的發展方向更清晰，道路更廣闊，市民有更多的幸福感和獲得感。
-
-我們期待在接着的環節聽到議員更多意見。主席，我謹此陳辭。"
-​地政總署二○二五年第三季批出兩份預售樓花同意書,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800304.htm,"地政總署今日（十月八日）公布，二○二五年第三季批出兩份住宅項目預售樓花同意書，共涉及1 851個住宅單位。
-
-上述已取得預售樓花同意書的住宅項目的相關資料如下：
-
-
-
-
-預計落成年份
-項目
-
-
-2025
-
-
-一個位於西貢的項目（51個單位）
-
-
-
-
-2028
-
-
-一個位於啟德的項目（1 800個單位）
-
-
-
-
-
-
-地政總署亦於第三季批出兩份轉讓同意書，涉及一個位於九龍塘的發展項目的兩個分期，共涉及87個住宅單位。
-
-截至二○二五年九月三十日，有待核准的住宅項目預售樓花同意書申請共29份，共涉及8 902個單位，相關資料如下：
-
-
-
-
-預計落成年份
-同意書申請數目
-涉及住宅單位數目
-
-
-2026
-10
-2 832
-
-
-2027
-13
-3 563
-
-
-2028
-6
-2 507
-
-
-
-
-此外，該署正處理10份共涉及3 666個住宅單位和四個非住宅單位的轉讓同意書申請，而有待核准的非住宅項目預售樓花同意書申請則有三份。
-
-市民如欲索取上季已批出的同意書及有待核准申請的最新資料，可瀏覽地政總署網頁（www.landsd.gov.hk）。
-
-有意購買樓花的人士，在決定繳付訂金之前，應先透過廣告、發展商發出的售樓書或樓價表等，了解清楚該發展項目的詳細資料和買賣程序。售樓書內亦載有大廈公契的摘要，包括公用部分、分配予每個單位的不可分割份數、管理人的委任年期、管理開支的分攤，以及政府批地文件的摘要，有意購買樓花的人士應詳細閱讀。"
-Monthly gravidtrap index for Aedes albopictus mosquitoes continues to drop in September,2025-10-08 17:00,2025-10-08 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800465.htm,"  The Food and Environmental Hygiene Department (FEHD) today (October 8) announced that the monthly gravidtrap index (MGI) for Aedes albopictus mosquitoes in September was 2.5 per cent, lower than the 5.3 per cent in August. This reflects the continued efforts by relevant government departments to intensify mosquito prevention and elimination operations, resulting in the improvement of the overall mosquito infestation situation this month. In addition, the FEHD has strengthened the dissemination of information on the gravidtrap index for Aedes albopictus mosquitoes so that more citizens can quickly grasp the mosquito infestation situation. The department will continue its mosquito control work to further reduce the risk of transmission of chikungunya fever (CF) and dengue fever (DF).
-
-  In September, all 64 survey areas recorded an area gravidtrap index (AGI) lower than the alert level of 20 per cent. The decreases in the MGI and the AGI are attributable to the continuous and intensified mosquito prevention and elimination operations by various government departments and stakeholders, and may also have been affected by factors such as weather. The monthly rainfall was 528.7 millimetres in September, showing a decrease from the 939.2mm in August and 601.7mm in July. Overall, the MGI for Aedes albopictus mosquitoes in September was 2.5 per cent, at Level 1 (indicating the distribution of Aedes albopictus mosquitoes in the survey areas was not extensive). Relevant departments and stakeholders will persistently intensify mosquito prevention and elimination operations.
-
-  Moreover, the monthly density index for Aedes albopictus in September was 1.1, which represented that an average of 1.1 Aedes albopictus adults were found in the Aedes-positive gravidtraps, indicating that the number of adult Aedes albopictus was not abundant in the survey areas.
-
-  The FEHD currently makes regular announcements on gravidtrap indexes for Aedes albopictus on its webpage. To allow more citizens to quickly grasp the mosquito infestation situation, the FEHD has strengthened information dissemination by promptly announcing the latest gravidtrap indexes through press releases and social media.
-
-  In addition, to further reduce the risk of transmission of CF, the FEHD has extended the intensified mosquito control work, which was originally activated when the AGI reaches 20 per cent, to cover areas with the AGI falling between 10 and 20 per cent. Specifically, the FEHD will conduct detailed risk assessments in the areas concerned to identify locations with higher mosquito infestation risks and, in collaboration with relevant departments and stakeholders, conduct intensive and targeted mosquito control work. The FEHD will also notify nearby housing estates, advising property management agents and residents to stay vigilant and work together to take mosquito prevention and elimination measures.
-
-  To reduce the risk of transmission of CF and DF, the FEHD continues to step up mosquito prevention and control measures across all districts and to conduct vector investigations and targeted mosquito control operations within a 250 metre radius of the residence of patients and the places patients had visited during the infectious period, including removing mosquito breeding grounds, applying larvicides to stagnant water that cannot be cleared, and carrying out ultra-low volume fogging operations in adult mosquito habitats such as densely wooded areas, dark and secluded places, and abandoned structures to eliminate adult mosquitoes.
-
-  The FEHD continues to conduct its three-phase Anti-mosquito Campaign this year. The third phase of the territory-wide campaign was launched on August 4 and will run until October 24. During the period, the district offices of the FEHD will target areas that have drawn particular concern, such as public markets, cooked food centres and hawker bazaars, single-block buildings, streets and back lanes, common parts of buildings, village houses, construction sites, vacant sites and road works sites to remove accumulated water and carry out mosquito prevention and control work. To further enhance the effectiveness of mosquito control, the FEHD and relevant government departments have carried out phase two of the All-out Anti-mosquito Operations from May 7. In addition to the work of phase one, including eliminating potential mosquito breeding places, the FEHD called on property management entities to arrange for necessary repairs to their premises to minimise mosquito breeding places and commence adult mosquito control measures by means of regular ultra-low volume fogging operations.
-
-  The FEHD appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
-
-  Aedes albopictus is a kind of mosquito that can transmit DF and CF. DF is commonly found in tropical and subtropical regions of the world, and has become endemic in many countries in Southeast Asia. In 2024, the World Health Organization (WHO) recorded over 14 million cases, which was a record number. Additionally, according to the WHO, CF cases have been recorded in more than 110 countries/regions. Many countries worldwide experienced CF outbreaks this year, and as of August, over 317 000 cases had been reported in 16 countries/regions worldwide. The DF and CF activities in neighbouring areas have remained high. Members of the public should stay vigilant and continue to carry out effective mosquito prevention and control measures."
-Lands Department issues two pre-sale consents in third quarter of 2025,2025-10-08 17:00,2025-10-08 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800306.htm,"  The Lands Department (LandsD) announced today (October 8) that two pre-sale consents for residential developments involving 1 851 residential units were issued in the third quarter of 2025.
-
-  Details of the above residential developments with pre-sale consents issued are as follows:
-
-
-
-
-Expected year of completion
-Developments
-
-
-2025
-
-
-One development in Sai Kung (51 units)
-
-
-
-
-2028
-
-
-One development in Kai Tak (1 800 units)
-
-
-
-
-
-
-  The LandsD also issued two consents to assign in the third quarter, involving a total of 87 residential units in two phases of a development in Kowloon Tong.
-
-  As at September 30, 2025, 29 applications for pre-sale consent for residential developments involving 8 902 residential units were being processed. Details are as follows:
-
-
-
-
-Expected year of completion
-No. of applications
-No. of residential units involved
-
-
-2026
-10
-2 832
-
-
-2027
-13
-3 563
-
-
-2028
-6
-2 507
-
-
-
-
-  In addition, 10 applications for consent to assign involving 3 666 residential units and four non-residential units respectively as well as three applications for pre-sale consent for non-residential developments were being processed.
-
-  Members of the public can obtain up-to-date information on consents issued for the past quarter and cases pending approval by visiting the LandsD website (www.landsd.gov.hk).
-
-  Intending purchasers are advised to study carefully the details of the development and the sale procedures, through information available from public advertisements, sales brochures and price lists released by the developer, before making a deposit for purchase. The sales brochure for a development also contains a summary of the provisions of the Deed of Mutual Covenant, including information on the common parts, the number of undivided shares assigned to each unit, the term of years for which the manager is appointed, the basis on which the management expenses are shared among the owners of the units, as well as a summary of the provisions of the government land grant, which intending purchasers are recommended to read carefully."
 HAD opens temporary heat shelters,2025-10-08 17:00,2025-10-08 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800582.htm,"The Home Affairs Department will continue to open 19 community halls/community centres as temporary heat shelters today (October 8).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -1774,6 +1574,200 @@ Tin Yiu Community Centre
 Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf."
+Lands Department issues two pre-sale consents in third quarter of 2025,2025-10-08 17:00,2025-10-08 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800306.htm,"  The Lands Department (LandsD) announced today (October 8) that two pre-sale consents for residential developments involving 1 851 residential units were issued in the third quarter of 2025.
+
+  Details of the above residential developments with pre-sale consents issued are as follows:
+
+
+
+
+Expected year of completion
+Developments
+
+
+2025
+
+
+One development in Sai Kung (51 units)
+
+
+
+
+2028
+
+
+One development in Kai Tak (1 800 units)
+
+
+
+
+
+
+  The LandsD also issued two consents to assign in the third quarter, involving a total of 87 residential units in two phases of a development in Kowloon Tong.
+
+  As at September 30, 2025, 29 applications for pre-sale consent for residential developments involving 8 902 residential units were being processed. Details are as follows:
+
+
+
+
+Expected year of completion
+No. of applications
+No. of residential units involved
+
+
+2026
+10
+2 832
+
+
+2027
+13
+3 563
+
+
+2028
+6
+2 507
+
+
+
+
+  In addition, 10 applications for consent to assign involving 3 666 residential units and four non-residential units respectively as well as three applications for pre-sale consent for non-residential developments were being processed.
+
+  Members of the public can obtain up-to-date information on consents issued for the past quarter and cases pending approval by visiting the LandsD website (www.landsd.gov.hk).
+
+  Intending purchasers are advised to study carefully the details of the development and the sale procedures, through information available from public advertisements, sales brochures and price lists released by the developer, before making a deposit for purchase. The sales brochure for a development also contains a summary of the provisions of the Deed of Mutual Covenant, including information on the common parts, the number of undivided shares assigned to each unit, the term of years for which the manager is appointed, the basis on which the management expenses are shared among the owners of the units, as well as a summary of the provisions of the government land grant, which intending purchasers are recommended to read carefully."
+Monthly gravidtrap index for Aedes albopictus mosquitoes continues to drop in September,2025-10-08 17:00,2025-10-08 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800465.htm,"  The Food and Environmental Hygiene Department (FEHD) today (October 8) announced that the monthly gravidtrap index (MGI) for Aedes albopictus mosquitoes in September was 2.5 per cent, lower than the 5.3 per cent in August. This reflects the continued efforts by relevant government departments to intensify mosquito prevention and elimination operations, resulting in the improvement of the overall mosquito infestation situation this month. In addition, the FEHD has strengthened the dissemination of information on the gravidtrap index for Aedes albopictus mosquitoes so that more citizens can quickly grasp the mosquito infestation situation. The department will continue its mosquito control work to further reduce the risk of transmission of chikungunya fever (CF) and dengue fever (DF).
+
+  In September, all 64 survey areas recorded an area gravidtrap index (AGI) lower than the alert level of 20 per cent. The decreases in the MGI and the AGI are attributable to the continuous and intensified mosquito prevention and elimination operations by various government departments and stakeholders, and may also have been affected by factors such as weather. The monthly rainfall was 528.7 millimetres in September, showing a decrease from the 939.2mm in August and 601.7mm in July. Overall, the MGI for Aedes albopictus mosquitoes in September was 2.5 per cent, at Level 1 (indicating the distribution of Aedes albopictus mosquitoes in the survey areas was not extensive). Relevant departments and stakeholders will persistently intensify mosquito prevention and elimination operations.
+
+  Moreover, the monthly density index for Aedes albopictus in September was 1.1, which represented that an average of 1.1 Aedes albopictus adults were found in the Aedes-positive gravidtraps, indicating that the number of adult Aedes albopictus was not abundant in the survey areas.
+
+  The FEHD currently makes regular announcements on gravidtrap indexes for Aedes albopictus on its webpage. To allow more citizens to quickly grasp the mosquito infestation situation, the FEHD has strengthened information dissemination by promptly announcing the latest gravidtrap indexes through press releases and social media.
+
+  In addition, to further reduce the risk of transmission of CF, the FEHD has extended the intensified mosquito control work, which was originally activated when the AGI reaches 20 per cent, to cover areas with the AGI falling between 10 and 20 per cent. Specifically, the FEHD will conduct detailed risk assessments in the areas concerned to identify locations with higher mosquito infestation risks and, in collaboration with relevant departments and stakeholders, conduct intensive and targeted mosquito control work. The FEHD will also notify nearby housing estates, advising property management agents and residents to stay vigilant and work together to take mosquito prevention and elimination measures.
+
+  To reduce the risk of transmission of CF and DF, the FEHD continues to step up mosquito prevention and control measures across all districts and to conduct vector investigations and targeted mosquito control operations within a 250 metre radius of the residence of patients and the places patients had visited during the infectious period, including removing mosquito breeding grounds, applying larvicides to stagnant water that cannot be cleared, and carrying out ultra-low volume fogging operations in adult mosquito habitats such as densely wooded areas, dark and secluded places, and abandoned structures to eliminate adult mosquitoes.
+
+  The FEHD continues to conduct its three-phase Anti-mosquito Campaign this year. The third phase of the territory-wide campaign was launched on August 4 and will run until October 24. During the period, the district offices of the FEHD will target areas that have drawn particular concern, such as public markets, cooked food centres and hawker bazaars, single-block buildings, streets and back lanes, common parts of buildings, village houses, construction sites, vacant sites and road works sites to remove accumulated water and carry out mosquito prevention and control work. To further enhance the effectiveness of mosquito control, the FEHD and relevant government departments have carried out phase two of the All-out Anti-mosquito Operations from May 7. In addition to the work of phase one, including eliminating potential mosquito breeding places, the FEHD called on property management entities to arrange for necessary repairs to their premises to minimise mosquito breeding places and commence adult mosquito control measures by means of regular ultra-low volume fogging operations.
+
+  The FEHD appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
+
+  Aedes albopictus is a kind of mosquito that can transmit DF and CF. DF is commonly found in tropical and subtropical regions of the world, and has become endemic in many countries in Southeast Asia. In 2024, the World Health Organization (WHO) recorded over 14 million cases, which was a record number. Additionally, according to the WHO, CF cases have been recorded in more than 110 countries/regions. Many countries worldwide experienced CF outbreaks this year, and as of August, over 317 000 cases had been reported in 16 countries/regions worldwide. The DF and CF activities in neighbouring areas have remained high. Members of the public should stay vigilant and continue to carry out effective mosquito prevention and control measures."
+​地政總署二○二五年第三季批出兩份預售樓花同意書,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800304.htm,"地政總署今日（十月八日）公布，二○二五年第三季批出兩份住宅項目預售樓花同意書，共涉及1 851個住宅單位。
+
+上述已取得預售樓花同意書的住宅項目的相關資料如下：
+
+
+
+
+預計落成年份
+項目
+
+
+2025
+
+
+一個位於西貢的項目（51個單位）
+
+
+
+
+2028
+
+
+一個位於啟德的項目（1 800個單位）
+
+
+
+
+
+
+地政總署亦於第三季批出兩份轉讓同意書，涉及一個位於九龍塘的發展項目的兩個分期，共涉及87個住宅單位。
+
+截至二○二五年九月三十日，有待核准的住宅項目預售樓花同意書申請共29份，共涉及8 902個單位，相關資料如下：
+
+
+
+
+預計落成年份
+同意書申請數目
+涉及住宅單位數目
+
+
+2026
+10
+2 832
+
+
+2027
+13
+3 563
+
+
+2028
+6
+2 507
+
+
+
+
+此外，該署正處理10份共涉及3 666個住宅單位和四個非住宅單位的轉讓同意書申請，而有待核准的非住宅項目預售樓花同意書申請則有三份。
+
+市民如欲索取上季已批出的同意書及有待核准申請的最新資料，可瀏覽地政總署網頁（www.landsd.gov.hk）。
+
+有意購買樓花的人士，在決定繳付訂金之前，應先透過廣告、發展商發出的售樓書或樓價表等，了解清楚該發展項目的詳細資料和買賣程序。售樓書內亦載有大廈公契的摘要，包括公用部分、分配予每個單位的不可分割份數、管理人的委任年期、管理開支的分攤，以及政府批地文件的摘要，有意購買樓花的人士應詳細閱讀。"
+​立法會：政務司司長就《行政長官2025年施政報告》致謝議案辯論（第一節）致辭全文（只有中文）,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800603.htm,"以下是政務司司長陳國基今日（十月八日）在立法會會議上就《行政長官2025年施政報告》致謝議案辯論（第一節：深化改革心繫民生、「一國兩制」行穩致遠、強化治理體系和粵港澳大灣區建設）的致辭全文︰
+
+主席：
+
+我衷心感謝李慧琼議員提出的致謝議案，以及多位議員在第一節辯論中提出的寶貴意見。
+
+行政長官早前發表二○二五年《施政報告》，以「深化改革心繫民生發揮優勢同創未來」為主題，在今年作為國家「十四五」規劃收官之年，以及「十五五」規劃謀篇布局之年，提出多項政策措施，引領香港更主動對接國家發展戰略、進一步鞏固香港的競爭力、發展經濟、改善民生，帶領社會改革創新。
+
+剛才議員圍繞「深化改革心繫民生」、「一國兩制」行穩致遠、強化治理體系，以及粵港澳大灣區建設這四個重要議題提出很多很有用的見解。我會先作整體回應，然後各司局長會就其所屬政策範疇作進一步說明。
+
+「一國兩制」行穩致遠
+
+我們會繼續全面準確、堅定不移貫徹「一國兩制」、「港人治港」、高度自治的方針，充分發揮「一國兩制」制度優勢，保持香港長期繁榮穩定。
+
+特區政府已在二○二一年完善選舉制度、二○二三年完善地區治理體系及重塑區議會，全面落實「愛國者治港」原則。我們會全力籌辦好今年十二月七日舉行的第八屆立法會選舉，確保選舉公平、公正、誠實和安全有序進行。我們會確保特區的管治權牢牢掌握在愛國者手中。
+
+特區政府致力構建以愛國愛港為核心、與「一國兩制」方針相適應的主流價值觀。由我擔任主席的「憲法和基本法推廣督導委員會」，已於去年成立轄下的「愛國主義教育工作小組」，以協調政府部門及非政府機構推動愛國主義教育。工作小組認為愛國主義教育是關乎人心、需要深耕細作的工作，應以軟性和打動人心的方式進行。工作小組按香港的實際情況訂下短、中、長期的工作目標和政策措施。今年是中國人民抗日戰爭暨世界反法西斯戰爭勝利80周年，我們的重點是做好抗戰勝利80周年紀念活動。
+
+特區政府舉辦多項紀念和教育活動，得到市民和青少年廣泛參與，有效宣揚銘記歷史、珍愛和平的主題。我們會繼續梳理及修繕保護全港各區的中共抗戰遺址，推廣內地的愛國主義教育設施，並將其納入特區愛國主義教育基地。我們深切明白到愛國主義教育的工作關係到國家安全以及特區的長治久安，因此我們必定會竭盡所能，以更多創新思維，持之以恆，久久為功，在特區全方位推廣愛國主義教育。
+
+維護國家主權、安全、發展利益是「一國兩制」方針的最高原則。《香港國安法》實施五年來，香港從「由亂到治」邁向「由治及興」。特區政府會繼續堅定不移維護國家主權、安全、發展利益，深入踐行「總體國家安全觀」，居安思危，防範風險，確保香港長治久安。我們會加強《憲法》和《基本法》的宣傳教育，加強市民對《憲法》、《基本法》、國家安全，以及「一國兩制」的認識，持續完善維護國家安全的法律制度和執行機制，並以多管齊下的策略，推展國家安全相關宣傳教育，將國安信息進一步植根社區。
+
+中華優秀傳統文化是我們的優勢，是維繫國家、民族團結的重要根基。教育局持續透過優化課程、為學生舉辦多元化的全方位學習活動等，增進學生對國家的認識，並以中華文化作為價值觀教育的主軸，進一步加強學生的國民身分認同和文化自信。
+
+教育局將持續支援學校，將愛國主義教育融入日常學與教之中，厚植學生家國情懷，同時繼續凝聚社會各界的資源和力量，並善用內地和本地愛國主義教育設施，讓學生更深入了解國家的歷史文化和成就。
+
+強化治理體系
+
+本屆政府上任以來，持續強化治理體系，致力提升執行效率和服務質素。早前超強颱風樺加沙襲港，由行政長官指導和由我統籌的應對極端天氣督導委員會，發揮頂層領導作用，在充分準備及全方位部署下，迅速統籌協調各相關部門，全力減低對市民的影響。各部門嚴陣以待，整個應對過程展現高效協作與專業能力。
+
+早前有議員提到公務員存有「不做不錯」的心態，我對此並不認同。無論是應對超強颱風樺加沙，或是上個月處理鰂魚涌一枚重達一千磅的戰時炸彈，部門同事均是緊守崗位、全力以赴，大量人員更是通宵達旦工作，充分展現責任感、使命感，以及主動多走一步的專業精神。不同部門同事無分你我，緊密協作，更確保資源的精準投放，以及應變行動的流暢執行。
+
+事實上，本屆政府自上任以來不斷推行改革，建立「以結果為目標」的政府和公務員團隊。在《2025年世界競爭力年報》中，香港在「政府效率」排名世界第二，不但反映香港公務員整體是一支優秀隊伍，亦反映本屆政府的改革和公務員共同努力的成果。
+
+今年《施政報告》就進一步強化治理，提出建立部門首長責任制及強化公務員評核機制。這並非因為不滿公務員整體表現，其目的是要把公務員的管理，變得更為制度化、系統化、公平化。責任制強調部門首長須負責管理好部門團隊，發揮最大效能；同時樹立固定機制，當部門出現問題時，可按問題輕重，作出調整和糾正。
+
+我們亦會強化公務員評核機制，鼓勵優秀公務員精益求精、提振士氣；同時要求管理方針對性地協助有不足的員工提升能力，並妥善處理個別長期表現欠佳的情況，以確保整體服務水平不斷提升。
+
+此外，為進一步提升政府效能，政府將成立AI效能提升組，由政務司副司長領導相關政策局並邀請業界代表參與，推動政府部門有效應用AI人工智能技術。小組將統籌指導各部門應用AI、研究重組工作流程，以及推動科技革新以提效提質。
+
+粵港澳大灣區建設
+
+香港是粵港澳大灣區中心城市和區域發展核心引擎之一，在大灣區建設中肩負引領帶動的重任，在國家進一步改革開放中更具有不可替代的重要作用。特區政府會繼續帶領全社會更主動對接國家戰略、更積極融入國家發展大局，加強與廣東、澳門的互利合作，提升人流、物流、數據流、資金流，促進協同發展。
+
+為深化大灣區內的規則銜接和機制對接，律政司將繼續推動訂立大灣區仲裁員名冊、設立大灣區商事調解及仲裁平台，減低解決跨境爭議的成本，並支持大灣區律師的專業發展，組建大灣區律師聯會，設立法律資訊平台，同時加強推廣香港法律及其他專業服務，支援企業出海需要。
+
+總結
+
+今年的《施政報告》既立足當前，更謀劃長遠。在香港加快邁向「由治及興」的進程上，我們繼續背靠祖國強大後盾，堅定不移貫徹「一國兩制」方針，善用粵港澳大灣區的優勢，同時進一步強化治理，發揮香港擁有獨一無二的優勢，讓香港的發展方向更清晰，道路更廣闊，市民有更多的幸福感和獲得感。
+
+我們期待在接着的環節聽到議員更多意見。主席，我謹此陳辭。"
 九月份白紋伊蚊誘蚊器指數持續回落,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800463.htm,"食物環境衞生署（食環署）今日（十月八日）公布，九月份全港白紋伊蚊誘蚊器指數為百分之二點五，較八月份的百分之五點三為低，反映相關政府部門持續加緊採取防蚊及滅蚊行動，令本月的整體蚊患情況較上月有所改善。此外，食環署已加強白紋伊蚊誘蚊器指數的資訊發放，讓更多市民可以更快掌握蚊患情況，並會繼續進行控蚊工作，進一步降低基孔肯雅熱及登革熱傳播風險。
 
 九月份，全部64個監察地區的分區誘蚊器指數均低於百分之二十的警戒水平。九月份每月誘蚊器指數及分區誘蚊器指數的回落，是由於各政府部門及持份者持續加緊採取防蚊及滅蚊行動，亦有機會受天氣等因素影響。九月份的總雨量為528.7毫米，較八月份的939.2毫米及七月份的601.7毫米下降。整體而言，九月份全港白紋伊蚊誘蚊器指數為百分之二點五，屬於一級水平（顯示監察地區內白紋伊蚊的分布並不廣泛），各相關部門及持份者仍會持續進行控蚊工作。
@@ -1791,6 +1785,43 @@ Tin Yiu Estate, Tin Shui Wai
 食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境以徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
 
 白紋伊蚊是傳播登革熱及基孔肯雅熱的病媒。登革熱常見於熱帶及亞熱帶地區，在多個東南亞國家，已成為風土病。世界衞生組織（世衞）於二○二四年共錄得超過1 400萬宗登革熱個案，創歷史新高。此外，根據世衞的資料顯示，超過110個國家和地區曾經錄得基孔肯雅熱本土傳播個案。今年全球多國爆發基孔肯雅熱，截至八月，全球16個國家／地區共錄得超過317 000千宗個案。鄰近地區登革熱及基孔肯雅熱的活躍程度仍然高企，巿民不應鬆懈，並應繼續採取有效的防治蚊患措施。"
+民政事務總署開放臨時避暑中心,2025-10-08 17:00,2025-10-08 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800581.htm,"民政事務總署今日（十月八日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
+
+臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
+
+如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
+
+臨時避暑中心的地點如下：
+
+香港島：
+———
+中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
+東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區－鴨脷洲利東邨利東社區會堂
+灣仔－銅鑼灣銅鑼灣徑20號摩頓臺活動中心
+
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘－藍田啟田道71號藍田（西區）社區中心
+深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
+
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌葵盛西邨第六座平台葵盛社區會堂
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂
+元朗－天水圍天耀邨天耀社區中心
+
+除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
 香港最新外匯儲備資產數字,2025-10-08 16:30,2025-10-08 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800520.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（十月八日）公布，香港二○二五年九月底的官方外匯儲備資產為4,192億美元（二○二五年八月底為4,216億美元）（附件）。
@@ -2143,8 +2174,8 @@ Ms Ng was born in Hong Kong. She obtained a Bachelor of Social Science (Governme
 MrTobias Cheng Yun-chung
 
 Mr Cheng was born in Hong Kong in 1986. He obtained a Bachelor of Business Studies degree from the University of Lancaster in the United Kingdom in 2007. He acquired a Juris Doctor degree and a P.C.LL., both from the City University of Hong Kong, in 2009 and 2010 respectively. He further obtained an LL.M. in Arbitration and Dispute Resolution from the City University of Hong Kong in 2014. He was called to the Bar in Hong Kong in 2011 and has been in private practice since 2012."
-Effective Exchange Rate Index,2025-10-08 15:50,2025-10-08 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800187.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, October 8, 2025 is 104.3 (up 0.2 against Monday's index)."
 港匯指數,2025-10-08 15:50,2025-10-08 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800186.htm,二○二五年十月八日（星期三）的港幣匯率指數為一百零四點三（和星期一指數比較上升零點二）。
+Effective Exchange Rate Index,2025-10-08 15:50,2025-10-08 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800187.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, October 8, 2025 is 104.3 (up 0.2 against Monday's index)."
 ​運輸及物流局局長出席香港航商總會一週年慶典致辭（只有中文）,2025-10-08 15:45,2025-10-08 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800513.htm,"以下是運輸及物流局局長陳美寶今日（十月八日）出席香港航商總會一週年慶典的致辭全文：
 
 尊敬的梁振英副主席（全國政協副主席）、祁斌副主任（中央人民政府駐香港特別行政區聯絡辦公室副主任）、李永勝副特派員（中華人民共和國外交部駐香港特別行政區特派員公署副特派員）、趙式慶主席（香港航商總會主席）、各位嘉賓、各位業界朋友：
@@ -2168,6 +2199,244 @@ Effective Exchange Rate Index,2025-10-08 15:50,2025-10-08 16:00,Eng,gia,https://
 （五）加強頂層設計、制度革新，是我們過去一年努力推動航運業破波前行的重要舉措，特區政府會與剛成立的香港海運港口發展局同心協力，心往一處想，勁往一處使，以創新思維和國際的視野，積極探索強化香港國際航運中心的發展策略，並制定具前瞻性的研究和發展的重點工作。
 
 最後，我祝願香港航商總會未來繼續發揮重要橋樑與平台作用，凝聚業界力量，也祝願在座各位事業宏達、身體健康，謝謝！"
+LCQ10: Industrial water supply,2025-10-08 15:40,2025-10-08 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800487.htm,"âFollowing is a question by Dr the Hon Wendy Hong and a written reply by the Secretary for Development, Ms Bernadette Linn, in the Legislative Council today (October 8):
+
+Question:
+
+ ââSome members of the industry operating data centres have recently relayed to me that the industrial water supply at Tseung Kwan O InnoPark (formerly known as Tseung Kwan O Industrial Estate) is insufficient, hindering the development of industries that require substantial industrial water usage. In this connection, will the Government inform this Council:
+
+(1) of the annual industrial water consumption over the past decade, and its percentage share of Hong Kong's total fresh water consumption;
+
+(2) whether it has compiled statistics on the water consumption of the three InnoParks managed by the Hong Kong Science and Technology Parks Corporation (namely Tai Po InnoPark, Yuen Long InnoPark and Tseung Kwan O InnoPark) over the past decade, and their respective percentage shares of Hong Kong's total industrial water consumption;
+
+(3) whether the Government has made appropriate planning for the overall water supply to industrial areas and InnoParks, such as setting water supply caps for various industrial areas and InnoParks;
+
+(4) given that the Government began implementing pilot schemes involving the use of reclaimed water in Hong Kong in 2006, and it is learnt that Singapore began using reclaimed water for industrial purposes years ago, of the current scope of industrial application of reclaimed water in Hong Kong; whether it has plans to implement schemes involving the use of reclaimed water in InnoParks; and
+
+(5) given that Hong Kong is navigating through a period of new industrialisation, numerous data centres, microelectronics-related enterprises and artificial intelligence-related businesses are establishing their presence one after another, and that such enterprises typically require substantial industrial water supplies for operating cooling systems, whether the Government has forecast the water demand of these emerging technology enterprises and formulated planning proposals to address the anticipated sustained increase in industrial water consumption?
+
+Reply:
+
+President,
+
+ ââThe Government supports the development of industries with industrial water usage on the one hand, while on the other hand contains fresh water demand growththrough various measures including actively encouraging enterprises to adopt water-saving technologies and to use reclaimed water and seawater for industrial purposes, thereby providing a stable and economical water supply.
+
+ ââHaving consulted the Innovation, Technology and Industry Bureau, our reply to the various parts of the question is set out below:
+
+(1) Over the past decade, the annual industrial and cooling water consumption and its percentage share of Hong Kong's total fresh water consumption are listed in the following table:
+
+
+
+
+
+			Year
+Industrial and cooling water consumption
+
+			(Million cubic metres)
+Total fresh water consumption
+
+			(Million cubic metres)
+Percentage of industrial and cooling water consumption in total fresh water consumption (%)
+
+
+2015
+75
+973
+7.71
+
+
+2016
+76
+987
+7.70
+
+
+2017
+77
+980
+7.86
+
+
+2018
+80
+1 013
+7.90
+
+
+2019
+78
+996
+7.83
+
+
+2020
+73
+1 027
+7.11
+
+
+2021
+79
+1 055
+7.49
+
+
+2022
+79
+1 066
+7.41
+
+
+2023
+83
+1 068
+7.77
+
+
+2024
+83
+1 060
+7.83
+
+
+
+
+Note: Since 2013, the Government has begun introducing seawater for cooling purpose, though it accounts for only a small portion of total industrial and cooling water consumption. The Government also plans to utilise reclaimed water for cooling use in suitable areas in the future.
+
+(2) Over the past decade, the industrial and cooling water consumption of the three InnoParks (i.e. Tai Po InnoPark, Yuen Long InnoPark and Tseung Kwan O InnoPark), the industrial and cooling water consumption in Hong Kong, and the percentages of industrial and cooling water consumption of the three InnoParks in the industrial and cooling water consumption in Hong Kong are listed in the following table:
+
+
+
+
+Year
+Industrial and cooling water consumption (million cubic metres)
+			[percentage in industrial and cooling water consumption in Hong Kong]
+Industrial and cooling water consumption in Hong Kong
+			(million cubic metres)
+
+
+Tai Po InnoPark
+Yuen Long InnoPark
+Tseung Kwan O InnoPark
+
+
+2015
+6.12
+			[8.16%]
+1.26
+			[1.68%]
+1.24
+			[1.65%]
+75
+
+
+2016
+6.28
+			[8.26%]
+1.25
+			[1.64%]
+1.39
+			[1.83%]
+76
+
+
+2017
+6.45
+			[8.38%]
+1.38
+			[1.79%]
+1.63
+			[2.12%]
+77
+
+
+2018
+6.42
+			[8.03%]
+1.33
+			[1.66%]
+1.71
+			[2.14%]
+80
+
+
+2019
+6.37
+			[8.17%]
+1.36
+			[1.74%]
+1.86
+			[2.38%]
+78
+
+
+2020
+5.96
+			[8.16%]
+1.39
+			[1.90%]
+1.88
+			[2.58%]
+73
+
+
+2021
+6.37
+			[8.06%]
+1.54
+			[1.95%]
+1.99
+			[2.52%]
+79
+
+
+2022
+6.48
+			[8.20%]
+1.53
+			[1.94%]
+2.17
+			[2.75%]
+79
+
+
+2023
+5.77
+			[6.95%]
+1.49
+			[1.80%]
+2.15
+			[2.59%]
+83
+
+
+2024
+5.34
+			[6.43%]
+1.46
+			[1.76%]
+2.25
+			[2.71%]
+83
+
+
+
+
+(3) The planning and design of water supply facilities are primarily aimed to meet the population's demand for drinking water and water demand for industrial and commercial use (including industrial areas and InnoParks). During planning of the water supply system for individual development areas, the Water Supplies Department (WSD) will base on the water demands estimated by relevant policy bureaux to plan the required water supply system.
+
+ ââThe Government will continuously review the relevant water demand of each district based on its latest development and planning, and assess the carrying capacity of the water supply system to ensure the provision of stable and reliable water supply to existing users and new users of future development. If necessary, the Government will consider implementing water supply system improvement projects in a timely manner to enhance the capacity of the water supply system to meet the projected overall water demand in the district with due consideration of the projected water demand and its timeline, technical feasibility, cost-effectiveness, the capacity of the existing water supply system, and the priority of overall infrastructure projects.
+
+ ââIn the past few years, the Government has noted that the current water demands in some districts have approached the upper limit of the design capacity of the existing water supply systems. In the event that an applicant applies for large amount of water usage, the Government will provide technical advice to the applicant so appropriate scheme, such as adopting seawater and reclaimed water, could be effected to meet its water demand. For example, a seawater district cooling system has been constructed at the Tseung Kwan O InnoPark to meet its increasing water demand.
+
+(4) The Government has been actively exploring the use of reclaimed water by providing a centralised reclaimed water supply system in those areas where fresh water is being temporarily used for flushing and in new development areas located in inland areas to contain the fresh water demand growth.To further contain the growth of fresh water demand, the Government is exploring the feasibility of using reclaimed water in district cooling systems. The WSD preliminarily considers that the use of reclaimed water for evaporative district cooling systems is generally feasible, and is currently conducting a pilot project to serve as a reference for future cooling system projects.
+
+ In planning reclaimed water supply system, the Government will take into account the actual situation of the areas, considering factors such as cost-effectiveness and technical feasibility, including the construction and operational costs, flushing water demand, proximity to tertiary sewage treatment plants which can provide highly treated discharge water, etc.
+
+ With the upgrading of Shek Wu Hui Sewage Treatment Works to an effluent polishing plant with tertiary treatment level, the Government has constructed the first water reclamation plant in Shek Wu Hui to further process tertiary treated effluent to reclaimed water.This water reclamation plant was commissioned in March 2024 and has begun to supply reclaimed water in phases to certain areas of Sheung Shui and Fanling for flushing purpose.In addition, the Government plans to construct reclaimed water plants and the associated facilities in Yuen Long, Yuen Long South, and the San Tin Technopole. The consultants are currently carrying out the relevant design work. At present, it is anticipated that the reclaimed water plants will be completed progressively starting from 2033.
+
+ Provided that it is technically feasible and economically viable, the Government will continue to expand the application of reclaimed water to other non-potable uses, in order to contain the growth of fresh water demand. The Government will also continue to implement the formulated water resources strategies, encouraging enterprises to adopt water-saving technologies on the one hand, and developing diversified water resources on the other hand, to support the sustainable development of all sectors in Hong Kong.
+
+(5) The Government has rolled out a series of policies and measures to advance new industrialisation and foster the development of AI and data science industries in Hong Kong. As more enterprises and new industries establish a presence in Hong Kong, the demand for resources is expected to grow. In planning industrial land and land for innovation and technology, the Government will carry out feasibility studies, allocate and plan for the necessary infrastructure and facilities (including water for innovative industries process and cooling), to cope with the development of innovations and technologies. The Government will continue to engage closely with the relevant innovation and technology organisations, continue to enhance infrastructure and ancillary facilities, and provide necessary supports for these enterprises (for example, assistance in coordination and liaison with relevant Government departments)."
 立法會十題：工業用水的供應,2025-10-08 15:40,2025-10-08 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800482.htm,"以下是今日（十月八日）在立法會會議上洪雯議員的提問和發展局局長甯漢豪的書面答覆：
 
 問題：
@@ -2410,275 +2679,6 @@ Effective Exchange Rate Index,2025-10-08 15:50,2025-10-08 16:00,Eng,gia,https://
 政府會繼續在技術可行和符合經濟效益的情況下擴大再造水的非飲用的用途，以控制食水需求增長，並會繼續推行已制訂的水資源策略，一方面鼓勵企業採用節水技術；另一方面開拓多元化的水資源，以支持香港各行各業的持續發展。
 
 （五）政府推出了一系列的政策措施致力推進新型工業化，以及本港人工智能及數據科學產業發展。隨着更多企業來港發展和新產業落地，其所需的資源亦有可能隨之增加。政府在規劃工業及創科用地的時候，會進行可行性研究，預留並規劃提供相關的基建及設施（包括創科工業用水及冷卻用水），以配合創科發展。政府會繼續積極與相關創科機構保持密切溝通，持續完善基建配套設施，為這些企業提供所需要的支援（例如協助業界協調及聯繫相關政府部門）。"
-LCQ10: Industrial water supply,2025-10-08 15:40,2025-10-08 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800487.htm,"âFollowing is a question by Dr the Hon Wendy Hong and a written reply by the Secretary for Development, Ms Bernadette Linn, in the Legislative Council today (October 8):
-
-Question:
-
- ââSome members of the industry operating data centres have recently relayed to me that the industrial water supply at Tseung Kwan O InnoPark (formerly known as Tseung Kwan O Industrial Estate) is insufficient, hindering the development of industries that require substantial industrial water usage. In this connection, will the Government inform this Council:
-
-(1) of the annual industrial water consumption over the past decade, and its percentage share of Hong Kong's total fresh water consumption;
-
-(2) whether it has compiled statistics on the water consumption of the three InnoParks managed by the Hong Kong Science and Technology Parks Corporation (namely Tai Po InnoPark, Yuen Long InnoPark and Tseung Kwan O InnoPark) over the past decade, and their respective percentage shares of Hong Kong's total industrial water consumption;
-
-(3) whether the Government has made appropriate planning for the overall water supply to industrial areas and InnoParks, such as setting water supply caps for various industrial areas and InnoParks;
-
-(4) given that the Government began implementing pilot schemes involving the use of reclaimed water in Hong Kong in 2006, and it is learnt that Singapore began using reclaimed water for industrial purposes years ago, of the current scope of industrial application of reclaimed water in Hong Kong; whether it has plans to implement schemes involving the use of reclaimed water in InnoParks; and
-
-(5) given that Hong Kong is navigating through a period of new industrialisation, numerous data centres, microelectronics-related enterprises and artificial intelligence-related businesses are establishing their presence one after another, and that such enterprises typically require substantial industrial water supplies for operating cooling systems, whether the Government has forecast the water demand of these emerging technology enterprises and formulated planning proposals to address the anticipated sustained increase in industrial water consumption?
-
-Reply:
-
-President,
-
- ââThe Government supports the development of industries with industrial water usage on the one hand, while on the other hand contains fresh water demand growththrough various measures including actively encouraging enterprises to adopt water-saving technologies and to use reclaimed water and seawater for industrial purposes, thereby providing a stable and economical water supply.
-
- ââHaving consulted the Innovation, Technology and Industry Bureau, our reply to the various parts of the question is set out below:
-
-(1) Over the past decade, the annual industrial and cooling water consumption and its percentage share of Hong Kong's total fresh water consumption are listed in the following table:
-
-
-
-
-
-			Year
-Industrial and cooling water consumption
-
-			(Million cubic metres)
-Total fresh water consumption
-
-			(Million cubic metres)
-Percentage of industrial and cooling water consumption in total fresh water consumption (%)
-
-
-2015
-75
-973
-7.71
-
-
-2016
-76
-987
-7.70
-
-
-2017
-77
-980
-7.86
-
-
-2018
-80
-1 013
-7.90
-
-
-2019
-78
-996
-7.83
-
-
-2020
-73
-1 027
-7.11
-
-
-2021
-79
-1 055
-7.49
-
-
-2022
-79
-1 066
-7.41
-
-
-2023
-83
-1 068
-7.77
-
-
-2024
-83
-1 060
-7.83
-
-
-
-
-Note: Since 2013, the Government has begun introducing seawater for cooling purpose, though it accounts for only a small portion of total industrial and cooling water consumption. The Government also plans to utilise reclaimed water for cooling use in suitable areas in the future.
-
-(2) Over the past decade, the industrial and cooling water consumption of the three InnoParks (i.e. Tai Po InnoPark, Yuen Long InnoPark and Tseung Kwan O InnoPark), the industrial and cooling water consumption in Hong Kong, and the percentages of industrial and cooling water consumption of the three InnoParks in the industrial and cooling water consumption in Hong Kong are listed in the following table:
-
-
-
-
-Year
-Industrial and cooling water consumption (million cubic metres)
-			[percentage in industrial and cooling water consumption in Hong Kong]
-Industrial and cooling water consumption in Hong Kong
-			(million cubic metres)
-
-
-Tai Po InnoPark
-Yuen Long InnoPark
-Tseung Kwan O InnoPark
-
-
-2015
-6.12
-			[8.16%]
-1.26
-			[1.68%]
-1.24
-			[1.65%]
-75
-
-
-2016
-6.28
-			[8.26%]
-1.25
-			[1.64%]
-1.39
-			[1.83%]
-76
-
-
-2017
-6.45
-			[8.38%]
-1.38
-			[1.79%]
-1.63
-			[2.12%]
-77
-
-
-2018
-6.42
-			[8.03%]
-1.33
-			[1.66%]
-1.71
-			[2.14%]
-80
-
-
-2019
-6.37
-			[8.17%]
-1.36
-			[1.74%]
-1.86
-			[2.38%]
-78
-
-
-2020
-5.96
-			[8.16%]
-1.39
-			[1.90%]
-1.88
-			[2.58%]
-73
-
-
-2021
-6.37
-			[8.06%]
-1.54
-			[1.95%]
-1.99
-			[2.52%]
-79
-
-
-2022
-6.48
-			[8.20%]
-1.53
-			[1.94%]
-2.17
-			[2.75%]
-79
-
-
-2023
-5.77
-			[6.95%]
-1.49
-			[1.80%]
-2.15
-			[2.59%]
-83
-
-
-2024
-5.34
-			[6.43%]
-1.46
-			[1.76%]
-2.25
-			[2.71%]
-83
-
-
-
-
-(3) The planning and design of water supply facilities are primarily aimed to meet the population's demand for drinking water and water demand for industrial and commercial use (including industrial areas and InnoParks). During planning of the water supply system for individual development areas, the Water Supplies Department (WSD) will base on the water demands estimated by relevant policy bureaux to plan the required water supply system.
-
- ââThe Government will continuously review the relevant water demand of each district based on its latest development and planning, and assess the carrying capacity of the water supply system to ensure the provision of stable and reliable water supply to existing users and new users of future development. If necessary, the Government will consider implementing water supply system improvement projects in a timely manner to enhance the capacity of the water supply system to meet the projected overall water demand in the district with due consideration of the projected water demand and its timeline, technical feasibility, cost-effectiveness, the capacity of the existing water supply system, and the priority of overall infrastructure projects.
-
- ââIn the past few years, the Government has noted that the current water demands in some districts have approached the upper limit of the design capacity of the existing water supply systems. In the event that an applicant applies for large amount of water usage, the Government will provide technical advice to the applicant so appropriate scheme, such as adopting seawater and reclaimed water, could be effected to meet its water demand. For example, a seawater district cooling system has been constructed at the Tseung Kwan O InnoPark to meet its increasing water demand.
-
-(4) The Government has been actively exploring the use of reclaimed water by providing a centralised reclaimed water supply system in those areas where fresh water is being temporarily used for flushing and in new development areas located in inland areas to contain the fresh water demand growth.To further contain the growth of fresh water demand, the Government is exploring the feasibility of using reclaimed water in district cooling systems. The WSD preliminarily considers that the use of reclaimed water for evaporative district cooling systems is generally feasible, and is currently conducting a pilot project to serve as a reference for future cooling system projects.
-
- In planning reclaimed water supply system, the Government will take into account the actual situation of the areas, considering factors such as cost-effectiveness and technical feasibility, including the construction and operational costs, flushing water demand, proximity to tertiary sewage treatment plants which can provide highly treated discharge water, etc.
-
- With the upgrading of Shek Wu Hui Sewage Treatment Works to an effluent polishing plant with tertiary treatment level, the Government has constructed the first water reclamation plant in Shek Wu Hui to further process tertiary treated effluent to reclaimed water.This water reclamation plant was commissioned in March 2024 and has begun to supply reclaimed water in phases to certain areas of Sheung Shui and Fanling for flushing purpose.In addition, the Government plans to construct reclaimed water plants and the associated facilities in Yuen Long, Yuen Long South, and the San Tin Technopole. The consultants are currently carrying out the relevant design work. At present, it is anticipated that the reclaimed water plants will be completed progressively starting from 2033.
-
- Provided that it is technically feasible and economically viable, the Government will continue to expand the application of reclaimed water to other non-potable uses, in order to contain the growth of fresh water demand. The Government will also continue to implement the formulated water resources strategies, encouraging enterprises to adopt water-saving technologies on the one hand, and developing diversified water resources on the other hand, to support the sustainable development of all sectors in Hong Kong.
-
-(5) The Government has rolled out a series of policies and measures to advance new industrialisation and foster the development of AI and data science industries in Hong Kong. As more enterprises and new industries establish a presence in Hong Kong, the demand for resources is expected to grow. In planning industrial land and land for innovation and technology, the Government will carry out feasibility studies, allocate and plan for the necessary infrastructure and facilities (including water for innovative industries process and cooling), to cope with the development of innovations and technologies. The Government will continue to engage closely with the relevant innovation and technology organisations, continue to enhance infrastructure and ancillary facilities, and provide necessary supports for these enterprises (for example, assistance in coordination and liaison with relevant Government departments)."
-立法會二題：招商引資的工作,2025-10-08 15:35,2025-10-08 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800472.htm,"以下是今日（十月八日）在立法會會議上蘇長荣議員的提問和商務及經濟發展局局長丘應樺的書面答覆：
-
-問題：
-
-由廣東省、香港和澳門三地政府於去年在廣州共同舉辦的粵港澳大灣區全球招商大會（招商大會），成為粵港澳大灣區（大灣區）城市攜手招商引資的有效渠道和重要平台。據報去年的招商大會取得了亮麗成績，共吸引430多名來自世界500強和行業龍頭企業的代表參與，簽訂的總投資額達到2.26萬億元人民幣。就此，政府可否告知本會：
-
-（一）據報招商大會將於每年的十一月八日定期舉辦，今年的招商大會將於哪個城市舉行；有否預計將邀請多少間外國和香港企業參加；特區政府會如何協助港企爭取新的投資及貿易項目；
-
-（二）據報在去年招商大會共簽訂1 933項投資項目，當中香港有參與的投資項目為何；
-
-（三）鑑於投資推廣署與內地對口單位成立「泛大灣區外來投資聯絡小組」，過去一年，該小組舉辦了多少項推介和其他招商引資活動；及
-
-（四）會否考慮聯同大灣區其他內地城市到海外（例如中東及東南亞國家聯盟國家）舉辦招商引資活動？
-
-答覆：
-
-主席：
-
-一直以來，投資推廣署在進行招商引資的工作時，均積極配合不同政策局推廣有利營商的政策，包括配合政制及內地事務局（政制局）宣傳粵港澳大灣區（大灣區）發展的相關機遇。投資推廣署亦與機構、商會、專業團體等合作，在內地及海外舉辦和贊助一系列投資推廣活動，包括路演、研討會、圓桌會議等，為企業提供香港營商環境的最新資訊，例如我們在「一國兩制」下的核心優勢和大灣區發展等國家重點戰略帶來的機遇，以吸引和鼓勵企業在香港開設或擴展業務。
-
-就蘇長荣議員的提問，經諮詢政制局後，我綜合回應如下：
-
-在政制局的支持下，投資推廣署於二○二一年與大灣區的相關部門成立「泛大灣區外來投資聯絡小組」（聯絡小組），透過制定聯合推廣建議和材料、聯合組織活動等，加強合作和協同效應。聯絡小組自二○二二年起每年在廣州舉辦粵港澳大灣區全球招商大會（全球招商大會），由粵港澳三地政府聯合向全球企業重點展示大灣區最新階段的建設成果及投資潛力。二○二五年的全球招商大會將於十一月三日在廣州舉行，並預計會邀請多間跨國和香港企業共約400名代表參加。特區政府會繼續在全球招商大會上積極推廣香港的營商優勢，吸引更多投資項目落戶香港。
-
-在上述的全球招商大會中，投資推廣署接觸了不少有興趣來港設立或擴展業務的內地及海外企業，並按它們的需要提供一站式支援服務，發揮香港作為雙向跳板的獨特優勢。去年，全球招商大會簽訂超過1 900項投資項目，包括投資推廣署在內的聯絡小組積極跟進協助有關投資項目落地。由二○二四年至今年八月，投資推廣署共協助了983間內地及海外企業在香港開設或擴展業務，當中492間是海外企業，而超過120間是來自大灣區城市的內地企業。
-
-除了舉辦全球招商大會外，聯絡小組亦會每年到海外舉辦招商引資活動，向當地企業推廣大灣區的最新政策措施及發展機遇。在二○二三及二○二四年，粵港澳三地政府分別於德國慕尼黑及法國巴黎聯合舉辦經貿合作交流會，向歐洲企業推介大灣區的投資環境及發展機遇；今年，三地政府再次拼船出海到匈牙利布達佩斯及埃及開羅舉辦投資推廣活動，推廣大灣區建設為歐洲及非洲商界發展帶來的商機，以及香港在「一國兩制」下作為「超級聯繫人」和「超級增值人」的獨特角色與功能，並鼓勵企業落戶香港，開拓大灣區的龐大市場。
-
-此外，投資推廣署亦在內地城市舉辦投資推廣活動，一直積極向內地企業介紹香港的營商優勢和機遇，以鼓勵當地企業來港投資並經香港發展國際業務。在二○二五年，該署已在寧波、濟南、武漢、青島、成都、廣州、北京、天津和瀋陽等地舉行多場推廣活動。
-
-展望未來，投資推廣署會繼續配合政制局，並與聯絡小組成員保持緊密聯繫，共同推進大灣區相關的招商引資工作，一方面向海外企業推廣香港作為拓展大灣區業務的跳板並支援它們落戶香港，另一方面向大灣區企業推廣香港作為「出海」的跳板並支援它們落戶香港，而相關工作亦會與行政長官在二○二五年《施政報告》中公布內地企業出海專班的工作有機結合，進一步驅動「引進來、走出去」的雙向投資。聯絡小組亦會繼續積極計劃到其他有潛力的新興市場進行推廣和招商工作，進一步彰顯香港作為「超級聯繫人」和「超級增值人」的角色。"
 LCQ2: Efforts to attract investment,2025-10-08 15:35,2025-10-08 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800473.htm," Following is a question by Dr the Hon So Cheung-wing and a written reply by the Secretary for Commerce and Economic Development, Mr Algernon Yau, in the Legislative Council today (October 8):
 
 Question:
@@ -2710,6 +2710,37 @@ President,
  In addition, InvestHK has been organising investment promotion activities in various Mainland cities to proactively introduce Hong Kong's business advantages and opportunities to Mainland enterprises, so as to encourage them to invest in Hong Kong and expand international businesses via the city. In 2025, the department organised multiple promotional activities in Ningbo, Jinan, Wuhan, Qingdao, Chengdu, Guangzhou, Beijing, Tianjin and Shenyang, etc.
 
  Looking ahead, InvestHK will continue to work with the CMAB and maintain close liaison with members of the Liaison Group to jointly take forward the investment promotion efforts related to the GBA. On the one hand, InvestHK will promote Hong Kong as a springboard for overseas businesses looking to expand into the GBA and support them to set up their operations here. On the other hand, we will also promote Hong Kong to GBA enterprises as a launchpad for going global and assist them in establishing presence in Hong Kong. The efforts will be organically integrated into the work of the Task Force on Supporting Mainland Enterprises in Going Global announced by the Chief Executive in his 2025 Policy Address, thereby enhancing two-way investment (viz. attracting investment inflows to Hong Kong and facilitating further investment beyond Hong Kong). Besides, the Liaison Group will also continue to proactively plan promotional and investment activities in other potential emerging markets to further highlight Hong Kong's roles as a ""super connector"" and a ""super value-adder""."
+立法會二題：招商引資的工作,2025-10-08 15:35,2025-10-08 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800472.htm,"以下是今日（十月八日）在立法會會議上蘇長荣議員的提問和商務及經濟發展局局長丘應樺的書面答覆：
+
+問題：
+
+由廣東省、香港和澳門三地政府於去年在廣州共同舉辦的粵港澳大灣區全球招商大會（招商大會），成為粵港澳大灣區（大灣區）城市攜手招商引資的有效渠道和重要平台。據報去年的招商大會取得了亮麗成績，共吸引430多名來自世界500強和行業龍頭企業的代表參與，簽訂的總投資額達到2.26萬億元人民幣。就此，政府可否告知本會：
+
+（一）據報招商大會將於每年的十一月八日定期舉辦，今年的招商大會將於哪個城市舉行；有否預計將邀請多少間外國和香港企業參加；特區政府會如何協助港企爭取新的投資及貿易項目；
+
+（二）據報在去年招商大會共簽訂1 933項投資項目，當中香港有參與的投資項目為何；
+
+（三）鑑於投資推廣署與內地對口單位成立「泛大灣區外來投資聯絡小組」，過去一年，該小組舉辦了多少項推介和其他招商引資活動；及
+
+（四）會否考慮聯同大灣區其他內地城市到海外（例如中東及東南亞國家聯盟國家）舉辦招商引資活動？
+
+答覆：
+
+主席：
+
+一直以來，投資推廣署在進行招商引資的工作時，均積極配合不同政策局推廣有利營商的政策，包括配合政制及內地事務局（政制局）宣傳粵港澳大灣區（大灣區）發展的相關機遇。投資推廣署亦與機構、商會、專業團體等合作，在內地及海外舉辦和贊助一系列投資推廣活動，包括路演、研討會、圓桌會議等，為企業提供香港營商環境的最新資訊，例如我們在「一國兩制」下的核心優勢和大灣區發展等國家重點戰略帶來的機遇，以吸引和鼓勵企業在香港開設或擴展業務。
+
+就蘇長荣議員的提問，經諮詢政制局後，我綜合回應如下：
+
+在政制局的支持下，投資推廣署於二○二一年與大灣區的相關部門成立「泛大灣區外來投資聯絡小組」（聯絡小組），透過制定聯合推廣建議和材料、聯合組織活動等，加強合作和協同效應。聯絡小組自二○二二年起每年在廣州舉辦粵港澳大灣區全球招商大會（全球招商大會），由粵港澳三地政府聯合向全球企業重點展示大灣區最新階段的建設成果及投資潛力。二○二五年的全球招商大會將於十一月三日在廣州舉行，並預計會邀請多間跨國和香港企業共約400名代表參加。特區政府會繼續在全球招商大會上積極推廣香港的營商優勢，吸引更多投資項目落戶香港。
+
+在上述的全球招商大會中，投資推廣署接觸了不少有興趣來港設立或擴展業務的內地及海外企業，並按它們的需要提供一站式支援服務，發揮香港作為雙向跳板的獨特優勢。去年，全球招商大會簽訂超過1 900項投資項目，包括投資推廣署在內的聯絡小組積極跟進協助有關投資項目落地。由二○二四年至今年八月，投資推廣署共協助了983間內地及海外企業在香港開設或擴展業務，當中492間是海外企業，而超過120間是來自大灣區城市的內地企業。
+
+除了舉辦全球招商大會外，聯絡小組亦會每年到海外舉辦招商引資活動，向當地企業推廣大灣區的最新政策措施及發展機遇。在二○二三及二○二四年，粵港澳三地政府分別於德國慕尼黑及法國巴黎聯合舉辦經貿合作交流會，向歐洲企業推介大灣區的投資環境及發展機遇；今年，三地政府再次拼船出海到匈牙利布達佩斯及埃及開羅舉辦投資推廣活動，推廣大灣區建設為歐洲及非洲商界發展帶來的商機，以及香港在「一國兩制」下作為「超級聯繫人」和「超級增值人」的獨特角色與功能，並鼓勵企業落戶香港，開拓大灣區的龐大市場。
+
+此外，投資推廣署亦在內地城市舉辦投資推廣活動，一直積極向內地企業介紹香港的營商優勢和機遇，以鼓勵當地企業來港投資並經香港發展國際業務。在二○二五年，該署已在寧波、濟南、武漢、青島、成都、廣州、北京、天津和瀋陽等地舉行多場推廣活動。
+
+展望未來，投資推廣署會繼續配合政制局，並與聯絡小組成員保持緊密聯繫，共同推進大灣區相關的招商引資工作，一方面向海外企業推廣香港作為拓展大灣區業務的跳板並支援它們落戶香港，另一方面向大灣區企業推廣香港作為「出海」的跳板並支援它們落戶香港，而相關工作亦會與行政長官在二○二五年《施政報告》中公布內地企業出海專班的工作有機結合，進一步驅動「引進來、走出去」的雙向投資。聯絡小組亦會繼續積極計劃到其他有潛力的新興市場進行推廣和招商工作，進一步彰顯香港作為「超級聯繫人」和「超級增值人」的角色。"
 行政長官在香港航商總會一週年慶典致辭（只有中文）（附短片）,2025-10-08 15:30,2025-10-08 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800470.htm,"以下是行政長官李家超今日（十月八日）在香港航商總會一週年慶典的視像致辭：
 
 尊敬的梁振英副主席（全國政協副主席）、祁斌副主任（中央人民政府駐香港特別行政區聯絡辦公室副主任）、李永勝副特派員（中華人民共和國外交部駐香港特別行政區特派員公署副特派員）、趙式慶主席（香港航商總會主席）、各位嘉賓、各位航運界的朋友：
@@ -2733,17 +2764,6 @@ President,
 我期待香港航商總會繼續凝聚業界，與政府攜手推動行業高質量發展。我們共同努力，香港航運業必能乘風破浪，開拓新藍海，為國家建設海洋強國與交通強國作出更大貢獻。
 
 最後，我祝願香港航商總會會務蒸蒸日上，在座各位工作順利。謝謝大家。"
-Inspection of aquatic products imported from Japan,2025-10-08 15:25,2025-10-08 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800501.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
-
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
-
-  From noon on October 6 to noon today (October 8), the CFS conducted tests on the radiological levels of 263 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
-
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 100 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
-
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
-
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 170 713 samples of food imported from Japan (including 111 577 samples of aquatic and related products, seaweeds and sea salt) and 38 506 samples of local catch respectively. All the samples passed the tests."
 日本進口水產的檢測情況,2025-10-08 15:25,2025-10-08 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800500.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -2755,6 +2775,17 @@ Inspection of aquatic products imported from Japan,2025-10-08 15:25,2025-10-08 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共170 713個日本進口食物樣本（包括111 577個水產及其製品、海藻及海鹽樣本）及共38 506個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2025-10-08 15:25,2025-10-08 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800501.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on October 6 to noon today (October 8), the CFS conducted tests on the radiological levels of 263 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 100 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 170 713 samples of food imported from Japan (including 111 577 samples of aquatic and related products, seaweeds and sea salt) and 38 506 samples of local catch respectively. All the samples passed the tests."
 車輛登記號碼網上拍賣於十月二十三日至二十七日舉行,2025-10-08 15:00,2025-10-08 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800274.htm,"運輸署今日（十月八日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於十月二十三日（星期四）中午十二時至十月二十七日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
 
 運輸署發言人說：「是次網上競投會公開拍賣二百個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以「HK」或「XX」為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
@@ -2836,43 +2867,6 @@ President,
  In addition, the HS has also engaged a start-up to develop relevant PropTech solutions to assist residents in transporting heavy items such as rice, cooking oil and other daily necessities up and down staircases, further strengthening support for the residents.
 
  With regard to various facilities in the public housing estates, the HA and HS will continue to actively engage in communication and research with local communities/individuals as well as residents within the estates to explore ways to enhance these facilities, and address the needs of various persons in the estates, including the elderly and persons with disabilities."
-LCQ9: Promoting development of private equity funds,2025-10-08 14:45,2025-10-08 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800286.htm,"  Following is a question by Hon Robert Lee and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (October 8):
-
-Question:
-
-  The Government stated in the 2024 Policy Address that it would facilitate the opening of new distribution channels for private equity (PE) funds through the Hong Kong Exchanges and Clearing Limited (HKEX); and the 2025-26 Budget further mentioned that in order to facilitate more PE funds to list in Hong Kong, the Securities and Futures Commission (SFC) had clarified the relevant regulatory requirements to encourage sizeable alternative asset funds with regular income streams to raise funds. In this connection, will the Government inform this Council:
-
-(1) whether it will urge SFC and HKEX to work together on finalising the details of the relevant regulatory policies as soon as possible, such as establishing valuation standards, setting up a fast-track approval mechanism, etc., to facilitate the listing of more PE funds in the form of limited partnership funds in Hong Kong;
-
-(2) whether, to attract more large overseas PE funds to list in Hong Kong, the Government will consider offering tax incentives and urge HKEX to reduce relevant listing fees;
-
-(3) whether it will enhance collaboration with the Mandatory Provident Fund Schemes Authority (MPFA) to formulate guidelines for investing Mandatory Provident Fund (MPF) assets in listed PE funds and clearly assign risk ratings (e.g. low, medium or high risk) to such funds so that MPF trustees can invest in suitable PE funds in accordance with their investment policies in the future; and
-
-(4) whether it will introduce measures in collaboration with SFC, HKEX and MPFA on investor education on PE funds, such as organising seminars and developing risk disclosure handbooks, to raise the awareness of listed PE funds among retail and institutional investors, thereby promoting the development of PE fund business?
-
-Reply:
-
-President,
-
-  In consultation with the Securities and Futures Commission (SFC) and its subsidiary, the Investor and Financial Education Council (IFEC), the Mandatory Provident Fund Schemes Authority (MPFA) and the Hong Kong Exchanges and Clearing Limited (HKEX), the reply to the various parts of the question is as follows.
-
-(1) The Government is committed to promoting the development of the financial markets. ""The Chief Executive's 2024 Policy Address"" announced that the Government would attract more global capital to be managed in Hong Kong, including facilitating the opening of new distribution channels for private equity funds (PE funds) through the HKEX's listing.
-
-  In respect of authorising funds which seek a listing on the HKEX, the SFC issued a circular in February 2025 to clarify the regulatory requirements in relation to closed-ended funds that invest mainly in private and less liquid assets, thereby encouraging sizeable alternative asset funds (including PE funds, same hereinafter), preferably those with regular income streams, to list in Hong Kong. Relevant requirements have been included in the circular and the SFC's Code on Unit Trusts and Mutual Funds, including requirements on the management company's competence and experience, investments in a well-diversified portfolio of alternative assets, distribution policy, valuation and disclosure in offering documents. Due to a wide array of alternative assets available, the SFC may impose additional conditions, modify requirements, or allow flexibility in compliance with certain requirements, having regard to the fund's nature and investment strategy.
-
-  The SFC has been in ongoing engagement with the industry, and has been in discussions with interested fund managers on their preliminary proposals for listed alternative asset funds. According to the SFC's understanding, these funds are planned to be structured in corporate or unit trust form, primarily investing in private equity, private credit and infrastructure debt.
-
-  Based on the SFC's discussion with the industry, the SFC is of the view that, at the moment, it would be preferable for listed alternative asset funds to adopt existing public fund structures. These structures are familiar to and well understood by retail investors in Hong Kong, and there are comprehensive investor protection measures and regulatory requirements under the Code on Unit Trusts and Mutual Funds. The SFC will continue to explore the feasibility of the listing of alternative asset funds in limited partnership form.
-
-(2) The Government is committed to providing a facilitative tax environment for the industry to attract more funds to set up and operate in Hong Kong. Under the prevailing tax regime, publicly offered funds are already exempt from profits tax. In addition, the Inland Revenue (Amendment) (Tax Concessions for Carried Interest) Ordinance 2021 has been effective from May 2021, providing tax concessions for carried interest distributed by eligible PE funds operating in Hong Kong. The Government will endeavour to introduce a bill into the Legislative Council in the first half of 2026 to further enhance the preferential tax regimes for funds, single-family offices and carried interest, including enhancing the tax concession arrangement on the distribution of carried interest by PE funds, so as to attract more PE funds to set up in Hong Kong.
-
-  Funds that are eligible to be authorised by the SFC and listed in Hong Kong under the Listing Rules should have sizeable asset under management and business operations, and they should have sufficient resources to cover the relevant costs of applying for listing. The listing fee collected by the HKEX only makes up a small proportion of the expenses associated with listing. The HKEX and the SFC will review the level of relevant fees under the HKEX from time to time so as to ensure their levels would be competitive as compared to other major markets.
-
-(3) To enhance the risk-adjusted return potential of Mandatory Provident Fund (MPF) funds, the Government and the MPFA have been committed to reviewing and broadening the MPF permissible asset classes. Having considered the potential benefits of allowing MPF investment in private equity to enhance diversification and return potential, the MPFA announced to the industry in May 2025 that listed PE funds meeting the relevant criteria and approved by the MPFA on a case-by-case basis can be included as a permissible underlying asset class for MPF funds. In view of the higher risks associated with listed PE funds as compared with traditional investment options, the total amount that an MPF fund can invest in approved listed PE funds is limited to 10 per cent of the fund's net asset value to safeguard the interests of scheme members.
-
-  Investment managers of MPF funds should make professional decisions on whether to make relevant investment with due regard to the MPF fund's investment policy and objective. The MPFA currently has no plan to assign risk ratings to approved listed PE funds, but will closely monitor the situation and maintain dialogue with the industry. There are currently no listed PE funds included as permissible asset class for MPF funds. The MPFA will revise the relevant guidelines upon the approval of the first listed PE fund to facilitate investment decisions of investment managers.
-
-(4) The Government has been supporting the SFC and its subsidiary, the IFEC, in carrying out investor education work through various means and channels. The SFC will work closely with the IFEC to issue general investor education materials to explain the investment opportunities and risks in respect of listed alternative asset funds, in order to help investors make informed investment decisions. For specific alternative asset fund products, as set out in the circular, the management company of an SFC-authorised listed alternative asset fund is expected to carry out extensive investor education before launching the fund in Hong Kong. The MPFA will also continue to promote MPF education through various activities and channels, with a view to enhancing scheme members' understanding of MPF investment options."
 立法會九題：促進私募基金的發展,2025-10-08 14:45,2025-10-08 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800268.htm,"以下是今日（十月八日）在立法會會議上李惟宏議員的提問和財經事務及庫務局局長許正宇的書面答覆：
 
 問題：
@@ -2910,6 +2904,43 @@ President,
 強積金基金的投資經理應視乎基金的投資政策和目標，就進行有關投資作出專業決定。積金局目前沒有計劃為獲核准的上市私募基金訂定風險評級，但會密切留意情況，並與業界保持溝通。現時未有上市私募基金被納入為強積金基金的准許資產類別，積金局會在核准首隻上市私募基金後修訂相關指引，便利投資經理作出投資決定。
 
 （四）政府一直支持證監會及轄下的投委會，透過不同形式和渠道進行投資者教育工作。證監會將與投委會緊密合作，發布一般性的投資者教育資料，闡釋與上市另類資產基金相關的投資機遇和風險，協助投資者作出有根據的投資決定。就個別另類資產基金產品而言，如通函所述，證監會預期認可上市另類資產基金的管理公司於香港推出基金前，需進行廣泛的投資者教育。積金局亦會繼續推廣強積金教育，透過各項活動和渠道加強計劃成員對強積金投資選項的認識。"
+LCQ9: Promoting development of private equity funds,2025-10-08 14:45,2025-10-08 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800286.htm,"  Following is a question by Hon Robert Lee and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (October 8):
+
+Question:
+
+  The Government stated in the 2024 Policy Address that it would facilitate the opening of new distribution channels for private equity (PE) funds through the Hong Kong Exchanges and Clearing Limited (HKEX); and the 2025-26 Budget further mentioned that in order to facilitate more PE funds to list in Hong Kong, the Securities and Futures Commission (SFC) had clarified the relevant regulatory requirements to encourage sizeable alternative asset funds with regular income streams to raise funds. In this connection, will the Government inform this Council:
+
+(1) whether it will urge SFC and HKEX to work together on finalising the details of the relevant regulatory policies as soon as possible, such as establishing valuation standards, setting up a fast-track approval mechanism, etc., to facilitate the listing of more PE funds in the form of limited partnership funds in Hong Kong;
+
+(2) whether, to attract more large overseas PE funds to list in Hong Kong, the Government will consider offering tax incentives and urge HKEX to reduce relevant listing fees;
+
+(3) whether it will enhance collaboration with the Mandatory Provident Fund Schemes Authority (MPFA) to formulate guidelines for investing Mandatory Provident Fund (MPF) assets in listed PE funds and clearly assign risk ratings (e.g. low, medium or high risk) to such funds so that MPF trustees can invest in suitable PE funds in accordance with their investment policies in the future; and
+
+(4) whether it will introduce measures in collaboration with SFC, HKEX and MPFA on investor education on PE funds, such as organising seminars and developing risk disclosure handbooks, to raise the awareness of listed PE funds among retail and institutional investors, thereby promoting the development of PE fund business?
+
+Reply:
+
+President,
+
+  In consultation with the Securities and Futures Commission (SFC) and its subsidiary, the Investor and Financial Education Council (IFEC), the Mandatory Provident Fund Schemes Authority (MPFA) and the Hong Kong Exchanges and Clearing Limited (HKEX), the reply to the various parts of the question is as follows.
+
+(1) The Government is committed to promoting the development of the financial markets. ""The Chief Executive's 2024 Policy Address"" announced that the Government would attract more global capital to be managed in Hong Kong, including facilitating the opening of new distribution channels for private equity funds (PE funds) through the HKEX's listing.
+
+  In respect of authorising funds which seek a listing on the HKEX, the SFC issued a circular in February 2025 to clarify the regulatory requirements in relation to closed-ended funds that invest mainly in private and less liquid assets, thereby encouraging sizeable alternative asset funds (including PE funds, same hereinafter), preferably those with regular income streams, to list in Hong Kong. Relevant requirements have been included in the circular and the SFC's Code on Unit Trusts and Mutual Funds, including requirements on the management company's competence and experience, investments in a well-diversified portfolio of alternative assets, distribution policy, valuation and disclosure in offering documents. Due to a wide array of alternative assets available, the SFC may impose additional conditions, modify requirements, or allow flexibility in compliance with certain requirements, having regard to the fund's nature and investment strategy.
+
+  The SFC has been in ongoing engagement with the industry, and has been in discussions with interested fund managers on their preliminary proposals for listed alternative asset funds. According to the SFC's understanding, these funds are planned to be structured in corporate or unit trust form, primarily investing in private equity, private credit and infrastructure debt.
+
+  Based on the SFC's discussion with the industry, the SFC is of the view that, at the moment, it would be preferable for listed alternative asset funds to adopt existing public fund structures. These structures are familiar to and well understood by retail investors in Hong Kong, and there are comprehensive investor protection measures and regulatory requirements under the Code on Unit Trusts and Mutual Funds. The SFC will continue to explore the feasibility of the listing of alternative asset funds in limited partnership form.
+
+(2) The Government is committed to providing a facilitative tax environment for the industry to attract more funds to set up and operate in Hong Kong. Under the prevailing tax regime, publicly offered funds are already exempt from profits tax. In addition, the Inland Revenue (Amendment) (Tax Concessions for Carried Interest) Ordinance 2021 has been effective from May 2021, providing tax concessions for carried interest distributed by eligible PE funds operating in Hong Kong. The Government will endeavour to introduce a bill into the Legislative Council in the first half of 2026 to further enhance the preferential tax regimes for funds, single-family offices and carried interest, including enhancing the tax concession arrangement on the distribution of carried interest by PE funds, so as to attract more PE funds to set up in Hong Kong.
+
+  Funds that are eligible to be authorised by the SFC and listed in Hong Kong under the Listing Rules should have sizeable asset under management and business operations, and they should have sufficient resources to cover the relevant costs of applying for listing. The listing fee collected by the HKEX only makes up a small proportion of the expenses associated with listing. The HKEX and the SFC will review the level of relevant fees under the HKEX from time to time so as to ensure their levels would be competitive as compared to other major markets.
+
+(3) To enhance the risk-adjusted return potential of Mandatory Provident Fund (MPF) funds, the Government and the MPFA have been committed to reviewing and broadening the MPF permissible asset classes. Having considered the potential benefits of allowing MPF investment in private equity to enhance diversification and return potential, the MPFA announced to the industry in May 2025 that listed PE funds meeting the relevant criteria and approved by the MPFA on a case-by-case basis can be included as a permissible underlying asset class for MPF funds. In view of the higher risks associated with listed PE funds as compared with traditional investment options, the total amount that an MPF fund can invest in approved listed PE funds is limited to 10 per cent of the fund's net asset value to safeguard the interests of scheme members.
+
+  Investment managers of MPF funds should make professional decisions on whether to make relevant investment with due regard to the MPF fund's investment policy and objective. The MPFA currently has no plan to assign risk ratings to approved listed PE funds, but will closely monitor the situation and maintain dialogue with the industry. There are currently no listed PE funds included as permissible asset class for MPF funds. The MPFA will revise the relevant guidelines upon the approval of the first listed PE fund to facilitate investment decisions of investment managers.
+
+(4) The Government has been supporting the SFC and its subsidiary, the IFEC, in carrying out investor education work through various means and channels. The SFC will work closely with the IFEC to issue general investor education materials to explain the investment opportunities and risks in respect of listed alternative asset funds, in order to help investors make informed investment decisions. For specific alternative asset fund products, as set out in the circular, the management company of an SFC-authorised listed alternative asset fund is expected to carry out extensive investor education before launching the fund in Hong Kong. The MPFA will also continue to promote MPF education through various activities and channels, with a view to enhancing scheme members' understanding of MPF investment options."
 ​立法會四題：為來港參與短期活動的訪客提供便利,2025-10-08 14:42,2025-10-08 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800366.htm,"以下是今日（十月八日）在立法會會議上霍啟剛議員的提問和保安局局長鄧炳強的書面答覆：
 
 問題：
@@ -3358,139 +3389,3 @@ Note: The actual fees payable for each case vary depending on the location of th
 (4) The Government announced in the Policy Address that restaurant operators will be allowed to apply for permission to let dogs enter their food premises, creating new business opportunities for the industry. The Government will consult relevant trades and draw reference from practices and experiences on the Mainland and overseas, in order to formulate the implementation details of letting dogs enter food premises. Approved restaurants must display clear signage so that the public can make an informed choice, and have to comply with specified requirements and arrangements so as to balance the safeguarding of food safety and environmental hygiene, as well as the interests of the trade and consumers.
 
  The FEHD expects to grant permission to the first batch of applications by mid-2026, permitting a certain number of restaurants to allow dogs to enter. The Government will monitor the implementation, industry uptake and community response, and refine the details of operation as necessary."
-醫務衞生局局長出席立法會接種季節性流感疫苗和新冠疫苗活動發言（只有中文）（附圖）,2025-10-08 13:32,2025-10-08 14:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800369.htm,"以下是醫務衞生局局長盧寵茂教授今日（十月八日）出席立法會接種季節性流感疫苗和新冠疫苗活動發言：
-
-梁君彥大主席（立法會主席）、各位議員、各位傳媒朋友：
-
-很高興今日到立法會參與一年一度的約會，就是為立法會議員接種流感疫苗，同時安排接種新冠疫苗加強劑。
-
-流行性感冒，簡稱流感，因有「感冒」二字，令很多人產生誤會，以為流行性感冒即是感冒，以為只是發燒、輕微咳嗽等小事，很快會痊癒，但大家不要誤會，流感可以引起嚴重併發症，甚至需要住院，亦有死亡個案。
-
-接種疫苗是最有效預防流行性感冒的方法，應對普通感冒，我們不會接種疫苗；但流感可以預防，許多數據證明流感疫苗可以預防併發症、減低入院和死亡風險。
-
-我們去年（二○二四／二五年度流感疫苗接種）做得很好，共接種超過209萬劑疫苗，較上一年度增加11.7%。這是很重要的原因，令去年的成人和兒童嚴重流感個案較新冠疫情前的流感季節分別減少兩成和六成，學校大規模爆發減少近九成。這都是因為我們有疫苗接種這個重要元素。
-
-今年情況如何﹖我們永遠希望在健康上追求進步，不會滿足，特別是看到小朋友的嚴重併發個案可能會引致死亡，真是一宗都嫌多。今年九月才開始夏季流感季節，今年正如剛才主席所講，我們預計夏季流感與冬季流感可能會重疊，而今年自開學夏季流感季節開始，已經有超過250間學校出現群組爆發個案，有九位小朋友因出現嚴重流感併發症而入院，所以今年我們更加應該要做得更好。
-
-政府在今年的流感疫苗接種計劃有五項優化措施，包括擴大資助範圍；優化學校外展計劃，讓家長有更多選擇；院舍方面，我們提供重組流感疫苗；我們亦首次為家庭醫生推出疫苗採購；最後亦優化資訊發放，希望可以提升疫苗接種率。
-
-我亦很開心在此向大家報告，由九月二十二日展開疫苗接種計劃起，截至現時的最新數字，我們已經在首兩星期內共接種約33萬劑流感疫苗。大家記得去年的數字創新高，較之前增加11.7%。而今年度直至現在為止，首兩星期共接種約33萬劑流感疫苗，較去年同期再上升9.4%。我希望這個勢頭可以繼續，而我亦希望今日這個活動可以讓立法會議員幫助我們一同向大家展示接種流感疫苗其實很安全，沒有甚麼副作用，亦可以真正保護大家的健康。行政長官和一眾政府官員其實前一、兩星期已經接種了疫苗，希望議員今日接種後，市民都會積極參與。要記得︰「一年打一次，宜早不宜遲，十月最合時」。謝謝大家！"
-立法會十九題：公共屋邨的紙皮石剝落問題,2025-10-08 13:20,2025-10-08 13:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800330.htm,"以下是今日（十月八日）在立法會會議上黃國議員的提問和房屋局局長何永賢的書面答覆：
-
-問題：
-
-本人經常收到公共屋邨居民對樓宇外牆紙皮石剝落的投訴和求助，而據報因樓宇外牆紙皮石剝落而擊傷市民的意外亦時有發生。就此，政府可否告知本會：
-
-（一）採用紙皮石作為外牆主要建築物料的公共屋邨的名單；
-
-（二）過去三年公共屋邨紙皮石剝落的個案宗數（包括外牆、升降機大堂及走廊牆身等）及當中導致途人受傷宗數，以及該等個案所涉及的屋邨（包括大廈名稱），以及其大廈類型（例如Y型、和諧式、康和式等）、落成年份及外牆紙皮石剝落的原因為何；
-
-（三）鑑於紙皮石剝落亦會發生在公共屋邨的升降機大堂及走廊牆身等位置，政府有否措施確保居民的出入安全，例如安排專業人士定期檢查及適時維修；
-
-（四）會否對樓齡較高的公共屋邨（例如落成30年或以上）進行紙皮石狀況普查，以便及早進行維修工程，從而保障公眾安全；如會，詳情為何；如否，原因為何；及
-
-（五）公共屋邨樓宇牆身（包括外牆、升降機大堂及走廊牆身等）採用紙皮石物料的主要原因為何；會否考慮減少採用紙皮石，並選擇其他同樣美觀、實用但更為安全的建築物料？
-
-答覆:
-
-主席：
-
-香港房屋委員會（房委會）一直非常重視樓宇安全，透過日常巡查及多項勘察和維修計劃，讓公共屋邨得到適時妥善維修，以保持良好狀況。
-
-就黃國議員的提問，我們現回覆如下：
-
-（一）現時房委會轄下有128個公共屋邨有採用紙皮石作為外牆建築飾面物料，有關公共租住屋邨（屋邨）的資料請參閱附件一。
-
-（二）房屋署會每日巡視屋邨的公用地方及設施的狀況，包括升降機大堂及走廊等，保持設施安全及環境衞生。當巡視時發現有設施需要維修（例如紙皮石剝落）或收到居民反映後，房屋署均會即時安排維修。根據紀錄，由二○二二年一月一日至二○二五年八月三十一日，合共有23宗外牆紙皮石剝落個案，其中三宗個案涉及途人受輕傷。屋邨辦事處已即時作出跟進，包括圍封有關通道、檢視外牆其他部分及安排維修，所有個案已完成修繕。一般而言，外牆紙皮石會因老化或環境因素（例如溫度及濕度變化）影響而出現剝落，惟不會影響大廈的整體樓宇結構。就上述涉及外牆紙皮石剝落的個案資料，請參閱附件二。
-
-（三）及（四）房屋署一直透過日常巡視和專業的保養維修計劃，勘察全港屋邨的樓宇，並會因應樓宇年期和結構狀況等，適時安排勘察或維修，以保持樓宇結構穩固安全，為住戶提供安全舒適的居住環境。相關工作主要如下：
-
-（i）日常巡查：涵蓋所有樓齡的屋邨樓宇，前線同事每日巡視屋邨內的樓宇和公共設施，適時跟進需要進行維修的項目；
-
-（ii）年度保養巡查：屋邨每年均會進行年度檢視，制定年度保養項目，包括檢查和維護公共設施（防火門、地台瓦、外牆等）、裝備（升降機、消防設備、管道等），以提升效能和安全水平；
-
-（iii）全方位維修計劃：主動勘察樓齡達10年或以上的公屋單位的室內狀況，在勘察室內狀況時，亦會同時留意公屋單位附近外牆的狀況，如發現外牆有需要維修，會作出適當跟進。此舉不但提升租戶的居住環境質素，同時延長公屋單位使用年期；
-
-（iv）外牆勘察維修：針對樓齡較高的屋邨樓宇（例如約30年以上），房屋署會按需要安排外牆檢查及修葺，提升外牆的安全和耐用度；及
-
-（v）全面結構勘察計劃：針對樓齡接近或超過40年的公屋進行詳細的結構安全評估，以確定這些高樓齡公屋的結構安全，並評估透過修葺和結構鞏固等工程，持續保存該等樓宇15年或以上的可行性及經濟效益。
-
-除了以上巡查及勘察工作外，房屋署積極尋求應用創新科技以縮短勘察時間及提高成效。房屋署現時不但會在勘察時使用手提紅外線熱成像攝影機，有需要時更會運用配備影像拍攝及紅外線熱成像功能的小型無人機進行樓宇外牆勘察，結合人工智能分析平台自動識別外牆缺陷，例如紙皮石脫落等，生成風險評估報告以標記需優先處理項目，有效提升預防性維護的效率，整體成效顯著。另外，房屋署大約每10年為屋邨進行大廈粉飾工程，在粉飾工程進行前，亦會為大廈外牆進行全面檢查及維修。
-
-（五）房委會一直為新建的公營房屋訂立一套合適的建屋規格及標準。這些規格及標準會因應新的建造技術、建築物料、作業守則等而更新。在70及80年代興建的香港建築物，包括當時房委會的公共屋邨，都會選用紙皮石作為飾面。大約自二○一○年起，房委會的公營房屋採用了更簡約設計。因此，公共屋邨住宅大樓外牆、樓層走廊及升降機大堂牆身飾面主要採用漆料，而大堂設計上部份飾面會加入瓷磚。由於紙皮石富有多樣的色彩，能拼砌不同的圖案，故仍會小量應用於項目的公共空間特色牆作為點綴。"
-LCQ19: Spalling of mosaic tiles in public housing estates,2025-10-08 13:20,2025-10-08 13:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800331.htm,"  Following is a question by the Hon Kingsley Wong and a written reply by the Secretary for Housing, Ms Winnie Ho, in the Legislative Council today (October 8):
-
-Question:
-
-  I often receive complaints and requests for assistance from residents of public housing estates (PHEs) about the spalling of mosaic tiles on the external walls of buildings, and it was reported that there were occasional accidents of members of the public being injured by spalled mosaic tiles detaching from the external walls of buildings. In this connection, will the Government inform this Council:
-
-(1) of the list of PHEs where mosaic tiles have been used as a major building material for external walls;
-
-(2) of the number of cases of mosaic tiles spalling (on external walls, walls of lift lobbies and corridors, etc) in PHEs over the past three years and, among such cases, the number of those resulting in injuries to passers-by, as well as the estates involved in such cases (including the names of blocks) and their block types (e.g. Trident, Harmony, and Concord), their years of completion, and the causes of the spalling of mosaic tiles on the external walls;
-
-(3) given that the spalling of mosaic tiles will also occur at locations such as walls of lift lobbies and corridors in PHEs, whether the Government has measures in place to ensure the safe entry and exit of residents, such as arranging professionals to carry out regular checks and timely repairs;
-
-(4) whether it will conduct a general survey on the conditions of mosaic tiles in older PHEs (e.g. those aged 30 years or above) to facilitate early repair works, thereby safeguarding public safety; if so, of the details; if not, the reasons for that; and
-
-(5) of the main reasons for using mosaic tiles as a material for the walls of buildings (including external walls, walls of lift lobbies and corridors) in PHEs; whether it will consider reducing the use of mosaic tiles and choosing other building materials that are equally aesthetic and practical but safer?
-
-Reply:
-
-President,
-
-  The Hong Kong Housing Authority (HA) has always placed great emphasis on building safety. Through daily inspections and various inspection and maintenance programmes, public housing estates receive timely and proper maintenance and repairs to ensure they remain in good condition.
-
-  In response to the question raised by the Hon Kingsley Wong, our reply is as follows:
-
-(1) Currently, there are 128 public housing estates under the HA using mosaic tiles as the exterior wall finishing materials. Please refer to Annex I.
-
-(2) The Housing Department (HD) conducts daily inspections of the common areas and facilities within public housing estates, including lift lobbies and corridors, to maintain facility safety and environmental hygiene. Upon identifying facilities requiring maintenance during inspections (such as spalling of mosaic tiles) or receiving reports from tenants, the HD would promptly arrange repairs. According to our records, there were a total of 23 cases of spalling of mosaic tiles on the external walls, with three cases involving minor injuries to pedestrians from January 1, 2022 to August 31, 2025. The estate offices took immediate follow-up actions, including cordoning off the affected passageways, inspecting other sections of the external walls, and arranging repairs. All cases were fully resolved. In general, mosaic tiles on external wall may spall due to ageing or environmental factors, such as change in temperature and humidity, but this does not affect the overall structural integrity of the building. For details of the aforementioned cases involving spalling of mosaic tiles from external wall, please refer to Annex II.
-
-(3) and (4) The HD has been conducting daily inspections and implementing professional maintenance and repair programmes across all public housing estates in Hong Kong. Based on factors such as the age and structural condition of buildings, timely inspections and repairs are arranged to ensure structural integrity and safety, thereby providing residents with a secure and comfortable living environment. The relevant work mainly includes the following:
-
-(i) Daily Inspections: Covering all public housing estates regardless of building age, frontline staff conduct daily inspections of buildings and communal facilities, following up on items requiring repair in a timely manner;
-
-(ii) Annual Technical Inspection: Each estate undergoes an annual review to establish a yearly maintenance plan, which includes inspection and upkeep of public facilities (e.g. fire doors, floor tiles, external walls, etc) and equipment (e.g. lifts, fire safety installations, pipelines, etc) to enhance efficiency and safety standards;
-
-(iii) Total Maintenance Scheme: Proactive inspections are conducted for public rental housing aged 10 years or above. During these inspections, attention is also given to the condition of external walls near the flats. If external wall repairs are identified, appropriate follow-up actions will be taken. This approach not only improves tenants' living environment, but also extends the service life of the flats;
-
-(iv) External Wall Finishes Repair Programme: For older public housing estates (e.g. those aged 30 years or above), the HD arranges external wall inspections and repairs as needed to enhance the safety and durability of external walls; and
-
-(v) Comprehensive Structural Investigation Programme: Detailed structural safety assessments are conducted for public housing estates approaching or exceeding 40 years of age. These assessments verify the structural safety and evaluate the feasibility and cost-effectiveness of preserving these buildings for at least 15 years or more through repairs and structural strengthening works.
-
-  In addition to the above inspection and survey works, the HD actively explores the application of innovative technologies to shorten inspection time and enhance effectiveness. The HD currently uses handheld infrared thermographic cameras during inspections and, when necessary, deploys small drones equipped with imaging and infrared thermographic capabilities to examine building exteriors. These drones integrate with an artificial intelligence analysis platform to automatically identify external wall defects, such as spalling of mosaic tiles, and generate risk assessment reports to prioritise items requiring attention. This approach significantly enhances the efficiency of preventive maintenance with notable overall results. Furthermore, the HD carries out comprehensive external wall inspections and repairs approximately every ten years prior to its building redecorating works.
-
-(5) The HA has consistently established a set of appropriate construction standards and specifications for new public housing developments. These standards and specifications are regularly updated in response to advancement of new construction technologies, building materials, and latest codes of practice. Buildings constructed in Hong Kong during the 1970s and 1980s, including public housing estates developed by the HA at that time, were commonly constructed with mosaic tiles as finishing material. Since around 2010, the HA has adopted a cleaner design for public housing. Consequently, the external walls, corridors and lift lobby walls of residential blocks in public housing estates are mainly finished with paint, while ceramic tiles are incorporated into the lobby design. Given the diverse colours of mosaic tiles and their applicability to different patterns, mosaic tiles continue to be used occasionally for feature walls in public spaces of housing projects as a highlight."
-立法會十三題：公營房屋的無障礙設施,2025-10-08 13:15,2025-10-08 13:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/08/P2025100800363.htm,"以下是今日（十月八日）在立法會會議上楊永杰議員的提問和房屋局局長何永賢的書面答覆：
-
-問題：
-
-部分高樓齡公營房屋（包括香港房屋委員會（房委會）的公共租住屋邨（公共屋邨）及香港房屋協會（房協）的出租屋邨）的居民反映，邨內缺乏足夠的無障礙通道及設施，不利長者及行動不便人士出行。就此，政府可否告知本會：
-
-（一）是否知悉房委會及房協優化其高樓齡公共屋邨及出租屋邨的無障礙通道及設施的計劃（包括進行中的項目進度 ）為何；及
-
-（二）據悉由靠背壟道接駁房協轄下樂民新村A座至E座的樓梯通道是往返該屋邨的必經之路，但有意見指出該通道缺乏無障礙設施，對長者及行動不便人士的日常出入造成不便，政府會否促請房協在樂民新村的有關位置興建斜道或升降機，以解決有關問題；若會，詳情為何；若否，原因為何？
-
-答覆:
-
-主席：
-
-就楊永杰議員的提問，現回覆如下：
-
-（一）香港房屋委員會（房委會）一直致力提升公共屋邨的無障礙通道及設施，以滿足公屋居民及使用者，特別是長者和殘疾人士對無障礙通道的需要。
-
-房委會的既定政策是在切實可行的情況下，遵從《設計手冊：暢通無阻的通道》（《設計手冊》）的現行規定，提供無障礙通道和設施。因應《設計手冊1997》和《設計手冊2008》的推出，房委會已分別在二○○一年和二○一○年為房委會轄下於《設計手冊》推出前落成的物業進行必要的無障礙設施改善工程。這些改善工程包括鋪設斜道、在通道安裝合適的扶手、鋪設及擴建觸覺引路徑接連屋邨主要入口至屋邨範圍內的主要設施和住宅大廈的出入口等。但個別樓宇或會因不同限制，例如樓宇設計，而未能完全加裝相關設施或進行改建。至於所有在二○○八年十二月一日後動工興建的新房委會建築物，及當一些現有房委會建築物需進行改建或加建工程時，在切實可行的情況下，均會按照《設計手冊2008》所載的強制規定來規劃及開展工程。因應居民的不同需求，房委會亦會作出靈活安排，例如我們現時正為坪石邨、禾輋邨及沙角邨等高樓齡公共屋邨額外加建斜道，以連接邨內主要屋邨設施，便利居民進出。房委會在新建的公共屋邨已採用「通用設計」的概念，以締造傷健一家、和諧共融的生活環境。
-
-另外，為加強屋邨無障礙事宜的統籌工作，房委會自二○一一年起推出無障礙統籌經理和無障礙主任計劃，於各公共屋邨的無障礙主任會負責協助有需要的人士使用邨內的無障礙通道及設施。
-
-除了在公用地方提供無障礙設施外，長者或殘疾人士如有實際需要，亦可向房委會申請改裝單位內的設施。房委會會參考醫生、物理治療師、職業治療師或醫務社工等人士的建議，免費為相關租戶進行調適工程。這些工程包括在可行情況下在單位入口設置斜道、擴闊浴室門口、在適當地面鋪設防滑地磚等。如租戶只要求在浴室加裝扶手或將浴缸改裝成淋浴間，房委會一般可以直接為租戶免費安排有關工程，無需取得醫生或物理治療師的建議。
-
-香港房屋協會（房協）方面，為應對轄下出租屋邨及其居民「雙老化」的挑戰，房協持續投放資源進行大型改善工程，以提升大廈及屋邨公共地方的暢達度及增加無障礙設施，例如加裝升降機及轉乘電梯、設置電動爬梯機，以及興建升降機大樓及接駁天橋等。此外，房協過去十年已先後為轄下高樓齡的出租屋邨完成更換超過七十部升降機，並計劃陸續為其他合適的高樓齡公共屋邨進行更換升降機工程。未來，房協會繼續檢視轄下公共屋邨的狀況，研究在可行及合適的情況下加入和優化無障礙通道或設施。
-
-（二）房協轄下的樂民新村共有11幢大廈，於一九七○至一九七三年分期落成，其中六幢大廈（即A座至F座）由低至高依山而建，而F座位處的地勢較高。為方便居民出入，房協已於二○一四年完成興建轉乘升降機大樓及連接F座的行人天橋，並加建有蓋行人通道，居民可於F座樓下的靠背壟道平路出入口乘搭升降機上F座，然後向下行前往A座至E座，而毋須經靠背壟道的屋邨正門上坡而行。
-
-現時A座至E座的居民仍需經過一些樓梯方可到達各座門口。就此，房協已委聘工程顧問公司，現正就於A座至E座合適位置增設無障礙通道（如斜道或升降機）進行可行性研究，包括考慮現場的岩土地質及有關工程對現有居民生活作息的影響等因素。
-
-此外，房協亦已委託初創企業研發相關的房地產科技方案，以協助居民在樓梯搬運一些例如糧油白米等與日常生活有關的重物，進一步加強支援居民。
-
-就公共屋邨內的各項設施，房委會和房協會繼續與地方社區團體／人士、以及公共屋邨內的居民積極溝通和進行研究，探討優化方向，以照顧公共屋邨內不同人士，包括長者和殘疾人士等的需要。"
