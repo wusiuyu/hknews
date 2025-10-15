@@ -1,4 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
+港匯指數,2025-10-15 16:00,2025-10-15 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500170.htm,二○二五年十月十五日（星期三）的港幣匯率指數為一百零四點一（和昨日指數比較下降零點三）。
+Effective Exchange Rate Index,2025-10-15 16:00,2025-10-15 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500171.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, October 15, 2025 is 104.1 (down 0.3 against yesterday's index)."
 蔬菜統營處公布資訊保安事故,2025-10-15 15:50,2025-10-15 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500573.htm,"下稿代蔬菜統營處發:
 
 蔬菜統營處（菜統處）今日（十月十五日）公布，於十月十三日發現一宗涉及惡意勒索軟件入侵處方部分電腦系統的資訊保安事故。處方發現事件後已立即中斷網絡系統的運作，以及相關電腦伺服器的對外連接，阻止黑客進一步入侵，並已向警方報案、通知香港網絡安全事故協調中心，以及向個人資料私隱專員公署通報事件。
@@ -1033,6 +1035,19 @@ In addition, the MTRCL has confirmed that the resumption of works will not affec
 The staff of the BD and the EMSD inspected the concerned railway tracks at midnight on October 8, and reconfirmed that the maintenance works completed and the reconditioned ballast track after the incident of July had no impact on the structural safety of the railway facilities and operational safety of the railway.
 
   The BD, the EMSD and the MTRCL will continue to closely monitor the situation, including the continuous monitoring of upheaval and settlement levels against the triggering limit, to ensure the structural safety of the railway facilities and the safe operation of the railway."
+港鐵公司小蠔灣站項目地基工程獲准復工,2025-10-15 15:00,2025-10-15 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500221.htm,"​政府發言人今日（十月十五日）表示，香港鐵路有限公司（港鐵公司）位於大嶼山擬新建的小蠔灣站項目的嵌岩工字鋼樁工程已獲准今日復工。
+
+發言人表示，由於港鐵東涌綫近小蠔灣車廠的一段以道碴承托的路軌有五個監測點於七月十五日的上升記錄超逾20毫米的預設停工指標，上述小蠔灣站項目的嵌岩工字鋼樁工程於同日暫停。有關情況是在預設機制下發生，目的是監察鐵路附近範圍工程對運行中鐵路的潛在影響，一旦發現超出預設指標，便會要求暫時停工及探討緩解措施，以保障鐵路安全。政府於七月十七日公布情況（www.info.gov.hk/gia/general/202507/17/P2025071700594.htm），按既定程序，只有在屋宇署滿意項目團隊的緩解措施；機電工程署（機電署）滿意港鐵公司已強化監測措施；以及港鐵公司確認復工不會對鐵路結構和運作安全構成影響，政府才會批准復工。
+
+小蠔灣站項目的註冊建築專業人士早前向屋宇署提交了事件報告，以及緩解措施和連帶的修訂圖則。屋宇署經審視後同意緩解措施和修訂圖則，認為緩解措施能有效減低復工後相關路軌的上升及沉降幅度超越預設停工指標的可能性，並接納港鐵公司的加強監測措施。
+
+機電署已檢視港鐵公司所提交有關鐵路運作安全的監察數據和評估報告，確認鐵路狀況及港鐵公司的監測措施符合安全運作要求。
+
+此外，港鐵公司確認復工不會對鐵路設施結構及鐵路運作安全構成影響。
+
+屋宇署和機電署人員於十月八日午夜視察相關的路軌，再次確認七月事件後完成的維護工程和修整的道碴軌段水平，均沒有對鐵路設施的結構安全和運作安全構成影響。
+
+屋宇署、機電署及港鐵公司會繼續密切監察有關情況，包括繼續根據預設停工指標監察相關上升及沉降幅度，確保鐵路設施結構和鐵路運作安全。"
 ​勞工及福利局局長訪問北京,2025-10-15 15:00,2025-10-15 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500367.htm,"勞工及福利局局長孫玉菡明日（十月十六日）啟程前往北京，香港人才服務辦公室總監陳海勁亦會隨行。
 
 訪京期間，孫玉菡一行將參與HICOOL 2025全球創業者峰會（峰會）。他將於十月十七日出席峰會的2025高水平人才高地建設論壇後返抵本港。
@@ -1253,19 +1268,6 @@ The staff of the BD and the EMSD inspected the concerned railway tracks at midni
 現時共有32間非政府組織參與計劃，在79個服務點為合資格參加者提供服務，覆蓋全港18區，服務大致足夠應付需求。計劃自推出以來，衞生署一直積極於地區層面推廣計劃，包括為地區服務及關愛隊伍舉行簡介會、於18區的長者地區中心、長者鄰舍中心及綜合家庭服務中心舉辦口腔健康講座及宣傳計劃內容，並為合資格人士提供即場預約服務。而參與計劃的非政府組織亦會透過其網絡、與地區社福機構合作及舉辦外展活動等，積極向服務對象宣傳計劃，擴大計劃的社區覆蓋面。
 
 政府會持續監察服務使用量和需求，適時檢討計劃並按需要及考慮所需資源，研究增添服務單位及服務點。"
-港鐵公司小蠔灣站項目地基工程獲准復工,2025-10-15 15:00,2025-10-15 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500221.htm,"​政府發言人今日（十月十五日）表示，香港鐵路有限公司（港鐵公司）位於大嶼山擬新建的小蠔灣站項目的嵌岩工字鋼樁工程已獲准今日復工。
-
-發言人表示，由於港鐵東涌綫近小蠔灣車廠的一段以道碴承托的路軌有五個監測點於七月十五日的上升記錄超逾20毫米的預設停工指標，上述小蠔灣站項目的嵌岩工字鋼樁工程於同日暫停。有關情況是在預設機制下發生，目的是監察鐵路附近範圍工程對運行中鐵路的潛在影響，一旦發現超出預設指標，便會要求暫時停工及探討緩解措施，以保障鐵路安全。政府於七月十七日公布情況（www.info.gov.hk/gia/general/202507/17/P2025071700594.htm），按既定程序，只有在屋宇署滿意項目團隊的緩解措施；機電工程署（機電署）滿意港鐵公司已強化監測措施；以及港鐵公司確認復工不會對鐵路結構和運作安全構成影響，政府才會批准復工。
-
-小蠔灣站項目的註冊建築專業人士早前向屋宇署提交了事件報告，以及緩解措施和連帶的修訂圖則。屋宇署經審視後同意緩解措施和修訂圖則，認為緩解措施能有效減低復工後相關路軌的上升及沉降幅度超越預設停工指標的可能性，並接納港鐵公司的加強監測措施。
-
-機電署已檢視港鐵公司所提交有關鐵路運作安全的監察數據和評估報告，確認鐵路狀況及港鐵公司的監測措施符合安全運作要求。
-
-此外，港鐵公司確認復工不會對鐵路設施結構及鐵路運作安全構成影響。
-
-屋宇署和機電署人員於十月八日午夜視察相關的路軌，再次確認七月事件後完成的維護工程和修整的道碴軌段水平，均沒有對鐵路設施的結構安全和運作安全構成影響。
-
-屋宇署、機電署及港鐵公司會繼續密切監察有關情況，包括繼續根據預設停工指標監察相關上升及沉降幅度，確保鐵路設施結構和鐵路運作安全。"
 海上溢油及有害有毒物質溢漏演習測試海上污染事故應變能力（附圖）,2025-10-15 14:55,2025-10-15 15:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500210.htm,"多個政府部門今日（十月十五日）上午在南丫島下尾灣對開海面舉行周年海上污染事故聯合演習，測試相關政府部門在香港水域內發生海上溢油及溢漏有害有毒物質事故時的應變能力，行動代號為「油演2025」及「有害有毒物質溢漏演習2025」。
 
 聯合演習模擬一艘運油船和一艘貨櫃船相撞，導致運油船溢漏燃油，以及五個載有氫氧化鈉的貨櫃墮海。其後，油污應變小組到場清理溢漏在海面的油污，而消防處及其他應變小組亦被派往現場，在有需要時控制及處理有可能泄漏的氫氧化鈉，以免對附近環境和設施造成威脅。
@@ -1546,19 +1548,6 @@ Thank you, Mr President."
 若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
 
 市民可透過以下途徑，取得更多資料：衞生署健康教育專線（2833 0111）、中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
-酷熱天氣警告已發出,2025-10-15 14:31,2025-10-15 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500523.htm,"電台及電視台當值宣布員注意：
-
-請盡速播出下列特別報告：
-
-天文台已發出酷熱天氣警告。
-
-預防中暑，要避免長時間在戶外活動。
-
-如果要在戶外活動或工作，最好戴寬邊帽，穿淺色、寬鬆的衣服，盡量留在蔭涼的地方。
-
-要充分喝水，但避免喝含咖啡因或酒精的飲品。
-
-如有不適，要盡快看醫生。"
 Very Hot Weather Warning issued,2025-10-15 14:31,2025-10-15 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500527.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -1572,6 +1561,19 @@ If engaged in outdoor work or activities, wear a wide-brimmed hat and light-colo
 Drink plenty of water, and avoid beverages containing caffeine or alcohol.
 
 If you feel sick, consult a doctor right away."
+酷熱天氣警告已發出,2025-10-15 14:31,2025-10-15 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500523.htm,"電台及電視台當值宣布員注意：
+
+請盡速播出下列特別報告：
+
+天文台已發出酷熱天氣警告。
+
+預防中暑，要避免長時間在戶外活動。
+
+如果要在戶外活動或工作，最好戴寬邊帽，穿淺色、寬鬆的衣服，盡量留在蔭涼的地方。
+
+要充分喝水，但避免喝含咖啡因或酒精的飲品。
+
+如有不適，要盡快看醫生。"
 "Eighth Seminar of Senior Judges from across Strait, Hong Kong and Macao concludes successfully (with photos)",2025-10-15 14:20,2025-10-15 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500329.htm,"The following is issued on behalf of the Judiciary:
 
   The Eighth Seminar of Senior Judges from across the Strait, Hong Kong and Macao, hosted by the Hong Kong Judiciary, successfully concluded yesterday (October 14). The two-day event, themed ""The Emerging Challenges and Opportunities in Judicial Work"", brought together senior judges from across the Strait, Hong Kong and Macao for in-depth discussions on various topics related to judicial work.
@@ -2017,6 +2019,84 @@ The LCSD will continue to review the usage of park facilities from time to time 
 In addition, regarding the public-private partnership, subject to its commercial viability and opportunities, the LCSD will keep an open mind, introduce innovative ideas and actively consider adopting public-private partnership proposals in order to enhance the service quality of facilities, thereby providing members of the public with leisure facilities of higher quality and richer visitor experience.
 
 (5) The LCSD will convert Block 58 of the former Whitfield Barracks in Kowloon Park, with the construction of a new annex, into the Chinese Culture Experience Centre which is aiming at promoting Chinese culture. The Experience Centre will feature a versatile outdoor space harmonised with the natural environment of Kowloon Park, serving as a venue for hosting Chinese culture-related activities while offering citizens and tourists a space that combines cultural elements with natural scenery. The Experience Centre will make good use of technology to offer diversified interactive experiences and object-based learning activities to attract participation of both citizens and tourists."
+立法會二題：「BUD專項基金」,2025-10-15 12:45,2025-10-15 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500374.htm,"以下是今日（十月十五日）在立法會會議上陳祖恒議員的提問和商務及經濟發展局局長丘應樺的答覆：
+
+問題：
+
+二○二五年《施政報告》宣布向「發展品牌、升級轉型及拓展內銷市場的專項基金」（「BUD專項基金」）注資14.3億元，並擴大資助地域範圍。就此，政府可否告知本會：
+
+（一）鑑於有業界人士反映，「BUD專項基金」下的簡易申請計劃（「申請易」）極受業界歡迎，政府會否考慮將「申請易」的項目資助上限由10萬元調高至30萬元；如會，詳情為何；如否，原因為何；
+
+（二）政府會否考慮將「BUD專項基金」的適用範圍進一步擴大至所有境外市場，以與明年整合至該基金的「中小企業市場推廣基金」的適用範圍看齊，從而更好地支援業界開拓內銷、傳統及新興市場；如會，詳情為何；如否，原因為何；及
+
+（三）鑑於政府經營帳目有望於下一財政年度錄得盈餘，政府會否考慮將「BUD專項基金」的資助配對比率，調整為政府與企業以一對一比率分擔總核准開支，以協助業界升級轉型；如會，詳情為何；如否，原因為何？
+
+答覆：
+
+主席：
+
+「發展品牌、升級轉型及拓展內銷市場的專項基金」（「BUD專項基金」）是政府支援中小企業的其中一項措施，目的是支持本地企業升級轉型及拓展多元化市場。由二○一二年成立至二○二五年九月，「BUD專項基金」共批出近12000宗申請，涉及總資助額約75億元，惠及約7800家企業。政府自二○一八年起多次優化「BUD專項基金」，包括注資共77億元、擴闊資助地域範圍、分階段提高每家企業的累計資助上限由50萬元至700萬元，以及推出「申請易」和「電商易」等。
+
+就陳祖恒議員的提問的三個部分，現回覆如下：
+
+（一）「申請易」於二○二三年六月推出，旨在加快審批涉及特定措施而資助金額為10萬元或以下的申請，其申請表格、所須遞交的證明文件要求及審批安排均已簡化，而申請處理時間亦較「BUD專項基金」一般申請的服務承諾大幅減少一半至30個工作天內完成。
+
+截至二○二五年九月底，「申請易」共批出760宗申請，平均資助額約為7.2萬元。我們相信維持現時每宗10萬元的資助上限已可滿足大部分企業的需要。此外，我們亦需確保公帑用得其所，故釐定「申請易」每宗申請款額的上限時，需小心平衡資助款額和潛在財政風險。我們認為目前的安排是合適的。
+
+另外，為了讓企業更迅速地獲得資助，以應對多變的經濟環境，我們自二○二五年三月起已優化「申請易」的安排，讓每間企業由之前每六個月只可遞交一項申請，放寬至每三個月可遞交一項；同時亦增加了建立網上銷售平台為可獲資助的項目措施。
+
+（二）「BUD專項基金」現時的資助地域範圍涵蓋40個已與香港簽署自由貿易協定（自貿協定）及／或促進和保護投資協定（投資協定）的經濟體，佔二○二四年香港對外商品貿易總值約80%。行政長官於二○二五年《施政報告》宣布進一步擴大「BUD專項基金」的資助地域範圍，覆蓋多八個包括「一帶一路」國家在內的經濟體，亦即把基金適用的地域範圍增加20%，以協助中小企業拓展更多元化的市場。同時，鑑於「中小企業市場推廣基金」將於二○二六年七月整合至「BUD專項基金」，我們會加強宣傳和協助企業透過「BUD專項基金」——「申請易」參與展覽會和出口推廣活動。
+
+香港正與多個經濟體探討簽訂投資協定，其中與卡塔爾的投資協定談判已大致完成，雙方將在各自完成所需內部程序後簽署協定。隨着香港日後簽署更多自貿協定或投資協定，「BUD專項基金」資助適用的地域範圍將進一步擴闊。我們亦已自二○二五年三月起擴大「電商易」的資助地域範圍至東南亞國家聯盟10個國家。
+
+（三）多年來，「BUD專項基金」一直積極支援中小企業，期間亦推出了多輪優化措施。同時，企業對政府資助的需求近年大幅攀升，「BUD專項基金」二○二四年的申請宗數較二○一九年增加超過320%，而基金近九成的資助是於最近六年（二○一九年至二○二四年）批出。
+
+為確保「BUD專項基金」的財政可持續性，政府於二○二五年三月推出措施，當中包括調整基金的資助比例至1（政府）：3（企業），希望企業能更慎重選擇適當及具成本效益的項目，並更願意投放資源。有關措施剛於二○二五年三月推出，我們需時檢視成效，故未有計劃調整基金的資助比例。
+
+支援中小企業是政府其中一項重要政策，因此政府於今明兩個財政年度會向「BUD專項基金」注資共超過30億元，惟我們需確保資助計劃的財政可持續性，令更多企業能獲得支援及讓受惠面保持廣泛，故政府會以適時和聚焦的方式審慎運用公帑，以應對複雜多變的經濟環境。
+
+除優化「申請易」和「電商易」外，我們亦已更針對性資助企業推行綠色轉型項目和列明成立新業務單位的有關專業服務費用為可獲資助項目，協助企業重整供應鏈，以應對貿易戰帶來的挑戰。
+
+我們會繼續與業界密切溝通，不時檢視基金的運作情況，為中小企業作出合適支援，同時顧及基金負擔能力及其財政可持續性。"
+LCQ2: BUD Fund,2025-10-15 12:45,2025-10-15 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500372.htm," Following is a question by the Hon Sunny Tan and a reply by the Secretary for Commerce and Economic Development, Mr Algernon Yau, in the Legislative Council today (October 15):
+
+Question:
+
+ The 2025 Policy Address announced an injection of $1.43 billion into the Dedicated Fund on Branding, Upgrading and Domestic Sales (BUD Fund) and an expansion of its geographical scope. In this connection, will the Government inform this Council:
+
+(1) as some members of the trade have relayed that the simplified application track under the BUD Fund (""Easy BUD"") is very popular among the trade, whether the Government will consider raising the funding ceiling for each ""Easy BUD"" project from $100,000 to $300,000; if so, of the details; if not, the reasons for that;
+
+(2) whether the Government will consider further expanding the application scope of the BUD Fund to cover all markets outside Hong Kong, so as to align with the application scope of the SME Export Marketing Fund which will be consolidated into the BUD Fund next year, thereby better supporting the trade in developing domestic sales, as well as traditional and emerging markets; if so, of the details; if not, the reasons for that; and
+
+(3) given that the Government's Operating Account is expected to record a surplus in the next financial year, whether the Government will consider adjusting the matching ratio of the BUD Fund to 1:1 of the total approved expenditure between the Government and the enterprises, so as to assist the trade in upgrading their operations; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+ The Dedicated Fund on Branding, Upgrading and Domestic Sales (BUD Fund) is one of the initiatives of the Government in supporting small and medium-sized enterprises (SMEs), aiming at assisting local enterprises in upgrading, transformation and development of diversified markets. From its inception in 2012 to September 2025, nearly 12 000 applications have been approved under the BUD Fund, involving a total funding amount of around $7.5 billion and benefitting around 7 800 enterprises. The Government has since 2018 launched several rounds of enhancements to the BUD Fund, including the injection of a total of $7.7 billion, the expansion of the geographical scope, the phased increase of the cumulative funding ceiling per enterprise from $0.5 million to $7 million, and the launch of ""Easy BUD"" and ""E-commerce Easy"", etc.
+
+ The reply to the three parts of the question by the Hon Sunny Tan is as follows:
+
+(1) ""Easy BUD"" was launched in June 2023 to expedite the processing of applications involving designated measures with a funding amount of $100,000 or below. The application form, requirements for supporting documents and vetting arrangements of ""Easy BUD"" have been streamlined. As compared with the performance pledge for general applications of the BUD Fund, the processing time of an ""Easy BUD"" application has also been significantly reduced by half to within 30 working days.
+
+ As at end-September 2025, a total of 760 applications have been approved under ""Easy BUD"", with an average funding amount of around $72,000. We believe that maintaining the funding ceiling of $100,000 for each application can meet the needs of most enterprises. Besides, to ensure the prudent use of public money, we need to strike a cautious balance between the funding amount and the potential financial risks when determining the funding ceiling of each ""Easy BUD"" application. We consider the current arrangement appropriate.
+
+ In addition, to enable enterprises to receive funding support more expeditiously with a view to coping with the ever-changing economic environment, we have enhanced the arrangement of ""Easy BUD"" since March 2025 to allow each enterprise to submit application once every three months, instead of once every six months in the past. We have also expanded the funding scope to include the establishment of online sales platform.
+
+(2) The current geographical scope of the BUD Fund covers 40 economies with which Hong Kong has signed free trade agreements (FTAs) and/or investment promotion and protection agreements (IPPAs), accounting for around 80 per cent of the total value of Hong Kong's external merchandise trade in 2024. The Chief Executive announced in the 2025 Policy Address the further expansion of the geographical scope of the BUD Fund to cover eight more economies, including Belt and Road countries, i.e. expanding the geographical scope by 20 per cent, to assist SMEs in developing more diversified markets. Meanwhile, as the SME Export Marketing Fund will be consolidated into the BUD Fund in July 2026, we will enhance promotion and facilitate enterprises' participation in exhibitions and export marketing activities through ""Easy BUD"".
+
+ Hong Kong is exploring the signing of IPPAs with a number of economies, among which the IPPA negotiation with Qatar has been substantially concluded. Both sides will sign the agreement upon completion of respective internal procedures. The geographical scope of the BUD Fund will be further expanded when Hong Kong signs more FTAs or IPPAs in the future. Since March 2025, we have also expanded the geographical scope of ""E-commerce Easy"" to the 10 member states of the Association of Southeast Asian Nations.
+
+(3) Over the years, the BUD Fund has been actively supporting SMEs, with several rounds of enhancement measures rolled out. At the same time, demand from enterprises for the Government's funding support has surged significantly in recent years. The number of applications for the BUD Fund in 2024 increased by over 320 per cent as compared with that in 2019, and close to 90 per cent of the subsidies under the BUD Fund were approved in the past six years (2019 to 2024).
+
+ To ensure the financial sustainability of the BUD Fund, the Government introduced measures in March 2025, including the adjustment of the funding ratio of the BUD Fund to 1 (Government): 3 (enterprise), such that enterprises could choose appropriate and cost-effective projects more prudently and be more willing to put in resources. Given that the measure was recently launched in March 2025, we need more time to review its effectiveness, and hence do not have plans to adjust the funding ratio.
+
+ Supporting SMEs is one of the Government's important policies. Therefore, the Government will be injecting more than $3 billion into the BUD Fund in the current and the next financial year. This notwithstanding, we need to be mindful of the financial sustainability of the funding scheme with a view to enabling more enterprises to make use of the funding and maintaining an appropriate spread of beneficiaries. As such, the Government will prudently utilise public funds in a timely and focused manner to cope with the complex and ever-changing economic environment.
+
+ Apart from enhancing ""Easy BUD"" and ""E-commerce Easy"", we have been providing more targeted funding support to enterprises in implementing green transformation projects, and have specified that professional fees associated with the establishment of new business entities are fundable, so as to assist enterprises in restructuring their supply chains in the face of challenges brought about by the trade war.
+
+ We will continue to keep in close touch with the trade and will review the implementation of the BUD Fund from time to time to provide appropriate support to SMEs, while taking into account the financial capacity and sustainability of the BUD Fund."
 立法會十九題：提升九龍公園設施,2025-10-15 12:45,2025-10-15 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500316.htm,"以下是今日（十月十五日）在立法會會議上江玉歡議員的提問和文化體育及旅遊局局長羅淑佩的書面答覆︰
 
 有意見認為，九龍公園作為本港市區大型公園之一，擁有豐富歷史遺產，而且地理位置優越。然而，隨着時代變遷，園內部分設施日漸老化及使用率偏低，整體發展潛力尚未得到充分發揮。關於提升九龍公園設施，政府可否告知本會：
@@ -2131,84 +2211,6 @@ In addition, regarding the public-private partnership, subject to its commercial
 此外，在公私合營的管理方面，康文署會視乎公私合營模式的商業可行性和機會，並持開放態度，引入創新思維，積極考慮是否採用公私合營的建議，以提升設施的服務質量，務求為市民帶來更優質的康樂設施和更豐富的訪客體驗。
 
 （五）康文署將改建九龍公園內前威菲路軍營58座及加建新翼，成為一所旨在弘揚中華文化的中華文化體驗館。體驗館將設有多用途的戶外空間，同時糅合九龍公園的自然環境，既可用作舉辦與中華文化相關的活動，亦為市民和旅客提供一處集文化元素與自然景觀於一身的中華文化體驗空間。體驗館亦會善用科技提供多元化的互動體驗和實物學習活動，以吸引市民和旅客參與。"
-立法會二題：「BUD專項基金」,2025-10-15 12:45,2025-10-15 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500374.htm,"以下是今日（十月十五日）在立法會會議上陳祖恒議員的提問和商務及經濟發展局局長丘應樺的答覆：
-
-問題：
-
-二○二五年《施政報告》宣布向「發展品牌、升級轉型及拓展內銷市場的專項基金」（「BUD專項基金」）注資14.3億元，並擴大資助地域範圍。就此，政府可否告知本會：
-
-（一）鑑於有業界人士反映，「BUD專項基金」下的簡易申請計劃（「申請易」）極受業界歡迎，政府會否考慮將「申請易」的項目資助上限由10萬元調高至30萬元；如會，詳情為何；如否，原因為何；
-
-（二）政府會否考慮將「BUD專項基金」的適用範圍進一步擴大至所有境外市場，以與明年整合至該基金的「中小企業市場推廣基金」的適用範圍看齊，從而更好地支援業界開拓內銷、傳統及新興市場；如會，詳情為何；如否，原因為何；及
-
-（三）鑑於政府經營帳目有望於下一財政年度錄得盈餘，政府會否考慮將「BUD專項基金」的資助配對比率，調整為政府與企業以一對一比率分擔總核准開支，以協助業界升級轉型；如會，詳情為何；如否，原因為何？
-
-答覆：
-
-主席：
-
-「發展品牌、升級轉型及拓展內銷市場的專項基金」（「BUD專項基金」）是政府支援中小企業的其中一項措施，目的是支持本地企業升級轉型及拓展多元化市場。由二○一二年成立至二○二五年九月，「BUD專項基金」共批出近12000宗申請，涉及總資助額約75億元，惠及約7800家企業。政府自二○一八年起多次優化「BUD專項基金」，包括注資共77億元、擴闊資助地域範圍、分階段提高每家企業的累計資助上限由50萬元至700萬元，以及推出「申請易」和「電商易」等。
-
-就陳祖恒議員的提問的三個部分，現回覆如下：
-
-（一）「申請易」於二○二三年六月推出，旨在加快審批涉及特定措施而資助金額為10萬元或以下的申請，其申請表格、所須遞交的證明文件要求及審批安排均已簡化，而申請處理時間亦較「BUD專項基金」一般申請的服務承諾大幅減少一半至30個工作天內完成。
-
-截至二○二五年九月底，「申請易」共批出760宗申請，平均資助額約為7.2萬元。我們相信維持現時每宗10萬元的資助上限已可滿足大部分企業的需要。此外，我們亦需確保公帑用得其所，故釐定「申請易」每宗申請款額的上限時，需小心平衡資助款額和潛在財政風險。我們認為目前的安排是合適的。
-
-另外，為了讓企業更迅速地獲得資助，以應對多變的經濟環境，我們自二○二五年三月起已優化「申請易」的安排，讓每間企業由之前每六個月只可遞交一項申請，放寬至每三個月可遞交一項；同時亦增加了建立網上銷售平台為可獲資助的項目措施。
-
-（二）「BUD專項基金」現時的資助地域範圍涵蓋40個已與香港簽署自由貿易協定（自貿協定）及／或促進和保護投資協定（投資協定）的經濟體，佔二○二四年香港對外商品貿易總值約80%。行政長官於二○二五年《施政報告》宣布進一步擴大「BUD專項基金」的資助地域範圍，覆蓋多八個包括「一帶一路」國家在內的經濟體，亦即把基金適用的地域範圍增加20%，以協助中小企業拓展更多元化的市場。同時，鑑於「中小企業市場推廣基金」將於二○二六年七月整合至「BUD專項基金」，我們會加強宣傳和協助企業透過「BUD專項基金」——「申請易」參與展覽會和出口推廣活動。
-
-香港正與多個經濟體探討簽訂投資協定，其中與卡塔爾的投資協定談判已大致完成，雙方將在各自完成所需內部程序後簽署協定。隨着香港日後簽署更多自貿協定或投資協定，「BUD專項基金」資助適用的地域範圍將進一步擴闊。我們亦已自二○二五年三月起擴大「電商易」的資助地域範圍至東南亞國家聯盟10個國家。
-
-（三）多年來，「BUD專項基金」一直積極支援中小企業，期間亦推出了多輪優化措施。同時，企業對政府資助的需求近年大幅攀升，「BUD專項基金」二○二四年的申請宗數較二○一九年增加超過320%，而基金近九成的資助是於最近六年（二○一九年至二○二四年）批出。
-
-為確保「BUD專項基金」的財政可持續性，政府於二○二五年三月推出措施，當中包括調整基金的資助比例至1（政府）：3（企業），希望企業能更慎重選擇適當及具成本效益的項目，並更願意投放資源。有關措施剛於二○二五年三月推出，我們需時檢視成效，故未有計劃調整基金的資助比例。
-
-支援中小企業是政府其中一項重要政策，因此政府於今明兩個財政年度會向「BUD專項基金」注資共超過30億元，惟我們需確保資助計劃的財政可持續性，令更多企業能獲得支援及讓受惠面保持廣泛，故政府會以適時和聚焦的方式審慎運用公帑，以應對複雜多變的經濟環境。
-
-除優化「申請易」和「電商易」外，我們亦已更針對性資助企業推行綠色轉型項目和列明成立新業務單位的有關專業服務費用為可獲資助項目，協助企業重整供應鏈，以應對貿易戰帶來的挑戰。
-
-我們會繼續與業界密切溝通，不時檢視基金的運作情況，為中小企業作出合適支援，同時顧及基金負擔能力及其財政可持續性。"
-LCQ2: BUD Fund,2025-10-15 12:45,2025-10-15 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500372.htm," Following is a question by the Hon Sunny Tan and a reply by the Secretary for Commerce and Economic Development, Mr Algernon Yau, in the Legislative Council today (October 15):
-
-Question:
-
- The 2025 Policy Address announced an injection of $1.43 billion into the Dedicated Fund on Branding, Upgrading and Domestic Sales (BUD Fund) and an expansion of its geographical scope. In this connection, will the Government inform this Council:
-
-(1) as some members of the trade have relayed that the simplified application track under the BUD Fund (""Easy BUD"") is very popular among the trade, whether the Government will consider raising the funding ceiling for each ""Easy BUD"" project from $100,000 to $300,000; if so, of the details; if not, the reasons for that;
-
-(2) whether the Government will consider further expanding the application scope of the BUD Fund to cover all markets outside Hong Kong, so as to align with the application scope of the SME Export Marketing Fund which will be consolidated into the BUD Fund next year, thereby better supporting the trade in developing domestic sales, as well as traditional and emerging markets; if so, of the details; if not, the reasons for that; and
-
-(3) given that the Government's Operating Account is expected to record a surplus in the next financial year, whether the Government will consider adjusting the matching ratio of the BUD Fund to 1:1 of the total approved expenditure between the Government and the enterprises, so as to assist the trade in upgrading their operations; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
- The Dedicated Fund on Branding, Upgrading and Domestic Sales (BUD Fund) is one of the initiatives of the Government in supporting small and medium-sized enterprises (SMEs), aiming at assisting local enterprises in upgrading, transformation and development of diversified markets. From its inception in 2012 to September 2025, nearly 12 000 applications have been approved under the BUD Fund, involving a total funding amount of around $7.5 billion and benefitting around 7 800 enterprises. The Government has since 2018 launched several rounds of enhancements to the BUD Fund, including the injection of a total of $7.7 billion, the expansion of the geographical scope, the phased increase of the cumulative funding ceiling per enterprise from $0.5 million to $7 million, and the launch of ""Easy BUD"" and ""E-commerce Easy"", etc.
-
- The reply to the three parts of the question by the Hon Sunny Tan is as follows:
-
-(1) ""Easy BUD"" was launched in June 2023 to expedite the processing of applications involving designated measures with a funding amount of $100,000 or below. The application form, requirements for supporting documents and vetting arrangements of ""Easy BUD"" have been streamlined. As compared with the performance pledge for general applications of the BUD Fund, the processing time of an ""Easy BUD"" application has also been significantly reduced by half to within 30 working days.
-
- As at end-September 2025, a total of 760 applications have been approved under ""Easy BUD"", with an average funding amount of around $72,000. We believe that maintaining the funding ceiling of $100,000 for each application can meet the needs of most enterprises. Besides, to ensure the prudent use of public money, we need to strike a cautious balance between the funding amount and the potential financial risks when determining the funding ceiling of each ""Easy BUD"" application. We consider the current arrangement appropriate.
-
- In addition, to enable enterprises to receive funding support more expeditiously with a view to coping with the ever-changing economic environment, we have enhanced the arrangement of ""Easy BUD"" since March 2025 to allow each enterprise to submit application once every three months, instead of once every six months in the past. We have also expanded the funding scope to include the establishment of online sales platform.
-
-(2) The current geographical scope of the BUD Fund covers 40 economies with which Hong Kong has signed free trade agreements (FTAs) and/or investment promotion and protection agreements (IPPAs), accounting for around 80 per cent of the total value of Hong Kong's external merchandise trade in 2024. The Chief Executive announced in the 2025 Policy Address the further expansion of the geographical scope of the BUD Fund to cover eight more economies, including Belt and Road countries, i.e. expanding the geographical scope by 20 per cent, to assist SMEs in developing more diversified markets. Meanwhile, as the SME Export Marketing Fund will be consolidated into the BUD Fund in July 2026, we will enhance promotion and facilitate enterprises' participation in exhibitions and export marketing activities through ""Easy BUD"".
-
- Hong Kong is exploring the signing of IPPAs with a number of economies, among which the IPPA negotiation with Qatar has been substantially concluded. Both sides will sign the agreement upon completion of respective internal procedures. The geographical scope of the BUD Fund will be further expanded when Hong Kong signs more FTAs or IPPAs in the future. Since March 2025, we have also expanded the geographical scope of ""E-commerce Easy"" to the 10 member states of the Association of Southeast Asian Nations.
-
-(3) Over the years, the BUD Fund has been actively supporting SMEs, with several rounds of enhancement measures rolled out. At the same time, demand from enterprises for the Government's funding support has surged significantly in recent years. The number of applications for the BUD Fund in 2024 increased by over 320 per cent as compared with that in 2019, and close to 90 per cent of the subsidies under the BUD Fund were approved in the past six years (2019 to 2024).
-
- To ensure the financial sustainability of the BUD Fund, the Government introduced measures in March 2025, including the adjustment of the funding ratio of the BUD Fund to 1 (Government): 3 (enterprise), such that enterprises could choose appropriate and cost-effective projects more prudently and be more willing to put in resources. Given that the measure was recently launched in March 2025, we need more time to review its effectiveness, and hence do not have plans to adjust the funding ratio.
-
- Supporting SMEs is one of the Government's important policies. Therefore, the Government will be injecting more than $3 billion into the BUD Fund in the current and the next financial year. This notwithstanding, we need to be mindful of the financial sustainability of the funding scheme with a view to enabling more enterprises to make use of the funding and maintaining an appropriate spread of beneficiaries. As such, the Government will prudently utilise public funds in a timely and focused manner to cope with the complex and ever-changing economic environment.
-
- Apart from enhancing ""Easy BUD"" and ""E-commerce Easy"", we have been providing more targeted funding support to enterprises in implementing green transformation projects, and have specified that professional fees associated with the establishment of new business entities are fundable, so as to assist enterprises in restructuring their supply chains in the face of challenges brought about by the trade war.
-
- We will continue to keep in close touch with the trade and will review the implementation of the BUD Fund from time to time to provide appropriate support to SMEs, while taking into account the financial capacity and sustainability of the BUD Fund."
 立法會十二題：尖沙咀東的公眾登岸梯台,2025-10-15 12:33,2025-10-15 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500310.htm,"以下是今日（十月十五日）在立法會會議上易志明議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
 問題：
@@ -2725,6 +2727,56 @@ Dr Cheung will speak at the opening ceremony of the Hainan Legal Week themed ""L
 
 âDr Cheung will return to Hong Kong on October 17.
 "
+立法會八題：​南港島線（西段）項目,2025-10-15 11:30,2025-10-15 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500188.htm,"以下是今日（十月十五日）在立法會會議上邱達根議員的提問和運輸及物流局局長陳美寶的書面答覆：
+
+問題：
+
+政府於去年十二月公布將會採用智慧綠色集體運輸系統推展南港島線（西段），替代原有重型鐵路方案，並計劃在今年內開展詳細規劃及設計，目標爭取在二○二七年開展前期建造工程。就此，政府可否告知本會：
+
+（一）南港島線（西段）項目的規劃及設計工作的最新進展為何，以及何時公布整項工程的具體詳情，包括預計的動工及竣工日期，以及涉及的人手及開支等；
+
+（二）就在南港島線（西段）引入中國內地或海外採用的智慧綠色集體運輸系統、先進技術和管理模式，政府曾經進行哪些相關的可行性研究，以及該等研究的結果為何；政府是否已基於研究結果得出初步的傾向性取態和決定；及
+
+（三）鑑於根據政府資料，南港島線（西段）將途經數碼港及香港大學等創科發展的核心區域和院校，為促進本港創科的可持續發展，政府有否全面檢視該項目的施工計劃及時間表，以令其可盡快上馬和落成通車；若有，詳情為何（包括整個項目如何分階段進行、有哪些工序可精簡和壓縮、相關工程造價、預計最早通車時間，以及其他可令工程提速、提效的具體措施）？
+
+答覆：
+
+主席：
+
+南港島線（西段）初步走線全長約7.5公里，途經香港仔、華富、數碼港、瑪麗醫院及薄扶林一帶，為香港島的西部及南部地區提供便捷的接駁交通服務，便利市民前往港鐵南港島線黃竹坑站和港島線香港大學站。就提問各部分，經諮詢路政署，現回覆如下：
+
+（一）我們一直積極推展南港島線（西段）的規劃工作，並於去年十二月及今年一月先後向立法會鐵路事宜小組委員會及南區區議會匯報項目的最新進展。我們正繼續評估項目的財務安排，包括進一步優化走線以及提高成本效益，以期今年內開展項目詳細規劃及設計，並爭取於二○二七年開展前期建造工程。我們的目標是在今年內公布項目的最新推展時間表。
+
+當詳細規劃及設計階段開展後，我們會就項目進行法定環境影響評估，以及評估項目在建造期間及建成後對其他道路使用者的交通影響。我們亦會與不同持份者溝通，聽取意見，並敲定建議方案的細節（包括系統設計、造價、財務安排、管理模式等）。
+
+（二）根據政府就不同智慧綠色集體運輸系統項目進行的研究和系統供應商及營運商提供的資訊，智慧綠色集體運輸系統為中低運量系統。相比重型鐵路系統，智慧綠色集體運輸系統體積較小，主要採用膠轆行駛，特點是輕巧、爬坡能力強，所引致的噪音及景觀影響會相對較少，加上系統一般不需要架空電纜等設施，機電支援系統及維修保養工程相對簡單。這類系統適合在上坡、已發展及空間有限的地區行駛，普遍能夠避免深入地底，減少乘客往返地面的時間，預期能夠提高運輸效益。南港島線（西段）項目採用的智慧綠色集體運輸系統將會在詳細規劃及設計階段，經參考各種先進系統技術和營運模式後敲定。
+
+（三）我們一直與其他政府部門和機構緊密協調，務求南港島線（西段）項目能夠妥善銜接香港大學、數碼港及沿線其他設施，並盡量配合相關發展。正如回覆第一部分所述，項目建議方案的細節會在詳細規劃及設計階段敲定。我們會積極考慮採取各種創新技術，如組裝合成法，盡量壓縮推展時間，以盡快落成通車。我們亦會繼續審視並研究其他提速提效的方法，包括加快審批流程等，力爭早日完工。"
+LCQ8: South Island Line (West) project,2025-10-15 11:30,2025-10-15 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500189.htm,"Following is a question by the Hon Duncan Chiuand a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (October 15):
+
+Question:
+
+The Government announced in December last year that it would adopt Smart and Green Mass Transit System (SGMTS) to take forward the South Island Line (West) (SIL(W)) as an alternative to the original heavy rail scheme. Detailed planning and design are scheduled to begin within this year, with the aim of striving to start the preliminary construction work in 2027. In ‍this connection, will the Government inform this Council:
+
+(1) of the latest progress of the planning and design work for the SIL(W) project, and the expected announcement date for the specific details of the entire project, including the estimated start and completion dates, as well as manpower and expenditure involved;
+
+(2) regarding the introduction of SGMTS, advanced technologies and management models adopted in the Chinese Mainland or overseas for the SIL(W) project, of the relevant feasibility studies that have been conducted by the Government and the findings of these studies; whether the Government has reached preliminary inclination or decision based on the study findings; and
+
+(3) given that, according to Government information, SIL(W) will pass through core innovation and technology development areas and institutions, such as Cyberport and the University of Hong Kong, whether the Government has holistically reviewed the project's construction plan and timetable to facilitate its early commencement and completion, with a view to promoting the sustainable development of innovation and technology in Hong Kong; if so, of the details (including how the entire project will be carried out in phases, which work procedures can be streamlined and compressed, the relevant construction costs, the earliest expected commissioning date, and other specific measures to enhance speed and efficiency of the project)?
+
+Reply:
+
+President,
+
+The preliminary alignment of the South Island Line (West) (SIL(W)) is about 7.5-kilometre long, passing through areas around Aberdeen, Wah Fu, Cyberport, Queen Mary Hospital and Pok Fu Lam. It will provide a convenient feeder services connecting the western and southern parts of Hong Kong Island and facilitate the public to go to the MTR Wong Chuk Hang Station of the South Island Line and HKU Station of the Island Line. Having consulted the Highways Department, the reply to the respective parts of the question is as follows:
+
+(1) We have been actively taking forward the planning work of the SIL(W) and updated the Legislative Council Subcommittee on Matters Relating to Railways and the Southern District Council on the latest development of the project in December last year and January this year respectively. We are continuing to evaluate the project's financial arrangements, including further optimising the alignment and improving cost-effectiveness, with a view to commencing the detailed planning and design of the project within this year and striving to commence the advance construction works in 2027. We target to announce the latest implementation programme of the project this year.
+
+Once the detailed planning and design stage has commenced, we will conduct the statutory environmental impact assessment for the project and assess its traffic impact on other road users during and after construction. We will also engage various stakeholders, gather their feedback, and finalise the details of the proposed scheme (including the design of the system, cost, financial arrangements and management mode).
+
+(2) With reference to the studies by the Government on different Smart and Green Mass Transit System (SGMTS) projects and the information obtained from the system suppliers and operators, SGMTS is a medium-to-low capacity system. Compared to the heavy rail system, SGMTS is smaller in size and mainly runs on rubber tyres. Characterised by its lightweight and strong climbing capability, it would induce less noise and visual impacts. Furthermore, the system generally does not require the installation of overhead lines, and its electrical and mechanical support systems and maintenance works are relatively simpler. This type of system is suitable for operating in hilly, developed and congested areas. It can generally avoid running deep underground and reduce the time of passengers traveling to and from the ground level, and is expected to enhance the transport benefits. The SGMTS to be adopted in the SIL(W) project will be determined in the detailed planning and design stage, upon taking into account advanced technologies and operating modes of different systems.
+
+(3) We have been co-ordinating closely with other government departments and organisations for smooth interfaces of the SIL(W) project with the University of Hong Kong, Cyberport and other facilities along the alignment and for facilitating related developments as much as possible. As mentioned in Part (1) of the reply, the details of the proposed scheme of the project will be finalised during the detailed planning and design stage. We will actively consider adopting different innovative technologies, such as the use of Modular Integrated Construction (MiC), to compress the implementation programme as much as possible for the commissioning of the project at the earliest. We will also continue to explore and review other methods to enhance the speed as well as efficiency, including expediting the approval process, to strive for early completion of the project."
 立法會七題：遠足人士的安全,2025-10-15 11:30,2025-10-15 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500236.htm,"以下是今日（十月十五日）在立法會會議上蘇長荣議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -2775,31 +2827,6 @@ Dr Cheung will speak at the opening ceremony of the Hainan Legal Week themed ""L
 （二）及（三）遠足意外的成因及性質複雜多樣，除地勢和環境因素外，亦包括天氣變化、迷路和其他個人原因等。就攀山拯救事故的數字，政府沒有備存有關獨自與結伴遠足的比例，以及兩者在搜索及拯救時間上差異的分項數字。然而，獨自遠足相比結伴遠足是會增加安全風險，以及發生意外時救援的困難。政府一直從不同途徑呼籲遠足人士切勿獨自遠足，並應結伴同行，包括在漁農自然護理署「郊野樂行」專頁（www.hiking.gov.hk）發放相關訊息、制作網上短片、在社交媒體不時發文提示等，亦於遠足旺季，聯同其他相關政府部門加強相關宣傳教育。
 
 此外，我們持續鼓勵遠足人士下載與緊急救援相關的手機應用程式（如「郊野樂行遠足留蹤」流動應用程式、HKSOS等），提升遠足人士的安全意識和在意外發生後的搜救效率。「郊野樂行」專頁亦提供不同遠足路徑的綜合資訊，包括路徑的長短、難度、配套等，讓遊人因應自身情況妥善規劃適合自身的行程；以及根據過去發生嚴重或致命意外的地點、相關個案的意外成因、現場地勢等因素，列出郊野公園曾發生致命及嚴重意外的高危地點，提醒遠足人士避免前往，並會定期檢視及按需要更新高危地點的名單。"
-LCQ8: South Island Line (West) project,2025-10-15 11:30,2025-10-15 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500189.htm,"Following is a question by the Hon Duncan Chiuand a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (October 15):
-
-Question:
-
-The Government announced in December last year that it would adopt Smart and Green Mass Transit System (SGMTS) to take forward the South Island Line (West) (SIL(W)) as an alternative to the original heavy rail scheme. Detailed planning and design are scheduled to begin within this year, with the aim of striving to start the preliminary construction work in 2027. In ‍this connection, will the Government inform this Council:
-
-(1) of the latest progress of the planning and design work for the SIL(W) project, and the expected announcement date for the specific details of the entire project, including the estimated start and completion dates, as well as manpower and expenditure involved;
-
-(2) regarding the introduction of SGMTS, advanced technologies and management models adopted in the Chinese Mainland or overseas for the SIL(W) project, of the relevant feasibility studies that have been conducted by the Government and the findings of these studies; whether the Government has reached preliminary inclination or decision based on the study findings; and
-
-(3) given that, according to Government information, SIL(W) will pass through core innovation and technology development areas and institutions, such as Cyberport and the University of Hong Kong, whether the Government has holistically reviewed the project's construction plan and timetable to facilitate its early commencement and completion, with a view to promoting the sustainable development of innovation and technology in Hong Kong; if so, of the details (including how the entire project will be carried out in phases, which work procedures can be streamlined and compressed, the relevant construction costs, the earliest expected commissioning date, and other specific measures to enhance speed and efficiency of the project)?
-
-Reply:
-
-President,
-
-The preliminary alignment of the South Island Line (West) (SIL(W)) is about 7.5-kilometre long, passing through areas around Aberdeen, Wah Fu, Cyberport, Queen Mary Hospital and Pok Fu Lam. It will provide a convenient feeder services connecting the western and southern parts of Hong Kong Island and facilitate the public to go to the MTR Wong Chuk Hang Station of the South Island Line and HKU Station of the Island Line. Having consulted the Highways Department, the reply to the respective parts of the question is as follows:
-
-(1) We have been actively taking forward the planning work of the SIL(W) and updated the Legislative Council Subcommittee on Matters Relating to Railways and the Southern District Council on the latest development of the project in December last year and January this year respectively. We are continuing to evaluate the project's financial arrangements, including further optimising the alignment and improving cost-effectiveness, with a view to commencing the detailed planning and design of the project within this year and striving to commence the advance construction works in 2027. We target to announce the latest implementation programme of the project this year.
-
-Once the detailed planning and design stage has commenced, we will conduct the statutory environmental impact assessment for the project and assess its traffic impact on other road users during and after construction. We will also engage various stakeholders, gather their feedback, and finalise the details of the proposed scheme (including the design of the system, cost, financial arrangements and management mode).
-
-(2) With reference to the studies by the Government on different Smart and Green Mass Transit System (SGMTS) projects and the information obtained from the system suppliers and operators, SGMTS is a medium-to-low capacity system. Compared to the heavy rail system, SGMTS is smaller in size and mainly runs on rubber tyres. Characterised by its lightweight and strong climbing capability, it would induce less noise and visual impacts. Furthermore, the system generally does not require the installation of overhead lines, and its electrical and mechanical support systems and maintenance works are relatively simpler. This type of system is suitable for operating in hilly, developed and congested areas. It can generally avoid running deep underground and reduce the time of passengers traveling to and from the ground level, and is expected to enhance the transport benefits. The SGMTS to be adopted in the SIL(W) project will be determined in the detailed planning and design stage, upon taking into account advanced technologies and operating modes of different systems.
-
-(3) We have been co-ordinating closely with other government departments and organisations for smooth interfaces of the SIL(W) project with the University of Hong Kong, Cyberport and other facilities along the alignment and for facilitating related developments as much as possible. As mentioned in Part (1) of the reply, the details of the proposed scheme of the project will be finalised during the detailed planning and design stage. We will actively consider adopting different innovative technologies, such as the use of Modular Integrated Construction (MiC), to compress the implementation programme as much as possible for the commissioning of the project at the earliest. We will also continue to explore and review other methods to enhance the speed as well as efficiency, including expediting the approval process, to strive for early completion of the project."
 LCQ7: Safety of hikers,2025-10-15 11:30,2025-10-15 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500243.htm," Following is a question by Dr the Hon So Cheung-wing and a written reply by the Secretary for Environment and Ecology, Mr Tse Chin-wan, in the Legislative Council today (October 15):
 
 Question:
@@ -2850,31 +2877,6 @@ Number of Injuries (Fatalities)
 (2) and (3) The causes and nature of hiking accidents are complex and varied, apart from factors of terrain and environment, they also include changes in weather, hikers getting lost, and other personal reasons of hikers. Regarding the number of mountain rescue cases, the Government does not have the breakdown of the cases by the proportion of hiking alone versus hiking with others, nor the figure of the difference in the time used for search and rescue operations between those two kinds of hikers. However, hiking alone will have higher safety risks than hiking with others, and poses greater difficulty on search and rescue when accidents occur. The Government has been urging the public to hike with others instead of hiking alone through various channels, including disseminating relevant information through the ""Enjoy Hiking"" website (www.hiking.gov.hk) of the Agriculture, Fisheries and Conservation Department, producing online videos, and regular publishing reminder posts on social media platform, etc. The AFCD also collaborates with other relevant departments to enhance relevant promotion and education during hiking season.
 
  Moreover, we continuously encourage hikers to download mobile applications relevant to emergency rescue (such as ""Enjoy Hiking Hiker Tracking Service"" mobile application, HKSOS, etc.), to raise the hikers' awareness of hiking safety, and enhance efficiency of rescue operations when accidents occur. The ""Enjoy Hiking"" website provides comprehensive information on various hiking trails, including trail length, overall difficulty, nearby facilities, for hikers to plan hiking trips that are suitable for themselves according their personal conditions. The website also lists out high risk locations with records of fatal and serious accidents in country parks, which are formulated based on previous records of serious and fatal accidents, causes of such accidents, as well as site conditions, with a view to reminding hikers to avoid visiting those areas. The list will be regularly reviewed and updated as appropriate."
-立法會八題：​南港島線（西段）項目,2025-10-15 11:30,2025-10-15 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500188.htm,"以下是今日（十月十五日）在立法會會議上邱達根議員的提問和運輸及物流局局長陳美寶的書面答覆：
-
-問題：
-
-政府於去年十二月公布將會採用智慧綠色集體運輸系統推展南港島線（西段），替代原有重型鐵路方案，並計劃在今年內開展詳細規劃及設計，目標爭取在二○二七年開展前期建造工程。就此，政府可否告知本會：
-
-（一）南港島線（西段）項目的規劃及設計工作的最新進展為何，以及何時公布整項工程的具體詳情，包括預計的動工及竣工日期，以及涉及的人手及開支等；
-
-（二）就在南港島線（西段）引入中國內地或海外採用的智慧綠色集體運輸系統、先進技術和管理模式，政府曾經進行哪些相關的可行性研究，以及該等研究的結果為何；政府是否已基於研究結果得出初步的傾向性取態和決定；及
-
-（三）鑑於根據政府資料，南港島線（西段）將途經數碼港及香港大學等創科發展的核心區域和院校，為促進本港創科的可持續發展，政府有否全面檢視該項目的施工計劃及時間表，以令其可盡快上馬和落成通車；若有，詳情為何（包括整個項目如何分階段進行、有哪些工序可精簡和壓縮、相關工程造價、預計最早通車時間，以及其他可令工程提速、提效的具體措施）？
-
-答覆：
-
-主席：
-
-南港島線（西段）初步走線全長約7.5公里，途經香港仔、華富、數碼港、瑪麗醫院及薄扶林一帶，為香港島的西部及南部地區提供便捷的接駁交通服務，便利市民前往港鐵南港島線黃竹坑站和港島線香港大學站。就提問各部分，經諮詢路政署，現回覆如下：
-
-（一）我們一直積極推展南港島線（西段）的規劃工作，並於去年十二月及今年一月先後向立法會鐵路事宜小組委員會及南區區議會匯報項目的最新進展。我們正繼續評估項目的財務安排，包括進一步優化走線以及提高成本效益，以期今年內開展項目詳細規劃及設計，並爭取於二○二七年開展前期建造工程。我們的目標是在今年內公布項目的最新推展時間表。
-
-當詳細規劃及設計階段開展後，我們會就項目進行法定環境影響評估，以及評估項目在建造期間及建成後對其他道路使用者的交通影響。我們亦會與不同持份者溝通，聽取意見，並敲定建議方案的細節（包括系統設計、造價、財務安排、管理模式等）。
-
-（二）根據政府就不同智慧綠色集體運輸系統項目進行的研究和系統供應商及營運商提供的資訊，智慧綠色集體運輸系統為中低運量系統。相比重型鐵路系統，智慧綠色集體運輸系統體積較小，主要採用膠轆行駛，特點是輕巧、爬坡能力強，所引致的噪音及景觀影響會相對較少，加上系統一般不需要架空電纜等設施，機電支援系統及維修保養工程相對簡單。這類系統適合在上坡、已發展及空間有限的地區行駛，普遍能夠避免深入地底，減少乘客往返地面的時間，預期能夠提高運輸效益。南港島線（西段）項目採用的智慧綠色集體運輸系統將會在詳細規劃及設計階段，經參考各種先進系統技術和營運模式後敲定。
-
-（三）我們一直與其他政府部門和機構緊密協調，務求南港島線（西段）項目能夠妥善銜接香港大學、數碼港及沿線其他設施，並盡量配合相關發展。正如回覆第一部分所述，項目建議方案的細節會在詳細規劃及設計階段敲定。我們會積極考慮採取各種創新技術，如組裝合成法，盡量壓縮推展時間，以盡快落成通車。我們亦會繼續審視並研究其他提速提效的方法，包括加快審批流程等，力爭早日完工。"
 立法會十八題：保護兒童的相關法例,2025-10-15 11:05,2025-10-15 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/15/P2025101500213.htm,"以下是今日（十月十五日）在立法會會議上陳家珮議員的提問和勞工及福利局局長孫玉菡的書面答覆：
 
 問題：
@@ -3190,49 +3192,6 @@ D. Suspension of parking spaces
 記者：見到這樣好的球迷，有甚麼說話想對球迷和球員說？
 
 文化體育及旅遊局局長：多謝球迷，還有請他們介紹我吃甚麼喉糖可以不聲沙的，多謝各位。"
-​第十五屆全國運動會自行車（公路）賽（男子個人賽）安排（附圖／短片）,2025-10-14 22:30,2025-10-14 23:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400867.htm,"第十五屆全國運動會（十五運會）自行車（公路）賽（男子個人賽）將於十一月八日舉行。全國運動會香港賽區統籌辦公室（全運會統籌辦）主任楊德強今日（十月十四日）聯同相關政府部門和中國香港單車總會代表舉行記者會，介紹賽事內容，以及臨時交通管制措施、口岸通關、應急救援及其他賽事相關安排。
-
-今年的自行車（公路）賽（男子個人賽）是十五運會唯一橫跨粵港澳三個賽區的賽事，三地在去年十一月曾舉行測試賽，九月三十日亦進行了賽前綜合演練，過程大致順利。正式賽事賽道全程231.8公里，其中香港賽段為55.8公里，途經港珠澳大橋，然後前往香港口岸人工島、北大嶼山公路和竹篙灣公路，進入香港迪士尼樂園度假區後折返，再經港珠澳大橋前往橫琴，然後返回珠海。
-
-賽事在十一月八日上午九時開始，預計下午二時三十分結束，屆時將有來自內地及港澳25支隊伍共104名運動員競逐獎項。預計車隊在上午約十時二十分進入香港段，並在香港段作賽約一個半小時。
-
-為方便公眾觀賞賽事，香港迪士尼樂園度假區以外的幻想道行人路將設公眾觀賞區，可容納約數百名觀眾，市民可到場觀賽和為運動員打氣。警方會視乎現場情況，適時實施人流管制措施，請市民聽從現場警方及工作人員指示。由於北大嶼山公路的賽道路段將實施臨時交通管制措施，市民應盡量乘搭港鐵到迪士尼站再步行前往指定觀賞區。廣東賽區已委託主廣播機構中央電視台直播相關賽事，所有持權媒體，包括香港三間免費電視台和香港電台，均可取得直播訊號。
-
-為配合賽事進行，當日港珠澳大橋香港口岸、大橋以及部分道路需要實施臨時管控措施，有關安排詳列如下：
-
-（一）通關安排
-
-賽事當日，港珠澳大橋東行由珠海／澳門往香港方向，由上午九時至下午十二時三十分實施臨時管控；而港珠澳大橋西行由香港往珠海／澳門方向，則由上午七時三十分至下午十二時三十分實施臨時管控。臨時管控期間，所有車輛禁止使用大橋，離境的通關服務將有特別安排。若有旅客或車輛計劃於臨時管控措施實施前離港前往珠海或澳門，他們必須於當日早上六時三十分前抵達港珠澳大橋香港口岸旅檢大樓出境大堂或出境車輛通關廣場，以辦理離境及通關手續。香港口岸旅檢大樓出境大堂及出境車輛通關廣場將於上午六時三十分關閉。
-
-港珠澳大橋香港口岸的離境通關服務預計於當日下午十二時三十分後恢復正常運作，屆時預計交通將會較為繁忙，計劃於當日使用大橋的旅客及司機請預早規劃行程，並留意珠海市內交通管制的安排。
-
-（二）公共交通運輸安排
-
-當日港珠澳大橋主橋及香港口岸實施臨時管控期間，經港珠澳大橋來往香港與珠海及澳門的跨境公共運輸服務，包括港珠澳大橋穿梭巴士（金巴）、跨境直通巴士及香港國際機場海天中轉大樓的客車服務將會暫停。由於珠海市內的道路因比賽仍然封閉直至下午約二時三十分，香港往珠海的金巴介乎下午十二時三十分至一時三十分將提供有限度服務，而珠海往香港的金巴將於下午二時三十分恢復服務。另外，來往香港與澳門之間的金巴將於下午十二時三十分恢復服務。
-
-此外，在實施臨時管控期間，來往港珠澳大橋香港口岸的本地公共運輸服務，包括機場巴士「A」線、接駁巴士路線「B」線及接駁迪士尼樂園的「R」線，將會實施臨時服務調整，當中由機場開出的「A」線由上午十時至下午一時期間暫停途經香港口岸。而由市區及新界前往機場的「A」線會由首班車至上午十一時三十分暫停途經香港口岸。接駁巴士來往港珠澳大橋香港口岸與機場／欣澳站的第B4及B5號線則會於部分時間暫停服務，而接駁迪士尼樂園與青嶼幹線轉車站及屯門站的第R8及R33號線亦會於部分時間暫停服務。另外，為確保賽事順利進行，順朗路（來回方向）將會封閉，詳見下文（三），受影響的巴士路線需臨時改道。巴士公司會張貼通告通知受影響乘客有關服務調整的詳情。
-
-運輸署將通知受影響的跨境及本地公共運輸服務營辦商，海事處亦會聯絡跨境渡輪營運商，以制訂人手及班次安排。在實施臨時管控期間，旅客可使用香港與深圳之間的陸路口岸來往香港與珠海，亦可考慮乘搭跨境渡輪服務來往香港與澳門。
-
-當天上午六時至中午十二時的「港車北上」預約申請將會暫停。視乎當日實際交通管控安排，預約當天下午時段「港車北上」的駕駛人士於臨時管控結束後（預計於下午約十二時三十分後）方可進入香港口岸出境車輛通關廣場。
-
-香港國際機場海天中轉大樓的客車服務方面，當日來往香港國際機場、珠海口岸和澳門口岸的客車服務會在港珠澳大橋香港口岸實施臨時管控期間暫停。香港機場管理局將與各服務營辦商保持緊密聯繫，並根據最新情況檢視及調整安排。
-
-另外，十五運會自行車（公路）賽（女子個人賽）將於十一月九日舉行，雖然比賽路線主要涉及珠海市內，不影響港珠澳大橋及口岸通關服務，但由於賽事關係，珠海市內部分道路將會封閉，在當日上午七時三十分至十一時三十分期間，金巴往珠海只能夠提供有限度服務，建議市民避免在上述時段乘坐金巴前往珠海。此外，香港與珠海九洲港十一月八日和九日部分渡輪航班亦會暫停。
-
-（三）道路管制安排
-
-位於北大嶼山公路及香港迪士尼樂園度假區及附近道路的賽道路段，將於香港段比賽期間實施滾動式臨時交通管制措施（確實時間將視乎賽事的實際進程）。
-
-位於北大嶼山公路的賽道路段當日將實施滾動式臨時交通管制措施，屆時，經北大嶼山公路來往機場的行車時間預計需要增加約30分鐘。計劃往返機場的市民和旅客應預早計劃行程，預留充裕交通時間，盡量使用鐵路服務，包括機場快綫、東涌綫及迪士尼綫，避免駕駛車輛前往有關路段。如出行人士需駕車前往機場，應考慮使用屯門─赤鱲角隧道進出機場。
-
-位於香港迪士尼樂園度假區附近道路的賽道路段，將於賽事進行期間實施臨時交通管制措施。屆時，經竹篙灣公路、欣澳道、神奇道及幻想道來往樂園、酒店及迪欣湖活動中心的行車時間，或因交通管制措施而增加約30分鐘。計劃前往香港迪士尼樂園度假區一帶的市民，應考慮盡量使用鐵路服務。
-
-此外，由於此路段連接北大嶼山公路，因此需要來往香港迪士尼樂園度假區及香港國際機場的市民及旅客，亦有機會受北大嶼山公路的臨時交通管制措施影響，增加所需行車時間。
-
-順朗路（來回方向）將於當日上午六時三十分開始封閉，並預計約下午二時還原有關路段後重開。在上述封路期間，運輸署將實施交通改道，原本行駛順朗路（來回方向）的車輛需要改經赤鱲角島，行車時間預計需要增加約10分鐘。巴士公司將張貼通告，通知乘客有關服務調整的詳情。
-
-全運會統籌辦發言人表示，全國運動會是國家最高水平賽事，本次賽事在選擇賽道和組織安排上，需符合嚴格要求，以保障運動員安全。相關部門會合力做好特別交通運輸安排，以減低對平常使用港珠澳大橋和其他相關路段的市民和旅客的影響。發言人呼籲當日需要往返珠海和澳門的市民及旅客，及早計劃行程，並盡量使用其他口岸和公共交通。發言人感謝市民及旅客的體諒，以及有關機構及各部門齊心協力落實相關安排。"
 Arrangements for 15th NG road cycling (men's individual) event (with photo/video),2025-10-14 22:30,2025-10-14 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400870.htm,"  The 15th National Games (NG) road cycling (men's individual) event will be held on November 8. A press conference hosted by the Head of the National Games Coordination Office (Hong Kong) (NGCO), Mr Yeung Tak-keung,was held jointly with representatives of relevant government departments and the Cycling Association of Hong Kong, China today (October 14) to announce details of the event and the relevant arrangements, including temporary traffic control measures, clearance arrangements at the boundary control point (BCP), and emergency response and rescue arrangements.
 
  The road cycling (men's individual) event this year is the only event that spans over Guangdong, Hong Kong and Macao in the 15th NG, and a tripartitetest event was held last November. In addition, a pre-event comprehensive drill was conducted on September 30 and the process was generally smooth. The official race covers a total distance of 231.8 kilometres, comprising a 55.8km section in Hong Kong. The race will enter Hong Kong from the Hong Kong-Zhuhai-Macao Bridge (HZMB) and go through the Hong Kong Port, North Lantau Highway and Penny's Bay Highway. The athletes will return after passing by Hong Kong Disneyland Resort and head back to Zhuhai via the HZMB and Hengqin.
@@ -3276,13 +3235,49 @@ Arrangements for 15th NG road cycling (men's individual) event (with photo/video
 Shun Long Road (both bounds) will be closed starting from 6.30am and expected to reopen at about 2pm on that day after the related road section returns to normal. During the above road closure period, the TD will implement traffic diversion such that the original traffic of Shun Long Road (both bounds) will be diverted via Chek Lap Kok Island. The journey time is expected to increase by about 10 minutes. The bus companies will issue notices to inform passengers of the details of service adjustment.
 
  A spokesperson for the NGCO said as the NG is the country's highest-level event, this event has to meet stringent requirements in terms of the selection of race course and the organisational arrangements to ensure the safety of athletes. Relevant departments will work together to facilitate the special traffic and transportation arrangements to minimise the impact on the public and travellers who usually use the HZMB and other related road sections. Members of the public and travellers who need to travel to and from Zhuhai or Macao are urged to plan their itinerariesin advance, and use other control points and public transport as far as possible.The spokesperson thanked members of the public and travellers for their understanding, as well as the contributions of various organisations and departments to implementing the relevant arrangements."
-Hong Kong Customs holds inaugural ceremony of second term of Dealers in Precious Metals and Stones Sector Advisory Group (with photos),2025-10-14 21:39,2025-10-14 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400517.htm,"Hong Kong Customs today (October 14) held the inaugural ceremony of the second term of the Dealers in Precious Metals and Stones Sector Advisory Group at the Customs Headquarters Building. The Commissioner of Customs and Excise, Mr Chan Tsz-tat, officiated at the ceremony and presented appointment certificates to 17 non-official members from the precious metals and stone industry.
+​第十五屆全國運動會自行車（公路）賽（男子個人賽）安排（附圖／短片）,2025-10-14 22:30,2025-10-14 23:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400867.htm,"第十五屆全國運動會（十五運會）自行車（公路）賽（男子個人賽）將於十一月八日舉行。全國運動會香港賽區統籌辦公室（全運會統籌辦）主任楊德強今日（十月十四日）聯同相關政府部門和中國香港單車總會代表舉行記者會，介紹賽事內容，以及臨時交通管制措施、口岸通關、應急救援及其他賽事相關安排。
 
-The Advisory Group is a non-statutory body comprising official members from Customs and non-official members from the industry, with a view to providing both sides with a platform for exchanging views on the registration regime for precious metals and stone dealers. Customs can also keep better tabs on the industry to push ahead with anti-money laundering and counter-terrorist financing work.
+今年的自行車（公路）賽（男子個人賽）是十五運會唯一橫跨粵港澳三個賽區的賽事，三地在去年十一月曾舉行測試賽，九月三十日亦進行了賽前綜合演練，過程大致順利。正式賽事賽道全程231.8公里，其中香港賽段為55.8公里，途經港珠澳大橋，然後前往香港口岸人工島、北大嶼山公路和竹篙灣公路，進入香港迪士尼樂園度假區後折返，再經港珠澳大橋前往橫琴，然後返回珠海。
 
-Mr Chan expressed gratitude to members of the Advisory Group for their continuous support, saying that the regulatory regime for dealers in precious metals and stones has been widely accepted by the industry since its implementation, indicating a mutual commitment to compliance within the industry. Customs will continue to collaborate with the new-term Advisory Group in strengthening the compliance awareness of the industry, combating anti-money laundering and counter-terrorist financing, and propelling Hong Kong into an international gold trading market by establishing a transparent, robust and internationally aligned regulatory system, thereby strengthening Hong Kong's status as an international financial centre.
+賽事在十一月八日上午九時開始，預計下午二時三十分結束，屆時將有來自內地及港澳25支隊伍共104名運動員競逐獎項。預計車隊在上午約十時二十分進入香港段，並在香港段作賽約一個半小時。
 
-According to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615), unless exempted, any person who is seeking to carry on a business of dealing in precious metals and stones and engage in any transaction(s) (whether making or receiving a payment) with a total value at or above HK$120,000 in Hong Kong is required to register with Hong Kong Customs. For details on the registration regime, please visit the website (www.drs.customs.gov.hk)."
+為方便公眾觀賞賽事，香港迪士尼樂園度假區以外的幻想道行人路將設公眾觀賞區，可容納約數百名觀眾，市民可到場觀賽和為運動員打氣。警方會視乎現場情況，適時實施人流管制措施，請市民聽從現場警方及工作人員指示。由於北大嶼山公路的賽道路段將實施臨時交通管制措施，市民應盡量乘搭港鐵到迪士尼站再步行前往指定觀賞區。廣東賽區已委託主廣播機構中央電視台直播相關賽事，所有持權媒體，包括香港三間免費電視台和香港電台，均可取得直播訊號。
+
+為配合賽事進行，當日港珠澳大橋香港口岸、大橋以及部分道路需要實施臨時管控措施，有關安排詳列如下：
+
+（一）通關安排
+
+賽事當日，港珠澳大橋東行由珠海／澳門往香港方向，由上午九時至下午十二時三十分實施臨時管控；而港珠澳大橋西行由香港往珠海／澳門方向，則由上午七時三十分至下午十二時三十分實施臨時管控。臨時管控期間，所有車輛禁止使用大橋，離境的通關服務將有特別安排。若有旅客或車輛計劃於臨時管控措施實施前離港前往珠海或澳門，他們必須於當日早上六時三十分前抵達港珠澳大橋香港口岸旅檢大樓出境大堂或出境車輛通關廣場，以辦理離境及通關手續。香港口岸旅檢大樓出境大堂及出境車輛通關廣場將於上午六時三十分關閉。
+
+港珠澳大橋香港口岸的離境通關服務預計於當日下午十二時三十分後恢復正常運作，屆時預計交通將會較為繁忙，計劃於當日使用大橋的旅客及司機請預早規劃行程，並留意珠海市內交通管制的安排。
+
+（二）公共交通運輸安排
+
+當日港珠澳大橋主橋及香港口岸實施臨時管控期間，經港珠澳大橋來往香港與珠海及澳門的跨境公共運輸服務，包括港珠澳大橋穿梭巴士（金巴）、跨境直通巴士及香港國際機場海天中轉大樓的客車服務將會暫停。由於珠海市內的道路因比賽仍然封閉直至下午約二時三十分，香港往珠海的金巴介乎下午十二時三十分至一時三十分將提供有限度服務，而珠海往香港的金巴將於下午二時三十分恢復服務。另外，來往香港與澳門之間的金巴將於下午十二時三十分恢復服務。
+
+此外，在實施臨時管控期間，來往港珠澳大橋香港口岸的本地公共運輸服務，包括機場巴士「A」線、接駁巴士路線「B」線及接駁迪士尼樂園的「R」線，將會實施臨時服務調整，當中由機場開出的「A」線由上午十時至下午一時期間暫停途經香港口岸。而由市區及新界前往機場的「A」線會由首班車至上午十一時三十分暫停途經香港口岸。接駁巴士來往港珠澳大橋香港口岸與機場／欣澳站的第B4及B5號線則會於部分時間暫停服務，而接駁迪士尼樂園與青嶼幹線轉車站及屯門站的第R8及R33號線亦會於部分時間暫停服務。另外，為確保賽事順利進行，順朗路（來回方向）將會封閉，詳見下文（三），受影響的巴士路線需臨時改道。巴士公司會張貼通告通知受影響乘客有關服務調整的詳情。
+
+運輸署將通知受影響的跨境及本地公共運輸服務營辦商，海事處亦會聯絡跨境渡輪營運商，以制訂人手及班次安排。在實施臨時管控期間，旅客可使用香港與深圳之間的陸路口岸來往香港與珠海，亦可考慮乘搭跨境渡輪服務來往香港與澳門。
+
+當天上午六時至中午十二時的「港車北上」預約申請將會暫停。視乎當日實際交通管控安排，預約當天下午時段「港車北上」的駕駛人士於臨時管控結束後（預計於下午約十二時三十分後）方可進入香港口岸出境車輛通關廣場。
+
+香港國際機場海天中轉大樓的客車服務方面，當日來往香港國際機場、珠海口岸和澳門口岸的客車服務會在港珠澳大橋香港口岸實施臨時管控期間暫停。香港機場管理局將與各服務營辦商保持緊密聯繫，並根據最新情況檢視及調整安排。
+
+另外，十五運會自行車（公路）賽（女子個人賽）將於十一月九日舉行，雖然比賽路線主要涉及珠海市內，不影響港珠澳大橋及口岸通關服務，但由於賽事關係，珠海市內部分道路將會封閉，在當日上午七時三十分至十一時三十分期間，金巴往珠海只能夠提供有限度服務，建議市民避免在上述時段乘坐金巴前往珠海。此外，香港與珠海九洲港十一月八日和九日部分渡輪航班亦會暫停。
+
+（三）道路管制安排
+
+位於北大嶼山公路及香港迪士尼樂園度假區及附近道路的賽道路段，將於香港段比賽期間實施滾動式臨時交通管制措施（確實時間將視乎賽事的實際進程）。
+
+位於北大嶼山公路的賽道路段當日將實施滾動式臨時交通管制措施，屆時，經北大嶼山公路來往機場的行車時間預計需要增加約30分鐘。計劃往返機場的市民和旅客應預早計劃行程，預留充裕交通時間，盡量使用鐵路服務，包括機場快綫、東涌綫及迪士尼綫，避免駕駛車輛前往有關路段。如出行人士需駕車前往機場，應考慮使用屯門─赤鱲角隧道進出機場。
+
+位於香港迪士尼樂園度假區附近道路的賽道路段，將於賽事進行期間實施臨時交通管制措施。屆時，經竹篙灣公路、欣澳道、神奇道及幻想道來往樂園、酒店及迪欣湖活動中心的行車時間，或因交通管制措施而增加約30分鐘。計劃前往香港迪士尼樂園度假區一帶的市民，應考慮盡量使用鐵路服務。
+
+此外，由於此路段連接北大嶼山公路，因此需要來往香港迪士尼樂園度假區及香港國際機場的市民及旅客，亦有機會受北大嶼山公路的臨時交通管制措施影響，增加所需行車時間。
+
+順朗路（來回方向）將於當日上午六時三十分開始封閉，並預計約下午二時還原有關路段後重開。在上述封路期間，運輸署將實施交通改道，原本行駛順朗路（來回方向）的車輛需要改經赤鱲角島，行車時間預計需要增加約10分鐘。巴士公司將張貼通告，通知乘客有關服務調整的詳情。
+
+全運會統籌辦發言人表示，全國運動會是國家最高水平賽事，本次賽事在選擇賽道和組織安排上，需符合嚴格要求，以保障運動員安全。相關部門會合力做好特別交通運輸安排，以減低對平常使用港珠澳大橋和其他相關路段的市民和旅客的影響。發言人呼籲當日需要往返珠海和澳門的市民及旅客，及早計劃行程，並盡量使用其他口岸和公共交通。發言人感謝市民及旅客的體諒，以及有關機構及各部門齊心協力落實相關安排。"
 ​香港海關舉行第二屆「貴金屬及寶石交易商行業顧問組」就職典禮（附圖）,2025-10-14 21:39,2025-10-14 23:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400513.htm,"香港海關今日（十月十四日）在海關總部大樓舉行第二屆「貴金屬及寶石交易商行業顧問組」就職典禮。海關關長陳子達主持典禮，並向來自貴金屬及寶石業界的十七位非官方成員頒發委任狀。
 
 顧問組是一個非法定機構，由海關的官方成員和業界的非官方成員組成，以提供一個平台讓雙方就貴金屬及寶石交易商註冊制度交換意見，海關亦可藉此掌握業界脈搏，以便推展打擊洗錢及恐怖分子資金籌集方面的工作。
@@ -3290,6 +3285,13 @@ According to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance
 陳子達於就職典禮上感謝各顧問組成員一直以來的支持，貴金屬及寶石商監管制度自實施後已被交易商廣泛接納，象徵著業界對合規經營的共同承諾。海關將與新一屆顧問組繼續攜手提升業界的合規及守法意識，同心協力打擊洗錢及恐怖分子資金籌集，以及通過透明、健全及與國際接軌的監管制度助力香港發展成為國際黃金交易市場，以進一步鞏固香港的國際金融中心地位。
 
 根據《打擊洗錢及恐怖分子資金籌集條例》（第615章），除獲豁免人士外，任何人如有意在香港從事貴金屬及寶石業務並進行十二萬或以上港元的交易（不論是支付或收取款項），均須向海關註冊。有關註冊制度的詳情，可瀏覽網頁（www.drs.customs.gov.hk）。"
+Hong Kong Customs holds inaugural ceremony of second term of Dealers in Precious Metals and Stones Sector Advisory Group (with photos),2025-10-14 21:39,2025-10-14 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400517.htm,"Hong Kong Customs today (October 14) held the inaugural ceremony of the second term of the Dealers in Precious Metals and Stones Sector Advisory Group at the Customs Headquarters Building. The Commissioner of Customs and Excise, Mr Chan Tsz-tat, officiated at the ceremony and presented appointment certificates to 17 non-official members from the precious metals and stone industry.
+
+The Advisory Group is a non-statutory body comprising official members from Customs and non-official members from the industry, with a view to providing both sides with a platform for exchanging views on the registration regime for precious metals and stone dealers. Customs can also keep better tabs on the industry to push ahead with anti-money laundering and counter-terrorist financing work.
+
+Mr Chan expressed gratitude to members of the Advisory Group for their continuous support, saying that the regulatory regime for dealers in precious metals and stones has been widely accepted by the industry since its implementation, indicating a mutual commitment to compliance within the industry. Customs will continue to collaborate with the new-term Advisory Group in strengthening the compliance awareness of the industry, combating anti-money laundering and counter-terrorist financing, and propelling Hong Kong into an international gold trading market by establishing a transparent, robust and internationally aligned regulatory system, thereby strengthening Hong Kong's status as an international financial centre.
+
+According to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615), unless exempted, any person who is seeking to carry on a business of dealing in precious metals and stones and engage in any transaction(s) (whether making or receiving a payment) with a total value at or above HK$120,000 in Hong Kong is required to register with Hong Kong Customs. For details on the registration regime, please visit the website (www.drs.customs.gov.hk)."
 教育局局長率領高中公民科學生內地考察團到訪重慶（附圖）,2025-10-14 20:45,2025-10-14 23:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400729.htm,"​教育局局長蔡若蓮博士今日（十月十四日）與參加二○二五／二六年高中公民與社會發展科（公民科）「重慶三峽文化及城市發展內地考察」首發團的百多位中學師生，在重慶出席首發團的啓動儀式。
 
 蔡若蓮博士在儀式上致辭時表示，自二○二三年四月至今，教育局在各省市的協助下，已安排超過140 000學生進行公民科內地考察。她期望學生透過這些「行走的課堂」激發好奇心，在沉浸式的學習體驗中不斷探求新知，反思所學。
@@ -3565,55 +3567,6 @@ Customs will continue to apply a risk assessment approach and focus on selecting
 Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
 
 Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-基孔肯雅熱最新情況,2025-10-14 18:38,2025-10-14 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400677.htm,"衞生署衞生防護中心（中心）表示，截至今日（十月十四日）下午五時，中心錄得兩宗新增感染基孔肯雅熱個案。
-
-最新個案資料
-
-首宗個案涉及一名28歲男子，住所位於九龍城區。初步調查顯示，他於十月六日至九日到訪廣東省中山市。他於十月十二日出現關節痛，翌日（十月十三日）出現發燒，同日到廣華醫院急症室求醫，並獲安排入院在無蚊環境下接受治療，目前情況穩定。他的血液樣本對基孔肯雅病毒呈陽性反應。
-
-他有一名家居接觸者，曾於相若時間到中山市，暫時沒有出現病徵，正接受醫學監察。
-
-另一宗個案涉及一名47歲男子，住所位於九龍城區。初步調查顯示，他於十月五日至七日獨自到訪廣東省江門市。他於十月十三日出現發燒、皮疹和關節痛，同日到廣華醫院急症室求醫，並獲安排入院在無蚊環境下接受治療，目前情況穩定。他的血液樣本對基孔肯雅病毒呈陽性反應。
-
-他有一名家居接觸者，暫時沒有出現病徵，正接受醫學監察。
-
-由於上述兩名病人於潛伏期身處廣東省，中心認為他們是在外遊期間受到感染，屬輸入個案。中心會繼續進行流行病學調查，並已把個案通報廣東省衞生當局。
-
-最新監測數據
-
-本港今年累計錄得35宗基孔肯雅熱確診個案，全部屬輸入個案。本港在二○一六至二○一九年每年錄得介乎一至11宗輸入個案。
-
-根據廣東省疾病預防控制局的資訊，過去一周（十月五日至十一日）廣東省新增2 257宗基孔肯雅熱個案，與過去兩周分別3 181宗（九月二十八日至十月四日）及3 153宗(九月二十一日至二十七日）有所下降。上周大部分個案（1 255宗）在江門市錄得，其次為廣州（201宗）及佛山（196宗），全部均為輕症病例，沒有嚴重或死亡個案。近期江門市基孔肯雅熱疫情呈波動下降趨勢，但仍在較高水平。
-
-自二○二五年初至九月三十日，全球40個國家／地區呈報了445 271宗基孔肯雅熱病例及155宗相關死亡個案。個案分布在美洲、非洲、亞洲及歐洲。現時全球多國正爆發基孔肯雅熱，市民外遊前必須注意當地情況。
-
-繼續加強防控
-
-食物環境衞生署（食環署）繼續進行病媒調查及針對性滅蚊工作，並於確診病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，包括：
-
-在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
-每星期巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
-加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
-
-
-中心呼籲學校按照食環署的滅蚊指引，加強防止校園範圍積水的工作及清除蚊子滋生的地方，同時務必提醒教職員及學生時刻做好防蚊及個人保護措施，防範蚊傳疾病在校園傳播。
-
-此外，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。此外，港口衞生科人員亦會向旅客派發宣傳單張、為抵港人士進行體溫篩查、為發燒或出現相關病徵的旅客進行健康評估，及在有需要時轉介旅客到醫院作出跟進。
-
-使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
-
-先仔細閱讀標籤說明；
-在進入可能被蚊叮的範圍前使用；
-塗在外露皮膚及衣服；
-孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
-先塗防曬霜，再塗昆蟲驅避劑；
-遵照標籤說明，只於有需要時重複使用；及
-除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
-
-
-此外，食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
-
-市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 Update on chikungunya fever,2025-10-14 18:38,2025-10-14 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400679.htm,"  The Centre for Health Protection (CHP) of the Department of Health announced that as of 5pm today (October 14), two new cases of chikungunya fever (CF) had been recorded.
 
 Latest case information
@@ -3665,52 +3618,65 @@ in addition to DEET, there are other insect repellents available on the market c
   ââThe FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as soft drink cans and lunch boxes. The FEHD also advises members of the public and estate management bodies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
   The public should call1823in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
-"Import of poultry meat and products from areas in Germany, UK and France suspended",2025-10-14 18:18,2025-10-14 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400618.htm,"  The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (October 14) that in view of notifications from the World Organisation for Animal Health (WOAH) about outbreaks of highly pathogenic H5N1 avian influenza in the District of Dingolfing-Landau of the State of Bayern in Germany and Mountjoy Townland Area of Northern Ireland in the United Kingdom (UK) and an outbreak of highly pathogenic avian influenza in Pas-de-Calais Department in France respectively, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the above-mentioned areas with immediate effect to protect public health in Hong Kong.
+基孔肯雅熱最新情況,2025-10-14 18:38,2025-10-14 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400677.htm,"衞生署衞生防護中心（中心）表示，截至今日（十月十四日）下午五時，中心錄得兩宗新增感染基孔肯雅熱個案。
 
-  A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 30 tonnes of frozen poultry meat from Germany; about 390 tonnes of chilled and frozen poultry meat, and about 830 000 poultry eggs from the UK; and about 400 tonnes of chilled and frozen poultry meat, and about 20 000 poultry eggs from France in the first six months of this year.
+最新個案資料
 
-  ""The CFS has contacted the German, British and French authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreaks. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
+首宗個案涉及一名28歲男子，住所位於九龍城區。初步調查顯示，他於十月六日至九日到訪廣東省中山市。他於十月十二日出現關節痛，翌日（十月十三日）出現發燒，同日到廣華醫院急症室求醫，並獲安排入院在無蚊環境下接受治療，目前情況穩定。他的血液樣本對基孔肯雅病毒呈陽性反應。
+
+他有一名家居接觸者，曾於相若時間到中山市，暫時沒有出現病徵，正接受醫學監察。
+
+另一宗個案涉及一名47歲男子，住所位於九龍城區。初步調查顯示，他於十月五日至七日獨自到訪廣東省江門市。他於十月十三日出現發燒、皮疹和關節痛，同日到廣華醫院急症室求醫，並獲安排入院在無蚊環境下接受治療，目前情況穩定。他的血液樣本對基孔肯雅病毒呈陽性反應。
+
+他有一名家居接觸者，暫時沒有出現病徵，正接受醫學監察。
+
+由於上述兩名病人於潛伏期身處廣東省，中心認為他們是在外遊期間受到感染，屬輸入個案。中心會繼續進行流行病學調查，並已把個案通報廣東省衞生當局。
+
+最新監測數據
+
+本港今年累計錄得35宗基孔肯雅熱確診個案，全部屬輸入個案。本港在二○一六至二○一九年每年錄得介乎一至11宗輸入個案。
+
+根據廣東省疾病預防控制局的資訊，過去一周（十月五日至十一日）廣東省新增2 257宗基孔肯雅熱個案，與過去兩周分別3 181宗（九月二十八日至十月四日）及3 153宗(九月二十一日至二十七日）有所下降。上周大部分個案（1 255宗）在江門市錄得，其次為廣州（201宗）及佛山（196宗），全部均為輕症病例，沒有嚴重或死亡個案。近期江門市基孔肯雅熱疫情呈波動下降趨勢，但仍在較高水平。
+
+自二○二五年初至九月三十日，全球40個國家／地區呈報了445 271宗基孔肯雅熱病例及155宗相關死亡個案。個案分布在美洲、非洲、亞洲及歐洲。現時全球多國正爆發基孔肯雅熱，市民外遊前必須注意當地情況。
+
+繼續加強防控
+
+食物環境衞生署（食環署）繼續進行病媒調查及針對性滅蚊工作，並於確診病人的住所及於病發後到過的地點加強防蚊和滅蚊工作，包括：
+
+在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
+每星期巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
+加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
+
+
+中心呼籲學校按照食環署的滅蚊指引，加強防止校園範圍積水的工作及清除蚊子滋生的地方，同時務必提醒教職員及學生時刻做好防蚊及個人保護措施，防範蚊傳疾病在校園傳播。
+
+此外，中心港口衞生科繼續在各個口岸加強巡查，並提醒跨境公共交通營辦商及其他相關單位確保環境衞生良好及有效落實防蚊措施。此外，港口衞生科人員亦會向旅客派發宣傳單張、為抵港人士進行體溫篩查、為發燒或出現相關病徵的旅客進行健康評估，及在有需要時轉介旅客到醫院作出跟進。
+
+使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
+
+先仔細閱讀標籤說明；
+在進入可能被蚊叮的範圍前使用；
+塗在外露皮膚及衣服；
+孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
+先塗防曬霜，再塗昆蟲驅避劑；
+遵照標籤說明，只於有需要時重複使用；及
+除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
+
+
+此外，食環署呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置汽水罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應經常保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
+
+市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 德國、英國和法國部分地區禽肉及禽類產品暫停進口,2025-10-14 18:18,2025-10-14 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400616.htm,"食物環境衞生署食物安全中心（中心）今日（十月十四日）宣布，因應世界動物衞生組織分別通報，指德國巴伐利亞州Dingolfing-Landau區和英國北愛爾蘭Mountjoy Townland Area爆發高致病性H5N1禽流感，以及法國加來海峽省爆發高致病性禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
 中心發言人說，根據政府統計處的資料，本港今年首六個月從德國進口約三十公噸冷藏禽肉、從英國進口約三百九十公噸冰鮮和冷藏禽肉及約八十三萬隻禽蛋，以及從法國進口約四百公噸冰鮮和冷藏禽肉及約二萬隻禽蛋。
 
 發言人說：「中心已就事件聯絡德國、英國和法國當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
-Scam alert related to banks,2025-10-14 18:11,2025-10-14 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400647.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+"Import of poultry meat and products from areas in Germany, UK and France suspended",2025-10-14 18:18,2025-10-14 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400618.htm,"  The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (October 14) that in view of notifications from the World Organisation for Animal Health (WOAH) about outbreaks of highly pathogenic H5N1 avian influenza in the District of Dingolfing-Landau of the State of Bayern in Germany and Mountjoy Townland Area of Northern Ireland in the United Kingdom (UK) and an outbreak of highly pathogenic avian influenza in Pas-de-Calais Department in France respectively, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the above-mentioned areas with immediate effect to protect public health in Hong Kong.
 
-The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+  A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 30 tonnes of frozen poultry meat from Germany; about 390 tonnes of chilled and frozen poultry meat, and about 830 000 poultry eggs from the UK; and about 400 tonnes of chilled and frozen poultry meat, and about 20 000 poultry eggs from France in the first six months of this year.
 
-
-
-
-Bank
-Type of scam
-
-
-The Bank of East Asia, Limited
-Fraudulent websites and internet banking login screens
-
-
-Shanghai Commercial Bank Limited
-Fraudulent websites and internet banking login screens
-
-
-Chong Hing Bank Limited
-Fraudulent websites and internet banking login screens
-
-
-China Construction Bank (Asia) Corporation Limited
-Fraudulent websites and internet banking login screens
-
-
-OCBC Bank (Hong Kong) Limited
-Fraudulent website and internet banking login screen
-
-
-
-
-The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
-
-Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+  ""The CFS has contacted the German, British and French authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreaks. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
 與銀行有關的騙案通知,2025-10-14 18:11,2025-10-14 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400648.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -3747,6 +3713,42 @@ Anyone who has provided his or her personal information, or who has conducted an
 金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
 
 任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
+Scam alert related to banks,2025-10-14 18:11,2025-10-14 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400647.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+
+
+
+
+Bank
+Type of scam
+
+
+The Bank of East Asia, Limited
+Fraudulent websites and internet banking login screens
+
+
+Shanghai Commercial Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+Chong Hing Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+China Construction Bank (Asia) Corporation Limited
+Fraudulent websites and internet banking login screens
+
+
+OCBC Bank (Hong Kong) Limited
+Fraudulent website and internet banking login screen
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 ​勞工及福利局局長為第二十四屆香港職業安全健康大奬分享會暨頒獎典禮主禮致辭（只有中文）,2025-10-14 18:10,2025-10-14 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400672.htm,"以下是勞工及福利局局長孫玉菡今日（十月十四日）下午為第二十四屆香港職業安全健康大奬分享會暨頒獎典禮主禮的致辭全文：
 
 林楚賢教授（職業安全健康局（職安局）副主席）、許處長（勞工處處長許澤森）、柱哥（勞工顧問委員會僱主代表、香港中華總商會永遠榮譽會長何世柱）、沛良（立法會議員陳沛良）、小松（立法會議員兼港九勞工社團聯會秘書長周小松）、Bonnie（職業安全健康局總幹事游雯）：
@@ -3810,15 +3812,6 @@ FEHD interdicts a foreman from duty for conspiracy to commit misconduct in publi
  The spokesman stressed that the FEHD attaches great importance to the discipline and conduct of staff and does not tolerate any illegal and fraudulent acts.
 
  In view of the ongoing legal proceedings, the FEHD will not comment on the specifics of the case."
-稅務局回應廉政公署起訴助理稅務主任,2025-10-14 17:15,2025-10-14 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400600.htm,"就廉政公署今日（十月十四日）起訴一名助理稅務主任，稅務局強調該局十分重視員工的廉潔和操守，絕不姑息任何違法違規行為。
-
-稅務局主動轉介有關案件予廉政公署調查，並一直全力配合廉政公署的調查工作及提供全面協助。
-
-涉案的助理稅務主任自二○二三年九月已被停職。由於案件已進入司法程序，稅務局不會評論案件內容。
-
-稅務局非常重視保護納稅人資料。所有員工均須遵守《稅務條例》和《商業登記條例》的公事保密條款，除執行職務外，不得將納稅人資料傳達予任何人。稅務局的內部指引亦清楚訂明員工應如何遵行公事保密條款，並設有機制監察員工是否只在執行職務時才查閱稅務局電腦系統內的納稅人資料，包括記錄員工查閱電腦系統的情況、不時進行突擊抽查和覆檢等。
-
-為進一步加強保護納稅人資料和優化處理市民查詢的工作，稅務局已全面檢視相關工作程序，並邀請廉政公署防止貪污處提供意見。稅務局正逐步落實優化措施，包括更頻密地抽查員工查閱電腦系統資料情況、檢視員工查閱電腦系統資料的權限、安排督導人員巡視查詢櫃位，以及在查詢櫃位裝設閉路電視系統，以加強監察。"
 IRD responds to ICAC's prosecution against Assistant Taxation Officer,2025-10-14 17:15,2025-10-14 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400603.htm,"Regarding the Independent Commission Against Corruption (ICAC)'s prosecution of an Assistant Taxation Officer today (October 14), the Inland Revenue Department (IRD) stressed that it attaches great importance to the honesty and conduct of its staff and does not tolerate any illegal or non-compliant acts.
 
   The IRD referred the case to the ICAC for investigation, and has fully co-operated with the ICAC in the investigation and provided full assistance.
@@ -3828,6 +3821,15 @@ IRD responds to ICAC's prosecution against Assistant Taxation Officer,2025-10-14
   The IRD attaches utmost importance to the protection of taxpayers' information. All staff are bound by the official secrecy provisions of the Inland Revenue Ordinance and the Business Registration Ordinance. They are prohibited from communicating taxpayers' information to any person except in the performance of their duties. The IRD's internal guidelines also clearly set out how the staff should comply with the official secrecy provisions. A mechanism has been put in place to monitor whether the staff access taxpayers' information in the IRD's computer system only when performing duties, including keeping records of staff's access to the computer system and conducting surprise checks and reviews from time to time.
 
   To further enhance the protection of taxpayers' information and the handling of public enquiries, the IRD has conducted a thorough review of the relevant work procedures and invited the ICAC's Corruption Prevention Department to provide suggestions. The IRD is implementing the enhancement measures progressively, which include conducting random checks on staff's access to information in the computer system more frequently, reviewing staff's access right to the information in the computer system, arranging supervisory staff to conduct inspections at enquiry counters, and installing closed-circuit television systems at the enquiry counters concerned to enhance surveillance."
+稅務局回應廉政公署起訴助理稅務主任,2025-10-14 17:15,2025-10-14 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400600.htm,"就廉政公署今日（十月十四日）起訴一名助理稅務主任，稅務局強調該局十分重視員工的廉潔和操守，絕不姑息任何違法違規行為。
+
+稅務局主動轉介有關案件予廉政公署調查，並一直全力配合廉政公署的調查工作及提供全面協助。
+
+涉案的助理稅務主任自二○二三年九月已被停職。由於案件已進入司法程序，稅務局不會評論案件內容。
+
+稅務局非常重視保護納稅人資料。所有員工均須遵守《稅務條例》和《商業登記條例》的公事保密條款，除執行職務外，不得將納稅人資料傳達予任何人。稅務局的內部指引亦清楚訂明員工應如何遵行公事保密條款，並設有機制監察員工是否只在執行職務時才查閱稅務局電腦系統內的納稅人資料，包括記錄員工查閱電腦系統的情況、不時進行突擊抽查和覆檢等。
+
+為進一步加強保護納稅人資料和優化處理市民查詢的工作，稅務局已全面檢視相關工作程序，並邀請廉政公署防止貪污處提供意見。稅務局正逐步落實優化措施，包括更頻密地抽查員工查閱電腦系統資料情況、檢視員工查閱電腦系統資料的權限、安排督導人員巡視查詢櫃位，以及在查詢櫃位裝設閉路電視系統，以加強監察。"
 《建造業付款保障條例》審裁員提名團體,2025-10-14 16:57,2025-10-14 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400504.htm,"發展局今日（十月十四日）宣布，已按《建造業付款保障條例》（第652章）（《條例》）的規定，設立審裁員提名團體名冊，並上載於發展局網頁（www.devb.gov.hk/tc/construction_sector_matters/adjudicator-nominating-bodies/under-ordinance-cap-652/index.html）。
 
 發展局發言人表示：「審裁員提名團體名冊的成立標誌着《條例》的實施邁出了重要一步，讓合約雙方可透過提名團體委任合適的審裁員以進行付款爭議的審裁工作。發展局在今年二月十日開始接受審裁員提名團體的申請，獲得業界積極回應。經考慮申請團體的規模、認受性、財政資源和執行能力等因素，我們現公布接受了五個提名團體的註冊申請，有關團體均為熟悉建造業運作的專業學會或專門處理合約糾紛的機構。」
@@ -3851,8 +3853,8 @@ Under the Ordinance, functions of a nominating body include establishing and mai
 
 The DEVB welcomes other eligible organisations to apply for the adjudicator nominating bodies. Please refer to the DEVB website for the application details and relevant information:
 (www.devb.gov.hk/en/construction_sector_matters/adjudicator-nominating-bodies/under-ordinance-cap-652/application/index.html)."
-Resumption of postal services to Canada,2025-10-14 16:55,2025-10-14 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400605.htm,"  Hongkong Post announced today (October 14) that, as advised by the postal administration of Canada, Canada Post has resumed the acceptance of mail items to Canada, as the previous postal workers' strike has moved from a full national strike to rotating strikes. Hongkong Post will resume all postal services to Canada on October 15. However, mail delivery services to Canada are subject to delays and occasional service interruptions due to mail backlogs and the rotating strikes."
 恢復寄往加拿大的郵遞服務,2025-10-14 16:55,2025-10-14 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400606.htm,香港郵政今日（十月十四日）宣布，接獲加拿大郵政機關通知，早前當地郵政人員已從全國罷工轉為輪流罷工，故此加拿大郵政現已恢復接收寄往加拿大的郵件。香港郵政將於十月十五日起恢復所有寄往加拿大的郵政服務。然而，由於大量郵件積壓，以及受輪流罷工影響，寄往加拿大的郵件派遞服務仍會有所延誤及間歇性受阻。
+Resumption of postal services to Canada,2025-10-14 16:55,2025-10-14 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400605.htm,"  Hongkong Post announced today (October 14) that, as advised by the postal administration of Canada, Canada Post has resumed the acceptance of mail items to Canada, as the previous postal workers' strike has moved from a full national strike to rotating strikes. Hongkong Post will resume all postal services to Canada on October 15. However, mail delivery services to Canada are subject to delays and occasional service interruptions due to mail backlogs and the rotating strikes."
 「亞藝無疆」藝術節十月二十一日呈獻馬其頓鋼琴家西門・狄里柏斯基《非常馬其頓》音樂會（附圖）,2025-10-14 16:45,2025-10-14 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400491.htm,"享譽國際古典樂壇的馬其頓鋼琴家西門・狄里柏斯基重臨香港，將於十月二十一日聯同四位同鄉音樂家演出《非常馬其頓》音樂會。節目特邀三位本地音樂人包括流行曲作曲家嚴勵行、香港中樂團嗩吶首席馬瑋謙與胡琴演奏家陳璧沁，參與兩首壓軸曲目的編創與演出，展開中西跨地域音樂對話。該音樂會為「亞藝無疆」藝術節的節目之一，由文化體育及旅遊局呈獻、康樂及文化事務署（康文署）策劃。
 
 音樂會的樂曲風格多樣，糅合馬其頓民謠、爵士樂和古典音樂元素，作品由熱情洋溢的舞曲到抒情的敘事曲，均注入豐富感情和激昂能量，既植根於傳統又充滿現代活力。今次在香港的演出更是悉心設計，加插有別於世界各地巡演的特別環節。三位本地音樂人嚴勵行、馬瑋謙與陳璧沁，將與馬其頓音樂家來一回中西合璧的跨界合作，壓軸演出兩首融合馬其頓民謠、中樂和粵語流行曲的串燒樂曲，為音樂會譜上熱鬧的終章。
@@ -4089,617 +4091,13 @@ Exchange Fund Abridged Balance Sheet and
 
 
 "
-政府委任香港鐵路有限公司主席 ,2025-10-14 16:30,2025-10-14 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400335.htm,"政府今日（十月十四日）宣布，根據香港鐵路有限公司（港鐵公司）組織章程及作為大多數股份持有人，財政司司長法團已委任金澤培博士於二○二六年一月一日接任歐陽伯權博士為該公司董事局主席，任期三年，直至二○二八年十二月三十一日。金澤培博士已於今日較早前獲港鐵公司委任，由二○二六年一月一日起出任公司非執行董事。
-
-運輸及物流局局長陳美寶感謝歐陽伯權博士自二○一九年七月出任港鐵公司主席以來的重要貢獻。其間，在歐陽伯權博士領導下，港鐵公司完成了屯馬線全線及東鐵線過海段項目，使鐵路網絡更加四通八達；並積極開展一系列策略性鐵路項目，包括東涌線延線、小蠔灣站、古洞站、屯門南延線、洪水橋站，以及日前剛動土的北環線，推動香港整體社會和經濟發展。
-
-陳美寶表示，港鐵每日接載超過五百萬人次出行，是香港交通運輸的骨幹。她期望新任主席憑藉其多年鐵路營運的經驗，帶領港鐵公司應用創新科技，持續提升香港鐵路的安全、效率及可靠性，並延續港鐵「推動城市前行」的使命，以鐵路基建為香港的發展及與內地的跨界融合添加動能。"
 Appointment of Chairman of MTR Corporation Limited announced,2025-10-14 16:30,2025-10-14 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400333.htm,"The Government announced today (October 14) that, in accordance with the Articles of Association of the MTR Corporation Limited (MTRCL) and as the majority shareholder, the Financial Secretary Incorporated has appointed Dr Jacob Kam Chak-pui to succeed Dr Rex Auyeung Pak-kuen as the next Chairman of the board of directors of the Corporation with effect from January 1, 2026. The appointment is for three years until December 31, 2028. Dr Kam had been appointed, with effect from January 1, 2026, as a non-executive director of the Corporation by the MTRCL earlier today.
 
 The Secretary for Transport and Logistics, Ms Mable Chan, thanked Dr Auyeung for his significant contributions since taking up the chairmanship of the MTRCL in July 2019. Under the leadership of Dr Auyeung, the MTRCL completed the full commissioning of the Tuen Ma Line as well as the East Rail Line Cross-harbour Extension projects, further enhancing the connectivity of the railway network. The MTRCL also proactively advanced a series of strategic railway projects, including the Tung Chung Line Extension, the Oyster Bay Station, the Kwu Tung Station, the Tuen Mun South Extension, the Hung Shui Kiu Station, and the Northern Link which commenced works recently, contributing to Hong Kong's overall social and economic development.
 
 Ms Chan said that the MTRCL, carrying over 5 million passengers daily, is the backbone of Hong Kong's public transport system. She expected the new Chairman to draw on his extensive years of experience in railway operations to lead the MTRCL in applying innovative technologies to continuously enhance the safety, efficiency and reliability of Hong Kong's railways, and uphold the MTRCL's mission of ""Keep Cities Moving"", such that railway infrastructure can be leveraged to add momentum to Hong Kong's development and cross-boundary integration with the Mainland."
-​創新科技及工業局局長出席香港新型工業加速前行─「新型工業加速計劃」項目起動儀式致辭（只有中文）（附圖）,2025-10-14 16:15,2025-10-14 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400566.htm,"以下是創新科技及工業局局長孫東教授今日（十月十四日）在香港新型工業加速前行─「新型工業加速計劃」項目起動儀式的致辭：
+政府委任香港鐵路有限公司主席 ,2025-10-14 16:30,2025-10-14 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400335.htm,"政府今日（十月十四日）宣布，根據香港鐵路有限公司（港鐵公司）組織章程及作為大多數股份持有人，財政司司長法團已委任金澤培博士於二○二六年一月一日接任歐陽伯權博士為該公司董事局主席，任期三年，直至二○二八年十二月三十一日。金澤培博士已於今日較早前獲港鐵公司委任，由二○二六年一月一日起出任公司非執行董事。
 
-祝春曉總裁（亞洲先進同位素技術有限公司聯合創始人兼行政總裁）、李鷹博士（亞洲先進同位素技術有限公司聯合創始人）、Sunny（香港科技園公司董事局主席查毅超博士）、Terry（香港科技園公司行政總裁黃秉修）、各位嘉賓、各位朋友：
+運輸及物流局局長陳美寶感謝歐陽伯權博士自二○一九年七月出任港鐵公司主席以來的重要貢獻。其間，在歐陽伯權博士領導下，港鐵公司完成了屯馬線全線及東鐵線過海段項目，使鐵路網絡更加四通八達；並積極開展一系列策略性鐵路項目，包括東涌線延線、小蠔灣站、古洞站、屯門南延線、洪水橋站，以及日前剛動土的北環線，推動香港整體社會和經濟發展。
 
-大家好！今天我非常高興出席由香港科技園公司與亞洲先進同位素技術公司（同位素公司）共同舉辦的香港新型工業加速前行─「新型工業加速計劃」（加速計劃）項目起動儀式，與大家一同見證這一重要時刻。
-
-政府一直致力以科技創新引領產業創新，積極推動香港邁向新型工業化。其中，我們特別重視從海內外引入前沿技術，並以此為基礎發展本地產業，帶動產業鏈的建設與升級，促進經濟高質量發展。今天啟動的項目，正是這一戰略方向的具體實踐。
-
-同位素公司是一家來自海外的高技術公司，它們將在大埔創新園設立全新生產設施，總投資六億港元，是在「加速計劃」下另一個獲得「新型工業評審委員會」支持的項目。這個項目亦展示了如何通過由海外引入前沿技術和人才，在香港落地生根，繼而走向亞洲、邁向全球的典型範例。這個項目的技術源自於國際先進研發成果，專注於醫療用超導迴旋加速器及放射性藥物的智能生產。我們現在身處的廠房計劃於二○二七年生產現時全球緊缺的AC225核素，將會是亞洲首次生產這種正進行臨床試驗的靶向性核素藥物的重要原料，助力香港發展生命健康科技產業，建設國際創科中心。
-
-我們欣喜地看到，越來越多與同位素公司同樣優秀的創科企業，選擇將海外的前沿技術帶到香港，在這裏建立研發、中試與生產基地，並借助香港的國際化平台，將產品與服務推向全球市場。這種「引進來、走出去」的成功模式，建基於香港獨特的優勢，既豐富了香港的產業生態，也為我們的經濟發展注入新動能。
-
-特區政府於去年推出「新型工業加速計劃」，目的是進一步扶植創科企業在香港發展，同時我們亦因應市場反饋而持續優化計劃。上月公布的《施政報告》下調「加速計劃」申請門檻，將項目總成本最低要求由3億元調低至1.5億元，並為聘用相關技術人員提供配對資助，以切實地回應企業的需求，鼓勵更多智能生產設施的建設。香港正處於創科產業發展的關鍵歷史時期，既有機遇，亦有挑戰。我們歡迎並將繼續積極扶植海內外的創科企業來港發展，攜手邁向更大的成功。
-
-最後，我要感謝科技園與同位素公司為推動香港新型工業化所作的努力。我相信，將會有更多企業選擇香港作為它們技術落地與業務拓展的基地，擦亮「香港研發、香港製造、走向世界」這一品牌。祝同位素公司業務蒸蒸日上，在座各位身體健康！謝謝大家！"
-​創新科技及工業局局長出席香港新型工業加速前行─「新型工業加速計劃」項目起動儀式致辭（只有中文）,2025-10-14 16:15,2025-10-14 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400566.htm,"以下是創新科技及工業局局長孫東教授今日（十月十四日）在香港新型工業加速前行─「新型工業加速計劃」項目起動儀式的致辭：
-
-祝春曉總裁（亞洲先進同位素技術有限公司聯合創始人兼行政總裁）、李鷹博士（亞洲先進同位素技術有限公司聯合創始人）、Sunny（香港科技園公司董事局主席查毅超博士）、Terry（香港科技園公司行政總裁黃秉修）、各位嘉賓、各位朋友：
-
-大家好！今天我非常高興出席由香港科技園公司與亞洲先進同位素技術公司（同位素公司）共同舉辦的香港新型工業加速前行─「新型工業加速計劃」（加速計劃）項目起動儀式，與大家一同見證這一重要時刻。
-
-政府一直致力以科技創新引領產業創新，積極推動香港邁向新型工業化。其中，我們特別重視從海內外引入前沿技術，並以此為基礎發展本地產業，帶動產業鏈的建設與升級，促進經濟高質量發展。今天啟動的項目，正是這一戰略方向的具體實踐。
-
-同位素公司是一家來自海外的高技術公司，它們將在大埔創新園設立全新生產設施，總投資六億港元，是在「加速計劃」下另一個獲得「新型工業評審委員會」支持的項目。這個項目亦展示了如何通過由海外引入前沿技術和人才，在香港落地生根，繼而走向亞洲、邁向全球的典型範例。這個項目的技術源自於國際先進研發成果，專注於醫療用超導迴旋加速器及放射性藥物的智能生產。我們現在身處的廠房計劃於二○二七年生產現時全球緊缺的AC225核素，將會是亞洲首次生產這種正進行臨床試驗的靶向性核素藥物的重要原料，助力香港發展生命健康科技產業，建設國際創科中心。
-
-我們欣喜地看到，越來越多與同位素公司同樣優秀的創科企業，選擇將海外的前沿技術帶到香港，在這裏建立研發、中試與生產基地，並借助香港的國際化平台，將產品與服務推向全球市場。這種「引進來、走出去」的成功模式，建基於香港獨特的優勢，既豐富了香港的產業生態，也為我們的經濟發展注入新動能。
-
-特區政府於去年推出「新型工業加速計劃」，目的是進一步扶植創科企業在香港發展，同時我們亦因應市場反饋而持續優化計劃。上月公布的《施政報告》下調「加速計劃」申請門檻，將項目總成本最低要求由3億元調低至1.5億元，並為聘用相關技術人員提供配對資助，以切實地回應企業的需求，鼓勵更多智能生產設施的建設。香港正處於創科產業發展的關鍵歷史時期，既有機遇，亦有挑戰。我們歡迎並將繼續積極扶植海內外的創科企業來港發展，攜手邁向更大的成功。
-
-最後，我要感謝科技園與同位素公司為推動香港新型工業化所作的努力。我相信，將會有更多企業選擇香港作為它們技術落地與業務拓展的基地，擦亮「香港研發、香港製造、走向世界」這一品牌。祝同位素公司業務蒸蒸日上，在座各位身體健康！謝謝大家！"
-外匯基金票據投標結果,2025-10-14 16:08,2025-10-14 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400551.htm,"下稿代香港金融管理局發出︰
-
-外匯基金票據投標結果：
-
-
-
-
-投標日期
-：
-2025年10月14日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2542
-
-
-發行日期
-：
-2025年10月15日
-
-
-屆滿日期
-：
-2026年1月14日
-
-
-申請額
-：
-195,300百萬港元
-
-
-發行額
-：
-68,346百萬港元
-
-
-平均接納息率
-：
-3.38厘
-
-
-最高接納息率
-：
-3.43厘
-
-
-分配比例＊
-：
-約61%
-
-
-平均投標息率
-：
-3.61厘
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年10月14日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2571
-
-
-發行日期
-：
-2025年10月15日
-
-
-屆滿日期
-：
-2026年4月15日
-
-
-申請額
-：
-56,660百萬港元
-
-
-發行額
-：
-19,000百萬港元
-
-
-平均接納息率
-：
-3.00厘
-
-
-最高接納息率
-：
-3.04厘
-
-
-分配比例＊
-：
-約30%
-
-
-平均投標息率
-：
-3.12厘
-
-
-
-
-＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
-
----------------------------------------------------------
-
-香港金融管理局在二○二五年十月二十日開始的一星期內舉行的投標 ：
-
-
-
-
-投標日期
-：
-2025年10月21日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Q2543
-
-
-發行日期
-：
-2025年10月22日
-
-
-屆滿日期
-：
-2026年1月21日
-
-
-期限
-：
-91日
-
-
-發行額
-：
-64,283百萬港元
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年10月21日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-H2572
-
-
-發行日期
-：
-2025年10月22日
-
-
-屆滿日期
-：
-2026年4月22日
-
-
-期限
-：
-182日
-
-
-發行額
-：
-12,000百萬港元
-
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-
-投標日期
-：
-2025年10月21日
-
-
-可供投標票據
-：
-外匯基金票據
-
-
-發行號碼
-：
-Y2596
-
-
-發行日期
-：
-2025年10月22日
-
-
-屆滿日期
-：
-2026年10月21日
-
-
-期限
-：
-364日
-
-
-發行額
-：
-5,000百萬港元
-
-
-
-"
-Exchange Fund Bills tender results,2025-10-14 16:08,2025-10-14 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400550.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-Exchange Fund Bills tender results:
-
-
-
-
-Tender date
-:
-October 14, 2025
-
-
-Paper on offer
-:
-EF Bills
-
-
-Issue number
-:
-Q2542
-
-
-Issue date
-:
-October 15, 2025
-
-
-Maturity date
-:
-January 14, 2026
-
-
-Amount applied
-:
-HK$195,300 MN
-
-
-Amount allotted
-:
-HK$68,346 MN
-
-
-Average yield accepted
-:
-3.38 PCT
-
-
-Highest yield accepted
-:
-3.43 PCT
-
-
-Pro rata ratio*
-:
-About 61 PCT
-
-
-Average tender yield
-:
-3.61 PCT
-
-
-****************************
-
-
-Tender date
-:
-October 14, 2025
-
-
-Paper on offer
-:
-EF Bills
-
-
-Issue number
-:
-H2571
-
-
-Issue date
-:
-October 15, 2025
-
-
-Maturity date
-:
-April 15, 2026
-
-
-Amount applied
-:
-HK$56,660 MN
-
-
-Amount allotted
-:
-HK$19,000 MN
-
-
-Average yield accepted
-:
-3.00 PCT
-
-
-Highest yield accepted
-:
-3.04 PCT
-
-
-Pro rata ratio*
-:
-About 30 PCT
-
-
-Average tender yield
-:
-3.12 PCT
-
-
-
-
-*""Pro rata ratio"" refers to the average percentage of allotment with respect to each tender participant's tendered amount at the ""highest yield accepted"" level.
-
----------------------------------------------------------
-
-Hong Kong Monetary Authority tenders to be held in the week beginning October 20, 2025:
-
-
-
-
-Tender date
-:
-October 21, 2025
-
-
-Paper on offer
-:
-EF Bills
-
-
-Issue number
-:
-Q2543
-
-
-Issue date
-:
-October 22, 2025
-
-
-Maturity date
-:
-January 21, 2026
-
-
-Tenor
-:
-91 Days
-
-
-Amount on offer
-:
-HK$64,283 MN
-
-
-****************************
-
-
-Tender date
-:
-October 21, 2025
-
-
-Paper on offer
-:
-EF Bills
-
-
-Issue number
-:
-H2572
-
-
-Issue date
-:
-October 22, 2025
-
-
-Maturity date
-:
-April 22, 2026
-
-
-Tenor
-:
-182 Days
-
-
-Amount on offer
-:
-HK$12,000 MN
-
-
-****************************
-
-
-Tender date
-:
-October 21, 2025
-
-
-Paper on offer
-:
-EF Bills
-
-
-Issue number
-:
-Y2596
-
-
-Issue date
-:
-October 22, 2025
-
-
-Maturity date
-:
-October 21, 2026
-
-
-Tenor
-:
-364 Days
-
-
-Amount on offer
-:
-HK$5,000 MN
-
-
-
-"
-政府宣布高層官員任命（附圖）,2025-10-14 16:00,2025-10-14 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400373.htm,"政府今日（十月十四日）宣布以下的高層官員任命：
-
-（一）現任運輸及物流局常任秘書長蔡傑銘將於二○二五年十月二十七日出任創新科技及工業局常任秘書長，接替已於九月二十六日展開退休前休假的麥德偉；
-
-（二）現任北部都會區統籌辦事處主任丘卓恒將於二○二五年十一月十七日出任運輸及物流局常任秘書長；及
-
-（三）現任行政長官私人秘書郭黃穎琦將於二○二五年十月二十七日出任政府物流服務署署長，接替已於九月十九日展開退休前休假的陳嘉信。
-
-對於蔡傑銘、丘卓恒及郭黃穎琦的任命，公務員事務局局長楊何蓓茵說：「涉及今次調動的同事都是資深政務主任，具備出色領導和管理才能。我有信心他們會在新崗位繼續為市民提供專業高效的服務。」
-
-對於兩位退休的高級官員，楊何蓓茵感謝他們過去三十多年一直盡忠職守，竭誠為市民服務，對政府作出貢獻，並祝願他們退休生活充實及愉快。
-
-楊何蓓茵表示：「麥先生在出任創新科技及工業局常任秘書長期間，在推動香港發展成為國際創科中心方面擔當關鍵角色。他督導多項重大政策措施的推出，包括為創科項目拓展融資渠道、吸引具科研經驗與成果的海內外人才，並深化與內地的合作及積極推動政府服務數碼化。麥先生曾兩度出任香港駐海外經濟貿易辦事處，促進香港的經貿利益，以及支援海外企業在香港拓展業務。」
-
-對於陳嘉信，楊何蓓茵說：「陳先生在出任政府物流服務署署長期間，致力在物料供應、運輸和車輛管理以及印刷方面為政府部門提供優質服務。在出任房屋局主任（特別職務）期間，陳先生推動《業主與租客（綜合）條例》（香港法例第 7 章）的修訂，對分間單位實施租務規管措施。」
-
-以下為五位官員的個人簡歷：
-
-麥德偉
-－－－
-
-麥德偉一九九一年八月加入政務職系後，於二○二四年四月晉升為首長級甲一級政務官。他曾在多個決策局及部門服務，包括前政務總署、前布政司辦公室、前新機場工程統籌署、前資訊科技及廣播局、公務員事務局、香港駐華盛頓經濟貿易辦事處及郵政署。他於二○一八年七月至二○二一年九月出任香港駐美國總經濟貿易專員，於二○二二年一月至六月出任慶典統籌辦公室主任，並於二○二二年七月至二○二五年九月出任創新科技及工業局常任秘書長。
-
-陳嘉信
-－－－
-
-陳嘉信一九八七年九月加入政務職系後，於二○一八年四月晉升為首長級甲級政務官。他曾在多個決策局及部門服務，包括前政務總署、前規劃環境地政科、前布政司辦公室、前香港政府駐英辦事處、前政務科、香港駐東京經濟貿易辦事處、房屋署、環境保護署、候任行政長官辦公室及行政長官辦公室。他於二○一六年十月至二○二○年十二月出任勞工處處長，於二○二○年十二月至二○二二年七月出任運輸及房屋局主任（特別職務）（後改稱房屋局主任（特別職務））／一手住宅物業銷售監管局專員，並於二○二二年七月至二○二五年九月出任政府物流服務署署長。
-
-蔡傑銘
-－－－
-
-蔡傑銘一九九七年十月加入政務職系後，於二○二四年四月晉升為首長級甲級政務官。他曾在多個決策局及部門服務，包括前規劃環境地政局、食物及環境衞生署、前工商及科技局（後改組為商務及經濟發展局）、行政長官辦公室、發展局、民航處、前運輸及房屋局及前食物及衞生局（後改組為醫務衞生局）。他於二○二三年二月至二○二四年五月出任行政長官私人秘書，於二○二四年五月至二○二五年四月出任行政長官辦公室常任秘書長，並從二○二五年四月起出任運輸及物流局常任秘書長。
-
-丘卓恒
-－－－
-
-丘卓恒一九九七年七月加入政務職系後，於二○二五年四月晉升為首長級甲級政務官。他曾在多個決策局及部門服務，包括民政事務總署、前民政事務局、前環境運輸及工務局、房屋署、行政長官辦公室及保安局。他於二○一八年十二月至二○二三年二月出任發展局副秘書長（規劃及地政），於二○二三年二月至六月出任北部都會區籌備辦公室主任，並從二○二三年六月起出任北部都會區統籌辦事處主任。
-
-郭黃穎琦
-－－－－
-
-郭黃穎琦一九九四年九月加入政務職系，於二○二四年四月晉升為首長級乙一級政務官。她曾在多個決策局及部門服務，包括前保安科、運輸署、前衞生福利科、前教育統籌科、前政制事務局、政務司司長辦公室、前環境局、民政事務總署、房屋署及環境保護署。她於二○二○年五月至二○二二年七月出任保安局副秘書長，於二○二二年七月至二○二四年五月出任文化體育及旅遊局副秘書長，並從二○二四年五月起出任行政長官私人秘書。"
-Effective Exchange Rate Index,2025-10-14 16:00,2025-10-14 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400194.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, October 14, 2025 is 104.4 (up 0.1 against yesterday's index)."
-港匯指數,2025-10-14 16:00,2025-10-14 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400198.htm,二○二五年十月十四日（星期二）的港幣匯率指數為一百零四點四（和昨日指數比較上升零點一）。
-Government announces senior appointments (with photos),2025-10-14 16:00,2025-10-14 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/14/P2025101400378.htm,"  The Government announced today (October 14) the following senior appointments:
-
-(a) Mr Kevin Choi, Permanent Secretary for Transport and Logistics, will take up the post of Permanent Secretary for Innovation, Technology and Industry on October 27, 2025, to succeed Mr Eddie Mak Tak-wai, who proceeded on pre-retirement leave on September 26, 2025;
-
-(b) Mr Vic Yau Cheuk-hang, Director, Northern Metropolis Co-ordination Office, will take up the post of Permanent Secretary for Transport and Logistics on November 17, 2025; and
-
-(c) Mrs Vicki Kwok Wong Wing-ki, Private Secretary to the Chief Executive, will take up the post of Director of Government Logistics on October 27, 2025, to succeed Mr Carlson Chan Ka-shun, who proceeded on pre-retirement leave on September 19, 2025.
-
-  Commenting on the appointments of Mr Choi, Mr Yau and Mrs Kwok, the Secretary for the Civil Service, Mrs Ingrid Yeung, said, ""The appointees are seasoned Administrative Officers with proven leadership and management skills. I have every confidence that they will continue to serve the community with professionalism in their new posts.""
-
-  On the retirements of Mr Mak and Mr Chan, Mrs Yeung thanked them for each rendering over 30 years of loyal and dedicated service to the community and making a significant contribution to the Government. She wished them a fulfilling and happy retirement.
-
-  Mrs Yeung said, ""During Mr Mak's tenure as Permanent Secretary for Innovation, Technology and Industry, he played a pivotal role in driving the development of Hong Kong into an international innovation and technology hub. He spearheaded an array of key policy initiatives, including diversifying funding avenues for innovation and technology initiatives, attracting talent with research expertise and outcomes, deepening collaboration with the Mainland, and promoting digital government services. Mr Mak twice served in Hong Kong's overseas Economic and Trade Offices to advance Hong Kong's economic and trade interests, while supporting overseas enterprises to expand business in Hong Kong.""
-
-  Turning to Mr Chan, Mrs Yeung said, ""As Director of Government Logistics, Mr Chan made sterling efforts to provide quality services to government departments in the areas of procurement and supplies, transport operation and management, and printing services. During Mr Chan's tenure as Director (Special Duties), Housing Bureau, he spearheaded the amendment of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) to implement tenancy regulation on subdivided units.""
-
-  Brief biographical notes of the five officers are set out below:
-
-Mr Eddie Mak Tak-wai
-------------------------
-
-  Mr Mak joined the Administrative Service in August 1991 and rose to the rank of Administrative Officer Staff Grade A1 in April 2024. He has served in various bureaux and departments, including the former City and New Territories Administration, the former Chief Secretary's Office, the former New Airport Projects Co-ordination Office, the former Information Technology and Broadcasting Bureau, the Civil Service Bureau, Hong Kong Economic and Trade Office, Washington and the Post Office. He was Hong Kong Commissioner for Economic and Trade Affairs, USA, from July 2018 to September 2021, Director, Celebrations Coordination Office from January to June 2022, and served as Permanent Secretary for Innovation, Technology and Industry from July 2022 to September 2025.
-
-Mr Carlson Chan Ka-shun
------------------------------
-
-  Mr Chan joined the Administrative Service in September 1987 and rose to the rank of Administrative Officer Staff Grade A in April 2018. He has served in various bureaux and departments, including the former City and New Territories Administration, the former Planning, Environment and Lands Branch, the former Chief Secretary's Office, the former Hong Kong Government Office in London, the former Home Affairs Branch, the Hong Kong Economic and Trade Office in Tokyo, the Housing Department, the Environmental Protection Department, the Office of the Chief Executive-elect and the Chief Executive's Office. He was Commissioner for Labour from October 2016 to December 2020, Director (Special Duties), Transport and Housing Bureau (later renamed as Director (Special Duties), Housing Bureau)/Director of Sales of First-hand Residential Properties Authority from December 2020 to July 2022, and served as Director of Government Logistics from July 2022 to September 2025.
-
-Mr Kevin Choi
-----------------
-
-  Mr Choi joined the Administrative Service in October 1997 and rose to the rank of Administrative Officer Staff Grade A in April 2024. He has served in various bureaux and departments, including the former Planning, Environment and Lands Bureau, the Food and Environmental Hygiene Department, the former Commerce, Industry and Technology Bureau (later reorganised as the Commerce and Economic Development Bureau), the Chief Executive's Office, the Development Bureau, the Civil Aviation Department, the former Transport and Housing Bureau and the former Food and Health Bureau (later reorganised as the Health Bureau). He was Private Secretary to the Chief Executive from February 2023 to May 2024, Permanent Secretary, Chief Executive's Office from May 2024 to April 2025, and has been serving as Permanent Secretary for Transport and Logistics since April 2025.
-
-Mr Vic Yau Cheuk-hang
---------------------------
-
-  Mr Yau joined the Administrative Service in July 1997 and rose to the rank of Administrative Officer Staff Grade A in April 2025. He has served in various bureaux and departments, including the Home Affairs Department, the former Home Affairs Bureau, the former Environment, Transport and Works Bureau, the Housing Department, the Chief Executive's Office and the Security Bureau. He was Deputy Secretary for Development (Planning and Lands) from December 2018 to February 2023, Director, Preparatory Office for Northern Metropolis from February to June 2023, and has been serving as Director, Northern Metropolis Co-ordination Office since June 2023.
-
-Mrs Vicki Kwok Wong Wing-ki
----------------------------------
-
-  Mrs Kwok joined the Administrative Service in September 1994 and rose to the rank of Administrative Officer Staff Grade B1 in April 2024. She has served in various bureaux and departments, including the former Security Branch, the Transport Department, the former Health and Welfare Bureau, the former Education and Manpower Bureau, the former Constitutional Affairs Bureau, Chief Secretary for Administration's Office, the former Environment Bureau, the Home Affairs Department, the Housing Department and the Environmental Protection Department. She was Deputy Secretary for Security from May 2020 to July 2022, Deputy Secretary for Culture, Sports and Tourism from July 2022 to May 2024, and has been serving as Private Secretary to the Chief Executive since May 2024."
+陳美寶表示，港鐵每日接載超過五百萬人次出行，是香港交通運輸的骨幹。她期望新任主席憑藉其多年鐵路營運的經驗，帶領港鐵公司應用創新科技，持續提升香港鐵路的安全、效率及可靠性，並延續港鐵「推動城市前行」的使命，以鐵路基建為香港的發展及與內地的跨界融合添加動能。"
