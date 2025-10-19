@@ -1,4 +1,26 @@
 title,date,summary,scrape_time,section,source,url,news_content
+"CCTV system has led to 840 arrests, say police",2025-10-19 11:58,,2025-10-19 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1827820-20251019.htm,"Police on Sunday said they will expand their surveillance camera system to include public housing estates, cross-harbour tunnels, immigration control points and venues hosting the National Games by the end of the year, and gradually integrate cameras installed by other government departments and public organisations.
+
+The force has already installed more than 4,500 closed circuit television (CCTV) cameras under its “SmartView” initiative since it was launched last year, and credits the footage with helping officers detect more than 480 criminal cases so far, leading to the arrests of more than 840 people.
+
+It plans to add at least another 500 cameras to the system by the end of 2025.
+
+The cameras are installed on lampposts, government buildings and on police vehicles, and the force is planning to install the first traffic light-mounted camera before the end of the year.
+
+Besides detecting crime, Police Operations Wing Senior Superintendent Leung Ming-leung said the system is also used to monitor and assess road conditions and detect flooding.
+
+“Taking the recent Super Typhoon Ragasa as an example, we have used SmartView cameras to monitor and assess the conditions in real time at various high-risk locations, such as low-lying areas, vulnerable flooding areas and public transport interchanges,” he said.
+
+After the storm passed, authorities shared information from the cameras with the Drainage Services Department to deploy personnel and resources to the most affected areas, helping to restore normalcy as quickly as possible.
+
+Police also say the system has proven to be “highly effective” in using AI-powered technology to generate precise crowd estimates at large scale events such as the recent National Day fireworks display -- significantly enhancing the force’s crowd management capabilities.
+
+The force says it aims to integrate cameras installed by other government departments and public organisations, such as those at the Kai Tak Sports Park.
+
+“To date, over 5,000 such cameras have been connected to SmartView,” the force said.
+
+It’s planning to integrate cameras from 10 public housing estates managed by the Housing Department, three cross-harbour tunnels managed by the Transport Department, seven venues related to the National Games that are managed by the Leisure & Cultural Services Department, and four immigration control points."
+天文台：考慮明日黃昏前後發出三號強風信號,2025-10-19 11:38,,2025-10-19 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827818-20251019.htm, 
 張偉麟：中醫醫院普通科門診收費180元　是一般市民可負擔水平,2025-10-19 11:19,,2025-10-19 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827816-20251019.htm,"本港首間中醫醫院將於12月11日起分階段投入服務，醫務衞生局中醫醫院發展計劃辦事處總監張偉麟表示，中醫醫院的資助服務佔65%，而市場導向服務就佔35%，他希望巿民明白中醫醫院的收費系統，並能夠有好的預算，所以採用套餐的模式收費，強調是一般市民可以負擔的水平。
 
 張偉麟在一個電台節目表示，中醫醫院的普通科門診收費180元，包醫師看診及開藥，即使驗血和照X光亦不會另外收費。如果是日間住院就收費450元，中醫師會看診及檢視治療效果，如果需要有中西醫協作，會有西醫看診，而中醫的治療例如針灸、物理治療等，亦會包括在450元的收費當中。
@@ -13,7 +35,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 陳茂波說，近年急速冒起的數字資產，各經濟體成員都認識到其影響力正加快擴大，亦認為國際間應加強協作，穩慎管控其對金融系統穩定所帶來的風險。他在美國跟當地商界領袖及智庫交流時，大家普遍認為中美保持穩定的關係，不但有利於兩國自身的發展，對全球經濟的未來更是至關重要，大家對此都有所期盼。
 
 他表示，不少當地的商界朋友也表示，今年以來內地企業在創科的不同領域展現出跨越式的發展，讓他們重新評估中國的創科實力，同時亦希望通過香港作為切入點及跳板，開拓內地和亞洲市場，尋找更多新的合作機遇。"
-警方銳眼計劃今年目標擬接入過海隧道及口岸閉路電視鏡頭,2025-10-19 10:31,,2025-10-19 11:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827813-20251019.htm,"警方自去年起透過銳眼計劃在全港罪案率較高、人流較多的公眾地方安裝閉路電視鏡頭，至今全港各區共安裝超過4500支閉路電視鏡頭，協助警方偵破超過480宗刑事案件，拘捕超過840人。
+警方去年起透過銳眼計劃偵破逾480宗刑事案拘840多人,2025-10-19 10:31,,2025-10-19 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827813-20251019.htm,"警方自去年起透過銳眼計劃在全港罪案率較高、人流較多的公眾地方安裝閉路電視鏡頭，至今全港各區共安裝超過4500支閉路電視鏡頭，協助警方偵破超過480宗刑事案件，拘捕超過840人。
 
 警方又會逐步將其他政府部門和公營機構，例如啟德體育園、港鐵的閉路電視鏡頭納入銳眼，擴展銳眼的覆蓋範圍，目前已接入5000多支這類鏡頭。今年目標接入房屋署10條公共屋邨、運輸署3條海底隧道、康文署7個與全國運動會相關場館，以及4個出入境管制站的閉路電視鏡頭。
 
@@ -22,7 +44,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 銳眼並擁有人流估算功能，梁銘亮指出，雖然其他國家具有運用小模型運算法的人流估算系統，但不適合香港使用，因為本港環境較為特殊，煙花匯演臨海舉行，海面會反光，而且街燈亮度也與外國不同，若用小模型來運算，難免不夠準確。
 
 另外，警務處今年7月底將鏡頭安裝在警車上，作為流動閉路電視，並正研究進一步擴展安裝地點，包括今年內在交通燈上安裝首支鏡頭。"
-警方去年起透過銳眼計劃偵破逾480宗刑事案拘840多人,2025-10-19 10:31,,2025-10-19 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827813-20251019.htm,"警方自去年起透過銳眼計劃在全港罪案率較高、人流較多的公眾地方安裝閉路電視鏡頭，至今全港各區共安裝超過4500支閉路電視鏡頭，協助警方偵破超過480宗刑事案件，拘捕超過840人。
+警方銳眼計劃今年目標擬接入過海隧道及口岸閉路電視鏡頭,2025-10-19 10:31,,2025-10-19 11:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827813-20251019.htm,"警方自去年起透過銳眼計劃在全港罪案率較高、人流較多的公眾地方安裝閉路電視鏡頭，至今全港各區共安裝超過4500支閉路電視鏡頭，協助警方偵破超過480宗刑事案件，拘捕超過840人。
 
 警方又會逐步將其他政府部門和公營機構，例如啟德體育園、港鐵的閉路電視鏡頭納入銳眼，擴展銳眼的覆蓋範圍，目前已接入5000多支這類鏡頭。今年目標接入房屋署10條公共屋邨、運輸署3條海底隧道、康文署7個與全國運動會相關場館，以及4個出入境管制站的閉路電視鏡頭。
 
@@ -262,25 +284,6 @@ The incident forced the closure of all Sheung Wan-bound lanes of Connaught Road 
 Some KMB services were affected by the road closures, with a number of routes diverted, while tram services were also hit.
 _____________________________
 Last updated: 2025-10-18 HKT 19:03"
-At least two injured in major fire in Central,2025-10-18 17:40,,2025-10-18 18:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1827762-20251018.htm,"Firefighters were tackling a serious blaze in Central on Saturday that left at least two people injured and forced the closure of roads in the area. 
-
-Three people were said to have been trapped in a lift after scaffolding on Chinachem Tower on Connaught Road Central caught fire at around 4.30pm. 
-
-The incident was upgraded to a No 3 alarm a short time later. 
-
-Thick smoke billowed from the scene and some people reported hearing explosions.
-
-A man and a woman were taken to hospital, both in a conscious state. 
-
-Firefighters said around 30 people evacuated the building without assistance. 
-
-The incident forced the closure of all Sheung Wan-bound lanes of Connaught Road Central near Pedder Street, along with all lanes of Des Voeux Road Central, in both directions, between Queen Victoria Street and Pottinger Street.
-
-""Motorists are advised to use alternative routes and avoid heading to the vicinity of Central,"" transport officials said. 
-
-Some KMB services were affected by the road closures, with a number of routes diverted, while tram services were also hit.
-_____________________________
-Last updated: 2025-10-18 HKT 18:02"
 Four taken to hospital after major fire in Central,2025-10-18 17:40,,2025-10-18 23:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1827762-20251018.htm,"Firefighters spent several hours tackling a serious blaze in Central on Saturday that forced scores of people to flee to safety and put four people in hospital.
 
 Scaffolding on Chinachem Tower on Connaught Road Central caught fire at around 4.30pm. 
@@ -300,6 +303,25 @@ The incident forced the closure of all Sheung Wan-bound lanes of Connaught Road 
 Some KMB services were affected by the road closures, with a number of routes diverted, while tram services were also hit.
 _____________________________
 Last updated: 2025-10-18 HKT 22:39"
+At least two injured in major fire in Central,2025-10-18 17:40,,2025-10-18 18:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1827762-20251018.htm,"Firefighters were tackling a serious blaze in Central on Saturday that left at least two people injured and forced the closure of roads in the area. 
+
+Three people were said to have been trapped in a lift after scaffolding on Chinachem Tower on Connaught Road Central caught fire at around 4.30pm. 
+
+The incident was upgraded to a No 3 alarm a short time later. 
+
+Thick smoke billowed from the scene and some people reported hearing explosions.
+
+A man and a woman were taken to hospital, both in a conscious state. 
+
+Firefighters said around 30 people evacuated the building without assistance. 
+
+The incident forced the closure of all Sheung Wan-bound lanes of Connaught Road Central near Pedder Street, along with all lanes of Des Voeux Road Central, in both directions, between Queen Victoria Street and Pottinger Street.
+
+""Motorists are advised to use alternative routes and avoid heading to the vicinity of Central,"" transport officials said. 
+
+Some KMB services were affected by the road closures, with a number of routes diverted, while tram services were also hit.
+_____________________________
+Last updated: 2025-10-18 HKT 18:02"
 Three trapped in No 3 alarm fire in Central,2025-10-18 17:40,,2025-10-18 17:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1827762-20251018.htm,"Firefighters were tackling a serious blaze in Central on Saturday that left three people trapped in a lift. 
 
 Scaffolding on Chinachem Tower on Connaught Road Central caught fire at around 4.30pm. 
@@ -314,14 +336,14 @@ The incident was upgraded to a No 3 alarm a short time later.
 楊恩健出席一個活動後表示，今次牽涉許多大型場地，策略上會採取快速處理事故的方法，加入消防及救護人員組成的快速應變隊，額外調派千多人在不同場館巡邏，並引入實時定位人員軟件，指揮中心可以觀察不同巡邏位置，有滅火及救人需要時可以迅速處理。
 
 另外，楊恩健又說，處方已開展重陽節山火部署工作，當日會額外調配200多人在新界北的8個山火熱點巡查，提醒市民小心山火。他指出，過去最高錄得單日128宗山火，但採取有關策略後，上年僅錄得兩宗山火。今年亦會應用科技，一旦發生山火，會動用大型無人機，運載重型工具協助救援。"
-中環華懋大廈棚架起火升為三級　3人被困升降機,2025-10-18 17:02,,2025-10-18 17:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827760-20251018.htm,"中環華懋大廈有棚架發生火警，消防在下午4時36分將火警升為三級，並正動用兩條喉及兩隊煙帽隊灌救。
-
-警方下午近4時半接報，指華懋大廈地下後巷有棚架起火，有3人被困升降機内。現場冒出大量濃煙，亦有人報稱聽到爆炸聲。"
 中環華懋大廈後巷棚架起火　3人被困升降機,2025-10-18 17:02,,2025-10-18 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827760-20251018.htm,"中環華懋大廈後巷有棚架發生火警。
 
 警方下午近4時半接報，指華懋大廈地下後巷有棚架起火，有3人被困升降機内。現場冒出大量濃煙，亦有人報稱聽到爆炸聲。
 
 消防派出一條喉及一隊煙帽隊到場灌救，初步未有傷亡報告。"
+中環華懋大廈棚架起火升為三級　3人被困升降機,2025-10-18 17:02,,2025-10-18 17:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827760-20251018.htm,"中環華懋大廈有棚架發生火警，消防在下午4時36分將火警升為三級，並正動用兩條喉及兩隊煙帽隊灌救。
+
+警方下午近4時半接報，指華懋大廈地下後巷有棚架起火，有3人被困升降機内。現場冒出大量濃煙，亦有人報稱聽到爆炸聲。"
 北都沙嶺園區招標　孫東說會綜合考量選出最能發揮潛力方案,2025-10-18 17:00,,2025-10-18 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827759-20251018.htm,"位處香港北部都會區的沙嶺數據園區用地日前正式公開招標，創新科技及工業局局長孫東表示，沙嶺是少數能即時供應的「熟地」，自然成為北部發展的首選地方之一。過去兩年，政府先後進行兩次市場意向調查，每次均收到超過10份來自本地及海內外的意見書，業界普遍歡迎沙嶺改建為數據和相關產業園區。
 
 孫東在網誌說，為確保用地以高端數據園區為主導用途，政府制定招標文件時加入相關條款，並採用「雙信封制」投標安排。非價格建議和價格建議的比重分別為70%和30%，非價格建議的評審考量，包括擬發展數據園區的總體投資、算力規模、園區的投產日期、預計可創造的經濟產出和技術性職位、過往開發高端數據中心經驗及創新建議等，會通過綜合考量選出最能發揮用地潛力的方案。
@@ -453,10 +475,10 @@ Choi also said the government has reserved sites in Hung Shui Kiu in the Norther
 
 
 他又說，特區政府正積極籌備與「一帶一路」綠色發展國際聯盟合作，共建「一帶一路」綠色發展香港合作平台；環保署將與國際聯盟建立定期溝通與協作機制，促進與「一帶一路」國家的環保部門、相關機構與企業開展交流研討，強化國際環保合作網絡。"
-香港科學院沉痛哀悼楊振寧　讚揚粒子物理學開創研究影響深遠,2025-10-18 14:30,,2025-10-18 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827745-20251018.htm,"諾貝爾物理學獎得主楊振寧病逝，享年103歲，香港科學院表示全體同仁沉痛哀悼，並向他的家人與親友致以最深切慰問。
+香港科學院沉痛哀悼楊振寧　讚開創研究粒子物理學影響深遠,2025-10-18 14:30,,2025-10-18 15:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827745-20251018.htm,"諾貝爾物理學獎得主楊振寧病逝，享年103歲，香港科學院表示全體同仁沉痛哀悼，並向他的家人與親友致以最深切慰問。
 
 學院的新聞稿表示，楊振寧自2015年香港科學院成立之初，即為該院榮譽院士。他在粒子物理學領域的開創性研究，對現代物理發展影響深遠；又說，楊振寧為科學與人類進步作出不朽貢獻，將永遠為世人所銘記。"
-香港科學院沉痛哀悼楊振寧　讚開創研究粒子物理學影響深遠,2025-10-18 14:30,,2025-10-18 15:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827745-20251018.htm,"諾貝爾物理學獎得主楊振寧病逝，享年103歲，香港科學院表示全體同仁沉痛哀悼，並向他的家人與親友致以最深切慰問。
+香港科學院沉痛哀悼楊振寧　讚揚粒子物理學開創研究影響深遠,2025-10-18 14:30,,2025-10-18 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827745-20251018.htm,"諾貝爾物理學獎得主楊振寧病逝，享年103歲，香港科學院表示全體同仁沉痛哀悼，並向他的家人與親友致以最深切慰問。
 
 學院的新聞稿表示，楊振寧自2015年香港科學院成立之初，即為該院榮譽院士。他在粒子物理學領域的開創性研究，對現代物理發展影響深遠；又說，楊振寧為科學與人類進步作出不朽貢獻，將永遠為世人所銘記。"
 天文台：熱帶氣旋及季候風共同影響　料下周中期市區跌至20度,2025-10-18 14:22,,2025-10-18 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827744-20251018.htm,"天文台說，熱帶氣旋風神會在明日稍後進入本港800公里範圍內，同時，一股強烈東北季候風預料會抵達廣東，本港風勢逐漸增強，會考慮發出強烈季候風信號。而隨著風神在星期一逐漸靠近廣東沿岸，屆時考慮直接發出3號強風信號取代強烈季候風信號，而不會發出一號戒備信號。
@@ -501,13 +523,3 @@ As for traffic violations, Chan said the worst-case scenario for mainland driver
 陳美寶︰粵車南下做好指南及配套可蓬勃旅遊生態,2025-10-18 12:18,,2025-10-18 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827738-20251018.htm,"政府爭取下月實施「粵車南下」計劃，運輸及物流局局長陳美寶表示，現時是推行的合適時機，根據「港車北上」的經驗，只要做好指南及配套，可以帶來蓬勃旅遊生態。
 
 她表示，初期會採取可控有序的規模和步代，日後增加預約名額要視乎數個因素，包括用家體驗、接待能力及社會反應等。"
-男子獅子山對落200米死亡　警方正調查事件,2025-10-18 12:12,,2025-10-18 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827736-20251018.htm,"一名男子在獅子山行山期間，發現有人在山頂對落200米左右的位置昏迷於是報警。救援人員到場，證實男事主死亡，稍後以直升機將遺體運走。
-
-警方表示，今早10時左右接報，現正調查事件。"
-林定國稱本屆立法會通過約130條法例　多過完善選舉制度前議會,2025-10-18 12:09,,2025-10-18 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1827735-20251018.htm,"特區政府日前舉辦「行政立法同心治港創未來」研討會，有份出席的律政司司長林定國形容深有感受。
-
-林家國在社交網頁說，本屆立法會是中央完善香港選舉制度、落實愛國者治港原則後的首屆立法會。本屆立法會完成了20多年都未能履行的憲制責任，制定了《維護國家安全條例》；另外，剛通過規管網約車服務的條例，解決一個累積了約10年的重大民生問題。在數量上，本屆立法會通過了約130條法例，較完善選舉制度前的前屆立法會通過法案的數量，大為增加。這些都充分顯示現行選舉制度下的立法會與行政機關各司其職，高效履行憲制責任。
-
-他說，第八屆立法會的選舉提名期即將開始，衷心期望有志之士報名參選；所有合資格選民在12月7日投票日投票，行使公民權利、履行公民義務。
-
-而政務司副司長卓永興亦在社交網頁提到，在行政主導和愛國者治港原則下，行政立法關係回歸理性，有效發揮良性互動；議會不再拉布、流會、侮辱官員、阻撓政府施政。日前的研討會對第七屆立法會的工作，作出深入、公允和高度肯定的總結，也對下屆行政立法的合作定下標竿，他呼籲各界支持12月7日的立法會選舉。"
