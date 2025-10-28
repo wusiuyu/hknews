@@ -1,15 +1,109 @@
 title,date,scrape_time,section,source,url,news_content
-TACO of DH introduces smart tools for filling in fixed penalty notices to enhance efficiency,2025-10-28 14:00,2025-10-28 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800250.htm,"âThe Tobacco and Alcohol Control Office (TACO) of the Department of Health announced today (October 28) that frontline TACO officers will start using smart tools for issuing fixed penalty notices (FPNs) from October 30. This initiative will streamline procedures, improve data accuracy and enhance enforcement efficiency.
+環境及生態局局長出席第二十屆國際環保博覽開幕典禮致辭,2025-10-28 14:38,2025-10-28 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800377.htm,"以下是環境及生態局局長謝展寰今日（十月二十八日）出席第二十屆國際環保博覽開幕典禮的致辭：
 
-Frontline TACO officers are empowered to enforce the Smoking (Public Health) Ordinance (Cap. 371), which includes taking prosecution actions against individuals who smoke in statutory no-smoking areas or on public transport carriers.
+尊敬的于副部長（國家生態環境部副部長于會文）, Sophia（香港貿易發展局總裁張淑芬）, excellencies, distinguished guests, ladies and gentlemen,
 
-Currently, TACO officers need to manually fill in offenders' personal details on printed FPNs during enforcement. Staff in the back office then check the information and input it into the backend system.
+  Good morning. Let me begin by saying a few words in Putonghua.
 
-Starting October 30, when issuing FPNs to offenders, TACO officers will be able to scan offenders' Hong Kong identity (HKID) cards using an electronic system, which will instantly import the offender's personal details, such as name and HKID number, into the FPN. The system will also automatically record the time, location and details of the enforcement officers. Officers will print the FPNs on the spot using portable printers and issue them to the offenders. The data will be automatically synchronised with the backend system, saving processing time and manpower needs in the back office while improving overall efficiency.
+各位嘉賓，早上好！
+  
+我代表香港特別行政區政府歡迎各位出席第二十屆國際環保博覽開幕禮，並特別感謝中央政府及各省市，東盟（東南亞國家聯盟）以及「一帶一路」國家政府代表到來參加並大力支持這年度環保盛事。
+  
+我很高興來自不同地方的政府、商界以及業界人士可以共聚一堂，分享交流綠色創科經驗及技術，為建設零碳未來作出貢獻。
+  
+  It is my great pleasure to welcome you all today for the opening of the 20th Eco Expo Asia - a remarkable milestone in Hong Kong's journey towards sustainability. Over the past two decades, the Eco Expo Asia has evolved into a leading platform for innovation, knowledge exchange and partnership in tackling global environmental challenges with tremendous support from all over the world. We have brought together delegations from various provinces and cities on the Chinese Mainland, ASEAN (Association of Southeast Asian Nations) as well as Belt and Road countries joining this signature annual environmental trade event to strive for a sustainable future.
+  
+  In the global journey towards sustainability, Hong Kong serves as a ""super connector"". With our unique position as an international city within the Guangdong-Hong Kong-Macao Greater Bay Area and a bridge between the Chinese Mainland and the world, Hong Kong brings together talent, technology, and capital to foster collaboration and scale up green innovation.
+  
+  To advance our commitment to promoting participation in green co-operation, I am pleased to announce today that the Hong Kong SAR (Special Administrative Region) Government and the Ministry of Ecology and Environment will sign a co-operation agreement on jointly setting up a Belt and Road green development co-operation platform in Hong Kong. This platform will connect international environmental co-operation networks and facilitate technology exchanges and transfers of solutions among Belt and Road countries. I would like to take this opportunity to express our sincere gratitude to the Central Government for its support for this collaborative initiative, and to our partner, the Belt and Road Initiative International Green Development Coalition.
+  
+  Quality training is essential for talent growth. We will establish a Belt and Road sustainable green development training centre in 2026 in collaboration with the Chinese Academy of Sciences, IHE Delft (IHE Delft Institute for Water Education) and local bodies to provide high-quality environmental training for professionals from Belt and Road countries, Hong Kong and the Chinese Mainland. The Centre will serve as a hub in the international sustainable development network, nurturing talent and supporting the exchange of green technologies across Belt and Road economies. We have signed a Memorandum of Understanding with IHE Delft to establish, under the Centre, the Global Sanitation Graduate School Regional Hub East Asia in Hong Kong next year, positioning Hong Kong as a leading gateway for cutting-edge environmental training and global partnerships.
+  
+     The theme of this year's Expo is ""Green Innovations for Carbon Neutrality"", it reflects both the urgency as well as the opportunity of our time. Climate change remains an urgent global challenge that demands creativity, co-operation and commitment. Green innovations, from renewable solutions to smart city green ideas, hold the key to accelerating our transition towards a net-zero future.
+  
+  To tie in the country's dual carbon targets, Hong Kong is firmly committed to reaching carbon neutrality before 2050 with four key areas of focus: net-zero electricity generation, green transport, green buildings and waste reduction. Hong Kong is making good progress to meet this target. Our carbon emissions peaked in 2014, and compared to the peak, our carbon emissions today has been reduced almost 30 per cent already. Our carbon emissions per capita is only about one quarter of the United States, and about 60 per cent of that of the European Union.
+  
+  Of course, the journey to achieving carbon neutrality cannot go without new energy solutions and green technologies. The Hong Kong Government is committed to support local development of green technologies to promote the commercialisation of green I&T (innovation and technology) outcomes. Let me share with you two inspiring examples from the city. A local company plans to establish a factory using recycled plastic to produce acoustic metamaterials, initially processing 3 500 tonnes of household plastic annually, doubling to 7 000 tonnes within five years. Another local company is setting up a production line using recycled materials like tiles and glass to create electricity-free cooling products, promoting the circular economy and sustainable productivity. You are most welcome to visit their booth, which is right next to the Hong Kong Government booth, to learn more about their stories.
+  
+  Apart from these, we also support development of the sustainable aviation fuel value chain, launching of hydrogen trial projects in different areas, market development of technologies for battery-swapping electric vehicles and automated battery-swapping stations, district cooling systems, and promotion of carbon reduction in existing buildings.
+  
+  China stands at the forefront of global green innovation and industrial transformation. With the support from the Research Center for Eco-Environmental Sciences of the Chinese Academy of Sciences, we are co-organising a technical visit to Hunan province for our Belt and Road delegations. This city's international connectivity ensures that Chinese green innovations can be deployed, scaled and commercialised globally, amplifying their impact well beyond our borders.
+  
+  Ladies and gentlemen, bringing together policy makers, innovators, investors and businesses, this Expo exemplifies the power of collaboration - helping governments and enterprises transform groundbreaking technologies and strategic ambitions into concrete progress for carbon neutrality.
+  
+  I would like to express my heartfelt thanks to the Hong Kong Trade Development Council as well as all exhibitors and participants for making this Expo a global showcase of green leadership. Let us continue to work together to drive the world through the low carbon green transition to a better world for our children.
+  
+  I wish the Expo every success, and to all of you, good health, good business, and a happy stay in Hong Kong. Thank you."
+律政司司長在北京出席2025金融街論壇年會金融法治論壇致辭（只有中文）（附圖）,2025-10-28 14:38,2025-10-28 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800384.htm,"以下是律政司司長林定國資深大律師今日（十月二十八日）在北京出席2025金融街論壇年會金融法治論壇的致辭：
 
-Neither TACO officers nor the relevant mobile application will store images of the offenders' HKID cards. The personal data collected during enforcement will remain the same as that currently recorded manually.
+尊敬的各位領導、各位嘉賓、女士們、先生們：
 
-The Director of Health, empowered under section 17A of the Fixed Penalty (Smoking Offences) Ordinance (Cap. 600), has specified the formats for both handwritten and mobile-printed FPNs (see Annex). Although the two versions of FPNs differ slightly in format, their content is identical and both carry the same legal effect. Offenders may still be issued handwritten FPNs by TACO or other law enforcement departments."
+大家早上好。我非常榮幸能夠出席今日這個重要的論壇。首先，我想感謝北京金融法院提供這個平台，讓我有機會就「深化京港合作，提升涉外法治建設水平」這個議題，與大家分享我的一點意見。
+
+在「一國兩制」下，香港不僅保留亦持續發展其獨特的法律和金融制度，而兩者關係更是密不可分。香港今日能成為人所共知的國際金融中心，其中一個重要原因是擁有一個以普通法為基礎的高度法治環境。香港的金融法律制度，一方面便利和促進資金自由進出、各類金融活動有序進行，另一方面公平有效地保障投資者和其他持份者的合法權益。
+
+就京港這方面的合作而言，我認為香港能發揮起碼以下三項功能： 一是為以北京為基地的各類企業「出海」或與外方合作時作為一個融資平台；二是為北京金融法治建設提供一個參考；三是以累積的經驗和知識協助北京培養金融法律服務人才。要充分和有效合作、讓香港發揮上述功能，前提是必須對香港現行金融法律制度的一些基本架構和概念，以至最新的發展有一定的理解。故此，我希望用今天的寶貴機會作簡單報告。
+
+現行多管齊下的嚴謹執法機制
+
+確保所有金融活動嚴格依法進行，所有違法者受法律制裁，是維持大眾對金融制度信心的關鍵。香港對金融市場一向採取多管齊下的執法機制，以有效涵蓋所有風險與違規情形。其中，香港證券及期貨事務監察委員會（證監會）專注於證券期貨領域的監管；而香港交易所（港交所）則透過其上市委員會，監管上市發行人及上市公司。如果案件涉及其他商業詐騙或貪污等罪行，香港警務處以及廉政公署更會介入調查。
+
+以證監會為例，在香港法例第571章《證券及期貨條例》下，證監會可透過民事及刑事雙軌制裁機制有效地打擊內幕交易等市場失當行為。首先，就民事方面，我們設立了市場失當行為審裁處，由一名高等法院法官或前法官出任主席及兩名成員組成，獲賦權處理各種形式的市場失當行為個案，包括內幕交易、操縱市場等。該審裁處會以較易達到的民事舉證標準作出裁決，並可施加多種民事制裁，例如下令違規者交出所賺取的利潤、發出停止及終止令，以及撤銷違規者出任公司董事等。就刑事方面，如果證據充分及符合公眾利益，犯案者會遭受刑事檢控。一經定罪，最高可被判入獄10年及罰款港幣1,000萬元。這種雙軌並行的制度，可提高靈活度並確保法律的嚴格執行。
+
+值得一提的是，《證券及期貨條例》的部分條例具有域外效力。在SFC v Subotic (2023)一案中，香港終審法院裁定證監會有權不經法院許可，直接向境外被告發出訴訟文件，並確認證監會可向法院對境外違法者申請單方面資產凍結強制令。該判決肯定了證監會打擊跨境市場失當行為的能力。
+
+除了執法機關的努力外，香港法院對涉及金融市場的其他刑事罪行也採取極為嚴厲的態度。例如，近年針對使用傀儡戶口的洗黑錢案件，法院會應控方的申請對罪犯的刑期加幅高達三分之一，通過嚴厲判刑達致阻嚇效果，有效保護香港作為國際金融中心的聲譽。
+
+香港金融法律體系的持續更新
+
+另一方面，為確保監管框架能回應新挑戰，香港會根據市場發展與新興風險，不斷檢視現行機制並調整相關法例。
+
+以虛擬資產為例，虛擬資產交易日趨活躍，大部分交易均通過虛擬資產交易平台進行。不少投資者會把虛擬資產投放在交易平台以賺取回報。為保障投資者及減低對傳統金融體系構成風險，我們於二○二三年六月實施了虛擬資產交易平台發牌制度——所有在香港經營業務，或向香港投資者積極推廣其服務的中央虛擬資產交易平台，都須獲證監會發牌並遵守相關的監管規定。
+
+近年來，與法定貨幣掛鉤的數位資產——穩定幣——迅速崛起。今年八月，我們推出了《穩定幣條例》以監管涉及穩定幣的活動及設立發牌制度。條例實施後，任何人如在香港發行法幣穩定幣，或在香港或以外發行宣稱錨定港元價值的法幣穩定幣，必須向金融管理專員申領牌照。相關人士須符合儲備資產管理及贖回等方面的規定，包括妥善分隔客戶資產、維持健全的穩定機制等。《穩定幣條例》進一步完善香港數字資產活動監管框架，以保障貨幣和金融穩定，並鞏固提升香港國際金融中心的地位。
+
+為進一步加強投資者保障，財經事務及庫務局與證監會在今年六月底展開聯合諮詢引入針對虛擬資產交易服務和託管服務者的監管制度，計劃賦權證監會向虛擬資產交易服務提供者和託管服務提供者發牌並進行監督，並執行相關規例，證監會亦會負責為這兩類重要服務提供者制訂合規標準。此外，我們也建議修訂相關法律，限制使用某些可能會誤導投資者的稱銜，如限制會讓投資者誤以為某行業務或營運已受到證監會監管的稱銜。
+
+法律人才培訓
+
+剛才我提及涉外法治人才培訓。我們律政司在去年十一月正式啓動成立香港國際法律人才培訓學院，透過善用香港中英雙語普通法制度和國際化格局，為包括內地的法律界人士提供能力建設、知識和經驗分享的平台，例如學院剛舉辦了中國企業出海法律實務培訓班，向參加培訓班的33位中央直屬國有企業的法務主管及合規主任探討中國企業「出海」的風險及其適用的合規策略，當中包括有關香港穩定幣的專題講座和監管香港證券及期貨市場的座談環節。我們期待與北京金融法院和不同單位商討，量身打造針對性的培訓課程，培育優秀涉外法律人才。
+
+在「一國兩制」下，香港必須更善用其制度獨特優勢，更好融入國家發展大局。其中重要一環，就是加強與北京及其他內地城市在金融法治建設方面的合作。我期待與北京涉及金融法治建設各單位共同探討，如何制定和落實具體措施，深化合作，攜手提升涉外法治建設水平，為中國式現代化進一步改革開放作出必要和更大的貢獻。最後，我預祝今日的論壇圓滿成功。謝謝。"
+Speech by SEE at opening ceremony of 20th Eco Expo Asia,2025-10-28 14:38,2025-10-28 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800381.htm,"  Following is the speech by the Secretary for Environment and Ecology, Mr Tse Chin-wan, at the 20thEco Expo Asia today (October 28):
+
+å°æ¬çäºå¯é¨é· (Vice Minister of the Ministry of Ecology and Environment Mr Yu Huiwen), Sophia (Executive Director of the Hong Kong Trade Development Council, Ms Sophia Chong), excellencies, distinguished guests, ladies and gentlemen,
+
+Good morning. Let me begin by saying a few words in Putonghua.
+
+åä½åè³ï¼æ©ä¸å¥½ï¼
+
+æä»£è¡¨é¦æ¸¯ç¹å¥è¡æ¿åæ¿åºæ­¡è¿åä½åºå¸­ç¬¬äºåå±åéç°ä¿åè¦½éå¹ç¦®ï¼ä¸¦ç¹å¥æè¬ä¸­å¤®æ¿åºååçå¸ï¼æ±çï¼æ±åäºåå®¶è¯çï¼ä»¥åãä¸å¸¶ä¸è·¯ãåå®¶æ¿åºä»£è¡¨å°ä¾ååä¸¦å¤§åæ¯æéå¹´åº¦ç°ä¿çäºã
+
+æå¾é«èä¾èªä¸åå°æ¹çæ¿åºãåçä»¥åæ¥­çäººå£«å¯ä»¥å±èä¸åï¼åäº«äº¤æµç¶è²åµç§ç¶é©åæè¡ï¼çºå»ºè¨­é¶ç¢³æªä¾ä½åºè²¢ç»ã
+
+It is my great pleasure to welcome you all today for the opening of the 20th Eco Expo Asia - a remarkable milestone in Hong Kong's journey towards sustainability. Over the past two decades, the Eco Expo Asia has evolved into a leading platform for innovation, knowledge exchange and partnership in tackling global environmental challenges with tremendous support from all over the world. We have brought together delegations from various provinces and cities on the Chinese Mainland, ASEAN (Association of Southeast Asian Nations) as well as Belt and Road countries joining this signature annual environmental trade event to strive for a sustainable future.
+
+In the global journey towards sustainability, Hong Kong serves as a ""super connector"". With our unique position as an international city within the Guangdong-Hong Kong-Macao Greater Bay Area and a bridge between the Chinese Mainland and the world, Hong Kong brings together talent, technology, and capital to foster collaboration and scale up green innovation.
+
+To advance our commitment to promoting participation in green co-operation, I am pleased to announce today that the Hong Kong SAR (Special Administrative Region) Government and the Ministry of Ecology and Environment will sign a co-operation agreement on jointly setting up a Belt and Road green development co-operation platform in Hong Kong. This platform will connect international environmental co-operation networks and facilitate technology exchanges and transfers of solutions among Belt and Road countries. I would like to take this opportunity to express our sincere gratitude to the Central Government for its support for this collaborative initiative, and to our partner, the Belt and Road Initiative International Green Development Coalition.
+
+Quality training is essential for talent growth. We will establish a Belt and Road sustainable green development training centre in 2026 in collaboration with the Chinese Academy of Sciences, IHE Delft (IHE Delft Institute for Water Education) and local bodies to provide high-quality environmental training for professionals from Belt and Road countries, Hong Kong and the Chinese Mainland. The Centre will serve as a hub in the international sustainable development network, nurturing talent and supporting the exchange of green technologies across Belt and Road economies. We have signed a Memorandum of Understanding with IHE Delft to establish, under the Centre, the Global Sanitation Graduate School Regional Hub East Asia in Hong Kong next year, positioning Hong Kong as a leading gateway for cutting-edge environmental training and global partnerships.
+
+ The theme of this year's Expo is ""Green Innovations for Carbon Neutrality"", it reflects both the urgency as well as the opportunity of our time. Climate change remains an urgent global challenge that demands creativity, co-operation and commitment. Green innovations, from renewable solutions to smart city green ideas, hold the key to accelerating our transition towards a net-zero future.
+
+To tie in the country's dual carbon targets, Hong Kong is firmly committed to reaching carbon neutrality before 2050 with four key areas of focus: net-zero electricity generation, green transport, green buildings and waste reduction. Hong Kong is making good progress to meet this target. Our carbon emissions peaked in 2014, and compared to the peak, our carbon emissions today has been reduced almost 30 per cent already. Our carbon emissions per capita is only about one quarter of the United States, and about 60 per cent of that of the European Union.
+
+Of course, the journey to achieving carbon neutrality cannot go without new energy solutions and green technologies. The Hong Kong Government is committed to support local development of green technologies to promote the commercialisation of green I&T (innovation and technology) outcomes. Let me share with you two inspiring examples from the city. A local company plans to establish a factory using recycled plastic to produce acoustic metamaterials, initially processing 3 500 tonnes of household plastic annually, doubling to 7 000 tonnes within five years. Another local company is setting up a production line using recycled materials like tiles and glass to create electricity-free cooling products, promoting the circular economy and sustainable productivity. You are most welcome to visit their booth, which is right next to the Hong Kong Government booth, to learn more about their stories.
+
+Apart from these, we also support development of the sustainable aviation fuel value chain, launching of hydrogen trial projects in different areas, market development of technologies for battery-swapping electric vehicles and automated battery-swapping stations, district cooling systems, and promotion of carbon reduction in existing buildings.
+
+China stands at the forefront of global green innovation and industrial transformation. With the support from the Research Center for Eco-Environmental Sciences of the Chinese Academy of Sciences, we are co-organising a technical visit to Hunan province for our Belt and Road delegations. This city's international connectivity ensures that Chinese green innovations can be deployed, scaled and commercialised globally, amplifying their impact well beyond our borders.
+
+Ladies and gentlemen, bringing together policy makers, innovators, investors and businesses, this Expo exemplifies the power of collaboration - helping governments and enterprises transform groundbreaking technologies and strategic ambitions into concrete progress for carbon neutrality.
+
+I would like to express my heartfelt thanks to the Hong Kong Trade Development Council as well as all exhibitors and participants for making this Expo a global showcase of green leadership. Let us continue to work together to drive the world through the low carbon green transition to a better world for our children.
+
+I wish the Expo every success, and to all of you, good health, good business, and a happy stay in Hong Kong. Thank you."
 衞生署控煙酒辦公室引入智能工具填寫定額罰款通知書　提升效率,2025-10-28 14:00,2025-10-28 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800249.htm,"​衞生署控煙酒辦公室（控煙酒辦）今日（十月二十八日）宣布，控煙酒辦前線執法人員由十月三十日起將引入智能工具填寫定額罰款通知書，簡化流程，提升資料準確性和執法效率。
 
 控煙酒辦前線執法人員獲授權執行《吸煙（公眾衞生）條例》（第371章），包括對在法定禁止吸煙區或公共交通工具內吸煙等違例情況作出檢控行動。
@@ -21,6 +115,17 @@ The Director of Health, empowered under section 17A of the Fixed Penalty (Smokin
 執法人員和有關電子系統不會儲存違例人士的身份證圖像，執法過程中所收集的個人資料與目前人手填寫時的資料相同。
 
 衞生署署長已根據《定額罰款（吸煙罪行）條例》（第600章）第17A條的授權，分別指明紙本及流動列印版本的定額罰款通知書格式（見附件）。兩個版本的通知書格式略異但內容一致，具同等法律效力。違例人士仍有可能從控煙酒辦或其他執法部門收到以人手填寫的紙本通知書。"
+TACO of DH introduces smart tools for filling in fixed penalty notices to enhance efficiency,2025-10-28 14:00,2025-10-28 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800250.htm,"âThe Tobacco and Alcohol Control Office (TACO) of the Department of Health announced today (October 28) that frontline TACO officers will start using smart tools for issuing fixed penalty notices (FPNs) from October 30. This initiative will streamline procedures, improve data accuracy and enhance enforcement efficiency.
+
+Frontline TACO officers are empowered to enforce the Smoking (Public Health) Ordinance (Cap. 371), which includes taking prosecution actions against individuals who smoke in statutory no-smoking areas or on public transport carriers.
+
+Currently, TACO officers need to manually fill in offenders' personal details on printed FPNs during enforcement. Staff in the back office then check the information and input it into the backend system.
+
+Starting October 30, when issuing FPNs to offenders, TACO officers will be able to scan offenders' Hong Kong identity (HKID) cards using an electronic system, which will instantly import the offender's personal details, such as name and HKID number, into the FPN. The system will also automatically record the time, location and details of the enforcement officers. Officers will print the FPNs on the spot using portable printers and issue them to the offenders. The data will be automatically synchronised with the backend system, saving processing time and manpower needs in the back office while improving overall efficiency.
+
+Neither TACO officers nor the relevant mobile application will store images of the offenders' HKID cards. The personal data collected during enforcement will remain the same as that currently recorded manually.
+
+The Director of Health, empowered under section 17A of the Fixed Penalty (Smoking Offences) Ordinance (Cap. 600), has specified the formats for both handwritten and mobile-printed FPNs (see Annex). Although the two versions of FPNs differ slightly in format, their content is identical and both carry the same legal effect. Offenders may still be issued handwritten FPNs by TACO or other law enforcement departments."
 行政長官於行政會議前會見傳媒開場發言及答問內容,2025-10-28 13:50,2025-10-28 14:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800382.htm,"以下是行政長官李家超今日（十月二十八日）上午出席行政會議前會見傳媒的開場發言及答問內容：
 
 行政長官：大家早晨。今日跟大家講兩件事，一是立法會選舉，另一是未來十天我將會連續進行兩次重要外訪。
@@ -225,6 +330,15 @@ The WSD will implement smart water strategies for the water supply networks of t
 To fully dovetail with the development of the Northern Metropolis, especially the industrial and cooling water demands driven by innovation and technology, the WSD is implementing diversified water resources planning. This includes controlling the potable water demand growth by actively encouraging enterprises to adopt water-saving technologies and to use reclaimed water for non-potable purposes, such as industrial or cooling uses. These efforts aim to provide a stable and cost-effective water supply.
 
 The Director of Water Supplies, Mr Roger Wong, today signed the contracts respectively with representatives of the two joint ventures mentioned above."
+CE to attend APEC meetings in Korea,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800252.htm," The Chief Executive, Mr John Lee, will depart for Korea tomorrow (October 29) to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and other related activities in Gyeongju.
+
+ This year, APEC has adopted the theme ""Building a Sustainable Tomorrow"", with discussions focused on three priorities, namely, ""Connect"", ""Innovate"", ""Prosper"".
+
+ Apart from attending the APEC Economic Leaders' Retreat to be held on November 1, Mr Lee will participate in the APEC Economic Leaders' Informal Dialogue with Guests, the APEC Business Advisory Council Dialogue with APEC Economic Leaders, and the Gala Dinner hosted by the organiser for participating leaders on October 31. Mr Lee will also have bilateral meetings with leaders of the other economies to exchange views on issues of mutual interest. The Secretary for Commerce and Economic Development, Mr Algernon Yau, will attend the APEC Ministerial Meeting on October 30.
+
+ ""As an international centre in finance, shipping and trade, Hong Kong attaches great importance to bilateral economic and trade relations with different economies. The APEC member economies are Hong Kong’s important trading partners, accounting for approximately 80 per cent of Hong Kong’s external trade. The Hong Kong Special Administrative Region Government will continue to actively participate in APEC-related matters to contribute to and promote regional economic integration and development,"" Mr Lee said.
+
+ Mr Lee will return to Hong Kong on November 2. During his absence, the Chief Secretary for Administration, Mr Chan Kwok-ki, will be the Acting Chief Executive."
 行政長官赴韓國出席亞太區經濟合作組織會議,2025-10-28 11:00,2025-10-28 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800251.htm,"行政長官李家超明日（十月二十九日）將啓程前往韓國，出席在慶州舉行的亞太區經濟合作組織（亞太經合組織）領導人非正式會議及相關活動。
 
 今年亞太經合組織以「我們構築的可持續明天」為主題，聚焦討論「連接、創新、繁榮」三個重點。
@@ -241,15 +355,6 @@ The Director of Water Supplies, Mr Roger Wong, today signed the contracts respec
 今年市集設有二十五個攤檔售賣各式手作及創意產品，例如手作飾物、文創精品、工藝品、手工陶瓷、環保和香薰產品等。市民可於不同攤檔選購特色產品，亦可即場參加投票活動，選出「最具吸引力產品」、「最具特色攤檔佈置」和「最佳顧客服務」的零售攤檔，更可獲贈紀念品。此外，市民於市集購物後將獲贈代幣，用以參加現場設置的遊戲攤位和於照相角拍照留念。
 
 Y.E.S.亦於場內設櫃位，介紹中心為十五至二十九歲會員免費提供的一站式綜合就業、培訓課程及自僱支援服務。合資格青年如即場進行會員登記，可獲贈會場限定迎新禮物。有關詳情，可瀏覽Y.E.S.網站（www.e-start.gov.hk）。"
-CE to attend APEC meetings in Korea,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800252.htm," The Chief Executive, Mr John Lee, will depart for Korea tomorrow (October 29) to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and other related activities in Gyeongju.
-
- This year, APEC has adopted the theme ""Building a Sustainable Tomorrow"", with discussions focused on three priorities, namely, ""Connect"", ""Innovate"", ""Prosper"".
-
- Apart from attending the APEC Economic Leaders' Retreat to be held on November 1, Mr Lee will participate in the APEC Economic Leaders' Informal Dialogue with Guests, the APEC Business Advisory Council Dialogue with APEC Economic Leaders, and the Gala Dinner hosted by the organiser for participating leaders on October 31. Mr Lee will also have bilateral meetings with leaders of the other economies to exchange views on issues of mutual interest. The Secretary for Commerce and Economic Development, Mr Algernon Yau, will attend the APEC Ministerial Meeting on October 30.
-
- ""As an international centre in finance, shipping and trade, Hong Kong attaches great importance to bilateral economic and trade relations with different economies. The APEC member economies are Hong Kong’s important trading partners, accounting for approximately 80 per cent of Hong Kong’s external trade. The Hong Kong Special Administrative Region Government will continue to actively participate in APEC-related matters to contribute to and promote regional economic integration and development,"" Mr Lee said.
-
- Mr Lee will return to Hong Kong on November 2. During his absence, the Chief Secretary for Administration, Mr Chan Kwok-ki, will be the Acting Chief Executive."
 LD to hold Chill Bazaar 2025 - Entrepreneurship Experience Day,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102700480.htm,"âThe Youth Employment Start (Y.E.S.) of the Labour Department will hold the Chill Bazaar 2025 - Entrepreneurship Experience Day, at the Atrium of Mira Place 1, Tsim Sha Tsui, from noon to 8pm on November 1 and 2. Members of the public are welcome to visit.
 
 The event offers business members of Y.E.S. a chance to set up retail stalls for free in the bazaar and gain entrepreneurship experience. This year, Y.E.S. received over 80 applications for the Entrepreneurship Experience Day, and 25 teams were chosen to participate after a screening and selection process. The selected members are provided with comprehensive support services by Y.E.S. and a professional consultant, including training, a one-on-one consultation prior to the event, on-the-spot support services and post-event reviews.
@@ -333,42 +438,6 @@ Mr Tse said the Government will further enhance the mosquito control efforts in 
 He appealed to members of the public to fully support and co-operate with the Government's work, including seeking medical advice or contacting the Centre for Health Protection of the Department of Health if they had a fever, rash or joint pain. Members of the public should also inspect their homes; property management personnel should also inspect public areas within buildings and housing estates, such as flower beds, refuse rooms, and rooftops, to thoroughly eliminate stagnant water, preventing mosquito breeding.
 
 While attending a continuing professional development seminar held by the Property Management Services Authority today, Mr Ng called on the industry to work hand in hand with the Government to enhance mosquito prevention and control measures within their managed properties."
-15th National Games torch relay to be held on November 2 (with photos/video),2025-10-27 22:40,2025-10-27 22:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700706.htm,"  To welcome the official opening of the 15th National Games (NG) on November 9, the 15th NG torch relay will be held simultaneously in four cities, namely Hong Kong, Macao, Guangzhou and Shenzhen on November 2. There will be a total of 200 torchbearers, with 50 torchbearers in each city. The torch relay launching ceremony will be held at 9am that day in Shenzhen, followed by starting ceremonies in Hong Kong, Macao and Guangzhou at 9.30am, where torch relay will start simultaneously. Representatives of the four cities will return the flame to Guangzhou after the torch relay. A flame-gathering ceremony will be held at around 5pm in the Guangdong Olympic Sports Center, bridging the torch relay at the venue and the lighting of the main torch at the 15th NG opening ceremony.
-
- The Head of the National Games Coordination Office (Hong Kong), Mr Yeung Tak-keung, together with representatives from the Hong Kong Police Force and the Transport Department, held an interdepartmental press conference today (October 27) to give briefing on the route of torch relay in Hong Kong and the relevant transportation arrangements.
-
- Torch relay in Hong Kong will start at 9.30am on November 2. The total route length is approximately 10 kilometers, divided into five segments, with the running distance accounting for about 3.8 kilometers. Starting from the Central Government Offices in Tamar,the Hong Kong route passes through the Central and Western District Promenade (Central Section), the Wan Chai Temporary Promenade, the Monument in Commemoration of Return of Hong Kong to China and Golden Bauhinia Square. For the second section, torchbearers will cross the Victoria Harbour by Star Ferry and take part along the Tsim Sha Tsui route. They will start from Star Ferry Bus Terminus in Tsim Sha Tsui in Salisbury Road to Mody Lane, passing by the Hong Kong Cultural Centre and Hong Kong Museum of Art. Torchbearers of the fourth section will take an open-top bus to the bus terminal at the Kai Tak Sports Park (KTSP). After entering KTSP, the torchbearers of the fifth section will pass by the Kai Tak Youth Sports Ground and the Kai Tak Sports Avenue before arriving at the Kai Tak Sports Park Central Square. The last torchbearer will then light the cauldron and the closing ceremony will take place.
-
- To facilitate the holding of the torch relay, road sections of the Central and Western District Promenade (Central Section), Golden Bauhinia Square and Wan Chai Temporary Promenade will be temporarily closed during the event. Moreover, special traffic and transport arrangements will be implemented by the Police and Transport Department during the event.
-
-Road traffic control measures
-
-During the torch relay, road closures and special traffic arrangements will be implemented in the areas of Wan Chai North, the Tsim Sha Tsui waterfront, and around the Kai Tak Sports Park. All affected roads will be reopened in due course after the torch relay has passed through.The affected areas include:
-
-(1) Wan Chai North
-- Section of Expo Drive East outside Golden Bauhinia Square will be closed from 8am.
-- Expo Drive, the slip road leading from Central - Wan Chai Bypass Tunnel eastbound to Expo Drive, and Expo Drive East will be closed from 9am.
-- Roads near Lung Wo Road and Hung Hing Road will be intermittently closed.
-
-(2) Area around Tsim Sha Tsui Waterfront
-- Salisbury Road, Canton Road, Kowloon Park Drive, Hankow Road, Nathan Road, Middle Road, Chatham Road South, Hong Wan Path, Mody Lane, and Hung Hom Bypass etc, will be closed from 8.30am.
-- Hong Chong Road, Chatham Road North, and the East Kowloon Corridor will be intermittently closed.
-
-(3) Area around Kai Tak Sports Park
-- The pick-up/drop-off area next to the Kai Tak Youth Sports Ground on Sung Wong Toi Road will be closed from 8am.
-- East Kowloon Corridor, Kowloon City Road, and Sung Wong Toi Road will be intermittently closed.
-
-Restricted Flying Zone
-
- The Police will set up a temporary restricted flying zone (RFZ), extending two kilometres outwards from the route of the torch relay from 8.30am to 11.40am on November 2. No small unmanned aircraft, except those authorised, will be permitted to enter the zone. Details of the temporary RFZ will be shown on the electronic portal for small unmanned aircraft ""eSUA"".
-
-Public transport arrangements
-
- To facilitate the temporary road closures and traffic control measures to be implemented by the Police at Wan Chai North and Tsim Sha Tsui on the morning of the Hong Kong leg of the 15th National Games torch relay, 52 franchised bus routes and five green minibus (GMB) routes operating in the affected road sections in the vicinity of Expo Drive East in Wan Chai, Tsim Sha Tsui Ferry Pier Bus Terminus, Nathan Road and Salisbury Road will adjust their services starting from the first departure on that day. Among them, KMB Route No. 8P (Laguna Verde – Tsim Sha Tsui (Circular)) will be suspended. The remaining affected bus and GMB routes will require temporary diversion or suspension/relocation of relevant stops within the affected areas. Normal operations will resume gradually after roads reopen. Relevant public transport operators will issue notices to inform affected passengers of the service adjustment details.
-
- According to the route of the torch relay, the torch will be passed to the Kai Tak Sports Park via ferry and an open-top bus, with temporary control measures along the route. Subject to the actual situation, there may be temporary service adjustment from around 9.45am to 10.30am in the Wan Chai – Tsim Sha Tsui ferry route. In addition, the overall traffic at Wan Chai North, West Kowloon and East Kowloon will be busier. The Transport Department urges members of the public and visitors travelling to the affected areas to plan their trips in advance and allow sufficient time for their journeys. They are advised to use railway services as far as possible and avoid driving to the affected road sections.
-
-ããMr Yeung said, the entire Hong Kong relay route is designed to highlight the unique cultural and sporting characteristics of the city. The torchbearers include representatives from various sectors, including sports, sponsors, volunteers, the youth, persons with disabilities and ethnic minorities. The detailed list of torchbearers will be announced in due course. Guangdong, Hong Kong and Macao cohosted a press conference in Guangzhou this morning. Mr Yeung addressed in the press conference that the biggest highlight of the 15th NG torch relay is the collaborative progress of the three places and the relay among the four cities. The unique feature of the joint hosting of the 15th NG by the three places has been fully demonstrated, from the lighting of the ""source flame"" in Nansha, Guangzhou by the representatives of Guangdong, Hong Kong, and Macau earlier this month to the simultaneous torch relay events in four locations on November 2."
 第十五屆全國運動會火炬傳遞十一月二日舉行（附圖／短片）,2025-10-27 22:40,2025-10-27 22:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700634.htm,"​為迎接第十五屆全國運動會（十五運會）於十一月九日正式開幕，十五運會火炬傳遞將於十一月二日在香港、澳門、廣州、深圳四個城市同步舉行，每個城市50名火炬手，共200名。當日上午九時於深圳舉行火炬傳遞啓動儀式，香港、澳門和廣州於上午九時三十分分別舉行起跑儀式，同步開展火炬傳遞。火炬傳遞結束後，四個城市的代表會將火種送回廣州，並在下午約五時在廣東奧林匹克體育中心舉行融火儀式，以銜接十五運會開幕式場內火炬傳遞和燃點主火炬。
 
 全國運動會香港賽區統籌辦公室主任楊德強今日（十月二十七日）聯同警務處和運輸署代表舉行聯合記者會，介紹火炬傳遞香港站的路線和相關交通運輸安排。
@@ -405,6 +474,42 @@ Public transport arrangements
 根據火炬傳遞的路線，火炬亦會以渡輪及開篷巴士運送至啟德體育園，沿途將會有臨時管控措施。灣仔—尖沙咀渡輪航線預計在上午約九時四十五分至十時三十分期間，或會因應實際情況而需臨時調整服務；灣仔北、西九龍及東九龍的交通亦會較為繁忙。運輸署呼籲前往受影響地區的市民和旅客，應預早計劃行程，預留充裕交通時間，並盡量使用鐵路服務，避免駕車前往有關路段。
 
 楊德強表示，香港的整條傳遞路線着重展示香港文化及體育方面的特色，火炬手由各界別代表組成，包括體育界、贊助機構、義工、青年、殘疾人士和少數族裔，詳細名單將稍後公布。廣東、香港和澳門三地今日上午亦於廣州舉行了新聞發布會，楊德強在會上提到，十五運會火炬傳遞的最大特色是「三地聯動、四城同傳」，由粵港澳三地於本月初在廣州南沙一起點燃「源火」開始，以至十一月二日四地同日舉行火炬傳遞活動，均全面展現了本屆全運會由三地聯合承辦的特色。"
+15th National Games torch relay to be held on November 2 (with photos/video),2025-10-27 22:40,2025-10-27 22:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700706.htm,"  To welcome the official opening of the 15th National Games (NG) on November 9, the 15th NG torch relay will be held simultaneously in four cities, namely Hong Kong, Macao, Guangzhou and Shenzhen on November 2. There will be a total of 200 torchbearers, with 50 torchbearers in each city. The torch relay launching ceremony will be held at 9am that day in Shenzhen, followed by starting ceremonies in Hong Kong, Macao and Guangzhou at 9.30am, where torch relay will start simultaneously. Representatives of the four cities will return the flame to Guangzhou after the torch relay. A flame-gathering ceremony will be held at around 5pm in the Guangdong Olympic Sports Center, bridging the torch relay at the venue and the lighting of the main torch at the 15th NG opening ceremony.
+
+ The Head of the National Games Coordination Office (Hong Kong), Mr Yeung Tak-keung, together with representatives from the Hong Kong Police Force and the Transport Department, held an interdepartmental press conference today (October 27) to give briefing on the route of torch relay in Hong Kong and the relevant transportation arrangements.
+
+ Torch relay in Hong Kong will start at 9.30am on November 2. The total route length is approximately 10 kilometers, divided into five segments, with the running distance accounting for about 3.8 kilometers. Starting from the Central Government Offices in Tamar,the Hong Kong route passes through the Central and Western District Promenade (Central Section), the Wan Chai Temporary Promenade, the Monument in Commemoration of Return of Hong Kong to China and Golden Bauhinia Square. For the second section, torchbearers will cross the Victoria Harbour by Star Ferry and take part along the Tsim Sha Tsui route. They will start from Star Ferry Bus Terminus in Tsim Sha Tsui in Salisbury Road to Mody Lane, passing by the Hong Kong Cultural Centre and Hong Kong Museum of Art. Torchbearers of the fourth section will take an open-top bus to the bus terminal at the Kai Tak Sports Park (KTSP). After entering KTSP, the torchbearers of the fifth section will pass by the Kai Tak Youth Sports Ground and the Kai Tak Sports Avenue before arriving at the Kai Tak Sports Park Central Square. The last torchbearer will then light the cauldron and the closing ceremony will take place.
+
+ To facilitate the holding of the torch relay, road sections of the Central and Western District Promenade (Central Section), Golden Bauhinia Square and Wan Chai Temporary Promenade will be temporarily closed during the event. Moreover, special traffic and transport arrangements will be implemented by the Police and Transport Department during the event.
+
+Road traffic control measures
+
+During the torch relay, road closures and special traffic arrangements will be implemented in the areas of Wan Chai North, the Tsim Sha Tsui waterfront, and around the Kai Tak Sports Park. All affected roads will be reopened in due course after the torch relay has passed through.The affected areas include:
+
+(1) Wan Chai North
+- Section of Expo Drive East outside Golden Bauhinia Square will be closed from 8am.
+- Expo Drive, the slip road leading from Central - Wan Chai Bypass Tunnel eastbound to Expo Drive, and Expo Drive East will be closed from 9am.
+- Roads near Lung Wo Road and Hung Hing Road will be intermittently closed.
+
+(2) Area around Tsim Sha Tsui Waterfront
+- Salisbury Road, Canton Road, Kowloon Park Drive, Hankow Road, Nathan Road, Middle Road, Chatham Road South, Hong Wan Path, Mody Lane, and Hung Hom Bypass etc, will be closed from 8.30am.
+- Hong Chong Road, Chatham Road North, and the East Kowloon Corridor will be intermittently closed.
+
+(3) Area around Kai Tak Sports Park
+- The pick-up/drop-off area next to the Kai Tak Youth Sports Ground on Sung Wong Toi Road will be closed from 8am.
+- East Kowloon Corridor, Kowloon City Road, and Sung Wong Toi Road will be intermittently closed.
+
+Restricted Flying Zone
+
+ The Police will set up a temporary restricted flying zone (RFZ), extending two kilometres outwards from the route of the torch relay from 8.30am to 11.40am on November 2. No small unmanned aircraft, except those authorised, will be permitted to enter the zone. Details of the temporary RFZ will be shown on the electronic portal for small unmanned aircraft ""eSUA"".
+
+Public transport arrangements
+
+ To facilitate the temporary road closures and traffic control measures to be implemented by the Police at Wan Chai North and Tsim Sha Tsui on the morning of the Hong Kong leg of the 15th National Games torch relay, 52 franchised bus routes and five green minibus (GMB) routes operating in the affected road sections in the vicinity of Expo Drive East in Wan Chai, Tsim Sha Tsui Ferry Pier Bus Terminus, Nathan Road and Salisbury Road will adjust their services starting from the first departure on that day. Among them, KMB Route No. 8P (Laguna Verde – Tsim Sha Tsui (Circular)) will be suspended. The remaining affected bus and GMB routes will require temporary diversion or suspension/relocation of relevant stops within the affected areas. Normal operations will resume gradually after roads reopen. Relevant public transport operators will issue notices to inform affected passengers of the service adjustment details.
+
+ According to the route of the torch relay, the torch will be passed to the Kai Tak Sports Park via ferry and an open-top bus, with temporary control measures along the route. Subject to the actual situation, there may be temporary service adjustment from around 9.45am to 10.30am in the Wan Chai – Tsim Sha Tsui ferry route. In addition, the overall traffic at Wan Chai North, West Kowloon and East Kowloon will be busier. The Transport Department urges members of the public and visitors travelling to the affected areas to plan their trips in advance and allow sufficient time for their journeys. They are advised to use railway services as far as possible and avoid driving to the affected road sections.
+
+ããMr Yeung said, the entire Hong Kong relay route is designed to highlight the unique cultural and sporting characteristics of the city. The torchbearers include representatives from various sectors, including sports, sponsors, volunteers, the youth, persons with disabilities and ethnic minorities. The detailed list of torchbearers will be announced in due course. Guangdong, Hong Kong and Macao cohosted a press conference in Guangzhou this morning. Mr Yeung addressed in the press conference that the biggest highlight of the 15th NG torch relay is the collaborative progress of the three places and the relay among the four cities. The unique feature of the joint hosting of the 15th NG by the three places has been fully demonstrated, from the lighting of the ""source flame"" in Nansha, Guangzhou by the representatives of Guangdong, Hong Kong, and Macau earlier this month to the simultaneous torch relay events in four locations on November 2."
 Update on chikungunya fever (with photos),2025-10-27 22:17,2025-10-27 22:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700766.htm,"The Centre for Health Protection (CHP) of the Department of Health announced that as of 5pm today (October 27), the CHP has recorded three new cases of chikungunya fever (CF). The CHP continued to implement various prevention and control measures together with various Government departments and relevant organisations, striving to prevent CF from taking root locally and minimise the public health impact of the disease in Hong Kong.
 
 Latest cases information
@@ -526,7 +631,7 @@ in addition to DEET, there are other insect repellents available on the market c
 
 ​市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。
 "
-環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作（附圖）,2025-10-27 21:34,2025-10-27 22:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
+環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作,2025-10-27 21:34,2025-10-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
 
 謝展寰表示，本港二○一八年也曾出現18宗透過蚊傳播的本地登革熱個案，因着政府和各界合力防蚊滅蚊，成功切斷傳播鏈。他鼓勵食環署員工加強防蚊滅蚊工作，全力遏止今次基孔肯亞雅熱的傳播。
 
@@ -539,7 +644,7 @@ in addition to DEET, there are other insect repellents available on the market c
 他呼籲市民支持及配合政府的工作，包括如出現發燒、皮疹或關節痛症狀的人士，應盡快求醫或聯絡衞生署衞生防護中心。要有效防蚊滅蚊，市民亦應小心檢查自己的家居；物業管理人員也應視察樓宇和屋苑範圍的公共地方（例如花圃、垃圾房和天台等），徹底清除積水，避免蚊子滋生。
 
 吳文傑今日出席物業管理業監管局「持續專業發展講座」期間，亦呼籲業界與政府㩦手合作，在其轄下物業管理範圍內加強防控蚊患措施。"
-環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作,2025-10-27 21:34,2025-10-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
+環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作（附圖）,2025-10-27 21:34,2025-10-27 22:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
 
 謝展寰表示，本港二○一八年也曾出現18宗透過蚊傳播的本地登革熱個案，因着政府和各界合力防蚊滅蚊，成功切斷傳播鏈。他鼓勵食環署員工加強防蚊滅蚊工作，全力遏止今次基孔肯亞雅熱的傳播。
 
@@ -1106,17 +1211,6 @@ Total
  The number of nomination forms received today for the Election Committee constituency is five and the cumulative total number is 15.
 
 Particulars of the nominated persons received today will be uploaded to the election website (www.elections.gov.hk)."
-清潔服務公司持牌人因僱用非法勞工被判入獄,2025-10-27 19:05,2025-10-27 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700595.htm,"一名清潔服務公司持牌人因僱用不可合法受僱的人被定罪，於上星期四（十月二十三日）在沙田裁判法院被判入獄六個月。
-
-入境事務處（入境處）調查人員於二○二三年三月二十九日的反非法勞工行動中，在觀塘一個住宅屋苑內拘捕兩名從事清潔工作的非法勞工。該兩名被捕非法勞工為越南籍女子，年齡為四十三及五十歲。其中一名越南籍女子持有不允許僱傭工作的擔保書（俗稱「行街紙」），另一名越南籍女子則為非法入境者。該兩名非法勞工早前在沙田裁判法院被判入獄，分別被判監禁十五及十六個月。
-
-跟進調查發現該兩名非法勞工均受僱於同一清潔服務公司，調查人員其後拘捕該清潔服務公司的持牌人。該持牌人為一名香港永久性居民男子，年齡為四十九歲，他因並未在聘用僱員前採取一切切實可行的步驟以確定有關僱員是可合法受僱，被控兩項「僱用不可合法受僱的人」的控罪。經審訊後，兩項控罪均被判監禁四個月，部分刑期同期執行。他於上星期四（十月二十三日）在沙田裁判法院合共被判監禁六個月。
-
-發言人重申，僱用不可合法受僱的人是嚴重罪行。根據《入境條例》，僱主若僱用不可合法受僱的人，而該人是非法入境者、受遣送離境令或遞解離境令規限的人、逾期逗留或被拒入境人士，最高刑罰由原來的罰款三十五萬元及監禁三年，大幅提高至罰款五十萬元和監禁十年，以反映有關罪行的嚴重性。而有關公司的董事、經理、秘書、合夥人等，亦可能需負上刑事責任。高等法院曾頒布判刑指引，聘用非法勞工的僱主須被判即時入獄。
-
-根據法院判例，任何人士在決定聘用一名僱員前，必須採取一切切實可行的步驟以確定有關僱員是可合法受僱。除了查閱僱員的身份證外，該人亦負有明確的責任向僱員作出查詢，而僱員提供的任何答案不會令該人對僱用有關僱員的合法性產生合理懷疑，否則法院不會接納以此作為免責辯護。如求職者沒有香港永久性居民身份證，僱主亦必須查閱求職者的有效旅行證件，違例者經定罪後，最高可被判罰款十五萬元及監禁一年。就此，發言人提醒所有僱主切勿以身試法，僱用非法勞工。入境處會繼續嚴正執法，打擊有關罪行。
-
-市民可使用舉報非法勞工專線3861 5000、傳真2824 1166、電郵anti_crime@immd.gov.hk、或登入入境處網址www.immd.gov.hk利用「網上舉報違反入境條例罪行」表格向入境處舉報僱用非法勞工活動。"
 Cleaning service company licensee jailed for employing illegal workers,2025-10-27 19:05,2025-10-27 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700596.htm,"  A cleaning service company licensee was convicted of charges of being an employer of a person who was not lawfully employable and was jailed for six months by the Shatin Magistrates' Courts last Thursday (October 23).
 
   During an anti-illegal workers operation conducted by the Immigration Department (ImmD) on March 29, 2023, two Vietnamese females, aged 43 and 50, were arrested for working as cleaning workers in a residential estate at Kwun Tong. Among them, one Vietnamese woman was a holder of a recognisance form, which prohibits her from taking any employment and another Vietnamese woman was an illegal immigrant. The illegal workers were jailed by the Shatin Magistrates' Courts earlier and were sentenced to imprisonment for 15 months and 16 months respectively.
@@ -1128,6 +1222,17 @@ Cleaning service company licensee jailed for employing illegal workers,2025-10-2
   According to the court sentencing, employers must take all practicable steps to determine whether a person is lawfully employable prior to employment. Apart from inspecting a prospective employee's identity card, the employer has the explicit duty to make enquiries regarding the person and ensure that the answers would not cast any reasonable doubt concerning the lawful employability of the person. The court will not accept failure to do so as a defence in proceedings. It is also an offence if an employer fails to inspect the job seeker's valid travel document if the job seeker does not have a Hong Kong permanent identity card. Offenders are liable upon conviction to a maximum fine of $150,000 and to imprisonment for one year. In that connection, the spokesman would like to remind all employers not to defy the law by employing illegal workers. The ImmD will continue to take resolute enforcement action to combat such offences.
 
   For reporting illegal employment activities, please call the dedicated hotline 3861 5000, by fax at 2824 1166, email to anti_crime@immd.gov.hk, or submit ""Online Reporting of Immigration Offences"" form at www.immd.gov.hk."
+清潔服務公司持牌人因僱用非法勞工被判入獄,2025-10-27 19:05,2025-10-27 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700595.htm,"一名清潔服務公司持牌人因僱用不可合法受僱的人被定罪，於上星期四（十月二十三日）在沙田裁判法院被判入獄六個月。
+
+入境事務處（入境處）調查人員於二○二三年三月二十九日的反非法勞工行動中，在觀塘一個住宅屋苑內拘捕兩名從事清潔工作的非法勞工。該兩名被捕非法勞工為越南籍女子，年齡為四十三及五十歲。其中一名越南籍女子持有不允許僱傭工作的擔保書（俗稱「行街紙」），另一名越南籍女子則為非法入境者。該兩名非法勞工早前在沙田裁判法院被判入獄，分別被判監禁十五及十六個月。
+
+跟進調查發現該兩名非法勞工均受僱於同一清潔服務公司，調查人員其後拘捕該清潔服務公司的持牌人。該持牌人為一名香港永久性居民男子，年齡為四十九歲，他因並未在聘用僱員前採取一切切實可行的步驟以確定有關僱員是可合法受僱，被控兩項「僱用不可合法受僱的人」的控罪。經審訊後，兩項控罪均被判監禁四個月，部分刑期同期執行。他於上星期四（十月二十三日）在沙田裁判法院合共被判監禁六個月。
+
+發言人重申，僱用不可合法受僱的人是嚴重罪行。根據《入境條例》，僱主若僱用不可合法受僱的人，而該人是非法入境者、受遣送離境令或遞解離境令規限的人、逾期逗留或被拒入境人士，最高刑罰由原來的罰款三十五萬元及監禁三年，大幅提高至罰款五十萬元和監禁十年，以反映有關罪行的嚴重性。而有關公司的董事、經理、秘書、合夥人等，亦可能需負上刑事責任。高等法院曾頒布判刑指引，聘用非法勞工的僱主須被判即時入獄。
+
+根據法院判例，任何人士在決定聘用一名僱員前，必須採取一切切實可行的步驟以確定有關僱員是可合法受僱。除了查閱僱員的身份證外，該人亦負有明確的責任向僱員作出查詢，而僱員提供的任何答案不會令該人對僱用有關僱員的合法性產生合理懷疑，否則法院不會接納以此作為免責辯護。如求職者沒有香港永久性居民身份證，僱主亦必須查閱求職者的有效旅行證件，違例者經定罪後，最高可被判罰款十五萬元及監禁一年。就此，發言人提醒所有僱主切勿以身試法，僱用非法勞工。入境處會繼續嚴正執法，打擊有關罪行。
+
+市民可使用舉報非法勞工專線3861 5000、傳真2824 1166、電郵anti_crime@immd.gov.hk、或登入入境處網址www.immd.gov.hk利用「網上舉報違反入境條例罪行」表格向入境處舉報僱用非法勞工活動。"
 SFST's speech at BEA Union Investment's 18th Anniversary Celebration (English only),2025-10-27 18:45,2025-10-27 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700450.htm,"  Following is the speech by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the BEA Union Investment's 18th Anniversary Celebration today (October 27):
 
 Brian (Co-Chief Executive of The Bank of East Asia, Limited (BEA), Mr Brian Li), Adrian (Co-Chief Executive of BEA, Mr Adrian Li), Mr Haagmann (member of the Executive Board of Union Investment, Mr André Haagmann), Janet (Chief Executive Officer of BEA Union Investment, Ms Janet Li), distinguished guests, ladies and gentlemen,
@@ -1187,53 +1292,6 @@ The MTR Corporation Limited will enhance the train services of the East Rail Lin
 至於港珠澳大橋，市民可透過運輸署流動應用程式「香港出行易」或網頁（hkemobility.gov.hk/tc/traffic-information/live/cctv），查閱大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。此外，運輸署提醒駕駛人士於大橋主橋行駛時，應時刻遵照珠海當局實施的交通管控措施，除非獲珠海市當局指示，否則車輛一律不可佔用應急車道。
 
 市民和旅客可透過保安局推出的一站式過關資訊平台「口岸通」（www.sb.gov.hk/chi/bwt/status.html?type=outbound）或運輸署流動應用程式「香港出行易」，更方便地取得各陸路口岸的最新資訊。當中，運輸署會提供金巴、皇巴及港鐵服務情況及輪候時間。市民請留意電台、電視台、運輸署網頁及「香港出行易」發放的最新交通消息。"
-衞生署公布退伍軍人病個案最新情況,2025-10-27 16:45,2025-10-27 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700494.htm,"衞生署衞生防護中心今日（十月二十七日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
-
-在十月十九日至二十五日期間，衞生防護中心錄得三宗社區感染的退伍軍人病個案。詳情如下：
-
-
-83歲女病人，有長期病患，居於東區；
-54歲男病人，過往健康良好，居於元朗區；及
-75歲男病人，有長期病患，居於東區。
-
-
-衞生防護中心正展開流行病學調查，以找出可能的感染源頭和高風險接觸因素。初步調查顯示上述個案屬散發個案，沒有資料顯示這三宗個案與本港早前錄得的其他確診個案有流行病學關連。
-
-截至十月二十五日，今年錄得135宗退伍軍人病個案。本港於二○二四年及二○二三年分別錄得135及121宗退伍軍人病個案。
-
-男士、50歲以上人士、吸煙人士、酗酒人士和免疫力弱的人士均較易感染退伍軍人病。另外，有些情況也可能增加患病風險，包括供水系統保養欠佳、居所使用舊式供水系統或附近設有冷卻水塔或噴水池、使用電熱水器、按摩池或溫泉，以及近期曾到酒店或船隻。
-
-退伍軍人桿菌可存在於多種環境，尤其適合在攝氏20至45度的溫水生長。它可存活在不同水源環境，如水缸、冷熱水系統、冷卻水塔、按摩池、噴水池和家居呼吸道醫療器材等。病人有機會因吸入人工製水系統釋出受污染的水點和霧氣而受感染。在處理花園土壤、堆肥和培養土時亦可能受感染。
-
-免疫力弱的人士應：
-
-
-以無菌水或經煮沸的水飲用、刷牙及漱口；
-避免使用加濕器或其他可產生霧氣的設備；及
-如要使用加濕器或其他可產生霧氣的設備，應使用無菌水或煮沸後剛冷卻的食水，不應直接從水龍頭注水入盛水器。此外，應按照製造商的指示定期清洗及保養加濕器或設備，不要讓設備儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水。
-
-
-市民應採取以下健康建議：
-
-
-注意個人衞生；
-不要吸煙和避免飲酒；
-定期或按製造商建議的次數，為水龍頭及花灑頭的隔濾器進行檢查、清潔、除垢及消毒；
-如果食水系統保養妥善，無需安裝家庭式濾水器。由於濾水器容易堵塞而滋生微生物，故不建議使用。若選擇使用濾水器，孔徑大小應為0.2微米，並必須按照製造商的建議定期更換濾芯；
-至少每季排走大廈水缸的存水一次，並清洗水缸；
-每星期或在使用前為不常使用的出水口（如水龍頭、淋浴噴頭、熱水出水口等）和喉管內有水滯留的地方排水，或沖洗至少一分鐘；
-使用和保養家居呼吸道醫療器材時，需諮詢和跟從醫生專業意見，並只可用無菌水（非蒸餾水或水龍頭食水）清洗和注入容器。按照製造商的指示定期清洗及保養器材。清洗或消毒後，應用無菌水、煮沸後剛冷卻的食水，或經0.2微米孔徑濾水器過濾的水沖洗器材。切勿讓器材儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水；及
-如需處理花園土壤、堆肥和培養土：
-
-
-戴上手套及口罩；
-應使用低水壓灌溉花園和堆肥；
-慢慢開啓培養土的包裝袋，並確保開口遠離面部；
-為盆栽移盆時可將泥土弄濕，以免塵土飛揚；及
-避免在通風較差的環境工作，如密封的溫室。
-
-
-市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
 DH announces latest situation of Legionnaires' disease cases,2025-10-27 16:45,2025-10-27 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700495.htm,"The Centre for Health Protection (CHP) of the Department of Health today (October 27) reported the latest number of Legionnaires' disease (LD) cases, and reminded the public of the importance of using and maintaining properly designed man-made water systems, adding that susceptible groups should strictly observe relevant precautions.
 
   From October 19 to 25, the CHP recorded three community-acquired LD cases. The details of the cases are as follows:
@@ -1281,6 +1339,53 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 
 
 ââ  The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
+衞生署公布退伍軍人病個案最新情況,2025-10-27 16:45,2025-10-27 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700494.htm,"衞生署衞生防護中心今日（十月二十七日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
+
+在十月十九日至二十五日期間，衞生防護中心錄得三宗社區感染的退伍軍人病個案。詳情如下：
+
+
+83歲女病人，有長期病患，居於東區；
+54歲男病人，過往健康良好，居於元朗區；及
+75歲男病人，有長期病患，居於東區。
+
+
+衞生防護中心正展開流行病學調查，以找出可能的感染源頭和高風險接觸因素。初步調查顯示上述個案屬散發個案，沒有資料顯示這三宗個案與本港早前錄得的其他確診個案有流行病學關連。
+
+截至十月二十五日，今年錄得135宗退伍軍人病個案。本港於二○二四年及二○二三年分別錄得135及121宗退伍軍人病個案。
+
+男士、50歲以上人士、吸煙人士、酗酒人士和免疫力弱的人士均較易感染退伍軍人病。另外，有些情況也可能增加患病風險，包括供水系統保養欠佳、居所使用舊式供水系統或附近設有冷卻水塔或噴水池、使用電熱水器、按摩池或溫泉，以及近期曾到酒店或船隻。
+
+退伍軍人桿菌可存在於多種環境，尤其適合在攝氏20至45度的溫水生長。它可存活在不同水源環境，如水缸、冷熱水系統、冷卻水塔、按摩池、噴水池和家居呼吸道醫療器材等。病人有機會因吸入人工製水系統釋出受污染的水點和霧氣而受感染。在處理花園土壤、堆肥和培養土時亦可能受感染。
+
+免疫力弱的人士應：
+
+
+以無菌水或經煮沸的水飲用、刷牙及漱口；
+避免使用加濕器或其他可產生霧氣的設備；及
+如要使用加濕器或其他可產生霧氣的設備，應使用無菌水或煮沸後剛冷卻的食水，不應直接從水龍頭注水入盛水器。此外，應按照製造商的指示定期清洗及保養加濕器或設備，不要讓設備儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水。
+
+
+市民應採取以下健康建議：
+
+
+注意個人衞生；
+不要吸煙和避免飲酒；
+定期或按製造商建議的次數，為水龍頭及花灑頭的隔濾器進行檢查、清潔、除垢及消毒；
+如果食水系統保養妥善，無需安裝家庭式濾水器。由於濾水器容易堵塞而滋生微生物，故不建議使用。若選擇使用濾水器，孔徑大小應為0.2微米，並必須按照製造商的建議定期更換濾芯；
+至少每季排走大廈水缸的存水一次，並清洗水缸；
+每星期或在使用前為不常使用的出水口（如水龍頭、淋浴噴頭、熱水出水口等）和喉管內有水滯留的地方排水，或沖洗至少一分鐘；
+使用和保養家居呼吸道醫療器材時，需諮詢和跟從醫生專業意見，並只可用無菌水（非蒸餾水或水龍頭食水）清洗和注入容器。按照製造商的指示定期清洗及保養器材。清洗或消毒後，應用無菌水、煮沸後剛冷卻的食水，或經0.2微米孔徑濾水器過濾的水沖洗器材。切勿讓器材儲存積水。每日傾倒盛水器的水，然後抹乾容器的所有表面，並且換水；及
+如需處理花園土壤、堆肥和培養土：
+
+
+戴上手套及口罩；
+應使用低水壓灌溉花園和堆肥；
+慢慢開啓培養土的包裝袋，並確保開口遠離面部；
+為盆栽移盆時可將泥土弄濕，以免塵土飛揚；及
+避免在通風較差的環境工作，如密封的溫室。
+
+
+市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
 ​香港海關偵破兩宗利用內河船及遠洋船走私約二億元貨物案件（附圖）,2025-10-27 16:40,2025-10-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700509.htm,"香港海關於十月三日和七日分別偵破兩宗涉嫌利用內河船及遠洋船走私的案件，並檢獲大批懷疑走私貨物，估計市值共約二億元。
 
 海關透過情報分析及風險評估，在十月三日抽查一艘由香港出發前往澳門的內河船。經查驗後，海關在該艘船上檢獲大批懷疑走私貨物，包括懷疑受管制魚翅、雪茄、手提電話及懷疑藥劑製品。
@@ -1380,55 +1485,6 @@ Given that double yellow lines have been put in place at the entrances and exits
  Any vehicles found illegally parked within the precincts mentioned above will be towed away without prior warning, and may be subject to multiple ticketing.
 
  Members of the public are advised to make use of public transport or shuttle bus services to access the aforementioned areas during the event. Motorists are advised to avoid using Fan Kam Road near the golf course to ensure smooth vehicular traffic movements. The Police will implement the special arrangements subject to the prevailing traffic and crowd conditions."
-二零二五年九月份對外商品貿易統計,2025-10-27 16:30,2025-10-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700317.htm,"政府統計處今日（十月二十七日）發表的對外商品貿易統計數字顯示，二零二五年九月份本港整體出口和進口貨值均錄得按年升幅，分別上升16.1%和13.6%。
-
-繼二零二五年八月份錄得14.5%的按年升幅後，二零二五年九月份商品整體出口貨值為4,623億元，較二零二四年同月上升16.1%。同時，繼二零二五年八月份錄得11.5%的按年升幅後，二零二五年九月份商品進口貨值為5,125億元，較二零二四年同月上升13.6%。二零二五年九月份錄得有形貿易逆差502億元，相等於商品進口貨值的9.8%。
-
-二零二五年首九個月的商品整體出口貨值較二零二四年同期上升13.4%。同時，商品進口貨值上升13.1%。二零二五年首九個月錄得有形貿易逆差2,939億元，相等於商品進口貨值的7.2%。
-
-經季節性調整的數字顯示，二零二五年第三季與對上一季比較，商品整體出口貨值下跌0.7%。同時，商品進口貨值大致維持不變。
-
-按國家／地區分析
-
-二零二五年九月份與二零二四年同月比較，輸往亞洲的整體出口貨值上升18.3%。此地區內，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升50.9%）、馬來西亞（升40.0%）、台灣（升31.9%）、印度（升19.5%）和中國內地（內地）（升16.7%）。
-
-除亞洲的目的地外，輸往其他地區的部分主要目的地的整體出口貨值錄得升幅，尤其是瑞士（升138.5%）和德國（升27.6%）。
-
-同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是英國（升70.3%）、越南（升68.7%）、新加坡（升33.2%）、內地（升19.4%）和日本（升12.9%）。另一方面，來自台灣（跌19.0%）的進口貨值則錄得跌幅。
-
-二零二五年首九個月與二零二四年同期比較，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升52.4%）、馬來西亞（升44.7%）、台灣（升38.9%）、內地（升16.5%）和日本（升13.4%）。另一方面，輸往阿拉伯聯合酋長國（跌11.9%）的整體出口貨值則錄得跌幅。
-
-同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升79.5%）、英國（升46.3%）、台灣（升22.6%）、馬來西亞（升18.9%）和內地（升12.7%）。另一方面，來自韓國（跌17.1%）的進口貨值則錄得跌幅。
-
-按主要貨品類別分析
-
-二零二五年九月份與二零二四年同月比較，大部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增437億元，升22.8%）和「通訊、錄音及音響設備和儀器」（增65億元，升14.5%）。
-
-同期，大部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增401億元，升20.3%）、「雜項製品（主要包括珠寶、金飾及銀器）」（增95億元， 升33.6%）和「通訊、錄音及音響設備和儀器」（增94億元，升18.6%）。
-
-二零二五年首九個月與二零二四年同期比較，大部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增2,537億元，升15.9%）和「辦公室機器和自動資料處理儀器」（增1,176億元，升30.1%）。
-
-同期，大部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增2,598億元，升16.2%）和「辦公室機器和自動資料處理儀器」（增1,053億元，升32.5%）。
-
-評論
-
-政府發言人表示，九月商品出口貨值繼續顯著增長，按年上升16.1%。輸往內地和大部分其他亞洲市場的出口蓬勃增長，輸往美國和歐盟的出口亦溫和增長。同時，大部分主要商品的出口上升，尤其是電動設備、機械及機械用具的出口繼續強勁增長。
-
-展望未來，環球經濟持續擴張，應會繼續支持香港的商品貿易表現。政府一直致力加深香港與不同市場的經貿聯繫亦有幫助。然而，美國貿易政策將繼續為國際貿易流向的短期前景帶來不確定性。政府會密切監察情況，並保持警覺。
-
-進一步資料
-
-表1載列二零二五年九月份對外商品貿易統計數字的分析，表2載列二零二二年一月份至二零二五年九月份原來的按月貿易統計，而表3則顯示同期經季節性調整的對外商品貿易統計數字。
-
-表4載列二零二五年九月份經本港整體出口往十個主要目的地的商品貨值，而表5則載列進口自十個主要供應地的商品貨值。
-
-表6和7載列二零二五年九月份十項主要本港整體出口和進口貨品類別的貨值。
-
-本文所載的對外商品貿易貨值是以當時的價格計算。在比較不同期間的貨值時，並無扣除價格變動的影響。另有專為分析二零二五年九月份對外商品貿易貨量和價格變動的統計數字，將於二零二五年十一月中發表。
-
-詳細分析二零二五年九月份本港對外商品貿易表現的統計資料，刊載於二零二五年九月號的《香港對外商品貿易》。該報告將於二零二五年十一月初出版，用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1020005&scode=230) 瀏覽及下載。
-
-查詢有關商品貿易統計數字，請與政府統計處貿易資料分析組聯絡（電話：2582 4691）。"
 External merchandise trade statistics for September 2025,2025-10-27 16:30,2025-10-27 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700325.htm,"  The Census and Statistics Department (C&SD) released today (October 27) the external merchandise trade statistics for September 2025. In September 2025, the values of Hong Kong's total exports and imports of goods both recorded year-on-year increases, at 16.1% and 13.6% respectively.
 
   In September 2025, the value of total exports of goods increased by 16.1% over a year earlier to $462.3 billion, after a year-on-year increase by 14.5% in August 2025. Concurrently, the value of imports of goods increased by 13.6% over a year earlier to $512.5 billion in September 2025, after a year-on-year increase by 11.5% in August 2025. A visible trade deficit of $50.2 billion, equivalent to 9.8% of the value of imports of goods, was recorded in September 2025.
@@ -1478,6 +1534,55 @@ Further information
   The September 2025 issue of ""Hong Kong External Merchandise Trade"" contains detailed analysis on the performance of Hong Kong's external merchandise trade in September 2025 and will be available in early November 2025. Users can browse and download the report at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1020005&scode=230).
 
   Enquiries on merchandise trade statistics may be directed to the Trade Analysis Section of the C&SD (Tel: 2582 4691)."
+二零二五年九月份對外商品貿易統計,2025-10-27 16:30,2025-10-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700317.htm,"政府統計處今日（十月二十七日）發表的對外商品貿易統計數字顯示，二零二五年九月份本港整體出口和進口貨值均錄得按年升幅，分別上升16.1%和13.6%。
+
+繼二零二五年八月份錄得14.5%的按年升幅後，二零二五年九月份商品整體出口貨值為4,623億元，較二零二四年同月上升16.1%。同時，繼二零二五年八月份錄得11.5%的按年升幅後，二零二五年九月份商品進口貨值為5,125億元，較二零二四年同月上升13.6%。二零二五年九月份錄得有形貿易逆差502億元，相等於商品進口貨值的9.8%。
+
+二零二五年首九個月的商品整體出口貨值較二零二四年同期上升13.4%。同時，商品進口貨值上升13.1%。二零二五年首九個月錄得有形貿易逆差2,939億元，相等於商品進口貨值的7.2%。
+
+經季節性調整的數字顯示，二零二五年第三季與對上一季比較，商品整體出口貨值下跌0.7%。同時，商品進口貨值大致維持不變。
+
+按國家／地區分析
+
+二零二五年九月份與二零二四年同月比較，輸往亞洲的整體出口貨值上升18.3%。此地區內，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升50.9%）、馬來西亞（升40.0%）、台灣（升31.9%）、印度（升19.5%）和中國內地（內地）（升16.7%）。
+
+除亞洲的目的地外，輸往其他地區的部分主要目的地的整體出口貨值錄得升幅，尤其是瑞士（升138.5%）和德國（升27.6%）。
+
+同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是英國（升70.3%）、越南（升68.7%）、新加坡（升33.2%）、內地（升19.4%）和日本（升12.9%）。另一方面，來自台灣（跌19.0%）的進口貨值則錄得跌幅。
+
+二零二五年首九個月與二零二四年同期比較，輸往大部分主要目的地的整體出口貨值錄得升幅，尤其是越南（升52.4%）、馬來西亞（升44.7%）、台灣（升38.9%）、內地（升16.5%）和日本（升13.4%）。另一方面，輸往阿拉伯聯合酋長國（跌11.9%）的整體出口貨值則錄得跌幅。
+
+同期，來自大部分主要供應地的進口貨值錄得升幅，尤其是越南（升79.5%）、英國（升46.3%）、台灣（升22.6%）、馬來西亞（升18.9%）和內地（升12.7%）。另一方面，來自韓國（跌17.1%）的進口貨值則錄得跌幅。
+
+按主要貨品類別分析
+
+二零二五年九月份與二零二四年同月比較，大部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增437億元，升22.8%）和「通訊、錄音及音響設備和儀器」（增65億元，升14.5%）。
+
+同期，大部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增401億元，升20.3%）、「雜項製品（主要包括珠寶、金飾及銀器）」（增95億元， 升33.6%）和「通訊、錄音及音響設備和儀器」（增94億元，升18.6%）。
+
+二零二五年首九個月與二零二四年同期比較，大部分主要貨品類別的整體出口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增2,537億元，升15.9%）和「辦公室機器和自動資料處理儀器」（增1,176億元，升30.1%）。
+
+同期，大部分主要貨品類別的進口貨值錄得升幅，尤其是「電動機械、儀器和用具及零件」（增2,598億元，升16.2%）和「辦公室機器和自動資料處理儀器」（增1,053億元，升32.5%）。
+
+評論
+
+政府發言人表示，九月商品出口貨值繼續顯著增長，按年上升16.1%。輸往內地和大部分其他亞洲市場的出口蓬勃增長，輸往美國和歐盟的出口亦溫和增長。同時，大部分主要商品的出口上升，尤其是電動設備、機械及機械用具的出口繼續強勁增長。
+
+展望未來，環球經濟持續擴張，應會繼續支持香港的商品貿易表現。政府一直致力加深香港與不同市場的經貿聯繫亦有幫助。然而，美國貿易政策將繼續為國際貿易流向的短期前景帶來不確定性。政府會密切監察情況，並保持警覺。
+
+進一步資料
+
+表1載列二零二五年九月份對外商品貿易統計數字的分析，表2載列二零二二年一月份至二零二五年九月份原來的按月貿易統計，而表3則顯示同期經季節性調整的對外商品貿易統計數字。
+
+表4載列二零二五年九月份經本港整體出口往十個主要目的地的商品貨值，而表5則載列進口自十個主要供應地的商品貨值。
+
+表6和7載列二零二五年九月份十項主要本港整體出口和進口貨品類別的貨值。
+
+本文所載的對外商品貿易貨值是以當時的價格計算。在比較不同期間的貨值時，並無扣除價格變動的影響。另有專為分析二零二五年九月份對外商品貿易貨量和價格變動的統計數字，將於二零二五年十一月中發表。
+
+詳細分析二零二五年九月份本港對外商品貿易表現的統計資料，刊載於二零二五年九月號的《香港對外商品貿易》。該報告將於二零二五年十一月初出版，用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1020005&scode=230) 瀏覽及下載。
+
+查詢有關商品貿易統計數字，請與政府統計處貿易資料分析組聯絡（電話：2582 4691）。"
 在囚人士昏迷送院後不治,2025-10-27 16:05,2025-10-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700484.htm,"​石壁監獄一名二十三歲男性在囚人士今日（十月二十七日）在院所內昏迷，被送往公立醫院後證實不治。
 
 該名在囚人士有長期濫藥紀錄，早前因身體不適被安排在院所醫院接受治療。今日凌晨四時五十五分，該名在囚人士突然感到身體不適，懲教人員隨即為他進行身體檢查，期間他情況惡化及昏迷，人員即時為他進行急救，並召喚救護車將他送往公立醫院。該名在囚人士延至上午七時零二分證實不治。
@@ -1492,14 +1597,6 @@ The person in custody had a chronic drug abuse history. He was admitted to the i
 The case has been reported to the Police. A death inquest will be held by the Coroner's Court.
 
 The person in custody was sentenced to imprisonment for the offence of trafficking in a dangerous drug in July 2025."
-港匯指數,2025-10-27 16:00,2025-10-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700170.htm,"二○二五年十月二十七日（星期一）的港幣匯率指數為一百零四點二（和上星期六指數比較下降零點一）。
-
-二○二五年十月二十五日（星期六）的港幣匯率指數為一百零四點三（和上星期五指數比較相同）。"
-律政司司長前赴北京,2025-10-27 16:00,2025-10-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700451.htm,"律政司司長林定國資深大律師今日（十月二十七日）晚上啓程前赴北京，出席2025年金融街論壇年會的金融法治論壇。
-
-林定國將在明日（十月二十八日）舉行的金融法治論壇上，就「在法治軌道上推進金融發展的創新、變革和重塑」發表主旨演講，介紹香港法律和金融制度的獨特優勢，探討深化京港合作，提升涉外法治建設水準。
-
-林定國明日下午返港。在他離港期間，律政司副司長張國鈞博士將署理律政司司長職務。"
 Effective Exchange Rate Index,2025-10-27 16:00,2025-10-27 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700171.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, October 27, 2025 is 104.2 (down 0.1 against last Saturday's index).
 
   The effective exchange rate index for the Hong Kong dollar on Saturday, October 25, 2025 is 104.3 (same as last Friday's index)."
@@ -1508,6 +1605,29 @@ SJ to visit Beijing,2025-10-27 16:00,2025-10-27 16:15,Eng,gia,https://www.info.g
 Mr Lam will deliver a keynote speech on promoting innovation, transformation, and the restructuring of financial development within the framework of the rule of law at a forum on the rule of law in finance tomorrow (October 28). He will share views on the unique advantages of Hong Kong's legal and financial systems and ways to deepen co-operation between Hong Kong and Beijing, enhancing the construction of foreign-related rule of law.
 
 Mr Lam will return to Hong Kong tomorrow afternoon (October 28). During his absence, the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, will be the Acting Secretary for Justice."
+港匯指數,2025-10-27 16:00,2025-10-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700170.htm,"二○二五年十月二十七日（星期一）的港幣匯率指數為一百零四點二（和上星期六指數比較下降零點一）。
+
+二○二五年十月二十五日（星期六）的港幣匯率指數為一百零四點三（和上星期五指數比較相同）。"
+律政司司長前赴北京,2025-10-27 16:00,2025-10-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700451.htm,"律政司司長林定國資深大律師今日（十月二十七日）晚上啓程前赴北京，出席2025年金融街論壇年會的金融法治論壇。
+
+林定國將在明日（十月二十八日）舉行的金融法治論壇上，就「在法治軌道上推進金融發展的創新、變革和重塑」發表主旨演講，介紹香港法律和金融制度的獨特優勢，探討深化京港合作，提升涉外法治建設水準。
+
+林定國明日下午返港。在他離港期間，律政司副司長張國鈞博士將署理律政司司長職務。"
+醫管局舉行「掌握健康『智』輕鬆----HA Go一㩒做到」啓動禮（附圖）,2025-10-27 15:45,2025-10-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700423.htm,"下稿代醫院管理局發出：
+
+醫院管理局（醫管局）今日（十月二十七日）舉行「掌握健康『智』輕鬆——HA Go一㩒做到」啓動禮，醫管局將展開新一輪大型推廣活動，鼓勵市民下載醫管局流動應用程式HA Go，更輕鬆地使用公立醫院服務。
+
+啓動禮分別於醫管局大樓及全港七個醫院聯網舉行，醫管局主席范鴻齡向HA Go義工隊代表頒授專用制服，同時於啓動禮上首播全新的HA Go宣傳影片，希望市民透過宣傳影片更認識HA Go的多元化功能，透過HA Go「一㩒做到」掌握健康「智」輕鬆。
+
+醫管局行政總裁李夏茵醫生表示：「HA Go自二○一九年推出以來，深受市民歡迎。市民透過HA Go可更方便、更快捷及更順暢地獲得公立醫院的不同服務，亦可更有效地管理個人及家人健康。我們會持續加強HA Go的功能，希望將HA Go發展成每名市民手機內必備的『健康管理員』。」
+
+截至今年第三季，HA Go已錄得超過412萬次下載，正式會員人數突破325萬，已登記的照顧者數目亦已超過37萬人。
+
+范鴻齡說：「醫管局推動使用HA Go，是香港公營醫療服務發展的重要里程碑。」
+
+此外，范鴻齡表示香港已邁向「由治及興」，我呼籲市民除了下載及使用HA Go外，亦應關心香港的未來，一同盡公民責任在十二月七日立法會換屆選舉中投票，選賢舉能，同心推動香港發展，共同建設一個更優質的公營醫療體系。
+
+醫管局將展開一連三星期的大型推廣活動，透過不同平台全方位宣傳HA Go的功能及優點。各醫院聯網將設置宣傳站，並會安排病人服務大使及義工隊進行一連串宣傳教育活動，鼓勵更多市民下載及使用HA Go，以提升公立醫院的服務體驗。"
 日本進口水產的檢測情況,2025-10-27 15:45,2025-10-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700467.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -1546,50 +1666,6 @@ Mr Fan said, ""The HA's promotion of HA Go marks a significant milestone in the 
 Mr Fan added, Hong Kong is advancing from stability to prosperity. I urge citizens not only to download and use HA Go, but also to care about Hong Kong's future. Let us fulfill our civic responsibilities by voting in the Legislative Council General Election on December 7, electing capable LegCo members to jointly promote the development of Hong Kong and build a better public healthcare system together.
 
 The HA will launch a three-week large-scale promotional campaign to highlight HA Go's features and benefits across various platforms. Hospital clusters will set up promotional booths and arrange for patient service ambassadors and volunteer teams to organise a series of promotional and educational activities to encourage more citizens to download and use HA Go, thereby enhancing the service experience at public hospitals."
-醫管局舉行「掌握健康『智』輕鬆----HA Go一㩒做到」啓動禮（附圖）,2025-10-27 15:45,2025-10-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700423.htm,"下稿代醫院管理局發出：
-
-醫院管理局（醫管局）今日（十月二十七日）舉行「掌握健康『智』輕鬆——HA Go一㩒做到」啓動禮，醫管局將展開新一輪大型推廣活動，鼓勵市民下載醫管局流動應用程式HA Go，更輕鬆地使用公立醫院服務。
-
-啓動禮分別於醫管局大樓及全港七個醫院聯網舉行，醫管局主席范鴻齡向HA Go義工隊代表頒授專用制服，同時於啓動禮上首播全新的HA Go宣傳影片，希望市民透過宣傳影片更認識HA Go的多元化功能，透過HA Go「一㩒做到」掌握健康「智」輕鬆。
-
-醫管局行政總裁李夏茵醫生表示：「HA Go自二○一九年推出以來，深受市民歡迎。市民透過HA Go可更方便、更快捷及更順暢地獲得公立醫院的不同服務，亦可更有效地管理個人及家人健康。我們會持續加強HA Go的功能，希望將HA Go發展成每名市民手機內必備的『健康管理員』。」
-
-截至今年第三季，HA Go已錄得超過412萬次下載，正式會員人數突破325萬，已登記的照顧者數目亦已超過37萬人。
-
-范鴻齡說：「醫管局推動使用HA Go，是香港公營醫療服務發展的重要里程碑。」
-
-此外，范鴻齡表示香港已邁向「由治及興」，我呼籲市民除了下載及使用HA Go外，亦應關心香港的未來，一同盡公民責任在十二月七日立法會換屆選舉中投票，選賢舉能，同心推動香港發展，共同建設一個更優質的公營醫療體系。
-
-醫管局將展開一連三星期的大型推廣活動，透過不同平台全方位宣傳HA Go的功能及優點。各醫院聯網將設置宣傳站，並會安排病人服務大使及義工隊進行一連串宣傳教育活動，鼓勵更多市民下載及使用HA Go，以提升公立醫院的服務體驗。"
-自資專上教育質素提升支援計劃接受新一輪申請,2025-10-27 15:30,2025-10-27 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700230.htm,"教育局今日（十月二十七日）開始接受二○二五／二六年度自資專上教育基金下的質素提升支援計劃的申請，以資助擬於二○二六／二七學年展開的項目。截止申請日期為二○二六年二月二十八日。
-
-支援計劃是促進自資專上教育界別穩健及持續發展的主要支援措施，旨在提升業界的教與學質素。該計劃下共有三組申請項目，分別為特定主題項目、一般項目和工作實習項目。
-
-特定主題項目組的申請者可自訂項目主題，而有關項目必須以協作形式進行，即由多於一間合資格院校策劃及推動，以促進院校間更緊密合作及協同效應，盡量廣泛惠及專上教育界別。
-
-一般項目組的申請者須就支援計劃撥款的相關範疇提交申請書，主要範疇包括下列各項：
-
-（一）改善學生整體學習經驗和語文能力；
-
-（二）制訂和改善教學法及實踐方法，包括發展評估策略；
-
-（三）加強和改善質素保證及相關措施；及
-
-（四）加強學生支援及升學就業輔導服務，包括支援非華語及有特殊教育需要學生。
-
-至於工作實習項目組，申請者可以就下列範疇提交申請書：
-
-（一）透過與業界緊密合作，在課程內加入具質素保證的職場學習及評核；
-
-（二）協助學生尋找本地及／或境外的工作實習機會；及／或加強院校在工作實習方面對學生的支援；及
-
-（三）舉辦與工作實習直接有關的本地及／或境外學生參觀活動或短期培訓／課程。
-
-所有開辦全日制經本地評審自資副學位或學士學位（包括銜接學位）課程的非牟利院校，均符合資格參加支援計劃。其他相關機構，例如此類院校的聯會和質素保證機構，也可提交申請。所有申請會由自資專上教育委員會下的支援措施小組委員會審閱。
-
-支援計劃自二○一二年推出以來，共批出逾120個項目，涉及總撥款約四億五千五百萬元。支援計劃於二○二四／二五年度共接獲33份項目申請，當中五個項目獲批，涉及撥款約二千三百萬元，以建立自資專上教育界人工智能教學資源中心、開發人工智能醫療教育虛擬實驗室平台、設立產學合作辦公室、提升專上院校學生的情緒健康與抗逆力，以及向非本地學生提供全面支援。
-
-支援計劃的詳情，包括申請項目的範疇和申請程序，載於自資專上教育資訊平台（www.cspe.edu.hk/tc/qess-project.html）。"
 New round of applications under Quality Enhancement Support Scheme of self-financing post-secondary education opens,2025-10-27 15:30,2025-10-27 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700233.htm,"The Education Bureau today (October 27) invites applications for the 2025/26 Quality Enhancement Support Scheme (QESS) of the Self-financing Post-secondary Education Fund for projects proposed to be launched in the 2026/27 academic year. The application deadline is February 28, 2026.
 
 The QESS is a major support measure to promote the healthy and sustainable development of the self-financing post-secondary education sector, with the aim of enhancing the quality of teaching and learning in the sector. It accepts applications under three project categories, namely theme-based projects, open-ended projects and industrial attachment projects.
@@ -1619,6 +1695,35 @@ All non-profit-making education institutions offering full-time locally accredit
 Since its launch in 2012, the QESS has approved over 120 projects with a total grant of about $455 million. In the 2024/25 round of applications, five out of 33 applications were approved, with a total earmarked grant of about $23 million, which aim to develop an artificial intelligence (AI)-enhanced teaching resource hub for the sector; develop an AI-powered virtual laboratory platform for healthcare education; establish an industry-university partnerships office; enhance students' emotional wellness and resilience; and provide non-local students with holistic support.
 
 Further details of the QESS, including the scope of various project categories and the application procedures, are available at the Concourse for Self-financing Post-secondary Education (www.cspe.edu.hk/en/qess-project.html)."
+自資專上教育質素提升支援計劃接受新一輪申請,2025-10-27 15:30,2025-10-27 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700230.htm,"教育局今日（十月二十七日）開始接受二○二五／二六年度自資專上教育基金下的質素提升支援計劃的申請，以資助擬於二○二六／二七學年展開的項目。截止申請日期為二○二六年二月二十八日。
+
+支援計劃是促進自資專上教育界別穩健及持續發展的主要支援措施，旨在提升業界的教與學質素。該計劃下共有三組申請項目，分別為特定主題項目、一般項目和工作實習項目。
+
+特定主題項目組的申請者可自訂項目主題，而有關項目必須以協作形式進行，即由多於一間合資格院校策劃及推動，以促進院校間更緊密合作及協同效應，盡量廣泛惠及專上教育界別。
+
+一般項目組的申請者須就支援計劃撥款的相關範疇提交申請書，主要範疇包括下列各項：
+
+（一）改善學生整體學習經驗和語文能力；
+
+（二）制訂和改善教學法及實踐方法，包括發展評估策略；
+
+（三）加強和改善質素保證及相關措施；及
+
+（四）加強學生支援及升學就業輔導服務，包括支援非華語及有特殊教育需要學生。
+
+至於工作實習項目組，申請者可以就下列範疇提交申請書：
+
+（一）透過與業界緊密合作，在課程內加入具質素保證的職場學習及評核；
+
+（二）協助學生尋找本地及／或境外的工作實習機會；及／或加強院校在工作實習方面對學生的支援；及
+
+（三）舉辦與工作實習直接有關的本地及／或境外學生參觀活動或短期培訓／課程。
+
+所有開辦全日制經本地評審自資副學位或學士學位（包括銜接學位）課程的非牟利院校，均符合資格參加支援計劃。其他相關機構，例如此類院校的聯會和質素保證機構，也可提交申請。所有申請會由自資專上教育委員會下的支援措施小組委員會審閱。
+
+支援計劃自二○一二年推出以來，共批出逾120個項目，涉及總撥款約四億五千五百萬元。支援計劃於二○二四／二五年度共接獲33份項目申請，當中五個項目獲批，涉及撥款約二千三百萬元，以建立自資專上教育界人工智能教學資源中心、開發人工智能醫療教育虛擬實驗室平台、設立產學合作辦公室、提升專上院校學生的情緒健康與抗逆力，以及向非本地學生提供全面支援。
+
+支援計劃的詳情，包括申請項目的範疇和申請程序，載於自資專上教育資訊平台（www.cspe.edu.hk/tc/qess-project.html）。"
 Auction for Fong Ma Po New Year Fair stalls at Lam Tsuen in Tai Po to be held on November 10,2025-10-27 15:17,2025-10-27 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102400302.htm,"  The Food and Environmental Hygiene Department (FEHD) announced today (October 27) that the auction for stalls at the 2026 Fong Ma Po (FMP) New Year Fair at Lam Tsuen in Tai Po will be put up for open auction on November 10 (Monday).
 
   An FEHD spokesman said that the annual FMP New Year Fair will be held for 15 consecutive days from February 17 to March 3 next year. A total of 21 dry goods stalls and six wet goods stalls will be put up for auction, with upset prices of $780 and $770 respectively.
@@ -1683,87 +1788,3 @@ Applicants may submit their applications, pay the licence fees, and collect the 
 If a licence application is eventually not approved or cancelled by the applicant, he or she may apply to the FEHD for a refund.
 
 For details about the new arrangements, please visit the FEHD's website or contact the relevant Licensing Office."
-上水送院時死亡案改列誤殺案,2025-10-27 14:42,2025-10-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700445.htm,"警方昨日（十月二十六日）將十月二十一日在上水發生的一宗送院時死亡案改列誤殺案。
-
-警方十月二十一日晚上十一時三十六分接獲報案，指一名男子倒臥在皇后山邨皇匯樓一單位內。
-
-人員接報到場，該名三十五歲男子身上有經縫合的傷口，昏迷被送往北區醫院治理，於十月二十二日凌晨零時四十分被證實死亡。
-
-初步調查得知死者曾於十月十八日自行到醫院求醫，聲稱刀傷由自己造成，並在接受治療後出院。
-
-警方經深入調查後，懷疑刀傷由死者的女性朋友造成，警方將案件改列誤殺案，並在十月二十四日於上水區以涉嫌誤殺拘捕一名三十五歲女子，她已被暫控一項「誤殺」罪，案件於今日（十月二十七日）下午於粉嶺法院提堂。
-
-案件正由大埔警區重案組調查中。"
-Death on arrival case in Sheung Shui reclassified as manslaughter,2025-10-27 14:42,2025-10-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700444.htm,"Police yesterday (October 26) reclassified a death on arrival case happened in Sheung Shui on October 21 as manslaughter.
-
-At 11.36pm on October 21, Police received a report that a man was found lying inside a unit in Wong Wui House, Queens Hill Estate.
-ã
-Upon Police arrival, the 35-year-old man, with sutured wounds on his body, was rushed to North District Hospital in unconscious state and was certified dead at 0.40am on October 22.
-
-Initial investigation revealed that the deceased had sought medical attention at hospital on October 18, claiming those stab wounds were self-inflicted. He was treated and discharged from hospital.
-ã
-After Police in-depth investigation, it was believed that those stab wounds were caused by the deceased’s female friend. The case was reclassified as manslaughter and a 35-year-old woman was arrested for manslaughter in Sheung Shui on October 24. Police yesterday laid a holding charge against the woman with one count of manslaughter. The case will be mentioned at Fanling Magistrates' Courts this afternoon (October 27).
-ã
-Investigation by the District Crime Squad of TaiPoDistrict is underway."
-"LCSD to hold vocal lecture series ""The Human Voice in 4 Parts"" in January next year",2025-10-27 14:30,2025-10-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700288.htm,"  The Leisure and Cultural Services Department will launch a vocal lecture series entitled ""The Human Voice in 4 Parts"" on four consecutive Wednesdays in January next year. Curated and hosted by voice pedagogue Chan Siu-kwan, each of the four lectures will feature one of the four main voice types (namely bass, alto, soprano and tenor) in Western classical music. Accompanied by selected excepts from Western opera works, the speaker will examine the roles portrayed by each voice type, and introduce the respective iconic legends along with their vocal features, guiding audiences to understand and appreciate the unique charm of different voice types.
-
-  Details of each lecture are as follows:
-
-Lecture 1: Bass
------------------------
-Date: January 7 (Wednesday)
-
-  Two of the lowest male voice types are the bass and the baritone. In this lecture, drawing on performance excerpts of renowned singers such as baritone Dmitri Hvorostovsky and bass Boris Christoff, the speaker will analyse the moments when these two voice types assign to take the leading male roles in opera.
-
-Lecture 2: Alto
------------------------
-Date: January 14 (Wednesday)
-
-  The speaker will examine why mezzo-sopranos and altos are often cast as supporting roles such as mothers, ladies-in-waiting or villainesses in opera, alongside the moments when these two voice types assume leading roles. This lecture will also introduce the ""castrati"", a dark chapter in music history, and the countertenors.
-
-Lecture 3: Soprano
------------------------
-Date: January 21 (Wednesday)
-
-  Through a selection of compelling excerpts, the speaker will explore why female leads in opera are predominantly performed by sopranos. Recordings of celebrated performances by divas such as Maria Callas and Joan Sutherland will be presented to illustrate what composers expect of the prima donna.
-
-Lecture 4: Tenor
------------------------
-Date: January 28 (Wednesday)
-
-  In the Romantic period, male leads in opera are mainly dominated by tenors. By featuring treasured recordings of Nicolai Gedda and Luciano Pavarotti, who was hailed as the ""King of High-Cs"", among others, this lecture will delve into the unique charm of the tenor voice.
-
-  Chan is an eminent vocalist and expert in choral singing in Hong Kong. She currently teaches voice at the music departments of the Chinese University of Hong Kong and the Hong Kong Baptist University. She also serves as the vocal advisor of the Hong Kong Children's Choir. Chan often gives vocal masterclasses, and conducts vocal workshops for singers and choir conductors, in addition to serving as adjudicator in singing competitions.
-
-  All lectures will be conducted in Cantonese and will start at 7.30pm at the Lecture Hall of the Hong Kong Space Museum. Each lecture will run for about one hour and 30 minutes. Tickets priced at $80 (for each lecture, with free seating) are now available at URBTIX (www.urbtix.hk). For telephone bookings and concessionary schemes, please call 3166 1288. For programme enquiries, please call 2268 7321 or visitwww.lcsd.gov.hk/CE/CulturalService/Programme/en/music/programs_1924.html."
-康文署明年一月推出聲樂講座系列《SING聲賞識》,2025-10-27 14:30,2025-10-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700284.htm,"康樂及文化事務署將於明年一月一連四個星期三舉辦聲樂講座系列《SING聲賞識》，由聲樂教育家陳少君策劃及主講。四場講座分別以西方古典音樂的四個主要聲部（男低音、女低音、女高音和男高音）為主題，配以精選的西洋歌劇選段，講解不同聲部所演繹的角色，另會介紹相關具代表性的歌唱家及其歌唱特色，引領觀眾認識和欣賞各聲部的獨特魅力。
-
-各場講座的詳情如下：
-
-第一講：男低音
-———————
-日期：一月七日（星期三）
-
-在人聲偏低的聲部中，除了男低音，還有男中音。講者會透過多位著名歌唱家如男中音Dmitri Hvorostovsky和男低音Boris Christoff等的演繹，分析這兩個聲部在歌劇中當主角的時刻。
-
-第二講：女低音
-———————
-日期：一月十四日（星期三）
-
-講者將分析在歌劇世界中女中音和女低音大多擔演母親、女僕人和女奸角等配角的原因，以及這兩個聲部能在歌劇中擔演主角的時刻；另將介紹屬於音樂史上黑暗一頁的「閹人歌手」，以及假聲男高音。
-
-第三講：女高音
-———————
-日期：一月二十一日（星期三）
-
-講者將透過精彩選段，探討為何歌劇中的女主角大多由女高音擔演，另會介紹Maria Callas和Joan Sutherland等歌劇天后的珍貴片段，講解作曲家對女主角的要求。
-
-第四講：男高音
-———————
-日期：一月二十八日（星期三）
-
-浪漫時期的歌劇，絕大部分都是由男高音當主角。講者將透過珍貴的演出片段，介紹歌唱家如Nicolai Gedda和有「高音C之王」美譽的巴伐洛堤，探討男高音聲音的獨特魅力所在。
-
-陳少君是香港著名聲樂家和合唱專家，現分别於香港中文大學和香港浸會大學音樂系教授聲樂，亦為香港兒童合唱團的駐團聲樂顧問。她經常主持聲樂大師班，以及為歌唱家和合唱指揮舉辦聲樂指導班，並擔任歌唱比賽的評判。
-
-各場講座均以粵語主講，於晚上七時三十分在香港太空館演講廳舉行，每場講座長約一小時三十分鐘。門票每場80元，不設劃位，現於城市售票網（www.urbtix.hk）發售。電話購票請致電3166 1288。查詢節目詳情及購票優惠，請致電2268 7321，或瀏覽www.lcsd.gov.hk/CE/CulturalService/Programme/tc/music/programs_1924.html。"
