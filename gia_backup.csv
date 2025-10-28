@@ -1,21 +1,811 @@
 title,date,scrape_time,section,source,url,news_content
-HKMA completes e-HKD Pilot Programme and outlines future direction of e-HKD,2025-10-28 16:20,2025-10-28 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800311.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+政務司司長出席十五運會和殘特奧會建築裝置設計比賽作品揭幕暨頒獎典禮致辭（只有中文）,2025-10-28 17:22,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800595.htm,"以下是政務司司長陳國基今日（十月二十八日）出席十五運會和殘特奧會建築裝置設計比賽作品揭幕暨頒獎典禮的致辭：
 
-The Hong Kong Monetary Authority (HKMA) today (October 28) published the ""e-HKD Pilot Programme Phase 2 Report"" (the report), which presents the key findings and learnings from 11 groups of industry pilots under Phase 2 of the e-HKD Pilot Programme (Phase 2). The report also sets out the HKMA's latest policy stance regarding the e-HKD.
+尊敬的黃嘉純副主席（香港賽馬會副主席）、劉文君會長（香港建築師學會會長）、各位嘉賓、各位朋友、各位同事：
 
-  Since 2017, the HKMA has begun explorative work on a central bank digital currency (CBDC), i.e. an e-HKD, using distributed ledger technology (DLT) as its foundation. This work has covered the potential applications of an e-HKD in both wholesale and retail scenarios. Phaseâ¯2 evaluated the commercial viability and scalability of an eâHKD in various retail scenarios. It also compared an e-HKD with tokenised deposits (a tokenised representation of bank deposits) to assess the distinctive value that an e-HKD can bring in retail scenarios.
+大家好，今天很高興出席十五運會（第十五屆全國運動會）和殘特奧會（全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會）建築裝置設計比賽作品揭幕暨頒獎典禮，與大家一起迎接這項全城矚目的體育盛事。
 
-The 11 pilots under Phase 2 explored innovative use cases across three main themes, namely settlement of tokenised assets, programmability, and offline payments. The results of the pilots demonstrated that an e-HKD and tokenised deposits can deliver benefits by enabling costâefficient, programmable, and resilient transactions. A key finding was that the public perceived an e-HKD and tokenised deposits similarly, given the public's high level of trust in Hong Kong's stable banking system, underpinned by a robust supervisory regime and strong consumer protection.
+為慶祝及紀念十五運會和殘特奧會在香港舉行，全國運動會香港賽區統籌辦公室與香港建築師學會攜手合作，舉辦了這次比賽。透過比賽公開徵集兩組建築裝置設計，希望為香港首次承辦全運會及殘特奧會留下獨特印記。
 
-As the e-HKD is issued by the HKMA and is free from credit risk, it is particularly well-suited for large-value transactions. The HKMA has therefore concluded that the immediate priority for the e-HKD lies in areas beyond retail use cases at this stage and will hence prioritise the future e-HKD work in wholesale payments, which has already been implemented in some applications, to support the development of the tokenisation ecosystem and cross-border payments, such as settlements of international trade.
+比賽一共徵集到超過60份參賽作品，每一件都充滿創意，展現出設計團隊對全運會與殘特奧會的熱情與想像。所有作品經過專業評審，從可行性到設計理念等多方面進行評分，最終選出兩組優秀作品。
 
-Going forward, the HKMA will continue its effort to prepare a solid policy, legal, and technical foundation, with the aim to lay the ground for potential future use of an e-HKD for individuals and corporates in Hong Kong. This preparatory work will be completed by the first half of 2026, and the timeframe for implementing any such extension would be subject to international developments, latest technologies, and market needs.
+兩組脫穎而出的得獎設計分別是：《光．花．聚》以及《一步一腳印》，以富有創意的演繹方式，展現出十五運會和殘特奧會所提倡的「協作與團結」、「尊重與包容」以及「體育精神」。
 
-As one of the key outcomes of the e-HKD Industry Forum, the HKMA will publish a set of common token standards, which will serve to facilitate the scaled adoption of programmability in digital money. These standards are intended to provide a foundation for the potential future development and adoption of an e-HKD aimed at serving the needs of individuals and corporates in Hong Kong.
+建築師團隊發揮專業才華，只用了短短六個月時間，就將概念化為紙上設計，再變成在我們眼前的實體裝置，實在令人讚歎！
 
-The Chief Executive of the HKMA, Mr Eddie Yue,said ""The two phases of the e-HKD Pilot Programme have yielded insightful findings that shape the HKMA's understanding of the future of digital money. We are encouraged to see that the e-HKD has gradually been used in more wholesale applications by financial institutions, and we will continue to ensure Hong Kong is well-prepared for the potential future extension of the e-HKD in retail scenarios. We thank all participants of the e-HKD Pilot Programme for their strong commitment and contribution over the past three years. We look forward to continuing our close partnership with the industry as part of our CBDC and tokenisation journey.""
+在大家附近的得獎作品《光．花．聚》，樹幹綻放着729朵花朵。729是三的六次方，寓意「三三不盡、六六無窮」，象徵粵港澳三地「同根同心」，也代表體育盛事薪火相傳、生生不息。這件作品也傳遞出多元團結的精神，寄語三地未來更多融合、共同發展。
 
-The report is available on the HKMA website. Details of each pilot can be found in the factsheets and supplementary reports prepared by the pilot participants, accessible via the links in Appendix A of the report."
+另一個得獎作品《一步一腳印》，設置於啟德車站廣場兩端，由六米高的運動鞋與地面的大鞋印組成，表達「傷健共融」的主題，展現運動員堅毅踏實的精神，也呼應大灣區發展一路走來的堅實步伐。我知道裝置的運動鞋塑材是使用循環再用物料製成，充分體現環保與創意的結合。
+
+今次比賽得以成功舉行，實在要多謝合作夥伴香港賽馬會的鼎力支持。馬會除了支持建築裝置設計比賽，更全力贊助支持不同籌備工作，包括義工服務、社區及學校推廣，以及為弱勢社群和青少年安排觀賽體驗等。
+
+我也衷心感謝香港建築師學會促成這次合作。他們以專業嚴謹的態度參與評審，確保得獎作品能充分展現全運會的獨特意義和精神。
+
+這次比賽體現了文化、體育、旅遊的結合。香港作為國際文化交流樞紐，我們相信兩組得獎建築裝置能夠為市民和遊客帶來新的體驗，共同見證香港首次承辦全運會這個歷史時刻。
+
+很快，我們便能在全運會的舞台上，目睹運動員的堅持、拼搏和團隊精神。香港要向前邁進，這個「團隊精神」也很重要。我鼓勵各位在十二月七日，齊心支持立法會換屆選舉，用你手中的一票，選出愛國愛港的立法會議員為香港服務。
+
+我再次恭賀各位得獎建築師，並感謝社會各界的支持。全運會的成功，實在有賴在座每一位的參與和貢獻。
+
+再過三天，全運會香港賽區第一個競賽項目——沙灘排球，就會在維多利亞公園舉行。我誠邀廣大市民踴躍購票入場，為運動員打氣，一同感受全運會的熾熱氣氛！多謝大家。"
+Senior appointment at Hong Kong Monetary Authority,2025-10-28 17:10,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800579.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority announced today (October 28) that the Financial Secretary, on the advice of the Governance Sub-Committee of the Exchange Fund Advisory Committee, has approved the appointment of Mr Albert Goh as the Deputy Chief Executive Officer (Exchange Fund Investment Office), at the rank of Executive Director, with effect from November 1, 2025.
+
+As the Deputy Chief Executive Officer (Exchange Fund Investment Office), Mr Goh will be responsible for the overall investment management of the Exchange Fund, and will report to the Chief Executive Officer of the Exchange Fund Investment Office.
+
+The CV of Mr Goh is attached at Annex."
+香港金融管理局委任高層人員,2025-10-28 17:10,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800577.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局今日（十月二十八日）宣布，財政司司長根據外匯基金諮詢委員會轄下管治委員會建議，批准委任吳祥趾為外匯基金投資辦公室副行政總裁，相等於助理總裁級別。委任於二○二五年十一月一日生效。
+
+作為外匯基金投資辦公室副行政總裁，吳祥趾將負責外匯基金的整體投資管理，並向外匯基金投資辦公室行政總裁報告。
+
+吳祥趾的履歷載於附件。"
+​勞工及福利局局長為香港賽馬會慈善信託基金「樂載耆蹤」社區長者支援計劃啓動禮主禮致辭（只有中文）,2025-10-28 17:08,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800585.htm,"以下是勞工及福利局局長孫玉菡今日（十月二十八日）下午為香港賽馬會慈善信託基金「樂載耆蹤」社區長者支援計劃啓動禮主禮的致辭全文：
+
+Bernard（香港賽馬會董事陳智思）、Paul（計劃首席研究員及香港大學香港賽馬會防止自殺研究中心總監葉兆輝教授）、Doris（計劃首席研究員及香港大學李嘉誠醫學院護理學院教授余秀鳳教授）：
+
+很高興今日再來到荃灣參與香港賽馬會資助項目（啓動禮），我們數星期前才在這裏見面。今日，要祝賀賽馬會「樂載耆蹤」社區長者支援計劃舉行啓動禮。這四個字改得很好──「樂載耆蹤」，「耆蹤」的意思是追蹤長者，過程都是愉快的。
+
+正如Bernard剛剛所說，香港現在面對高齡化的挑戰，表示我們多了很多長者。其實無論長者獨居也好、雙老或是多老同住也好，本身未必是問題。正如這裏很多都是小家庭，長者自己居住是很正常的。但如果長者自己獨居而並沒有社交網絡、沒有社區支援，那便是問題，需要我們要幫忙。
+
+賽馬會一向與政府屬拍檔關係，通常都走得較前，經常試創新的東西。正如剛才Bernard所說，在二○二三年開始，賽馬會已經開始「樂載耆蹤」的構想，並逐步推展。隨後，特區政府亦提出了類似的概念，構想如何以最高效率找到社區上風險較高的長者，繼而為他們提供服務，讓他們得到社區支援。賽馬會的「樂載耆蹤」和今年政府推出利用社會福利署、醫管局（醫院管理局）及房屋署的大數據，尋找一些風險高的老友記，事實上是相輔相成的。尤其，我這段時間亦跟兩位大教授和其他朋友都談到，我們認為在公共房屋的大數據基本上都能找到被認為風險較高的老友記，因為有名冊作依照。但是，有些地方並不是那麼容易找到長者，例如「三無大廈」、偏遠的社區，或是住在不同種類的屋宇的長者，這些則有賴賽馬會「樂載耆蹤」的配合，找到一些我們很想幫忙卻又無從找到的長者。將來若有機會，我們可以探討是否能讓手上的大數據結合「樂載耆蹤」，提升效率。
+
+這計劃更好的地方是，尋找到只是第一步，在尋找到需要幫助的長者後會提供幫助。他們會做簡單的家居改善，然後跟他們建立一個有信任的朋友關係，這正正為我們將來構建一個新的支援模式提供了一些參考。尤其是這計劃都是實證為本的，有香港大學的支援，這令我更期待在整個計劃完成後，與香港大學團隊和賽馬會了解哪些支援計劃的效率、效益特別高，繼而政府可以考慮將它融入恆常的支援。我現在特別關心住在「三無大廈」的人士，香港的社區與外國比較有一個特點，我們是垂直的城市，很多老人家年輕的時候，覺得住在高層沒問題的，景觀好一點。但隨着他們年齡漸長，而他們住的大廈沒有電梯，這是一個很大的挑戰。即使他有多大的意願，他的社交亦會受阻。但其實現在有很多樂齡科技，沒有升降機，但我們有樓梯機，這些我都想去探討當中的效益。但只有樓梯機也不夠，樓梯機要人操作，所以整個網絡如果能夠結合，我們可以幫助很多有需要的長者，讓他們可以重新融入社區，令他們覺得生活多了一份樂趣。他有困難的時候可以找到對象傾訴，然後可以求助，這裏我相信隨着「樂載耆蹤」的全面推行，政府可以從中取得很多關鍵數據，可以一起合作，為我們去應對香港的社會高齡化提供了很多值得參考的做法。
+
+另外，一定要呼籲的，十二月七日是立法會換屆選舉，台下有社福機構的代表，又有很多老友記，大家應該一盡公民責任，好好運用我們手上的選票，出來投票，並呼籲身邊人投票，選出有志向、有承擔、有能力的人成為立法會議員。立法會議員和政府，以及各相關機構一定會通力合作，應對好社福的多方面挑戰，尤其是社會高齡化的挑戰。在這裏多謝各位參與，也都再一次呼籲大家出來投票，感謝大家。"
+Hong Kong Customs raids online shop selling suspected counterfeit goods and engaging in money laundering (with photos),2025-10-28 17:05,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800547.htm,"  Hong Kong Customs mounted a special enforcement operation on October 20 and detected a case involving the sale of suspected counterfeit footwear products and money laundering by an online shop. A total of about 1 100 items of suspected counterfeit goods, including footwear and clothing, with a total estimated market value of about $2 million, were seized. The suspected crime proceeds generated from the sale of suspected counterfeit goods involved in the case amounted to $13 million. Two persons were arrested.
+
+  Customs earlier received information from the public, alleging that an online shop was offering counterfeit footwear for sale, and an investigation was then launched. After an in-depth investigation and with the assistance of trademark owners, Customs officers took enforcement action on October 20 and searched an industrial unit in Tsuen Wan, resulting in the seizure of the batch of suspected counterfeit goods.
+
+  Meanwhile, fund-flow analysis revealed that one of the arrested persons was suspected of using corporate and personal bank accounts to deal with a large amount of suspected crime proceeds. A total of about $13 million of suspected crime proceeds generated from the sale of counterfeit goods had been handled by the arrested person since 2023.
+
+  During the operation, a 31-year-old man and a 29-year-old woman, who are siblings, were arrested under the Trade Descriptions Ordinance (TDO) and the Organised and Serious Crimes Ordinance (OSCO).
+
+  An investigation is ongoing, and the arrested persons have been released on bail pending further investigation. The likelihood of further arrests is not ruled out.
+
+  Customs reminds consumers to purchase goods at reputable shops or online shops and to avoid conducting transactions with suspicious traders. They should check with the trademark owners or their authorised agents if the authenticity of a product is in doubt.
+
+  Customs has been striving to protect consumer rights and carries out inspections in the market and on the Internet from time to time. Moreover, Customs officers use a big-data analytics system to carry out risk assessments and analyses to verify whether online shops have complied with the TDO with a view to safeguarding the interests of consumers during online purchases.
+
+  Under the TDO, any person who sells or possesses for sale any goods with a forged trademark commits an offence. The maximum penalty upon conviction is a fine of $500,000 and imprisonment for five years.
+
+  Under the OSCO, a person commits an offence if he or she deals with any property knowing or having reasonable grounds to believe that such property, in whole or in part, directly or indirectly represents any person's proceeds of an indictable offence. The maximum penalty upon conviction is a fine of $5 million and imprisonment for 14 years, while the crime proceeds are also subject to confiscation.
+â
+  Members of the public may report any suspected counterfeiting activities and suspected money laundering activities to Customs' 24-hour hotline 182 8080 or its dedicated crime reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+香港海關搗破網上店舖售賣懷疑冒牌物品及參與清洗黑錢（附圖）,2025-10-28 17:05,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800546.htm,"香港海關十月二十日展開特別執法行動，偵破一宗透過網上店舖售賣懷疑冒牌鞋履及清洗黑錢案件，檢獲共約一千一百件懷疑冒牌物品，包括鞋履和服飾，估計市值共約二百萬元，案件涉及處理售賣懷疑冒牌物品的犯罪得益高達一千三百萬元，行動中拘捕兩人。
+
+海關早前接獲市民舉報，指有網上店舖售賣冒牌鞋履，海關人員隨即展開調查。經深入調查及在商標持有人的協助下，海關人員於十月二十日採取執法行動，搜查一個位於荃灣的工廠大廈單位，並檢獲該批懷疑冒牌物品。
+
+與此同時，經資金流向分析後，海關人員發現其中一名被捕人士涉嫌利用公司及個人銀行帳戶處理大量懷疑犯罪得益。該名被捕人士由二○二三年至今合共處理約一千三百萬元懷疑售賣冒牌物品的犯罪得益。
+
+行動中，海關根據《商品說明條例》及《有組織及嚴重罪行條例》拘捕一名三十一歲男子及一名二十九歲女子，兩人為兄妹關係。
+
+案件仍在調查中，被捕人士現正保釋候查，不排除會有更多人被捕。
+
+海關呼籲消費者應光顧信譽良好的店鋪或網店，避免與可疑的商戶進行交易，如對貨品真偽有懷疑，應先向有關商標持有人或其代理商查詢。
+
+海關一直致力保障消費者權益，並不時在市場及網上巡查。此外，海關人員會利用大數據系統作風險評估和分析，以確定網店是否符合《商品說明條例》的規定，加強保障消費者在網上購物的權益。
+
+根據《商品說明條例》，任何人銷售或為售賣用途而管有冒牌物品，即屬違法。一經定罪，最高可被判罰款五十萬元及監禁五年。
+
+而根據《有組織及嚴重罪行條例》，任何人士如知道或有合理理由相信任何財產，不論全部或部分、直接或間接，代表任何人從可公訴罪行的得益，而仍然處理該財產，即屬犯罪。一經定罪，最高可被判罰款五百萬元及監禁十四年，而相關犯罪得益亦可被沒收。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑冒牌以及懷疑參與洗黑錢的活動。"
+FEHD releases sixth batch of gravidtrap indexes for Aedes albopictus in October,2025-10-28 17:00,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800495.htm,"The Food and Environmental Hygiene Department (FEHD) today (October 28) released the sixth batch of gravidtrap indexes and density indexes for Aedes albopictus in October, covering 17 survey areas, as follows:â
+
+
+
+
+District
+Survey Area
+October 2025
+
+
+First Phase Gravidtrap Index
+First Phase Density Index
+
+
+Islands
+Cheung Chau South
+0.0%
+N/A
+
+
+Cheung Chau North
+0.0%
+N/A
+
+
+Tung Chung
+0.0%
+N/A
+
+
+Sham Shui Po
+Cheung Sha Wan
+0.0%
+N/A
+
+
+Lai Chi Kok
+0.0%
+N/A
+
+
+Sham Shui Po East
+0.0%
+N/A
+
+
+Sai Kung
+Tseung Kwan O West
+0.0%
+N/A
+
+
+Tseung Kwan O East
+0.0%
+N/A
+
+
+Tseung Kwan O North
+2.3%
+1.0
+
+
+Sai Kung Town
+9.3%
+1.0
+
+
+Ngau Liu and Muk Min Shan
+4.2%
+1.0
+
+
+Tsuen Wan
+Sheung Kwai Chung
+0.0%
+N/A
+
+
+Kwai Tsing
+Kwai Chung
+5.3%
+1.0
+
+
+Lai King
+0.0%
+N/A
+
+
+
+
+
+
+
+
+District
+Survey Area
+October 2025
+
+
+Area Gravidtrap Index
+Area Density Index
+
+
+Wong Tai Sin
+Wong Tai Sin West
+1.0
+1.0
+
+
+Kwun Tong
+Lam Tin and Sau Mau Ping
+2.4%
+1.0
+
+
+Yuen Long
+Yuen Long Town
+2.7%
+1.3
+
+
+
+
+Among the sixth batch of First Phase Gravidtrap Indexes covering 14 survey areas and Area Gravidtrap Indexes covering three survey areas in October, all were below 10 per cent.
+
+The FEHD has so far released six batches of gravidtrap indexes for Aedes albopictus in October 2025, covering 58 survey areas. Among these 58 survey areas, 42 recorded a decrease or remained unchanged in the individual gravidtrap index as compared to the Area Gravidtrap Index last month, i.e. September 2025, representing that the areas’ mosquito infestation improved or maintained a low level. Sixteen other areas recorded a slight increase, but the indexes were lower than 10 per cent.
+
+Public participation is crucial to the effective control of mosquito problems. The FEHD appeals to members of the public to continue to work together in strengthening personal mosquito control measures, including:
+
+tidy up their premises and check for any accumulation of water inside their premises;
+remove all unnecessary water collections and eliminate the sources;
+check household items (those placed in outdoor and open areas in particular), such as refuse containers, vases, air conditioner drip trays, and laundry racks to prevent stagnant water;
+change the water in flower vases and saucers of potted plants at least once every seven days;
+properly cover all containers that hold water to prevent mosquitoes from accessing the water; and
+properly dispose of articles that can contain water, such as empty lunch boxes and cans.
+
+
+Starting in August this year, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD is disseminating the relevant information through press releases, its website, and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of chikungunya fever (CF) transmission.
+
+âFollowing the recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 64 survey areas of the community. During the two weeks of surveillance, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas as well as information on mosquito prevention and control measures are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#)."
+"Temporary suspension of LCSD's Mobile Libraries 4, 8 and 11 services",2025-10-28 17:00,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800459.htm,"  Mobile Libraries 4, 8 and 11 will suspend services during designated periods in November for routine maintenance, a spokesman for the Leisure and Cultural Services Department announced today (October 28).
+
+  Mobile Library 4 will suspend services from November 5 to 17. The affected service points are Yat Tung Estate in Tung Chung, Discovery Bay, Pui O, Shui Hau and Tong Fuk. For enquiries about Mobile Library 4 services, please call 2984 9417.
+
+  Mobile Library 8 will suspend services from November 10 to 15. The affected service points are Laguna City in Lam Tin, On Tai Estate in Kwun Tong, Tai Hang Tung Estate on Tai Hang Tung Road, Laguna Verde in Hung Hom and Choi Fook Estate in Kowloon Bay. For enquiries about Mobile Library 8 services, please call 2926 3055.
+
+  Mobile Library 11 will suspend services from November 19 to 25. The affected service points are Kwong Yuen Estate in Sha Tin, Cheung Ching Estate and Easeful Court in Tsing Yi, Tin Wah Estate in Tin Shui Wai, Lai Yiu Estate in Kwai Chung and Po Tin Estate in Tuen Mun. For enquiries about Mobile Library 11 services, please call 2479 1055.
+
+  Readers are welcome to use other public libraries during the service suspension periods. They may also renew library materials by telephoning 2698 0002 or 2827 2833, or via www.hkpl.gov.hk."
+康文署流動圖書館四、八及十一暫停服務,2025-10-28 17:00,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800461.htm,"康樂及文化事務署發言人今日（十月二十八日）宣布，流動圖書館四、八及十一將於十一月不同時段暫停服務，以便進行保養維修工程。
+
+流動圖書館四於十一月五日至十七日暫停服務，受影響的服務站包括東涌逸東邨、愉景灣、貝澳、水口及塘福。查詢有關流動圖書館四的服務詳情，可致電2984 9417。
+
+流動圖書館八於十一月十日至十五日暫停服務，受影響的服務站包括藍田麗港城、觀塘安泰邨、大坑東道大坑東邨、紅磡海逸豪園及九龍灣彩福邨。查詢有關流動圖書館八的服務詳情，可致電2926 3055。
+
+流動圖書館十一於十一月十九日至二十五日暫停服務，受影響的服務站包括沙田廣源邨、青衣長青邨及青逸軒、天水圍天華邨、葵涌麗瑤邨，以及屯門寶田邨。查詢有關流動圖書館十一的服務詳情，可致電2479 1055。
+
+在暫停服務期間，讀者可使用其他公共圖書館借閱或歸還圖書館資料，亦可致電2698 0002或2827 2833，或透過www.hkpl.gov.hk續借圖書館資料。
+"
+食環署公布十月份第六批白紋伊蚊誘蚊器指數,2025-10-28 17:00,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800483.htm,"食物環境衞生署（食環署）今日（十月二十八日）公布，十月份第六批涵蓋17個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
+
+
+
+
+行政區
+監察地區
+2025年10月
+
+
+第一階段誘蚊器指數
+第一階段密度指數
+
+
+離島區
+長洲南
+0.0%
+N/A
+
+
+長洲北
+0.0%
+N/A
+
+
+東涌
+0.0%
+N/A
+
+
+深水埗區
+長沙灣
+0.0%
+N/A
+
+
+荔枝角
+0.0%
+N/A
+
+
+深水埗東
+0.0%
+N/A
+
+
+西貢區
+將軍澳西
+0.0%
+N/A
+
+
+將軍澳東
+0.0%
+N/A
+
+
+將軍澳北
+2.3%
+1.0
+
+
+西貢市
+9.3%
+1.0
+
+
+牛寮及木棉山
+4.2%
+1.0
+
+
+荃灣區
+上葵涌
+0.0%
+N/A
+
+
+葵青區
+葵涌
+5.3%
+1.0
+
+
+荔景
+0.0%
+N/A
+
+
+
+
+
+
+
+
+行政區
+監察地區
+2025年10月
+
+
+分區誘蚊器指數
+分區密度指數
+
+
+黃大仙區
+黃大仙西
+1.0%
+1.0
+
+
+觀塘區
+藍田及秀茂坪
+2.4%
+1.0
+
+
+元朗區
+元朗市中心
+2.7%
+1.3
+
+
+
+
+十月份第六批涵蓋14個監察地區的第一階段誘蚊器指數及三個監察地區的分區誘蚊器指數，全部都在10%以下。
+
+食環署至今已公布二○二五年十月共六批白紋伊蚊誘蚊器指數，涵蓋共58個監察地區。與上月（即二○二五年九月）的分區白紋伊蚊誘蚊器指數相比，這58個監察區中，42個監察地區的指數下跌或保持不變，代表蚊患情況改善或維持低水平；另有16區的指數輕微上升，但指數低於10%。
+
+要有效防治蚊患，市民大眾的參與至關重要。食環署呼籲市民攜手合作，加強個人防蚊措施，包括：
+
+收拾處所，並檢查處所內是否有容器積水；
+清除積水並消除滲漏源頭；
+檢查家居用品（尤其是存放於戶外露天地方的用品），例如垃圾桶、花盆、冷氣機底盤、晾衣架等，避免出現積水；
+最少每星期一次更換花瓶和盆栽墊盤裏的水；
+妥善蓋好所有盛水容器，以防成蚊接觸水面；及
+妥善處置能盛水的物品，例如空飯盒和空罐。
+
+
+食環署自今年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
+
+食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。現時，食環署在社區64個監察地區放置誘蚊器，監察期為兩星期。食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
+Exchange Fund Bills tender results,2025-10-28 16:58,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800552.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+Exchange Fund Bills tender results:
+
+
+
+
+Tender date
+:
+October 28, 2025
+
+
+Paper on offer
+:
+EF Bills
+
+
+Issue number
+:
+Q2544
+
+
+Issue date
+:
+October 30, 2025
+
+
+Maturity date
+:
+January 28, 2026
+
+
+Amount applied
+:
+HK$155,963 MN
+
+
+Amount allotted
+:
+HK$63,315 MN
+
+
+Average yield accepted
+:
+3.37 PCT
+
+
+Highest yield accepted
+:
+3.42 PCT
+
+
+Pro rata ratio*
+:
+About 3 PCT
+
+
+Average tender yield
+:
+3.51 PCT
+
+
+****************************
+
+
+Tender date
+:
+October 28, 2025
+
+
+Paper on offer
+:
+EF Bills
+
+
+Issue number
+:
+H2573
+
+
+Issue date
+:
+October 30, 2025
+
+
+Maturity date
+:
+April 29, 2026
+
+
+Amount applied
+:
+HK$64,450 MN
+
+
+Amount allotted
+:
+HK$15,000 MN
+
+
+Average yield accepted
+:
+3.00 PCT
+
+
+Highest yield accepted
+:
+3.03 PCT
+
+
+Pro rata ratio*
+:
+About 80 PCT
+
+
+Average tender yield
+:
+3.17 PCT
+
+
+
+
+*""Pro rata ratio"" refers to the average percentage of allotment with respect to each tender participant's tendered amount at the ""highest yield accepted"" level.
+
+---------------------------------------------------------
+
+Hong Kong Monetary Authority tenders to be held in the week beginning November 3, 2025:
+
+
+
+
+Tender date
+:
+November 4, 2025
+
+
+Paper on offer
+:
+EF Bills
+
+
+Issue number
+:
+Q2545
+
+
+Issue date
+:
+November 5, 2025
+
+
+Maturity date
+:
+February 4, 2026
+
+
+Tenor
+:
+91 Days
+
+
+Amount on offer
+:
+HK$63,730 MN
+
+
+****************************
+
+
+Tender date
+:
+November 4, 2025
+
+
+Paper on offer
+:
+EF Bills
+
+
+Issue number
+:
+H2574
+
+
+Issue date
+:
+November 5, 2025
+
+
+Maturity date
+:
+May 6, 2026
+
+
+Tenor
+:
+182 Days
+
+
+Amount on offer
+:
+HK$17,000 MN
+
+
+
+"
+外匯基金票據投標結果,2025-10-28 16:58,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800548.htm,"下稿代香港金融管理局發出︰
+
+外匯基金票據投標結果：
+
+
+
+
+投標日期
+：
+2025年10月28日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2544
+
+
+發行日期
+：
+2025年10月30日
+
+
+屆滿日期
+：
+2026年1月28日
+
+
+申請額
+：
+155,963百萬港元
+
+
+發行額
+：
+63,315百萬港元
+
+
+平均接納息率
+：
+3.37厘
+
+
+最高接納息率
+：
+3.42厘
+
+
+分配比例＊
+：
+約3%
+
+
+平均投標息率
+：
+3.51厘
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年10月28日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2573
+
+
+發行日期
+：
+2025年10月30日
+
+
+屆滿日期
+：
+2026年4月29日
+
+
+申請額
+：
+64,450百萬港元
+
+
+發行額
+：
+15,000百萬港元
+
+
+平均接納息率
+：
+3.00厘
+
+
+最高接納息率
+：
+3.03厘
+
+
+分配比例＊
+：
+約80%
+
+
+平均投標息率
+：
+3.17厘
+
+
+
+
+＊「分配比例」指每名投標參與者於「最高接納息率」水平的投標額的平均配發百分比。
+
+---------------------------------------------------------
+
+香港金融管理局在二○二五年十一月三日開始的一星期內舉行的投標 ：
+
+
+
+
+投標日期
+：
+2025年11月4日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+Q2545
+
+
+發行日期
+：
+2025年11月5日
+
+
+屆滿日期
+：
+2026年2月4日
+
+
+期限
+：
+91日
+
+
+發行額
+：
+63,730百萬港元
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+投標日期
+：
+2025年11月4日
+
+
+可供投標票據
+：
+外匯基金票據
+
+
+發行號碼
+：
+H2574
+
+
+發行日期
+：
+2025年11月5日
+
+
+屆滿日期
+：
+2026年5月6日
+
+
+期限
+：
+182日
+
+
+發行額
+：
+17,000百萬港元
+
+
+
+"
 金管局完成「數碼港元」先導計劃並闡述「數碼港元」的未來發展方向,2025-10-28 16:20,2025-10-28 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800316.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（十月二十八日）發布《「數碼港元」先導計劃第二階段報告》（報告），介紹「數碼港元」先導計劃第二階段（第二階段）下11組試驗的主要成果與經驗。報告亦闡述了金管局就「數碼港元」的最新政策立場。
@@ -33,6 +823,23 @@ The report is available on the HKMA website. Details of each pilot can be found 
 金管局總裁余偉文表示：「『數碼港元』先導計劃的兩個階段取得了豐富的成果，有助於金管局深入了解數碼貨幣的未來發展。我們樂見『數碼港元』已逐步被金融機構應用於更多批發層面的場景。金管局將繼續致力為未來可能擴展『數碼港元』至零售場景使用做好準備。我們衷心感謝『數碼港元』先導計劃的所有參與者在過去三年中的積極投入和寶貴貢獻。我們期待在央行數碼貨幣與代幣化進程中，繼續與業界緊密合作。」
 
 報告載於金管局網站（只備英文版本）。各項試驗的詳細資訊可參閲由各機構所編寫的簡介及補充文件，相關連結載於報告附錄A。"
+HKMA completes e-HKD Pilot Programme and outlines future direction of e-HKD,2025-10-28 16:20,2025-10-28 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800311.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) today (October 28) published the ""e-HKD Pilot Programme Phase 2 Report"" (the report), which presents the key findings and learnings from 11 groups of industry pilots under Phase 2 of the e-HKD Pilot Programme (Phase 2). The report also sets out the HKMA's latest policy stance regarding the e-HKD.
+
+  Since 2017, the HKMA has begun explorative work on a central bank digital currency (CBDC), i.e. an e-HKD, using distributed ledger technology (DLT) as its foundation. This work has covered the potential applications of an e-HKD in both wholesale and retail scenarios. Phaseâ¯2 evaluated the commercial viability and scalability of an eâHKD in various retail scenarios. It also compared an e-HKD with tokenised deposits (a tokenised representation of bank deposits) to assess the distinctive value that an e-HKD can bring in retail scenarios.
+
+The 11 pilots under Phase 2 explored innovative use cases across three main themes, namely settlement of tokenised assets, programmability, and offline payments. The results of the pilots demonstrated that an e-HKD and tokenised deposits can deliver benefits by enabling costâefficient, programmable, and resilient transactions. A key finding was that the public perceived an e-HKD and tokenised deposits similarly, given the public's high level of trust in Hong Kong's stable banking system, underpinned by a robust supervisory regime and strong consumer protection.
+
+As the e-HKD is issued by the HKMA and is free from credit risk, it is particularly well-suited for large-value transactions. The HKMA has therefore concluded that the immediate priority for the e-HKD lies in areas beyond retail use cases at this stage and will hence prioritise the future e-HKD work in wholesale payments, which has already been implemented in some applications, to support the development of the tokenisation ecosystem and cross-border payments, such as settlements of international trade.
+
+Going forward, the HKMA will continue its effort to prepare a solid policy, legal, and technical foundation, with the aim to lay the ground for potential future use of an e-HKD for individuals and corporates in Hong Kong. This preparatory work will be completed by the first half of 2026, and the timeframe for implementing any such extension would be subject to international developments, latest technologies, and market needs.
+
+As one of the key outcomes of the e-HKD Industry Forum, the HKMA will publish a set of common token standards, which will serve to facilitate the scaled adoption of programmability in digital money. These standards are intended to provide a foundation for the potential future development and adoption of an e-HKD aimed at serving the needs of individuals and corporates in Hong Kong.
+
+The Chief Executive of the HKMA, Mr Eddie Yue,said ""The two phases of the e-HKD Pilot Programme have yielded insightful findings that shape the HKMA's understanding of the future of digital money. We are encouraged to see that the e-HKD has gradually been used in more wholesale applications by financial institutions, and we will continue to ensure Hong Kong is well-prepared for the potential future extension of the e-HKD in retail scenarios. We thank all participants of the e-HKD Pilot Programme for their strong commitment and contribution over the past three years. We look forward to continuing our close partnership with the industry as part of our CBDC and tokenisation journey.""
+
+The report is available on the HKMA website. Details of each pilot can be found in the factsheets and supplementary reports prepared by the pilot participants, accessible via the links in Appendix A of the report."
 二零二五年版《香港統計年刊》現已出版,2025-10-28 16:00,2025-10-28 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102700535.htm,"政府統計處編製的二零二五年版《香港統計年刊》今日（十月二十八日）出版，現可於政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1010003&scode=460）下載。
 
 該年刊是內容全面和便於參考的官方統計匯編，載有約290個統計表，所涉及的主題範圍十分廣泛，包括：
@@ -225,17 +1032,6 @@ Ladies and gentlemen, bringing together policy makers, innovators, investors and
 I would like to express my heartfelt thanks to the Hong Kong Trade Development Council as well as all exhibitors and participants for making this Expo a global showcase of green leadership. Let us continue to work together to drive the world through the low carbon green transition to a better world for our children.
 
 I wish the Expo every success, and to all of you, good health, good business, and a happy stay in Hong Kong. Thank you."
-TACO of DH introduces smart tools for filling in fixed penalty notices to enhance efficiency,2025-10-28 14:00,2025-10-28 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800250.htm,"âThe Tobacco and Alcohol Control Office (TACO) of the Department of Health announced today (October 28) that frontline TACO officers will start using smart tools for issuing fixed penalty notices (FPNs) from October 30. This initiative will streamline procedures, improve data accuracy and enhance enforcement efficiency.
-
-Frontline TACO officers are empowered to enforce the Smoking (Public Health) Ordinance (Cap. 371), which includes taking prosecution actions against individuals who smoke in statutory no-smoking areas or on public transport carriers.
-
-Currently, TACO officers need to manually fill in offenders' personal details on printed FPNs during enforcement. Staff in the back office then check the information and input it into the backend system.
-
-Starting October 30, when issuing FPNs to offenders, TACO officers will be able to scan offenders' Hong Kong identity (HKID) cards using an electronic system, which will instantly import the offender's personal details, such as name and HKID number, into the FPN. The system will also automatically record the time, location and details of the enforcement officers. Officers will print the FPNs on the spot using portable printers and issue them to the offenders. The data will be automatically synchronised with the backend system, saving processing time and manpower needs in the back office while improving overall efficiency.
-
-Neither TACO officers nor the relevant mobile application will store images of the offenders' HKID cards. The personal data collected during enforcement will remain the same as that currently recorded manually.
-
-The Director of Health, empowered under section 17A of the Fixed Penalty (Smoking Offences) Ordinance (Cap. 600), has specified the formats for both handwritten and mobile-printed FPNs (see Annex). Although the two versions of FPNs differ slightly in format, their content is identical and both carry the same legal effect. Offenders may still be issued handwritten FPNs by TACO or other law enforcement departments."
 衞生署控煙酒辦公室引入智能工具填寫定額罰款通知書　提升效率,2025-10-28 14:00,2025-10-28 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800249.htm,"​衞生署控煙酒辦公室（控煙酒辦）今日（十月二十八日）宣布，控煙酒辦前線執法人員由十月三十日起將引入智能工具填寫定額罰款通知書，簡化流程，提升資料準確性和執法效率。
 
 控煙酒辦前線執法人員獲授權執行《吸煙（公眾衞生）條例》（第371章），包括對在法定禁止吸煙區或公共交通工具內吸煙等違例情況作出檢控行動。
@@ -247,7 +1043,18 @@ The Director of Health, empowered under section 17A of the Fixed Penalty (Smokin
 執法人員和有關電子系統不會儲存違例人士的身份證圖像，執法過程中所收集的個人資料與目前人手填寫時的資料相同。
 
 衞生署署長已根據《定額罰款（吸煙罪行）條例》（第600章）第17A條的授權，分別指明紙本及流動列印版本的定額罰款通知書格式（見附件）。兩個版本的通知書格式略異但內容一致，具同等法律效力。違例人士仍有可能從控煙酒辦或其他執法部門收到以人手填寫的紙本通知書。"
-Remarks by CE at media session before ExCo,2025-10-28 13:50,2025-10-28 14:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800387.htm,"  Following are the remarks by the Chief Executive, Mr John Lee, at a media session before the Executive Council meeting today (October 28):
+TACO of DH introduces smart tools for filling in fixed penalty notices to enhance efficiency,2025-10-28 14:00,2025-10-28 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800250.htm,"âThe Tobacco and Alcohol Control Office (TACO) of the Department of Health announced today (October 28) that frontline TACO officers will start using smart tools for issuing fixed penalty notices (FPNs) from October 30. This initiative will streamline procedures, improve data accuracy and enhance enforcement efficiency.
+
+Frontline TACO officers are empowered to enforce the Smoking (Public Health) Ordinance (Cap. 371), which includes taking prosecution actions against individuals who smoke in statutory no-smoking areas or on public transport carriers.
+
+Currently, TACO officers need to manually fill in offenders' personal details on printed FPNs during enforcement. Staff in the back office then check the information and input it into the backend system.
+
+Starting October 30, when issuing FPNs to offenders, TACO officers will be able to scan offenders' Hong Kong identity (HKID) cards using an electronic system, which will instantly import the offender's personal details, such as name and HKID number, into the FPN. The system will also automatically record the time, location and details of the enforcement officers. Officers will print the FPNs on the spot using portable printers and issue them to the offenders. The data will be automatically synchronised with the backend system, saving processing time and manpower needs in the back office while improving overall efficiency.
+
+Neither TACO officers nor the relevant mobile application will store images of the offenders' HKID cards. The personal data collected during enforcement will remain the same as that currently recorded manually.
+
+The Director of Health, empowered under section 17A of the Fixed Penalty (Smoking Offences) Ordinance (Cap. 600), has specified the formats for both handwritten and mobile-printed FPNs (see Annex). Although the two versions of FPNs differ slightly in format, their content is identical and both carry the same legal effect. Offenders may still be issued handwritten FPNs by TACO or other law enforcement departments."
+Remarks by CE at media session before ExCo (with video),2025-10-28 13:50,2025-10-28 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800387.htm,"  Following are the remarks by the Chief Executive, Mr John Lee, at a media session before the Executive Council meeting today (October 28):
 
 Reporter: Good morning, Chief Executive. First, how do you see the LegCo (Legislative Council) breaking from tradition to call off the farewell motion and banquet and its implication on the future executive-legislative relationship? You mentioned the LegCo election (Legislative Council General Election). Do you expect a higher turnout rate than in 2021, following the Government's efforts to encourage residents to vote? And there are reports that the Government sent officials to Macao to study its experience with mobilisation for the LegCo election. What are the key takeaways for the visit? And second for the cargo plane crash last week. How would the Government do to ensure that the authorities can hold all relevant parties accountable and ensure the crew members stay in Hong Kong throughout the entire investigation process? Thank you.
 
@@ -337,45 +1144,96 @@ APEC會議完畢，我將於十一月二日（星期日）返港，並會隔一�
 政府亦繼續調查事件，化驗後確認全部機組人員對酒精和驗毒化驗的檢測均為陰性。警方會進一步研究民航意外調查機構的調查，以判斷警方的調查方向。我們的目標是盡快完成調查工作，查找原因，除了防範事故再發生，如有任何人違法、違規，我們會依法追究。
 
 （請同時參閱答問內容英文部分）"
-運輸及物流局局長出席香港貨品編碼協會高峰會2025致辭,2025-10-28 12:52,2025-10-28 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800334.htm,"以下是運輸及物流局局長陳美寶今日（十月二十八日）出席香港貨品編碼協會高峰會2025的致辭全文：
+Remarks by CE at media session before ExCo,2025-10-28 13:50,2025-10-28 14:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800387.htm,"  Following are the remarks by the Chief Executive, Mr John Lee, at a media session before the Executive Council meeting today (October 28):
 
-Roy（香港貨品編碼協會董事局主席伍俊達）、周部長（中央人民政府駐香港特別行政區聯絡辦公室經濟部副部長兼貿易處負責人周強）、Frankie（立法會議員易志明）、Peter（立法會議員邵家輝）、Anna（香港貨品編碼協會總裁林潔貽）、各位嘉賓、各位朋友：
+Reporter: Good morning, Chief Executive. First, how do you see the LegCo (Legislative Council) breaking from tradition to call off the farewell motion and banquet and its implication on the future executive-legislative relationship? You mentioned the LegCo election (Legislative Council General Election). Do you expect a higher turnout rate than in 2021, following the Government's efforts to encourage residents to vote? And there are reports that the Government sent officials to Macao to study its experience with mobilisation for the LegCo election. What are the key takeaways for the visit? And second for the cargo plane crash last week. How would the Government do to ensure that the authorities can hold all relevant parties accountable and ensure the crew members stay in Hong Kong throughout the entire investigation process? Thank you.
 
-  Good morning. While the weather is a bit cold, once I stepped into this room, I could feel the warmth and vibrancy from the participants today. I look forward to a very energetic and dynamic gathering and discussion later this morning. It really gives me great pleasure to join you today for this year's GS1 Hong Kong Summit. May I also extend my warm welcome to our visitors from around the globe: welcome to Hong Kong.
+Chief Executive: Legislative Council Members discussed among themselves to make arrangements to suit their best interest and also to accommodate their busy work. I respect that decision. I also fully appreciate why they made a decision about what they would do, and did it. The upcoming Legislative Council General Election is a very important election. It affects everybody because the Government's policies implementation will mostly have to go through LegCo through enacting laws or through LegCo funding. So it is important to ensure that we have the most appropriate LegCo Members serving the interests of Hong Kong. It affects everybody, and it is a civic responsibility for voters to vote. It is also a civic responsibility for everybody to promote the election so that such a significant event will take its course smoothly and attract the most attention and support from everybody.
 
-  I think you will all agree that the past year was a tumultuous one when it comes to trade and logistics. Trade and logistics are two very important subjects dear to my bureau as the name is Transport and Logistics Bureau. Anna always tells me that the GS1 Summit is not about logistics, it is about an even higher and more strategic topic, it is about global standard-setting, and the Summit has a very important DNA and element that cut across different trades. From the so-called reciprocal tariffs to the tug and pull in Sino-American relations, global trade is now sailing in increasingly choppy waters. US (United States) tariff rates are impossible to keep track of, especially for this part of the world, and what seems like a truce in the trade war between the US and our country can evaporate through just a news thread on social media. You can see how dynamic and how unpredictable it is.
+  The nomination period for the 2025 Legislative Council General Election began last Friday and so far, up to yesterday, already 50 candidates have reported their intention to run for the election. It will be a fierce competition, and candidates will have to compete by their election platforms, capabilities and performances, but it will be a healthy competition. The Chairman of the Electoral Affairs Commission has already made an appeal for everybody to take part in the election and cast their vote, and has also appealed to organisations and businesses to encourage their employees to vote and also to facilitate their employees when they have to vote during their day of work. The Government will do the same. The Government will, first of all, respond to the appeal by the Chairman, and I'll be writing to all civil servants to encourage them to act as an example, to exercise their civic responsibility to vote. It affects their daily work as well, because we work very closely with the Legislative Council on a daily basis. It is an important election and the whole Government will do our best to promote it, and appeal to everybody in society to do the same to promote it. It is an important duty for the Government. This is also a matter of great significance for everybody to participate in, to encourage others to take part. So it is a collective effort of Hong Kong, and the aim is to do it well in all aspects.
 
-  Adding to this complexity is the new regulatory environment we find ourselves in, as Chairman Roy has just mentioned. The evolvement of environment, social and governance, or ESG in short, is exciting, as businesses take steps to protect our Mother Earth and assume more social responsibilities in their business practices to make our world greener, more sustainable and equitable. From this year onwards, the European Union has taken the lead in making reporting scope 3 emissions mandatory for large companies in the Union, which have great implications for their business partners in Hong Kong as well. However, we need to be honest that putting ESG into practice is not without challenges, not least in terms of cost. The current global economic climate makes it even more testing, especially for SMEs (small and medium-sized enterprises).
-  
-  On a more optimistic score, technologies are changing the world beyond our wild imagination and are certainly making trade and logistics more efficient than ever before. AI algorithms now power online retail and trading platforms, as well as logistics data systems that help to weave the previously fragmented world of trade together. Cryptocurrency, once an outcast of traditional business, is gradually making its presence felt in the form of regulated stablecoin. Automation and robotics gradually take shapes, they are all staples in many warehouses, which often operate without lights. Do you know why? Because they operate without human beings and are not staffed by them but robotics. All these developments translate into new opportunities for our logistics trade that are up for grabs if you invest and up your game.
+  So the goal we set for ourselves is: do our best in all elements of the election, and we'll do our best to achieve that goal. We try to make this a successful election. That is why we look to the good practices of all places beyond us. In particular, Macao has recently done a very successful election, and we have been in good exchange with our colleagues in the Macao Special Administrative Region Government and what we are doing, in fact, reinforces the good experiences that we learnt from our Macao counterparts and also different parts of the world. In other words, we have to raise people's awareness, interest and understanding of the significance of the election, and then we'll do a full-scale mobilisation of not just the Government, but the whole of Hong Kong. We'll appeal to everybody to exercise our civic responsibility, appeal to everybody to vote, and appeal to organisations and businesses to encourage their staff to vote. It is a whole-city campaign. The candidates have to work well, and they will have to do their best, and they will have to display to the community, to their voters, that they are the appropriate candidates who should be elected to become a LegCo Member. So the candidates will have to work hard, the Government will work hard, and all of society should join forces to make sure this is a good success. We'll make that aim our efforts in the run-up to December 7.
 
-  Of course, from the Hong Kong Special Administrative Region (HKSAR) Government's point of view, apart from AI, automation, robotics, my bureau is also championing a new venture area of low-altitude economy. I have recently had some discussions with participants and stakeholders in the industry. While we have also been mindful of the concerns and sentiments of the trade, especially SMEs, on this new innovative area, I am also encouraged by the optimism, dedication and the forward-looking visionary strategic mindset demonstrated by a number of industry leaders. We should actually push forward innovative ideas like low-altitude economy, which can help our logistics trade to crossover with other areas, and that could also open up new market potentials for our industry and sectors.
+  In respect of the incident in which a cargo plane ran into the sea, causing two deaths, I am deeply saddened by the passing away of the two security officers in the incident. I extend my deepest condolences, and express my profound sympathy to the families. I'm highly concerned about the incident and have instructed the Transport and Logistics Bureau (TLB) to co-ordinate and take expedited action. First, we will conduct a thorough and immediate investigation to find out the cause of the incident. If there are violations of the laws or regulations, we shall hold the responsible persons accountable. Second, provide full assistance to the families to help them go through the difficult time. And third, ensure all operations comply with international civil aviation safety standards, including airport operations, infrastructure and the safety of staff and passengers.
 
-  Against this backdrop, the discussion at GS1 Hong Kong Summit today cannot be timelier. Indeed, to be able to do what the theme of the Summit today suggests: sustainability, transformation, AI and resilience, which are nicely acronymised as ""STAR"", will make you a star in this brave, new world. And we in the HKSAR Government have been one step ahead in facilitating such STAR development and transformation through various measures that we have committed to delivering in the Action Plan on Modern Logistics Development promulgated two years ago.
+  The TLB has been handling the incident fast, and they have immediately met with the Turkish authorities to convey our concerns about the incident and the wishes of the affected families, and co-ordinated with the cargo airline company, and various organisations and departments for quick response and follow-up management. The salvage work was completed last night, and the North Runway has reopened, and now the airport is running as usual. The Government is very concerned about the incident, and we share the family's hope to identify the cause of the accident as soon as possible. We have asked the Air Accident Investigation Authority to conduct an in-depth investigation expeditiously. The Authority is now conducting a comprehensive investigation with the scope covering areas such as crew qualifications, flight operations, aircraft systems, maintenance records and the weather. It will conduct an in-depth analysis of the two retrieved ""black boxes"" to find out the sequence of the event. Overseas experts will also participate to ensure a professional, objective and fact-based investigation. A preliminary investigation report is expected to be issued within a month.
 
-Sustainability
+  Aircraft accident investigations are complex investigations involving aircraft designers, manufacturers, the relevant airlines and personnel, encompassing expertise, companies and individuals from different countries or regions. Based on past experience, the full investigation will take time, but I have already asked the Air Accident Investigation Authority to ascertain the cause of the incident as quickly as possible. The Government will provide sufficient resources, and all departments will offer their full support. The Police will continue their investigation. Laboratory tests confirmed that all crew members tested negative for alcohol and drugs. The Police will further study the findings of the Air Accident Investigation Authority’s inquiry to determine the direction of the police investigation.
 
-  In terms of S - Sustainability, we published the Roadmap for ESG Development for Logistics Industry in June this year, providing an easy-to-follow guideline for logistics SMEs to take their steps forward to build up their capabilities to collect and report ESG data, thereby meeting the prevailing international ESG requirements and guidelines. The Roadmap is backed up by financial support from the Government for the logistics trade in the form of funding schemes to encourage practitioners for attending relevant trainings or acquiring ESG solutions. I do encourage some of the industry leaders today to share your ESG solutions amongst the trade so as to promote the awareness within the trade. We also launched a one-stop platform, which is an online portal called ESG resource centre, where logistics companies can obtain up-to-date information on the relevant regulations, governmental support and in particular, international news and practices related to ESG. I do hope that with our soon-to-be-released easy-to-use ESG data collection toolkit, we can see more SMEs joining us on this pathway towards an ESG development strategy.
+  Regarding the aircraft and crew involved, the crew members involved have been staying in Hong Kong since the incident. The Turkish authorities have pledged their commitments to co-ordinate with the cargo airline company and relevant personnel to co-operate with the related work and the investigation. Concurrently, the Turkish authorities have assisted in arranging for representatives of the involved airline company to meet with the affected families last Friday. The company expressed condolences to the families and indicated an ex gratia relief payment will be provided. We'll do our best to assist in the investigation, and our aim is to finish it as expeditiously as possible. Thank you.
 
-Transformation and AI
+(Please also refer to the Chinese portion of the remarks.)"
+行政長官於行政會議前會見傳媒開場發言及答問內容（附短片）,2025-10-28 13:50,2025-10-28 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800382.htm,"以下是行政長官李家超今日（十月二十八日）上午出席行政會議前會見傳媒的開場發言及答問內容：
 
-  On transformation and AI, I think we cannot avoid this subject in every of our seminars and discussion forums nowadays. The Government is also spearheading the adoption of AI in logistics through the Port Community System (PCS) in which Chairman Roy just mentioned, thank you very much for highlighting this. This is actually one of our signature projects to be launched very soon. With this data platform that is built on cutting-edge technologies as AI, blockchain and cloud computing, the PCS will offer a round-the-clock, real-time cargo tracking service to the port and logistics industry. Not to mention the basics in data collection and technology, two things impressed me most. In our journey towards the formulation of this Port Community System, I can see how our industry sectors are united in pushing the Government and guiding us through in order to make this happen. I already see different entities and cities in our neighbouring provinces like the GBA (Greater Bay Area) waving their hands to us, noting this PCS is going to launch. They are all very active, prepared and eager to join us in order to share data and to see how the customs clearance on both sides can be further streamlined to help our SMEs and other enterprises to make our logistics and trade operation even more efficient. Another point to be mentioned is our collaboration and crossover with the Hong Kong Monetary Authority under the Project Cargoˣ. This is one of the encouraging areas in which we can also earn the support of our established banks in Hong Kong so as to help our SMEs on trade finance as well.
+行政長官：大家早晨。今日跟大家講兩件事，一是立法會選舉，另一是未來十天我將會連續進行兩次重要外訪。
 
-Resilience
+首先是立法會選舉。二○二五年立法會換屆選舉的提名期在上星期五展開，截至昨日，選舉主任共接獲50份提名表格。我再次鼓勵愛國愛港、有能力、有擔當、熱心服務市民的賢能人才積極參選。選舉的競爭會是熱烈的，候選人將以政綱論高低、以能力決勝負、以表現爭認可，將會是一場高質量、高水平的良性競爭。
 
-  Resilience is the number one keyword for us now in order to face different challenges. Building resilience has always been a key development direction that we advocate for the logistics industry. With the uncertain geopolitical landscape and the rapid transformation of trade pattern, market diversification and stepping up collaboration with the Chinese Mainland have become ever more popular and important.
+立法會是特區政治體制的重要組成部分，許多政府政策都要經過立法會立法或撥款才可正式落實，因此立法會選舉至關重要。特區政府會全力推動和落實好選舉工作，尤其三方面。
 
-  我們與周強部長雙方合作，提供一個平台讓香港和內地的企業可以合作，簽訂一些協議，範疇包括推動綠色港口及綠色船用燃料加注。我有信心這個平台可以讓我們在物流和其他貿易範疇扮演示範作用，亦可幫助企業加深兩方面的合作，促進共同發展。
-  ​
-  In this connection, my bureau has also been leading Hong Kong's logistics enterprises to cope with the challenges brought by the new trade landscape by exploring emerging markets and new market opportunities. In particular, we have been conducting promotional visits to ASEAN (Association of Southeast Asian Nations), the Middle East and Belt and Road countries. We also have been extending our cargo hinterland in the Mainland through establishing a ""rail-sea-land-river"",「鐵海陸江」立體多式聯運系統. With Anna, Frankie and a number of friends here today, we have made excursions to different parts of Chinese Mainland hinterland, including Chengdu, Chongqing and Guangxi. All these are very strategic and important growing cities in which we can establish our footing there and provide our robust and extensive air and sea cargo destinations network to serve the hinterland. Looking ahead, we will also be introducing a very important piece of legislative amendment early next year, that is to provide exemption for import and export license requirements for certain transshipment cargos to make Hong Kong even more attractive as a transshipment hub.
+第一，確保選舉公平、公正、誠實、安全有序舉行。立法會選舉由特區全責舉行。特區政府會全力辦好今次的立法會選舉，包括改善和優化各項選務安排和選舉流程，令選舉全流程暢順進行，會確保選舉公平、公正、誠實、安全有序地舉行，讓候選人悉心全力以赴進行競選工程，包括介紹政綱、組織推介、宣傳和參與辯論論壇等，讓不同組別的候選人熱烈投入，良性競爭，讓市民更認識他們，營造全城投入競選和投票的熱烈氛圍。
 
-Concluding remarks
+第二，堅決防範和打擊任何干擾、破壞選舉的行為。跡象顯示，反中亂港分子和外部勢力，試圖干擾破壞立法會選舉，他們造謠生事，目的是否定新選舉制度。中央政府對香港特區擁有全面管治權。立法會選舉關乎特區憲制秩序，國家安全，和特區良政善治，中央關心和重視是天經地義，尤其新一屆立法會正處於香港發展的關鍵階段，意義重大。但反對勢力和軟對抗試圖把這些理所當然的重視和關心，抹黑為干預。另外，不同議員展現愛國愛港情懷和高風亮節，交棒給新議員，薪火相傳，這些正常換屆的人事更替，卻被刻意歪曲，並炮製各種名目的所謂限制、所謂祝福名單，抹黑新選舉制度，特區政府必須義正嚴詞，直斥其非，我們會對任何破壞選舉的違法行為，嚴厲依法打擊。
 
-  Ladies and gentlemen, Hong Kong's road to prosperity was marked with ups and downs, but our resilience put us among the very best in the world in terms of logistics. I am totally confident that with this in our arsenal, we will emerge from the current storm stronger than ever before. What is equally crucial is that the Government and the industry will stand in solidarity to counter adversity. On this note, I thank GS1 Hong Kong for organising this summit, through which I am sure you will all have valuable takeaways on how to integrate STAR into your business and seize new opportunities. Last but not least, let us have ""when the going gets tough, the tough get going"" as our motto and build Hong Kong into an international logistics hub stronger than ever before.
+第三，積極鼓勵社會各界支持和投入選舉。在十月二十三日立法會選舉啓動禮上，選管會主席陸啟康法官呼籲選民履行公民責任踴躍投票，呼籲僱主鼓勵員工投票，並提供一切可行便利方便員工投票。特區政府作為香港的最大僱主，會帶頭響應選管會主席的號召，我會在今日發信給所有公務員同事，呼籲及鼓勵他們以身作則，履行公民責任，踴躍投票，政府亦會為當日需要值班的公務員提供一切可行便利。我見到不少機構、企業、組織和團體都表示會推出措施，鼓勵和提供便利給員工在投票日積極投票。特區政府會推動和呼籲更多機構和企業加入，履行社會責任。
 
-  Lastly, I would like to use a few minutes from the Summit, if the Chairman permits, to make a strong appeal to you, which is common and important to every citizen of Hong Kong here. A strong and collaborative relationship between the Administration and Legislature is essential for Hong Kong's continued prosperity and stability. Ladies and gentlemen, I urge all of you, Hong Kong citizens here, to fulfil your civic duty on the election day of December 7 by casting your sacred vote for the future development of Hong Kong.
+投票是每一位選民都應履行的公民責任。我再次呼籲，大家必須珍惜手中選票，在十二月七日踴躍投票，選賢與能，為香港共同家園的更好未來投下神聖的一票。
 
-​  各位，「行政立法同心治港、共築改善自身的局面」是全港市民的共同願景，亦是特區未來持續發展和經濟繁榮的一個重要基石。接下來，我很希望各位香港市民能積極投入選舉，共創未來，在十二月七日投下你們神聖的一票，為我們選出賢能，繼續在行政、立法兩方面有互動良好發展，為香港經濟、物流持續推進有關發展。多謝大家。"
+另外，我會在未來十天，接連外訪，出席兩個重要會議。
+
+我會在明日啓程前往韓國慶州市，出席二○二五年亞太區經濟合作組織（亞太經合組織APEC）領導人非正式會議。參加一系列APEC會議和活動，包括亞太經合組織領導人會議，以及主辦方為與會領袖所設的歡迎晚宴。在會議期間，我亦會與其他參加會議的經濟體領導人進行雙邊會談，探討擴大合作的新機遇。
+
+今年APEC的主題是「我們構築的可持續明天」（Building a Sustainable Tomorrow），會議將重點討論貿易與投資、人工智能以及人口結構變化等議題，與特區政府的施政方向一致。
+
+APEC的成員經濟體佔本港外貿總值約八成，是香港重要的貿易夥伴。APEC是香港進一步加強與區內經貿合作的重要平台。香港近年在深化國際經貿網絡、招商引資、推動人工智能和科技革新等方面，都以改革思維推出不少新措施，我期待在APEC會議上分享香港在這方面的政策和經驗。
+
+APEC會議完畢，我將於十一月二日（星期日）返港，並會隔一天後，即十一月四日（星期二）率領香港代表團前往上海，出席於十一月五日開幕的第八屆中國國際進口博覽會（進博會）。
+
+進博會是全球首個以進口為主題的國家級展會，是國際矚目的盛事。今屆進博會繼續秉持「新時代，共享未來」的主題，將有來自110多個國家和地區的3 200多家企業參與企業商業展。
+
+今年有超過350家香港企業參展，數目創歷來新高，佔企業參展商的一成以上，行業包括食品及農產品、消費品、醫療器械及醫藥保健、服務貿易，以及創新孵化等。這反映香港企業視進博會為開拓內銷以及展示香港品牌的重要平台。
+
+香港貿易發展局今年會繼續在展會內設立兩個展區，由50多家香港企業推廣我們的優質產品和服務，當中24家，即超過四成，屬首度參展，分別從事食品、醫藥、科技、專業服務、教育等領域。我們亦會繼續在國家館設立香港展示區，介紹香港的成就、優勢和最新機遇。
+
+我在上海期間亦會主持由特區政府舉辦的「香港：內地企業出海首選平台」推介大會，這個是特區政府新成立的「內地企業出海專班」首場內地大型宣傳活動，以「香港通道滬港攜手邁向全球」為主題，滙聚跨界別講者介紹香港作為國際平台「出海」的優勢，由重點企業分享利用香港「出海」的成功經驗，香港及內地企業將探討如何在創新科技、金融及專業服務等領域實現優勢互補。我們會特別舉行以創新科技和「出海」為專題的對接會，向內地企業深度推介利用香港「出海」的發展機遇。
+
+謝謝大家。
+
+記者：特首，你好。關於立法會換屆選舉。今次有不少新臉孔參選，甚至包括一些「政治素人」，你認為這會否影響市民的投票意欲？政府有甚麼措施可以提高投票率？政府對投票率有否定下目標，如坊間傳聞的30%？另外，特首早前表明公務員作為政府團隊一員，應該以身作則，投票支持政府施政，政府會否要求公務員必須投票或作出申報，不投票的公務員會否被懲罰？
+
+行政長官：立法會選舉是一個重要活動，對香港的意義是重大的，因為立法會是憲制秩序其中一個重要組成部分，有很多特區政府的政策要經過立法會立法或者撥款才可落實。因此政府會全面做好立法會選舉工作。
+
+今次我相信參與競選的人士會很努力互相比拼政綱，介紹自己、推廣自己，以及參與辯論。這個氣氛會帶動大家對選舉的重視、留意和投入。我亦希望所有人士均很積極投入選舉，因為它對香港每個人都有重要意義。
+
+這是靠每一個人努力推動今次選舉工程，因為它涉及每個人的利益，涉及選民用自己的一票投下他認為最合適的議員，從而參與共同管治香港。各方面都要努力，參選人要努力，政府會努力，而所有人士都應該履行社會責任和公民責任投票和積極投入選舉。
+
+每次選舉都一定會有部分人士或議題令大家特別留意。所以每一個參選人對於地區也好、整個社會發生的事情也好，表達自己在這方面的看法、會做甚麼、會代表甚麼角度讓大家認為他是一個好的、合適的立法會議員，這會帶動整個投票氣氛，所以各方面都要努力。
+
+從政府的角度，今次立法會選舉的意義這麼重大，政府會全面做到最好，所定下的指標就是多方面都要做到最好，沒有任何其他硬指標，但是做到最好就是我們的指標。
+
+有關公務員投票，我認為公務員是特區政府落實政策的重要成員，所以選出適合的立法會議員對於政府施政很重要，亦影響公務員的日常工作，因為立法會議員的意見、立法會議員如何行使其權力，以及日常如何與政府互相配合和互相制衡，這影響每個公務員的日常工作。因此公務員作為政府的重要成員，應該履行公民責任，以身作則投票。
+
+我今日會發信予所有公務員，指出公務員有特別角色，作為政府的重要成員，亦是落實政府的政策，亦與立法會很多運作息息相關，應該以身作則，履行公民責任投票，亦應該推動整個香港熱烈搞活氣氛，以及推動香港市民重視和投入選舉工程。
+
+記者：特首，你好。想請教兩方面問題，第一方面是關於基孔肯雅熱，現時本地個案增多，政府內部評估爆發風險高嗎？現時加強滅蚊是否已經足以處理這個有可能爆發的情況？可能在學校出現爆發時，因為見到有個案涉及一名學校職員，在學校出現一些疑似爆發，有多少宗個案就會有停課打算，有否這個指標？有沒有評估其他地區，是否都會有本地個案出現，政府如何應對？第二個問題想跟進貨機墮海事件，現時調查進度如何？「黑盒」已經找到，調查和取得「黑盒」內的資料，是否有結果和進度如何？到底是涉及機件故障，還是人為疏忽？有意見擔心機組人員萬一離開香港，追查會有難度，現行制度會如何規管？萬一真是涉及他們的問題，會如何追究責任？
+
+行政長官：星期日錄得本地第一宗基孔肯雅熱的本地個案，而昨日亦新增三宗，包括兩宗輸入個案和一宗感染源頭有待確認的個案。基孔肯雅熱不是人傳人的病症，一般來說是會痊癒的，是經過蚊子叮咬感染者後，再叮咬其他人，令第二位人士可能受感染，所以不會人傳人，一般來說可以自行痊癒，死亡個案亦十分罕見。政府在這方面能管控及阻截蚊子的散播和傳染是重要的，所以首要任務是滅蚊，還要讓市民知道如何防範，減低受蚊叮後感染這個病症的風險。第一，一定要加強滅蚊和防蚊。環境及生態局昨日已經召開防治蟲鼠督導委員會，指導各部門在其範疇加強滅蚊、防蚊。環境及生態局局長昨日亦到黃大仙鳳德邨和附近一帶考察和指導滅蚊工作，而食物環境衞生署在患者居住附近250米範圍，特別是樹木茂盛的地方，進行密集式的霧化處理以殺蚊、滅蚊和清理積水。我亦特別留意學校、長者和幼兒設施，提醒和協助他們滅蚊，亦會巡查高風險地點，例如地盤，大家在這方面都要做好滅蚊、防蚊的工作。
+
+另外，就是即時了解和跟進區內的居民健康情況，衞生防護中心和關愛隊已經聯絡當區的8 000戶居民進行問卷調查，中心已經在當區商場設立醫護站，為居民作評估，並舉辦教育講座。參加網上講座的人士非常熱烈，在網上觀看的人達4 000多人。事實上，政府一向有進行滅蚊工作。過去在二○一八年，曾經有登革熱傳染個案的上升數字，但因為政府和各界都努力滅蚊、防蚊以及清除積水和垃圾等，盡量減少蚊子的滋生機會，所以在二○一八年當登革熱個案上升時，成功打斷它的傳播鏈，從而控制當時情況。最重要是大家都要滅蚊、防蚊，還有保護自己，盡量減低感染風險，這方面政府會努力做，亦希望每個人都參與，令蚊患減到最少，防範這個疾病的傳染風險。基孔肯雅熱不是本土病，我們會全力滅蚊，確保不會在本地扎根。
+
+另外，有關貨機墮海事件，我對在事件中，兩名保安人員不幸身故感到痛心，表示深切哀悼，亦向他們的家人致以深切慰問。我高度關注事件，已指示運輸及物流局全面統籌和迅速處理，特別是三方面的跟進：第一是全面、全速徹查事件，找出事故原因，如有違法、違規，必須追究責任；第二，全力協助家屬，助他們渡過難關；第三，確保一切運作符合國際民航安全標準，包括機場運作、基建、工作人員和乘客安全。運輸及物流局在意外發生後，即時迅速處理事件，包括跟土耳其當局會面，表達我們對事件的關注和受影響家屬的意願，協調涉事貨機的公司、不同機構與部門迅速應對和善後。打撈工作昨晚已經完成，而北跑道在打撈工作完成後已經重開，所以機場運作已經回復一切正常。
+
+政府非常關注這宗事件，並與家屬一樣期望能早日找出事故原因，我們要求民航意外調查機構全速進行深入調查。
+
+民航意外調查機構正進行全面調查，範圍包括機組人員的資格，飛行操作、飛機系統、維修紀錄和天氣等，會深入分析已經取回的兩個「黑盒」，了解意外經過。不同的海外專家亦會參與調查，確保調查專業、客觀、基於事實，預計一個月內可以發表初步調查報告。
+
+但飛機事故的全面調查是複雜的，涉及飛機設計者、製造者、相關航空公司和人員，涵蓋不同國家和地方的專業、公司和人員。根據以往經驗，詳細的調查是需要時間，但我們已經要求民航意外調查機構盡速找出原因。政府會提供一切的資源支持調查機構盡快完成工作。
+
+至於涉事飛機和機組人員，意外之後，涉事機組人員一直留在香港。土耳其當局承諾全力協調涉事航空公司和相關人員配合調查工作。同時，土耳其當局協助安排涉事航空公司代表上星期與家屬會面，公司向家屬表達慰問，並表示會提供恩恤金。
+
+政府亦繼續調查事件，化驗後確認全部機組人員對酒精和驗毒化驗的檢測均為陰性。警方會進一步研究民航意外調查機構的調查，以判斷警方的調查方向。我們的目標是盡快完成調查工作，查找原因，除了防範事故再發生，如有任何人違法、違規，我們會依法追究。
+
+（請同時參閱答問內容英文部分）"
 Opening address by STL at GS1 Hong Kong Summit 2025,2025-10-28 12:52,2025-10-28 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800331.htm,"Following is the opening address by the Secretary for Transport and Logistics, Ms Mable Chan, at the GS1 Hong Kong Summit 2025 today (October 28):
 
 Roy (Chairman of GS1 Hong Kong, Mr Roy Ng), å¨é¨é· (Deputy Director-General of the Economic Affairs Department and Head of the Commercial Office of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region, Mr Zhou Qiang), Frankie (Legislative Council Member Mr Frankie Yick), Peter (Legislative Council Member Mr Shiu Ka-fai), Anna (Chief Executive of GS1 Hong Kong, Ms Anna Lin), distinguished speakers and guests, ladies and gentlemen,
@@ -415,13 +1273,45 @@ Ladies and gentlemen, Hong Kong's road to prosperity was marked with ups and dow
 Lastly, I would like to use a few minutes from the Summit, if the Chairman permits, to make a strong appeal to you, which is common and important to every citizen of Hong Kong here. A strong and collaborative relationship between the Administration and Legislature is essential for Hong Kong's continued prosperity and stability. Ladies and gentlemen, I urge all of you, Hong Kong citizens here, to fulfil your civic duty on the election day of December 7 by casting your sacred vote for the future development of Hong Kong.
 
   åä½ï¼ãè¡æ¿ç«æ³åå¿æ²»æ¸¯ãå±ç¯æ¹åèªèº«çå±é¢ãæ¯å¨æ¸¯å¸æ°çå±åé¡æ¯ï¼äº¦æ¯ç¹åæªä¾æçºç¼å±åç¶æ¿ç¹æ¦®çä¸åéè¦åºç³ãæ¥ä¸ä¾ï¼æå¾å¸æåä½é¦æ¸¯å¸æ°è½ç©æ¥µæå¥é¸èï¼å±åµæªä¾ï¼å¨åäºæä¸æ¥æä¸ä½åç¥èçä¸ç¥¨ï¼çºæåé¸åºè³¢è½ï¼ç¹¼çºå¨è¡æ¿ãç«æ³å©æ¹é¢æäºåè¯å¥½ç¼å±ï¼çºé¦æ¸¯ç¶æ¿ãç©æµæçºæ¨é²æéç¼å±ãå¤è¬å¤§å®¶ã"
-近水灣泳灘紅旗除下,2025-10-28 12:36,2025-10-28 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800343.htm,"電台及電視台當值宣布員注意：
+運輸及物流局局長出席香港貨品編碼協會高峰會2025致辭,2025-10-28 12:52,2025-10-28 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800334.htm,"以下是運輸及物流局局長陳美寶今日（十月二十八日）出席香港貨品編碼協會高峰會2025的致辭全文：
 
-請盡快播出以下特別報告：
+Roy（香港貨品編碼協會董事局主席伍俊達）、周部長（中央人民政府駐香港特別行政區聯絡辦公室經濟部副部長兼貿易處負責人周強）、Frankie（立法會議員易志明）、Peter（立法會議員邵家輝）、Anna（香港貨品編碼協會總裁林潔貽）、各位嘉賓、各位朋友：
 
-游泳人士請注意：康樂及文化事務署今日（十月二十八日）宣布，鑑於環境保護署（環保署）已將荃灣區近水灣泳灘的水質評定為三級，表示該處海水水質改善，適宜游泳，該泳灘的紅旗已經除下。
+  Good morning. While the weather is a bit cold, once I stepped into this room, I could feel the warmth and vibrancy from the participants today. I look forward to a very energetic and dynamic gathering and discussion later this morning. It really gives me great pleasure to join you today for this year's GS1 Hong Kong Summit. May I also extend my warm welcome to our visitors from around the globe: welcome to Hong Kong.
 
-該泳灘於較早前因環保署評定其水質為四級及不適宜游泳而懸掛紅旗。"
+  I think you will all agree that the past year was a tumultuous one when it comes to trade and logistics. Trade and logistics are two very important subjects dear to my bureau as the name is Transport and Logistics Bureau. Anna always tells me that the GS1 Summit is not about logistics, it is about an even higher and more strategic topic, it is about global standard-setting, and the Summit has a very important DNA and element that cut across different trades. From the so-called reciprocal tariffs to the tug and pull in Sino-American relations, global trade is now sailing in increasingly choppy waters. US (United States) tariff rates are impossible to keep track of, especially for this part of the world, and what seems like a truce in the trade war between the US and our country can evaporate through just a news thread on social media. You can see how dynamic and how unpredictable it is.
+
+  Adding to this complexity is the new regulatory environment we find ourselves in, as Chairman Roy has just mentioned. The evolvement of environment, social and governance, or ESG in short, is exciting, as businesses take steps to protect our Mother Earth and assume more social responsibilities in their business practices to make our world greener, more sustainable and equitable. From this year onwards, the European Union has taken the lead in making reporting scope 3 emissions mandatory for large companies in the Union, which have great implications for their business partners in Hong Kong as well. However, we need to be honest that putting ESG into practice is not without challenges, not least in terms of cost. The current global economic climate makes it even more testing, especially for SMEs (small and medium-sized enterprises).
+  
+  On a more optimistic score, technologies are changing the world beyond our wild imagination and are certainly making trade and logistics more efficient than ever before. AI algorithms now power online retail and trading platforms, as well as logistics data systems that help to weave the previously fragmented world of trade together. Cryptocurrency, once an outcast of traditional business, is gradually making its presence felt in the form of regulated stablecoin. Automation and robotics gradually take shapes, they are all staples in many warehouses, which often operate without lights. Do you know why? Because they operate without human beings and are not staffed by them but robotics. All these developments translate into new opportunities for our logistics trade that are up for grabs if you invest and up your game.
+
+  Of course, from the Hong Kong Special Administrative Region (HKSAR) Government's point of view, apart from AI, automation, robotics, my bureau is also championing a new venture area of low-altitude economy. I have recently had some discussions with participants and stakeholders in the industry. While we have also been mindful of the concerns and sentiments of the trade, especially SMEs, on this new innovative area, I am also encouraged by the optimism, dedication and the forward-looking visionary strategic mindset demonstrated by a number of industry leaders. We should actually push forward innovative ideas like low-altitude economy, which can help our logistics trade to crossover with other areas, and that could also open up new market potentials for our industry and sectors.
+
+  Against this backdrop, the discussion at GS1 Hong Kong Summit today cannot be timelier. Indeed, to be able to do what the theme of the Summit today suggests: sustainability, transformation, AI and resilience, which are nicely acronymised as ""STAR"", will make you a star in this brave, new world. And we in the HKSAR Government have been one step ahead in facilitating such STAR development and transformation through various measures that we have committed to delivering in the Action Plan on Modern Logistics Development promulgated two years ago.
+
+Sustainability
+
+  In terms of S - Sustainability, we published the Roadmap for ESG Development for Logistics Industry in June this year, providing an easy-to-follow guideline for logistics SMEs to take their steps forward to build up their capabilities to collect and report ESG data, thereby meeting the prevailing international ESG requirements and guidelines. The Roadmap is backed up by financial support from the Government for the logistics trade in the form of funding schemes to encourage practitioners for attending relevant trainings or acquiring ESG solutions. I do encourage some of the industry leaders today to share your ESG solutions amongst the trade so as to promote the awareness within the trade. We also launched a one-stop platform, which is an online portal called ESG resource centre, where logistics companies can obtain up-to-date information on the relevant regulations, governmental support and in particular, international news and practices related to ESG. I do hope that with our soon-to-be-released easy-to-use ESG data collection toolkit, we can see more SMEs joining us on this pathway towards an ESG development strategy.
+
+Transformation and AI
+
+  On transformation and AI, I think we cannot avoid this subject in every of our seminars and discussion forums nowadays. The Government is also spearheading the adoption of AI in logistics through the Port Community System (PCS) in which Chairman Roy just mentioned, thank you very much for highlighting this. This is actually one of our signature projects to be launched very soon. With this data platform that is built on cutting-edge technologies as AI, blockchain and cloud computing, the PCS will offer a round-the-clock, real-time cargo tracking service to the port and logistics industry. Not to mention the basics in data collection and technology, two things impressed me most. In our journey towards the formulation of this Port Community System, I can see how our industry sectors are united in pushing the Government and guiding us through in order to make this happen. I already see different entities and cities in our neighbouring provinces like the GBA (Greater Bay Area) waving their hands to us, noting this PCS is going to launch. They are all very active, prepared and eager to join us in order to share data and to see how the customs clearance on both sides can be further streamlined to help our SMEs and other enterprises to make our logistics and trade operation even more efficient. Another point to be mentioned is our collaboration and crossover with the Hong Kong Monetary Authority under the Project Cargoˣ. This is one of the encouraging areas in which we can also earn the support of our established banks in Hong Kong so as to help our SMEs on trade finance as well.
+
+Resilience
+
+  Resilience is the number one keyword for us now in order to face different challenges. Building resilience has always been a key development direction that we advocate for the logistics industry. With the uncertain geopolitical landscape and the rapid transformation of trade pattern, market diversification and stepping up collaboration with the Chinese Mainland have become ever more popular and important.
+
+  我們與周強部長雙方合作，提供一個平台讓香港和內地的企業可以合作，簽訂一些協議，範疇包括推動綠色港口及綠色船用燃料加注。我有信心這個平台可以讓我們在物流和其他貿易範疇扮演示範作用，亦可幫助企業加深兩方面的合作，促進共同發展。
+  ​
+  In this connection, my bureau has also been leading Hong Kong's logistics enterprises to cope with the challenges brought by the new trade landscape by exploring emerging markets and new market opportunities. In particular, we have been conducting promotional visits to ASEAN (Association of Southeast Asian Nations), the Middle East and Belt and Road countries. We also have been extending our cargo hinterland in the Mainland through establishing a ""rail-sea-land-river"",「鐵海陸江」立體多式聯運系統. With Anna, Frankie and a number of friends here today, we have made excursions to different parts of Chinese Mainland hinterland, including Chengdu, Chongqing and Guangxi. All these are very strategic and important growing cities in which we can establish our footing there and provide our robust and extensive air and sea cargo destinations network to serve the hinterland. Looking ahead, we will also be introducing a very important piece of legislative amendment early next year, that is to provide exemption for import and export license requirements for certain transshipment cargos to make Hong Kong even more attractive as a transshipment hub.
+
+Concluding remarks
+
+  Ladies and gentlemen, Hong Kong's road to prosperity was marked with ups and downs, but our resilience put us among the very best in the world in terms of logistics. I am totally confident that with this in our arsenal, we will emerge from the current storm stronger than ever before. What is equally crucial is that the Government and the industry will stand in solidarity to counter adversity. On this note, I thank GS1 Hong Kong for organising this summit, through which I am sure you will all have valuable takeaways on how to integrate STAR into your business and seize new opportunities. Last but not least, let us have ""when the going gets tough, the tough get going"" as our motto and build Hong Kong into an international logistics hub stronger than ever before.
+
+  Lastly, I would like to use a few minutes from the Summit, if the Chairman permits, to make a strong appeal to you, which is common and important to every citizen of Hong Kong here. A strong and collaborative relationship between the Administration and Legislature is essential for Hong Kong's continued prosperity and stability. Ladies and gentlemen, I urge all of you, Hong Kong citizens here, to fulfil your civic duty on the election day of December 7 by casting your sacred vote for the future development of Hong Kong.
+
+​  各位，「行政立法同心治港、共築改善自身的局面」是全港市民的共同願景，亦是特區未來持續發展和經濟繁榮的一個重要基石。接下來，我很希望各位香港市民能積極投入選舉，共創未來，在十二月七日投下你們神聖的一票，為我們選出賢能，繼續在行政、立法兩方面有互動良好發展，為香港經濟、物流持續推進有關發展。多謝大家。"
 Red flag lowered at Approach Beach,2025-10-28 12:36,2025-10-28 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800340.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -431,6 +1321,13 @@ Please broadcast the following as soon as possible:
   The Leisure and Cultural Services Department announced today (October 28) that the Environmental Protection Department has classified the water quality at Approach Beach in Tsuen Wan District as Grade 3, which means that the water quality has improved and the beach is suitable for swimming. The red flag has been lowered.
 
   The red flag was hoisted at the beach earlier due to the water quality being classified as Grade 4 and unsuitable for swimming."
+近水灣泳灘紅旗除下,2025-10-28 12:36,2025-10-28 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800343.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出以下特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（十月二十八日）宣布，鑑於環境保護署（環保署）已將荃灣區近水灣泳灘的水質評定為三級，表示該處海水水質改善，適宜游泳，該泳灘的紅旗已經除下。
+
+該泳灘於較早前因環保署評定其水質為四級及不適宜游泳而懸掛紅旗。"
 ​水務署簽署工程合約擴展牛潭尾濾水廠　全力配合北都發展（附圖）,2025-10-28 12:30,2025-10-28 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102700418.htm,"水務署今日（十月二十八日）分別與中國路橋工程有限責任公司——中國化學工程集團有限公司聯營，以及俊和建築工程有限公司——中國土木工程集團有限公司聯營簽署合約，以進行牛潭尾濾水廠擴展工程的第一期主項工程。兩份合約總值約七十九億七千八百萬港元，相關工程今日開展，目標在約五年半內完成。
 
 《行政長官2025年施政報告》強調會加快發展及落實北部都會區。隨着北部都會區各個發展項目包括新田科技城、洪水橋／厦村新發展區、元朗南新發展區及牛潭尾新發展區等相繼展開，預計牛潭尾濾水廠原有濾水量於二○三一年將不足以應付新增的用水需求。為滿足將來的用水需求，該兩項工程合約會擴展牛潭尾濾水廠，將該廠每日濾水量由23萬立方米增至44萬立方米，並且預留備用空間，以便日後可進一步提升該廠的濾水量。
@@ -451,13 +1348,6 @@ The WSD will implement smart water strategies for the water supply networks of t
 To fully dovetail with the development of the Northern Metropolis, especially the industrial and cooling water demands driven by innovation and technology, the WSD is implementing diversified water resources planning. This includes controlling the potable water demand growth by actively encouraging enterprises to adopt water-saving technologies and to use reclaimed water for non-potable purposes, such as industrial or cooling uses. These efforts aim to provide a stable and cost-effective water supply.
 
 The Director of Water Supplies, Mr Roger Wong, today signed the contracts respectively with representatives of the two joint ventures mentioned above."
-LD to hold Chill Bazaar 2025 - Entrepreneurship Experience Day,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102700480.htm,"âThe Youth Employment Start (Y.E.S.) of the Labour Department will hold the Chill Bazaar 2025 - Entrepreneurship Experience Day, at the Atrium of Mira Place 1, Tsim Sha Tsui, from noon to 8pm on November 1 and 2. Members of the public are welcome to visit.
-
-The event offers business members of Y.E.S. a chance to set up retail stalls for free in the bazaar and gain entrepreneurship experience. This year, Y.E.S. received over 80 applications for the Entrepreneurship Experience Day, and 25 teams were chosen to participate after a screening and selection process. The selected members are provided with comprehensive support services by Y.E.S. and a professional consultant, including training, a one-on-one consultation prior to the event, on-the-spot support services and post-event reviews.
-
-This year's bazaar will feature 25 stalls selling a diverse range of handcrafted and innovative products such as handicrafts, cultural and creative products, cultural crafts, handcrafted ceramics, and eco-friendly and aromatherapy products. Visitors can explore and shop for these unique products from various retail stalls, vote for the retail stalls with the respective awards of the Most Attractive Product, Most Distinctive Stall Decoration, and Best Customer Service at the bazaar, and receive a souvenir. Moreover, visitors will receive tokens after their purchases for participating in games and taking photos at the photo booths on-site.
-
-During the bazaar, Y.E.S. will also set up a counter to introduce its free one-stop comprehensive employment, training, and self-employment support services offered to members aged 15 to 29. Eligible young people who complete the on-site membership registration will receive exclusive welcome gifts. For more details, please visit the Y.E.S. website (www.e-start.gov.hk)."
 行政長官赴韓國出席亞太區經濟合作組織會議,2025-10-28 11:00,2025-10-28 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800251.htm,"行政長官李家超明日（十月二十九日）將啓程前往韓國，出席在慶州舉行的亞太區經濟合作組織（亞太經合組織）領導人非正式會議及相關活動。
 
 今年亞太經合組織以「我們構築的可持續明天」為主題，聚焦討論「連接、創新、繁榮」三個重點。
@@ -474,6 +1364,13 @@ During the bazaar, Y.E.S. will also set up a counter to introduce its free one-s
 今年市集設有二十五個攤檔售賣各式手作及創意產品，例如手作飾物、文創精品、工藝品、手工陶瓷、環保和香薰產品等。市民可於不同攤檔選購特色產品，亦可即場參加投票活動，選出「最具吸引力產品」、「最具特色攤檔佈置」和「最佳顧客服務」的零售攤檔，更可獲贈紀念品。此外，市民於市集購物後將獲贈代幣，用以參加現場設置的遊戲攤位和於照相角拍照留念。
 
 Y.E.S.亦於場內設櫃位，介紹中心為十五至二十九歲會員免費提供的一站式綜合就業、培訓課程及自僱支援服務。合資格青年如即場進行會員登記，可獲贈會場限定迎新禮物。有關詳情，可瀏覽Y.E.S.網站（www.e-start.gov.hk）。"
+LD to hold Chill Bazaar 2025 - Entrepreneurship Experience Day,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102700480.htm,"âThe Youth Employment Start (Y.E.S.) of the Labour Department will hold the Chill Bazaar 2025 - Entrepreneurship Experience Day, at the Atrium of Mira Place 1, Tsim Sha Tsui, from noon to 8pm on November 1 and 2. Members of the public are welcome to visit.
+
+The event offers business members of Y.E.S. a chance to set up retail stalls for free in the bazaar and gain entrepreneurship experience. This year, Y.E.S. received over 80 applications for the Entrepreneurship Experience Day, and 25 teams were chosen to participate after a screening and selection process. The selected members are provided with comprehensive support services by Y.E.S. and a professional consultant, including training, a one-on-one consultation prior to the event, on-the-spot support services and post-event reviews.
+
+This year's bazaar will feature 25 stalls selling a diverse range of handcrafted and innovative products such as handicrafts, cultural and creative products, cultural crafts, handcrafted ceramics, and eco-friendly and aromatherapy products. Visitors can explore and shop for these unique products from various retail stalls, vote for the retail stalls with the respective awards of the Most Attractive Product, Most Distinctive Stall Decoration, and Best Customer Service at the bazaar, and receive a souvenir. Moreover, visitors will receive tokens after their purchases for participating in games and taking photos at the photo booths on-site.
+
+During the bazaar, Y.E.S. will also set up a counter to introduce its free one-stop comprehensive employment, training, and self-employment support services offered to members aged 15 to 29. Eligible young people who complete the on-site membership registration will receive exclusive welcome gifts. For more details, please visit the Y.E.S. website (www.e-start.gov.hk)."
 CE to attend APEC meetings in Korea,2025-10-28 11:00,2025-10-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800252.htm," The Chief Executive, Mr John Lee, will depart for Korea tomorrow (October 29) to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and other related activities in Gyeongju.
 
  This year, APEC has adopted the theme ""Building a Sustainable Tomorrow"", with discussions focused on three priorities, namely, ""Connect"", ""Innovate"", ""Prosper"".
@@ -508,6 +1405,11 @@ Jack (Chief Executive Officer of the AIMA, Mr Jack Inglis), Michael (Managing Di
   Ladies and gentlemen, these policies are not isolated measures but a cohesive strategy to propel Hong Kong's alternatives sector forward, in harmony with global currents. By deepening mutual market access with the Mainland — through enhancements to Stock Connect, Bond Connect, and the Mutual Recognition of Funds arrangement — we are channelling Asia's structural tailwinds into tangible opportunities for hedge funds, private equity, and beyond. As we explore innovative offerings like offshore Mainland government bond futures and inclusion of RMB counters in Southbound Stock Connect, we reinforce Hong Kong's role as the indispensable gateway for risk-managed growth.
 
   In closing, the trends before us demand partnership, and Hong Kong is resolute in our collaboration with AIMA and our shared community. Together, we will harness institutional appetite, pioneer technological frontiers and fortify governance to unlock the full promise of alternatives. I very much look forward to the dialogues ahead and to Hong Kong's continued leadership in this sector. Thank you."
+多個泳灘懸掛紅旗,2025-10-28 10:24,2025-10-28 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800189.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（十月二十八日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘、石澳泳灘及大浪灣泳灘；以及西貢區的銀線灣泳灘、清水灣第一灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flags hoisted at several beaches,2025-10-28 10:24,2025-10-28 10:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800187.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -515,24 +1417,6 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today(October 28) that due to big waves, red flags have been hoisted at Stanley Main Beach, Shek O Beach and Big Wave Bay Beach in Southern District, Hong Kong Island; and Silverstrand Beach, Clear Water Bay First Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches."
-多個泳灘懸掛紅旗,2025-10-28 10:24,2025-10-28 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/28/P2025102800189.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（十月二十八日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘、石澳泳灘及大浪灣泳灘；以及西貢區的銀線灣泳灘、清水灣第一灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
-First-day auction results for Victoria Park Lunar New Year Fair stalls,2025-10-27 23:04,2025-10-27 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700799.htm,"  A total of 180 wet goods stalls and four fast food stalls were all successfully let in an auction for stalls at the 2026 Victoria Park Lunar New Year Fair starting today (October 27).
-
-  Nearly 480 people attended the auction at the Assembly Hall, 2/F, Lai Chi Kok Government Offices, 19 Lai Wan Road, Lai Chi Kok, Kowloon, from 9am to about 8pm today, a spokesman for the Food and Environmental Hygiene Department said.
-
-  The average bid price for the wet goods stalls was $23,910, with the successful bids ranging from $6,530 to $71,000. The highest bid of $71,000 was about 10.9 times the opening price of $6,530.
-
-  The auction of wet goods stalls fetched a total of $4,303,766, compared with $3,555,258 last year.
-
-  The successful bids of the four fast food stalls ranged from $130,000 to $230,000 with an average of $163,750, against an opening price of $120,470.
-
-  The auction for the 216 dry goods stalls, including 170 regular size dry goods stalls and 46 large size dry goods stall, will be held at 9am tomorrow (October 28) and on Thursday (October 30) at the same venue.
-
-  The spokesman reminded the successful bidders to comply with all the stipulations and provisions as set out in the licence agreement. Otherwise, the department is entitled to terminate the agreement and the licensee shall immediately vacate the stall."
 維園年宵攤位公開競投首日結果,2025-10-27 23:04,2025-10-27 23:30,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700798.htm,"​維多利亞公園二○二六年農曆年宵市場攤位今日（十月二十七日）起公開競投，首日共有一百八十個濕貨攤位及四個快餐攤位經競投後全部租出。
 
 食物環境衞生署發言人表示，今日的公開競投由上午九時至下午約八時在荔枝角政府合署二樓禮堂（地址：九龍荔枝角荔灣道十九號）舉行，吸引約四百八十名市民到場。
@@ -546,6 +1430,19 @@ First-day auction results for Victoria Park Lunar New Year Fair stalls,2025-10-2
 維多利亞公園年宵市場二百一十六個乾貨攤位，包括一百七十個普通型乾貨攤位及四十六個大型乾貨攤位，將於明日（十月二十八日）及星期四（十月三十日）上午九時起在同一場地進行公開競投。
 
 發言人提醒投得攤位人士，須遵守特許協議內所列的全部條款及規定，否則署方有權解除該特許協議，而獲許可人須即時將攤位騰空。"
+First-day auction results for Victoria Park Lunar New Year Fair stalls,2025-10-27 23:04,2025-10-27 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700799.htm,"  A total of 180 wet goods stalls and four fast food stalls were all successfully let in an auction for stalls at the 2026 Victoria Park Lunar New Year Fair starting today (October 27).
+
+  Nearly 480 people attended the auction at the Assembly Hall, 2/F, Lai Chi Kok Government Offices, 19 Lai Wan Road, Lai Chi Kok, Kowloon, from 9am to about 8pm today, a spokesman for the Food and Environmental Hygiene Department said.
+
+  The average bid price for the wet goods stalls was $23,910, with the successful bids ranging from $6,530 to $71,000. The highest bid of $71,000 was about 10.9 times the opening price of $6,530.
+
+  The auction of wet goods stalls fetched a total of $4,303,766, compared with $3,555,258 last year.
+
+  The successful bids of the four fast food stalls ranged from $130,000 to $230,000 with an average of $163,750, against an opening price of $120,470.
+
+  The auction for the 216 dry goods stalls, including 170 regular size dry goods stalls and 46 large size dry goods stall, will be held at 9am tomorrow (October 28) and on Thursday (October 30) at the same venue.
+
+  The spokesman reminded the successful bidders to comply with all the stipulations and provisions as set out in the licence agreement. Otherwise, the department is entitled to terminate the agreement and the licensee shall immediately vacate the stall."
 SEE inspects enhanced preventive work in Wong Tai Sin against chikungunya fever (with photos),2025-10-27 22:44,2025-10-27 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700774.htm,"The Secretary for Environment and Ecology, Mr Tse Chin-wan, accompanied by the Director of Food and Environmental Hygiene, Mr Donald Ng; Assistant Director (Operations) of the Food and Environmental Hygiene Department (FEHD), Mr Tsoi Ka-wai, and representatives from relevant departments, inspected the enhanced preventive work against chikungunya fever (CF) in Fung Tak Estate in Wong Tai Sin and the surrounding area this afternoon (October 27).
 
 Mr Tse said Hong Kong recorded 18 locally acquired cases of dengue fever spread by mosquitoes in 2018. With the concerted mosquito prevention and control efforts by the government and various sectors, the transmission chain was successfully interrupted. He encouraged FEHD staff to intensify mosquito control measures to contain the spread of the CF.
@@ -559,42 +1456,6 @@ Mr Tse said the Government will further enhance the mosquito control efforts in 
 He appealed to members of the public to fully support and co-operate with the Government's work, including seeking medical advice or contacting the Centre for Health Protection of the Department of Health if they had a fever, rash or joint pain. Members of the public should also inspect their homes; property management personnel should also inspect public areas within buildings and housing estates, such as flower beds, refuse rooms, and rooftops, to thoroughly eliminate stagnant water, preventing mosquito breeding.
 
 While attending a continuing professional development seminar held by the Property Management Services Authority today, Mr Ng called on the industry to work hand in hand with the Government to enhance mosquito prevention and control measures within their managed properties."
-第十五屆全國運動會火炬傳遞十一月二日舉行（附圖／短片）,2025-10-27 22:40,2025-10-27 22:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700634.htm,"​為迎接第十五屆全國運動會（十五運會）於十一月九日正式開幕，十五運會火炬傳遞將於十一月二日在香港、澳門、廣州、深圳四個城市同步舉行，每個城市50名火炬手，共200名。當日上午九時於深圳舉行火炬傳遞啓動儀式，香港、澳門和廣州於上午九時三十分分別舉行起跑儀式，同步開展火炬傳遞。火炬傳遞結束後，四個城市的代表會將火種送回廣州，並在下午約五時在廣東奧林匹克體育中心舉行融火儀式，以銜接十五運會開幕式場內火炬傳遞和燃點主火炬。
-
-全國運動會香港賽區統籌辦公室主任楊德強今日（十月二十七日）聯同警務處和運輸署代表舉行聯合記者會，介紹火炬傳遞香港站的路線和相關交通運輸安排。
-
-香港的火炬傳遞於十一月二日上午九時三十分開始，路線全長約10公里，共分為五段，其中跑步距離約佔3.8公里。香港段以添馬政府總部為起點，途經中西區海濱長廊（中環段）、灣仔臨時海濱花園、香港回歸祖國紀念碑和金紫荊廣場。第二段火炬手會乘坐天星小輪橫渡維多利亞港，然後進入第三段尖沙咀段，由尖沙咀天星碼頭巴士總站經梳士巴利道至麼地里，途經香港文化中心和香港藝術館。第四段火炬手乘坐開篷巴士至香港啟德體育園巴士站；進入第五段啟德體育園範圍，途經青年運動場，進入啟德體育大道至啟德體育園中央廣場，由最後一名火炬手點燃火盆，並進行收火儀式。
-
-為配合火炬傳遞舉行，中西區海濱長廊（中環段）部分路段、金紫荊廣場和灣仔臨時海濱花園會在活動期間臨時封閉。此外，警方和運輸署亦會因應活動進行相應的道路管制和公共運輸安排：
-
-道路管制安排
-
-在火炬傳遞期間，灣仔北、尖沙咀海旁及啟德體育園一帶的路段將實施封路及特別交通安排，所有受影響道路將在火炬傳遞後適時開放，受影響路段包括：
-
-(1) 灣仔北
-- 金紫荊廣場外的一段博覽道東上午八時起封閉；
-- 博覽道、中環及灣仔繞道隧道（東行）往博覽道的支路、及博覽道東上午九時起封閉；
-- 龍和道及鴻興道等一帶道路將間歇性封閉；
-
-(2) 尖沙咀海旁一帶
-- 梳士巴利道、廣東道、九龍公園徑、漢口道、彌敦道、中間道、漆咸道南、康運徑、麼地里、及紅磡繞道等上午八時三十分起封閉；
-- 康莊道、漆咸道北、東九龍走廊將間歇性封閉。
-
-(3) 啟德體育園一帶
-- 宋皇臺道啟德青年運動場旁的上落客區上午八時起封閉；
-- 東九龍走廊、九龍城道及宋皇臺道將間歇性封閉。
-
-限制飛行區
-
-警方將於十一月二日上午八時三十分至上午十一時四十分在火炬傳遞路線向外伸延兩公里範圍設立臨時限制飛行區，除獲正式授權的小型無人機外，限制其他小型無人機進入。相關的臨時限制飛行區詳情將會載於小型無人機電子平台「SUA一站通」。
-
-公共運輸安排
-
-為配合十五運會火炬傳遞香港站當日上午警方於灣仔北及尖沙咀實施的臨時道路封閉及交通管制措施，行經灣仔博覽道東、尖沙咀碼頭巴士總站、彌敦道及梳士巴利道一帶受影響路段，合共52條專營巴士路線及五條專線小巴路線會由當日首班車起調整服務。當中，九巴8P號線（海逸豪園—尖沙咀（循環線））將會暫停服務，其餘受影響巴士及小巴路線，則需臨時改道或停用／遷移於受影響地區內的相關站點，並會於道路重開後陸續恢復正常運作。相關公共運輸服務營辦商將會張貼通告，通知受影響乘客有關服務調整的安排。
-
-根據火炬傳遞的路線，火炬亦會以渡輪及開篷巴士運送至啟德體育園，沿途將會有臨時管控措施。灣仔—尖沙咀渡輪航線預計在上午約九時四十五分至十時三十分期間，或會因應實際情況而需臨時調整服務；灣仔北、西九龍及東九龍的交通亦會較為繁忙。運輸署呼籲前往受影響地區的市民和旅客，應預早計劃行程，預留充裕交通時間，並盡量使用鐵路服務，避免駕車前往有關路段。
-
-楊德強表示，香港的整條傳遞路線着重展示香港文化及體育方面的特色，火炬手由各界別代表組成，包括體育界、贊助機構、義工、青年、殘疾人士和少數族裔，詳細名單將稍後公布。廣東、香港和澳門三地今日上午亦於廣州舉行了新聞發布會，楊德強在會上提到，十五運會火炬傳遞的最大特色是「三地聯動、四城同傳」，由粵港澳三地於本月初在廣州南沙一起點燃「源火」開始，以至十一月二日四地同日舉行火炬傳遞活動，均全面展現了本屆全運會由三地聯合承辦的特色。"
 15th National Games torch relay to be held on November 2 (with photos/video),2025-10-27 22:40,2025-10-27 22:45,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700706.htm,"  To welcome the official opening of the 15th National Games (NG) on November 9, the 15th NG torch relay will be held simultaneously in four cities, namely Hong Kong, Macao, Guangzhou and Shenzhen on November 2. There will be a total of 200 torchbearers, with 50 torchbearers in each city. The torch relay launching ceremony will be held at 9am that day in Shenzhen, followed by starting ceremonies in Hong Kong, Macao and Guangzhou at 9.30am, where torch relay will start simultaneously. Representatives of the four cities will return the flame to Guangzhou after the torch relay. A flame-gathering ceremony will be held at around 5pm in the Guangdong Olympic Sports Center, bridging the torch relay at the venue and the lighting of the main torch at the 15th NG opening ceremony.
 
  The Head of the National Games Coordination Office (Hong Kong), Mr Yeung Tak-keung, together with representatives from the Hong Kong Police Force and the Transport Department, held an interdepartmental press conference today (October 27) to give briefing on the route of torch relay in Hong Kong and the relevant transportation arrangements.
@@ -631,6 +1492,42 @@ Public transport arrangements
  According to the route of the torch relay, the torch will be passed to the Kai Tak Sports Park via ferry and an open-top bus, with temporary control measures along the route. Subject to the actual situation, there may be temporary service adjustment from around 9.45am to 10.30am in the Wan Chai – Tsim Sha Tsui ferry route. In addition, the overall traffic at Wan Chai North, West Kowloon and East Kowloon will be busier. The Transport Department urges members of the public and visitors travelling to the affected areas to plan their trips in advance and allow sufficient time for their journeys. They are advised to use railway services as far as possible and avoid driving to the affected road sections.
 
 ããMr Yeung said, the entire Hong Kong relay route is designed to highlight the unique cultural and sporting characteristics of the city. The torchbearers include representatives from various sectors, including sports, sponsors, volunteers, the youth, persons with disabilities and ethnic minorities. The detailed list of torchbearers will be announced in due course. Guangdong, Hong Kong and Macao cohosted a press conference in Guangzhou this morning. Mr Yeung addressed in the press conference that the biggest highlight of the 15th NG torch relay is the collaborative progress of the three places and the relay among the four cities. The unique feature of the joint hosting of the 15th NG by the three places has been fully demonstrated, from the lighting of the ""source flame"" in Nansha, Guangzhou by the representatives of Guangdong, Hong Kong, and Macau earlier this month to the simultaneous torch relay events in four locations on November 2."
+第十五屆全國運動會火炬傳遞十一月二日舉行（附圖／短片）,2025-10-27 22:40,2025-10-27 22:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700634.htm,"​為迎接第十五屆全國運動會（十五運會）於十一月九日正式開幕，十五運會火炬傳遞將於十一月二日在香港、澳門、廣州、深圳四個城市同步舉行，每個城市50名火炬手，共200名。當日上午九時於深圳舉行火炬傳遞啓動儀式，香港、澳門和廣州於上午九時三十分分別舉行起跑儀式，同步開展火炬傳遞。火炬傳遞結束後，四個城市的代表會將火種送回廣州，並在下午約五時在廣東奧林匹克體育中心舉行融火儀式，以銜接十五運會開幕式場內火炬傳遞和燃點主火炬。
+
+全國運動會香港賽區統籌辦公室主任楊德強今日（十月二十七日）聯同警務處和運輸署代表舉行聯合記者會，介紹火炬傳遞香港站的路線和相關交通運輸安排。
+
+香港的火炬傳遞於十一月二日上午九時三十分開始，路線全長約10公里，共分為五段，其中跑步距離約佔3.8公里。香港段以添馬政府總部為起點，途經中西區海濱長廊（中環段）、灣仔臨時海濱花園、香港回歸祖國紀念碑和金紫荊廣場。第二段火炬手會乘坐天星小輪橫渡維多利亞港，然後進入第三段尖沙咀段，由尖沙咀天星碼頭巴士總站經梳士巴利道至麼地里，途經香港文化中心和香港藝術館。第四段火炬手乘坐開篷巴士至香港啟德體育園巴士站；進入第五段啟德體育園範圍，途經青年運動場，進入啟德體育大道至啟德體育園中央廣場，由最後一名火炬手點燃火盆，並進行收火儀式。
+
+為配合火炬傳遞舉行，中西區海濱長廊（中環段）部分路段、金紫荊廣場和灣仔臨時海濱花園會在活動期間臨時封閉。此外，警方和運輸署亦會因應活動進行相應的道路管制和公共運輸安排：
+
+道路管制安排
+
+在火炬傳遞期間，灣仔北、尖沙咀海旁及啟德體育園一帶的路段將實施封路及特別交通安排，所有受影響道路將在火炬傳遞後適時開放，受影響路段包括：
+
+(1) 灣仔北
+- 金紫荊廣場外的一段博覽道東上午八時起封閉；
+- 博覽道、中環及灣仔繞道隧道（東行）往博覽道的支路、及博覽道東上午九時起封閉；
+- 龍和道及鴻興道等一帶道路將間歇性封閉；
+
+(2) 尖沙咀海旁一帶
+- 梳士巴利道、廣東道、九龍公園徑、漢口道、彌敦道、中間道、漆咸道南、康運徑、麼地里、及紅磡繞道等上午八時三十分起封閉；
+- 康莊道、漆咸道北、東九龍走廊將間歇性封閉。
+
+(3) 啟德體育園一帶
+- 宋皇臺道啟德青年運動場旁的上落客區上午八時起封閉；
+- 東九龍走廊、九龍城道及宋皇臺道將間歇性封閉。
+
+限制飛行區
+
+警方將於十一月二日上午八時三十分至上午十一時四十分在火炬傳遞路線向外伸延兩公里範圍設立臨時限制飛行區，除獲正式授權的小型無人機外，限制其他小型無人機進入。相關的臨時限制飛行區詳情將會載於小型無人機電子平台「SUA一站通」。
+
+公共運輸安排
+
+為配合十五運會火炬傳遞香港站當日上午警方於灣仔北及尖沙咀實施的臨時道路封閉及交通管制措施，行經灣仔博覽道東、尖沙咀碼頭巴士總站、彌敦道及梳士巴利道一帶受影響路段，合共52條專營巴士路線及五條專線小巴路線會由當日首班車起調整服務。當中，九巴8P號線（海逸豪園—尖沙咀（循環線））將會暫停服務，其餘受影響巴士及小巴路線，則需臨時改道或停用／遷移於受影響地區內的相關站點，並會於道路重開後陸續恢復正常運作。相關公共運輸服務營辦商將會張貼通告，通知受影響乘客有關服務調整的安排。
+
+根據火炬傳遞的路線，火炬亦會以渡輪及開篷巴士運送至啟德體育園，沿途將會有臨時管控措施。灣仔—尖沙咀渡輪航線預計在上午約九時四十五分至十時三十分期間，或會因應實際情況而需臨時調整服務；灣仔北、西九龍及東九龍的交通亦會較為繁忙。運輸署呼籲前往受影響地區的市民和旅客，應預早計劃行程，預留充裕交通時間，並盡量使用鐵路服務，避免駕車前往有關路段。
+
+楊德強表示，香港的整條傳遞路線着重展示香港文化及體育方面的特色，火炬手由各界別代表組成，包括體育界、贊助機構、義工、青年、殘疾人士和少數族裔，詳細名單將稍後公布。廣東、香港和澳門三地今日上午亦於廣州舉行了新聞發布會，楊德強在會上提到，十五運會火炬傳遞的最大特色是「三地聯動、四城同傳」，由粵港澳三地於本月初在廣州南沙一起點燃「源火」開始，以至十一月二日四地同日舉行火炬傳遞活動，均全面展現了本屆全運會由三地聯合承辦的特色。"
 Update on chikungunya fever (with photos),2025-10-27 22:17,2025-10-27 22:30,Eng,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700766.htm,"The Centre for Health Protection (CHP) of the Department of Health announced that as of 5pm today (October 27), the CHP has recorded three new cases of chikungunya fever (CF). The CHP continued to implement various prevention and control measures together with various Government departments and relevant organisations, striving to prevent CF from taking root locally and minimise the public health impact of the disease in Hong Kong.
 
 Latest cases information
@@ -752,7 +1649,7 @@ in addition to DEET, there are other insect repellents available on the market c
 
 ​市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。
 "
-環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作,2025-10-27 21:34,2025-10-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
+環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作（附圖）,2025-10-27 21:34,2025-10-27 22:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
 
 謝展寰表示，本港二○一八年也曾出現18宗透過蚊傳播的本地登革熱個案，因着政府和各界合力防蚊滅蚊，成功切斷傳播鏈。他鼓勵食環署員工加強防蚊滅蚊工作，全力遏止今次基孔肯亞雅熱的傳播。
 
@@ -765,7 +1662,7 @@ in addition to DEET, there are other insect repellents available on the market c
 他呼籲市民支持及配合政府的工作，包括如出現發燒、皮疹或關節痛症狀的人士，應盡快求醫或聯絡衞生署衞生防護中心。要有效防蚊滅蚊，市民亦應小心檢查自己的家居；物業管理人員也應視察樓宇和屋苑範圍的公共地方（例如花圃、垃圾房和天台等），徹底清除積水，避免蚊子滋生。
 
 吳文傑今日出席物業管理業監管局「持續專業發展講座」期間，亦呼籲業界與政府㩦手合作，在其轄下物業管理範圍內加強防控蚊患措施。"
-環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作（附圖）,2025-10-27 21:34,2025-10-27 22:15,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
+環境及生態局局長視察黃大仙區加強預防基孔肯雅熱工作,2025-10-27 21:34,2025-10-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700687.htm,"環境局局長謝展寰今日（十月二十七日）下午在食物環境衞生署（食環署）署長吳文傑、助理署長（行動）蔡家偉及相關部門代表陪同下，到黃大仙鳳德邨及附近一帶視察地區加強預防基孔肯雅熱的工作。
 
 謝展寰表示，本港二○一八年也曾出現18宗透過蚊傳播的本地登革熱個案，因着政府和各界合力防蚊滅蚊，成功切斷傳播鏈。他鼓勵食環署員工加強防蚊滅蚊工作，全力遏止今次基孔肯亞雅熱的傳播。
 
@@ -1394,22 +2291,3 @@ The MTR Corporation Limited will enhance the train services of the East Rail Lin
   For the HZMB, to plan their journeys ahead, members of the public can make use of the TD's HKeMobility mobile app or website (hkemobility.gov.hk/en/traffic-information/live/cctv) to access snapshots of traffic conditions at inbound and outbound vehicle plazas of the HZMB Hong Kong Port. They can also check real-time situations of the vehicle clearance plaza of the Zhuhai Port through the WeChat official accounts ""hzmbzhport"" or ""zhuhaifabu"" (traffic-info.gzazhka.com:5015/#/) (Chinese only). Moreover, motorists are reminded to always comply with the traffic control measures implemented by the Zhuhai authority when driving on the HZMB Main Bridge. Vehicles shall not occupy the emergency lane unless instructed by the Zhuhai authority.
 
   The public and visitors may visit the one-stop information platform on immigration clearance ""Easy Boundary"" (www.sb.gov.hk/eng/bwt/status.html?type=outbound) launched by the Security Bureau or the TD's HKeMobility mobile app for the latest information on various land-based BCPs more conveniently. The TD will provide information on the service and waiting time of the Gold Bus, the Yellow Bus and MTR on the platform. Members of the public are advised to check the latest traffic news through radio and television broadcasts, the TD's website and the HKeMobility."
-重陽節假期市民和旅客應預早計劃跨境行程,2025-10-27 17:18,2025-10-27 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202510/27/P2025102700521.htm,"運輸署今日（十月二十七日）表示，預計重陽節假期（十月二十九日）會有大量市民、車輛及內地旅客經各陸路管制站往來香港和內地或澳門，呼籲市民和旅客及早計劃行程，預留充裕交通時間。
-
-署方已協調本地及跨境公共運輸服務營辦商在當日加強服務，包括：
-
-
-增加港珠澳大橋穿梭巴士（金巴）的班次，有需要時可達最高峰時平均約一分鐘一班；
-增加落馬洲—皇崗過境穿梭巴士（皇巴）的班次，有需要時可達最高峰時平均約兩分鐘一班；
-增發跨境直通巴士配額以加強服務；
-連接各陸路管制站的本地專營巴士B線的班次亦會提升至高於一般周末的水平，相關營辦商會預留車輛及人手應對乘客需求；及
-香港鐵路有限公司在當日的不同時段，會加強東鐵線來往金鐘至羅湖／落馬洲站的列車服務，方便市民和旅客出行。
-
-
-運輸署預計，公共運輸服務包括金巴及專營巴士B線的等候時間或會較長，乘客應考慮於非繁忙時間出行，在候車期間應遵守秩序，並遵從現場警務人員及相關營辦商職員的指示。跨境巴士的乘客亦應提早預訂車票。
-
-駕駛人士請注意，視乎現場交通情況，落馬洲管制站及深圳灣口岸在當日或會實施特別交通安排，以便公共運輸車輛暢順地進入上述口岸，跨境私家車或需輪候通過口岸。駕駛人士請特別留意沿途可變信息顯示屏及交通標誌。如遇交通受阻，請保持忍讓及遵從現場警務人員的指示。
-
-至於港珠澳大橋，市民可透過運輸署流動應用程式「香港出行易」或網頁（hkemobility.gov.hk/tc/traffic-information/live/cctv），查閱大橋香港口岸出境及入境客車通關廣場的交通快拍，亦可透過「港珠澳大橋珠海口岸」或「珠海發布」微信公眾號內的「大橋口岸實時通關」服務（traffic-info.gzazhka.com:5015/#/），查閱大橋珠海口岸的車輛實時通關情況，以便及早計劃行程。此外，運輸署提醒駕駛人士於大橋主橋行駛時，應時刻遵照珠海當局實施的交通管控措施，除非獲珠海市當局指示，否則車輛一律不可佔用應急車道。
-
-市民和旅客可透過保安局推出的一站式過關資訊平台「口岸通」（www.sb.gov.hk/chi/bwt/status.html?type=outbound）或運輸署流動應用程式「香港出行易」，更方便地取得各陸路口岸的最新資訊。當中，運輸署會提供金巴、皇巴及港鐵服務情況及輪候時間。市民請留意電台、電視台、運輸署網頁及「香港出行易」發放的最新交通消息。"
