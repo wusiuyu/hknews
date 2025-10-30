@@ -1,4 +1,29 @@
 title,date,summary,scrape_time,section,source,url,news_content
+US uncertainties 'flowing into HK rate-cut outlook',2025-10-30 13:50,,2025-10-30 14:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1829347-20251030.htm,"Hong Kong Monetary Authority (HKMA) chief executive Eddie Yue on Thursday warned about uncertainties ahead for borrowing costs after the city's de facto central bank lowered its base interest rate for the second time this year – by a quarter point to 4.25 percent.
+
+Following the HKMA move, the city's largest commercial lender, HSBC, took the lead by announcing it's cutting prime lending rates by 12.5 basis points to 5 percent, effective from tomorrow.
+
+The HKMA move came as part of a lock-step mechanism that began when the US Federal Reserve lowered its target rate by the same margin overnight to a range of 3.75 to 4 percent, also the second of such cuts this year.
+
+However, Yue warned that while the reductions this time around, which will help ease the mortgage burden on homebuyers while rebooting businesses, have been in line with market expectations, the pace of future rate cuts remains uncertain.
+
+""The renewed tariff uncertainties and the unavailability of certain major economic data have added complexity to the assessment of the US labour market and inflation trends,"" he said during a press briefing.
+
+""On Hong Kong dollar deposit and lending rates, banks will normally take into account factors such as funding supply and demand, the level of interbank rates and also their own funding cost structures to assess the merit and extent of adjustment.
+
+""The extent and pace of future US interest rate cuts are subject to uncertainties, which may influence the interest rate environment in Hong Kong. The public should carefully manage interest rate risk when making financial decisions.""
+
+Nonetheless, Yue noted that the latest rate cut will again inject positive momentum into the city's economy and the property market as the Hong Kong interbank offered rate (Hibor), which is linked to the city's mortgages and corporate loans, could also gradually go down.
+
+When asked about his expectations for the next policy meeting by the Fed in December, Yue again cautioned that ""there's no rate path projections"" from the US central bank, adding that market expectations for such a potential rate cut had ""notably"" been lowered to 60 percent from 70 percent previously.
+
+""If you look at the inflation [trends] in the United States, there are actually a few slight upward signals,"" he said.
+
+""While the job market there shows a few downward signs, the policy objectives [from the Fed] are moving in different directions.
+
+""How to strike a balance between the two is somewhat difficult to a certain extent.
+
+""Coupled with the factor of the government shutdown in the United States, if the Fed can't even easily obtain some of the most important economic data, it will actually be difficult for them to make judgments."""
 渣打香港上季稅前基本盈利按年跌5%　按季跌約28%,2025-10-30 13:30,,2025-10-30 13:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829359-20251030.htm,"渣打公布，第3季稅前基本盈利19.9億美元，按年升9%，按季跌18%。
 
 渣打香港繼續是最大盈利貢獻來源，稅前基本盈利5.3億美元，按年跌近5%，按季跌約28%。信貸減值6900萬美元，按年減少15%，按季減少13%。
@@ -6,6 +31,11 @@ title,date,summary,scrape_time,section,source,url,news_content
 渣打中國上季稅前基本盈利8600萬美元，按年跌近35%，按季跌近47%。信貸減值1400萬美元，按年減少61%，按季減少36%。
 
 渣打其他主要市場均錄得盈利，英國業務按年扭虧為盈，轉賺逾2億美元。"
+神舟21號預計明晚11時44分發射　三名航天員涵蓋不同年齡層,2025-10-30 13:13,,2025-10-30 14:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829352-20251030.htm,"神舟二十一號載人飛船預計明晚11時44分發射，由執行過神舟十五號任務的張陸擔任指令長，三名航空員涵蓋70後、80後，90後三個年齡層。
+
+神舟二十一號航天員乘組將會新開展27項科學與應用項目，並首次在軌實施國內嚙齒類哺乳動物空間科學實驗。
+
+另外，中國載人航天工程透露，兩名港澳航天員正開展航天專業技術相關訓練，整體狀態良好，之後再強化訓練，期待他們亮相。"
 港股下午轉跌,2025-10-30 13:12,,2025-10-30 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829360-20251030.htm,"港股下午轉跌，恒生指數較早時報26236點，跌109點，跌幅0.41%。
 
 科技指數報6036點，跌56點，跌幅0.93%。"
@@ -299,12 +329,12 @@ APEC 2025 ｜移居南韓內地人經營色彩診斷生意主攻旅客,2025-10-3
 習近平乘坐專機抵達南韓釜山,2025-10-30 09:36,,2025-10-30 10:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829311-20251030.htm,"國家主席習近平乘坐專機，抵達南韓釜山，應南韓總統李在明邀請，出席在慶州舉行的亞太經合組織第三十二次領導人非正式會議，並對南韓進行國事訪問。
 
 習近平稍後將會在釜山，與美國總統特朗普會晤，就中美關係及雙方共同關心的問題交換意見。白宮表示，兩國元首會在本港時間上午10時開始會談。"
-神舟二十一號載人飛船明晚11時44分發射,2025-10-30 09:28,,2025-10-30 13:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829312-20251030.htm,"載人航天工程新聞發言人張靜波宣布，經任務總指揮部研究決定，瞄準明晚11時44分發射神舟二十一號載人飛船。
+明晚北京時間23時44分發射神舟二十一號載人飛船,2025-10-30 09:28,,2025-10-30 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829312-20251030.htm,"載人航天工程新聞發言人張靜波宣布，經任務總指揮部研究決定，瞄準北京時間10月31日23時44分發射神舟二十一號載人飛船。
 
 張靜波在酒泉衛星發射中心舉行的發布會表示，航天員乘組由張陸、武飛、張洪章組成，三人分別為航天駕駛員、飛行工程師和載荷專家，涵蓋國家現役三種航天員類型，張陸擔任指令長。
 
 他表示，張陸執行過神舟十五號載人飛行任務，其餘二人屬於國家第三批航天員，首次執行飛行任務。"
-明晚北京時間23時44分發射神舟二十一號載人飛船,2025-10-30 09:28,,2025-10-30 09:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829312-20251030.htm,"載人航天工程新聞發言人張靜波宣布，經任務總指揮部研究決定，瞄準北京時間10月31日23時44分發射神舟二十一號載人飛船。
+神舟二十一號載人飛船明晚11時44分發射,2025-10-30 09:28,,2025-10-30 13:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829312-20251030.htm,"載人航天工程新聞發言人張靜波宣布，經任務總指揮部研究決定，瞄準明晚11時44分發射神舟二十一號載人飛船。
 
 張靜波在酒泉衛星發射中心舉行的發布會表示，航天員乘組由張陸、武飛、張洪章組成，三人分別為航天駕駛員、飛行工程師和載荷專家，涵蓋國家現役三種航天員類型，張陸擔任指令長。
 
@@ -482,6 +512,19 @@ Alphabet上季收入首次破千億美元　再度上調資本開支預測,2025-
 現貨金一度重返4000美元以上，每盎司高見4030美元，升約2%，較早時徘徊3929美元，跌約0.6%。
 
 紐約期金12月合約收報4000.7美元，升逾0.4%，其後再度轉跌約1%，徘徊3942美元。"
+美股創新高後個別發展　道指倒跌74點　Nvidia再破頂,2025-10-30 05:51,,2025-10-30 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829277-20251030.htm,"美股3大指數早段再創新高，收市個別發展。聯儲局一如預期減息0.25厘，主席鮑威爾表示，12月會議是否再次減息未有定論，強調委員看法分歧很大，市場對12月減息機率預測由90%降至71%。
+
+道瓊斯指數最多升逾330點，首次突破48000點關口，高見48040點，收市報47632點，倒跌74點，跌幅約0.2%。
+
+標普500指數曾升至6920點的紀錄高位，收報6890點，跌不足1點。
+
+納斯達克指數一度升穿24000點但未企穩，收報23958點，升130點，升幅約0.6%。
+
+Nvidia高收約3%，再創新高，是全球首家市值突破5萬億美元的企業，今年以來股價累計升逾54%。
+
+3家重磅科技股收市後公布業績，Meta在盤後交易時段急挫近9%，微軟亦跌逾2%，Alphabet則升約6%。
+
+另外，波音上季業績好壞參半，股價跌逾4%收市。"
 US stocks mixed despite interest rate cut,2025-10-30 05:51,,2025-10-30 06:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1829279-20251030.htm,"The US dollar strengthened on Wednesday while Wall Street stocks were mixed after the US Federal Reserve indicated its latest interest rate cut might not be repeated in December.
 
 After the US central bank announced a quarter percentage-point interest rate cut that had been expected, Fed Chair Jerome Powell told reporters that another decrease in December ""is not a foregone conclusion, far from it.""
@@ -505,19 +548,6 @@ The two leaders are set to meet on Thursday in Busan, a southern port city not f
 US industrial giant Caterpillar surged 11.6 percent after reporting better than expected profits, partly due to strong demand in its energy & transportation business partly related to heavy AI infrastructure investment.
 
 The Dow Jones edged down 0.2 percent to 47,632. The S&P 500 ended essentially flat at 6,890, while the Nasdaq rose 0.6 percent to 23,958. (AFP)"
-美股創新高後個別發展　道指倒跌74點　Nvidia再破頂,2025-10-30 05:51,,2025-10-30 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829277-20251030.htm,"美股3大指數早段再創新高，收市個別發展。聯儲局一如預期減息0.25厘，主席鮑威爾表示，12月會議是否再次減息未有定論，強調委員看法分歧很大，市場對12月減息機率預測由90%降至71%。
-
-道瓊斯指數最多升逾330點，首次突破48000點關口，高見48040點，收市報47632點，倒跌74點，跌幅約0.2%。
-
-標普500指數曾升至6920點的紀錄高位，收報6890點，跌不足1點。
-
-納斯達克指數一度升穿24000點但未企穩，收報23958點，升130點，升幅約0.6%。
-
-Nvidia高收約3%，再創新高，是全球首家市值突破5萬億美元的企業，今年以來股價累計升逾54%。
-
-3家重磅科技股收市後公布業績，Meta在盤後交易時段急挫近9%，微軟亦跌逾2%，Alphabet則升約6%。
-
-另外，波音上季業績好壞參半，股價跌逾4%收市。"
 Fed cuts by 25bp but Powell cautious about other cuts,2025-10-30 05:28,,2025-10-30 06:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1829268-20251030.htm,"The Federal Reserve cut its key interest rate on Wednesday for a second time this year as it seeks to shore up economic growth and hiring , even as inflation stays elevated.
 
 But Fed Chair Jerome Powell also cautioned that further rate cuts weren’t guaranteed, citing the government shutdown’s interruption of economic reports and sharp divisions among 19 Fed officials who participate in the central bank's interest-rate deliberations.
@@ -615,6 +645,11 @@ But the Fed chair did acknowledge that the limited data could cause officials to
 首3季收入2.11萬億元，按年跌近11%。勘探費用則升約32%至84.1億元，由於集團加大頁岩油、超深層油氣等資源勘探力度。
 
 首3季油氣當量產量3.94億桶，按年升2.2%。"
+美團發行5筆美元及人民幣優先票據　集資逾232億港元,2025-10-30 01:55,,2025-10-30 02:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829263-20251030.htm,"美團公布，發行5筆美元及人民幣計價優先票據，集資合共逾232億港元，所得淨額主要用於現有離岸債務的再融資，以及一般企業用途。
+
+公告指，3筆美元計價優先票據本金總額20億美元，預計扣除包銷佣金及相關開支前，集資總額約19.94億美元，票據分別於2031年、2032年、2035年到期，票面息率分別為4.5厘、4.75厘、5.125厘。
+
+兩筆人民幣計價優先票據本金總額70.8億元人民幣，分別於2030年及2035年到期，票面息率2.55厘及3.1厘。"
 波音上季虧損收窄　恢復正自由現金流　就777X項目增加撥備,2025-10-30 01:55,,2025-10-30 02:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829260-20251030.htm,"波音第3季業績好壞參半，季內經營虧損47.8億美元，按年收窄17%。每股經調整虧損7.47美元，遠多於預期。
 
 上季收入232.7億美元，按年升30%，多於預期。
@@ -622,11 +657,6 @@ But the Fed chair did acknowledge that the limited data could cause officials to
 波音就777X項目作出49億美元的非現金撥備，累計撥備金額達160億美元，首架飛機付運推遲至2027年。
 
 集團恢復錄得正自由現金流2.38億美元，是2023年底以來首次。"
-美團發行5筆美元及人民幣優先票據　集資逾232億港元,2025-10-30 01:55,,2025-10-30 02:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829263-20251030.htm,"美團公布，發行5筆美元及人民幣計價優先票據，集資合共逾232億港元，所得淨額主要用於現有離岸債務的再融資，以及一般企業用途。
-
-公告指，3筆美元計價優先票據本金總額20億美元，預計扣除包銷佣金及相關開支前，集資總額約19.94億美元，票據分別於2031年、2032年、2035年到期，票面息率分別為4.5厘、4.75厘、5.125厘。
-
-兩筆人民幣計價優先票據本金總額70.8億元人民幣，分別於2030年及2035年到期，票面息率2.55厘及3.1厘。"
 加拿大央行減息0.25厘　下調今明年經濟增長預測,2025-10-30 01:25,,2025-10-30 01:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829259-20251030.htm,"加拿大央行一如預期減息0.25厘，指標利率減至2.25厘，連續兩次減息，利率創2022年中以來最低。
 
 央行指，減息是考慮到經濟疲軟、預計通脹將維持於2%的目標附近，並為了應對美國貿易政策調整對加拿大經濟造成的影響。
@@ -969,32 +999,3 @@ APEC 2025｜李家超抵南韓　周六將出席領導人非正式會議,2025-10
 李家超指出，今年APEC會議聚焦討論「連接、創新、繁榮」三個重點議題，他星期六將出席APEC領導人非正式會議，並於星期五參加APEC領導人與東道主嘉賓非正式對話、APEC商貿諮詢理事會成員對話等多場重點會議。
 
 他說，將藉此機會與其他經濟體領導人舉行雙邊會談，鞏固友好關係，深化務實合作，為香港拓展更多發展空間和合作機會。"
-布少明：內地客來港買樓宗數升　受租金回報率高及減息等帶動,2025-10-29 13:54,,2025-10-29 14:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829204-20251029.htm,"根據物業代理美聯數據，本港今年首9個月，以買家姓名拼音辨別，一、二手住宅市場涉及內地買家的註冊量約9700宗，按年升13%，金額則維持900多億元。
-
-高級董事布少明認為，除了內地人才及學生持續來港，減息及股市造好等因素，都增強內地客來港買樓的信心，買樓收租個案亦增加。他指出，本港中小型單位租金回報率普遍逾4厘，豪宅亦近3厘，遠高於內地投資物業1厘多的租金回報。
-
-根據美聯統計，首9個月內地客買樓平均樓價934萬元，按年升約20%，反映內地客傾向「大銀碼」物業，他們在新盤大手客佔比亦高。
-
-布少明提到，以宗數及金額計，內地買家佔整體約22%及30%，有望分別升至25%及35%。
-
-他又指，內地客鍾情啟德、中西區、將軍澳、黃竹坑、長沙灣的物業，主要考慮交通及商場配套，啟德體育園啟用亦增加區內物業吸引力。"
-FS continues Saudi Arabia visit,2025-10-29 13:53,,2025-10-29 14:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829200-20251029.htm,"Financial Secretary Paul Chan attended the Future Investment Initiative Summit on Tuesday during his trip to Saudi Arabia, and spoke at key thematic discussion sessions and held meetings with senior government officials and business leaders in the region.
-
-Chan spoke at a session to share insights on how public-private partnerships can foster economic and social development, energy transition and the advancement of technological sectors. 
-
-He shared Hong Kong's experience with the Build-Operate-Transfer model and the ""Rail-plus-Property"" model, which have incentivised private sector participation in infrastructure development. 
-
-The financial secretary said the Northern Metropolis project will also adopt such kind of models to accelerate planning, construction and industry development. 
-
-""We take a multi-pronged approach, attracting strategic enterprises, doing co-investment with them, more flexible doing land grants, and we have a company owned by the government, the function of which is patient capital, we call it Hong Kong investment company,"" Chan said. 
-
-""We also use this company to work with fund management companies, to set up different funds – strategic development funds and innovation and technology development funds – so that we use this company as a lever to leverage private capital to sectors we want to develop.""
-
-The minister also delivered a keynote speech at a business seminar, promoting Hong Kong is an ideal gateway for Middle East businesses to access the mainland market, given the SAR's free economy status and advantages enjoyed under One Country, Two Systems.
-
-Chan said there is vast room for collaboration between China and the Middle East, and invited more enterprises and institutions in the region to leverage Hong Kong's platform to open a new chapter in cooperation between Asia and the Middle East."
-國台辦：願意為和平統一創造廣闊空間　但決不承諾放棄使用武力,2025-10-29 13:51,,2025-10-29 14:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829203-20251029.htm,"在北京，國台辦發言人彭慶恩表示，在台灣光復80周年之際以國家名義設立台灣光復紀念日，彰顯兩岸同屬一個中國的歷史和法理事實，宣示了全國各族人民反對「台獨」分裂、推動兩岸關係和平發展、推進祖國統一大業的堅強決心。
-
-彭慶恩表明對台大政方針是一貫的、明確的。「和平統一、一國兩制」是解決台灣問題的基本方針，是實現國家統一的最佳方式，願意為和平統一創造廣闊空間，以最大誠意、盡最大努力爭取和平統一的前景，但決不承諾放棄使用武力，保留採取一切必要措施的選項。
-
-他又指，和平統一需要兩岸同胞共同努力，相向而行。希望廣大台灣同胞一道堅決反對「台獨」分裂和外來干涉，堅定不移推進祖國統一大業，攜手共創中華民族綿長福祉，共享中華民族偉大復興榮光。"
