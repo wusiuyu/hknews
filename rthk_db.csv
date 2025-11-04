@@ -1,4 +1,12 @@
 title,date,summary,scrape_time,section,source,url,news_content
+高市早苗新成立經濟增長小組振興日本經濟,2025-11-04 10:54,,2025-11-04 11:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830033-20251104.htm,"日本首相高市早苗領導的政府，宣布新成立日本增長戰略委員會，目標是通過積極的支出促進經濟發展。
+
+委員會成員包括私人市場的專家，將成為政府重要政策平台，以有針對性的投資為後盾，打造強勁的經濟。
+
+高市早苗在委員會總部揭幕儀式上表示，將在明年夏天前制定增長戰略，目標是在不提高稅率的情況下增加稅收。她又指，將制定公共—民間投資路線圖，概述投資內容、時機和目標金額。"
+Hang Seng Index opens lower,2025-11-04 10:53,,2025-11-04 11:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1830034-20251104.htm,"The Hang Seng Index lost 10.29 points, or 0.04 percent, to open at 26,148 on Tuesday.
+
+On the mainland, the Shanghai Composite Index opened at 3,973, down 3 points, or 0.08 percent, and the Shenzhen Component Index opened at 13,373, down 30 points, or 0.23 percent. (Xinhua)"
 日股半日反覆偏軟,2025-11-04 10:37,,2025-11-04 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830031-20251104.htm,日本股市反覆偏軟，日經平均指數半日收市報52361點，跌50點，跌幅0.1%。
 中證監：香港資本市場呈現出蒸蒸日上良好態勢,2025-11-04 10:34,,2025-11-04 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830032-20251104.htm,"中國證監會副主席李明表示，將進一步深化內地與香港資本市場務實合作，著力提升境外上市備案質效，擴大滬深港通標的範圍，支持將人民幣股票交易櫃台、房地產投資信託基金等納入港股通，積極支持香港推出國債期貨，豐富香港離岸人民幣風險管理工具，堅定支持香港鞏固提升國際金融中心地位，推動形成在岸與離岸協同發展良性互動新格局。
 
@@ -79,8 +87,8 @@ title,date,summary,scrape_time,section,source,url,news_content
 恒指競價時段跌10點,2025-11-04 09:24,,2025-11-04 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830016-20251104.htm,"港股在競價時段偏軟，恒生指數報26148點，跌10點，跌幅0.04%。
 
 科技指數報5911點，跌11點，跌幅0.19%。"
-人民幣兌美元中間價微跌,2025-11-04 09:19,,2025-11-04 09:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830015-20251104.htm,人民幣中間價報7.0885兌1美元，較上日中間價跌18點子。
 人民幣中間價創逾1周新低,2025-11-04 09:19,,2025-11-04 10:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830015-20251104.htm,人民幣中間價報7.0885兌1美元，較上日中間價跌18點子，創10月24日以來新低，與路透預測偏強約340點子。
+人民幣兌美元中間價微跌,2025-11-04 09:19,,2025-11-04 09:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830015-20251104.htm,人民幣中間價報7.0885兌1美元，較上日中間價跌18點子。
 十五運會｜男子U22籃球港隊紅館主場迎戰　爭取晉級八強,2025-11-04 09:04,,2025-11-04 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830014-20251104.htm,"十五運會籃球項目，按性別及年齡分不同組別作賽，香港賽區承辦其中的男子22歲以下組賽事，港隊將在紅磡香港體育館主場迎戰，並以晉級八強為目標。
  
 香港將派隊參加男、女子成年組，以及在本港舉行的男子22歲以下組賽事，屆時包括港隊在內，13隊將分成3個小組，每組首兩名，以及成績最好的兩隊小組第3名球隊，將會晉級八強。香港男子22歲以下籃球隊總監蔡芳裕，於1997年曾代表香港參加全運會籃球比賽，他當年曾與姚明對壘，表示在身高上難以對抗，而香港球員至今仍要克服身型差距，期望以靈活、聰明及團隊配合抗衡，並想藉今屆比賽向全國球迷展示港隊拼搏到底的鬥志，爭取勝出一場小組賽，以晉級八強。
@@ -103,14 +111,14 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 何立峰又說，香港一直廣泛深度參與全球經貿金融體系，在研究和推動完善全球金融治理中具備條件和優勢，希望香港更好發揮橋樑紐帶和窗口作用，積極參與全球金融治理研究和實踐，推動全球金融治理改革不斷取得新的進展。為構建和維護公平公正、開放包容、合作共贏的國際經濟秩序，促進全球經濟金融穩定發展貢獻智慧和力量，共同推動習近平提出的全球治理倡議變為美好的現實。"
 何立峰冀香港進一步主動深入對接十五五規劃,2025-11-04 09:02,,2025-11-04 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830011-20251104.htm, 
-進博會明起上海舉行　貿發局組織54間企業參展包括百年醬油品牌,2025-11-04 09:01,,2025-11-04 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830010-20251104.htm,"第八屆進博會明天起一連6日在上海舉行。香港貿發局組織54間企業參展，當中有本港百年醬油品牌首次參展，貿發局將首次在會場內設置直播室，鼓勵港商直播帶貨，以接觸內地龐大消費客群。
+進博會明起上海舉行　貿發局組織54間企業參展,2025-11-04 09:01,,2025-11-04 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830010-20251104.htm,"第八屆進博會明天起一連6日在上海舉行。香港貿發局組織54間企業參展，當中有本港百年醬油品牌首次參展，貿發局將首次在會場內設置直播室，鼓勵港商直播帶貨，以接觸內地龐大消費客群。
 
 貿發局華東首席代表呂劍接受本台訪問表示，今年在會場內設兩個香港館，其中在農食產品展區的香港食品館，以健康和美味為主題，有33間香港企業參展。至於在服務貿易展區的香港服務業展館，主題為科創賦能，有21間本港企業參展，當中創新科技企業及傳統優勢服務業大約各佔一半。今年參展的港商數量與去年相若，兩個展區面積合共1500平方米。
 
 呂劍表示，進博會是港商打開內地市場、獲得新訂單、結識新夥伴的好機會，亦可驅動它們不斷創新轉型升級。有參與的創新型企業有中大及理大背景，他說本港創新型科技企業需要在內地找到科研成果落地的機會，尋找更廣闊的應用場景。他透露，今屆有本港一間過百年的醬油公司首次進駐進博會，希望打入內地市場。
 
 呂劍表示，為協助港商更好接觸消費客群，貿發局首次在香港食品館搭建直播間，鼓勵本港參展商利用內地電商網絡，將由進博會會期第2日起一連5日做直播帶貨。貿發局同期會舉辦「香港：內地企業出海首選平台」推介大會，行政長官李家超預計會出席，向內地企業介紹本港優勢。他相信在可見將來仍有不確定性，貿發局要提前布局，協助企業把握機遇。"
-進博會明起上海舉行　貿發局組織54間企業參展,2025-11-04 09:01,,2025-11-04 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830010-20251104.htm,"第八屆進博會明天起一連6日在上海舉行。香港貿發局組織54間企業參展，當中有本港百年醬油品牌首次參展，貿發局將首次在會場內設置直播室，鼓勵港商直播帶貨，以接觸內地龐大消費客群。
+進博會明起上海舉行　貿發局組織54間企業參展包括百年醬油品牌,2025-11-04 09:01,,2025-11-04 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1830010-20251104.htm,"第八屆進博會明天起一連6日在上海舉行。香港貿發局組織54間企業參展，當中有本港百年醬油品牌首次參展，貿發局將首次在會場內設置直播室，鼓勵港商直播帶貨，以接觸內地龐大消費客群。
 
 貿發局華東首席代表呂劍接受本台訪問表示，今年在會場內設兩個香港館，其中在農食產品展區的香港食品館，以健康和美味為主題，有33間香港企業參展。至於在服務貿易展區的香港服務業展館，主題為科創賦能，有21間本港企業參展，當中創新科技企業及傳統優勢服務業大約各佔一半。今年參展的港商數量與去年相若，兩個展區面積合共1500平方米。
 
@@ -293,6 +301,11 @@ The S&P 500 gained 0.2 percent, to 6,851, while the Nasdaq put on 0.5 percent, t
 尼泊爾中部亞隆里峰雪崩最少7人遇難　仍有4人失蹤,2025-11-04 00:32,,2025-11-04 01:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829971-20251104.htm,"尼泊爾中部的亞隆里峰，當地星期一發生雪崩，最少7人遇難，仍然有人失蹤。
 
 尼泊爾警方表示，一支15人的登山隊伍，在位於多拉卡縣的亞隆里峰大本營遇到雪崩，救援人員已經尋獲7具遺體，包括5名外籍登山人士及2名尼泊爾嚮導，遇難的外籍登山人士，分別來自美國、意大利和加拿大。當局表示，另外有4人受傷，其餘4人下落不明。"
+羅馬市中心一座13世紀塔樓局部倒塌　最少4人受傷,2025-11-03 23:55,,2025-11-04 00:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829969-20251103.htm,"意大利首都羅馬市中心一座中世紀塔樓局部倒塌，最少4人受傷。
+
+事發在當地時間星期一，位於羅馬鬥獸場附近的孔蒂塔樓，進行翻新工程期間，局部倒塌，4名維修工人受傷、其中1人傷勢較重。消防人員到場救出維修工人時，塔樓發生第二次坍塌。
+
+網上片段見到，現場揚起大量塵土，有民眾圍觀。孔蒂塔樓高29米，在13世紀初建成。羅馬當局表示，孔蒂塔樓的翻新工程為期四年，原定明年完成，當局正在調查事故原因。"
 美國10月ISM製造業PMI跌至48.7　連續8個月收縮,2025-11-03 23:55,,2025-11-04 00:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829970-20251103.htm,"美國供應管理協會(ISM)公布，美國10月製造業採購經理指數(PMI)跌至48.7，低於9月的49.1，反映製造業活動連續8個月收縮，收縮速度亦加快；市場原先預期PMI升至49.5。
 
 新訂單分項指數由48.9升至49.4，但仍然低迷，過去9個月有8個月都處於收縮水平。
@@ -300,11 +313,6 @@ The S&P 500 gained 0.2 percent, to 6,851, while the Nasdaq put on 0.5 percent, t
 供應商交貨指數由52.6升至54.2，反映交貨速度放緩，由於關稅阻礙供應鏈。就業分項指數由46跌至45.3，就業狀況仍疲弱。
 
 另外，標普全球10月美國製造業PMI終值52.5，高於初值的52.2。"
-羅馬市中心一座13世紀塔樓局部倒塌　最少4人受傷,2025-11-03 23:55,,2025-11-04 00:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829969-20251103.htm,"意大利首都羅馬市中心一座中世紀塔樓局部倒塌，最少4人受傷。
-
-事發在當地時間星期一，位於羅馬鬥獸場附近的孔蒂塔樓，進行翻新工程期間，局部倒塌，4名維修工人受傷、其中1人傷勢較重。消防人員到場救出維修工人時，塔樓發生第二次坍塌。
-
-網上片段見到，現場揚起大量塵土，有民眾圍觀。孔蒂塔樓高29米，在13世紀初建成。羅馬當局表示，孔蒂塔樓的翻新工程為期四年，原定明年完成，當局正在調查事故原因。"
 中石油首次入股中移動　獲劃轉近4200萬股A股,2025-11-03 23:36,,2025-11-04 00:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829968-20251103.htm,"中移動公布，母公司中國移動集團擬通過國有股份劃轉方式，將手持的逾4198萬股中移動A股，劃轉給中國石油天然氣集團，相當於總股數的0.19%。
 
 今次是中石油集團首次入股中移動，中移動表示，可進一步加強雙方戰略協同，促進雙方在信息技術、智慧能源等領域合共發展，釋放數實融合新潛能。
@@ -522,16 +530,25 @@ Au said the centre will conduct whole genome sequencing to find out more about t
 包括皇崗、羅湖、港珠澳大橋等多個內地口岸，周三起推廣人臉識別通關，通行人士要先提供面相及指紋等資料。
 
 另外，內地當局亦擴大往來港澳人才簽注政策試點實施範圍至包括長三角、京津冀地區及全國所有自由貿易試驗區。"
-立法會選舉｜林智文與工程界別等代表會面呼籲投票,2025-11-03 18:11,,2025-11-03 20:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829938-20251103.htm,"立法會換屆選舉將於12月7日舉行，發展局副局長林智文分別於上周四及今日，與十多個工程界別及建測規園界別的公務員工會代表會面，呼籲大家投票。
-
-發展局在社交平台表示，林智文在會上鼓勵工會代表群策群力，呼籲各工會成員，在第八屆立法會選舉履行公民責任，踴躍投票，選出有能力、有擔當的新一屆立法會議員，為香港的發展和市民福祉作出貢獻。
-
-發展局會繼續約見不同工會代表。"
 林智文與工程界別等代表會面呼籲在立法會換屆選舉投票,2025-11-03 18:11,,2025-11-03 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829938-20251103.htm,"立法會換屆選舉將於12月7日舉行，發展局副局長林智文分別於上周四及今日，與十多個工程界別及建測規園界別的公務員工會代表會面，呼籲大家投票。
 
 發展局在社交平台表示，林智文在會上鼓勵工會代表群策群力，呼籲各工會成員，在第八屆立法會選舉履行公民責任，踴躍投票，選出有能力、有擔當的新一屆立法會議員，為香港的發展和市民福祉作出貢獻。
 
 發展局會繼續約見不同工會代表。"
+立法會選舉｜林智文與工程界別等代表會面呼籲投票,2025-11-03 18:11,,2025-11-03 20:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829938-20251103.htm,"立法會換屆選舉將於12月7日舉行，發展局副局長林智文分別於上周四及今日，與十多個工程界別及建測規園界別的公務員工會代表會面，呼籲大家投票。
+
+發展局在社交平台表示，林智文在會上鼓勵工會代表群策群力，呼籲各工會成員，在第八屆立法會選舉履行公民責任，踴躍投票，選出有能力、有擔當的新一屆立法會議員，為香港的發展和市民福祉作出貢獻。
+
+發展局會繼續約見不同工會代表。"
+團結香港基金稱內地新措施將打通內地核心經濟引擎間的人才流動,2025-11-03 18:09,,2025-11-03 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829937-20251103.htm,"國家移民管理局宣布10項擴大開放新措施，涉及擴大往來港澳人才簽注政策試點實施範圍、在部分與港澳台通航同行口岸推廣人臉識別通關，並增加廣東省5個口岸為240小時過境免簽政策入境口岸等。
+
+團結香港基金研究員王鐙淇表示，人才簽注政策原本在北京、上海、大灣區內地城市試點實施，將會拓展至長三角、京津冀和自貿試驗區，有關地區都是國家經濟發展和對外開放重點區域，將打通內地核心經濟引擎之間的人才流動，協助更高層次協同發展。而幾個地區有內地頂尖高校、科研機構或高新技術企業，正是本港目標人才所在地。
+
+對於新增羅湖、港珠澳大橋等口岸應用人臉識別通關，王鐙淇表示，早前深圳灣口岸應用有關技術時，當局表示通關時間壓縮至10秒，相信日後可改善旅客出行體驗和緩解關口擠迫的情況，尤其是便利每日往返兩地的跨境學童、上班族或頻繁進行商務活動人士，亦令民衆更願意在大型節日和周末等進行不同活動。
+
+至於港珠澳大橋、高鐵西九站等將新增為240小時過境免簽政策適用入境口岸。她表示，有助國際旅客將香港納入「一程多站」旅遊線路，因為以往需要申請簽證才能實現「大灣區+香港」深度遊，政策適用於55個國家的公民，未來有助吸引高消費長途旅客。
+
+王鐙淇又說，這些措施將於本月5日起，即十五運會開幕前實施，相信有助賽事順暢進行，因為預計屆時有大量人員在三地頻繁流動，但措施屬於更長遠和前瞻性部署，目的是提升本港競爭力。"
 HKMA banks on 2030 vision as token of fintech intent,2025-11-03 18:09,,2025-11-03 18:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829915-20251103.htm,"The Hong Kong Monetary Authority (HKMA) on Monday unveiled a fresh five-year blueprint, Fintech 2030, to drive the sector's growth and put in place a future-ready eco-system, with artificial intelligence and the tokenisation of traditional assets in focus.
 
 The plan was unveiled by HKMA Chief Executive Eddie Yue, who said a one-stop clearing and settlement service for tokenised money market funds could be rolled out by the end of the year as the first project under the new vision.
@@ -561,15 +578,6 @@ The HKMA, he added, has also been studying how to use blockchain technology to f
 ""We aim to enable more small and medium-sized enterprises to obtain corporate financing through this new platform and also help them go global.""
 
 In total, the new plan involves over 40 initiatives."
-團結香港基金稱內地新措施將打通內地核心經濟引擎間的人才流動,2025-11-03 18:09,,2025-11-03 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829937-20251103.htm,"國家移民管理局宣布10項擴大開放新措施，涉及擴大往來港澳人才簽注政策試點實施範圍、在部分與港澳台通航同行口岸推廣人臉識別通關，並增加廣東省5個口岸為240小時過境免簽政策入境口岸等。
-
-團結香港基金研究員王鐙淇表示，人才簽注政策原本在北京、上海、大灣區內地城市試點實施，將會拓展至長三角、京津冀和自貿試驗區，有關地區都是國家經濟發展和對外開放重點區域，將打通內地核心經濟引擎之間的人才流動，協助更高層次協同發展。而幾個地區有內地頂尖高校、科研機構或高新技術企業，正是本港目標人才所在地。
-
-對於新增羅湖、港珠澳大橋等口岸應用人臉識別通關，王鐙淇表示，早前深圳灣口岸應用有關技術時，當局表示通關時間壓縮至10秒，相信日後可改善旅客出行體驗和緩解關口擠迫的情況，尤其是便利每日往返兩地的跨境學童、上班族或頻繁進行商務活動人士，亦令民衆更願意在大型節日和周末等進行不同活動。
-
-至於港珠澳大橋、高鐵西九站等將新增為240小時過境免簽政策適用入境口岸。她表示，有助國際旅客將香港納入「一程多站」旅遊線路，因為以往需要申請簽證才能實現「大灣區+香港」深度遊，政策適用於55個國家的公民，未來有助吸引高消費長途旅客。
-
-王鐙淇又說，這些措施將於本月5日起，即十五運會開幕前實施，相信有助賽事順暢進行，因為預計屆時有大量人員在三地頻繁流動，但措施屬於更長遠和前瞻性部署，目的是提升本港競爭力。"
 本港新增一宗基孔肯雅熱本地個案　衞生防護中心稍後見傳媒,2025-11-03 17:43,,2025-11-03 18:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829930-20251103.htm,"衞生防護中心錄得一宗新增基孔肯雅熱本地個案。
 
 中心傳染病處主任歐家榮今晚下午7時15分會在青衣寮肚路花園見傳媒，公布個案詳情和政府跟進工作。
@@ -671,15 +679,6 @@ They include the possible introduction of smart surveillance systems to identify
 盈利上升，由於核心市場港澳旅客量持續增長帶動人流改善，加上營銷策略吸引客流，提升港澳交易宗數及銷售額。
 
 公司因應內地零售業態發展，關閉線下店舖，改為專注發展內地線上業務，加強盈利能力。"
-立法會選舉｜江旻憓報名參選旅遊界功能組別議席,2025-11-03 16:51,,2025-11-03 20:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829920-20251103.htm,"巴黎奧運女子個人重劍金牌得主江旻憓報名參選立法會旅遊界功能組別議席。
-
-江旻憓表示，期待有機會與業界呈現出香港最好一面，刷亮旅遊界金招牌，繼續為港爭光。她解釋參選原因時表示，初心一直是服務香港、回饋社會，從全職運動員退下後都沒有改變，一直在學校與小朋友說要有勇氣追夢，不要怕辛苦和累，一定要以身作則，講得出做得到。
-
-被問到自己與業界的關係，江旻憓表示，體育精神適用於所有界別，作為運動員四處比賽，有叫世界各地的人一定要來香港。她不做運動員後，希望繼續吸引更多人來港，形容香港超級有吸引力，全世界都應該來，與大家一樣熱愛這個城市。
-
-江旻憓又透露已經申請放棄加拿大護照，至於為何不參與地區直選，她說希望為旅遊業界出一分力，在工作上作更多貢獻。
-
-根據選舉事務處資料，旅遊界已報名參選的還有馬軼超。"
 江旻憓報名參選立法會旅遊界功能組別議席,2025-11-03 16:51,,2025-11-03 17:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829920-20251103.htm,"巴黎奧運女子個人重劍金牌得主江旻憓報名參選立法會旅遊界功能組別議席。
 
 江旻憓表示，期待有機會與業界呈現出香港最好一面，刷亮旅遊界金招牌，繼續為港爭光。她解釋參選原因時表示，初心一直是服務香港、回饋社會，從全職運動員退下後都沒有改變，一直在學校與小朋友說要有勇氣追夢，不要怕辛苦和累，一定要以身作則，講得出做得到。
@@ -689,6 +688,15 @@ They include the possible introduction of smart surveillance systems to identify
 江旻憓又透露已經申請放棄加拿大護照，至於為何不參與地區直選，她說希望為旅遊業界出一分力，在工作上作更多貢獻。
 
 根據選事務處資料，旅遊界已報名參選的還有馬軼超。"
+立法會選舉｜江旻憓報名參選旅遊界功能組別議席,2025-11-03 16:51,,2025-11-03 20:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829920-20251103.htm,"巴黎奧運女子個人重劍金牌得主江旻憓報名參選立法會旅遊界功能組別議席。
+
+江旻憓表示，期待有機會與業界呈現出香港最好一面，刷亮旅遊界金招牌，繼續為港爭光。她解釋參選原因時表示，初心一直是服務香港、回饋社會，從全職運動員退下後都沒有改變，一直在學校與小朋友說要有勇氣追夢，不要怕辛苦和累，一定要以身作則，講得出做得到。
+
+被問到自己與業界的關係，江旻憓表示，體育精神適用於所有界別，作為運動員四處比賽，有叫世界各地的人一定要來香港。她不做運動員後，希望繼續吸引更多人來港，形容香港超級有吸引力，全世界都應該來，與大家一樣熱愛這個城市。
+
+江旻憓又透露已經申請放棄加拿大護照，至於為何不參與地區直選，她說希望為旅遊業界出一分力，在工作上作更多貢獻。
+
+根據選舉事務處資料，旅遊界已報名參選的還有馬軼超。"
 港股高收251點　明略科技首日掛牌飆升逾1倍,2025-11-03 16:50,,2025-11-03 17:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829918-20251103.htm,"港股重上26000點關口，結束3日跌勢。恒生指數午後升幅擴大至最多310點，觸及26217點，收報26158點，升251點，升約1%，主板成交額減至約2287億元。
 
 科技指數報5922點，升14點，升幅0.24%。
@@ -800,6 +808,13 @@ By undergoing intensified treatment, including maintaining their blood pressure 
 Under the programme, patients will also be encouraged to exercise more frequently as part of a holistic approach to treatment on top of follow-up medical appointments.
 
 The team called on those interested to sign up on the programme's website."
+內地股市結束兩連跌　滬股高收近0.6%,2025-11-03 15:19,,2025-11-03 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829904-20251103.htm,"內地股市下午轉強，結束兩日跌勢。遊戲、文化傳媒、光伏設備、海南自貿區概念股造好；固態電池、能源、貴金屬股向下。
+
+上證指數扭轉早段跌幅，收報3976點，升21點，升幅0.55%。
+
+深證成份指數及創業板指數尾市亦轉升，深證成指報13404點，升25點，升幅0.19%。
+
+創業板指數收市報3196點，升9點，升幅0.29%。"
 日本秋田縣發生兩宗熊襲擊事件　兩人傷,2025-11-03 15:19,,2025-11-03 15:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829906-20251103.htm,"日本再發生熊襲擊人事件，秋田縣分別發生兩宗，造成兩人受傷。
 
 報道說，秋田市一名60多歲的男子在家中受到熊襲擊受傷。
@@ -813,13 +828,6 @@ The team called on those interested to sign up on the programme's website."
 在宮城縣，由於熊襲擊造成的破壞日益嚴重，而且目擊熊出沒的事件增多，民眾避開當地一個著名渡假設施。
 
 這間位於白石市的渡假設施，通常在每年這個時候都吸引大量露營車。但今年的遊客數量跌了約30%。經營者表示，自9月以來，已有約20個預訂被取消。他們已關閉靠近山區的部分區域，並在養魚的水池周圍設置電圍欄。"
-內地股市結束兩連跌　滬股高收近0.6%,2025-11-03 15:19,,2025-11-03 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829904-20251103.htm,"內地股市下午轉強，結束兩日跌勢。遊戲、文化傳媒、光伏設備、海南自貿區概念股造好；固態電池、能源、貴金屬股向下。
-
-上證指數扭轉早段跌幅，收報3976點，升21點，升幅0.55%。
-
-深證成份指數及創業板指數尾市亦轉升，深證成指報13404點，升25點，升幅0.19%。
-
-創業板指數收市報3196點，升9點，升幅0.29%。"
 渣打：香港被視為數字經濟試驗田　滙控：香港屬金融科技創新中心,2025-11-03 15:06,,2025-11-03 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829902-20251103.htm,"渣打行政總裁溫拓思指出，香港在人民幣國際化、中國貿易國際化、「一帶一路」融資等方面都發揮重要作用，香港亦被視為數字經濟及內地走向世界的試驗田。他認為，中國作為世界工廠的地位未來仍將保持一段時間，提到香港推動穩定幣等虛擬資產發展，能成為國際貿易媒介。 
 
 滙控行政總裁艾橋智就提到，集團早前宣布斥資逾千億元私有化恒生銀行，反映對香港金融與科技前景的信心，認為香港能連結創新、資本與監管的生態，是全球主要金融科技創新中心。
@@ -837,12 +845,12 @@ The team called on those interested to sign up on the programme's website."
 出席同一場合的螞蟻集團董事長井賢棟就指出，香港對於內地而言，確實是一個「走出去」重要樞紐，集團在香港一直進行大量投資，並透過香港與世界其他地區建立聯繫及拓展業務。
 
 他又提到，特區政府最近宣布成立「內地企業出海專班」，認為對所有人都是好消息，認為內地企業應把握機會，借助香港優勢走向全球。"
-韓股高收約2.8%　突破4200點再創新高,2025-11-03 14:40,,2025-11-03 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829898-20251103.htm,"南韓股市突破4200點關口，持續創新高。
-
-首爾綜合指數以接近全日高位收市，收報4221點，升114點，升幅2.78%。"
 台股創新高　全日升約0.4%,2025-11-03 14:40,,2025-11-03 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829897-20251103.htm,"台灣股市在11月首個交易日創新高。
 
 加權指數日內高位迫近28500點水平，收報28334點，升101點，升幅0.36%。"
+韓股高收約2.8%　突破4200點再創新高,2025-11-03 14:40,,2025-11-03 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829898-20251103.htm,"南韓股市突破4200點關口，持續創新高。
+
+首爾綜合指數以接近全日高位收市，收報4221點，升114點，升幅2.78%。"
 陳茂波：外圍環境充滿挑戰下對香港角色依然樂觀,2025-11-03 14:39,,2025-11-03 14:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829899-20251103.htm,"財政司司長陳茂波出席金融科技周活動時指，面對地緣政治及氣候變遷，認為香港未來角色是一個雙向平台，除了全球企業可透過香港進入內地，亦可協助內地企業走向國際，實現產業鏈和供應鏈多元化，本港可提供資金外，亦可提供風險管理和海外業務拓展指導等專業服務，強調面對當前充滿挑戰的外圍環境，他對香港扮演的角色依然保持樂觀。 
 
 陳茂波又說，中東和東南亞企業來港上市，可獲取國際及內地資金，對提升這些企業流動性和估值具有吸引力，未來將繼續對外宣傳本港優勢。"
@@ -862,14 +870,14 @@ The team called on those interested to sign up on the programme's website."
 根據節目的文字版本，特朗普回應會否容許Nvidia向中國出售最先進晶片時說不會，但是會讓中國和他們交易，中國不會獲得最先進的晶片。特朗普認為，中國未必會贏得人工智能競賽，但肯定會擁有和美國同等的優勢。
 
 特朗普的言論暗示，美國對尖端人工智能晶片的限制，可能比美國官員先前提到的更為嚴格。"
-"Mega bridge, fast-rail station to be visa-free ports",2025-11-03 14:13,,2025-11-03 14:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829893-20251103.htm,"The National Immigration Administration announced on Monday that the country's 240-hour visa-free transit program will be expanded to five more ports in Guangdong as part of China's latest efforts to further deepen its opening-up policy.
+"Mega bridge, W Kowloon station to be visa-free ports",2025-11-03 14:13,,2025-11-03 15:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829893-20251103.htm,"The National Immigration Administration announced on Monday that the country's 240-hour visa-free transit programme will be expanded to five more ports in Guangdong as part of China's latest efforts to further deepen its opening-up policy.
 
 Three of the new ports are located in Guangzhou, Zhuhai's Hengqin and Zhongshan, along with the Hong Kong-Zhuhai-Macau Bridge and the West Kowloon station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link.
 
 The new policy, effective on Wednesday, will raise the total number of ports eligible for the 240-hour visa-free transit from 60 to 65.
 
 Travellers from 55 eligible countries who meet certain criteria can enter China through any of the 65 ports across 24 provincial-level regions and stay in the country for up to 240 hours, or 10 days, without a visa before heading to a third destination, according to the agency. (Xinhua)"
-"Mega bridge, W Kowloon station to be visa-free ports",2025-11-03 14:13,,2025-11-03 15:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829893-20251103.htm,"The National Immigration Administration announced on Monday that the country's 240-hour visa-free transit programme will be expanded to five more ports in Guangdong as part of China's latest efforts to further deepen its opening-up policy.
+"Mega bridge, fast-rail station to be visa-free ports",2025-11-03 14:13,,2025-11-03 14:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829893-20251103.htm,"The National Immigration Administration announced on Monday that the country's 240-hour visa-free transit program will be expanded to five more ports in Guangdong as part of China's latest efforts to further deepen its opening-up policy.
 
 Three of the new ports are located in Guangzhou, Zhuhai's Hengqin and Zhongshan, along with the Hong Kong-Zhuhai-Macau Bridge and the West Kowloon station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link.
 
@@ -1072,19 +1080,6 @@ As for buses, he said, companies had already been installing seat belts in vehic
 陸磊指，深化跨境二維碼支付互聯互通，近期人行組織建成跨境二維碼統一網關，作為對外開展跨境二維碼支付合作的統一接口，進一步為兩地機構開展跨境二維碼支付合作提供便利。
 
 他表示，未來將運用數字人民幣探索跨境支付新方案，包括推動多邊央行數字貨幣橋合作，探索跨境支付新範式；依托數字人民幣跨境支付平台，為央行數字貨幣跨境支付合作提供中國方案；並構建區塊鏈加數字資產雙平台，激活價值互聯網新引擎。"
-Contractor suspended after fatal construction accident,2025-11-03 11:22,,2025-11-03 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829857-20251103.htm,"The Labour Department said it was deeply concerned over a fatal accident at a construction site in Sau Mau Ping on Sunday afternoon.
-
-A male worker fell from height while erecting a bamboo scaffold on the external wall of a building under construction and was pronounced dead at the scene.
-
-The department said it immediately launched an on-site investigation and issued suspension notices to the contractors, halting all scaffolding work until safety measures are in place.
-
-""We will complete the investigation as soon as possible to identify the cause of the accident, ascertain the liability of the duty holders and recommend improvement measures,"" a spokesman said.
-
-""We will take actions pursuant to the law if there is any violation of the work safety legislation."" 
-
-The department said legal action would be taken if any work safety laws had been violated.
-
-The Housing Society, which owns the construction site, said it had gained approval by authorities to carry out non-noisy work on public holidays."
 Contractor suspended from tendering after fatal case,2025-11-03 11:22,,2025-11-03 16:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829857-20251103.htm,"The Development Bureau on Monday suspended the contractor involved in a fatal industrial accident in Sau Mau Ping the day before from tendering for government works contracts.
 
 According to the bureau, the contractor has to conduct an independent safety audit to review its safety management system. 
@@ -1123,26 +1118,16 @@ The department said legal action would be taken if any work safety laws had been
 The Housing Society, which owns the construction site, said it had gained approval by authorities to carry out non-noisy work on public holidays.
 _____________________________
 Last updated: 2025-11-03 HKT 15:55"
-亞投行宣布計劃在港設立辦事處　特區政府表示歡迎,2025-11-03 11:08,,2025-11-03 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829865-20251103.htm,"亞洲基礎設施投資銀行宣布計劃在港設立辦事處，以滿足不斷增長的業務需要。香港特區政府歡迎有關決定，並表示會全力協助亞投行進一步推動亞洲基礎設施的可持續發展。
- 
-財經事務及庫務局局長許正宇說，行政長官在《施政報告》中提出會積極爭取亞投行在港設立辦公室。現在迎來亞投行決定在港設立辦事處的好消息，當局會積極配合亞投行的需要，提供支援。作為亞投行成員，中國香港一直致力協助亞投行充分利用本港蓬勃的資本市場、世界級的專業服務和多元化的金融產品，以支持該行在項目融資、發債、投資及財務管理等方面的運作。香港會繼續在發揮一國兩制下，內聯外通的獨特優勢，為亞投行長遠發展作出積極貢獻。
- 
-亞投行成立於2016年1月，中國香港於2017年6月正式成為亞投行成員。亞投行是一所多邊發展銀行，宗旨是通過在基礎設施和其他生產性領域的投資，促進經濟可持續發展、創造財富，以及改善亞洲基礎設施互聯互通。此外，亞投行鼓勵私營資本參與投資有利於區域經濟發展的項目、企業和活動。"
-明年1月25日起如公共交通工具座位已裝安全帶乘客須佩戴,2025-11-03 11:05,,2025-11-03 12:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829864-20251103.htm,"運輸署提醒市民，明年1月25日起，所有新登記的公共交通工具和商用車輛的乘客座位都要安裝安全帶。如座位已安裝安全帶，無論車輛是否新登記，乘客都要佩戴。如果違反規定，最高可判罰款5000元及監禁3個月。
+Contractor suspended after fatal construction accident,2025-11-03 11:22,,2025-11-03 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1829857-20251103.htm,"The Labour Department said it was deeply concerned over a fatal accident at a construction site in Sau Mau Ping on Sunday afternoon.
 
-涉及的車輛包括專營巴士、小巴、學生服務車輛、貨車及特別用途車輛。運輸署說，所有新購買的巴士自2018年7月起，已於所有座位安裝安全帶，營辦商已為約1900輛現有巴士的所有上層座位加裝安全帶。為加強保障學童及平衡業界的營運需要，現有的學生服務車輛須於2028年12月31日前，在所有乘客座位加裝安全帶及保護式座椅，如未符合規定，將不可接載學生。
+A male worker fell from height while erecting a bamboo scaffold on the external wall of a building under construction and was pronounced dead at the scene.
 
-運輸署助理署長區家傑在本台節目《千禧年代》被問到，如果學童在校巴沒有戴安全帶的法律責任，區家傑表示，誰是座位乘客就有相關法律責任，因此如果學童沒有戴安全帶就是學童的責任。但他強調小學及幼稚園校巴需要有保母跟車，保母在行車期間要看管好學童，確保有戴安全帶。而學童自小接受戴安全帶的教育，他們都很注重。他又說，學生服務車輛須於2028年12月31日前加裝安全帶，估計屆時少於5%有關車輛不符要求要退役。
+The department said it immediately launched an on-site investigation and issued suspension notices to the contractors, halting all scaffolding work until safety measures are in place.
 
-區家傑提到，政府一直推動專營巴士要準備好配合法例要求，新購買的巴士已安裝安全帶。至於企位乘客，他說已有其他方法保障安全，包括設有扶手，及設有高磨擦度的地板以便站穩。他補充說，研究顯示，戴安全帶有助減低在迎頭相撞意外中的死亡和重傷風險分別約四成和七成。
+""We will complete the investigation as soon as possible to identify the cause of the accident, ascertain the liability of the duty holders and recommend improvement measures,"" a spokesman said.
 
-另外，明年1月25日起，司機駕駛時不可在前方位置，放置多於兩部流動電訊裝置，包括手提電話、平板或手提電腦，有關裝置的屏幕對角長度不可超過19厘米。"
-明年1月25日起如公共交通公具座位已裝安全帶乘客須佩戴,2025-11-03 11:05,,2025-11-03 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1829864-20251103.htm,"運輸署提醒市民，明年1月25日起，所有新登記的公共交通工具和商用車輛的乘客座位都要安裝安全帶。如座位已安裝安全帶，無論車輛是否新登記，乘客都要佩戴。如果違反規定，最高可判罰款5000元及監禁3個月。
+""We will take actions pursuant to the law if there is any violation of the work safety legislation."" 
 
-涉及的車輛包括專營巴士、小巴、學生服務車輛、貨車及特別用途車輛。運輸署說，所有新購買的巴士自2018年7月起，已於所有座位安裝安全帶，營辦商已為約1900輛現有巴士的所有上層座位加裝安全帶。為加強保障學童及平衡業界的營運需要，現有的學生服務車輛須於2028年12月31日前，在所有乘客座位加裝安全帶及保護式座椅，如未符合規定，將不可接載學生。
+The department said legal action would be taken if any work safety laws had been violated.
 
-運輸署助理署長區家傑在本台節目《千禧年代》被問到，如果學童在校巴沒有戴安全帶的法律責任，區家傑表示，誰是座位乘客就有相關法律責任，因此如果學童沒有戴安全帶就是學童的責任。但他強調小學及幼稚園校巴需要有保母跟車，保母在行車期間要看管好學童，確保有戴安全帶。而學童自小接受戴安全帶的教育，他們都很注重。他又說，學生服務車輛須於2028年12月31日前加裝安全帶，估計屆時少於5%有關車輛不符要求要退役。
-
-區家傑提到，政府一直推動專營巴士要準備好配合法例要求，新購買的巴士已安裝安全帶。至於企位乘客，他說已有其他方法保障安全，包括設有扶手，及設有高磨擦度的地板以便站穩。他補充說，研究顯示，戴安全帶有助減低在迎頭相撞意外中的死亡和重傷風險分別約四成和七成。
-
-另外，明年1月25日起，司機駕駛時不可在前方位置，放置多於兩部流動電訊裝置，包括手提電話、平板或手提電腦，有關裝置的屏幕對角長度不可超過19厘米。"
+The Housing Society, which owns the construction site, said it had gained approval by authorities to carry out non-noisy work on public holidays."
