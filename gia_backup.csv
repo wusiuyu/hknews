@@ -1,9 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-數個泳灘懸掛紅旗,2025-11-08 09:30,2025-11-08 10:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/08/P2025110800211.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（十一月八日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘及大浪灣泳灘；西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flags hoisted at some beaches,2025-11-08 09:30,2025-11-08 10:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/08/P2025110800220.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -11,6 +6,11 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (November 8) that due to big waves, red flags have been hoisted at Stanley Main Beach and Big Wave Bay Beach in Southern District, Hong Kong Island; Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches."
+數個泳灘懸掛紅旗,2025-11-08 09:30,2025-11-08 10:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/08/P2025110800211.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（十一月八日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘及大浪灣泳灘；西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 分區賣旗日,2025-11-08 06:00,2025-11-08 06:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/08/P2025110700337.htm,"社會福利署（社署）發言人表示，三個慈善團體獲發公開籌款許可證於今日（十一月八日）由上午七時至下午十二時三十分，分別在港島（The Royal British Legion（Hong Kong & China Branch）（沒有中文註冊名稱））、九龍（深青社有限公司）及新界（恩光社會服務中心有限公司）三區同時進行賣旗活動。
 
 為了確保分區賣旗日順利進行，該署已與有關賣旗團體作出安排，方便市民識別當日同時進行的三個分區賣旗活動。
@@ -87,7 +87,7 @@ Blue
  Details of the charitable fund-raising activities, including any updated information, covered by the issued Public Subscription Permits have been published on the GovHK website (www.gov.hk/en/theme/fundraising/search). Permits for flag days containing information on contact methods of the flag-selling organisations and the approved flag-selling activities have also been uploaded to the SWD's website (www.swd.gov.hk/en/ngo/controlofc/flagdays) for reference. For enquiries, please call the SWD's hotline at 2343 2255, or the designated hotline of the 1823 Call Centre at 3142 2678.
 
  In the case of suspected fraudulent flag day activities, people should not make any donation and should immediately report the matter to the Police, the spokesman added."
-Speech by FS at Gala Dinner of Italian Chamber of Commerce in Hong Kong and Macao (English only),2025-11-07 21:57,2025-11-07 22:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700869.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at theGala Dinner of the Italian Chamber of Commerce in Hong Kong and Macao today (November 7):
+Speech by FS at Gala Dinner of Italian Chamber of Commerce in Hong Kong and Macao (English only) (with photos),2025-11-07 21:57,2025-11-07 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700869.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at theGala Dinner of the Italian Chamber of Commerce in Hong Kong and Macao today (November 7):
 
 Ambassador Ambrosetti (Ambassador of Italy to China, Mr Massimo Ambrosetti),Consul General Ficarra (Consul General of Italy to Hong Kong and Macao, Mr Carmelo Ficarra), Ambassador Harvey Rouse (Head of the European Union Office to Hong Kong and Macao), Mr Davide De Rosa (President of the Italian Chamber of Commerce in Hong Kong and Macao), distinguished guests, ladies and gentlemen,
 
@@ -128,7 +128,7 @@ Before I close, allow me to express my heartfelt gratitude to the Italian Chambe
 May your businesses flourish, your connections grow stronger, and may our friendship continue to deepen and thrive.
 
 Grazie. Thank you."
-Speech by FS at Gala Dinner of Italian Chamber of Commerce in Hong Kong and Macao (English only) (with photos),2025-11-07 21:57,2025-11-07 23:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700869.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at theGala Dinner of the Italian Chamber of Commerce in Hong Kong and Macao today (November 7):
+Speech by FS at Gala Dinner of Italian Chamber of Commerce in Hong Kong and Macao (English only),2025-11-07 21:57,2025-11-07 22:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700869.htm,"Following is the speech by the Financial Secretary, Mr Paul Chan, at theGala Dinner of the Italian Chamber of Commerce in Hong Kong and Macao today (November 7):
 
 Ambassador Ambrosetti (Ambassador of Italy to China, Mr Massimo Ambrosetti),Consul General Ficarra (Consul General of Italy to Hong Kong and Macao, Mr Carmelo Ficarra), Ambassador Harvey Rouse (Head of the European Union Office to Hong Kong and Macao), Mr Davide De Rosa (President of the Italian Chamber of Commerce in Hong Kong and Macao), distinguished guests, ladies and gentlemen,
 
@@ -325,80 +325,6 @@ Closing
 Thank you once again for the invitation to join you this evening. I extend my heartfelt appreciation to all of you for your dedication to the profession and Hong Kong. Let us put our minds and hearts together to build a more inclusive, sustainable and resilient future for the profession, for Hong Kong and for the country.
 
 I wish you all an enjoyable evening, and continued good health, prosperity and success in the year ahead. Thank you."
-Speech by FS at Elevator Pitch International Competition 2025 (English only) (with photos/video),2025-11-07 20:36,2025-11-07 21:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700818.htm," Following is the speech by the Financial Secretary, Mr Paul Chan, at the Elevator Pitch International Competition (EPIC) 2025 today (November 7):
-
-Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), Consuls-general, judges, innovators from around the world, ladies and gentlemen,
-
- Good afternoon. What a pleasure to be back with you at this year's EPIC.
-
- My congratulations to the winners in each of the three tracks. And in just a minute or two, we'll find out who takes the overall champion. I promise to keep my remarks brief. I know the suspense is building.
-
- This is the ninth edition of EPIC — and my third time joining you. Yet each year, I find myself more amazed, more inspired and more energised by the creativity, passion and ambition in this room.
-
- Today, as I look out at a thousand innovators, entrepreneurs, investors and partners from all over the world, one thing is crystal clear: EPIC has grown into an iconic global innovation contest.
-
- The numbers speak for themselves. Applications come from 70 economies, including 12 new ones. And 85 per cent of the 100 semi-finalists are non-local start-ups. This is the most globally diverse edition of EPIC ever.
-
- And the beauty of EPIC isn't just about crowning winners. It's about giving you — the founders, the dreamers — a stage to share your ideas, your ambitions, and your vision for the future.
-
- And here in Hong Kong, we want to help you realise that.
-
- We have a deep pool of angel investors and venture capitalists, ready to consider high-potential ventures.
-
- And not just that. From private equity to IPOs, Hong Kong offers a full spectrum of financial options to fuel your journey. You may know that Hong Kong tops the world in IPOs so far this year.
-
- Our innovation landscape is also buzzing. We now have over 4 700 startups. That's 500 more compared to one year ago.
-
- We're building a stronger innovation and industry chain from the upstream to the downstream. And we're fast-tracking the development of the Northern Metropolis, the future innovation engine of Hong Kong.
-
- The Northern Metropolis will be a launchpad for global innovation companies. It is a hub for collaboration with cities like Shenzhen and Guangzhou — which, together with Hong Kong, form the world's number one most innovative cluster according to the World Intellectual Property Organization.
-
- Ladies and gentlemen, when you come to Hong Kong, please don't just work. Let's not forget that life in Hong Kong is pretty good. Apart from excellent law and order, endless cultural and sports events. Beautiful country parks and hiking trails. Happy dining and pubbing. Home to the best bar in the world. And we don't tax wine!So enjoy!
-
- So wherever you're from, I invite you to join us here in Hong Kong, where your dreams will take off.
-
- A big thank you to Science Park and all sponsors, judges and partners who have made this competition amazing.
-
- And one last note. To friends from the local community: remember to mark your diary on December 7 for the LegCo Election. It's important for our future .
-
- Thank you all once again — and now, to the announcement of the champion!"
-Speech by FS at Elevator Pitch International Competition 2025 (English only) (with photos),2025-11-07 20:36,2025-11-07 21:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700818.htm," Following is the speech by the Financial Secretary, Mr Paul Chan, at the Elevator Pitch International Competition (EPIC) 2025 today (November 7):
-
-Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), Consuls-general, judges, innovators from around the world, ladies and gentlemen,
-
- Good afternoon. What a pleasure to be back with you at this year's EPIC.
-
- My congratulations to the winners in each of the three tracks. And in just a minute or two, we'll find out who takes the overall champion. I promise to keep my remarks brief. I know the suspense is building.
-
- This is the ninth edition of EPIC — and my third time joining you. Yet each year, I find myself more amazed, more inspired and more energised by the creativity, passion and ambition in this room.
-
- Today, as I look out at a thousand innovators, entrepreneurs, investors and partners from all over the world, one thing is crystal clear: EPIC has grown into an iconic global innovation contest.
-
- The numbers speak for themselves. Applications come from 70 economies, including 12 new ones. And 85 per cent of the 100 semi-finalists are non-local start-ups. This is the most globally diverse edition of EPIC ever.
-
- And the beauty of EPIC isn't just about crowning winners. It's about giving you — the founders, the dreamers — a stage to share your ideas, your ambitions, and your vision for the future.
-
- And here in Hong Kong, we want to help you realise that.
-
- We have a deep pool of angel investors and venture capitalists, ready to consider high-potential ventures.
-
- And not just that. From private equity to IPOs, Hong Kong offers a full spectrum of financial options to fuel your journey. You may know that Hong Kong tops the world in IPOs so far this year.
-
- Our innovation landscape is also buzzing. We now have over 4 700 startups. That's 500 more compared to one year ago.
-
- We're building a stronger innovation and industry chain from the upstream to the downstream. And we're fast-tracking the development of the Northern Metropolis, the future innovation engine of Hong Kong.
-
- The Northern Metropolis will be a launchpad for global innovation companies. It is a hub for collaboration with cities like Shenzhen and Guangzhou — which, together with Hong Kong, form the world's number one most innovative cluster according to the World Intellectual Property Organization.
-
- Ladies and gentlemen, when you come to Hong Kong, please don't just work. Let's not forget that life in Hong Kong is pretty good. Apart from excellent law and order, endless cultural and sports events. Beautiful country parks and hiking trails. Happy dining and pubbing. Home to the best bar in the world. And we don't tax wine!So enjoy!
-
- So wherever you're from, I invite you to join us here in Hong Kong, where your dreams will take off.
-
- A big thank you to Science Park and all sponsors, judges and partners who have made this competition amazing.
-
- And one last note. To friends from the local community: remember to mark your diary on December 7 for the LegCo Election. It's important for our future .
-
- Thank you all once again — and now, to the announcement of the champion!"
 Speech by FS at Elevator Pitch International Competition 2025 (English only),2025-11-07 20:36,2025-11-07 20:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700818.htm," Following is the speech by the Financial Secretary, Mr Paul Chan, at the Elevator Pitch International Competition (EPIC) 2025 today (November 7):
 
 Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), Consuls-general, judges, innovators from around the world, ladies and gentlemen,
@@ -443,6 +369,80 @@ Ling Chi-sing, aged 77, went missing after he was last seen on Yan Po Road on No
 He is about 1.7 metres tall, 56 kilograms in weight and of thin build. He has a round face with yellow complexion and short black hair. He was last seen wearing a blue and white checkered long sleeve shirt, blue jeans, black shoes, black cap, a pair of black-framed glasses, carrying a black waist bag and black backpack, and holding a walking stick.
 
 Anyone who knows the whereabouts of the missing man or may have seen him is urged to contact the Regional Missing Persons Unit of New Territories North on 3661 3127 or email to rmpu-ntn-1@police.gov.hk, or contact any police station."
+Speech by FS at Elevator Pitch International Competition 2025 (English only) (with photos),2025-11-07 20:36,2025-11-07 21:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700818.htm," Following is the speech by the Financial Secretary, Mr Paul Chan, at the Elevator Pitch International Competition (EPIC) 2025 today (November 7):
+
+Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), Consuls-general, judges, innovators from around the world, ladies and gentlemen,
+
+ Good afternoon. What a pleasure to be back with you at this year's EPIC.
+
+ My congratulations to the winners in each of the three tracks. And in just a minute or two, we'll find out who takes the overall champion. I promise to keep my remarks brief. I know the suspense is building.
+
+ This is the ninth edition of EPIC — and my third time joining you. Yet each year, I find myself more amazed, more inspired and more energised by the creativity, passion and ambition in this room.
+
+ Today, as I look out at a thousand innovators, entrepreneurs, investors and partners from all over the world, one thing is crystal clear: EPIC has grown into an iconic global innovation contest.
+
+ The numbers speak for themselves. Applications come from 70 economies, including 12 new ones. And 85 per cent of the 100 semi-finalists are non-local start-ups. This is the most globally diverse edition of EPIC ever.
+
+ And the beauty of EPIC isn't just about crowning winners. It's about giving you — the founders, the dreamers — a stage to share your ideas, your ambitions, and your vision for the future.
+
+ And here in Hong Kong, we want to help you realise that.
+
+ We have a deep pool of angel investors and venture capitalists, ready to consider high-potential ventures.
+
+ And not just that. From private equity to IPOs, Hong Kong offers a full spectrum of financial options to fuel your journey. You may know that Hong Kong tops the world in IPOs so far this year.
+
+ Our innovation landscape is also buzzing. We now have over 4 700 startups. That's 500 more compared to one year ago.
+
+ We're building a stronger innovation and industry chain from the upstream to the downstream. And we're fast-tracking the development of the Northern Metropolis, the future innovation engine of Hong Kong.
+
+ The Northern Metropolis will be a launchpad for global innovation companies. It is a hub for collaboration with cities like Shenzhen and Guangzhou — which, together with Hong Kong, form the world's number one most innovative cluster according to the World Intellectual Property Organization.
+
+ Ladies and gentlemen, when you come to Hong Kong, please don't just work. Let's not forget that life in Hong Kong is pretty good. Apart from excellent law and order, endless cultural and sports events. Beautiful country parks and hiking trails. Happy dining and pubbing. Home to the best bar in the world. And we don't tax wine!So enjoy!
+
+ So wherever you're from, I invite you to join us here in Hong Kong, where your dreams will take off.
+
+ A big thank you to Science Park and all sponsors, judges and partners who have made this competition amazing.
+
+ And one last note. To friends from the local community: remember to mark your diary on December 7 for the LegCo Election. It's important for our future .
+
+ Thank you all once again — and now, to the announcement of the champion!"
+Speech by FS at Elevator Pitch International Competition 2025 (English only) (with photos/video),2025-11-07 20:36,2025-11-07 21:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700818.htm," Following is the speech by the Financial Secretary, Mr Paul Chan, at the Elevator Pitch International Competition (EPIC) 2025 today (November 7):
+
+Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), Consuls-general, judges, innovators from around the world, ladies and gentlemen,
+
+ Good afternoon. What a pleasure to be back with you at this year's EPIC.
+
+ My congratulations to the winners in each of the three tracks. And in just a minute or two, we'll find out who takes the overall champion. I promise to keep my remarks brief. I know the suspense is building.
+
+ This is the ninth edition of EPIC — and my third time joining you. Yet each year, I find myself more amazed, more inspired and more energised by the creativity, passion and ambition in this room.
+
+ Today, as I look out at a thousand innovators, entrepreneurs, investors and partners from all over the world, one thing is crystal clear: EPIC has grown into an iconic global innovation contest.
+
+ The numbers speak for themselves. Applications come from 70 economies, including 12 new ones. And 85 per cent of the 100 semi-finalists are non-local start-ups. This is the most globally diverse edition of EPIC ever.
+
+ And the beauty of EPIC isn't just about crowning winners. It's about giving you — the founders, the dreamers — a stage to share your ideas, your ambitions, and your vision for the future.
+
+ And here in Hong Kong, we want to help you realise that.
+
+ We have a deep pool of angel investors and venture capitalists, ready to consider high-potential ventures.
+
+ And not just that. From private equity to IPOs, Hong Kong offers a full spectrum of financial options to fuel your journey. You may know that Hong Kong tops the world in IPOs so far this year.
+
+ Our innovation landscape is also buzzing. We now have over 4 700 startups. That's 500 more compared to one year ago.
+
+ We're building a stronger innovation and industry chain from the upstream to the downstream. And we're fast-tracking the development of the Northern Metropolis, the future innovation engine of Hong Kong.
+
+ The Northern Metropolis will be a launchpad for global innovation companies. It is a hub for collaboration with cities like Shenzhen and Guangzhou — which, together with Hong Kong, form the world's number one most innovative cluster according to the World Intellectual Property Organization.
+
+ Ladies and gentlemen, when you come to Hong Kong, please don't just work. Let's not forget that life in Hong Kong is pretty good. Apart from excellent law and order, endless cultural and sports events. Beautiful country parks and hiking trails. Happy dining and pubbing. Home to the best bar in the world. And we don't tax wine!So enjoy!
+
+ So wherever you're from, I invite you to join us here in Hong Kong, where your dreams will take off.
+
+ A big thank you to Science Park and all sponsors, judges and partners who have made this competition amazing.
+
+ And one last note. To friends from the local community: remember to mark your diary on December 7 for the LegCo Election. It's important for our future .
+
+ Thank you all once again — and now, to the announcement of the champion!"
 警方呼籲市民提供屯門失蹤男子消息（附圖）,2025-11-07 20:30,2025-11-07 20:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700821.htm,"警方今日（十一月七日）呼籲市民提供一名在屯門失蹤男子的消息。
 
 七十七歲男子凌志成於十一月五日下午在屯門欣寶路最後露面後便告失蹤，其家人於昨日（十一月六日）向警方報案。
@@ -851,17 +851,6 @@ A CFS spokesman said that Hong Kong has currently established a protocol with Ir
 CS to depart for Guangzhou,2025-11-07 19:00,2025-11-07 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700570.htm,"  The Chief Secretary for Administration, Mr Chan Kwok-ki, will depart for Guangzhou tomorrow (November 8) to attend a press conference on preparations for the 15th National Games (NG) held by the Organising Committee of the 15th NG, as well as the second plenary meeting of the Organising Committee and the second meeting of heads of delegations on the following day. The Head of the National Games Coordination Office (Hong Kong), Mr Yeung Tak-keung, will join him.
 
   Mr Chan will return to Hong Kong on November 9."
-Hong Kong Customs conducts interdepartmental anti-illicit cigarette publicity activities in Eastern District (with photos),2025-11-07 18:50,2025-11-07 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700725.htm,"Hong Kong Customs today (November 7) conducted a joint anti-illicit cigarette publicity campaign with members of the Eastern District Council, the Tobacco and Alcohol Control Office (TACO) of the Department of Health, the Police and the Housing Department (HD) at Hing Wah (1) Estate and Yiu Tung Estate in Eastern District, and to publicise the duty stamp system.
-
-Customs officers distributed promotional items and explained anti-illicit cigarette messages to residents, as well as introduced the new penalties for offences related to illicit cigarettes, including the penalty increase for offences of failing to declare to Customs officers compoundable under the Dutiable Commodities Ordinance (DCO) from $2,000 to $5,000 and the enhanced maximum penalty for relevant offences relating to duty-not-paid tobacco from a $1 million fine and two-year imprisonment to a $2 million fine and seven-year imprisonment.
-
-Customs officers also explained to the district councillors and residents that a duty stamp system will be implemented to help distinguish between duty-paid and duty-not-paid cigarettes.The first phase of the system is planned to be implemented in the fourth quarter of 2026, followed by full implementation in the second quarter of 2027. Hong Kong Customs launched a three-month pilot run for the duty stamp system on October 6, which aims to evaluate its effectiveness and feasibility, as well as to promote industry and public awareness of the key features of the system that enable them to prepare for related compliance in advance.
-
-Customs will continue to strengthen publicity and education to raise public awareness of anti-illicit cigarettes. If public rental housing units are found to be involved in illicit cigarette crimes, Customs will notify the HD for follow-up action after the conclusion of court proceedings. Customs reminds members of the public, especially young people, not to buy or sell illicit cigarettes or distribute illicit cigarette leaflets to avoid creating a criminal record that could affect their future.
-
-Under the DCO, anyone involved in dealing with, possession of, selling or buying illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years. Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/).
-
-In accordance with the Smoking (Public Health) Ordinance (Cap. 371), no person shall distribute any smoking product advertisement (including any promotional leaflets). Any person who contravenes the regulation is liable to a maximum fine of $50,000. Members of the public may report any suspected activities of illicit cigarette leaflets distribution to TACO's hotline 2961 8823."
 ​香港海關在東區進行跨部門反私煙宣傳活動（附圖）,2025-11-07 18:50,2025-11-07 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700724.htm,"香港海關今日（十一月七日）與東區區議員、衞生署控煙酒辦公室、警務處及房屋署在東區興華一邨及耀東邨進行聯合反私煙宣傳活動，並宣傳完稅標籤制度。
 
 海關人員向居民派發宣傳品和講解反私煙信息，並介紹私煙相關罪行的新罰則，包括《應課稅品條例》下有代價地就未有向海關人員作出申報罪行不予檢控的罰則由2,000元提高至5,000元，以及未完稅煙草相關罪行的最高罰則由罰款一百萬元及監禁兩年，提高至罰款二百萬元及監禁七年。
@@ -873,6 +862,28 @@ In accordance with the Smoking (Public Health) Ordinance (Cap. 371), no person s
 根據《應課稅品條例》，任何人若處理、管有、售賣或購買私煙即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/）舉報懷疑私煙活動。
 ​
 根據《吸煙（公眾衞生）條例》（第371章），任何人不得分發任何形式的吸煙產品廣告（包括任何傳單），違例者最高可被罰款港幣五萬元。市民可致電衞生署控煙酒辦公室熱線2961 8823舉報懷疑派發私煙傳單活動。"
+Hong Kong Customs conducts interdepartmental anti-illicit cigarette publicity activities in Eastern District (with photos),2025-11-07 18:50,2025-11-07 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700725.htm,"Hong Kong Customs today (November 7) conducted a joint anti-illicit cigarette publicity campaign with members of the Eastern District Council, the Tobacco and Alcohol Control Office (TACO) of the Department of Health, the Police and the Housing Department (HD) at Hing Wah (1) Estate and Yiu Tung Estate in Eastern District, and to publicise the duty stamp system.
+
+Customs officers distributed promotional items and explained anti-illicit cigarette messages to residents, as well as introduced the new penalties for offences related to illicit cigarettes, including the penalty increase for offences of failing to declare to Customs officers compoundable under the Dutiable Commodities Ordinance (DCO) from $2,000 to $5,000 and the enhanced maximum penalty for relevant offences relating to duty-not-paid tobacco from a $1 million fine and two-year imprisonment to a $2 million fine and seven-year imprisonment.
+
+Customs officers also explained to the district councillors and residents that a duty stamp system will be implemented to help distinguish between duty-paid and duty-not-paid cigarettes.The first phase of the system is planned to be implemented in the fourth quarter of 2026, followed by full implementation in the second quarter of 2027. Hong Kong Customs launched a three-month pilot run for the duty stamp system on October 6, which aims to evaluate its effectiveness and feasibility, as well as to promote industry and public awareness of the key features of the system that enable them to prepare for related compliance in advance.
+
+Customs will continue to strengthen publicity and education to raise public awareness of anti-illicit cigarettes. If public rental housing units are found to be involved in illicit cigarette crimes, Customs will notify the HD for follow-up action after the conclusion of court proceedings. Customs reminds members of the public, especially young people, not to buy or sell illicit cigarettes or distribute illicit cigarette leaflets to avoid creating a criminal record that could affect their future.
+
+Under the DCO, anyone involved in dealing with, possession of, selling or buying illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years. Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/).
+
+In accordance with the Smoking (Public Health) Ordinance (Cap. 371), no person shall distribute any smoking product advertisement (including any promotional leaflets). Any person who contravenes the regulation is liable to a maximum fine of $50,000. Members of the public may report any suspected activities of illicit cigarette leaflets distribution to TACO's hotline 2961 8823."
+香港海關檢獲約四百七十七萬元懷疑走私中央處理器及固態硬碟（附圖）,2025-11-07 18:45,2025-11-07 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700739.htm,"香港海關昨日（十一月六日）在香園圍邊境管制站偵破兩宗涉嫌利用私家車走私的案件，檢獲一千三百八十六件懷疑走私中央處理器及一千七百件懷疑走私固態硬碟，估計市值共約四百七十七萬元。
+
+海關人員昨日在該管制站截查兩輛出境私家車，X光檢驗顯示車輛的影像有異，海關人員發現兩輛私家車均設有暗格，並分別在第一輛私家車車底及第二輛私家車的中控台，檢獲上述懷疑走私貨物。兩名分別29歲及35歲的男司機隨即被捕。
+
+案件仍在調查中。
+
+海關會繼續透過風險評估和情報分析嚴厲執法，打撃跨境走私活動。
+
+走私屬嚴重罪行，根據《進出口條例》，任何人輸入或輸出未列艙單貨物，一經定罪，最高可被判罰二百萬元及監禁七年。另外，任何人士如為走私用途而改裝車輛，一經定罪，最高亦可被判罰二百萬元及監禁七年，而涉案貨物及車輛則可能會被充公。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動。"
 深港金融合作委員會今日舉行第三次會議（附圖）,2025-11-07 18:45,2025-11-07 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700746.htm,"財經事務及庫務局（財庫局）局長許正宇和深圳市人民政府副市長、深圳市委金融委員會辦公室主任羅晃浩今日（十一月七日）在香港共同主持深港金融合作委員會第三次會議。會議上，財庫局與深圳市地方金融管理局簽署了有關黃金領域合作的備忘錄。
 
 委員會討論了深港兩地金融市場發展和金融合作措施的最新情況，並探討進一步加強兩地金融聯動的建議。
@@ -897,17 +908,6 @@ Customs will continue to combat cross-boundary smuggling activities with firm en
 Smuggling is a serious offence. Under the Import and Export Ordinance, any person found guilty of importing or exporting unmanifested cargo is liable to a maximum fine of HK$2 million and imprisonment for seven years upon conviction. Any person who modifies a vehicle for the purpose of smuggling is also liable to a maximum fine of HK$2 million and imprisonment for seven years upon conviction. The goods and private cars involved may be forfeited.
 
 Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-香港海關檢獲約四百七十七萬元懷疑走私中央處理器及固態硬碟（附圖）,2025-11-07 18:45,2025-11-07 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700739.htm,"香港海關昨日（十一月六日）在香園圍邊境管制站偵破兩宗涉嫌利用私家車走私的案件，檢獲一千三百八十六件懷疑走私中央處理器及一千七百件懷疑走私固態硬碟，估計市值共約四百七十七萬元。
-
-海關人員昨日在該管制站截查兩輛出境私家車，X光檢驗顯示車輛的影像有異，海關人員發現兩輛私家車均設有暗格，並分別在第一輛私家車車底及第二輛私家車的中控台，檢獲上述懷疑走私貨物。兩名分別29歲及35歲的男司機隨即被捕。
-
-案件仍在調查中。
-
-海關會繼續透過風險評估和情報分析嚴厲執法，打撃跨境走私活動。
-
-走私屬嚴重罪行，根據《進出口條例》，任何人輸入或輸出未列艙單貨物，一經定罪，最高可被判罰二百萬元及監禁七年。另外，任何人士如為走私用途而改裝車輛，一經定罪，最高亦可被判罰二百萬元及監禁七年，而涉案貨物及車輛則可能會被充公。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動。"
 入境處執行登機押解遣返行動遣返六名免遣返聲請不獲確立人士回原居地（附圖）,2025-11-07 18:35,2025-11-07 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700699.htm,"入境事務處（入境處）昨天（十一月六日）派遣人員執行代號為「逐影」的登機押解遣返行動，順利將六名免遣返聲請不獲確立人士強制遣返巴基斯坦。該批人士全部為男性非法入境者，部分曾因干犯刑事罪行入獄及已刑滿出獄。由於相關聲請人曾多次拒絕接受遣返安排，並在過往的遣返行動中作出激烈反抗，入境處決定採取登機押解方式實施強制遣返。
 
 入境處發言人說：「入境處一直致力將免遣返聲請不獲確立者盡快遣送離港，以維持有效的出入境管制和保障公眾利益。由於香港與巴基斯坦未有直航班次，遣送巴基斯坦籍聲請人回國必須透過中轉機場轉機。為加大遣送力度，入境處首次安排特別專機從香港前往廣州白雲國際機場，再轉乘商業航班前往巴基斯坦，執行登機押解遣返行動。入境處成功於單次行動中，強制遣送六名免遣返聲請不獲確立人士回國，並順利將其移交予相關政府機關，顯著提升遣送效率和成本效益。」
@@ -1045,6 +1045,103 @@ The tender amount is fully fungible with the existing 10GB3505001 (Stock code: 8
 Use of Proceeds
 :
 The Bonds will be issued under the institutional part of the Infrastructure Bond Programme. Proceeds will be invested in infrastructure projects in accordance with the Infrastructure Bond Framework published on the Hong Kong Government Bonds website.
+
+
+
+"
+十年期人民幣特區政府機構債券重開將於十一月十三日進行投標,2025-11-07 17:45,2025-11-07 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700616.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）以香港特別行政區政府（特區政府）代表身分於今日（十一月七日）公布，重開在基礎建設債券計劃下推出的十年期人民幣特區政府機構債券（債券）（發行編號10GB3505001），作十年期債券供投標。該批重開債券將於二○二五年十一月十三日（星期四）進行投標，並於二○二五年十一月十七日（星期一）交收。
+
+透過是次重開債券，將有額外10億人民幣的未到期十年期債券（發行編號10GB3505001）供投標。該批債券將於二○三五年五月十五日期滿，利率為年息2.29厘，每半年派息一次。該批債券於二○二五年十一月七日的指示價格為101.84，半年化收益率則為2.076%。
+
+投標只供於基礎建設債券計劃下委任的第一市場交易商參與。任何投標申請只可透過最新公布名單上的第一市場交易商進行，此名單可從香港政府債券網站www.hkgb.gov.hk下載。每項投標均須以五萬人民幣或其整數倍數為單位。
+
+投標結果將於金管局網站、香港政府債券網站、彭博（GBHK<GO>）和路孚特（IBPGSBPINDEX）公布，公布時間預計不遲於投標日的下午三時。
+
+特區政府機構債券投標資料
+
+十年期人民幣特區政府機構債券投標資料如下：
+
+
+
+
+發行編號
+:
+10GB3505001
+
+
+股份代號
+:
+85024（HKGB2.29 3505-R）
+
+
+投標日期和時間
+:
+2025年11月13日（星期四）
+			上午9時30分至10時30分
+
+
+發行和交收日期
+:
+2025年11月17日（星期一）
+
+
+發行總額
+:
+10億人民幣
+
+
+年期
+:
+10年
+
+
+剩餘年期
+:
+約9.5年
+
+
+到期日
+:
+2035年5月15日（星期二）
+
+
+利息
+:
+年息2.29厘，每半年派息一次
+
+
+利息支付日期
+:
+由發行日至到期日（包括該日）起計每年5月15日及11月15日，並按載於香港政府債券網站的基礎建設債券計劃及政府可持續債券計劃機構債券資料備忘錄（資料備忘錄）所述的條款進行調整。
+
+
+投標形式
+:
+競爭性投標
+
+
+投標數額
+:
+每項競爭性投標必須以五萬人民幣或其整數倍數為單位。任何投標申請只可透過最新公布名單上的第一市場交易商進行。
+			成功投得債券的人士於債券發行日（2025年11月17日），均須就每五萬人民幣的最低投標額繳付0.00人民幣的累計利息。
+			（由於四捨五入關係，超過五萬人民幣的投標額需繳付的累計利息，可能與以五萬人民幣最低投標額計算出來的利息數字略有出入）。
+
+
+其他詳情
+:
+請參閱載於香港政府債券網站的資料備忘錄，或向第一市場交易商查詢。
+
+
+預期開始在香港聯合交易所有限公司買賣的日期
+:
+是次投標所得的債券數額可完全與現時在香港聯合交易所上市，股份代號為85024（即發行編號10GB3505001）的政府債券互換。
+
+
+募集所得資金的用途
+:
+債券將在基礎建設債券計劃下的機構部分發行。募集所得的資金將按載於香港政府債券網站的基礎建設債券框架作基建項目投資。
 
 
 
@@ -1231,103 +1328,6 @@ The Bonds will be issued under the institutional part of the Infrastructure Bond
 
 
 "
-十年期人民幣特區政府機構債券重開將於十一月十三日進行投標,2025-11-07 17:45,2025-11-07 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700616.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）以香港特別行政區政府（特區政府）代表身分於今日（十一月七日）公布，重開在基礎建設債券計劃下推出的十年期人民幣特區政府機構債券（債券）（發行編號10GB3505001），作十年期債券供投標。該批重開債券將於二○二五年十一月十三日（星期四）進行投標，並於二○二五年十一月十七日（星期一）交收。
-
-透過是次重開債券，將有額外10億人民幣的未到期十年期債券（發行編號10GB3505001）供投標。該批債券將於二○三五年五月十五日期滿，利率為年息2.29厘，每半年派息一次。該批債券於二○二五年十一月七日的指示價格為101.84，半年化收益率則為2.076%。
-
-投標只供於基礎建設債券計劃下委任的第一市場交易商參與。任何投標申請只可透過最新公布名單上的第一市場交易商進行，此名單可從香港政府債券網站www.hkgb.gov.hk下載。每項投標均須以五萬人民幣或其整數倍數為單位。
-
-投標結果將於金管局網站、香港政府債券網站、彭博（GBHK<GO>）和路孚特（IBPGSBPINDEX）公布，公布時間預計不遲於投標日的下午三時。
-
-特區政府機構債券投標資料
-
-十年期人民幣特區政府機構債券投標資料如下：
-
-
-
-
-發行編號
-:
-10GB3505001
-
-
-股份代號
-:
-85024（HKGB2.29 3505-R）
-
-
-投標日期和時間
-:
-2025年11月13日（星期四）
-			上午9時30分至10時30分
-
-
-發行和交收日期
-:
-2025年11月17日（星期一）
-
-
-發行總額
-:
-10億人民幣
-
-
-年期
-:
-10年
-
-
-剩餘年期
-:
-約9.5年
-
-
-到期日
-:
-2035年5月15日（星期二）
-
-
-利息
-:
-年息2.29厘，每半年派息一次
-
-
-利息支付日期
-:
-由發行日至到期日（包括該日）起計每年5月15日及11月15日，並按載於香港政府債券網站的基礎建設債券計劃及政府可持續債券計劃機構債券資料備忘錄（資料備忘錄）所述的條款進行調整。
-
-
-投標形式
-:
-競爭性投標
-
-
-投標數額
-:
-每項競爭性投標必須以五萬人民幣或其整數倍數為單位。任何投標申請只可透過最新公布名單上的第一市場交易商進行。
-			成功投得債券的人士於債券發行日（2025年11月17日），均須就每五萬人民幣的最低投標額繳付0.00人民幣的累計利息。
-			（由於四捨五入關係，超過五萬人民幣的投標額需繳付的累計利息，可能與以五萬人民幣最低投標額計算出來的利息數字略有出入）。
-
-
-其他詳情
-:
-請參閱載於香港政府債券網站的資料備忘錄，或向第一市場交易商查詢。
-
-
-預期開始在香港聯合交易所有限公司買賣的日期
-:
-是次投標所得的債券數額可完全與現時在香港聯合交易所上市，股份代號為85024（即發行編號10GB3505001）的政府債券互換。
-
-
-募集所得資金的用途
-:
-債券將在基礎建設債券計劃下的機構部分發行。募集所得的資金將按載於香港政府債券網站的基礎建設債券框架作基建項目投資。
-
-
-
-"
 與銀行有關的騙案通知,2025-11-07 17:40,2025-11-07 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700636.htm,"下稿代香港金融管理局發出︰
 
 ​香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -1407,31 +1407,6 @@ For promotion and education, the LD will continue to step up efforts to dissemin
 In addition, the LD is seriously following up on the recent work accidents and conducting in-depth investigations to identify the causes of the accidents and ascertain the legal liability of relevant duty holders. The LD will take actions pursuant to the law if there is any violation of legislation. Recent accidents showed that OSH should not be neglected regardless of the scale of the works or work processes. Contractors and employers shall properly assess risks, and develop and implement safe methods before commencing work. Employees shall also fulfil their responsibilities by co-operating with employers to thoroughly implement all safety measures.
 
 Under the general duty provisions of OSH legislation, contractors or employers who violate relevant legislation are subject to a maximum fine of $10 million and imprisonment for two years. Employees who contravene the aforesaid provisions are liable to a maximum fine of $150,000 and imprisonment for six months."
-衞生防護中心公布新增一宗類鼻疽個案,2025-11-07 17:30,2025-11-07 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700662.htm,"衞生署衞生防護中心（中心）今日（十一月七日）表示，過去一星期（十月三十一日至十一月六日）錄得一宗新增類鼻疽個案。中心呼籲市民保持個人及環境衞生以預防類鼻疽，並特別提醒高風險群組，包括長者及長期病患者，在颱風或暴雨後應避免接觸土壤或泥水，減低感染風險。
-
-個案涉及一名有長期病患的52歲男子。他居於深水埗區，自十月十五日起出現發燒及咳嗽帶痰，因症狀持續於十一月三日到伊利沙伯醫院急症室求診，需留院接受治療，目前情況穩定。病人的臨床診斷為肺炎及敗血症，臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
-
-中心正調查個案的感染源頭，初步流行病學調查顯示上述個案屬散發個案，沒有資料顯示個案與本港早前錄得的其他確診個案有流行病學關連。
-
-截至昨日（十一月六日），本港今年錄得19宗類鼻疽個案。二○二四年共錄得23宗類鼻疽個案。
-
-導致類鼻疽的病菌一般不會人傳人或經動物傳人，但可存活於本地環境。類鼻疽在香港屬風土病，本港每年亦有錄得類鼻疽個案。
-
-根據文獻，類鼻疽個案於颱風或暴雨後較常出現。颱風或暴雨後，土壤和泥水中的類鼻疽伯克氏菌有機會曝露於地面，並隨着強風或暴雨令病菌更容易散播，從而令類鼻疽個案有機會增加。
-
-就此，颱風和暴雨期間市民應盡量留在室內，避免前往可能出現水浸的地區，亦不應涉水或接觸泥水和泥土。同時，高風險人士應避免使用雨水渠道附近的道路，以免接觸可能由污水產生的氣溶膠。
-
-市民亦應採取以下措施預防感染：
-
-• 避免接觸受污染的土壤；
-• 進行有機會接觸土壤或泥水的活動時，穿着適當的防護衣物，例如佩戴手套，並穿上水靴，高風險人士可考慮額外佩戴外科口罩；
-• 接觸受污染的水或土壤後進行清洗或淋浴；
-• 盡快清潔傷口，並以防水敷料覆蓋；
-• 接觸土壤和進行園藝活動後，用肥皂和水洗手；
-• 注意食物衞生，不要飲用未經煮沸的水；及
-• 外遊人士可透過戶外水上活動受到感染。避免接觸可能受污染的水源（例如河流、池塘或湖泊）可減低受感染的風險。
-
-中心呼籲市民，尤其是糖尿病患者或免疫力弱的人士，如出現病徵，應盡快求醫，以接受適切的醫學診斷和治療。就更多有關類鼻疽的資料，市民可參閱中心網站www.chp.gov.hk/tc/healthtopics/content/24/101110.html。"
 CHP announces one new melioidosis case,2025-11-07 17:30,2025-11-07 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700663.htm,"The Centre for Health Protection (CHP) of the Department of Health today (November 7) announced that one new melioidosis case was recorded in the past week (October 31 to November 6). The CHP appealed to members of the public to maintain personal and environmental hygiene to prevent melioidosis. The CHP also specifically reminded high-risk groups, including the elderly and people with underlying diseases, to avoid contact with soil or muddy water after typhoons or storms with a view to lowering infection risk.
 
 The case involves a 52-year-old male with underlying illnesses living in Sham Shui Po. He presented with a fever and cough with sputum since October 15. Due to persistent symptoms, he attended the Accident and Emergency Department of Queen Elizabeth Hospital on November 3 and was admitted for treatment. He is in stable condition. The clinical diagnosis was pneumonia and sepsis. His clinical sample was confirmed to be positive for Burkholderia pseudomallei upon testing.
@@ -1459,6 +1434,31 @@ Travellers can contract the disease through outdoor water sports. Risk of infect
 
 
 ââThe CHP appealed to members of the public to seek medical advice if they develop symptoms, in particular people with diabetes or other immunocompromising conditions, in order to receive an appropriate medical diagnosis and treatment. For more information on melioidosis, please visit the website of the CHP atwww.chp.gov.hk/en/healthtopics/content/24/101110.html."
+衞生防護中心公布新增一宗類鼻疽個案,2025-11-07 17:30,2025-11-07 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700662.htm,"衞生署衞生防護中心（中心）今日（十一月七日）表示，過去一星期（十月三十一日至十一月六日）錄得一宗新增類鼻疽個案。中心呼籲市民保持個人及環境衞生以預防類鼻疽，並特別提醒高風險群組，包括長者及長期病患者，在颱風或暴雨後應避免接觸土壤或泥水，減低感染風險。
+
+個案涉及一名有長期病患的52歲男子。他居於深水埗區，自十月十五日起出現發燒及咳嗽帶痰，因症狀持續於十一月三日到伊利沙伯醫院急症室求診，需留院接受治療，目前情況穩定。病人的臨床診斷為肺炎及敗血症，臨床樣本經化驗證實對類鼻疽伯克氏菌呈陽性反應。
+
+中心正調查個案的感染源頭，初步流行病學調查顯示上述個案屬散發個案，沒有資料顯示個案與本港早前錄得的其他確診個案有流行病學關連。
+
+截至昨日（十一月六日），本港今年錄得19宗類鼻疽個案。二○二四年共錄得23宗類鼻疽個案。
+
+導致類鼻疽的病菌一般不會人傳人或經動物傳人，但可存活於本地環境。類鼻疽在香港屬風土病，本港每年亦有錄得類鼻疽個案。
+
+根據文獻，類鼻疽個案於颱風或暴雨後較常出現。颱風或暴雨後，土壤和泥水中的類鼻疽伯克氏菌有機會曝露於地面，並隨着強風或暴雨令病菌更容易散播，從而令類鼻疽個案有機會增加。
+
+就此，颱風和暴雨期間市民應盡量留在室內，避免前往可能出現水浸的地區，亦不應涉水或接觸泥水和泥土。同時，高風險人士應避免使用雨水渠道附近的道路，以免接觸可能由污水產生的氣溶膠。
+
+市民亦應採取以下措施預防感染：
+
+• 避免接觸受污染的土壤；
+• 進行有機會接觸土壤或泥水的活動時，穿着適當的防護衣物，例如佩戴手套，並穿上水靴，高風險人士可考慮額外佩戴外科口罩；
+• 接觸受污染的水或土壤後進行清洗或淋浴；
+• 盡快清潔傷口，並以防水敷料覆蓋；
+• 接觸土壤和進行園藝活動後，用肥皂和水洗手；
+• 注意食物衞生，不要飲用未經煮沸的水；及
+• 外遊人士可透過戶外水上活動受到感染。避免接觸可能受污染的水源（例如河流、池塘或湖泊）可減低受感染的風險。
+
+中心呼籲市民，尤其是糖尿病患者或免疫力弱的人士，如出現病徵，應盡快求醫，以接受適切的醫學診斷和治療。就更多有關類鼻疽的資料，市民可參閱中心網站www.chp.gov.hk/tc/healthtopics/content/24/101110.html。"
 勞工處展開特別執法行動提升建造業安全,2025-11-07 17:08,2025-11-07 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700567.htm,"勞工處非常關注近日接連發生多宗建造業致命及嚴重工作意外，並已加強相應的巡查執法措施，包括於明日（十一月八日）展開針對建造業的全港性特別執法行動，以打擊不安全的違規作業，相關行動會持續一段時間。
 
 行動期間，勞工處職業安全主任會巡查不同類型及規模的建築地盤（包括新建築工程和裝修及維修工程），亦會特別留意高危工序，例如高處工作、棚架作業和拆卸工程等，並監察持責者有否提供及維持相關工序的安全工作系統。若發現違例情況，勞工處會嚴厲執法，包括發出「暫時停工通知書」及「敦促改善通知書」，以及提出檢控，而不會給予警告。
@@ -1468,7 +1468,7 @@ Travellers can contract the disease through outdoor water sports. Risk of infect
 此外，勞工處正嚴肅跟進和深入調查近日發生的工作意外，以確定意外成因及查找相關持責者的法律責任。若調查發現違法情況，勞工處會依法處理。而近期發生的意外顯示，無論工程或工序規模大小，職安健皆不容忽視。承建商及僱主須在進行工程前妥善評估風險，制定及落實安全施工方案；僱員亦須履行其責任與僱主攜手合作，做足所有安全措施。
 
 根據職安健法例的一般責任條款規定，承建商或僱主違反相關法例，最高可被判罰款一千萬元及監禁兩年。若僱員違反上述規定，則最高可被判罰款十五萬元及監禁六個月。"
-Speech by FS at kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration (English only) (with photos/video),2025-11-07 16:50,2025-11-07 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700620.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration today (November 7):
+Speech by FS at kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration (English only) (with video),2025-11-07 16:50,2025-11-07 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700620.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration today (November 7):
 
 Stephen (Chairman of the Shanghai Commercial Bank, Mr Stephen Lee), Lincoln (Director of the Shanghai Commercial & Savings Bank, Mr Lincoln Yung), Wallace (Chief Executive of the Shanghai Commercial Bank, Mr Wallace Lam), distinguished guests, ladies and gentlemen,
 
@@ -1489,7 +1489,7 @@ Stephen (Chairman of the Shanghai Commercial Bank, Mr Stephen Lee), Lincoln (Dir
   Ladies and gentlemen, on this special occasion, let me once again extend my heartiest congratulations to the SCB on your 75th anniversary in Hong Kong. I wish the Bank continued success and prosperity in the years to come.
 
   And before I close, let me take this opportunity to remind everyone: mark your diaries for December 7, the Legislative Council Election. Your vote matters for our city, and for our shared future. Thank you very much."
-Speech by FS at kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration (English only) (with video),2025-11-07 16:50,2025-11-07 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700620.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration today (November 7):
+Speech by FS at kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration (English only) (with photos/video),2025-11-07 16:50,2025-11-07 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700620.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the kick-off ceremony of Shanghai Commercial Bank's 75th anniversary celebration today (November 7):
 
 Stephen (Chairman of the Shanghai Commercial Bank, Mr Stephen Lee), Lincoln (Director of the Shanghai Commercial & Savings Bank, Mr Lincoln Yung), Wallace (Chief Executive of the Shanghai Commercial Bank, Mr Wallace Lam), distinguished guests, ladies and gentlemen,
 
@@ -1647,6 +1647,25 @@ Lido Beach
   While the ratings represent the general water quality at the beaches, the EPD spokesman reminded members of the public that water quality could be temporarily affected during and after periods of heavy rain. Bathers should avoid swimming at beaches for up to three days after a tropical cyclone or heavy rainfall.
 
   A summary of beach grades is published weekly before the weekend. The latest beach grades based on the most current data may be obtained from the EPD's website on Beach Water Quality (www.epd.gov.hk/epd/beach) or the beach hotline, 2511 6666. Members of the public can also obtain the latest daily water quality forecast information for all beaches that are open for swimming through the EPD's dedicated webpage on the beach water quality forecast (www.epd.gov.hk/en/BWQForecast)."
+Survey on Small and Medium-Sized Enterprises' Credit Conditions for third quarter 2025,2025-11-07 16:30,2025-11-07 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700320.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) published today (November 7) the results of the Survey on Small and Medium-Sized Enterprises (SMEs)' Credit Conditions for the third quarter of 2025. According to the survey, SMEs' credit conditions remained broadly stable.
+
+Regarding SMEs' perception of banks' credit approval stance relative to six months ago, excluding respondents who answered ""no idea/don't know"", 59 per cent perceived a ""similar"" or ""easier"" credit approval stance in the third quarter of 2025, down from 65per cent in the previous quarter (Chart 1in the Annex). 41per cent perceived a ""more difficult"" credit approval stance, compared to 35per cent in the previous quarter. The perception of a more difficult credit approval stance may not necessarily reflect actual difficulties faced by SMEs in obtaining bank credit as the perception could be affected by a number of factors, such as media/news reports, business conditions and opinions of relatives and friends.
+
+Among respondents with existing credit lines, 3 per cent reported a ""tighter"" banks' stance, up from 1 per cent in the previous quarter (Chart 2in the Annex). In this survey, a tighter stance on existing credit lines denotes a range of possible measures or arrangements, such as reducing unused and used credit lines, raising the interest rate, imposing additional collateral requirements, or shortening loan tenor. Therefore, respondents' indication of banks' stance on existing credit lines may not directly reflect banks' supply of credit to SMEs.
+
+The survey also gauged the results of new credit applications from SMEs. 2 per cent of the respondents reported that they had applied for new bank credit during the third quarter of 2025. Among the respondents who had already known their application outcomes, 72per cent reported fully or partially successful applications, up from 67per cent in the previous quarter (Chart 3in the Annex).
+
+Owing to small sample sizes of SMEs with existing credit lines (15per cent of surveyed SMEs) and with new credit applications (2 per cent of surveyed SMEs) during the quarter, the results could be prone to large fluctuations, and hence should be interpreted with care.
+
+About Survey on Small and Medium-Sized Enterprises' Credit Conditions
+
+In light of the importance of SMEs to the Hong Kong economy and concerns about potential funding difficulties facing SMEs over the past few years, the HKMA has appointed the Hong Kong Productivity Council (HKPC) to carry out this survey, starting from the third quarter of 2016. This survey is conducted on a quarterly basis, covering about 2 500 SMEs from different economic sectors each time. The results of this survey can help monitor the development of SMEs' access to bank credit from a demand-side perspective.
+
+The results of this survey should be interpreted with caution. Similar to other opinion surveys, views collected in this survey may be affected by changes in sentiment due to idiosyncratic events that occurred over the survey period, which can make the results prone to fluctuations. Readers are advised to interpret the results together with other economic and financial information. In addition, views collected are limited to the expected direction of inter-quarter changes (e.g. ""tighter"", ""no change"" or ""easier"") without providing information about the magnitude of these changes.
+
+Detailed tables and technical information of this survey are published on the website of the HKPC (smecc.hkpc.org)."
 二○二五年第三季中小企貸款狀況調查,2025-11-07 16:30,2025-11-07 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700322.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（十一月七日）公布二○二五年第三季「中小企貸款狀況調查」結果。調查顯示，中小企信貸狀況大致保持穩定。
@@ -1740,38 +1759,6 @@ Exchange Fund Abridged Balance Sheet and
 
 
 "
-Survey on Small and Medium-Sized Enterprises' Credit Conditions for third quarter 2025,2025-11-07 16:30,2025-11-07 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700320.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Monetary Authority (HKMA) published today (November 7) the results of the Survey on Small and Medium-Sized Enterprises (SMEs)' Credit Conditions for the third quarter of 2025. According to the survey, SMEs' credit conditions remained broadly stable.
-
-Regarding SMEs' perception of banks' credit approval stance relative to six months ago, excluding respondents who answered ""no idea/don't know"", 59 per cent perceived a ""similar"" or ""easier"" credit approval stance in the third quarter of 2025, down from 65per cent in the previous quarter (Chart 1in the Annex). 41per cent perceived a ""more difficult"" credit approval stance, compared to 35per cent in the previous quarter. The perception of a more difficult credit approval stance may not necessarily reflect actual difficulties faced by SMEs in obtaining bank credit as the perception could be affected by a number of factors, such as media/news reports, business conditions and opinions of relatives and friends.
-
-Among respondents with existing credit lines, 3 per cent reported a ""tighter"" banks' stance, up from 1 per cent in the previous quarter (Chart 2in the Annex). In this survey, a tighter stance on existing credit lines denotes a range of possible measures or arrangements, such as reducing unused and used credit lines, raising the interest rate, imposing additional collateral requirements, or shortening loan tenor. Therefore, respondents' indication of banks' stance on existing credit lines may not directly reflect banks' supply of credit to SMEs.
-
-The survey also gauged the results of new credit applications from SMEs. 2 per cent of the respondents reported that they had applied for new bank credit during the third quarter of 2025. Among the respondents who had already known their application outcomes, 72per cent reported fully or partially successful applications, up from 67per cent in the previous quarter (Chart 3in the Annex).
-
-Owing to small sample sizes of SMEs with existing credit lines (15per cent of surveyed SMEs) and with new credit applications (2 per cent of surveyed SMEs) during the quarter, the results could be prone to large fluctuations, and hence should be interpreted with care.
-
-About Survey on Small and Medium-Sized Enterprises' Credit Conditions
-
-In light of the importance of SMEs to the Hong Kong economy and concerns about potential funding difficulties facing SMEs over the past few years, the HKMA has appointed the Hong Kong Productivity Council (HKPC) to carry out this survey, starting from the third quarter of 2016. This survey is conducted on a quarterly basis, covering about 2 500 SMEs from different economic sectors each time. The results of this survey can help monitor the development of SMEs' access to bank credit from a demand-side perspective.
-
-The results of this survey should be interpreted with caution. Similar to other opinion surveys, views collected in this survey may be affected by changes in sentiment due to idiosyncratic events that occurred over the survey period, which can make the results prone to fluctuations. Readers are advised to interpret the results together with other economic and financial information. In addition, views collected are limited to the expected direction of inter-quarter changes (e.g. ""tighter"", ""no change"" or ""easier"") without providing information about the magnitude of these changes.
-
-Detailed tables and technical information of this survey are published on the website of the HKPC (smecc.hkpc.org)."
-26 landlords of subdivided units under regulated tenancies convicted of contravening relevant statutory requirements,2025-11-07 16:25,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700585.htm," Twenty-six landlords of subdivided units (SDUs), who contravened Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) (the Ordinance), pleaded guilty and were fined between $800 and $44,000, amounting to a total of $102,300, on October 31 and today (November 7) at the Eastern Magistrates' Courts. Since the Ordinance came into force, the Rating and Valuation Department (RVD) has continuously strengthened enforcement actions and has prosecuted a total of 1 304 cases to date. Among the 942 cases dealt with by the court, all were successfully convicted, which involved a total of 819 SDU landlords, amounting to a total of $2,539,010 in fines. In addition, 362 cases are pending a hearing.
-
-  The offences of these 26 landlords include (1) failing to submit a Notice of Tenancy (Form AR2) to the Commissioner of Rating and Valuation within 60 days after the term of the regulated tenancy commenced; and (2) requesting the tenant to pay money other than the types permitted under the Ordinance (including requiring the tenant to pay an amount of rent for the second-term tenancy exceeding the maximum amount of rent permitted under the Ordinance).
-
-  The RVD earlier discovered that the landlords failed to comply with the relevant requirements under the Ordinance. Upon a comprehensive investigation and evidence collection, the RVD prosecuted the landlords.
-
-  A spokesman for the RVD reiterated that SDU landlords must comply with the relevant requirements under the Ordinance, including prohibiting landlords from doing any act calculated to interfere with the peace or comfort of members of the tenant's household, with the intention of causing the tenant to give up occupation of the SDU; or requiring the tenant to pay an amount of rent for the second-term tenancy exceeding the maximum amount of rent permitted under the Ordinance, and also reminded tenants of their rights under the Ordinance, including a four-year (i.e. two years plus two years) security of tenure. He also stressed that the RVD will continue to take resolute enforcement action against any contraventions of the Ordinance. Apart from following up on reported cases, the RVD has been adopting a multipronged approach to proactively identify, investigate and follow up on cases concerning landlords who are suspected of contravening the Ordinance. In particular, the RVD has been requiring landlords of regulated tenancies to provide information and reference documents of their tenancies for checking whether they have complied with the requirements of the Ordinance. If a landlord, without reasonable excuse, refuses to provide the relevant information or neglects the RVD's request, the landlord commits an offence and is liable to a maximum fine at level 3 ($10,000) and to imprisonment for three months. Depending on the actual circumstances, and having regard to the information and evidence collected, the RVD will take appropriate actions on individual cases, including instigating prosecution against suspected contraventions of the Ordinance. In addition, the RVD has started a new round of publicity and education work to enhance public awareness about the key offences and penalties, emphasising that the RVD proactively checks whether landlords have committed the offences under the Ordinance.
-
-  To help curb illegal acts as soon as possible, members of the public should report to the RVD promptly any suspected cases of contravening the relevant requirements. Reporting can be made through the telephone hotline (2150 8303), by email (enquiries@rvd.gov.hk), by fax (2116 4920), by post (15/F, Cheung Sha Wan Government Offices, 303 Cheung Sha Wan Road, Kowloon), or in person (visiting the Tenancy Services Section office of the RVD at Room 3816-22, 38/F, Immigration Tower, 7 Gloucester Road, Wan Chai, Hong Kong, and please call 2150 8303 to make an appointment). Furthermore, the RVD has provided a form (Form AR4) (www.rvd.gov.hk/doc/en/forms/ar4.pdf) on its website to enable SDU tenants' reporting to the RVD.
-
-  The RVD reminds that pursuant to the Ordinance, a regulated cycle of regulated tenancies is to comprise two consecutive regulated tenancies (i.e. the first-term tenancy and second-term tenancy) for an SDU, and the term of each regulated tenancy is two years. A tenant of a first-term tenancy for an SDU is entitled to be granted a second-term tenancy of the regulated cycle, thus enjoying a total of four years of security of tenure. The RVD has been issuing letters enclosing relevant information to the landlords and tenants concerned of regulated tenancies in batches, according to the expiry time of their first-term tenancies, to assist them in understanding the important matters pertaining to the second-term tenancy, and to remind them about the procedures that need to be followed about two months prior to the commencement of the purported second-term tenancy as well as their respective obligations and rights under the Ordinance. These landlords and tenants may also visit the dedicated page for the second-term tenancy on the RVD's website (www.rvd.gov.hk/en/tenancy_matters/second_term_tenancy.html) for the relevant information, including a concise guide, brochures, tutorial videos and frequently asked questions. The landlords and tenants concerned are also advised to familiarise themselves with the relevant statutory requirements and maintain close communication regarding the second-term tenancy for handling the matters properly and in a timely manner according to the Ordinance.
-
-  For enquiries related to regulated tenancies, please call the telephone hotline (2150 8303) or visit the RVD's webpage (www.rvd.gov.hk/en/our_services/part_iva.html) for the relevant information."
 26名分間單位規管租賃業主因違反相關法例規定而被定罪,2025-11-07 16:25,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700586.htm,"26名分間單位業主因違反《業主與租客（綜合）條例》（第7章）第IVA部（《條例》）的相關規定，於十月三十一日及今日（十一月七日）在東區裁判法院承認有關控罪，並被判處罰款介乎800元至44,000元，合計罰款共102,300元。自《條例》生效以來，差餉物業估價署（估價署）持續加強採取執法行動，至今已合共檢控1 304宗個案，而就法庭已處理的942宗個案，均全數成功定罪，共涉及819名分間單位業主，合計總罰款共2,539,010元，另有362宗個案則正等待進行聆訊。
 
 該26名業主的罪行包括（一）沒有在規管租賃的租期開始後的60日內，向估價署署長提交租賃通知書（表格AR2）；及（二）要求租客支付不屬《條例》所准許的種類的款項（包括要求租客支付的次期租賃租金超過《條例》所准許的最高租金款額）。
@@ -1785,6 +1772,19 @@ Detailed tables and technical information of this survey are published on the we
 估價署提醒，根據《條例》，規管租賃的規管周期，須由該分間單位的連續兩項規管租賃（即首期租賃及次期租賃）所組成，而每項規管租賃的租期為兩年。分間單位首期租賃的租客有權獲授予有關規管周期中的次期租賃，從而享有總共四年的租住權保障。估價署陸續按照首期租賃屆滿的時間，分批發信給相關規管租賃的業主和租客並夾附有關資訊，旨在協助他們了解次期租賃的重要事項，並提醒應在擬達成的次期租賃開始前約兩個月須遵從的程序，以及在《條例》下的相關義務和權益。有關業主及租客亦可瀏覽估價署網站內的次期租賃專頁（www.rvd.gov.hk/tc/tenancy_matters/second_term_tenancy.html）的相關資料，包括「一圖看清」、小冊子、教學短片及常見問題。有關業主及租客亦應熟悉相關的法定要求，以及就次期租賃保持密切溝通，並按《條例》適切處理有關事宜。
 
 如就規管租賃事宜有疑問，可致電電話熱線（2150 8303）或瀏覽估價署網頁（www.rvd.gov.hk/tc/our_services/part_iva.html）內的相關資訊。"
+26 landlords of subdivided units under regulated tenancies convicted of contravening relevant statutory requirements,2025-11-07 16:25,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700585.htm," Twenty-six landlords of subdivided units (SDUs), who contravened Part IVA of the Landlord and Tenant (Consolidation) Ordinance (Cap. 7) (the Ordinance), pleaded guilty and were fined between $800 and $44,000, amounting to a total of $102,300, on October 31 and today (November 7) at the Eastern Magistrates' Courts. Since the Ordinance came into force, the Rating and Valuation Department (RVD) has continuously strengthened enforcement actions and has prosecuted a total of 1 304 cases to date. Among the 942 cases dealt with by the court, all were successfully convicted, which involved a total of 819 SDU landlords, amounting to a total of $2,539,010 in fines. In addition, 362 cases are pending a hearing.
+
+  The offences of these 26 landlords include (1) failing to submit a Notice of Tenancy (Form AR2) to the Commissioner of Rating and Valuation within 60 days after the term of the regulated tenancy commenced; and (2) requesting the tenant to pay money other than the types permitted under the Ordinance (including requiring the tenant to pay an amount of rent for the second-term tenancy exceeding the maximum amount of rent permitted under the Ordinance).
+
+  The RVD earlier discovered that the landlords failed to comply with the relevant requirements under the Ordinance. Upon a comprehensive investigation and evidence collection, the RVD prosecuted the landlords.
+
+  A spokesman for the RVD reiterated that SDU landlords must comply with the relevant requirements under the Ordinance, including prohibiting landlords from doing any act calculated to interfere with the peace or comfort of members of the tenant's household, with the intention of causing the tenant to give up occupation of the SDU; or requiring the tenant to pay an amount of rent for the second-term tenancy exceeding the maximum amount of rent permitted under the Ordinance, and also reminded tenants of their rights under the Ordinance, including a four-year (i.e. two years plus two years) security of tenure. He also stressed that the RVD will continue to take resolute enforcement action against any contraventions of the Ordinance. Apart from following up on reported cases, the RVD has been adopting a multipronged approach to proactively identify, investigate and follow up on cases concerning landlords who are suspected of contravening the Ordinance. In particular, the RVD has been requiring landlords of regulated tenancies to provide information and reference documents of their tenancies for checking whether they have complied with the requirements of the Ordinance. If a landlord, without reasonable excuse, refuses to provide the relevant information or neglects the RVD's request, the landlord commits an offence and is liable to a maximum fine at level 3 ($10,000) and to imprisonment for three months. Depending on the actual circumstances, and having regard to the information and evidence collected, the RVD will take appropriate actions on individual cases, including instigating prosecution against suspected contraventions of the Ordinance. In addition, the RVD has started a new round of publicity and education work to enhance public awareness about the key offences and penalties, emphasising that the RVD proactively checks whether landlords have committed the offences under the Ordinance.
+
+  To help curb illegal acts as soon as possible, members of the public should report to the RVD promptly any suspected cases of contravening the relevant requirements. Reporting can be made through the telephone hotline (2150 8303), by email (enquiries@rvd.gov.hk), by fax (2116 4920), by post (15/F, Cheung Sha Wan Government Offices, 303 Cheung Sha Wan Road, Kowloon), or in person (visiting the Tenancy Services Section office of the RVD at Room 3816-22, 38/F, Immigration Tower, 7 Gloucester Road, Wan Chai, Hong Kong, and please call 2150 8303 to make an appointment). Furthermore, the RVD has provided a form (Form AR4) (www.rvd.gov.hk/doc/en/forms/ar4.pdf) on its website to enable SDU tenants' reporting to the RVD.
+
+  The RVD reminds that pursuant to the Ordinance, a regulated cycle of regulated tenancies is to comprise two consecutive regulated tenancies (i.e. the first-term tenancy and second-term tenancy) for an SDU, and the term of each regulated tenancy is two years. A tenant of a first-term tenancy for an SDU is entitled to be granted a second-term tenancy of the regulated cycle, thus enjoying a total of four years of security of tenure. The RVD has been issuing letters enclosing relevant information to the landlords and tenants concerned of regulated tenancies in batches, according to the expiry time of their first-term tenancies, to assist them in understanding the important matters pertaining to the second-term tenancy, and to remind them about the procedures that need to be followed about two months prior to the commencement of the purported second-term tenancy as well as their respective obligations and rights under the Ordinance. These landlords and tenants may also visit the dedicated page for the second-term tenancy on the RVD's website (www.rvd.gov.hk/en/tenancy_matters/second_term_tenancy.html) for the relevant information, including a concise guide, brochures, tutorial videos and frequently asked questions. The landlords and tenants concerned are also advised to familiarise themselves with the relevant statutory requirements and maintain close communication regarding the second-term tenancy for handling the matters properly and in a timely manner according to the Ordinance.
+
+  For enquiries related to regulated tenancies, please call the telephone hotline (2150 8303) or visit the RVD's webpage (www.rvd.gov.hk/en/our_services/part_iva.html) for the relevant information."
 ​財經事務及庫務局局長在深港金融合作委員會第三次會議致辭全文（只有中文）,2025-11-07 16:20,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700575.htm,"以下是財經事務及庫務局局長許正宇今日（十一月七日）在深港金融合作委員會第三次會議的致辭全文：
 
 尊敬的羅副市長（深圳市人民政府副市長、深圳市委金融委員會辦公室主任羅晃浩）、各位委員：
@@ -1823,7 +1823,15 @@ Detailed tables and technical information of this survey are published on the we
 各位，金融是現代經濟的核心，香港和深圳同為大灣區發展中的中心城市和核心引擎，國家金融強國的建設之路上需要我們共同努力去實現。我們期望與深圳繼續同心並肩、持續創新、協同發展，在不同方面為國家金融強國建設作出貢獻，共同釋放大灣區的巨大發展潛力，在變局中開創新局。
 
 最後，我再次熱烈歡迎大家到來，也期待稍後各位的交流和討論，為深港金融合作提出建議，共同為高質量建設大灣區及深化國家金融市場改革作出貢獻。謝謝各位！"
-Effective Exchange Rate Index,2025-11-07 16:00,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700194.htm,"The effective exchange rate index for the Hong Kong dollar on Friday, November 7, 2025 is 104.5 (same as yesterday's index)."
+Incoming passenger convicted and jailed for importing duty-not-paid cigarettes (with photo),2025-11-07 16:00,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700584.htm,"  An incoming passenger was sentenced to two months' imprisonment and fined by the West Kowloon Magistrates' Courts today (November 7) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
+
+Customs officers intercepted a 37-year-old incoming male passenger at Hong Kong International Airport yesterday (November 6) and seized 34 200 duty-not-paid cigarettes, with an estimated market value of about $153,900 and a duty potential of about $113,000, from his personal baggage. He was subsequently arrested.
+
+Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
+
+Under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
+
+Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 Draft Cheung Chau Outline Zoning Plan approved,2025-11-07 16:00,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700247.htm,"The Chief Executive in Council has approved the draft Cheung Chau Outline Zoning Plan (OZP).
 
   ""The approved OZP provides a statutory land use planning framework to guide the development and redevelopment within the Cheung Chau area,"" a spokesman for the Town Planning Board said today (November 7).
@@ -1863,6 +1871,8 @@ The Notes and Explanatory Statement of the OZP have been amended to reflect the 
 The approved Ngau Tau Kok and Kowloon Bay OZP No. S/K13/34 is available for public inspection during office hours at (i) the Secretariat of the Town Planning Board, (ii) the Planning Enquiry Counters, (iii) the Kowloon District Planning Office, and (iv) the Kwun Tong District Office.
 
 Copies of the approved OZP are available for sale at the Map Publications Centre in North Point. The electronic version of the OZP can be viewed at the Town Planning Board's website (www.tpb.gov.hk)."
+Effective Exchange Rate Index,2025-11-07 16:00,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700194.htm,"The effective exchange rate index for the Hong Kong dollar on Friday, November 7, 2025 is 104.5 (same as yesterday's index)."
+港匯指數,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700195.htm,二○二五年十一月七日（星期五）的港幣匯率指數為一百零四點五（和昨日指數相同）。
 ​一名入境旅客進口未完稅香煙罪成判囚（附圖）,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700582.htm,"一名入境旅客因進口未完稅香煙以及未有向海關人員作出申報，違反《應課稅品條例》，今日（十一月七日）在西九龍裁判法院被判處監禁二個月以及罰款。
 
 海關人員昨日（十一月六日）在香港國際機場截查一名三十七歲的抵港男旅客，並在他的個人行李內檢獲三萬四千二百支未完稅香煙，市值約十五萬三千九百元，應課稅值約十一萬三千元。該名抵港旅客隨即被捕。
@@ -1872,15 +1882,6 @@ Copies of the approved OZP are available for sale at the Map Publications Centre
 根據《條例》，煙草屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
-Incoming passenger convicted and jailed for importing duty-not-paid cigarettes (with photo),2025-11-07 16:00,2025-11-07 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700584.htm,"  An incoming passenger was sentenced to two months' imprisonment and fined by the West Kowloon Magistrates' Courts today (November 7) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted a 37-year-old incoming male passenger at Hong Kong International Airport yesterday (November 6) and seized 34 200 duty-not-paid cigarettes, with an estimated market value of about $153,900 and a duty potential of about $113,000, from his personal baggage. He was subsequently arrested.
-
-Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
-
-Under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 文錦渡分區計劃大綱草圖獲核准,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700249.htm,"​行政長官會同行政會議已核准文錦渡分區計劃大綱草圖。
 
 城市規劃委員會（城規會）發言人今日（十一月七日）說：「該核准圖提供法定土地用途規劃綱要，為文錦渡地區的發展及重建提供指引。」
@@ -1892,19 +1893,6 @@ Members of the public may report any suspected illicit cigarette activities to C
 城規會亦同時修訂圖則的《註釋》及《說明書》以反映上述修訂，並適當地更新各用途地帶及規劃情況的一般性資料。
 
 文錦渡分區計劃大綱核准圖編號S／NE-MKT／7現置於（i）城規會秘書處；（ii）規劃資料查詢處；（iii）沙田、大埔及北區規劃處；（iv）北區民政事務處；以及（v）打鼓嶺區鄉事委員會，讓公眾於辦公時間內查閱。
-
-核准圖複本現於北角地圖銷售處發售。市民亦可於城規會網頁（www.tpb.gov.hk）瀏覽該圖的電子版本。"
-牛頭角及九龍灣分區計劃大綱草圖獲核准,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700252.htm,"​行政長官會同行政會議已核准牛頭角及九龍灣分區計劃大綱草圖。
-
-城市規劃委員會（城規會）發言人今日（十一月七日）說：「該核准圖提供法定土地用途規劃綱要，為牛頭角及九龍灣地區的發展及重建提供指引。」
-
-規劃區佔地約341公頃，坐落東九龍的觀塘區，北達新清水灣道和清水灣道、西至觀塘繞道、南及順業街和振華道、東抵康寧道、秀茂坪道和利安道。
-
-該核准圖載有牛頭角及九龍灣分區計劃大綱草圖編號S／K13／33所作出的修訂，主要涉及（i）把位於彩興路和彩霞道的兩幅用地由「政府、機構或社區」地帶改劃為「住宅（甲類）4」地帶；及（ii）把位於彩興路的兩塊狹長土地由「政府、機構或社區」地帶改劃為顯示為「道路」的地方和把位於彩霞道的一塊狹長土地由「政府、機構或社區」地帶改劃為「政府、機構或社區（3）」地帶，以反映現況。
-
-城規會亦同時修訂圖則的《註釋》及《說明書》以反映上述修訂，並適當地更新各用途地帶及規劃情況的一般性資料。
-
-牛頭角及九龍灣分區計劃大綱核准圖編號S／K13／34現置於（i）城規會秘書處；（ii）規劃資料查詢處；（iii）九龍規劃處；以及（iv）觀塘民政事務處，讓公眾於辦公時間內查閱。
 
 核准圖複本現於北角地圖銷售處發售。市民亦可於城規會網頁（www.tpb.gov.hk）瀏覽該圖的電子版本。"
 長洲分區計劃大綱草圖獲核准,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700244.htm,"​​行政長官會同行政會議已核准長洲分區計劃大綱草圖。
@@ -1920,18 +1908,19 @@ Members of the public may report any suspected illicit cigarette activities to C
 長洲分區計劃大綱核准圖編號S／I-CC／11現置於（i）城規會秘書處；（ii）規劃資料查詢處；（iii）西貢及離島規劃處；（iv）離島民政事務處；（v）離島民政諮詢中心（長洲）；以及（vi）長洲鄉事委員會，讓公眾於辦公時間內查閱。
 
 核准圖複本現於北角地圖銷售處發售。市民亦可於城規會網頁（www.tpb.gov.hk）瀏覽該圖的電子版本。"
-港匯指數,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700195.htm,二○二五年十一月七日（星期五）的港幣匯率指數為一百零四點五（和昨日指數相同）。
-日本進口水產的檢測情況,2025-11-07 15:40,2025-11-07 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700562.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+牛頭角及九龍灣分區計劃大綱草圖獲核准,2025-11-07 16:00,2025-11-07 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700252.htm,"​行政長官會同行政會議已核准牛頭角及九龍灣分區計劃大綱草圖。
 
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+城市規劃委員會（城規會）發言人今日（十一月七日）說：「該核准圖提供法定土地用途規劃綱要，為牛頭角及九龍灣地區的發展及重建提供指引。」
 
-由十一月六日中午截至今日（十一月七日）中午，食安中心已對233個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+規劃區佔地約341公頃，坐落東九龍的觀塘區，北達新清水灣道和清水灣道、西至觀塘繞道、南及順業街和振華道、東抵康寧道、秀茂坪道和利安道。
 
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+該核准圖載有牛頭角及九龍灣分區計劃大綱草圖編號S／K13／33所作出的修訂，主要涉及（i）把位於彩興路和彩霞道的兩幅用地由「政府、機構或社區」地帶改劃為「住宅（甲類）4」地帶；及（ii）把位於彩興路的兩塊狹長土地由「政府、機構或社區」地帶改劃為顯示為「道路」的地方和把位於彩霞道的一塊狹長土地由「政府、機構或社區」地帶改劃為「政府、機構或社區（3）」地帶，以反映現況。
 
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+城規會亦同時修訂圖則的《註釋》及《說明書》以反映上述修訂，並適當地更新各用途地帶及規劃情況的一般性資料。
 
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共178 349個日本進口食物樣本（包括116 215個水產及其製品、海藻及海鹽樣本）及共40 010個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+牛頭角及九龍灣分區計劃大綱核准圖編號S／K13／34現置於（i）城規會秘書處；（ii）規劃資料查詢處；（iii）九龍規劃處；以及（iv）觀塘民政事務處，讓公眾於辦公時間內查閱。
+
+核准圖複本現於北角地圖銷售處發售。市民亦可於城規會網頁（www.tpb.gov.hk）瀏覽該圖的電子版本。"
 Inspection of aquatic products imported from Japan,2025-11-07 15:40,2025-11-07 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700563.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -1943,55 +1932,17 @@ Inspection of aquatic products imported from Japan,2025-11-07 15:40,2025-11-07 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 178 349 samples of food imported from Japan (including 116 215 samples of aquatic and related products, seaweeds and sea salt) and 40 010 samples of local catch respectively. All the samples passed the tests."
-15th National Games road cycling (men's individual) event to be held tomorrow,2025-11-07 15:18,2025-11-07 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700505.htm,"  The men's individual competition of the 15th National Games (NG) China Mobile Cup road cycling event will be staged at 9am tomorrow (November 8) and is expected to conclude at 2.30pm. It is the sole event of the 15th NG that will span across Guangdong, Hong Kong and Macao.
+日本進口水產的檢測情況,2025-11-07 15:40,2025-11-07 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700562.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
- The race covers a total distance of 231.8 kilometres, comprising a 55.8km section in Hong Kong. The race convoy will travel through the Hong Kong-Zhuhai-Macao Bridge (HZMB) and go through the Hong Kong Port, North Lantau Highway and Penny's Bay Highway. The athletes will return after passing by the Hong Kong Disneyland Resort and head back to Zhuhai via the HZMB and Hengqin. It is anticipated that the race convoy will enter the Hong Kong section around 10.20am and spend about one and a half hours in the Hong Kong section.
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
 
- To facilitate the holding of the race, temporary control measures will be implemented on the HZMB Hong Kong Port, the HZMB and some roads tomorrow. Members of the public and visitors should pay attention to the following key points:
+由十一月六日中午截至今日（十一月七日）中午，食安中心已對233個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
 
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
 
-Temporary control measures will be implemented on the HZMB westbound from Hong Kong towards Zhuhai/Macao from 7.30am to 12.30pm. The Departure Hall of Passenger Clearance Building and Outbound Vehicle Clearance Plaza of the HZMB Hong Kong Port will close at 6.30am. Travellers or vehicles wishing to leave Hong Kong for Zhuhai or Macao before the implementation of the temporary control measures are required to arrive at the Departure Hall of Passenger Clearance Building or Outbound Vehicle Clearance Plaza of the HZMB Hong Kong Port before 6.30am tomorrow in order to undergo departure and clearance procedures.
-	
-Cross-boundary (CB) public transport services travelling on the HZMB between Hong Kong, Zhuhai and Macao, including the HZMB shuttle bus (Gold Bus), CB coach and bus services of SkyPier Terminal Transfer Coach of Hong Kong International Airport, will be suspended during the implementation of the temporary control.
-	
-Temporary traffic control measures will be implemented on the North Lantau Highway and roads near the Hong Kong Disneyland Resort during the race. Travel time to and from the airport via the North Lantau Highway is expected to increase by about 30 minutes. Travel time to and from the park, hotels and the Inspiration Lake Recreation Centre via Penny's Bay Highway, Sunny Bay Road, Magic Road and Fantasy Road may be also increased by about 30 minutes. Members of the public and travellers should plan their trips in advance and allow sufficient travel time. They are advised to use railway services, including the Airport Express, the Tung Chung line and the Disneyland Resort line, and avoid driving to the above road sections. Drivers who need to drive to the airport can also consider using the Tuen Mun-Chek Lap Kok Tunnel.
-	
-The departure and clearance services at the HZMB Hong Kong Port will resume after 12.30pm tomorrow. It is expected that traffic will be busy. Members of the public should note that as the roads within Zhuhai are still closed for the race until about 2.30pm, Gold Bus from Hong Kong to Zhuhai is expected to provide limited services from 12.30pm to 1.30pm. Members of the public are advised to avoid heading to the Hong Kong Port in haste. Gold Bus from Zhuhai to Hong Kong will resume services at 2.30pm. Meanwhile, Gold Bus services to/from Macao will resume at 12.30pm. The Transport Department (TD) has instructed the Gold Bus operator to draw up manpower arrangements in advance and reserve sufficient backup vehicles to meet passenger demand upon the resumption of normal boundary-crossing services. Members of the public and travellers who need to travel between Zhuhai and Macao tomorrow are advised to plan their journeys early and use other land Boundary Control Points (BCPs) as far as possible and pay attention to the traffic control arrangements within Zhuhai.
-	
-The Police will set up a temporary restricted flying zone (RFZ), extending 2km outwards from the race track from 9am to 1.30pm on November 8. No small unmanned aircraft, except those authorised, will be permitted to enter the zone. Details of the temporary RFZ will be shown on the electronic portal for small unmanned aircraft ""eSUA"".
-	
-For details of the special traffic and transport arrangements for the race, please refer to the TD Notice:www.td.gov.hk/en/traffic_notices/index_id_83562.html.
-	
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
-âThe National Games Coordination Office (Hong Kong) (NGCO) has liaised with relevant government departments and organisations to disseminate information on the relevant BCPs clearance services and transportation arrangements to be implemented for the event to the public, travellers and stakeholders through various channels, including:
-
-
-The Airport Authority of Hong Kong (AAHK) has reminded airlines to notify members of the public and travellers taking flights tomorrow to allow sufficient time to travel to the airport and has also issued a circular to inform travellers that CB coach services via the HZMB will be affected. Meanwhile, the AAHK will also issue relevant notices through its website and social media platform.
-	
-The Tourism Commission (TC) has informed the hotel sector through their trade associations to remind their guests of the special transportation arrangements. The TC has also informed licensed travel agents through the Travel Industry Authority and the Travel Industry Council of Hong Kong to avoid bringing tour groups across the HZMB tomorrow. The Hong Kong Tourism Board has also notified its trade partners and disseminated the relevant information on its website (www.discoverhongkong.com/eng/index.html) to facilitate visitors' itinerary planning.
-	
-The TD has informed trades including CB goods vehicles, public transport operators (PTOs) such as Gold Bus, CB coach, local non-franchised bus, franchised bus, taxi operators and MTR of the arrangements tomorrow. The PTOs have been issuing notices gradually to inform passengers. Alert messages were also issued to applicants of Northbound Travel for Hong Kong Vehicles and the HZMB closed road permit holders on the temporary control measures of the HZMB and the Hong Kong Port tomorrow. In addition, the TD will alert motorists to the latest traffic information through Full Variable Message Signs in tunnels and control areas concerned. Meanwhile, MTR Corporation Limited will assist to step up public broadcast in all heavy railway stations. The TD will also urge CB and local travellers and members of the public to take heed of various public transport arrangements in CB traffic, travelling to and from the airport and Tung Chung as well as the Hong Kong Disneyland Resort and plan their journeys early, via the HKeMobility mobile application, radio, TV and Agent T Facebook page (www.facebook.com/AgentT.hk).
-	
-The Islands District Office has disseminated the relevant message to residents in the district through the district network (including District Councils, Area Committees and District Committees, Youth Committees, as well as District Services and Community Care Teams). Some Care Teams in the district have set up street stalls and distributed leaflets at various locations in the area for several days before the event day and posted relevant information on social media, so that residents could be informed of the special transportation arrangements on the day of the event and thus plan and adjust their travel accordingly. The Care Teams have also assisted in contacting property management companies and village representatives in the district and requested them to post the above TD notice at conspicuous places for residents' information. On the day of the event, the Care Teams will deploy staff to inspect the district and provide appropriate assistance to members of the public in need.
-	
-The Marine Department has contacted CB ferry operators to increase the frequency of ferry services to Macao according to operational situation on the morning of the event day.
-	
-The Hong Kong Disneyland Resort has also reminded visitors planning to visit the resort via its official website (www.hongkongdisneyland.com/hkdl/special-notice) and mobile application about the special traffic arrangements on the event day. There may be a possible increase in travel time to and from the resort and the Inspiration Lake Recreation Centre via Magic Road and Fantasy Road due to traffic control measures.
-	
-Hong Kong Customs has informed the transport trades of the traffic arrangements tomorrow and to use other land BCPs as far as possible for entry and exit. Customs has also posted notices at the clearance facilities of the Hong Kong Port and informed the public through its website (www.customs.gov.hk/en/home/index.html) and social media platform.
-	
-The Centre for Food Safety of the Food and Environmental Hygiene Department has informed food traders of the arrangements and posted relevant information on the Food Trader Portal and its official website.
-	
-The Immigration Department (ImmD) will update the situation of the Hong Kong Port in real time through its mobile application on the event day. Tourists can check the queuing situation of the HZMB Hong Kong Port through the ImmD's mobile application before travelling, to better plan their itineraries and minimise queuing time.
-	
-The Police will also remind the public of the temporary traffic control arrangements through its social media platform (www.facebook.com/HongKongPoliceForce).
-
-
-In addition, the 15th NG road cycling (women's individual) event will be held on November 9. Though the race course will mainly be located in Zhuhai and will not affect the HZMB and clearance services at the port, some of the roads in Zhuhai will be closed due to the event. No regular public transport services will be provided for the artificial island of Zhuhai. From 7.30am to 11.30am that day, only limited services for routes departing for Zhuhai will be provided by Gold Bus. Members of the public are advised to avoid taking Gold Bus to Zhuhai during the abovementioned periods. Moreover, some of the ferry services between Hong Kong and Zhuhai Jiuzhou Port will also be suspended on November 8 and 9.
-
- To facilitate a better viewing experience, a public viewing zone will be set up on the footpath of Fantasy Road located at the Hong Kong Disneyland Resort, which can accommodate a few hundred spectators. Members of the public may come to cheer the athletes and enjoy the race there. The Police will implement crowd management measures subject to area conditions. Members of the public are advised to follow instructions of the Police and staff on site. As temporary traffic control measures will be implemented on the race route at the North Lantau Highway, members of the public should take the MTR to the Disneyland Resort station as far as possible to reach the designated viewing zone. The Guangdong competition region has commissioned the China Central Television as the host broadcaster to provide live webcast of the event. All rights-holding broadcasters, including the three local free television broadcasters and Radio Television Hong Kong, will be conferred the live signal.
-
-âA spokesperson for the NGCO said that as the NG is the country's highest-level event, this event has to meet stringent requirements regarding race course selection and organisational arrangements to ensure athletes' safety. Relevant departments will work together to facilitate the special traffic and transportation arrangements to minimise the impact on the public and travellers who usually use the HZMB and other related road sections. Members of the public and travellers who need to travel to and from Zhuhai or Macao are urged to plan their itineraries in advance and use other control points and public transport as far as possible. The spokesperson thanked the public and travellers for their understanding, as well as the contributions of various organisations and departments implementing the relevant arrangements."
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共178 349個日本進口食物樣本（包括116 215個水產及其製品、海藻及海鹽樣本）及共40 010個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 第十五屆全國運動會自行車（公路）比賽（男子個人賽）明日舉行,2025-11-07 15:18,2025-11-07 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700484.htm,"第十五屆全國運動會（十五運會）「中國移動盃」自行車（公路）比賽的男子個人賽將於明日（十一月八日）上午九時舉行，預計下午二時三十分結束，是十五運會唯一橫跨粵港澳三地的賽事。
 
 賽事賽道全程231.8公里，其中香港賽段為55.8公里。車隊將途經港珠澳大橋，然後前往香港口岸人工島、北大嶼山公路和竹篙灣公路，進入香港迪士尼樂園度假區後折返，再經港珠澳大橋前往橫琴，然後返回珠海。預計車隊在上午約十時二十分進入香港段，並在香港段作賽約一個半小時。
@@ -2041,27 +1992,55 @@ In addition, the 15th NG road cycling (women's individual) event will be held on
 為方便公眾觀賞賽事，香港迪士尼樂園度假區幻想道行人路將設公眾觀賞區，可容納約數百名觀眾，市民可到場觀賽和為運動員打氣。警方會視乎現場情況，適時實施人流管制措施，請市民聽從現場警方及工作人員指示。由於北大嶼山公路的賽道路段將實施臨時交通管制措施，市民應盡量乘搭港鐵到迪士尼站再步行前往指定觀賞區。廣東賽區已委託主廣播機構中央電視台直播相關賽事，所有持權媒體，包括香港三間免費電視台和香港電台，均可取得直播訊號。
 
 全運會統籌辦發言人表示，全國運動會為國家最高水平賽事，今次賽道選擇及組織安排須符合嚴格要求，以確保運動員安全。各部門已協調落實特別交通運輸措施，盡量減少對經常使用港珠澳大橋及相關路段的市民和旅客影響。發言人呼籲明日需往返珠海及澳門的市民和旅客及早規劃行程，盡量改用其他口岸及公共交通，並感謝市民、旅客體諒，以及各機構和部門通力合作。"
-政務司副司長出席國航C919重飛「兩航起義」北飛航線發布會致辭（只有中文）（附圖）,2025-11-07 15:02,2025-11-07 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700538.htm,"以下是政務司副司長卓永興今日（十一月七日）出席國航C919重飛「兩航起義」北飛航線發布會的致辭：
+15th National Games road cycling (men's individual) event to be held tomorrow,2025-11-07 15:18,2025-11-07 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700505.htm,"  The men's individual competition of the 15th National Games (NG) China Mobile Cup road cycling event will be staged at 9am tomorrow (November 8) and is expected to conclude at 2.30pm. It is the sole event of the 15th NG that will span across Guangdong, Hong Kong and Macao.
 
-尊敬的崔曉峰董事（中國航空集團董事、前中國民用航空局副局長）、宋一平巡視員（中央人民政府駐香港特別行政區維護國家安全公署二級巡視員）、朱秀峰副主任（外交部駐香港特別行政區特派員公署辦公室副主任）、于曉總裁（香港中國企業協會總裁）、楊俊副處長（中央人民政府駐香港特別行政區聯絡辦公室經濟部副處長）、郝雪松副主任（中國民用航空局政工辦副主任）、丘應樺局長（商務及經濟發展局局長）、陳美寶局長（運輸及物流局局長）、各位嘉賓、各位朋友：
+ The race covers a total distance of 231.8 kilometres, comprising a 55.8km section in Hong Kong. The race convoy will travel through the Hong Kong-Zhuhai-Macao Bridge (HZMB) and go through the Hong Kong Port, North Lantau Highway and Penny's Bay Highway. The athletes will return after passing by the Hong Kong Disneyland Resort and head back to Zhuhai via the HZMB and Hengqin. It is anticipated that the race convoy will enter the Hong Kong section around 10.20am and spend about one and a half hours in the Hong Kong section.
 
-大家好！今天很高興出席由中國國際航空（國航）舉辦的國航C919重飛「兩航起義」北飛航線發布會。
+ To facilitate the holding of the race, temporary control measures will be implemented on the HZMB Hong Kong Port, the HZMB and some roads tomorrow. Members of the public and visitors should pay attention to the following key points:
 
-特區政府高度重視在特區傳承和弘揚愛國主義精神，致力構建以愛國愛港為核心、同「一國兩制」方針相適應的主流價值觀。由政務司司長領導的憲法和基本法推廣督導委員會在去年成立了「愛國主義教育工作小組」，負責統籌協調政府部門和非政府機構在香港特區推廣愛國主義精神。
 
-愛國主義教育是關乎人心、細水長流、深耕細作的工作，必須以軟性和打動人心的方式進行，讓市民特別是年輕一代先認識國家，從而認同國家，最終自然地、自發地從內心愛護祖國。因此，我們不時採用合時和「貼地」的素材，生動有機地用於推展愛國主義教育。今次由中國國際航空舉辦的「翼展愛國光輝、載旗榮耀北飛」活動，就是一個優良的例子。
+Temporary control measures will be implemented on the HZMB westbound from Hong Kong towards Zhuhai/Macao from 7.30am to 12.30pm. The Departure Hall of Passenger Clearance Building and Outbound Vehicle Clearance Plaza of the HZMB Hong Kong Port will close at 6.30am. Travellers or vehicles wishing to leave Hong Kong for Zhuhai or Macao before the implementation of the temporary control measures are required to arrive at the Departure Hall of Passenger Clearance Building or Outbound Vehicle Clearance Plaza of the HZMB Hong Kong Port before 6.30am tomorrow in order to undergo departure and clearance procedures.
+	
+Cross-boundary (CB) public transport services travelling on the HZMB between Hong Kong, Zhuhai and Macao, including the HZMB shuttle bus (Gold Bus), CB coach and bus services of SkyPier Terminal Transfer Coach of Hong Kong International Airport, will be suspended during the implementation of the temporary control.
+	
+Temporary traffic control measures will be implemented on the North Lantau Highway and roads near the Hong Kong Disneyland Resort during the race. Travel time to and from the airport via the North Lantau Highway is expected to increase by about 30 minutes. Travel time to and from the park, hotels and the Inspiration Lake Recreation Centre via Penny's Bay Highway, Sunny Bay Road, Magic Road and Fantasy Road may be also increased by about 30 minutes. Members of the public and travellers should plan their trips in advance and allow sufficient travel time. They are advised to use railway services, including the Airport Express, the Tung Chung line and the Disneyland Resort line, and avoid driving to the above road sections. Drivers who need to drive to the airport can also consider using the Tuen Mun-Chek Lap Kok Tunnel.
+	
+The departure and clearance services at the HZMB Hong Kong Port will resume after 12.30pm tomorrow. It is expected that traffic will be busy. Members of the public should note that as the roads within Zhuhai are still closed for the race until about 2.30pm, Gold Bus from Hong Kong to Zhuhai is expected to provide limited services from 12.30pm to 1.30pm. Members of the public are advised to avoid heading to the Hong Kong Port in haste. Gold Bus from Zhuhai to Hong Kong will resume services at 2.30pm. Meanwhile, Gold Bus services to/from Macao will resume at 12.30pm. The Transport Department (TD) has instructed the Gold Bus operator to draw up manpower arrangements in advance and reserve sufficient backup vehicles to meet passenger demand upon the resumption of normal boundary-crossing services. Members of the public and travellers who need to travel between Zhuhai and Macao tomorrow are advised to plan their journeys early and use other land Boundary Control Points (BCPs) as far as possible and pay attention to the traffic control arrangements within Zhuhai.
+	
+The Police will set up a temporary restricted flying zone (RFZ), extending 2km outwards from the race track from 9am to 1.30pm on November 8. No small unmanned aircraft, except those authorised, will be permitted to enter the zone. Details of the temporary RFZ will be shown on the electronic portal for small unmanned aircraft ""eSUA"".
+	
+For details of the special traffic and transport arrangements for the race, please refer to the TD Notice:www.td.gov.hk/en/traffic_notices/index_id_83562.html.
+	
 
-76年前，中國航空公司和中央航空運輸公司的員工排除萬難，把12架飛機從香港啟德機場，駕駛前往北京和天津的機場。這些飛機以及返回內地的兩航人員成為推動新中國民航事業發展的重要力量，為祖國民航史寫下意義深遠的一頁。香港民航處已經在部門總部的航空教育徑增設「兩航起義」及國家民航發展，包括國家自主研製飛機的展覽廳。另外，在香港機場管理局支持下，一個以「兩航起義」為主題的圖片展也於去年在香港國際機場舉行。
+âThe National Games Coordination Office (Hong Kong) (NGCO) has liaised with relevant government departments and organisations to disseminate information on the relevant BCPs clearance services and transportation arrangements to be implemented for the event to the public, travellers and stakeholders through various channels, including:
 
-國家自主研製出C919飛機，是國家航空製造業的重要里程碑，標誌着國家航空科技取得重大歷史突破。國家民航局自二○一二年開始，已邀請香港民航處參與C919飛機研發的前期工作。民航處其後一直積極參與C919飛機的運行評審。
 
-C919飛機在二○二三年底首次出訪中國內地以外的城市，便來香港演示，飛越維多利亞港上空，當日港人仰望C919飛越維港的雄姿，至今令人難忘。今年元旦，C919開始定期往來內地與香港。香港再次成為內地城市以外，C919首個設有定期航班的地點。國航C919重飛「兩航起義」北飛航線，是對這段歷史的致敬，用上國家自主研製的C919飛機進行重飛，更是添上另一層的特別意義。
+The Airport Authority of Hong Kong (AAHK) has reminded airlines to notify members of the public and travellers taking flights tomorrow to allow sufficient time to travel to the airport and has also issued a circular to inform travellers that CB coach services via the HZMB will be affected. Meanwhile, the AAHK will also issue relevant notices through its website and social media platform.
+	
+The Tourism Commission (TC) has informed the hotel sector through their trade associations to remind their guests of the special transportation arrangements. The TC has also informed licensed travel agents through the Travel Industry Authority and the Travel Industry Council of Hong Kong to avoid bringing tour groups across the HZMB tomorrow. The Hong Kong Tourism Board has also notified its trade partners and disseminated the relevant information on its website (www.discoverhongkong.com/eng/index.html) to facilitate visitors' itinerary planning.
+	
+The TD has informed trades including CB goods vehicles, public transport operators (PTOs) such as Gold Bus, CB coach, local non-franchised bus, franchised bus, taxi operators and MTR of the arrangements tomorrow. The PTOs have been issuing notices gradually to inform passengers. Alert messages were also issued to applicants of Northbound Travel for Hong Kong Vehicles and the HZMB closed road permit holders on the temporary control measures of the HZMB and the Hong Kong Port tomorrow. In addition, the TD will alert motorists to the latest traffic information through Full Variable Message Signs in tunnels and control areas concerned. Meanwhile, MTR Corporation Limited will assist to step up public broadcast in all heavy railway stations. The TD will also urge CB and local travellers and members of the public to take heed of various public transport arrangements in CB traffic, travelling to and from the airport and Tung Chung as well as the Hong Kong Disneyland Resort and plan their journeys early, via the HKeMobility mobile application, radio, TV and Agent T Facebook page (www.facebook.com/AgentT.hk).
+	
+The Islands District Office has disseminated the relevant message to residents in the district through the district network (including District Councils, Area Committees and District Committees, Youth Committees, as well as District Services and Community Care Teams). Some Care Teams in the district have set up street stalls and distributed leaflets at various locations in the area for several days before the event day and posted relevant information on social media, so that residents could be informed of the special transportation arrangements on the day of the event and thus plan and adjust their travel accordingly. The Care Teams have also assisted in contacting property management companies and village representatives in the district and requested them to post the above TD notice at conspicuous places for residents' information. On the day of the event, the Care Teams will deploy staff to inspect the district and provide appropriate assistance to members of the public in need.
+	
+The Marine Department has contacted CB ferry operators to increase the frequency of ferry services to Macao according to operational situation on the morning of the event day.
+	
+The Hong Kong Disneyland Resort has also reminded visitors planning to visit the resort via its official website (www.hongkongdisneyland.com/hkdl/special-notice) and mobile application about the special traffic arrangements on the event day. There may be a possible increase in travel time to and from the resort and the Inspiration Lake Recreation Centre via Magic Road and Fantasy Road due to traffic control measures.
+	
+Hong Kong Customs has informed the transport trades of the traffic arrangements tomorrow and to use other land BCPs as far as possible for entry and exit. Customs has also posted notices at the clearance facilities of the Hong Kong Port and informed the public through its website (www.customs.gov.hk/en/home/index.html) and social media platform.
+	
+The Centre for Food Safety of the Food and Environmental Hygiene Department has informed food traders of the arrangements and posted relevant information on the Food Trader Portal and its official website.
+	
+The Immigration Department (ImmD) will update the situation of the Hong Kong Port in real time through its mobile application on the event day. Tourists can check the queuing situation of the HZMB Hong Kong Port through the ImmD's mobile application before travelling, to better plan their itineraries and minimise queuing time.
+	
+The Police will also remind the public of the temporary traffic control arrangements through its social media platform (www.facebook.com/HongKongPoliceForce).
 
-作為國際航空樞紐，香港會善用「一國兩制」下連接國家和全球的獨特優勢，助力C919進軍國際市場。就此而言，香港國際機場具備豐富經驗和完善配套，能充分支持國產飛機在境外進行維修。香港國際航空學院也正在計劃加強飛機維修工程師的培訓工作，培育更多人才，便利C919飛機在香港進行維修。特區政府亦在積極發展飛機租賃市場。配合香港完善的法律、健全的金融制度，加上香港是全球最大的離岸人民幣業務中心，香港在飛機租賃具備的優勢，十分有利國產飛機在香港透過融資租賃等方式打進國際市場。
 
-我衷心感謝中國國際航空舉辦這場極具意義的活動，紀念「兩航起義」在中國航空史上驚天動地的一頁，讓先輩們的英勇事蹟與犧牲精神代代相傳。在繼續推動社會各界――尤其是年輕一代――的愛國教育工作中，我們需要像國航這樣具有高度責任感與使命感的堅定夥伴，與我們攜手並肩，以豐富多元、深入人心的形式與活動，將愛國情懷深深植根於社區每個角落。
+In addition, the 15th NG road cycling (women's individual) event will be held on November 9. Though the race course will mainly be located in Zhuhai and will not affect the HZMB and clearance services at the port, some of the roads in Zhuhai will be closed due to the event. No regular public transport services will be provided for the artificial island of Zhuhai. From 7.30am to 11.30am that day, only limited services for routes departing for Zhuhai will be provided by Gold Bus. Members of the public are advised to avoid taking Gold Bus to Zhuhai during the abovementioned periods. Moreover, some of the ferry services between Hong Kong and Zhuhai Jiuzhou Port will also be suspended on November 8 and 9.
 
-最後，我祝活動順利舉行、圓滿成功！在座各位身體健康、生活愉快！多謝大家。"
+ To facilitate a better viewing experience, a public viewing zone will be set up on the footpath of Fantasy Road located at the Hong Kong Disneyland Resort, which can accommodate a few hundred spectators. Members of the public may come to cheer the athletes and enjoy the race there. The Police will implement crowd management measures subject to area conditions. Members of the public are advised to follow instructions of the Police and staff on site. As temporary traffic control measures will be implemented on the race route at the North Lantau Highway, members of the public should take the MTR to the Disneyland Resort station as far as possible to reach the designated viewing zone. The Guangdong competition region has commissioned the China Central Television as the host broadcaster to provide live webcast of the event. All rights-holding broadcasters, including the three local free television broadcasters and Radio Television Hong Kong, will be conferred the live signal.
+
+âA spokesperson for the NGCO said that as the NG is the country's highest-level event, this event has to meet stringent requirements regarding race course selection and organisational arrangements to ensure athletes' safety. Relevant departments will work together to facilitate the special traffic and transportation arrangements to minimise the impact on the public and travellers who usually use the HZMB and other related road sections. Members of the public and travellers who need to travel to and from Zhuhai or Macao are urged to plan their itineraries in advance and use other control points and public transport as far as possible. The spokesperson thanked the public and travellers for their understanding, as well as the contributions of various organisations and departments implementing the relevant arrangements."
 政務司副司長出席國航C919重飛「兩航起義」發布會致辭（只有中文）,2025-11-07 15:02,2025-11-07 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700538.htm,"以下是政務司副司長卓永興今日（十一月七日）出席國航C919重飛「兩航起義」發布會的致辭：
 
 尊敬的崔曉峰董事（中國航空集團董事、前中國民用航空局副局長）、宋一平巡視員（中央人民政府駐香港特別行政區維護國家安全公署二級巡視員）、朱秀峰副主任（外交部駐香港特別行政區特派員公署辦公室副主任）、于曉總裁（香港中國企業協會總裁）、楊俊副處長（中央人民政府駐香港特別行政區聯絡辦公室經濟部副處長）、郝雪松副主任（中國民用航空局政工辦副主任）、丘應樺局長（商務及經濟發展局局長）、陳美寶局長（運輸及物流局局長）、各位嘉賓、各位朋友：
@@ -2083,6 +2062,32 @@ C919飛機在二○二三年底首次出訪中國內地以外的城市，便來�
 我衷心感謝中國國際航空舉辦這場極具意義的活動，紀念「兩航起義」在中國航空史上驚天動地的一頁，讓先輩們的英勇事蹟與犧牲精神代代相傳。在繼續推動社會各界――尤其是年輕一代――的愛國教育工作中，我們需要像國航這樣具有高度責任感與使命感的堅定夥伴，與我們攜手並肩，以豐富多元、深入人心的形式與活動，將愛國情懷深深植根於社區每個角落。
 
 最後，我祝活動順利舉行、圓滿成功！在座各位身體健康、生活愉快！多謝大家。"
+政務司副司長出席國航C919重飛「兩航起義」北飛航線發布會致辭（只有中文）（附圖）,2025-11-07 15:02,2025-11-07 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700538.htm,"以下是政務司副司長卓永興今日（十一月七日）出席國航C919重飛「兩航起義」北飛航線發布會的致辭：
+
+尊敬的崔曉峰董事（中國航空集團董事、前中國民用航空局副局長）、宋一平巡視員（中央人民政府駐香港特別行政區維護國家安全公署二級巡視員）、朱秀峰副主任（外交部駐香港特別行政區特派員公署辦公室副主任）、于曉總裁（香港中國企業協會總裁）、楊俊副處長（中央人民政府駐香港特別行政區聯絡辦公室經濟部副處長）、郝雪松副主任（中國民用航空局政工辦副主任）、丘應樺局長（商務及經濟發展局局長）、陳美寶局長（運輸及物流局局長）、各位嘉賓、各位朋友：
+
+大家好！今天很高興出席由中國國際航空（國航）舉辦的國航C919重飛「兩航起義」北飛航線發布會。
+
+特區政府高度重視在特區傳承和弘揚愛國主義精神，致力構建以愛國愛港為核心、同「一國兩制」方針相適應的主流價值觀。由政務司司長領導的憲法和基本法推廣督導委員會在去年成立了「愛國主義教育工作小組」，負責統籌協調政府部門和非政府機構在香港特區推廣愛國主義精神。
+
+愛國主義教育是關乎人心、細水長流、深耕細作的工作，必須以軟性和打動人心的方式進行，讓市民特別是年輕一代先認識國家，從而認同國家，最終自然地、自發地從內心愛護祖國。因此，我們不時採用合時和「貼地」的素材，生動有機地用於推展愛國主義教育。今次由中國國際航空舉辦的「翼展愛國光輝、載旗榮耀北飛」活動，就是一個優良的例子。
+
+76年前，中國航空公司和中央航空運輸公司的員工排除萬難，把12架飛機從香港啟德機場，駕駛前往北京和天津的機場。這些飛機以及返回內地的兩航人員成為推動新中國民航事業發展的重要力量，為祖國民航史寫下意義深遠的一頁。香港民航處已經在部門總部的航空教育徑增設「兩航起義」及國家民航發展，包括國家自主研製飛機的展覽廳。另外，在香港機場管理局支持下，一個以「兩航起義」為主題的圖片展也於去年在香港國際機場舉行。
+
+國家自主研製出C919飛機，是國家航空製造業的重要里程碑，標誌着國家航空科技取得重大歷史突破。國家民航局自二○一二年開始，已邀請香港民航處參與C919飛機研發的前期工作。民航處其後一直積極參與C919飛機的運行評審。
+
+C919飛機在二○二三年底首次出訪中國內地以外的城市，便來香港演示，飛越維多利亞港上空，當日港人仰望C919飛越維港的雄姿，至今令人難忘。今年元旦，C919開始定期往來內地與香港。香港再次成為內地城市以外，C919首個設有定期航班的地點。國航C919重飛「兩航起義」北飛航線，是對這段歷史的致敬，用上國家自主研製的C919飛機進行重飛，更是添上另一層的特別意義。
+
+作為國際航空樞紐，香港會善用「一國兩制」下連接國家和全球的獨特優勢，助力C919進軍國際市場。就此而言，香港國際機場具備豐富經驗和完善配套，能充分支持國產飛機在境外進行維修。香港國際航空學院也正在計劃加強飛機維修工程師的培訓工作，培育更多人才，便利C919飛機在香港進行維修。特區政府亦在積極發展飛機租賃市場。配合香港完善的法律、健全的金融制度，加上香港是全球最大的離岸人民幣業務中心，香港在飛機租賃具備的優勢，十分有利國產飛機在香港透過融資租賃等方式打進國際市場。
+
+我衷心感謝中國國際航空舉辦這場極具意義的活動，紀念「兩航起義」在中國航空史上驚天動地的一頁，讓先輩們的英勇事蹟與犧牲精神代代相傳。在繼續推動社會各界――尤其是年輕一代――的愛國教育工作中，我們需要像國航這樣具有高度責任感與使命感的堅定夥伴，與我們攜手並肩，以豐富多元、深入人心的形式與活動，將愛國情懷深深植根於社區每個角落。
+
+最後，我祝活動順利舉行、圓滿成功！在座各位身體健康、生活愉快！多謝大家。"
+香港視覺藝術中心展示藝術專修課程畢業生作品（附圖）,2025-11-07 15:00,2025-11-07 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700522.htm,"藝術推廣辦事處轄下的香港視覺藝術中心今日（十一月七日）至十一月二十八日舉行「藝術專修課程2024-25畢業展」，展出23位藝術專修課程畢業生的作品。展覽免費入場。
+
+展覽匯聚了兩個藝術專修課程「素描、繪畫與版畫」及「雕塑、身體與空間」學員的創作成果，涵蓋對立體與平面視覺領域的深入探索，從以身體為本的造型與空間實驗，到繪畫中對寫實和概念表達的思考。作品結合了創作者對物料、感官及空間的獨特詮釋，見證學員在技藝上的進步與理念的深化，體現藝術作為生命實踐的意義。
+
+有關展覽詳情，請瀏覽網頁www.apo.hk/tc/web/apo/va_art_specialist_course_2024_25_graduation_exhibition.html。"
 粵港澳珠江三角洲區域空氣監測網絡二○二四年空氣質素報告發布,2025-11-07 15:00,2025-11-07 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110600287.htm,"粵港澳今日（十一月七日）共同發布粵港澳珠江三角洲區域空氣監測網絡二○二四年空氣質素報告，報告顯示各類空氣污染物，即二氧化硫、二氧化氮、一氧化碳、顆粒物PM10和PM2.5，均呈現持續下降趨勢。
 
 粵港澳三地政府過去多年因地制宜地推出多項政策措施，合作提升區內空氣質素。根據報告，各類空氣污染物在二○二四年錄得的年均濃度值分別從高峰水平下降18%至86%不等（詳見附件一及二），反映近年粵港澳三地推行的減排措施對改善珠江三角洲地區的空氣質量的成效。
@@ -2154,11 +2159,6 @@ The Macao Environmental Protection Bureau (www.dspa.gov.mo) or the Macao Meteoro
 
 
 Looking ahead, the governments of Guangdong, Hong Kong, and Macao will continue to work hand in hand to build a beautiful bay area and further improve air quality in the GBA."
-香港視覺藝術中心展示藝術專修課程畢業生作品（附圖）,2025-11-07 15:00,2025-11-07 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700522.htm,"藝術推廣辦事處轄下的香港視覺藝術中心今日（十一月七日）至十一月二十八日舉行「藝術專修課程2024-25畢業展」，展出23位藝術專修課程畢業生的作品。展覽免費入場。
-
-展覽匯聚了兩個藝術專修課程「素描、繪畫與版畫」及「雕塑、身體與空間」學員的創作成果，涵蓋對立體與平面視覺領域的深入探索，從以身體為本的造型與空間實驗，到繪畫中對寫實和概念表達的思考。作品結合了創作者對物料、感官及空間的獨特詮釋，見證學員在技藝上的進步與理念的深化，體現藝術作為生命實踐的意義。
-
-有關展覽詳情，請瀏覽網頁www.apo.hk/tc/web/apo/va_art_specialist_course_2024_25_graduation_exhibition.html。"
 "Tripartite joint operation ""THUNDERBOLT 2025"" against triads and organised crimes (with photos)",2025-11-07 14:17,2025-11-07 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700496.htm,"Hong Kong Police mounted an anti-crime operation codenamed “THUNDERBOLT 2025”, jointly with police authorities of Guangdong and Macao in two phases from August 4 to September 6 and from October 11 to October 25. This intelligence-led joint enforcement operation aimed at combating illegal activities of triad societies and organised crime syndicates, neutralising cross-boundary crimes, and interdicting the criminals’ source of income. Hong Kong Police arrested 4 140 persons and seized cash, dangerous drugs and illicit goods relating to illegal activities worth about $548 million in total in the operation.
 
 During the operation, Hong Kong Police conducted searches at about 1,700 locations, successfully neutralised over 800 illegal premises including gambling dens, vice establishments, divans and unlicensed bars. 
@@ -2204,13 +2204,6 @@ Lastly, just as robust infrastructure is fundamental to the progress of our soci
 I am confident that today's Forum will be enlightening and inspiring. Let us make the most of this opportunity to collaborate, innovate, and drive progress together.
 
 Thank you."
-長者日消費優惠活動十一月十六日舉行,2025-11-07 12:40,2025-11-07 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700255.htm,"十一月十六日（星期日）為「長者日」，為向長者表達敬意和關懷，社會福利署（社署）籌辦「長者日消費優惠」活動，邀請本地飲食業、零售業及其他商戶於當日為長者咭持有人提供特別折扣或優惠。
-
-社署發言人表示，全港18區已有超過400間機構和商戶參與「長者日消費優惠」活動，約3 800間店舖將於活動當天在門市展示優惠內容及使用條款或細則，並張貼相關宣傳海報（見附件），以方便長者識別。長者咭持有人只需以手機掃描宣傳海報上的二維碼，即可瀏覽參與商戶名單及優惠資料。社署網頁（www.swd.gov.hk）及「長者咭計劃」流動應用程式亦載有相關資料。
-
-社署感謝業界踴躍支持活動，並鼓勵長者咭持有人於「長者日」享用各項折扣和優惠。社署歡迎更多各行各業的商戶支持及加入「長者咭計劃」。
-
-市民如就「長者日消費優惠」活動有任何查詢，可於辦公時間致電2152 2847與長者咭辦事處聯絡。"
 Special discounts and concessions offered for Senior Citizens Day on November 16,2025-11-07 12:40,2025-11-07 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700259.htm,"  âTo show care and respect for the elderly, the Social Welfare Department (SWD) has organised a concession programme by inviting the local catering sector, retail and other merchants to offer special discounts and concessions to Senior Citizen Card (SCC) holders on Senior Citizens Day on November 16 (Sunday).
 
   An SWD spokesman said that over 400 participating organisations and merchants with more than 3 800 outlets throughout the 18 districts will post their concession offers, terms and conditions, and display publicity posters on Senior Citizens Day (see Attachment) for elderly people's easy identification. SCC holders can simply scan the QR code on the publicity poster to learn about the participating companies and special offers. The information is also available on the SWD website (www.swd.gov.hk) and the SCC Scheme's mobile application.
@@ -2218,6 +2211,13 @@ Special discounts and concessions offered for Senior Citizens Day on November 16
   The SWD expresses gratitude to different sectors' enthusiastic support and encourages SCC holders to enjoy the concessions and discounts on Senior Citizens Day. The SWD welcomes more merchants from different business sectors to support and join the SCC Scheme.
 
   For enquiries on the concessions, please contact the Senior Citizen Card Office at 2152 2847 during office hours."
+長者日消費優惠活動十一月十六日舉行,2025-11-07 12:40,2025-11-07 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700255.htm,"十一月十六日（星期日）為「長者日」，為向長者表達敬意和關懷，社會福利署（社署）籌辦「長者日消費優惠」活動，邀請本地飲食業、零售業及其他商戶於當日為長者咭持有人提供特別折扣或優惠。
+
+社署發言人表示，全港18區已有超過400間機構和商戶參與「長者日消費優惠」活動，約3 800間店舖將於活動當天在門市展示優惠內容及使用條款或細則，並張貼相關宣傳海報（見附件），以方便長者識別。長者咭持有人只需以手機掃描宣傳海報上的二維碼，即可瀏覽參與商戶名單及優惠資料。社署網頁（www.swd.gov.hk）及「長者咭計劃」流動應用程式亦載有相關資料。
+
+社署感謝業界踴躍支持活動，並鼓勵長者咭持有人於「長者日」享用各項折扣和優惠。社署歡迎更多各行各業的商戶支持及加入「長者咭計劃」。
+
+市民如就「長者日消費優惠」活動有任何查詢，可於辦公時間致電2152 2847與長者咭辦事處聯絡。"
 Pilot Scheme for Direct Cross-boundary Ambulance Transfer in GBA to be extended to Zhuhai and Nansha on Sunday,2025-11-07 12:38,2025-11-07 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700324.htm,"  The Hong Kong Special Administrative Region (HKSAR) Government announced that the Pilot Scheme for Direct Cross-boundary Ambulance Transfer in the Greater Bay Area will be extended to designated hospitals in Zhuhai and Nansha from November 9 (Sunday), marking a new phase of the Pilot Scheme.
 
   In his Policy Address in September this year, the Chief Executive has announced the extension of the cross-boundary ambulance transfer arrangements with the governments of Guangdong and Macao in an orderly manner, including expansion to cover designated hospitals in Zhuhai and Nansha, as well as two-way transfers. To ensure the smooth implementation of relevant arrangements, the HKSAR Government, in collaboration with the People's Government of Zhuhai Municipality and the Nansha District People's Government of Guangzhou Municipality, conducted drills in September and October respectively to assess the simulated transfer of patients under the cross-boundary ambulance arrangements. The drills were conducted smoothly in general. The Pilot Scheme will be extended to Zhuhai People's Hospital and the Nansha Division of the First Affiliated Hospital, Sun Yat-sen University, starting from November 9.
@@ -2229,15 +2229,6 @@ Pilot Scheme for Direct Cross-boundary Ambulance Transfer in GBA to be extended 
   The Pilot Scheme was launched on November 30 last year, with the implementation of direct cross-boundary ambulance transfer of patients from designated sending hospitals in Shenzhen and Macao (i.e. the University of Hong Kong - Shenzhen Hospital and the Conde S. Januario Hospital of Macao) to designated public hospitals in Hong Kong in its first phase. As at early November this year, a total of 17 patients (11 from Shenzhen and six from Macao) had been successfully transferred to designated public hospitals in Hong Kong for treatment. According to professional medical assessments, patients of the above cases have a need for continuous hospitalisation for treatment. Their conditions were relatively stable, but they were unable to cross the boundary on their own and were unsuitable for transfer to an ambulance via the existing boundary control points. The risk during transfers can be significantly reduced if patients are not required to be handed over between ambulances at boundary control points, and the arrangements fully demonstrated the continuous deepening of quality healthcare collaboration and development in the GBA. The overall operation of the Pilot Scheme has been smooth since its implementation, and it will be extended for one year until November 29 next year.
 
   The governments of Guangdong, Hong Kong and Macao will continue to review the effectiveness and operational experiences of the existing transfer arrangements, with the medical needs, safety and interests of patients as the prime concerns, as well as to press ahead with the objective of extending the cross-boundary ambulance transfer arrangements to two-way transfers as set out in the Policy Address, aiming for implementation early next year."
-Police pay tribute to fallen police officers (with photos),2025-11-07 12:19,2025-11-07 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700311.htm,"The Hong Kong Police Force (HKPF) held the Force Remembrance Day ceremony at the Police Headquarters this morning (November 7). The Commissioner of Police, Mr Chow Yat-ming, led police representatives to attend and pay solemn tribute to regular and auxiliary officers who made their ultimate sacrifice in the line of duty.
-
-Speaking at the ceremony, Mr Chow noted that retired and serving Force members were gathered in memory of the officers who sacrificed their lives in pursuit of the Force's mission. He said that the fallen officers' tenacity in preserving law and order, courage in times of danger and passion in serving the community were commemorated and honoured. Their legacy has been etched in history, underscoring that the job of police is a mission worthy of pride. Their dedication to safeguarding the society and people's lives and property has not only been exemplary for each and every one in the Force but has also left a lasting impression on the public, fortifying the long-established professional image of HKPF.
-
-He mentioned that the spirit of the fallen comrades and all devoted Force members has led generations of colleagues to pass on professionalism and the finest traditions. This has enabled the entire Force to forge ahead and tide over obstacles despite challenges to law and order, major incidents, natural disasters and pandemics, allowing Hong Kong to be back on the right track and ensuring the stability of citizens' lives.
-
-He continued, ""The global environment remains dynamic and complex. Safeguarding national security and maintaining law and order still require our all-out efforts. I am fully confident that every member of the Force, including regular, civilian and auxiliary, will continue to uphold the professional spirit of our predecessors."" He encouraged colleagues to face challenges head-on, strive for excellence and exemplify unity and strength as ""One Force"", ensuring the HKPF remains one of the finest law enforcement agencies in the world.
-
-During the ceremony, the Police Band bugler sounded the ""Last Post"" to signal a two-minute silence. Wreaths were laid in front of the Force Memorial Wall respectively by Mr Chow; the Commandant of the Hong Kong Auxiliary Police Force, Mr Leung Sai-kwong; and representatives of various police formations and associations."
 警隊向殉職警務人員致敬（附圖）,2025-11-07 12:19,2025-11-07 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700318.htm,"香港警務處今日（十一月七日）早上在警察總部舉行警隊紀念日儀式，警務處處長周一鳴率領警隊代表出席，向因公殉職的正規和輔警人員致以崇高敬意。
 
 周一鳴在儀式致辭時表示，警隊退役和現役同僚齊集悼念為履行警隊使命而犧牲性命的人員，懷緬他們維護法紀的執着、危難當前的英勇和忠誠為民的熱血。他們的事蹟凸顯警察是一份值得引以為傲的使命，而他們對捍衞社會和市民生命財產安全的堅持，除了成為警隊上下的典範，更在所有市民心中留下深刻印記，塑造香港警察多年來的專業形象。
@@ -2247,6 +2238,15 @@ During the ceremony, the Police Band bugler sounded the ""Last Post"" to signal 
 他續說：「面對世界環境複雜多變，維護國家安全和維持社會治安的工作仍然任重道遠。但我深信警隊每一位成員，不論正規、文職或輔警，必定會持續秉承警隊前人的專業精神。」他勉勵同袍迎難而上，精益求精，展現「One Force」（一個警隊）的團隊精神，使香港警隊繼續成為世界上其中一支最優秀的執法隊伍。
 
 儀式上，警察樂隊號手吹奏《最後崗位》，在場人士默哀兩分鐘。周一鳴、香港輔助警察隊總監梁世光、警隊各單位及警務人員協會代表分別在警隊紀念牆前獻上花圈。"
+Police pay tribute to fallen police officers (with photos),2025-11-07 12:19,2025-11-07 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700311.htm,"The Hong Kong Police Force (HKPF) held the Force Remembrance Day ceremony at the Police Headquarters this morning (November 7). The Commissioner of Police, Mr Chow Yat-ming, led police representatives to attend and pay solemn tribute to regular and auxiliary officers who made their ultimate sacrifice in the line of duty.
+
+Speaking at the ceremony, Mr Chow noted that retired and serving Force members were gathered in memory of the officers who sacrificed their lives in pursuit of the Force's mission. He said that the fallen officers' tenacity in preserving law and order, courage in times of danger and passion in serving the community were commemorated and honoured. Their legacy has been etched in history, underscoring that the job of police is a mission worthy of pride. Their dedication to safeguarding the society and people's lives and property has not only been exemplary for each and every one in the Force but has also left a lasting impression on the public, fortifying the long-established professional image of HKPF.
+
+He mentioned that the spirit of the fallen comrades and all devoted Force members has led generations of colleagues to pass on professionalism and the finest traditions. This has enabled the entire Force to forge ahead and tide over obstacles despite challenges to law and order, major incidents, natural disasters and pandemics, allowing Hong Kong to be back on the right track and ensuring the stability of citizens' lives.
+
+He continued, ""The global environment remains dynamic and complex. Safeguarding national security and maintaining law and order still require our all-out efforts. I am fully confident that every member of the Force, including regular, civilian and auxiliary, will continue to uphold the professional spirit of our predecessors."" He encouraged colleagues to face challenges head-on, strive for excellence and exemplify unity and strength as ""One Force"", ensuring the HKPF remains one of the finest law enforcement agencies in the world.
+
+During the ceremony, the Police Band bugler sounded the ""Last Post"" to signal a two-minute silence. Wreaths were laid in front of the Force Memorial Wall respectively by Mr Chow; the Commandant of the Hong Kong Auxiliary Police Force, Mr Leung Sai-kwong; and representatives of various police formations and associations."
 「大灣區跨境直通救護車試行計劃」周日擴展至珠海及南沙,2025-11-07 12:00,2025-11-07 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700251.htm,"香港特別行政區（特區）政府公布「大灣區跨境直通救護車試行計劃」將由十一月九日（星期日）起擴展至珠海與南沙的指定醫院，標誌着試行計劃進入新階段。
 
 行政長官在今年九月發表的《施政報告》中提出，聯同粵澳政府有序地擴展救護車跨境轉運病人安排，包括納入珠海和南沙兩地指定醫院並實施雙向轉運。為確保有關安排暢順，香港特區政府在九月及十月分別聯同珠海市及廣州市南沙區人民政府進行演練，測試在模擬載送病人的情況下的救護車跨境安排，過程大致順暢。試行計劃將由十一月九日起擴展至珠海市人民醫院和中山大學附屬第一醫院南沙院區。
@@ -2302,11 +2302,6 @@ The EMSD publishes the latest statistics of the above information on a half-mont
 (www.emsd.gov.hk/en/other_regulatory_services/cooling_towers/water_sampling/index.html).
 
 The EMSD reminds the owners of fresh water cooling towers that they have the responsibility to design, operate and maintain cooling towers properly. They should arrange regular inspections, timely maintenance and periodic testing of the water quality in their cooling towers in accordance with the Code of Practice for Fresh Water Cooling Towers issued by the department to prevent the proliferation of legionella."
-​數個泳灘懸掛紅旗,2025-11-07 10:38,2025-11-07 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700254.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（十一月七日）宣布，由於大浪關係，港島南區的深水灣泳灘、赤柱正灘泳灘及大浪灣泳灘；以及西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flags hoisted at some beaches,2025-11-07 10:38,2025-11-07 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700256.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -2315,3 +2310,8 @@ Please broadcast the following as soon as possible:
 
   The Leisure and Cultural Services Department announced today (November 7) that due to big waves, red flags have been hoisted at Deep Water Bay Beach, Stanley Main Beach and Big Wave Bay Beach in Southern District, Hong Kong Island, and Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches.
 "
+​數個泳灘懸掛紅旗,2025-11-07 10:38,2025-11-07 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/07/P2025110700254.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（十一月七日）宣布，由於大浪關係，港島南區的深水灣泳灘、赤柱正灘泳灘及大浪灣泳灘；以及西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
