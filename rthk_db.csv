@@ -1,4 +1,28 @@
 title,date,summary,scrape_time,section,source,url,news_content
+"Nvidia, Microsoft invest US$15bn in AI firm Anthropic",2025-11-19 07:03,,2025-11-19 07:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1832303-20251119.htm,"Chip giant Nvidia and Microsoft announced on Tuesday investments totalling US$15 billion in AI startup Anthropic, creator of the Claude chatbot, as the AI investment frenzy continues amid emerging fears of a bubble on Wall Street.
+
+Nvidia committed up to US$10 billion while Microsoft – which owns 27 percent of Anthropic rival OpenAI – pledged up to US$5 billion to the maker of Claude AI models.
+
+The deal was part of a sweeping agreement that saw Anthropic commit to purchasing US$30 billion in Microsoft's cloud computing capacity and adopt the latest versions of Nvidia's chip technology.
+
+""We're increasingly going to be customers of each other,"" said Microsoft CEO Satya Nadella in an online video announcing the deal.
+
+""We will use Anthropic models. They will use our infrastructure, and we'll go to market together to help our customers realise the value of AI.""
+
+The investments mark a significant realignment in the generative AI sector, where competition has intensified between ChatGPT-maker OpenAI and rivals including Anthropic, but also Google, which released its latest Gemini model on Tuesday.
+
+California-based Anthropic was launched in 2021 by former OpenAI staff and positions itself as prioritising safety in AI development. Its flagship product is the Claude chatbot and family of models.
+
+With increasing talk among Wall Street analysts of an AI bubble, shares in Nvidia, the world's biggest company by market capitalisation, were down as much as three percent amid a broad sell-off in the tech sectors.
+
+Microsoft's shares were down nearly 3.5 percent.
+
+Sources told CNBC that the fresh investment valued Anthropic at US$350 billion, making it one of the world's most valuable companies. OpenAI was most recently valued at US$500 billion. (AFP)"
+天文台截至早上六時錄得最低氣溫13.2度　是今年入秋以來最低,2025-11-19 07:00,,2025-11-19 07:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832331-20251119.htm,"受強烈東北季候風影響，本港今早天氣顯著較涼。
+
+天文台截至早上六時，錄得最低氣溫13.2度，是今年入秋以來最低，新界普遍再低一兩度。
+
+天文台又說，風寒效應會較明顯，提醒市民留意天氣變化。"
 Wall Street stocks sink on AI and Nvidia concerns,2025-11-19 06:48,,2025-11-19 07:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1832329-20251119.htm,"US stocks ended lower on Tuesday, with the S&P 500 putting in a fourth straight session of losses, as valuation worries hit big technology-related shares and a disappointing forecast pressured Home Depot.
 
 The four-day drop was the benchmark's longest losing streak in three months.
@@ -182,11 +206,6 @@ Cloudflare的主要業務是為大型網站提供網絡安全及流量監控服�
 納斯達克指數報22434點，跌273點，跌幅1.2%。
 
 標準普爾500指數報6624點，跌47點，跌幅0.72%。"
-謝瑞麟中期虧損收窄逾19%,2025-11-18 22:50,,2025-11-18 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832294-20251118.htm,"謝瑞麟截至9月底，中期虧損近3529萬元，按年收窄逾19%。不派中期息。
-
-期內，營業額7.3億元，按年跌逾15%，主要是全球經濟低迷及金價屢創新高，嚴重影響消費行為及市場情緒，全球奢侈品零售市場復蘇緩慢，尤其是內地及香港，關閉虧損自營店亦影響銷售。毛利率31.1%，按年下跌3.3個百分點。
-
-集團指，已實施多項成本控制措施，包括精簡人力資源、大幅削減員工成本，以及將多項總部職能由香港遷往內地，以維持非常精簡及高效的組織架構。"
 家得寶上季意外少賺1%遜預期　下調全年度盈利預測,2025-11-18 22:50,,2025-11-18 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832293-20251118.htm,"家得寶上季業績差過市場預期，並下調全年度盈利預測。
 
 上季盈利36億美元，按年意外下跌1%，差過市場預期近38.4億元。每股經調整盈利3.74美元，差過預期的3.85美元。
@@ -194,6 +213,11 @@ Cloudflare的主要業務是為大型網站提供網絡安全及流量監控服�
 季內收入413.5億美元，按年升2.8%，好過預期。
 
 家得寶預期，今個財政年度每股經調整盈利將按年下跌約5%，差過原先預期跌2%，主要是消費者面對不確定性，以及住房壓力持續，導致家居裝修需求受到極大影響。"
+謝瑞麟中期虧損收窄逾19%,2025-11-18 22:50,,2025-11-18 23:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832294-20251118.htm,"謝瑞麟截至9月底，中期虧損近3529萬元，按年收窄逾19%。不派中期息。
+
+期內，營業額7.3億元，按年跌逾15%，主要是全球經濟低迷及金價屢創新高，嚴重影響消費行為及市場情緒，全球奢侈品零售市場復蘇緩慢，尤其是內地及香港，關閉虧損自營店亦影響銷售。毛利率31.1%，按年下跌3.3個百分點。
+
+集團指，已實施多項成本控制措施，包括精簡人力資源、大幅削減員工成本，以及將多項總部職能由香港遷往內地，以維持非常精簡及高效的組織架構。"
 十五運會｜黃澤林晉級男單四強　女子重劍團體銅牌戰不敵北京,2025-11-18 22:49,,2025-11-18 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832295-20251118.htm,"十五運會賽事，港隊在女子重劍團體銅牌戰不敵北京，獲得第四名。
 
 男子網球代表黃澤林擊敗北京選手，晉級四強穩奪獎牌，明天同浙江對手爭入決賽。"
@@ -333,14 +357,14 @@ Authorities plan to release a full report within a year."
 總統室發言人姜由楨表示，南韓政府沒有敵對或對抗朝方的意圖，韓美安全合作目的是鞏固國家安全及捍衛國家利益，政府今後將努力推動韓美同盟為朝鮮半島及地區穩定作出貢獻。
 
 朝中社較早時發表評論，譴責近日美韓首腦會談發布的成果文件及美韓安保會議聯合聲明，批評美韓再次暴露堅持敵對北韓的對抗意圖。朝方將採取更必要和切實可行的措施，捍衛國家主權、安全利益及地區和平。"
-港足迎戰新加坡啟德主場館滿座　多名官員到場關婉儀了解工作情況,2025-11-18 19:55,,2025-11-18 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832275-20251118.htm,"中國香港足球代表隊，晚上8時將會在啟德主場館，迎戰新加坡，踢亞洲盃外圍賽的「生死戰」。
+港足迎戰新加坡啟德主場館滿座　關婉儀到場了解港台直播賽事情況,2025-11-18 19:55,,2025-11-18 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832275-20251118.htm,"中國香港足球代表隊，晚上8時將會在啟德主場館，迎戰新加坡，踢亞洲盃外圍賽的「生死戰」。
 
 容納到5萬人的啟德主場館，門票早前已售罄，足總在球場門外竪起印有「場已爆」字眼的紅旗。下午開始陸續有身穿港隊紅色主場球衣的球迷入場，準備為球隊呐喊助威。
 
 文化體育及旅遊局局長羅淑佩、警務處處長周一鳴等官員到場觀賽。港台電視32，今晚將會獨家直播賽事，廣播處長關婉儀到場，向港台工作人員了解工作情況。
 
 港隊假如今場勝出，可以晉身2027年在沙特舉行的決賽周，如果落敗就會出局；打和就要視乎最後一輪賽果。"
-港足迎戰新加坡啟德主場館滿座　關婉儀到場了解港台直播賽事情況,2025-11-18 19:55,,2025-11-18 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832275-20251118.htm,"中國香港足球代表隊，晚上8時將會在啟德主場館，迎戰新加坡，踢亞洲盃外圍賽的「生死戰」。
+港足迎戰新加坡啟德主場館滿座　多名官員到場關婉儀了解工作情況,2025-11-18 19:55,,2025-11-18 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832275-20251118.htm,"中國香港足球代表隊，晚上8時將會在啟德主場館，迎戰新加坡，踢亞洲盃外圍賽的「生死戰」。
 
 容納到5萬人的啟德主場館，門票早前已售罄，足總在球場門外竪起印有「場已爆」字眼的紅旗。下午開始陸續有身穿港隊紅色主場球衣的球迷入場，準備為球隊呐喊助威。
 
@@ -483,11 +507,11 @@ Secretary for Environment and Ecology Tse Chin-wan said the government has been 
 
 中心又說，本港今個夏季流感季節至今已錄得19宗涉及兒童流感的嚴重個案，包括兩宗死亡個案，涉及的兒童年齡介乎11個月至17歲。若單單計算在本年度季節性流感疫苗接種計劃展開後錄得的10宗個案，只有一人曾在發病前4天接種本年度季節性流感疫苗，但接種後一般需要兩周身體才能產生足夠保護力，換言之這些嚴重個案未能受到疫苗保護，敦促學校和家長盡快安排學童和子女免費接種季節性流感疫苗。"
 【重溫】2025年11月18日新聞天地,2025-11-18 18:51,,2025-11-18 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832242-20251118.htm,詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。
-李家超：香港經濟應會進一步穩健增長	行政長官李家超話,2025-11-18 18:49,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832240-20251118.htm,行政長官李家超表示，受惠於金融市場興旺，以及訪港旅客持續增長等因素，香港經濟應該會進一步穩健增長。
+李家超：香港經濟應會進一步穩健增長,2025-11-18 18:49,,2025-11-18 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832240-20251118.htm,行政長官李家超表示，受惠於金融市場興旺，以及訪港旅客持續增長等因素，香港經濟應該會進一步穩健增長。
 立法會選舉｜孫玉菡稱長者及殘疾中心均應邀領資助　以助院友投票,2025-11-18 18:49,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832264-20251118.htm,"政府會向長者中心及殘疾人士地區支援中心提供一次性2萬元資助，在下月7日立法會選舉投票日，安排接送有需要長者、殘疾人士及照顧者前往票站。勞工及福利局局長孫玉菡表示，上次區議會選舉已有類似安排，上次有9成長者中心參與，當局今次已邀請216間長者中心和21間殘疾人士中心參加，並獲所有中心回覆將參與領取資助，為院舍人士提供投票便利。
 
 選舉事務處在投票當日，將於部分院舍所在的建築物內設立外展投票站，今次試行為11間安老及4間殘疾院舍提供服務，涉及三個地點。孫玉菡說，3個地點分別在港島、九龍和新界，票站將設於不影響院舍運作的地方，例如公共空間或院舍禮堂，方便院友和院舍職員投票。"
-李家超：香港經濟應會進一步穩健增長,2025-11-18 18:49,,2025-11-18 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832240-20251118.htm,行政長官李家超表示，受惠於金融市場興旺，以及訪港旅客持續增長等因素，香港經濟應該會進一步穩健增長。
+李家超：香港經濟應會進一步穩健增長	行政長官李家超話,2025-11-18 18:49,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832240-20251118.htm,行政長官李家超表示，受惠於金融市場興旺，以及訪港旅客持續增長等因素，香港經濟應該會進一步穩健增長。
 十五運會｜港隊劍擊女子重劍團體賽不敵北京隊　第四名完成賽事,2025-11-18 18:48,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832263-20251118.htm,"十五運會劍擊女子重劍團體賽銅牌賽，港隊在啟德體藝館與北京隊爭奪銅牌。比賽中段開始北京隊拉開比數差距，港隊輸32:43，第四名完成賽事。
 
 團體賽每場分9節進行，劍手要輪流作賽，港隊陣容保留佘繕妡及陳渭泠，16歲小將吳海諦取代朱嘉望。
@@ -513,9 +537,6 @@ Secretary for Environment and Ecology Tse Chin-wan said the government has been 
 科大表示深感榮幸，認為審批結果標誌著以匯聚創新與跨學科之力，推進醫學教育，為應對未來醫療挑戰作出重大突破。"
 十五運快訊｜黃澤林鎖定為港隊添獎牌,2025-11-18 18:39,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832251-20251118.htm,本港男子網球代表黃澤林，在十五運男子單打8強賽擊敗北京的崔杰，晉級4強。由於賽事不設銅牌戰，黃澤林肯定為港隊增添一面獎牌。
 兩電明年減電費　中電減2.6%港燈減2.2%,2025-11-18 18:39,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832241-20251118.htm,兩間電力公司明年會減電費，雖然兩電都會上調基本電費，但因為燃料調整費減幅較大，令中電明年的平均淨電價，較今年減少2.6%，港燈的平均淨電費就減2.2%。政府說，根據兩電估算，以一個三人家庭為例，每月的電費大約會少付10元。
-本港失業率微跌　孫玉菡稱營商氣氛和消費信心改善帶來支持,2025-11-18 18:38,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832258-20251118.htm,"本港8月至10月失業率為3.8%，下跌0.1個百分點。近15萬人失業，減少大約6000人，零售、住宿和膳食服務等行業有明顯跌幅。
-
-勞工及福利局局長孫玉菡說，營商氣氛和消費信心逐步改善，相信可為勞工市場帶來支持。"
 小米上季智能手機收入跌逾3%　智能電動汽車等創新業務首獲利,2025-11-18 18:38,,2025-11-18 19:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832250-20251118.htm,"小米第3季智能電動汽車及AI等創新業務首次錄得單季經營盈利，達7億元；這項業務收入增至290億元創新高，智能電動汽車收入佔283億元，兩者都升約2倍。
 
 上季「手機x AIoT」業務收入841.1億元人民幣，按年升近2%。當中，智能手機業務收入則跌逾3%至459.7億元，由於平均售價跌約4%至每部約1063元，但出貨量升0.5%至4330萬部，連升9個季度。
@@ -526,6 +547,9 @@ Secretary for Environment and Ecology Tse Chin-wan said the government has been 
 天文台：明早顯著轉涼　市區氣溫約14度,2025-11-18 18:38,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832247-20251118.htm,"天文台表示，受強烈東北季候風影響，市區氣溫會逐步下降，明早約14度，新界部分地區寒冷，日間最高氣溫約17度。
 
 天文台預計，隨著廣闊雲帶轉薄及東北季候風緩和，本週後期華南地區天色好轉，氣溫逐漸回升，但早上仍然清涼。"
+本港失業率微跌　孫玉菡稱營商氣氛和消費信心改善帶來支持,2025-11-18 18:38,,2025-11-18 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832258-20251118.htm,"本港8月至10月失業率為3.8%，下跌0.1個百分點。近15萬人失業，減少大約6000人，零售、住宿和膳食服務等行業有明顯跌幅。
+
+勞工及福利局局長孫玉菡說，營商氣氛和消費信心逐步改善，相信可為勞工市場帶來支持。"
 外交部：安理會加沙決議對巴人治巴、兩國方案等原則未充分體現,2025-11-18 18:36,,2025-11-18 19:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832261-20251118.htm,"聯合國安理會通過由美國起草的決議，支持美國總統特朗普結束加沙戰爭的計劃，授權建立臨時國際穩定部隊，中國與俄羅斯投棄權票。
 
 在北京，外交部發言人毛寧中方支持安理會採取一切必要行動，推動實現持久停火，緩解人道災難，開啟戰後重建。美方決議草案對於加沙的戰後安排關鍵問題含糊不清，對巴人治巴、兩國方案等重要原則未充分體現，與中方一貫立場有差距，中方因此沒有投贊成票。中方將繼續採取建設性和負責任的態度，支持巴勒斯坦人民恢復民族合法權利的正義事業，為實現巴勒斯坦問題全面、公正、持久解決作出不懈努力。"
@@ -1012,25 +1036,6 @@ The third medical school plan was announced in Chief Executive John Lee' Policy 
 科技指數報5649點，跌107點，跌幅1.86%。
 
 區內股市亦顯著向下，日韓台股跌逾2%至逾3%，內地股市3大指數跌約1%。"
-Paul Chan says geopolitical chaos is great for HK,2025-11-18 13:06,,2025-11-18 13:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1832167-20251118.htm,"Financial Secretary Paul Chan said on Tuesday that geopolitical developments are elevating instead of diminishing Hong Kong's position as an international financial centre.
-
-Delivering a keynote speech at the opening of the Changing Global Economy conference in Admiralty, he noted that US policy shifts early this year had brought a new level of uncertainty to global markets and affected market volatility.
-
-Chan said more investors were seeking out safe havens such as Hong Kong that offer transparent, consistent and stable policy environments and jurisdictions with familiar legal systems and trusted regulatory frameworks.
-
-More leading firms have also expanded their businesses here, he added.
-
-""Geoeconomic reconfiguration is accelerating regional economic co-operation and advancing trade and investment within blocs,"" Chan said. 
-
-""We are witnessing growing momentum in initiatives such as FTA (free trade agreement) 3.0 between China and Asean, as well as the expanding corridors of collaboration with the Middle East.
-
-""Within these, Hong Kong plays a pivotal and strategic role – connecting markets, channelling capital, matching businesses and providing professional expertise.""
-
-Chan also revealed that the city's de facto central bank and the Public Investment Fund of Saudi Arabia will soon jointly launch a US$1 billion fund to support Hong Kong and Greater Bay Area companies to expand into the Middle Eastern kingdom to contribute to non-oil sectors.
-
-A major Saudi development firm will host roadshow here next month to look for partners to support its infrastructure development, he said.
-
-Chan added that the SAR is among the few cities in the world that is moving strongly to accelerate its development as an international financial centre and a premier global hub."
 HK offers safe haven amid market volatility: FS,2025-11-18 13:06,,2025-11-18 15:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1832167-20251118.htm,"Financial Secretary Paul Chan said on Tuesday that geopolitical developments are elevating instead of diminishing Hong Kong's position as an international financial centre.
 
 Delivering a keynote speech at a financial conference in Admiralty, he noted that US policy shifts early this year had brought a new level of uncertainty to global markets and affected market volatility.
@@ -1046,6 +1051,25 @@ More leading firms have also expanded their businesses here, he added.
 ""Within these, Hong Kong plays a pivotal and strategic role – connecting markets, channelling capital, matching businesses and providing professional expertise.""
 
 Chan also revealed that the Hong Kong Monetary Authority and the Public Investment Fund of Saudi Arabia will soon jointly launch a US$1 billion fund to support Hong Kong and Greater Bay Area companies to expand into the Middle Eastern kingdom to contribute to non-oil sectors.
+
+A major Saudi development firm will host roadshow here next month to look for partners to support its infrastructure development, he said.
+
+Chan added that the SAR is among the few cities in the world that is moving strongly to accelerate its development as an international financial centre and a premier global hub."
+Paul Chan says geopolitical chaos is great for HK,2025-11-18 13:06,,2025-11-18 13:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1832167-20251118.htm,"Financial Secretary Paul Chan said on Tuesday that geopolitical developments are elevating instead of diminishing Hong Kong's position as an international financial centre.
+
+Delivering a keynote speech at the opening of the Changing Global Economy conference in Admiralty, he noted that US policy shifts early this year had brought a new level of uncertainty to global markets and affected market volatility.
+
+Chan said more investors were seeking out safe havens such as Hong Kong that offer transparent, consistent and stable policy environments and jurisdictions with familiar legal systems and trusted regulatory frameworks.
+
+More leading firms have also expanded their businesses here, he added.
+
+""Geoeconomic reconfiguration is accelerating regional economic co-operation and advancing trade and investment within blocs,"" Chan said. 
+
+""We are witnessing growing momentum in initiatives such as FTA (free trade agreement) 3.0 between China and Asean, as well as the expanding corridors of collaboration with the Middle East.
+
+""Within these, Hong Kong plays a pivotal and strategic role – connecting markets, channelling capital, matching businesses and providing professional expertise.""
+
+Chan also revealed that the city's de facto central bank and the Public Investment Fund of Saudi Arabia will soon jointly launch a US$1 billion fund to support Hong Kong and Greater Bay Area companies to expand into the Middle Eastern kingdom to contribute to non-oil sectors.
 
 A major Saudi development firm will host roadshow here next month to look for partners to support its infrastructure development, he said.
 
@@ -1127,13 +1151,6 @@ The semi-finals are due to take place on Wednesday morning in Hengqin."
 她認為，對很多生物科技公司而言，香港是進行研發的理想地方，因為資本、人才、數據和商品自由流動，同時可利用大灣區生產基地和供應鏈。
 
 她又提到，自己在深水埗長大，認為香港的優勢在於男女機會平等，每個人都可透過自己努力發展事業。"
-衞生防護中心稱監測數據顯示抗菌素處方模式有改善　籲對抗耐藥性,2025-11-18 12:18,,2025-11-18 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832171-20251118.htm,"衞生防護中心呼籲醫護人員及市民採取行動，對抗抗菌素耐藥性，以響應今年「世界抗菌素耐藥性關注周」。抗菌素是用於治療感染的藥物，其中包括專用於對抗細菌感染的抗生素。濫用和不當使用抗生素是導致耐藥性問題的主因。世衞將每年11月18日至24日定為「世界抗菌素耐藥性關注周」，今年的主題為「立即行動：守護當下，保障未來」。
-　　 
-中心顧問醫生馬紹強說，抗菌素耐藥性是全球最嚴峻的公共衞生挑戰之一。當細菌或病毒產生耐藥性，會導致感染變得更難甚至無法治癒。於2021年，全球約有471萬人的死亡與抗菌素耐藥性細菌有關。若不採取行動，預計到2050年，每年相關死亡人數將達822萬。世衞估算2020至2030年間，本港將有18433宗死亡個案與抗菌素耐藥性相關。
-
-馬紹強說，中心就不同感染情況提供用藥建議，讓全港醫生為住院病人處方抗菌藥物時作為參考，並透過專業論壇及發信向醫生推廣。不論公營或私營的醫院亦已推行「抗生素導向計劃」，最新監測數據顯示抗菌素處方模式有改善。
-
-中心呼籲市民若有上呼吸道感染應就醫，切勿自行到藥房購買抗生素服用，只有在醫生建議下才服用，並須完成整個療程。"
 恒指半日跌387點　失守26000點,2025-11-18 12:18,,2025-11-18 12:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832169-20251118.htm,"港股連跌3日，恒生指數失守26000點，最多跌近400點，低見25981點，創近兩星期新低。中午收市報25997點，跌387點，跌幅約1.5%，半日主板成交額約1345億元。
 
 科技指數跌約1.7%，報5660點。ATMXJ除阿里巴巴升逾1%之外，其餘跌近1%至近3%，以小米跌幅較大。
@@ -1145,6 +1162,13 @@ The semi-finals are due to take place on Wednesday morning in Hengqin."
 中國宏橋股價最多跌逾8%，半日跌逾5%，是跌幅最大藍籌股；公司折讓近10%配股集資最多近117億元。
 
 晶片股逆市造好，中芯國際升逾1%，華虹半導體升逾4%。"
+衞生防護中心稱監測數據顯示抗菌素處方模式有改善　籲對抗耐藥性,2025-11-18 12:18,,2025-11-18 12:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832171-20251118.htm,"衞生防護中心呼籲醫護人員及市民採取行動，對抗抗菌素耐藥性，以響應今年「世界抗菌素耐藥性關注周」。抗菌素是用於治療感染的藥物，其中包括專用於對抗細菌感染的抗生素。濫用和不當使用抗生素是導致耐藥性問題的主因。世衞將每年11月18日至24日定為「世界抗菌素耐藥性關注周」，今年的主題為「立即行動：守護當下，保障未來」。
+　　 
+中心顧問醫生馬紹強說，抗菌素耐藥性是全球最嚴峻的公共衞生挑戰之一。當細菌或病毒產生耐藥性，會導致感染變得更難甚至無法治癒。於2021年，全球約有471萬人的死亡與抗菌素耐藥性細菌有關。若不採取行動，預計到2050年，每年相關死亡人數將達822萬。世衞估算2020至2030年間，本港將有18433宗死亡個案與抗菌素耐藥性相關。
+
+馬紹強說，中心就不同感染情況提供用藥建議，讓全港醫生為住院病人處方抗菌藥物時作為參考，並透過專業論壇及發信向醫生推廣。不論公營或私營的醫院亦已推行「抗生素導向計劃」，最新監測數據顯示抗菌素處方模式有改善。
+
+中心呼籲市民若有上呼吸道感染應就醫，切勿自行到藥房購買抗生素服用，只有在醫生建議下才服用，並須完成整個療程。"
 消息：科大獲推薦籌辦第三間醫學院,2025-11-18 12:06,,2025-11-18 12:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832168-20251118.htm, 
 創新科技署推出先導計劃及優化現有計劃　推動新型工業化發展,2025-11-18 12:01,,2025-11-18 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832166-20251118.htm,"創新科技署推出先導計劃，並優化現行一個計劃，以進一步推動香港的新型工業化發展。
 
@@ -1295,12 +1319,12 @@ During the US government's longest shutdown in history, traders were left to gra
 ""November has brought greater volatility to global equity markets. Unlike October, most major indices have stalled, failing to push on to new record highs.""
 
 Investors have trimmed expectations of a Fed cut next month, despite signs of further weakness in the US economy from recent private-sector data. Markets are now pricing in closer to a 40 percent chance of a 25-basis-point Fed rate cut in December, down from more than 60 percent earlier this month. (Reuters/Xinhua)"
-國際原子能機構稱烏克蘭核電站遭攻擊或帶來安全風險,2025-11-18 10:48,,2025-11-18 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832152-20251118.htm,"國際原子能機構總幹事格羅西表示，烏克蘭赫梅利尼茨基和里夫涅核電站因變電站遭受攻擊，過去十天一直降低功率運行。
+國際原子能機稱烏克蘭核電站遭攻擊或帶來安全風險,2025-11-18 10:48,,2025-11-18 11:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832152-20251118.htm,"國際原子能機構總幹事格羅西表示，烏克蘭赫梅利尼茨基和里夫涅核電站因變電站遭受攻擊，過去十天一直降低功率運行。
 
 格羅西強調，變電站是國家電網重要節點，對核電站維持外部電源、確保安全系統和冷卻功能至關重要。他又表示，國際原子能機構專家將持續評估關鍵變電站狀況。
 
 核電站長期低功率運行可能導致站內溫度升高，帶來安全風險。"
-國際原子能機稱烏克蘭核電站遭攻擊或帶來安全風險,2025-11-18 10:48,,2025-11-18 11:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832152-20251118.htm,"國際原子能機構總幹事格羅西表示，烏克蘭赫梅利尼茨基和里夫涅核電站因變電站遭受攻擊，過去十天一直降低功率運行。
+國際原子能機構稱烏克蘭核電站遭攻擊或帶來安全風險,2025-11-18 10:48,,2025-11-18 11:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1832152-20251118.htm,"國際原子能機構總幹事格羅西表示，烏克蘭赫梅利尼茨基和里夫涅核電站因變電站遭受攻擊，過去十天一直降低功率運行。
 
 格羅西強調，變電站是國家電網重要節點，對核電站維持外部電源、確保安全系統和冷卻功能至關重要。他又表示，國際原子能機構專家將持續評估關鍵變電站狀況。
 
