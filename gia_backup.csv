@@ -1,6 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
-港匯指數,2025-11-27 16:00,2025-11-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700210.htm,二○二五年十一月二十七日（星期四）的港幣匯率指數為一百零四點一（和昨日指數相同）。
 Effective Exchange Rate Index,2025-11-27 16:00,2025-11-27 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700208.htm,"The effective exchange rate index for the Hong Kong dollar on Thursday, November 27, 2025 is 104.1 (same as yesterday's index)."
+港匯指數,2025-11-27 16:00,2025-11-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700210.htm,二○二五年十一月二十七日（星期四）的港幣匯率指數為一百零四點一（和昨日指數相同）。
 加開臨時庇護中心,2025-11-27 15:55,2025-11-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700497.htm,"因應大埔宏福苑火警事故，大埔民政事務處今日（十一月二十七日）表示，已為有需要人士加開以下臨時庇護中心：
 
 
@@ -240,13 +240,6 @@ Anyone who witnessed the incident or has any information to offer is urged to co
 新界北總區重案組正積極調查該宗案件。
 
 警方呼籲任何人如目睹案件發生或有資料提供，請致電五五六六○○八七與調查人員聯絡。"
-​二零二五年七月至九月《綜合住戶統計調查按季統計報告》現已出版,2025-11-27 14:00,2025-11-27 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700231.htm,"二零二五年七月至九月《綜合住戶統計調查按季統計報告》現可供瀏覽及下載。
-
-報告刊載二零二五年第三季有關勞動人口、就業、失業及就業不足的統計數字。報告亦載有勞動人口內各類人士的各項特徵的詳細分析，包括年齡、性別、教育程度、就業身分、職業、行業、每周工作時數、每月就業收入等。有關失業人士持續失業時間的資料亦載於報告內。
-
-用戶可於政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1050001&scode=200）瀏覽及下載該報告。
-
-表一載列了該報告內有關統計調查的概括結果摘要統計數字。有關該報告的查詢，可聯絡政府統計處綜合住戶統計調查組（三）（電話：2887 5508或電郵：ghs@censtatd.gov.hk）。"
 """Quarterly Report on General Household Survey"" for July to September 2025 published",2025-11-27 14:00,2025-11-27 14:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700232.htm,"The ""Quarterly Report on General Household Survey"" for July to September 2025 is now available for access and download.
 
 The report contains statistics on labour force, employment, unemployment and underemployment for the third quarter of 2025. It also contains detailed analyses of the characteristics of different categories of members of the labour force, including their age, sex, educational attainment, employment status, occupation, industry, hours worked per week and monthly employment earnings, etc. Information on duration of unemployment for the unemployed is also presented.
@@ -255,6 +248,13 @@ Users can browse and download the report at the website of the Census and Statis
 
 The summary of broad survey findings published in the report is shown in Table 1 attached. Enquiries about the contents of the report can be directed to the General Household Survey Section (3), Census and Statistics Department (Tel: 2887 5508 or email: ghs@censtatd.gov.hk).
 "
+​二零二五年七月至九月《綜合住戶統計調查按季統計報告》現已出版,2025-11-27 14:00,2025-11-27 14:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700231.htm,"二零二五年七月至九月《綜合住戶統計調查按季統計報告》現可供瀏覽及下載。
+
+報告刊載二零二五年第三季有關勞動人口、就業、失業及就業不足的統計數字。報告亦載有勞動人口內各類人士的各項特徵的詳細分析，包括年齡、性別、教育程度、就業身分、職業、行業、每周工作時數、每月就業收入等。有關失業人士持續失業時間的資料亦載於報告內。
+
+用戶可於政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1050001&scode=200）瀏覽及下載該報告。
+
+表一載列了該報告內有關統計調查的概括結果摘要統計數字。有關該報告的查詢，可聯絡政府統計處綜合住戶統計調查組（三）（電話：2887 5508或電郵：ghs@censtatd.gov.hk）。"
 基層醫療署於臨時庇護中心設立醫療站　支援大埔火災居民,2025-11-27 13:42,2025-11-27 14:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112700392.htm,"基層醫療署今日（十一月二十七日）表示，已經於所有因應大埔宏福苑火警事故開放的臨時庇護中心設立醫療站，為有需要的居民提供即時醫療和藥物支援。
 
 基層醫療署今日上午九時已於所有臨時庇護中心設立醫療站，有醫療需要的居民可向醫療站的醫護人員求助。醫療站每日上午八時至晚上八時為有需要的居民提供適切醫療協助，包括基本醫療評估和轉介服務、處理輕微創傷、處方藥物（包括根據病歷提供所需的藥物補充），以及心理支援，以協助處理非緊急醫療需求。
@@ -496,7 +496,7 @@ As at midnight, the fire has resulted in 36 deaths and 36 injuries, including on
 因應是次火警事故，屋宇署及房屋局獨立審查組亦會採取特別行動，針對正進行中的工程，要求註冊建築專業人士及承建商覆核棚架保護網等的阻燃性能的記錄或相關測試文件，並向部門提交報告。
 
 截至午夜十二時，火警造成36人死亡、36人受傷，其中一名死者為消防員。現時消防處正全力撲救大火，情況逐漸受控。政府各部門人員會繼續恪守職責，全力進行應對及善後工作，以及向有需要的市民提供適切支援。"
-"Speech by FS at Hong Kong Association Luncheon in London, UK (English only) (with photos)",2025-11-27 00:30,2025-11-27 01:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112600868.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong Association Luncheon in the United Kingdom on November 26 (London time):
+Speech by FS at Hong Kong Association Luncheon in United Kingdom (English only),2025-11-27 00:30,2025-11-27 00:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112600868.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong Association Luncheon in the United Kingdom on November 26 (London time):
 
 Adrian (Chairman, Hong Kong Association, Mr Adrian Cartwright), Members of the Hong Kong Association, ladies and gentlemen, Friends of Hong Kong all,
 
@@ -587,7 +587,7 @@ Northern Metropolis: Infrastructure for Innovation
   I'm now ready to take your questions.
 
   Thank you."
-Speech by FS at Hong Kong Association Luncheon in United Kingdom (English only),2025-11-27 00:30,2025-11-27 00:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112600868.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong Association Luncheon in the United Kingdom on November 26 (London time):
+"Speech by FS at Hong Kong Association Luncheon in London, UK (English only) (with photos)",2025-11-27 00:30,2025-11-27 01:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/27/P2025112600868.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Hong Kong Association Luncheon in the United Kingdom on November 26 (London time):
 
 Adrian (Chairman, Hong Kong Association, Mr Adrian Cartwright), Members of the Hong Kong Association, ladies and gentlemen, Friends of Hong Kong all,
 
@@ -831,15 +831,6 @@ Details of the DFSA–HKMA Joint Climate Finance Conference can be found here."
 金管局副總裁陳維民表示：「迪拜與香港均有獨特優勢，可促進亞洲及中東地區落實氣候行動，有助區內經濟體能夠把握綠色產業技術進步所帶來的增長機遇。隨着應對氣候變化的時機日益緊迫，我們必須加快行動，填補市場之間、資本與項目之間、抱負和執行之間的差距。香港金管局與迪拜金管局將繼續為所需的對話和協作提供平台。」
 
 迪拜金管局與香港金管局的聯合氣候金融會議詳情載於此（只有英文版）。"
-CFS finds malachite green in bighead carp sample,2025-11-26 20:34,2025-11-26 20:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600686.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department today (November 26) announced that malachite green was found in a bighead carp sample. The CFS is following up on the incident.
-
-A CFS spokesman said, ""The CFS collected the above-mentioned bighead carp sample from a stall in Pei Ho Street Market, Sham Shui Po, for testing under its routine Food Surveillance Programme. The test result showed that the sample contained malachite green at a level of 0.8 parts per billion.""
-
-The spokesman said that the CFS has informed the stall concerned of the irregularity and instructed it to stop sales of the affected product. The CFS is also tracing the source and distribution of the product concerned.
-
-Malachite green is a type of industrial dye and has been used for treating infections in fish. Currently, malachite green has been prohibited for use in food-producing animals in many countries. According to the Harmful Substances in Food Regulations (Cap. 132AF), no food sold in Hong Kong is allowed to contain malachite green. Offenders will be prosecuted and liable to a fine of $50,000 and to imprisonment for six months upon conviction.
-
-âThe CFS will continue to follow up on the incident and take appropriate action. An investigation is ongoing."
 食物安全中心在大頭魚樣本驗出孔雀石綠,2025-11-26 20:34,2025-11-26 20:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600682.htm,"食物環境衞生署食物安全中心（中心）今日（十一月二十六日）公布，一個大頭魚樣本驗出孔雀石綠。中心正跟進事件。
 
 中心發言人說：「中心透過恆常食物監測計劃，從深水埗北河街街市一檔戶抽取上述大頭魚樣本作檢測。結果顯示樣本含孔雀石綠，含量為十億分之零點八。」
@@ -849,6 +840,15 @@ Malachite green is a type of industrial dye and has been used for treating infec
 孔雀石綠是工業染料，被使用作治理魚類疾病。目前，很多國家已禁止在食用動物中使用孔雀石綠。根據《食物內有害物質規例》（第132AF章），所有在本港出售的食物均不能含有孔雀石綠。違例者會被檢控，一經定罪，可處罰款五萬元及監禁六個月。
 
 ​中心會繼續跟進事件和採取適當行動。調查仍然繼續。"
+CFS finds malachite green in bighead carp sample,2025-11-26 20:34,2025-11-26 20:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600686.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department today (November 26) announced that malachite green was found in a bighead carp sample. The CFS is following up on the incident.
+
+A CFS spokesman said, ""The CFS collected the above-mentioned bighead carp sample from a stall in Pei Ho Street Market, Sham Shui Po, for testing under its routine Food Surveillance Programme. The test result showed that the sample contained malachite green at a level of 0.8 parts per billion.""
+
+The spokesman said that the CFS has informed the stall concerned of the irregularity and instructed it to stop sales of the affected product. The CFS is also tracing the source and distribution of the product concerned.
+
+Malachite green is a type of industrial dye and has been used for treating infections in fish. Currently, malachite green has been prohibited for use in food-producing animals in many countries. According to the Harmful Substances in Food Regulations (Cap. 132AF), no food sold in Hong Kong is allowed to contain malachite green. Offenders will be prosecuted and liable to a fine of $50,000 and to imprisonment for six months upon conviction.
+
+âThe CFS will continue to follow up on the incident and take appropriate action. An investigation is ongoing."
 S for S deeply saddened by death of fireman,2025-11-26 20:11,2025-11-26 20:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600728.htm,"  The Secretary for Security, Mr Tang Ping-keung, today (November 26) was deeply saddened by the death of fireman, Mr Ho Wai-ho. Mr Ho sustained injuries while fighting a No. 5 alarm fire in Tai Po today. He was rushed to Prince of Wales Hospital for treatment but succumbed to his injuries later.
 
   ""I am profoundly grieved at the passing of Mr Ho, who lost his life in the course of an operation. I offer my deepest condolences to his family members,"" Mr Tang said.
@@ -958,13 +958,6 @@ The 14 projects under the Revitalising Historic Buildings Through Partnership Sc
 
 
   Members of the public can learn about various activities of the Election Fun Day by clicking here, and know more details regarding free admission to government facilities and special offers arranged by government departments by accessing the link here. The Government is also pleased to note that quite a number of private enterprises, merchants and restaurants are taking the initiative to provide various offers on polling day. Members of the public are advised to watch out for information concerned."
-Director of Fire Services deeply grieved by death of fireman,2025-11-26 19:50,2025-11-26 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600711.htm,"The Director of Fire Services, Mr Andy Yeung, expressed profound sadness at the passing of a fireman, Mr Ho Wai-ho, who passed away after sustaining injuries in a No. 5 alarm fire today (November 26).
-
-Mr Ho, aged 37, was attached to the Sha Tin Fire Station. He was found collapsed at the scene of the No. 5 alarm fire at Wang Fuk Court, Tai Po this afternoon. He was rushed to Prince of Wales Hospital and passed away at 4.41pm.
-
-""Having been a member of the Fire Services Department for about nine years, Mr Ho's performance was valiant. I am profoundly grieved at the loss of this dedicated and gallant fireman. All of our colleagues are deeply saddened by the loss of such a devoted comrade. On behalf of all our colleagues, I have offered the deepest condolences to his family,"" Mr Yeung said.
-
-""Our Welfare Officer and Psychological Services Unit are closely liaising with Mr Ho's family and will render our utmost assistance to help them through this sad and difficult time."""
 ​香港海關於機場檢獲約五百一十萬元懷疑大麻花（附圖）,2025-11-26 19:50,2025-11-26 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600523.htm,"香港海關昨日（十一月二十五日）在香港國際機場偵破一宗行李藏毒的販毒案件，檢獲約二十五公斤、估計市值約五百一十萬元的懷疑大麻花。
 
 一名三十一歲的男旅客昨日從泰國曼谷飛抵本港並準備轉機前往英國倫敦。海關人員清關時，在其寄艙行李內發現該批懷疑大麻花，遂把他拘捕。
@@ -991,6 +984,13 @@ Hong Kong Customs seizes suspected cannabis buds worth about $5.1 million at air
   Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
 
   Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+Director of Fire Services deeply grieved by death of fireman,2025-11-26 19:50,2025-11-26 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600711.htm,"The Director of Fire Services, Mr Andy Yeung, expressed profound sadness at the passing of a fireman, Mr Ho Wai-ho, who passed away after sustaining injuries in a No. 5 alarm fire today (November 26).
+
+Mr Ho, aged 37, was attached to the Sha Tin Fire Station. He was found collapsed at the scene of the No. 5 alarm fire at Wang Fuk Court, Tai Po this afternoon. He was rushed to Prince of Wales Hospital and passed away at 4.41pm.
+
+""Having been a member of the Fire Services Department for about nine years, Mr Ho's performance was valiant. I am profoundly grieved at the loss of this dedicated and gallant fireman. All of our colleagues are deeply saddened by the loss of such a devoted comrade. On behalf of all our colleagues, I have offered the deepest condolences to his family,"" Mr Yeung said.
+
+""Our Welfare Officer and Psychological Services Unit are closely liaising with Mr Ho's family and will render our utmost assistance to help them through this sad and difficult time."""
 Additional temporary shelters opened and interdepartmental help desk set up,2025-11-26 19:46,2025-11-26 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600706.htm,"ââDue to the fire incident at Wang Fuk Court, Tai Po, the Tai Po District Office (TPDO) today (November 26) has opened the following additional temporary shelters for people in need:
 
 
@@ -1132,19 +1132,6 @@ The TPDO has opened temporary shelters at Kwong Fuk Community Hall (Kwong Fuk Es
 
 
 市民可按此連結了解「選舉繽紛日」各項活動資料，及此連結瀏覽各項特區政府部門安排的免費開放設施及優惠詳情。政府亦欣悉不少私人企業、商戶、食肆等也自發在選舉日推出優惠，市民請密切留意相關資訊。"
-第三十五屆國際鐵路安全理事會年度會議在港揭幕（附圖）,2025-11-26 19:08,2025-11-26 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600582.htm,"​第三十五屆國際鐵路安全理事會（理事會）年度會議今日（十一月二十六日）在香港揭幕。本屆會議由國家鐵路局、機電工程署（機電署）及香港鐵路有限公司（港鐵公司）合辦，是首度由中國內地與香港共同舉辦，彰顯兩地在鐵路安全及規管領域的緊密合作，以及在全球鐵路專業領域的影響力。
-
-會議的主題為「通過創新與合作促進鐵路安全」，設有為期四日的場地會議以及兩日的技術考察，提供平台予來自世界各地的鐵路安全監管機構、營運商和相關持份者，就全球鐵路安全議題作深入探討，並分享交流各地鐵路的最新發展、創新技術應用等。
-
-行政長官李家超、國家鐵路局副局長王啟銘和港鐵公司主席歐陽伯權博士共同主持開幕儀式。其他主禮嘉賓包括運輸及物流局局長陳美寶、理事會核心小組秘書Ann Mills、機電署署長潘國英、港鐵公司行政總裁金澤培博士、中國國家鐵路集團安監局副局長王志，以及香港工程師學會會長周健德。
-
-行政長官李家超在開幕儀式致辭時指，鐵路是促進聯通、提供韌性和推動發展的強大引擎。他有信心，透過將安全放在首位、擁抱創新和深化合作，鐵路行業將持續改善市民生活，連繫世界各國與社區。他亦表示，香港會與內地及全球夥伴攜手推進鐵路發展。
-
-另外，香港特別行政區政府相信引入鐵路上國家的相關標準可助香港善用內地資源，在保持安全及服務水平不變的同時，可有效降低成本及縮短工期。路政署正制訂新的《香港鐵路標準》，預計將於未來數星期完成。
-
-香港是在理事會成員國及地區中，首個四度舉辦年度會議的城市，充分反映理事會對香港在鐵路發展、安全水平及營運表現卓越成就的認可。香港擁有以安全、高效及可靠着稱的世界級鐵路網絡，是推動全球鐵路安全對話和協作的理想平台。
-
-理事會由來自全球15個國家和地區共24所核心成員機構組成。自一九九○年成立以來，理事會在全球不同城市舉行年度會議，致力促進國際交流和提升鐵路安全。關於本屆年度會議的詳情，請瀏覽irsc2025.com。"
 35th International Railway Safety Council Annual Conference commences in Hong Kong (with photos) ,2025-11-26 19:08,2025-11-26 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600579.htm,"âThe 35th International Railway Safety Council (IRSC) Annual Conference, jointly organised by the National Railway Administration (NRA), the Electrical and Mechanical Services Department and the Mass Transit Railway Corporation Limited (MTRCL), commenced in Hong Kong today (November 26). This conference, cohosted by the Chinese Mainland and Hong Kong for the first time, showcases the close collaboration between the two places in the areas of railway safety and regulation, as well as their influence on the global railway professional field.
 
 With the theme ""Advancing Railway Safety through Innovations and Collaborations"", the conference features four days of plenary sessions and two days of technical visits. It provides a platform for railway safety regulators, operators and relevant stakeholders from around the world to engage in in-depth discussions on global railway safety issues, and to share and exchange the latest developments and innovative technology applications of railways in various places.
@@ -1158,6 +1145,19 @@ In addition, the HKSAR Government considers that the introduction of the Chinese
 Hong Kong is the first city among all IRSC member countries and regions to have hosted the annual conference four times, fully demonstrating the IRSC's recognition of Hong Kong's outstanding achievements in railway development, safety standards and operational performance. Hong Kong boasts world-class railway networks renowned for safety, efficiency and reliability, making it an ideal platform for advancing global dialogue and collaboration on railway safety.
 
 The IRSC comprises 24 core member institutions from 15 countries and regions worldwide. Since its establishment in 1990, the IRSC has endeavoured to foster international exchange and enhance railway safety by convening annual conferences in different cities around the world. For more details about the annual conference this year, please visit irsc2025.com."
+第三十五屆國際鐵路安全理事會年度會議在港揭幕（附圖）,2025-11-26 19:08,2025-11-26 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600582.htm,"​第三十五屆國際鐵路安全理事會（理事會）年度會議今日（十一月二十六日）在香港揭幕。本屆會議由國家鐵路局、機電工程署（機電署）及香港鐵路有限公司（港鐵公司）合辦，是首度由中國內地與香港共同舉辦，彰顯兩地在鐵路安全及規管領域的緊密合作，以及在全球鐵路專業領域的影響力。
+
+會議的主題為「通過創新與合作促進鐵路安全」，設有為期四日的場地會議以及兩日的技術考察，提供平台予來自世界各地的鐵路安全監管機構、營運商和相關持份者，就全球鐵路安全議題作深入探討，並分享交流各地鐵路的最新發展、創新技術應用等。
+
+行政長官李家超、國家鐵路局副局長王啟銘和港鐵公司主席歐陽伯權博士共同主持開幕儀式。其他主禮嘉賓包括運輸及物流局局長陳美寶、理事會核心小組秘書Ann Mills、機電署署長潘國英、港鐵公司行政總裁金澤培博士、中國國家鐵路集團安監局副局長王志，以及香港工程師學會會長周健德。
+
+行政長官李家超在開幕儀式致辭時指，鐵路是促進聯通、提供韌性和推動發展的強大引擎。他有信心，透過將安全放在首位、擁抱創新和深化合作，鐵路行業將持續改善市民生活，連繫世界各國與社區。他亦表示，香港會與內地及全球夥伴攜手推進鐵路發展。
+
+另外，香港特別行政區政府相信引入鐵路上國家的相關標準可助香港善用內地資源，在保持安全及服務水平不變的同時，可有效降低成本及縮短工期。路政署正制訂新的《香港鐵路標準》，預計將於未來數星期完成。
+
+香港是在理事會成員國及地區中，首個四度舉辦年度會議的城市，充分反映理事會對香港在鐵路發展、安全水平及營運表現卓越成就的認可。香港擁有以安全、高效及可靠着稱的世界級鐵路網絡，是推動全球鐵路安全對話和協作的理想平台。
+
+理事會由來自全球15個國家和地區共24所核心成員機構組成。自一九九○年成立以來，理事會在全球不同城市舉行年度會議，致力促進國際交流和提升鐵路安全。關於本屆年度會議的詳情，請瀏覽irsc2025.com。"
 創新科技及工業局局長會見傳媒談立法會換屆選舉（只有中文）,2025-11-26 19:02,2025-11-26 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600668.htm,"以下是創新科技及工業局局長孫東教授今日（十一月二十六日）出席2025立法會「愛國者同心治港」選舉論壇：功能界別論壇——科技創新界後會見傳媒的談話內容：
 
 創新科技及工業局局長：各位傳媒朋友，大家下午好。剛剛我出席了功能界別科技創新界的選舉論壇。今天論壇聚集了超過三百多位來自香港科技創新界的選民及相關人士，氣氛非常熱烈。透過這次論壇，我注意到兩位候選人對於香港未來科技創新的發展都提出了自己的真知灼見、施政理念，對於相關問題也回答得非常深入。另外，這兩位候選人的打氣團也一直為兩位候選人鼓勁加油，使氣氛更加熱烈。大家知道國家「十四五」規劃以及「十五五」規劃的建議都明確支持香港建設國際創新科技中心，過去幾年在全社會的共同努力下，香港創科發展取得了可喜的進步，這也有賴於立法會過去多年來對於創科發展的鼎力支持。未來幾年是香港創科發展的關鍵期，我希望新一屆立法會能夠一如既往繼續支持香港創科發展，使得香港能夠為國家建設科技強國貢獻自己的力量。十二月七日是立法會換屆選舉的大日子，我在這裏也呼籲全港市民，十二月七日積極參與，用你手中的一票，投下神聖的一票，為香港的未來貢獻大家的力量。現在我願意回答記者們的問題。
@@ -1203,19 +1203,6 @@ During the operation, two men, aged 42 and 38, were arrested.
   Under the Copyright Ordinance, any person who possesses an infringing copy of a copyright work with a view to selling it commits an offence. The maximum penalty upon conviction is a fine of $50,000 per infringing copy and imprisonment for four years. Any person who, for the purpose of a circumvention business, or in the course of a circumvention business, sells or lets for hire a relevant device, or provides relevant services in order to allow circumventing an effective technological measure which has been applied in relation to a copyright work, is liable to a maximum penalty of a fine of $500,000 and imprisonment for four years.
 
 Members of the public may report any suspected infringement activities to Customs' 24-hour hotline 182 8080 or its dedicated crime reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-香港海關參加珠寶展宣傳貴金屬及寶石交易商監管制度（附圖）,2025-11-26 18:27,2025-11-26 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600426.htm,"​香港海關由明日（十一月二十七日）起，一連四日在香港會議展覽中心舉行的「JMA香港國際珠寶節」（JMA）設置攤位，宣傳貴金屬及寶石交易商監管制度，並提供現場櫃枱服務，便利非香港交易商在參加展覽期間提交現金交易報告。
-
-根據《打擊洗錢及恐怖分子資金籌集條例》（第615章），除獲豁免人士外，任何人如有意在香港從事貴金屬及寶石業務並進行十二萬或以上港元的交易（不論是支付或收取款項），均須向香港海關註冊，並須適當履行打擊洗錢及恐怖分子資金籌集的法定責任。所有貴金屬及寶石交易商必須在成功獲得相關註冊後，才可進行總額為十二萬或以上港元的現金或非現金交易。
-
-非香港貴金屬及寶石交易商若符合指定條件（包括來港參加展覽會的參展商），雖獲豁免註冊，但須就任何在香港進行總額為十二萬或以上港元的現金交易（不論是支付或收取款項），於交易後一日內，或在該交易商或代表該交易商行事的人離開香港前，以較早者為準，向香港海關提交現金交易報告。
-
-非香港交易商可透過制度的網頁www.drs.customs.gov.hk登入「貴金屬及寶石交易商註冊系統」，在線上提交現金交易報告。相關步驟詳載於www.drs.customs.gov.hk/information/43_nonHongKongDealers。
-
-非香港交易商亦可於網上下載有關表格（www.drs.customs.gov.hk/download/drsform/CED418_Form%208_Cash%20transaction%20report.pdf），並於JMA展覽期間親身前往香港海關的攤位提交報告。
-
-香港海關的攤位（攤位編號1CON01）設於香港會議展覽中心展覽廳1大堂，開放時間為十一月二十七日上午十時至下午六時半，十一月二十八日至二十九日上午十時至下午七時，以及十一月三十日上午十時至下午六時半。
-
-交易商如欲了解更多有關制度的資訊，可瀏覽網頁（www.customs.gov.hk/tc/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html）。"
 Hong Kong Customs to publicise Dealers in Precious Metals and Stones Regulatory Regime at jewellery exhibition (with photos),2025-11-26 18:27,2025-11-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600427.htm,"  â Hong Kong Customs will set up a booth at the JMA Hong Kong International Jewelry Show (JMA), to be held at the Hong Kong Convention and Exhibition Centre (HKCEC), from tomorrow (November 27) for four consecutive days to publicise the Dealers in Precious Metals and Stones Regulatory Regime and will provide on-site counter services to assist non-Hong Kong dealers in submitting cash transaction reports during their participation in the exhibition.
 
 According to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615), unless exempted, any person who is seeking to carry on a business of dealing in precious metals and stones and engage in any transaction(s) (whether making or receiving a payment) with a total value at or above HK$120,000 in Hong Kong is required to register with Hong Kong Customs and fulfil his/her anti-money laundering and counter-terrorist financing statutory obligations as appropriate.All dealers in precious metals and stones must successfully obtain relevant registration before they can carry out any cash or non-cash transaction(s) with a total value at or above HK$120,000.
@@ -1229,6 +1216,19 @@ Non-Hong Kong dealers can make an online submission of a cash transaction report
 The Hong Kong Customs' booth (Booth 1CON01) is located at HKCEC Hall 1 Concourse and will be open from 10am to 6.30pm on November 27, from 10am to 7pm on November 28 and 29, and from 10am to 6.30pm on November 30.
 
 Dealers can visit the website (www.customs.gov.hk/en/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html) for more information about the Regime."
+香港海關參加珠寶展宣傳貴金屬及寶石交易商監管制度（附圖）,2025-11-26 18:27,2025-11-26 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600426.htm,"​香港海關由明日（十一月二十七日）起，一連四日在香港會議展覽中心舉行的「JMA香港國際珠寶節」（JMA）設置攤位，宣傳貴金屬及寶石交易商監管制度，並提供現場櫃枱服務，便利非香港交易商在參加展覽期間提交現金交易報告。
+
+根據《打擊洗錢及恐怖分子資金籌集條例》（第615章），除獲豁免人士外，任何人如有意在香港從事貴金屬及寶石業務並進行十二萬或以上港元的交易（不論是支付或收取款項），均須向香港海關註冊，並須適當履行打擊洗錢及恐怖分子資金籌集的法定責任。所有貴金屬及寶石交易商必須在成功獲得相關註冊後，才可進行總額為十二萬或以上港元的現金或非現金交易。
+
+非香港貴金屬及寶石交易商若符合指定條件（包括來港參加展覽會的參展商），雖獲豁免註冊，但須就任何在香港進行總額為十二萬或以上港元的現金交易（不論是支付或收取款項），於交易後一日內，或在該交易商或代表該交易商行事的人離開香港前，以較早者為準，向香港海關提交現金交易報告。
+
+非香港交易商可透過制度的網頁www.drs.customs.gov.hk登入「貴金屬及寶石交易商註冊系統」，在線上提交現金交易報告。相關步驟詳載於www.drs.customs.gov.hk/information/43_nonHongKongDealers。
+
+非香港交易商亦可於網上下載有關表格（www.drs.customs.gov.hk/download/drsform/CED418_Form%208_Cash%20transaction%20report.pdf），並於JMA展覽期間親身前往香港海關的攤位提交報告。
+
+香港海關的攤位（攤位編號1CON01）設於香港會議展覽中心展覽廳1大堂，開放時間為十一月二十七日上午十時至下午六時半，十一月二十八日至二十九日上午十時至下午七時，以及十一月三十日上午十時至下午六時半。
+
+交易商如欲了解更多有關制度的資訊，可瀏覽網頁（www.customs.gov.hk/tc/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html）。"
 石壁監獄在囚人士考獲良好成績（附圖）,2025-11-26 18:15,2025-11-26 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600257.htm,"懲教署轄下石壁監獄今日（十一月二十六日）舉行證書頒發典禮，頒發學業證書予113名在囚人士，以肯定他們在學業進修上的努力及取得的成果。
 
 過去一年，石壁監獄共有258名在囚人士參與各類遙距課程及公開考試。他們合共考獲563卷合格成績，其中294卷為優良成績。考試分別由香港都會大學、香港考試及評核局及明愛社區書院舉辦，科目包括中國語文、英國語文、數學、經濟、商業財務、商業統計、工商管理、普通話及會計等。而出席今日典禮的113名在囚人士合共考獲315卷合格成績，其中205卷為優良成績，當中分別有三名在囚人士獲香港都會大學頒授工商管理學士學位、四名獲頒通識教育學士學位及四名獲頒通識教育副學士學位。
@@ -1351,17 +1351,9 @@ Members of the public may make their suggestions or complaints to the TCU by dia
 此外，民政處已在雅麗氏何妙齡那打素醫院設立援助站，為市民提供協助及供市民查詢。援助站查詢熱線是2658 4040。
 
 民政處會密切留意情況，如有需要會加開臨時庇護中心，並與其他政府部門聯繫，為市民提供適切協助。"
-交諮會聽取《交通運輸策略性研究》進展,2025-11-26 17:35,2025-11-26 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600239.htm,"下稿代交通諮詢委員會發出：
+No. 4 alarm fire in Tai Po,2025-11-26 17:35,2025-11-26 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600595.htm,"âA fire broke out at Wang Fuk Court in Tai Po at 2.51pm today (November 26). The fire was upgraded to No. 3 alarm at 3.02pm, and to No. 4 alarm at 3.34pm.
 
-交通諮詢委員會（交諮會）今日（十一月二十六日）聽取政府簡介《交通運輸策略性研究》（《策略性研究》）的進展，以及《運輸策略藍圖》（《藍圖》）的基本方向。
-
-《藍圖》計劃於今年內公布，將會以「落實以人為本、強化內聯外通、促進高效出行、擁抱綠色生活」作為願景，並確立未來交通運輸發展的三大主題，分別為「享・旅程」、「連・都市」和「活・出行」。
-
-「享・旅程」秉持以公共交通為本的運輸政策並優化乘客的出行體驗。「連・都市」着重擁抱先進科技以提高運輸效率，推動數字化交通管理。「活・出行」則會從規劃角度出發，積極推廣綠色出行。政府正圍繞這三大主題制定六大策略，涵蓋多項建議。
-
-交諮會主席黃仕進教授說︰「委員欣悉《策略性研究》的進展，並在會議上就《藍圖》的主題及策略提出意見。我們歡迎政府提出多項新措施，包括建設新一代運輸交匯樞紐、提升公共交通服務的靈活性、推動自動駕駛車輛的發展、推展智慧公路管理、進行新一輪泊車需求研究、採用「15分鐘生活圈」的規劃概念等建議。我們支持政府繼續發揮本港高效公共交通的優勢、完善本地及跨境運輸網絡、推動智慧科技升級轉型，以及推廣低碳共融的出行模式。」
-
-委員期望透過落實《藍圖》，讓本港的交通運輸持續向前發展，並為市民締造一個更宜居、宜業、宜遊的城市，促進粵港澳大灣區內的人流和物流，推動香港的經濟及可持續發展。"
+  As at 5pm, seven persons felt unwell and were sent to Alice Ho Miu Ling Nethersole Hospital and Prince of Wales Hospital for treatment respectively, among which, four persons were certified dead, two persons are in critical condition and one person is in stable condition."
 TAC briefed on progress of Traffic and Transport Strategy Study,2025-11-26 17:35,2025-11-26 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600244.htm,"The following is issued on behalf of the Transport Advisory Committee:
 
 The Transport Advisory Committee (TAC) was briefed today (November 26) by the Government on the latest progress of the Traffic and Transport Strategy Study (TTSS) and the general directions of the Transport Strategy Blueprint (the Blueprint).
@@ -1373,27 +1365,22 @@ The theme ""Enjoyable Journeys"" upholds a public transport-oriented policy and 
 The TAC Chairman, Professor Wong Sze-chun, said, ""Members noted with appreciation the progress of the TTSS and expressed views at the meeting on the main themes and key strategies of the Blueprint. We welcome the Government's various new measures, including building a new generation of Transport Interchange Hubs, enhancing the flexibility of public transport, promoting the development of autonomous vehicles, implementing smart motorway management, conducting a new round of a parking demand study, advocating a ""15-minute neighbourhood"" planning concept, etc. We support the Government in continuing to leverage the strengths of Hong Kong's efficient public transport, enhancing local and cross-boundary transport networks, advancing smart technology for upgrading and transformation, and promoting low-carbon and inclusive mobility.""
 
 Members anticipate that through implementing the Blueprint, Hong Kong's traffic and transport development will continue to advance, creating a city that is more liveable, business friendly and attractive to visitors, thereby enhancing the flow of people and goods within the Guangdong-Hong Kong-Macao Greater Bay Area, and promoting the economic and sustainable development of Hong Kong."
-No. 4 alarm fire in Tai Po,2025-11-26 17:35,2025-11-26 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600595.htm,"âA fire broke out at Wang Fuk Court in Tai Po at 2.51pm today (November 26). The fire was upgraded to No. 3 alarm at 3.02pm, and to No. 4 alarm at 3.34pm.
+交諮會聽取《交通運輸策略性研究》進展,2025-11-26 17:35,2025-11-26 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600239.htm,"下稿代交通諮詢委員會發出：
 
-  As at 5pm, seven persons felt unwell and were sent to Alice Ho Miu Ling Nethersole Hospital and Prince of Wales Hospital for treatment respectively, among which, four persons were certified dead, two persons are in critical condition and one person is in stable condition."
+交通諮詢委員會（交諮會）今日（十一月二十六日）聽取政府簡介《交通運輸策略性研究》（《策略性研究》）的進展，以及《運輸策略藍圖》（《藍圖》）的基本方向。
+
+《藍圖》計劃於今年內公布，將會以「落實以人為本、強化內聯外通、促進高效出行、擁抱綠色生活」作為願景，並確立未來交通運輸發展的三大主題，分別為「享・旅程」、「連・都市」和「活・出行」。
+
+「享・旅程」秉持以公共交通為本的運輸政策並優化乘客的出行體驗。「連・都市」着重擁抱先進科技以提高運輸效率，推動數字化交通管理。「活・出行」則會從規劃角度出發，積極推廣綠色出行。政府正圍繞這三大主題制定六大策略，涵蓋多項建議。
+
+交諮會主席黃仕進教授說︰「委員欣悉《策略性研究》的進展，並在會議上就《藍圖》的主題及策略提出意見。我們歡迎政府提出多項新措施，包括建設新一代運輸交匯樞紐、提升公共交通服務的靈活性、推動自動駕駛車輛的發展、推展智慧公路管理、進行新一輪泊車需求研究、採用「15分鐘生活圈」的規劃概念等建議。我們支持政府繼續發揮本港高效公共交通的優勢、完善本地及跨境運輸網絡、推動智慧科技升級轉型，以及推廣低碳共融的出行模式。」
+
+委員期望透過落實《藍圖》，讓本港的交通運輸持續向前發展，並為市民締造一個更宜居、宜業、宜遊的城市，促進粵港澳大灣區內的人流和物流，推動香港的經濟及可持續發展。"
 大埔四級火警,2025-11-26 17:27,2025-11-26 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600585.htm,"​大埔宏福苑今日（十一月二十六日）下午二時五十一分發生火警，於下午三時○二分將火警升為三級，並於下午三時三十四分升為四級。
 
 截至下午五時，火警中共有七人不適，送往雅麗氏何妙齡那打素醫院及威爾斯親王醫院治理，其中四人死亡，兩人情況危殆，一人情況穩定。"
 寄往加拿大的郵遞服務恢復正常,2025-11-26 17:04,2025-11-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600564.htm,​香港郵政今日（十一月二十六日）宣布，接獲加拿大郵政機關通知，早前因大量郵件積壓，以及受輪流罷工而影響的郵件派遞服務，現已恢復正常。
 Postal services to Canada return to normal,2025-11-26 17:04,2025-11-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600563.htm,"âHongkong Post announced today (November 26) that, as advised by the postal administration of Canada, mail delivery services previously affected by mail backlogs and the rotating strikes have returned to normal."
-「1+」機制下首款先進療法製品獲批註冊,2025-11-26 17:00,2025-11-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600486.htm,"​政府發言人今日（十一月二十六日）表示，首次有先進療法製品在「1+」藥物審批機制下獲批註冊。該款先進療法製品用於治療多發性骨髓瘤，能為病患者帶來更多醫治選擇。政府會繼續致力加快引入創新藥械，讓病人盡早獲得先進診療，同時推動香港成為國際醫療創新樞紐。
-
-新藥獲批
-————
-香港特別行政區（特區）於二○二三年十一月一日起實施「1+」機制，便利用以治療嚴重或罕見疾病的新藥來港註冊，並已於去年十一月一日起將「1+」機制擴展至所有新藥，包括任何含新藥劑或生物元素成分的製品及藥物新適應症、疫苗以至先進療法製品。新藥若能提供符合要求的本地臨床數據，並經本地專家認可後，只須提交一個（而非原來的兩個）參考藥物監管機構，便可以在香港申請註冊。
-
-上述治療多發性骨髓瘤的新藥已獲中國內地的藥物監管機構批核，並成為擴展後的「1+」機制下獲批註冊的首款先進療法製品。這款新藥屬於基因療法製品和體細胞療法製品，通過經基因改造加入了嵌合抗原受體基因序列的T細胞（即CAR-T細胞）治療多發性骨髓瘤。香港藥劑業及毒藥管理局轄下的註冊委員會在對申請人提交的臨床數據及相關資料作出審評及經徵詢本地專家的意見後，認為該款新藥符合相關安全、效能及素質標準，批准在香港註冊。衞生署已通知申請人有關審批結果。
-
-有序邁向「第一層審批」
-———————————
-自「1+」機制生效以來，連同上述該款新藥，現時共有十六款新藥按此機制獲批准註冊，其中七款新藥已獲納入醫院管理局藥物名冊。衞生署一直積極透過不同渠道宣傳「1+」機制，至今已收到170多間藥廠超過660個查詢，當中包括海外及內地藥廠。不少公司已表示有興趣在擴展的「1+」機制下為包括先進療法製品的藥物提交註冊申請。衞生署亦已推出「1+」新藥註冊申請前會面諮詢服務，於今年三月起先後舉辦多場簡介講座及新藥註冊工作坊，並計劃在短期內推出申請前諮詢會議，以提升處理相關申請的效率。
-
-《行政長官2025年施政報告》公布特區政府會提速落實支持藥械的制度改革工作，鞏固香港作為國際醫療創新樞紐的地位。衞生署會加快「1+」新藥審批機制，試行優先審批經醫院管理局建議能應對治療嚴重或罕見疾病的創新藥，加快病人使用最先進治療。衞生署亦將於二○二六年內成立「香港藥物及醫療器械監督管理中心」；以及於二○二六年開始分階段實施「第一層審批」新藥註冊機制。為此，衞生署會繼續積極推進「第一層審批」新藥註冊機制的準備工作，並逐步建立完善的審批制度，為香港特區以至國家及其他地區的醫療健康產業發展和市場拓展注入強大動力，將香港打造為國際醫療創新樞紐。"
 食環署公布十一月份第五批白紋伊蚊誘蚊器指數,2025-11-26 17:00,2025-11-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600463.htm,"​食物環境衞生署（食環署）今日（十一月二十六日）公布，十一月份第五批涵蓋21個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
 
 
@@ -1568,6 +1555,33 @@ N/A
 食環署自今年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
 
 食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。現時，食環署在社區64個監察地區放置誘蚊器，監察期為兩星期。食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
+「1+」機制下首款先進療法製品獲批註冊,2025-11-26 17:00,2025-11-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600486.htm,"​政府發言人今日（十一月二十六日）表示，首次有先進療法製品在「1+」藥物審批機制下獲批註冊。該款先進療法製品用於治療多發性骨髓瘤，能為病患者帶來更多醫治選擇。政府會繼續致力加快引入創新藥械，讓病人盡早獲得先進診療，同時推動香港成為國際醫療創新樞紐。
+
+新藥獲批
+————
+香港特別行政區（特區）於二○二三年十一月一日起實施「1+」機制，便利用以治療嚴重或罕見疾病的新藥來港註冊，並已於去年十一月一日起將「1+」機制擴展至所有新藥，包括任何含新藥劑或生物元素成分的製品及藥物新適應症、疫苗以至先進療法製品。新藥若能提供符合要求的本地臨床數據，並經本地專家認可後，只須提交一個（而非原來的兩個）參考藥物監管機構，便可以在香港申請註冊。
+
+上述治療多發性骨髓瘤的新藥已獲中國內地的藥物監管機構批核，並成為擴展後的「1+」機制下獲批註冊的首款先進療法製品。這款新藥屬於基因療法製品和體細胞療法製品，通過經基因改造加入了嵌合抗原受體基因序列的T細胞（即CAR-T細胞）治療多發性骨髓瘤。香港藥劑業及毒藥管理局轄下的註冊委員會在對申請人提交的臨床數據及相關資料作出審評及經徵詢本地專家的意見後，認為該款新藥符合相關安全、效能及素質標準，批准在香港註冊。衞生署已通知申請人有關審批結果。
+
+有序邁向「第一層審批」
+———————————
+自「1+」機制生效以來，連同上述該款新藥，現時共有十六款新藥按此機制獲批准註冊，其中七款新藥已獲納入醫院管理局藥物名冊。衞生署一直積極透過不同渠道宣傳「1+」機制，至今已收到170多間藥廠超過660個查詢，當中包括海外及內地藥廠。不少公司已表示有興趣在擴展的「1+」機制下為包括先進療法製品的藥物提交註冊申請。衞生署亦已推出「1+」新藥註冊申請前會面諮詢服務，於今年三月起先後舉辦多場簡介講座及新藥註冊工作坊，並計劃在短期內推出申請前諮詢會議，以提升處理相關申請的效率。
+
+《行政長官2025年施政報告》公布特區政府會提速落實支持藥械的制度改革工作，鞏固香港作為國際醫療創新樞紐的地位。衞生署會加快「1+」新藥審批機制，試行優先審批經醫院管理局建議能應對治療嚴重或罕見疾病的創新藥，加快病人使用最先進治療。衞生署亦將於二○二六年內成立「香港藥物及醫療器械監督管理中心」；以及於二○二六年開始分階段實施「第一層審批」新藥註冊機制。為此，衞生署會繼續積極推進「第一層審批」新藥註冊機制的準備工作，並逐步建立完善的審批制度，為香港特區以至國家及其他地區的醫療健康產業發展和市場拓展注入強大動力，將香港打造為國際醫療創新樞紐。"
+"First advanced therapy product approved for registration under ""1+"" mechanism",2025-11-26 17:00,2025-11-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600488.htm,"âA Government spokesman announced today (November 26) that an advanced therapy product has been approved for registration under the ""1+"" drug approval mechanism for the first time. This advanced therapy product is used to treat patients with multiple myeloma, bringing more treatment options for patients. The Government continues to strive to accelerate the introduction of innovative drugs and medical devices so that patients can gain early access to advanced diagnoses and treatments, while developing Hong Kong into an international health and medical innovation hub.
+
+New drug approved
+----------------------
+The Hong Kong Special Administrative Region (HKSAR) has implemented the ""1+"" mechanism since November 1, 2023, to facilitate the registration of new drugs used for the treatment of life-threatening or severely debilitating diseases in Hong Kong. With effect from November 1 last year, the ""1+"" mechanism has been extended to all new drugs, including all new chemical or biological entities and new indications, and vaccines and advanced therapy products. New drugs that are supported by local clinical data and recognised by local experts can be applied for registration in Hong Kong by submitting approval from one reference drug regulatory authority (instead of two in the past).
+
+The above new drug used for the treatment of multiple myeloma has been approved by the drug regulatory authority in the Chinese Mainland and is the first advanced therapy product approved for registration under the expanded ""1+"" mechanism. This new drug is both a gene therapy product and somatic cell therapy product, which is used for treatment of multiple myeloma by means of genetically modified T-cells with additional genetic sequence for chimeric antigen receptor (i.e. CAR-T cells). Having evaluated the clinical data and relevant information submitted by the applicant and advice given by local expert, the Registration Committee under the Pharmacy and Poisons Board of Hong Kong considered that the new drug satisfied the criteria of safety, efficacy and quality, and approved the registration of the new drug. The Department of Health (DH) has already notified the applicant of the result of the application.
+
+Paving the way towards primary evaluation
+------------------------------------------------
+
+Since the implementation of the ""1+"" mechanism, a total of 16 new drugs, including the above drug, have been approved under this mechanism. Seven of them have been listed in the Hospital Authority Drug Formulary. The DH has been promoting the ""1+"" mechanism through different channels and so far has received more than 660 enquiries from over 170 pharmaceutical companies, including those from overseas and the Mainland. Many companies have expressed interests in submitting applications for registration of their products, including advanced therapy products, under the extended ""1+"" mechanism. Since the launch of the pre-new drug application consultation service in March this year, the DH has already held a number of briefing seminars and workshops. The DH will also have pre-new drug application meetings to be rolled out shortly, to enhance the efficiency in processing relevant applications.
+
+""The Chief Executive's 2025 Policy Address"" announced that the Government will accelerate the reform of the regulatory system of drugs and medical devices, thereby consolidating Hong Kong's position as an international health and medical innovation hub. The DH will expedite the ""1+"" mechanism for new drugs, piloting priority evaluation and approval of innovative drugs as recommended by the Hospital Authority for treatment of severe or rare diseases and to accelerate patients' use of the advanced treatments. The DH will establish the Hong Kong Centre for Medical Products Regulation by the end of next year, and implement ""primary evaluation"" for new drug registration in phases beginning next year. The DH will continue to proactively advance preparatory work for ""primary evaluation"" for new drug registration and progressively establish a robust approval system, providing strong momentum for the development and market expansion of the healthcare industry in the HKSAR, the Mainland, and beyond, thereby transforming Hong Kong into an international health and medical innovation hub.  "
 FEHD releases fifth batch of gravidtrap indexes for Aedes albopictus in November,2025-11-26 17:00,2025-11-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600475.htm,"The Food and Environmental Hygiene Department (FEHD) today (November 26) released the fifth batch of gravidtrap indexes and density indexes for Aedes albopictus in November, covering 21 survey areas, as follows:
 
 
@@ -1742,20 +1756,6 @@ scrub drains and surface sewers with alkaline detergent at least once a week to 
 Starting in August this year, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website, and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of chikungunya fever (CF) transmission.
 
 Following the recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 64 survey areas of the community. During the two weeks of surveillance, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#)."
-"First advanced therapy product approved for registration under ""1+"" mechanism",2025-11-26 17:00,2025-11-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600488.htm,"âA Government spokesman announced today (November 26) that an advanced therapy product has been approved for registration under the ""1+"" drug approval mechanism for the first time. This advanced therapy product is used to treat patients with multiple myeloma, bringing more treatment options for patients. The Government continues to strive to accelerate the introduction of innovative drugs and medical devices so that patients can gain early access to advanced diagnoses and treatments, while developing Hong Kong into an international health and medical innovation hub.
-
-New drug approved
-----------------------
-The Hong Kong Special Administrative Region (HKSAR) has implemented the ""1+"" mechanism since November 1, 2023, to facilitate the registration of new drugs used for the treatment of life-threatening or severely debilitating diseases in Hong Kong. With effect from November 1 last year, the ""1+"" mechanism has been extended to all new drugs, including all new chemical or biological entities and new indications, and vaccines and advanced therapy products. New drugs that are supported by local clinical data and recognised by local experts can be applied for registration in Hong Kong by submitting approval from one reference drug regulatory authority (instead of two in the past).
-
-The above new drug used for the treatment of multiple myeloma has been approved by the drug regulatory authority in the Chinese Mainland and is the first advanced therapy product approved for registration under the expanded ""1+"" mechanism. This new drug is both a gene therapy product and somatic cell therapy product, which is used for treatment of multiple myeloma by means of genetically modified T-cells with additional genetic sequence for chimeric antigen receptor (i.e. CAR-T cells). Having evaluated the clinical data and relevant information submitted by the applicant and advice given by local expert, the Registration Committee under the Pharmacy and Poisons Board of Hong Kong considered that the new drug satisfied the criteria of safety, efficacy and quality, and approved the registration of the new drug. The Department of Health (DH) has already notified the applicant of the result of the application.
-
-Paving the way towards primary evaluation
-------------------------------------------------
-
-Since the implementation of the ""1+"" mechanism, a total of 16 new drugs, including the above drug, have been approved under this mechanism. Seven of them have been listed in the Hospital Authority Drug Formulary. The DH has been promoting the ""1+"" mechanism through different channels and so far has received more than 660 enquiries from over 170 pharmaceutical companies, including those from overseas and the Mainland. Many companies have expressed interests in submitting applications for registration of their products, including advanced therapy products, under the extended ""1+"" mechanism. Since the launch of the pre-new drug application consultation service in March this year, the DH has already held a number of briefing seminars and workshops. The DH will also have pre-new drug application meetings to be rolled out shortly, to enhance the efficiency in processing relevant applications.
-
-""The Chief Executive's 2025 Policy Address"" announced that the Government will accelerate the reform of the regulatory system of drugs and medical devices, thereby consolidating Hong Kong's position as an international health and medical innovation hub. The DH will expedite the ""1+"" mechanism for new drugs, piloting priority evaluation and approval of innovative drugs as recommended by the Hospital Authority for treatment of severe or rare diseases and to accelerate patients' use of the advanced treatments. The DH will establish the Hong Kong Centre for Medical Products Regulation by the end of next year, and implement ""primary evaluation"" for new drug registration in phases beginning next year. The DH will continue to proactively advance preparatory work for ""primary evaluation"" for new drug registration and progressively establish a robust approval system, providing strong momentum for the development and market expansion of the healthcare industry in the HKSAR, the Mainland, and beyond, thereby transforming Hong Kong into an international health and medical innovation hub.  "
 Speech by SFST at Bloomberg's Greater Bay Area FinTech Talent Initiative Summit (English only),2025-11-26 16:48,2025-11-26 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202511/26/P2025112600293.htm,"  Following is the speech by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at Bloomberg's Greater Bay Area (GBA) FinTech Talent Initiative Summit today (November 26):
 
 Bing (Head of Asia Pacific, Bloomberg, Mr Bing Li), Howard (Deputy Chief Executive of the Hong Kong Monetary Authority (HKMA), Mr Howard Lee), distinguished guests, ladies and gentlemen, and fellow colleagues in the fintech sectors,
