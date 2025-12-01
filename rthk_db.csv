@@ -1,4 +1,14 @@
 title,date,summary,scrape_time,section,source,url,news_content
+內地股市初段窄幅上落,2025-12-01 09:35,,2025-12-01 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834044-20251201.htm,"滬深股市初段窄幅上落。
+
+上證指數較早時報3890點，升2點，升幅0.06%。
+
+深證成份指報13019點，升35點，升幅0.27%。
+
+創業板指數報3049點，跌2點，跌幅0.09%。"
+恒指競價時段報升86點,2025-12-01 09:25,,2025-12-01 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834042-20251201.htm,"港股上升，恒指競價時段報25945點，升86點，升幅0.34%。
+
+科技指數報5611點，升11點，升幅0.21%。"
 人民幣兌美元中間價再創逾1年新高,2025-12-01 09:19,,2025-12-01 09:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834041-20251201.htm,人民幣中間價報7.0759兌1美元，再創逾1年新高，較上星期五升30點子。
 日本企業上季資本開支按年增長2.9%,2025-12-01 09:14,,2025-12-01 09:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834037-20251201.htm,"日本政府數據顯示，企業在第3季廠房和設備開支，即資本開支按年增長2.9%。有關數據將用以計算下周公布的國內生產總值（GDP）修正數據。
 
@@ -13,6 +23,13 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 邱裕鈞又認為，要減少交通意外，除了針對司機，亦應該向同是道路使用者的行人執法。他說以往較少對違例行人執法，例如衝紅燈、不用行人線過馬路等，他特別提到行人喜愛低頭看手機的現象，影響司機安全駕駛，應考慮禁止。"
 宏福苑五級火｜停課學校以不同方式逐步復課　有校長稱早上網課,2025-12-01 09:12,,2025-12-01 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834039-20251201.htm,"受大埔宏福苑火警影響而需要在日前停課的學校，今天以不同方式逐步復課，包括用作安置疏散居民的中華基督教會馮梁結紀念中學。
+
+校長黃慧珊表示，校方要檢視學校的狀況，包括所有硬件是否配合，亦要繼續照顧老師及學生的情緒需要等，各項工作都需要時間跟進。
+
+黃慧珊又說，每一班都有兩名班主任，當遇上突發事件後，會透過電話等與學生溝通，情況暫時可控，但實際要等待師生見面後才能知道。
+
+她表示，學生今日上午會上網課，下午會預留時間讓班主任處理其他事宜。至於何時恢復實體上課，要視乎學校的軟硬件是否準備好。"
+宏福苑五級火｜停課學校逐步復課　馮梁結紀念中學今早上網課,2025-12-01 09:12,,2025-12-01 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834039-20251201.htm,"受大埔宏福苑火警影響而需要在日前停課的學校，今天以不同方式逐步復課，包括用作安置疏散居民的中華基督教會馮梁結紀念中學。
 
 校長黃慧珊表示，校方要檢視學校的狀況，包括所有硬件是否配合，亦要繼續照顧老師及學生的情緒需要等，各項工作都需要時間跟進。
 
@@ -310,12 +327,12 @@ NBS data also showed on Sunday that the PMI for the nation's non-manufacturing s
 金正恩在紀念北韓人民軍空軍成立80周年報告會上說，空軍在行使核戰爭遏制力方面獨當一面。他要求空軍發揮壓倒性精神力量和進攻性氣勢，堅決擊退和遏制敵人企圖侵犯北韓領空的各種偵察行為和軍事挑釁可能性。
 
 報道說，金正恩當日觀看空軍飛行表演，並向空軍授予北韓最高勛章。"
-宏福苑五級火｜沙田馬場賽事閉門進行　馬會將捐約7000萬港元,2025-11-30 19:24,,2025-11-30 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833990-20251130.htm,"馬會對大埔宏福苑的火災表示深感悲痛，今天在沙田賽馬場舉行賽事以閉門形式進行，表示將捐出約000萬港元，當中包括今日的賽事總收益，予特區政府成立的「大埔宏福苑支援基金」。
+宏福苑五級火｜沙田馬場賽事閉門進行　馬會將捐7000萬港元,2025-11-30 19:24,,2025-11-30 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833990-20251130.htm,"馬會對大埔宏福苑的火災表示深感悲痛，今天在沙田賽馬場舉行賽事以閉門形式進行，表示將捐出7000萬港元，當中包括今日的賽事總收益，予特區政府成立的「大埔宏福苑支援基金」。
 
 馬會表示，加上早前透過「賽馬會緊急援助基金」提供的1億港元援助，馬會總共已向受影響居民捐助約 1億7000萬港元。
 
 另外，馬會亦已為受火災影響的員工，安排臨時住宿及應急資金，並設立24小時熱線協助有需要情緒支援的員工。"
-宏福苑五級火｜沙田馬場賽事閉門進行　馬會將捐7000萬港元,2025-11-30 19:24,,2025-11-30 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833990-20251130.htm,"馬會對大埔宏福苑的火災表示深感悲痛，今天在沙田賽馬場舉行賽事以閉門形式進行，表示將捐出7000萬港元，當中包括今日的賽事總收益，予特區政府成立的「大埔宏福苑支援基金」。
+宏福苑五級火｜沙田馬場賽事閉門進行　馬會將捐約7000萬港元,2025-11-30 19:24,,2025-11-30 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833990-20251130.htm,"馬會對大埔宏福苑的火災表示深感悲痛，今天在沙田賽馬場舉行賽事以閉門形式進行，表示將捐出約000萬港元，當中包括今日的賽事總收益，予特區政府成立的「大埔宏福苑支援基金」。
 
 馬會表示，加上早前透過「賽馬會緊急援助基金」提供的1億港元援助，馬會總共已向受影響居民捐助約 1億7000萬港元。
 
@@ -405,12 +422,12 @@ But it noted some individual units had been seriously damaged and need emergency
 報道說，歌手大槻真希日前在上海參加活動時，在演唱中途被強行叫停。網上片段顯示，大槻演唱期間燈光突然熄滅，音樂暫停，可能是工作人員的人士跑上舞台要求大槻離開。大槻的官網宣布，由於無可奈何的各種原因，不得不匆忙中斷演唱。
 
 另外，歌手濱崎步及爵士鋼琴家上原廣美的在華公演取消，日本相關的動畫電影和音樂劇等亦相繼叫停。報道引述有學者擔心，日本首相高市早苗早前發表涉台言論的影響會繼續蔓延，有熟悉亞洲流行文化的傳媒人說，日本娛樂產業的狀況今後可能會更加嚴峻。"
-穗禾苑決定移除9座大廈維修棚網　移除施工期間封窗膠板　,2025-11-30 15:00,,2025-11-30 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833972-20251130.htm,"正進行大維修的火炭穗禾苑，將移除全部9座大廈的棚網，預計相關拆除工程需時約10至12日，其後會拆棚架，亦正探討或以吊船方式完成餘下維修工程。整個屋苑亦會移除所有工程期間封窗的塑膠板。
+穗禾苑決定移除9座大廈維修棚網　移除施工期間封窗膠板,2025-11-30 15:00,,2025-11-30 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833972-20251130.htm,"正進行大維修的火炭穗禾苑，將移除全部9座大廈的棚網，預計相關拆除工程需時約10至12日，其後會拆棚架，亦正探討或以吊船方式完成餘下維修工程。整個屋苑亦會移除所有工程期間封窗的塑膠板。
 
 業主立案法團主席梁寶玲表示，法團與承辦商早前與居民開會，明白居民擔憂安全問題，為減低居民負面情緒，決定先拆除棚網，強調早前房屋局獨立審查組到屋苑現場採樣，經政府化驗所測試，初步結果無發現不符合棚網阻燃要求。
 
 另外，屋苑管理公司表示，早前發現大廈棚網有被燒過的痕跡，已報警處理。"
-穗禾苑決定移除9座大廈維修棚網　移除施工期間封窗膠板,2025-11-30 15:00,,2025-11-30 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833972-20251130.htm,"正進行大維修的火炭穗禾苑，將移除全部9座大廈的棚網，預計相關拆除工程需時約10至12日，其後會拆棚架，亦正探討或以吊船方式完成餘下維修工程。整個屋苑亦會移除所有工程期間封窗的塑膠板。
+穗禾苑決定移除9座大廈維修棚網　移除施工期間封窗膠板　,2025-11-30 15:00,,2025-11-30 15:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833972-20251130.htm,"正進行大維修的火炭穗禾苑，將移除全部9座大廈的棚網，預計相關拆除工程需時約10至12日，其後會拆棚架，亦正探討或以吊船方式完成餘下維修工程。整個屋苑亦會移除所有工程期間封窗的塑膠板。
 
 業主立案法團主席梁寶玲表示，法團與承辦商早前與居民開會，明白居民擔憂安全問題，為減低居民負面情緒，決定先拆除棚網，強調早前房屋局獨立審查組到屋苑現場採樣，經政府化驗所測試，初步結果無發現不符合棚網阻燃要求。
 
@@ -509,27 +526,6 @@ Meanwhile, engineering sector lawmaker Lo Wai-kwok said fire hazard risk assessm
 他說特區政府提供全方位支援，協助居民應對各種困難。他日前特別召開金融監管機構統籌會議，以加大力度協調和動員銀行、保險公司、強積金受託人等，積極為居民提供更靈活、更彈性和人性化的服務安排。
 
 此外，他亦到了大埔兩個為受火災影響居民提供緊急住宿的過渡性房屋單位，探望受影響的居民，了解他們的需要和未來安排。他說政府將傾盡全力做好善後和安置工作，而跨部門調查專組已召開首次會議，會全速調查，執法部門必將依法嚴懲違法行為。"
-HK continues to mourn victims of Tai Po inferno,2025-11-30 11:46,,2025-11-30 12:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833961-20251130.htm,"More people from around Hong Kong went to Tai Po on Sunday to pay their respects to those affected by the massive fire at Wang Fuk Court.
-
-Police said the death toll stood at 128, with another 150 people unaccounted for. HK continues to mourn victims of Tai Po inferno
-
-Some mourners brought flowers and cards to lay in a park nearby, as they struggled to hold back their tears.
-
-A domestic helper said her friend, Tauwadi, was among the many still unaccounted for.
-
-""She lives here. I kept calling her phone, but we couldn't find her. Her brother is also looking for her from Indonesia, but there's nothing,"" the helper said.
-
-A local resident, Ms Ng, said there was much grief within the community.
-
-""I hope Wang Fuk Court residents can recover from the pain as soon as possible. We all live in this community that we love and grew up together,"" she told reporters.
-
-""We can feel their pain, and we hope there will be a reasonable explanation as to what happened.""
-
-A Chinese University of Hong Kong graduate, who needed her mother to comfort her at times, said Tai Po was a special place for her because there were important memories during her years as a university student.
-
-A man from Tseung Kwan O said while he knew there were condolence books set up across the city's 18 districts, he wanted to go to Tai Po in person to show his sincerity in paying his respects.
-
-""I hope residents won't give up in the face of adversity,"" said an old man who lives in Sham Shui Po."
 HK people mourn victims of Tai Po inferno,2025-11-30 11:46,,2025-11-30 12:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833961-20251130.htm,"More people from around Hong Kong went to Tai Po on Sunday to pay their respects to those affected by the massive fire at Wang Fuk Court.
 
 Police said the death toll stood at 128, with another 150 people unaccounted for.
@@ -551,7 +547,28 @@ A Chinese University of Hong Kong graduate, who needed her mother to comfort her
 A man from Tseung Kwan O said while he knew there were condolence books set up across the city's 18 districts, he wanted to go to Tai Po in person to show his sincerity in paying his respects.
 
 ""I hope residents won't give up in the face of adversity,"" said an old man who lives in Sham Shui Po."
-"'More than 1,500 Tai Po fire victims rehoused'",2025-11-30 11:27,,2025-11-30 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833959-20251130.htm,"Deputy Financial Secretary Michael Wong on Sunday said more than 1,500 people left homeless from the deadly fire at Wang Fuk Court have now been rehoused free of charge.   
+HK continues to mourn victims of Tai Po inferno,2025-11-30 11:46,,2025-11-30 12:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833961-20251130.htm,"More people from around Hong Kong went to Tai Po on Sunday to pay their respects to those affected by the massive fire at Wang Fuk Court.
+
+Police said the death toll stood at 128, with another 150 people unaccounted for. HK continues to mourn victims of Tai Po inferno
+
+Some mourners brought flowers and cards to lay in a park nearby, as they struggled to hold back their tears.
+
+A domestic helper said her friend, Tauwadi, was among the many still unaccounted for.
+
+""She lives here. I kept calling her phone, but we couldn't find her. Her brother is also looking for her from Indonesia, but there's nothing,"" the helper said.
+
+A local resident, Ms Ng, said there was much grief within the community.
+
+""I hope Wang Fuk Court residents can recover from the pain as soon as possible. We all live in this community that we love and grew up together,"" she told reporters.
+
+""We can feel their pain, and we hope there will be a reasonable explanation as to what happened.""
+
+A Chinese University of Hong Kong graduate, who needed her mother to comfort her at times, said Tai Po was a special place for her because there were important memories during her years as a university student.
+
+A man from Tseung Kwan O said while he knew there were condolence books set up across the city's 18 districts, he wanted to go to Tai Po in person to show his sincerity in paying his respects.
+
+""I hope residents won't give up in the face of adversity,"" said an old man who lives in Sham Shui Po."
+"'More than 1,500 Tai Po fire survivors rehoused'",2025-11-30 11:27,,2025-11-30 13:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833959-20251130.htm,"Deputy Financial Secretary Michael Wong on Sunday said more than 1,500 people left homeless from the deadly fire at Wang Fuk Court have now been rehoused free of charge.   
  
 Speaking on Commercial Radio, Wong said around 1,000 are in transitional housing or Housing Society estates while the rest are in hotels. 
  
@@ -570,7 +587,7 @@ According to the latest census figures in 2021, it was home to over 4,600 people
 Wong said enough spare units are available to rehouse all affected residents. 
  
 But as most people want to stay in Tai Po, the minister urged them to consider units in other districts if local ones fill up."
-"'More than 1,500 Tai Po fire survivors rehoused'",2025-11-30 11:27,,2025-11-30 13:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833959-20251130.htm,"Deputy Financial Secretary Michael Wong on Sunday said more than 1,500 people left homeless from the deadly fire at Wang Fuk Court have now been rehoused free of charge.   
+"'More than 1,500 Tai Po fire victims rehoused'",2025-11-30 11:27,,2025-11-30 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1833959-20251130.htm,"Deputy Financial Secretary Michael Wong on Sunday said more than 1,500 people left homeless from the deadly fire at Wang Fuk Court have now been rehoused free of charge.   
  
 Speaking on Commercial Radio, Wong said around 1,000 are in transitional housing or Housing Society estates while the rest are in hotels. 
  
@@ -635,10 +652,3 @@ But as most people want to stay in Tai Po, the minister urged them to consider u
 他提到有與不同的過渡性房屋營運單位溝通，希望他們不用擔心，當局有適當資助給予相關單位。
 
 房屋局局長何永賢形容過渡性房屋項目是紓緩區，今次大家都看到這個項目能發揮作用。"
-墨西哥中部一間酒吧發生槍擊事件造成7人死亡,2025-11-30 09:32,,2025-11-30 10:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1833952-20251130.htm,"墨西哥中部一間酒吧發生槍擊事件，造成7人死亡，5人重傷。
-
-事發在當地周末凌晨，距離首都墨西哥城以北約100公里的圖拉市一間酒吧，目擊者說，一群武裝分子闖入開槍。警員在現場發現4人當場死亡，另有3人送院搶救後不治。
-
-聯邦和州安全部隊隨即展開行動，但未拘捕任何人。
-
-安全部門表示，在槍擊發生前，已發現當地不同幫派之間存在衝突。當地傳媒報道稱，一名當地幫派頭目被捕後，爆發內部衝突。"
