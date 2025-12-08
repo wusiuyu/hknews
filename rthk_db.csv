@@ -1,4 +1,27 @@
 title,date,summary,scrape_time,section,source,url,news_content
+US to approve sale of Nvidia AI chips to China: Trump,2025-12-09 07:09,,2025-12-09 07:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835255-20251209.htm,"The US government will allow Nvidia to export its H200 artificial intelligence chips to China, collecting a fee for each chip, US President Donald Trump said on Monday.
+
+Nvidia shares rose 1.2 percent in after-hours trading after Trump made the announcement on Truth Social, having closed 3.16 percent higher after Semafor first reported the possibility of approval.
+
+Trump said that he had informed President Xi Jinping, where Nvidia's chips are under government scrutiny, about the move and he ""responded positively,"" according to Trump's post.
+
+Trump said the US Commerce Department was finalising details of the arrangement and the same approach would apply to other AI chip firms such as Advanced Micro Devices and Intel.
+
+""We will protect National Security, create American Jobs, and keep America’s lead in AI,"" Trump wrote on Truth Social.
+
+""NVIDIA’s US Customers are already moving forward with their incredible, highly advanced Blackwell chips, and soon, Rubin, neither of which are part of this deal.""
+
+The announcement marks a significant shift in US export policy for advanced AI chips, which Joe Biden's administration had heavily restricted over US national security concerns about Chinese military applications.
+
+Under Biden-era restrictions, the H200 and similar advanced chips were blocked from export to China.
+
+First released in the second quarter of 2024, the H200s are roughly 18 months behind the company's state-of-the-art offerings.
+
+The chips – graphic processing units or GPUs – are used to train the AI models that are the bedrock of the generative AI revolution.
+
+Nvidia CEO Jensen Huang has lobbied the White House intensely to reverse the Biden-era policy despite considerable opposition in Washington to giving Chinese companies access to the chips.
+
+China's cybersecurity regulator summoned Nvidia to a meeting to explain whether its H20 AI chip had any backdoor security risks, an allegation Nvidia has denied, Reuters reported in August. (Agencies)"
 US stocks end lower as markets await Fed decision,2025-12-09 06:40,,2025-12-09 07:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835248-20251209.htm,"Stocks on Wall Street were mostly down on Monday as investors avoided risks ahead of this week's Federal Reserve meeting, which may yield clues as to the direction of interest rates in the coming months.
 
 A bid by Paramount for Warner Bros Discovery, meanwhile, brought the tech and entertainment sectors to life, as the market braced for a bidding war with Netflix.
@@ -572,14 +595,14 @@ However, he said the government’s handling of post-disaster relief, its care f
 
 他又說，民建聯將會向政府提出重建及賠償方案，包括研究可否使用富善邨後面的「熟地」。由於災民對是否原區或原址居住有不同想法，會因應災民訴求、不同業權情況提出具體方案，並在立法會內支持特區政府落實有關大廈維修和安全監督的改革。"
 立法會選舉｜陳克勤：民建聯會認真總結選舉　全力支援宏福苑居民,2025-12-08 14:13,,2025-12-08 14:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835175-20251208.htm, 
-台股高收逾300點　逾1個月以來首次企穩28000點收市,2025-12-08 14:10,,2025-12-08 14:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835173-20251208.htm,"台灣股市以全日高位收市，是自11月初以來首次在28000點以上收市。
-
-加權指數收報28303點，升322點，升幅1.15%。"
 韓正晤德國外長　稱中德合作互利共贏,2025-12-08 14:10,,2025-12-08 14:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835174-20251208.htm,"國家副主席韓正在北京與訪華的德國外長瓦德富爾會面。
 
 韓正表示，中德互為重要經貿合作夥伴，雙方合作互利共贏。中方願與德方落實好兩國領導人重要共識，加強溝通對話，推動中德全方位戰略夥伴關係邁上新台階。韓正又說，台灣問題是中國核心利益中的核心，希望德方恪守一個中國原則，德方是歐盟核心大國，期待德方為推動中歐關係健康發展發揮積極作用。
 
 中方引述瓦德富爾表示，德國新政府高度重視發展對華關係，堅定奉行一個中國政策，期待與中方密切高層交往，進一步深化全方位合作，德國願意做中國的可靠合作夥伴。"
+台股高收逾300點　逾1個月以來首次企穩28000點收市,2025-12-08 14:10,,2025-12-08 14:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835173-20251208.htm,"台灣股市以全日高位收市，是自11月初以來首次在28000點以上收市。
+
+加權指數收報28303點，升322點，升幅1.15%。"
 立法會選舉｜回應高票當選　方國珊：17年磨一劍「揼石仔」工作,2025-12-08 13:51,,2025-12-08 14:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835171-20251208.htm,"在立法會選舉新界東南選區取得58000多票當選的專業動力方國珊，中午在港鐵坑口站外謝票，不少支持者與她握手及擁抱。
 
 本身是西貢區議員的方國珊曾5次參選都落敗，今次第6次參選並高票當選，被問到當選關鍵，她說在社區工作17年，形容是「17年磨一劍」，「揼石仔」做社區工作，包括處理個案和貼地的地區工作，感謝市民給予她一份好的成績表。她又指出，曾5次參選落敗，很多街坊都認為她欠缺運氣，感謝他們不離不棄，以及團隊及親人的支持，才捱到現在。
@@ -776,6 +799,13 @@ Overall, the new Legislative Council includes 40 newcomers among its 90 members.
 他認為，如果保險業能夠妥善管理實體及轉型風險，有望迎來商機及利潤增長。氣候變遷令民眾對財產保障需求、投保意識大幅提升，形成新需求。
 
 他又提到，科技與金融相輔相成，重大技術革新推動金融業整體增長，人工智能(AI)有助釋巨大潛力，內地很多金融機構正將AI應用於服務，降低成本並提高效率。"
+內地11月以美元計價出口轉升5.9%,2025-12-08 11:30,,2025-12-08 11:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835145-20251208.htm,"中國海關總署公布，11月以美元計價出口按年轉升5.9%；進口增長1.9%，較10月加快0.9個百分點。貿易順差1116.8億美元。
+
+1-11月出口增長5.4%，進口下跌0.6%。
+
+以人民幣計價，11月出口按年增長5.7%，10月跌0.8%；進口增長1.7%，升幅較10月加快0.3個百分點。貿易順差7926億元。
+
+首11個月出口按年增長6.2%，進口增長0.2%。"
 內地11月美元計價出口轉升5.9%,2025-12-08 11:30,,2025-12-08 12:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835145-20251208.htm,"中國海關總署公布，11月美元計價出口按年轉升5.9%，高過市場預期；進口增長1.9%，較10月加快0.9個百分點，但低過市場預期。貿易順差1116.8億美元，多過市場預期。
 
 1-11月出口增長5.4%，進口下跌0.6%。
@@ -783,13 +813,6 @@ Overall, the new Legislative Council includes 40 newcomers among its 90 members.
 海關總署數據顯示，中國1-11月對美國出口按年下跌18.9%，自美國進口下跌13.2%；1-11月對俄羅斯出口按年下跌11.9%，進口下跌5.9%。
 
 以人民幣計價，中國11月出口按年增長5.7%，10月跌0.8%；進口增長1.7%，升幅較10月加快0.3個百分點。貿易順差7926億元。
-
-首11個月出口按年增長6.2%，進口增長0.2%。"
-內地11月以美元計價出口轉升5.9%,2025-12-08 11:30,,2025-12-08 11:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835145-20251208.htm,"中國海關總署公布，11月以美元計價出口按年轉升5.9%；進口增長1.9%，較10月加快0.9個百分點。貿易順差1116.8億美元。
-
-1-11月出口增長5.4%，進口下跌0.6%。
-
-以人民幣計價，11月出口按年增長5.7%，10月跌0.8%；進口增長1.7%，升幅較10月加快0.3個百分點。貿易順差7926億元。
 
 首11個月出口按年增長6.2%，進口增長0.2%。"
 肖遠企：監管機構關注保險公司商業模式是否具可持續性,2025-12-08 11:15,,2025-12-08 11:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835146-20251208.htm,"國家金融監管總局副局長肖遠企表示，銀行及保險公司受到嚴格監管，但近年非銀行金融機構與兩者的聯繫越趨緊密，令到有關風險難以識別，風險傳播速度加快。他指出，監管機構加強資本要求及收緊風險敞口限額，有助防止保險公司為盲目追求短期收益而提高風險偏好。
@@ -928,13 +951,6 @@ MSCI's broadest index of Asia-Pacific shares outside Japan was off a slim 0.1 pe
 信達生物製藥正式被納入恒指成份股，高開1%。"
 人民幣兌美元中間價微跌,2025-12-08 09:22,,2025-12-08 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835128-20251208.htm,人民幣中間價報7.0764兌1美元，創近1周新低，較上周五中間價下調15點子。
 台股開市後向好,2025-12-08 09:06,,2025-12-08 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835127-20251208.htm,台灣股市向好。加權指數較早時報28088點，升107點，升幅0.39%。
-立法會選舉｜李家超指選舉順利舉行具深刻意義　體現支持改革決心,2025-12-08 08:57,,2025-12-08 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835126-20251208.htm,"行政長官李家超表示，立法會選舉圓滿完成，恭賀成功當選議員，在社會共同面對挑戰時刻，選舉順利舉行具深刻意義，體現選民支持政府災後重建及改革向前的決心，支持選出有能力、有抱負的立法會議員支援災民和善後重建，推動制度改革，展現團結一致、互愛互助精神。
-
-今次是完善選舉制度後的第二次立法會選舉，李家超說，政府推出多項先驅安排，包括延長投票時間等，整體投票過程暢順，會總結經驗，進一步優化各環節。他期望新一屆立法會議員與政府透過辯論、推動法例檢討及修訂，推行系統性改革，讓香港更安全、市民更安心。
-
-他感謝投票選民積極行使公民權利和責任，在推動災後重建重要時刻踴躍投票，選出愛國愛港、德才兼備的議員。
-
-李家超亦感謝選舉管理委員會全面及周詳準備，讓選舉在公開、公正、誠實及安全有序下順利完成。各候選人積極參與39場公開選舉論壇，體現廣泛代表性、均衡參與和公平競爭原則。"
 日本實質薪酬連續10個月下跌　名義薪酬升但未能抵銷通脹升幅,2025-12-08 08:57,,2025-12-08 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835122-20251208.htm,"日本10月實質薪酬連續第10個月下跌，名義薪酬回升，但不足以抵銷持續的通脹。
 
 數據顯示，經通脹調整後，10月實質薪酬按年跌0.7%，跌幅較9月修正後數據收窄0.6個百分點。
@@ -944,6 +960,13 @@ MSCI's broadest index of Asia-Pacific shares outside Japan was off a slim 0.1 pe
 10月基本薪酬增長2.6%，加班費增長1.5%，兩者都高於預期；較為波動、包括一次性奬金在內的特殊支出增長6.7%。
 
 另外，代表製造業的主要工會，全日本金屬工人工會聯合會（JCM）上月表示，明年春季薪酬談判將沿用今年的目標。該組織隸屬日本最大工會聯合會Rengo，該會明年整體薪酬升幅目標最少5%。"
+立法會選舉｜李家超指選舉順利舉行具深刻意義　體現支持改革決心,2025-12-08 08:57,,2025-12-08 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835126-20251208.htm,"行政長官李家超表示，立法會選舉圓滿完成，恭賀成功當選議員，在社會共同面對挑戰時刻，選舉順利舉行具深刻意義，體現選民支持政府災後重建及改革向前的決心，支持選出有能力、有抱負的立法會議員支援災民和善後重建，推動制度改革，展現團結一致、互愛互助精神。
+
+今次是完善選舉制度後的第二次立法會選舉，李家超說，政府推出多項先驅安排，包括延長投票時間等，整體投票過程暢順，會總結經驗，進一步優化各環節。他期望新一屆立法會議員與政府透過辯論、推動法例檢討及修訂，推行系統性改革，讓香港更安全、市民更安心。
+
+他感謝投票選民積極行使公民權利和責任，在推動災後重建重要時刻踴躍投票，選出愛國愛港、德才兼備的議員。
+
+李家超亦感謝選舉管理委員會全面及周詳準備，讓選舉在公開、公正、誠實及安全有序下順利完成。各候選人積極參與39場公開選舉論壇，體現廣泛代表性、均衡參與和公平競爭原則。"
 立法會選舉｜方國珊第六次參選成票后　 三名議員連任失敗,2025-12-08 08:51,,2025-12-08 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835125-20251208.htm,"立法會換屆選舉完成點票。地方選區20席中，民建聯佔10席。多名現屆議員成功連任，8人是「新丁」。
 
 在新界東南選區，專業動力的西貢區議員方國珊和民建聯油尖旺區議員葉傲冬，首次晉身議會。
