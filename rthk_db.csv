@@ -1,4 +1,19 @@
 title,date,summary,scrape_time,section,source,url,news_content
+功能界別14人成功連任　會計界民建聯黃俊碩落敗,2025-12-08 09:29,,2025-12-08 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835130-20251208.htm,"新一屆立法會的28個功能界別共30名議員誕生，15名競逐連任的議員當中，只有會計界、民建聯的黃俊碩未能順利連任。
+
+成功連任的14名議員，包括鄉議局主席劉業強、轉跑道參選保險界的陳沛良、教育界鄧飛、勞工界周小松、醫療衞生界林哲玄、商界（三）嚴剛、工業界（二）吳永嘉、金融界陳振英、金融服務界李惟宏；體育、演藝、文化及出版界霍啟剛、紡織及製衣界陳祖恒、批發及零售界邵家輝、科技創新界邱達根、以及特區全國人大、政協及有關全國性團體代表界的陳勇。
+
+16名首次參選的新人，選前備受注目的奧運金牌得主江旻憓，以131票擊敗旅遊從業員馬軼超。在工程界以超過3千票贏得議席的經民聯卜國明，他是土木工程處前處長。
+
+建築、測量、都市規劃及園境界是全新面孔，由建築師學會會長劉文君，以2157票勝出，較對手多117票。
+
+自由黨梁進順利當選飲食界議員，從雄霸這個界別25年的張宇人手中接棒。"
+恒指低開17點　藍籌新貴信達生物升1%,2025-12-08 09:28,,2025-12-08 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835129-20251208.htm,"港股窄幅低開，恒指競價時段報26067點，跌17點。
+
+科技指數微升，報5666點。
+
+信達生物製藥正式被納入恒指成份股，高開1%。"
+人民幣兌美元中間價微跌,2025-12-08 09:22,,2025-12-08 09:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835128-20251208.htm,人民幣中間價報7.0764兌1美元，創近1周新低，較上周五中間價下調15點子。
 台股開市後向好,2025-12-08 09:06,,2025-12-08 09:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835127-20251208.htm,台灣股市向好。加權指數較早時報28088點，升107點，升幅0.39%。
 立法會選舉｜李家超指選舉順利舉行具深刻意義　體現支持改革決心,2025-12-08 08:57,,2025-12-08 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835126-20251208.htm,"行政長官李家超表示，立法會選舉圓滿完成，恭賀成功當選議員，在社會共同面對挑戰時刻，選舉順利舉行具深刻意義，體現選民支持政府災後重建及改革向前的決心，支持選出有能力、有抱負的立法會議員支援災民和善後重建，推動制度改革，展現團結一致、互愛互助精神。
 
@@ -108,6 +123,13 @@ title,date,summary,scrape_time,section,source,url,news_content
 飲食界： 梁進 101票 
 
 香港特別行政區全國人大代表、香港特別行政區全國政協委員及有關全國性團體代表界：陳勇 414票"
+日本上季GDP修正後按季年率收縮2.3%　差過預期,2025-12-08 08:39,,2025-12-08 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835115-20251208.htm,"日本第3季實質國內生產總值(GDP)按季年率修正後收縮2.3%，跌幅大於市場預期的2%及初值的1.8%。
+
+數據按季收縮0.6%，跌幅亦多於預期的0.5%及初值的0.4%。
+
+上季私人消費按季增長0.2%，高於初值，但資本支出按季減少0.2%，市場原本估計增長0.4%，初值增長1%。
+
+上季外部需求拖累經濟0.2個百分點，與初值一致。"
 立法會選舉｜邱達根成功連任　將繼續推動業界改善政策,2025-12-08 08:39,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835120-20251208.htm,"2025年立法會換屆選舉，科技創新界邱達根當選，成功連任。
 
 邱達根表示，競選期間與所有有份投票機構都有接觸，很多人都反映本港的創新科技界仍然是較初期的階段，仍需要很多持續的政策和政府的支持，包括立法方面的工作，相信同樣是業界的共識。
@@ -116,13 +138,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 立法會選舉｜林偉全：上任後與商界不同持份者溝通,2025-12-08 08:39,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835119-20251208.htm,"2025立法會換屆選舉，經民聯的林偉全在功能組別商界（第一）勝出。他感謝「師父」林健鋒在選舉工程期間對自己的指導及協助。他提到上任後，會與商界不同持份者好好溝通，了解他們的看法。
 
 經民聯副主席林健鋒表示，今屆選舉任何界別都有競爭，而且激烈，香港由亂到治，由治及興，都可以體現競爭是一件好事，形容今屆選舉是一次良性競爭，希望各當選人在招商引資、經濟發展，社會各項關注的事情，都可以盡快處理。"
-日本上季GDP修正後按季年率收縮2.3%　差過預期,2025-12-08 08:39,,2025-12-08 09:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835115-20251208.htm,"日本第3季實質國內生產總值(GDP)按季年率修正後收縮2.3%，跌幅大於市場預期的2%及初值的1.8%。
-
-數據按季收縮0.6%，跌幅亦多於預期的0.5%及初值的0.4%。
-
-上季私人消費按季增長0.2%，高於初值，但資本支出按季減少0.2%，市場原本估計增長0.4%，初值增長1%。
-
-上季外部需求拖累經濟0.2個百分點，與初值一致。"
 立法會選舉｜林偉全感謝林健鋒協助　稱上任後會與商界好好溝通,2025-12-08 08:34,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835117-20251208.htm,"2025立法會換屆選舉，經民聯的林偉全在功能組別商界（第一）勝出。他感謝「師父」林健鋒在選舉工程期間對自己的指導及協助。他提到上任之後，會與商界不同的持份者好好溝通，了解他們的看法。
 
 經民聯副主席林健鋒表示，今屆選舉任何界別都有競爭，而且激烈，香港由亂到治，由治及興，都可以體現競爭是一件好事，形容今屆選舉是一次良性的競爭，希望各當選人在招商引資、經濟發展，社會各項關注的事情，都可以盡快處理。"
@@ -141,12 +156,12 @@ title,date,summary,scrape_time,section,source,url,news_content
 被問到會否考慮參選立法會主席，陳振英表示，從來服務立法會持開放態度，無論做甚麼崗位都會全力以赴，現時當選的議員尚未宣誓，所以其他事情是言之尚早。
 
 他提到，現時焦點是集中在如何全力配合政府，做好宏福苑災後的善後工作，包括制度修改、法律修改、撥款等。"
+立法會選舉｜李家超：選舉圓滿完成　與新一屆立法會共同推進改革,2025-12-08 08:22,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835113-20251208.htm, 
 立法會選舉｜陳曉峰：未來立法會工作會專注做好法治建設,2025-12-08 08:22,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835112-20251208.htm,"立法會換屆選舉法律界功能界別，由身兼港區全國人大的自由黨陳曉峰勝出。
 
 陳曉峰表示，未來立法會工作會專注做好法治建設，令法治可以配合帶社會和科技的進程。
 
 他提到，之後的工作同樣包括做好災後的重建，以災民優先，與另外89名立法會議員做好法治建設，災難產生了很多反思，部分規則、規條都需要改變，以避免類似的事件再次發生。"
-立法會選舉｜李家超：選舉圓滿完成　與新一屆立法會共同推進改革,2025-12-08 08:22,,2025-12-08 08:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835113-20251208.htm, 
 立法會選舉｜鄧家彪：選票是對工聯會肯定　鄧飛：跟進大埔火災　,2025-12-08 08:19,,2025-12-08 08:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835111-20251208.htm,"九龍東選區由工聯會鄧家彪及民建聯張培剛當選。 鄧家彪獲得53675票，是地方直選候選人中第二高票數 。 他表示，工聯會在九龍東長時間扎根，自己作為現任立法會議員有更多渠道接觸選民，包括工作報告、宣傳等，讓市民更掌握工聯會的工作，取得的選票是選民對工聯會的肯定。
 
 教育界由鄧飛當選。他說，由選委界轉跑道至教育界，形容爭取支持的方法完全不同。他表示，將跟進大埔有學校因應大火停課，亦有師生有情緒困擾，所以要充分利用三層應急機制，輔導老師、駐校社工、教育心理學家等，應緊密跟進事件。
@@ -248,14 +263,14 @@ Also retaining his seat is David Lam, who beat fellow doctor John Leung in the M
 10個地方選區方面，多名現屆議員都成功連任。
 
 專業動力方國珊在新界東南當選，並以58828票成為直選「票后」，今次是她第六次參選，首次晉身立法會。"
-立法會選舉｜陳家珮：最重要保葉劉淑儀議席　顏汶羽對落選感失望,2025-12-08 07:34,,2025-12-08 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835095-20251208.htm,"立法會換屆選舉結果已全部出爐。
+立法會選舉｜陳家佩：最重要保葉劉淑儀議席　顏汶羽對落選感失望,2025-12-08 07:34,,2025-12-08 07:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835095-20251208.htm,"立法會換屆選舉結果已全部出爐。
 
 香港島西選區兩名現任立法會議員候選人包括新民黨陳家珮及民建聯陳學鋒，成功連任。轉跑道的陳家珮形容今次面對另外兩名立法會議員，壓力相當大。她又表示，從來沒有目標要取得多少票數，最重要是能「保住」葉劉淑儀的議席。她提到，新民黨在立法會的議席較上屆少，形容未來的道路不容易走，強調會繼續努力服務市民。
 
 香港島東選區工聯會吳秋北和民建聯植潔鈴當選。首次當選植潔鈴指曾在過去三屆立法會議員助理，在議會工作方面有一定認知，相信在上任後能很快上手。
 
 九龍東工聯會鄧家彪及民建聯張培剛當選。同區的民建聯顏汶羽就未能成功連任，他指出，在大埔宏福苑大火後出現很多謠言、錯誤的訊息，所以對民建聯整體的選情均有影響。他又認為，在同一區派兩人參選是較高風險的策略安排，雖然對未能連任感到失望，但最終要是民建聯在九龍東仍保有一席。"
-立法會選舉｜陳家佩：最重要保葉劉淑儀議席　顏汶羽對落選感失望,2025-12-08 07:34,,2025-12-08 07:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835095-20251208.htm,"立法會換屆選舉結果已全部出爐。
+立法會選舉｜陳家珮：最重要保葉劉淑儀議席　顏汶羽對落選感失望,2025-12-08 07:34,,2025-12-08 08:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835095-20251208.htm,"立法會換屆選舉結果已全部出爐。
 
 香港島西選區兩名現任立法會議員候選人包括新民黨陳家珮及民建聯陳學鋒，成功連任。轉跑道的陳家珮形容今次面對另外兩名立法會議員，壓力相當大。她又表示，從來沒有目標要取得多少票數，最重要是能「保住」葉劉淑儀的議席。她提到，新民黨在立法會的議席較上屆少，形容未來的道路不容易走，強調會繼續努力服務市民。
 
@@ -276,21 +291,26 @@ Also retaining his seat is David Lam, who beat fellow doctor John Leung in the M
 第六次參選的專業動力方國珊在新界東南當選，以58828票成為直選「票后」。功能界別方面，首次參選的奧運金牌得主江旻憓，順利在旅遊界別勝出。
 
 全港地方選區整體累計投票率31.9%，較上屆高1.7個百分點。131萬7千多名選民投票，較上屆減少近3萬3千人。"
+立法會選舉｜會計界吳錦華勝出　保險界陳沛良成功連任,2025-12-08 06:40,,2025-12-08 07:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835090-20251208.htm, 
 立法會選舉｜選委會界別及地方選區議席全部誕生,2025-12-08 06:40,,2025-12-08 07:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835089-20251208.htm,"立法會換屆選舉結果已陸續出爐。
 
 選委會界別及地方選區的議席已全部誕生。
 
 至於功能界別的結果亦陸續公布。"
-立法會選舉｜會計界吳錦華勝出　保險界陳沛良成功連任,2025-12-08 06:40,,2025-12-08 07:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835090-20251208.htm, 
 立法會選舉｜勞工界三席分別由林偉江李廣宇周小松當選,2025-12-08 06:39,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835088-20251208.htm, 
 立法會選舉｜建築測量都市規劃及園境界劉文君當選,2025-12-08 06:38,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835087-20251208.htm, 
 立法會選舉｜點票結果陸續公布,2025-12-08 06:36,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835086-20251208.htm,"立法會換屆選舉陸續公布點票結果，40個選委會界別最先有結果。
 
 10個地方選區的20個議席，亦已大部分揭盅。"
-立法會選舉｜商界（第一）林偉全勝出　 商界（第二）姚祖輝當選,2025-12-08 06:31,,2025-12-08 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835085-20251208.htm,立法會功能界別的選舉結果公布，商界（第一）及商界（第二） 的議席，分別由林偉全及姚祖輝勝出。
 立法會選舉｜商界(第一)林偉全勝出　 商界(第二)姚祖輝當選,2025-12-08 06:31,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835085-20251208.htm, 
+立法會選舉｜商界（第一）林偉全勝出　 商界（第二）姚祖輝當選,2025-12-08 06:31,,2025-12-08 08:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835085-20251208.htm,立法會功能界別的選舉結果公布，商界（第一）及商界（第二） 的議席，分別由林偉全及姚祖輝勝出。
 立法會選舉｜鄉議局界別劉業強連任　陳勇於人大政協界別當選,2025-12-08 06:27,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835084-20251208.htm, 
 立法會選舉｜金融服務界李惟宏連任　體演文出界霍啟剛當選,2025-12-08 06:25,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835083-20251208.htm, 
+"Holden Chow, Mark Chong win in NT North West",2025-12-08 06:23,,2025-12-08 06:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835082-20251208.htm,"The DAB's Holden Chow and Roundtable's Mark Chong on Monday took the two seats for the New Territories North West Constituency in the Legco 2025 elections.
+
+Chow came away with 42,347 votes and Chong, who is an engineer, won 34,756 votes.
+
+Yuen Long district councillor Jason Leung came in third."
 立法會選舉｜第6次參選終當選　方國珊：奇蹟只是累積的成績,2025-12-08 06:23,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835081-20251208.htm,"立法會選舉新界東南選區的結果公布，專業動力的方國珊和民建聯的葉傲冬成功當選，兩人都是首次晉身立法會。
 
 本身是西貢區議員的方國珊，過去曾五次參選但都落敗，今次第六次參選取得58828票，高票當選。
@@ -298,11 +318,6 @@ Also retaining his seat is David Lam, who beat fellow doctor John Leung in the M
 她當選後表示，奇蹟只是累積的成績，參選了多次，今次終於能夠當選，不是在於票數，而是市民對她的信任。
 
 她衷心感謝每名選民，未來任重道遠，看到民生的訴求很清晰，形容這個時刻是香港面對災難的時候，需要更加嚴肅處理災情，在很多家庭感到痛苦的時候，不覺得自己要高興，只是感恩所有選民的支持，未來與隊團會努力工作，包括協助災民恢復家園，以及在建築物條例及消防條例作出修訂，保障市民的生命財產。"
-"Holden Chow, Mark Chong win in NT North West",2025-12-08 06:23,,2025-12-08 06:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835082-20251208.htm,"The DAB's Holden Chow and Roundtable's Mark Chong on Monday took the two seats for the New Territories North West Constituency in the Legco 2025 elections.
-
-Chow came away with 42,347 votes and Chong, who is an engineer, won 34,756 votes.
-
-Yuen Long district councillor Jason Leung came in third."
 立法會選舉｜周浩鼎、莊豪鋒新界西北地方選區當選,2025-12-08 06:17,,2025-12-08 06:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835080-20251208.htm, 
 立法會選舉｜旅遊界由首次參選江旻憓當選,2025-12-08 06:13,,2025-12-08 06:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835079-20251208.htm,立法會換屆選舉多個功能界別陸續公布結果，其中旅遊界由奧運金牌得主江旻憓以131票，擊敗取得23票的對手馬軼超。
 "Joephy Chan, Jody Kwok victorious in NT South West",2025-12-08 06:10,,2025-12-08 06:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835078-20251208.htm,"Joephy Chan and Jody Kwok on Monday took the two seats for New Territories South West in the 2025 Legco elections.
@@ -310,15 +325,18 @@ Yuen Long district councillor Jason Leung came in third."
 Incumbent Chan easily won re-election with 52,900 votes, with the DAB's Kwok winning 37,020 votes.
 
 Kwok, who's currently a district councillor, is one of the new lawmaker-elects who will be joining the next Legislative Council."
-立法會選舉｜工業界分別由黃永威及吳永嘉當選,2025-12-08 06:08,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835077-20251208.htm, 
 立法會選舉｜工業界(一)黃永威勝出    工業界(二)吳永嘉,2025-12-08 06:08,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835077-20251208.htm, 
+立法會選舉｜工業界分別由黃永威及吳永嘉當選,2025-12-08 06:08,,2025-12-08 06:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835077-20251208.htm, 
 立法會選舉｜航運交通界林銘鋒當選    社福界陳文宜當選,2025-12-08 06:07,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835076-20251208.htm, 
-立法會選舉｜法律界陳曉峰勝出,2025-12-08 06:06,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835075-20251208.htm, 
 立法會選舉｜法律界陳曉峰勝出　紡織及製衣界陳祖恒連任,2025-12-08 06:06,,2025-12-08 06:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835075-20251208.htm, 
+立法會選舉｜法律界陳曉峰勝出,2025-12-08 06:06,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835075-20251208.htm, 
 "Dominic Lee, Gary Chan take NT North East",2025-12-08 06:01,,2025-12-08 06:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835074-20251208.htm,"The battle of two incumbents in the New Territories North East geographic constituency ended up neck and neck, though both Gary Chan and Dominic Lee had no difficulty in winning back their seats.
 
 Lee, of the New People's Party, edged out his election rival with 42,749 votes, ahead of DAB chairman Gary Chan, who received 41,612."
 立法會選舉｜陳穎欣、郭芙蓉新界西南地方選區當選,2025-12-08 05:57,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835073-20251208.htm, 
+"Tam Chun-kwok, Yiu Ming triumph in NT North",2025-12-08 05:53,,2025-12-08 06:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835072-20251208.htm,"Two district councillors have won the two seats in the New Territories North geographical constituency.
+
+Tam Chun-kwok of the New Territories Association of Societies received 41,657 votes, while the DAB's Yiu Ming came in second with 33,389."
 超級央行周　市場聚焦聯儲局議息,2025-12-08 05:53,,2025-12-08 06:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835070-20251208.htm,"美股3大指數上星期升約0.3%至0.9%。
 
 本周被形容為「超級央行周」，多間央行會議息，包括美國、加拿大、澳洲等。
@@ -328,9 +346,6 @@ Lee, of the New People's Party, edged out his election rival with 42,749 votes, 
 美國經濟數據方面，本周預料會公布JOLTS職位空缺、小型企業信心指數等。
 
 甲骨文、博通等會公布業績。"
-"Tam Chun-kwok, Yiu Ming triumph in NT North",2025-12-08 05:53,,2025-12-08 06:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835072-20251208.htm,"Two district councillors have won the two seats in the New Territories North geographical constituency.
-
-Tam Chun-kwok of the New Territories Association of Societies received 41,657 votes, while the DAB's Yiu Ming came in second with 33,389."
 立法會選舉｜批發及零售界邵家輝連任　進出口界鍾奇峰勝出,2025-12-08 05:52,,2025-12-08 06:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835071-20251208.htm,"立法會選舉陸續公布選舉結果，其中批發及零售界，自由黨邵家輝成功連任，他取得827。對手零售業管理協會主席謝邱安儀，取得149票。
 
 另外，進出口界鍾奇峰以137票勝出，對手李淑媛得票108票。"
@@ -518,11 +533,6 @@ Turnout in the functional constituencies was 40.09 percent, while 99.45 percent 
 柬埔寨國防部發言人馬莉淑潔達在聲明中說，周日下午2時15分泰軍在柏威夏省邊境地區向柬軍發動攻擊，柬方無還擊，並立即與泰方聯絡，要求停止開火，泰軍於下午2時32分停止攻擊。聲明強調，柬軍正以高度謹慎及警惕態度密切關注局勢，已將事件通報東盟觀察團，請求調查。
 
 泰國陸軍第二軍區就在聲明說，周日下午2時16分，柬埔寨方面在泰柬邊境的四色菊府開火，迫使泰方還擊，雙方持續間歇交火，衝突在下午2時50分結束。第二軍區評估認為當前局勢仍不明朗，衝突可能升級。泰國總理府發言人說總理兼內政部長阿努廷密切關注邊境局勢，已指示國防部和武裝部隊採取一切必要措施維護國家主權，保障公共安全。"
-尼日利亞外長稱冀國家未來幾年成為金磚正式成員,2025-12-08 02:19,,2025-12-08 02:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835034-20251208.htm,"尼日利亞外交部長圖加爾表示，尼日利亞希望在未來幾年成為金磚國家正式成員。
-
-新華社報道，圖加爾於過去的星期六在卡塔爾多哈論壇上表示，到2050年尼日利亞人口預計達到4億，尼日利亞正作好準備，與金磚國家開展更深入合作，又指尼日利亞希望基於互利共贏及合作精神，與金磚國家建立關係。
-
-尼日利亞是非洲人口最多的國家，亦是非洲最重要的經濟體之一。今年1月，尼日利亞成為第九個金磚伙伴國。"
 立法會選舉｜選委會界別姚柏良成為「票王」　陳凱欣為「票后」,2025-12-08 02:19,,2025-12-08 02:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835035-20251208.htm,"立法會換屆選舉，選舉委員會界別結果最先出爐。40個選委會議席中，有24人是現屆立法會議員成功連任，其餘16人是新面孔。
 
 由旅遊界轉戰選委界的姚柏良取得1397票，成為「票王」。姚柏良表示，很榮幸能力當選，稱過去4年在立法會很努力為業界發聲及推動本港旅遊業復蘇，感謝一眾選委對他的肯定，這亦反映社會各界很重視旅遊業發展，希望旅遊業能進一步聯動不同行業。
@@ -534,6 +544,11 @@ Turnout in the functional constituencies was 40.09 percent, while 99.45 percent 
 首次參選的港區全國人大代表、教聯會主席黃錦良，成功當選。黃錦良說，人大代表有參政議經驗，但始終與立法會不同，作為立法會新丁，將會不斷學習，向不同「前輩」學習，相信能很快適應，以投入立法會工作。
 
 本身是中學校長的黃錦良又表示，對大埔宏福苑火災感到痛心，認為未來有很多事情需要處理，包括對師生的心理健康支援，以及強防災教育等。"
+尼日利亞外長稱冀國家未來幾年成為金磚正式成員,2025-12-08 02:19,,2025-12-08 02:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835034-20251208.htm,"尼日利亞外交部長圖加爾表示，尼日利亞希望在未來幾年成為金磚國家正式成員。
+
+新華社報道，圖加爾於過去的星期六在卡塔爾多哈論壇上表示，到2050年尼日利亞人口預計達到4億，尼日利亞正作好準備，與金磚國家開展更深入合作，又指尼日利亞希望基於互利共贏及合作精神，與金磚國家建立關係。
+
+尼日利亞是非洲人口最多的國家，亦是非洲最重要的經濟體之一。今年1月，尼日利亞成為第九個金磚伙伴國。"
 立法會選舉｜陸啟康稱點票暢順　冀數小時內公布所有結果,2025-12-08 02:00,,2025-12-08 02:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835033-20251208.htm, 
 Election Committee Constituency results announced,2025-12-08 01:59,,2025-12-08 02:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835032-20251208.htm,"The Legislative Council poll results for the Election Committee Constituency were announced at about midnight on Monday.
 
@@ -612,10 +627,10 @@ The figure has already surpassed the 30.2 percent turnout rate recorded in the 2
 
 The voter participation rate for the functional constituencies was 39.48 percent as of 10.30 pm, while the turnout rate for the election committee constituency stood at 99.32 percent."
 立法會選舉｜投票結束大部分一般票站轉為點票站點算地方選區選票,2025-12-07 23:42,,2025-12-08 00:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835018-20251207.htm, 
-立法會選舉｜投票時間結束　,2025-12-07 23:40,,2025-12-08 00:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835017-20251207.htm,"立法會換屆選舉，投票時間剛剛截止。
+立法會選舉｜投票時間結束,2025-12-07 23:40,,2025-12-08 01:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835017-20251207.htm,"立法會換屆選舉，投票時間剛剛截止。
 
 入夜後不少市民，到各區票站投票。"
-立法會選舉｜投票時間結束,2025-12-07 23:40,,2025-12-08 01:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835017-20251207.htm,"立法會換屆選舉，投票時間剛剛截止。
+立法會選舉｜投票時間結束　,2025-12-07 23:40,,2025-12-08 00:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835017-20251207.htm,"立法會換屆選舉，投票時間剛剛截止。
 
 入夜後不少市民，到各區票站投票。"
 Legco turnout surpasses 31 percent in final stretch,2025-12-07 23:08,,2025-12-07 23:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835013-20251207.htm,"Turnout in the geographical constituencies in Sunday's 2025 Legislative Council election has exceeded 31 percent as the voting day draws to a close. 
@@ -814,7 +829,6 @@ Participation in the Election Committee constituency reached 98.1 percent."
 
 政務司司長陳國基表示，這樣做是是為了安全，不是要懲罰承辦商，當局會盡快制定新守則，堵塞漏洞。"
 【重溫】2025年12月7日新聞天地,2025-12-07 18:25,,2025-12-07 18:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834987-20251207.htm,詳盡報道本地時事、大中華消息、國際局勢等新聞，緊貼最新熱話。
-立法會選舉｜截至下4時接獲245宗投訴　涉及競選活動及廣告,2025-12-07 18:16,,2025-12-07 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834988-20251207.htm, 
 立法會選舉｜截至下午4時接獲245宗投訴　涉及競選活動及廣告,2025-12-07 18:16,,2025-12-07 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834988-20251207.htm,"選管會主席陸啟康表示，巡視一般票站、專屬票站和鄰近邊境投票站，各項投票安排大致運作暢順，對此感到滿意，呼籲選民盡早投票。
 
 陸啟康說，截至下午4時，共接獲245宗與今次選舉有關的投訴，分別涉及在私人和政府樓宇進行競選活動、選舉廣告和投票安排，相關部門會盡快處理。
@@ -824,6 +838,7 @@ Participation in the Election Committee constituency reached 98.1 percent."
 陸啟康提到，今日選舉看到很多正面和積極的一面，人員很光榮和積極籌備今次選舉，亦留意到傳媒報道災民為了他們的將來積極參與投票，認為選舉能夠為社會帶來正能量，如果能成為香港復常的第一步，已經是成功。
 
 他認為，很多專屬票站運作理想，日後可以考慮再採用，今次選舉後會再檢討；在機場設立鄰近邊境投票站，亦可以讓來港的海外旅客了解到香港尊重公民投票權利。"
+立法會選舉｜截至下4時接獲245宗投訴　涉及競選活動及廣告,2025-12-07 18:16,,2025-12-07 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834988-20251207.htm, 
 立法會選舉｜陸啟康：在機場設票站讓旅客知道本港尊重和重視公民,2025-12-07 18:10,,2025-12-07 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834986-20251207.htm,"今屆立法會選舉設置六個鄰近邊境投票站，選管會主席陸啟康巡視機場的票站後表示，日後會再考慮設置外展票站和鄰近邊境票站，他指在機場設置票站，可讓旅客知道本港尊重和非常重視公民責任。
 
 今屆選舉亦增設三個院舍外展投票站，分別位於古洞、葵涌和黃竹坑，共有350多個選民，勞工及福利局局長孫玉菡到過古洞的外展票站，說有長者向他反映這樣投票很方便。
@@ -866,14 +881,14 @@ Chan urged the government to consider whether to keep or further improve this ar
 海軍989編隊早上靠泊丹戎不碌港碼頭，來自海軍工程大學和海軍航空大學的學員，在甲板分區列隊，向前來迎接的人群揮手致意。中國駐東盟使團工作人員、中國駐印尼大使館工作人員、留學生代表、華僑華人代表、印尼海軍官兵代表等400多人在碼頭迎接。
 
 這次訪問是海軍長白山艦和「向前進1號」訓練船首次訪問印尼。訪問期間，兩國海軍開展體育交流。這次隨編隊出航同時受訓的外國海軍軍官和學員，在抵達印尼後將結束實習訓練離艦。"
-立法會選舉 | 陳謳明冀選民化悲憤為力量　投票選好「管家」,2025-12-07 17:37,,2025-12-07 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834978-20251207.htm,"立法會選舉正進行投票，在會展的選舉委員會票站，陸續有選民到場投票。
-
-香港聖公會大主教陳謳明表示，明白最近一段時間市民仍處於集體憂傷，認為選民要化悲憤為力量，為香港作出貢獻，參與投票揀選好「管家」。
-
-陳謳明說，大埔火災發生後，有更多市民關注社會，表達對社會的關心，他希望新一屆議員能夠更加關注社會問題，認為立法會本身代表市民意願和心聲，相信新一屆立法會將更明白社會需要，為社會獻策，建立更好、更和諧和友愛的城市。"
 立法會選舉 | 陳謳明冀選民化悲憤為力量　投票選「好管家」,2025-12-07 17:37,,2025-12-07 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834978-20251207.htm,"立法會選舉正進行投票，在會展的選舉委員會票站，陸續有選民到場投票。
 
 香港聖公會大主教陳謳明表示，明白最近一段時間市民仍處於集體憂傷，認為選民要化悲憤為力量，為香港作出貢獻，參與投票揀選「好管家」。
+
+陳謳明說，大埔火災發生後，有更多市民關注社會，表達對社會的關心，他希望新一屆議員能夠更加關注社會問題，認為立法會本身代表市民意願和心聲，相信新一屆立法會將更明白社會需要，為社會獻策，建立更好、更和諧和友愛的城市。"
+立法會選舉 | 陳謳明冀選民化悲憤為力量　投票選好「管家」,2025-12-07 17:37,,2025-12-07 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834978-20251207.htm,"立法會選舉正進行投票，在會展的選舉委員會票站，陸續有選民到場投票。
+
+香港聖公會大主教陳謳明表示，明白最近一段時間市民仍處於集體憂傷，認為選民要化悲憤為力量，為香港作出貢獻，參與投票揀選好「管家」。
 
 陳謳明說，大埔火災發生後，有更多市民關注社會，表達對社會的關心，他希望新一屆議員能夠更加關注社會問題，認為立法會本身代表市民意願和心聲，相信新一屆立法會將更明白社會需要，為社會獻策，建立更好、更和諧和友愛的城市。"
 Legco polls see turnout climb above 21 percent,2025-12-07 17:29,,2025-12-07 17:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1834976-20251207.htm,"21.72 percent of registered voters have cast their ballots in the geographical constituencies of the 2025 Legislative Council polls, as of 4.30 pm on Sunday.
@@ -974,7 +989,7 @@ New Territories South West recorded the highest turnout at 18.1 percent of its e
 Turnout was higher in the functional constituencies at 21.5 percent, and for the Election Committee constituency, at 91.3 percent.
 
 Polls close at 11.30 pm Sunday."
-投票率更新｜地方選區17.4%　71.9萬人投票,2025-12-07 15:26,,2025-12-07 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834964-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+投票率更新｜地方選區累計17.4%　71.9萬人投票,2025-12-07 15:26,,2025-12-07 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834964-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至下午2時半，投票進行7個小時，全港地方選區整體71萬9千人投票，累計投票率17.4%。
 
@@ -983,7 +998,7 @@ Polls close at 11.30 pm Sunday."
 選舉委員會界別方面，在1466名登記選民中，已有1339人投票，投票率為91.34%。
 
 在功能界別方面，商界（第三）及科技創新界的選民已經全部投票。代表人大及政協等的界別，累計投票率88.87%，投票率最低是會計界，有17.81%。"
-投票率更新｜地方選區累計17.4%　71.9萬人投票,2025-12-07 15:26,,2025-12-07 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834964-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+投票率更新｜地方選區17.4%　71.9萬人投票,2025-12-07 15:26,,2025-12-07 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834964-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至下午2時半，投票進行7個小時，全港地方選區整體71萬9千人投票，累計投票率17.4%。
 
@@ -1101,10 +1116,10 @@ Another voter surnamed Zhou said she had encouraged friends and family to vote f
 ""It's our civic duty especially since a lot of big events have happened in Hong Kong, so I hope the new legislators-elect can do something constructive for the city,"" she said.
 
 A man surnamed Wong, also at the polls, expressed hope that the new Legislative Council would work effectively for the benefit of Hong Kong’s citizens."
-解放軍指遼寧艦訓練期間自衛隊飛機多次抵近滋擾　促停止污蔑抹黑,2025-12-07 13:19,,2025-12-07 13:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834953-20251207.htm,"解放軍海軍新聞發言人王學猛表示，遼寧艦航母編隊日前在宮古海峽以東海域正常組織艦載戰鬥機飛行訓練，事先公佈訓練海空域。期間，日本自衛隊飛機多次抵近中國海軍訓練海空域滋擾，嚴重影響中方正常訓練，嚴重危及飛行安全。日方有關炒作與事實完全不符，中方嚴正要求日方立即停止污蔑抹黑，嚴格約束一線行動。中國海軍將依法採取必要措施，堅決維護自身安全和合法權益。
+解放軍稱遼寧艦訓練期間日本自衛隊飛機多次抵近滋擾　促停止抹黑,2025-12-07 13:19,,2025-12-07 13:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834953-20251207.htm,"解放軍海軍新聞發言人王學猛表示，遼寧艦航母編隊日前在宮古海峽以東海域正常組織艦載戰鬥機飛行訓練，事先公佈訓練海空域。期間，日本自衛隊飛機多次抵近中國海軍訓練海空域滋擾，嚴重影響中方正常訓練，嚴重危及飛行安全。日方有關炒作與事實完全不符，中方嚴正要求日方立即停止污蔑抹黑，嚴格約束一線行動。中國海軍將依法採取必要措施，堅決維護自身安全和合法權益。
 
 日本防衛省早前表示，遼寧艦上的戰機，昨日兩度使用雷達照射日本自衛隊戰機。日本防衛大臣小泉進次郎表示，已經向中方提出強烈抗議。"
-解放軍稱遼寧艦訓練期間日本自衛隊飛機多次抵近滋擾　促停止抹黑,2025-12-07 13:19,,2025-12-07 13:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834953-20251207.htm,"解放軍海軍新聞發言人王學猛表示，遼寧艦航母編隊日前在宮古海峽以東海域正常組織艦載戰鬥機飛行訓練，事先公佈訓練海空域。期間，日本自衛隊飛機多次抵近中國海軍訓練海空域滋擾，嚴重影響中方正常訓練，嚴重危及飛行安全。日方有關炒作與事實完全不符，中方嚴正要求日方立即停止污蔑抹黑，嚴格約束一線行動。中國海軍將依法採取必要措施，堅決維護自身安全和合法權益。
+解放軍指遼寧艦訓練期間自衛隊飛機多次抵近滋擾　促停止污蔑抹黑,2025-12-07 13:19,,2025-12-07 13:30,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834953-20251207.htm,"解放軍海軍新聞發言人王學猛表示，遼寧艦航母編隊日前在宮古海峽以東海域正常組織艦載戰鬥機飛行訓練，事先公佈訓練海空域。期間，日本自衛隊飛機多次抵近中國海軍訓練海空域滋擾，嚴重影響中方正常訓練，嚴重危及飛行安全。日方有關炒作與事實完全不符，中方嚴正要求日方立即停止污蔑抹黑，嚴格約束一線行動。中國海軍將依法採取必要措施，堅決維護自身安全和合法權益。
 
 日本防衛省早前表示，遼寧艦上的戰機，昨日兩度使用雷達照射日本自衛隊戰機。日本防衛大臣小泉進次郎表示，已經向中方提出強烈抗議。"
 "Vote early to avoid evening rush, says Eric Chan",2025-12-07 13:18,,2025-12-07 13:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1834944-20251207.htm,"Chief Secretary Eric Chan on Sunday called on voters to visit polling stations as early as possible to avoid any rush in the evening.
@@ -1133,7 +1148,7 @@ He said the election this year is of great importance to the steady and long-ter
 另外，在鄰近邊境投票站附近的東鐵綫上水站，港鐵配合選舉事務處，在車站出入口附近展示橫額及指示牌，並加派人手，以便利及協助已登記在上水的香港道教聯合會鄧顯紀念中學及東華三院甲寅年總理中學投票的選民，乘搭跨境鐵路段前往投票。
 
 港鐵主席歐陽伯權及行政總裁金澤培早上分別前往灣仔會展選委會界別投票站，代表港鐵投票及個人投票。港鐵今日亦特別安排額外人手當值，便利值班的員工前往投票。"
-投票率更新｜地方選區累計12.99%　近53.7萬人投票,2025-12-07 12:59,,2025-12-07 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834951-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+立法會選舉｜截至中午12時半　地方選區整體投票率12.99%,2025-12-07 12:59,,2025-12-07 13:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834951-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至中午12時半，投票首5個小時，全港地方選區整體有近53萬7千人投票，累計投票率12.99%。
 
@@ -1142,7 +1157,7 @@ He said the election this year is of great importance to the steady and long-ter
 選舉委員會界別方面，在1466名登記選民中，已有1241人投票，投票率為84.65%。
 
 在功能界別方面，商界（第三）的投票率100%；投票率最低是會計界，有12.62%。"
-立法會選舉｜截至中午12時半　地方選區整體投票率12.99%,2025-12-07 12:59,,2025-12-07 13:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834951-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+投票率更新｜地方選區累計12.99%　近53.7萬人投票,2025-12-07 12:59,,2025-12-07 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834951-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至中午12時半，投票首5個小時，全港地方選區整體有近53萬7千人投票，累計投票率12.99%。
 
@@ -1237,6 +1252,7 @@ Around 350 voters can vote in the special polling stations, including more than 
 Around 130 residents can vote at the Kwu Tung North Multi-Welfare Services Complex, along with 90 staff.
 
 Polling hours at the outreach polling stations are shorter than at general stations, running from 8.30 am to 6.30 pm."
+立法會選舉｜截至早上11時半　地方選區整體投票率10.33%,2025-12-07 11:56,,2025-12-07 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834940-20251207.htm, 
 投票率更新｜地方選區累計10.33%　近42.7萬人投票,2025-12-07 11:56,,2025-12-07 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834940-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至上午11時半，投票首4個小時，全港地方選區整體有近42萬7千人投票，累計投票率10.33%。
@@ -1246,7 +1262,6 @@ Polling hours at the outreach polling stations are shorter than at general stati
 選舉委員會界別方面，在1466名登記選民中，已有1137人投票，投票率為77.56%。
 
 在功能界別方面，投票率最高是商界（第三），投票率99.67%；最低是會計界，投票率9.49%。"
-立法會選舉｜截至早上11時半　地方選區整體投票率10.33%,2025-12-07 11:56,,2025-12-07 12:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834940-20251207.htm, 
 7.3 percent cast ballots in first three hours of vote,2025-12-07 11:55,,2025-12-07 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1834939-20251207.htm,"The turnout rate in the geographical constituency races of the 2025 Legislative Council election rose past seven percent as of 10.30am on Sunday, with almost 300,000 voters having cast their ballots for the 20 seats up for grabs.
 
 Figures from the Registration and Electoral Office revealed that 299,950 out of the 4.1 million-strong electorate had cast ballots in the first three hours of voting, representing a turnout rate of 7.3 percent. 
@@ -1282,7 +1297,7 @@ Meanwhile, Hong Kong National People's Congress deputy Cally Kwong said there wi
 香港多份主要報章的頭版都刊登呼籲選民為香港未來投票的整版廣告。
 
 報道又表示，行政長官李家超投票後表示，希望所有選民都出來投票，因為這一票是代表推動改革的一票，也是代表凝聚力量共同前行的一票。"
-立法會選舉｜截至早上10時半　地方選區整體投票率7.26%,2025-12-07 11:14,,2025-12-07 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834935-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+投票率更新｜地方選區累計7.26%　近30萬人投票,2025-12-07 11:14,,2025-12-07 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834935-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至上午10時半，首3個小時，全港地方選區整體有近30萬人投票，累計投票率7.26%。
 
@@ -1291,7 +1306,7 @@ Meanwhile, Hong Kong National People's Congress deputy Cally Kwong said there wi
 選舉委員會界別方面，在1466名登記選民中，已有900人投票，投票率為61.39%。
 
 在功能界別方面，投票率最高是商界（第三），投票率99.35%。最低是會計界，投票率6.48%。"
-投票率更新｜地方選區累計7.26%　近30萬人投票,2025-12-07 11:14,,2025-12-07 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834935-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
+立法會選舉｜截至早上10時半　地方選區整體投票率7.26%,2025-12-07 11:14,,2025-12-07 11:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834935-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
 
 截至上午10時半，首3個小時，全港地方選區整體有近30萬人投票，累計投票率7.26%。
 
@@ -1376,37 +1391,3 @@ By 8.30am, almost 68,000 people had voted in the ten geographical constituency r
 More than 4,400 functional constituency voters had cast their ballots by the same time, for a turnout rate of 2.3 percent. Of the 30 functional constituency contests, voters in the Commercial (third) constituency were the most eager to get going – with more than 62 percent of voters casting their ballots within the first hour of polling.
 
 For the Election Committee constituency, where 50 candidates are competing for 40 seats, the turnout rate was above 15 percent in the first hour of polling."
-立法會選舉｜陳茂波：推動改革要有立法會支持和配合　籲踴躍投票,2025-12-07 09:34,,2025-12-07 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834920-20251207.htm,"立法會換屆選舉今日舉行，財政司司長陳茂波與太太早上到黃竹坑體育館投票。他表示，最近的一場無情火災，盡顯社會各界團結一致的力量，也激發對相關制度進行徹底改革的強烈要求，因此需要團結支持災後重建，並推動系統性改革，過程要有立法會的支持和配合，呼籲選民踴躍投票。
-
-陳茂波認為行政機關和立法機構建設性互動、結合力量，能夠加速改革，需要有承擔、能力和視野的人士進入立法會，與政府一同推動經濟和社會持續發展。"
-立法會選舉｜首1小時全港地方選區投票率1.65%　,2025-12-07 09:32,,2025-12-07 09:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834918-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
-
-截至上午8時半，首1個小時，全港地方選區整體有近6萬8千人投票，累計投票率1.65%。
-
-在10個地區直選中，新界西南選區投票率最高，累計有1.79%，大約8424名登記選民已投票。其次是香港島東，累計有1.76%，大約6689名登記選民已投票。投票率最低是香港島西選區，有5190人投票，累計投票率為1.52%。
-
-選舉委員會界別方面，在1500名選委會委員中，已有227人投票，投票率為15.48%。
-
-在功能界別方面，投票率最高是商界（三），投票率62.21%。最低是會計界，投票率1.43%。"
-立法會選舉｜截至早上8時半　地方選區整體投票率1.65%　,2025-12-07 09:32,,2025-12-07 10:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1834918-20251207.htm,"立法會換屆選舉今日舉行，投票時間由早上7時半，至晚上11時半結束。
-
-截至上午8時半，首1個小時，全港地方選區整體有近6萬8千人投票，累計投票率1.65%。
-
-在10個地區直選中，新界西南選區投票率最高，累計有1.79%，大約8424名登記選民已投票。其次是香港島東，累計有1.76%，大約6689名登記選民已投票。投票率最低是香港島西選區，有5190人投票，累計投票率為1.52%。
-
-選舉委員會界別方面，在1500名選委會委員中，已有227人投票，投票率為15.48%。
-
-在功能界別方面，投票率最高是商界（三），投票率62.21%。最低是會計界，投票率1.43%。"
-"Vote for reform, supporting fire victims and unity: CE",2025-12-07 09:31,,2025-12-07 10:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1834919-20251207.htm,"Chief Executive John Lee on Sunday urged voters to cast their ballots in the Legislative Council election, saying they would be helping to promote reform and support victims of the Tai Po fire.
-
-Speaking to reporters after casting his ballot at a Mid-levels polling station, Lee said lots of work needed to be done to find out the truth behind the tragedy at Wang Fuk Court, and his administration would move a motion on the first meeting of the new Legco on how to support fire victims, and on rebuilding.
-
-“The Legislative Council has has a lot of powers – for example, in approving spending or making new laws,” Lee said.
-
-“We will work together to plug loopholes in our existing system, reinforce the safety of our city, and give residents a greater sense of security.
-
-“So all voters must come out to cast a ballot today, because this vote represents reform, safeguarding victims of the fire, and our unity in marching forward together.”
-
-The CE also said the government has taken many measures to make voting more convenient – such as setting up more than 660 polling stations across the territory and extending voting hours by two hours, from 7.30 am to 11.30 pm.
-
-He said he found voting to be smooth and convenient, and officers at his polling station gave clear explanations.his ballot was simple and easy."
