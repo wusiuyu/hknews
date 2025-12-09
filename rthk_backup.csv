@@ -1,11 +1,37 @@
 title,date,summary,scrape_time,section,source,url,news_content
-港股ADR較本港昨日收市價普遍下跌,2025-12-10 06:38,,2025-12-10 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835404-20251210.htm,"港股美國預託證券(ADR)普遍下跌。
+US stock market drifts on eve of Fed rate call,2025-12-10 07:01,,2025-12-10 07:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835401-20251210.htm,"US stock indices finished barely changed on Tuesday as the market avoided major swings while awaiting a Federal Reserve decision expected to shed light on US monetary policy next year.
 
-建行及工行ADR較本港昨日收市價升跌0.5%至近1%。
+On Wall Street, the Dow began the day in positive territory but finished in the red while the Nasdaq opened negatively but ended the day higher.
 
-小米ADR跌近0.4%，騰訊及美團ADR跌逾0.1%。
+""It's normal to see the market pause before a big day and consolidate the move,"" said Adam Sarhan of 50 Park Investments. ""The market's in a wait-and-see approach.""
 
-友邦、滙控及阿里巴巴ADR靠穩。"
+Europe's main markets were also mixed while Asia ended the day mostly lower.
+
+""The week so far has been indecisive at best, but early trading in the US has seen some tentative buying,"" said Chris Beauchamp, chief market analyst at IG trading platform.
+
+With traders fully confident of a US rate reduction on Wednesday, observers said they would be keeping a close eye on the central bank's so-called ""dot plot"" of projections for monetary policy into 2026 that will also be released.
+
+""Previews have been teasing the likelihood of the Fed checking in with a 'hawkish cut,' which is to say it will cut rates by 25 basis points but then signal that it is unlikely to cut rates again soon,"" said Briefing.com analyst Patrick O'Hare.
+
+Bets on a third successive cut – and more in 2026 – had surged on data pointing to a weakening jobs market, which offset concerns about stubbornly high inflation.
+
+However, the excitement has calmed in recent days following a slightly higher-than-expected US inflation reading.
+
+On the corporate front on Tuesday, chipmakers traded mixed after Trump said he had reached an agreement with President Xi Jinping to allow Nvidia to export advanced artificial intelligence chips to China.
+
+Shares in Nvidia dipped 0.3 percent after having risen on Monday ahead of the announcement.
+
+The announcement marks a significant shift in US export policy for advanced AI chips, which Trump's predecessor Joe Biden had heavily restricted over national security concerns.
+
+Biden's administration required chip companies to create modified, less powerful versions specifically for the Chinese market.
+
+Investors also kept a close watch over the bidding war for Warner Bros Discovery after Paramount on Monday launched an all-cash tender offer for the Hollywood giant, in a challenge to Netflix's offer.
+
+On Tuesday, Warner Bros Discovery continued to push higher, gaining 3.8 percent. Paramount Skydance advanced 0.5 percent while Netflix slipped 0.1 percent.
+
+JPMorgan Chase dropped 4.7 percent after executives from the banking giant signalled they anticipate 2026 expenses of US$105 billion, more than expected.
+
+The S&P 500 slipped 0.1 percent, to 6,840. The Dow dipped 0.4 percent to 47,560, while the Nasdaq edged up 0.1 percent, to 23,576. (AFP)"
 美元上升　就業數據好於預期,2025-12-10 06:38,,2025-12-10 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835402-20251210.htm,"美元指數靠穩，報99.242，升約0.2%。美國就業數據好於預期，反映勞動市場或仍有韌性。分析認為聯儲局本周減息後，可能會轉向強調通脹風險，有機會制約未來進一步的寬鬆的行動。
 
 美國勞工部公布的職位空缺及勞動力流動調查(JOLTS)報告顯示，10月職位空缺767萬個，創5個月新高。
@@ -15,6 +41,13 @@ title,date,summary,scrape_time,section,source,url,news_content
 澳元兌美元上升0.3%，至0.6641美元。澳洲維持利率不變，但警告通脹回升可能會持續，央行總裁更表明不需要更多的減息。
 
 英鎊兌美元微跌，報1.3303美元。"
+港股ADR較本港昨日收市價普遍下跌,2025-12-10 06:38,,2025-12-10 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835404-20251210.htm,"港股美國預託證券(ADR)普遍下跌。
+
+建行及工行ADR較本港昨日收市價升跌0.5%至近1%。
+
+小米ADR跌近0.4%，騰訊及美團ADR跌逾0.1%。
+
+友邦、滙控及阿里巴巴ADR靠穩。"
 中國代表籲烏克蘭問題各方爭取早日達成公平、持久、有約束力協議,2025-12-10 06:23,,2025-12-10 06:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835403-20251210.htm,"中國常駐聯合國副代表孫磊在安理會審議烏克蘭問題時發言，表示烏克蘭問題進入談判解決的關鍵階段，國際社會圍繞烏克蘭危機的討論愈發向談判聚焦、向和平靠攏，中方對這些進展表示歡迎，呼籲有關各方抓住積極勢頭，爭取早日達成一份公平、持久、有約束力的和平協議。
 
 孫磊強調，有關各方曾達成明斯克協議、新明斯克協議，但最終仍爆發危機，歸根到底是沒有妥善解決彼此安全關切，沒有解決衝突的根源問題。新的和平協議應以此為鑒。中方呼籲各方重視並妥善解決彼此合理安全關切，特別是衝突的根源問題，構建均衡、有效、可持續的歐洲安全架構。"
@@ -252,6 +285,9 @@ Nvidia跌約1%。美國總統特朗普在社交平台上表示，將容許Nvidia
 TT9男雙銅牌賽，港隊代表王志賢及何嘉盛，局數3:0擊敗海南組合，取得銅牌。袁泳琪及黃佩儀，在單循環賽制的TT5女雙項目排名第三，成為銅牌得主。"
 泰柬邊境衝突增至最少10死　中方籲中國公民注意安全,2025-12-09 18:40,,2025-12-09 19:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835352-20251209.htm,泰國和柬埔寨近日在邊境地區爆發新一輪衝突，已造成3名泰國士兵死亡，柬埔寨亦有7名平民死亡，多人受傷。中國駐柬埔寨使館提醒在當地的中國公民，密切留意形勢，注意安全。
 宏福苑五級火｜警方臨床心理學家支援災難遇害者辨認組人員,2025-12-09 18:40,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835354-20251209.htm,大埔宏福苑五級火過後，警方派員進入災場搜索及辨認遇難者身份。警務處心理服務課的臨床心理學家，已與約300名災難遇害者辨認組人員會面，為他們提供心理支援，暫時沒有人出現很嚴重的精神或情緒問題。
+殘特奧會｜港隊在游泳及乒乓共取兩金　今屆殘運競賽項目首次奪金,2025-12-09 18:39,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835356-20251209.htm,"殘特奧會殘運比賽，港隊在游泳及乒乓球項目共取得兩面金牌，在今屆殘運競賽項目首次奪金。智力殘疾組運動員劉肖儀與陳睿琳，在女子200米自由泳S14決賽包辦金銀牌，劉肖儀的成績更刷新全國紀錄。
+
+乒乓球XD14混雙決賽，港隊肢體殘疾組運動員，混雙拍檔黃翰林及彭穎加，在決賽局數3:2擊敗江蘇組合，取得港隊於今屆殘運乒乓首金。"
 殘特奧會｜港隊游泳及乒乓球項目收穫金牌,2025-12-09 18:39,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835347-20251209.htm,"全國第十二屆殘疾人運動會暨第九屆特殊奧林匹克運動會，港隊在游泳及乒乓球項目奪得金牌，並在多個項目收穫獎牌。
 
 在深圳舉行的女子200米自由泳S14決賽，港隊劉肖儀游出破全國紀錄的2分13秒50，與慢0.1秒的陳睿琳包攬金、銀牌。肢體殘疾組的吳卓恩在女子200米個人混合泳SM7摘銅。
@@ -259,9 +295,6 @@ TT9男雙銅牌賽，港隊代表王志賢及何嘉盛，局數3:0擊敗海南�
 在廣州上演的乒乓球XD14混雙，黃翰林和彭穎加力戰五局擊敗江蘇組合，為港隊添金。
 
 港隊輪椅劍擊運動員湯雅婷在馬鞍山體育館主場出擊，在女子個人花劍B級銅牌賽獲勝，她感謝球迷打氣。"
-殘特奧會｜港隊在游泳及乒乓共取兩金　今屆殘運競賽項目首次奪金,2025-12-09 18:39,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835356-20251209.htm,"殘特奧會殘運比賽，港隊在游泳及乒乓球項目共取得兩面金牌，在今屆殘運競賽項目首次奪金。智力殘疾組運動員劉肖儀與陳睿琳，在女子200米自由泳S14決賽包辦金銀牌，劉肖儀的成績更刷新全國紀錄。
-
-乒乓球XD14混雙決賽，港隊肢體殘疾組運動員，混雙拍檔黃翰林及彭穎加，在決賽局數3:2擊敗江蘇組合，取得港隊於今屆殘運乒乓首金。"
 丘應樺：全球供應鏈重組　香港有優勢成為樞紐,2025-12-09 18:38,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835348-20251209.htm,商務及經濟發展局局長丘應樺出席一個討論全球供應鏈的峰會。他表示，中國全面的製造業系統不容易被其他地方複製，面對全球供應鏈重組，香港在「一國兩制」等獨特優勢下，可以成為國際樞鈕，為供應鏈提供解決方案。
 梁君彥：新一屆議員任重道遠　和政府努力處理災後支援及重建,2025-12-09 18:37,,2025-12-09 19:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835343-20251209.htm,"立法會安排現任和候任議員一同跟傳媒見面。即將卸任的立法會主席梁君彥說，新一屆議員任重道遠，要急市民所急，和政府共同努力，處理災後支援及重建工作，並鼓勵新舊議員多溝通和交流，做到薪火相傳。
 
@@ -312,6 +345,7 @@ She encouraged officers to maintain regular eating and exercising habits so they
 海關人員於上月25日在落馬洲支線管制站截查一名63歲抵港女旅客，在她攜帶的個人行李內檢獲381支未完稅香煙，估計市值約1500元，應課稅值約1200元。該名旅客隨即被捕。
 　　　
 海關對判刑表示歡迎，監禁刑罰具相當阻嚇作用，並反映罪行的嚴重性。"
+宏福苑五級火｜警為162家屬採集DNA　部分失聯個案無法追蹤,2025-12-09 17:33,,2025-12-09 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835342-20251209.htm, 
 宏福苑五級火｜仍有6人失聯　警方稱部分個案資料零碎或不能追蹤,2025-12-09 17:33,,2025-12-09 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835342-20251209.htm,"警務處處長周一鳴見記者時表示，大埔宏福苑唯一沒有受火災影響的宏志閣，大部分居民已回住所拿取東西，目前正與房屋署溝通，拆除大廈外牆棚架、棚網以及窗戶外的發泡膠，以確保附近一帶安全。
 
 至於其餘7座大樓，周一鳴表示，將拆走棚架棚網，房屋署正檢視樓宇結構，按需要作加固或其他工程，暫時未能講到何時解封。
@@ -321,7 +355,6 @@ She encouraged officers to maintain regular eating and exercising habits so they
 周一鳴表示，處理失聯個案初時，很多有心人、家屬或朋友提供的資料零碎、不清楚，因此部分個案不能追蹤，但如果有更多資料，例如身份證號碼，可向入境處和醫管局核對，了解有關人士是否已經移民或留院，希望用可以做的調查方向和工作，處理餘下6名失聯個案。
 
 警務處傷亡查詢中心主管曾淑賢表示，6人失聯名單中，有3人地址相對確實是宏福苑，其餘3人地址不確定，正作排查。"
-宏福苑五級火｜警為162家屬採集DNA　部分失聯個案無法追蹤,2025-12-09 17:33,,2025-12-09 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835342-20251209.htm, 
 青衣自然徑今晚起暫停向公眾開放　當局將進行更密集滅蚊,2025-12-09 17:31,,2025-12-09 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835341-20251209.htm,"衞生署衞生防護中心表示，截至今日下午5時，中心沒有錄得新增感染基孔肯雅熱個案。另外，考慮到相關部門近期將在青衣自然徑進行更密集的滅蚊防蚊工作，青衣自然徑將於今晚起，暫停向公眾開放，直至另行通告。中心忠告市民現階段不要前往青衣自然徑，以減低感染基孔肯雅熱的風險。
 
 因應近期有5宗基孔肯雅熱本地個案的患者曾到訪青衣自然徑一帶，中心昨日與食環署、民政事務總署、渠務署等代表舉行跨部門會議，討論進一步加強防治蚊患工作。
@@ -534,13 +567,6 @@ DAB chairman Gary Chan, who was re-elected in New Territories Northeast, said hi
 台股低收逾0.4%,2025-12-09 14:01,,2025-12-09 14:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835309-20251209.htm,"台灣股市下跌。
 
 加權指數收報28182點，跌121點，跌幅0.43%。"
-太古：香港易於經營多元業務　港鐵：鐵跌能帶動周邊地區經濟發展,2025-12-09 13:30,,2025-12-09 13:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835307-20251209.htm,"太古公司企業發展董事岑明彥（David Cogman）出席香港總商會的論壇時表示，多年來香港作為通往中國的門戶，亦為集團帶來很多發展機遇，近年集團投資於東南亞、巴布亞新畿內亞及澳洲等地，但無意將總部遷離香港。
-
-岑明彥指出，香港是易於經營多元業務的地方，包括擁有良好的法律環境，亦是理想的仲裁中心。本港銀行業出色亦人才濟濟，同時是重要的轉口港，認為應加強對外講好香港故事。
-
-港鐵行政總裁金澤培在同一場合指出，鐵路屬高風險投資，但能帶動周邊地區經濟發展及土地價值，強調「鐵路+物業」發展模式並非只為融資，更是一種城市發展模式。他提到東涌20年前只是一個漁村，但隨著高速公路及鐵路修建，現時已成為容納30萬人以上的新市鎮。
-
-金澤培說，港鐵正運用多項新技術提升營運效率和客戶服務，例如向乘客提供鐵路運行資訊及接受多種支付方式。集團營運的杭州及深圳鐵路亦用到人臉識別及掌紋支付技術，當香港乘客能夠接納，亦會積極部署相關技術。他期望公司開發的解決方案能惠及其他鐵路營運商。"
 太古：香港易於經營多元業務　港鐵：鐵路能帶動周邊地區經濟發展,2025-12-09 13:30,,2025-12-09 14:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835307-20251209.htm,"太古公司企業發展董事岑明彥（David Cogman）出席香港總商會的論壇時表示，多年來香港作為通往中國的門戶，亦為集團帶來很多發展機遇，近年集團投資於東南亞、巴布亞新幾內亞及澳洲等地，但無意將總部遷離香港。
 
 岑明彥指出，香港是易於經營多元業務的地方，包括擁有良好的法律環境，亦是理想的仲裁中心。本港銀行業出色，人才濟濟，同時是重要轉口港，認為應加強對外講好香港故事。
@@ -548,7 +574,14 @@ DAB chairman Gary Chan, who was re-elected in New Territories Northeast, said hi
 港鐵行政總裁金澤培在同一場合指出，鐵路屬高風險投資，但能帶動周邊地區經濟發展及土地價值，強調「鐵路+物業」發展模式並非只為融資，更是一種城市發展模式。他提到東涌20年前只是一個漁村，但隨著高速公路及鐵路修建，現時已成為容納30萬人以上的新市鎮。
 
 金澤培說，港鐵正運用多項新技術提升營運效率和客戶服務，例如向乘客提供鐵路運行資訊及接受多種支付方式。集團營運的杭州及深圳鐵路亦用到人臉識別及掌紋支付技術，當香港乘客能夠接納，亦會積極部署相關技術。他期望公司開發的解決方案能惠及其他鐵路營運商。"
-警務處心理服務課為處理宏福苑大火相關工作警員提供心理支援,2025-12-09 13:26,,2025-12-09 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835306-20251209.htm,"大埔宏福苑五級火釀成150多人死亡，多人受傷，除了消防，警方派員進入災場搜索及辨認遇難者身份。警務處心理服務課的臨床心理學家為警員提供心理支援。
+太古：香港易於經營多元業務　港鐵：鐵跌能帶動周邊地區經濟發展,2025-12-09 13:30,,2025-12-09 13:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835307-20251209.htm,"太古公司企業發展董事岑明彥（David Cogman）出席香港總商會的論壇時表示，多年來香港作為通往中國的門戶，亦為集團帶來很多發展機遇，近年集團投資於東南亞、巴布亞新畿內亞及澳洲等地，但無意將總部遷離香港。
+
+岑明彥指出，香港是易於經營多元業務的地方，包括擁有良好的法律環境，亦是理想的仲裁中心。本港銀行業出色亦人才濟濟，同時是重要的轉口港，認為應加強對外講好香港故事。
+
+港鐵行政總裁金澤培在同一場合指出，鐵路屬高風險投資，但能帶動周邊地區經濟發展及土地價值，強調「鐵路+物業」發展模式並非只為融資，更是一種城市發展模式。他提到東涌20年前只是一個漁村，但隨著高速公路及鐵路修建，現時已成為容納30萬人以上的新市鎮。
+
+金澤培說，港鐵正運用多項新技術提升營運效率和客戶服務，例如向乘客提供鐵路運行資訊及接受多種支付方式。集團營運的杭州及深圳鐵路亦用到人臉識別及掌紋支付技術，當香港乘客能夠接納，亦會積極部署相關技術。他期望公司開發的解決方案能惠及其他鐵路營運商。"
+宏福苑五級火｜警務處心理服務課為處理火災警員提供心理支援,2025-12-09 13:26,,2025-12-09 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835306-20251209.htm,"大埔宏福苑五級火釀成150多人死亡，多人受傷，除了消防，警方派員進入災場搜索及辨認遇難者身份。警務處心理服務課的臨床心理學家為警員提供心理支援。
 
 警察臨床心理學家馮浩堅表示，會盡量在警員出勤前，先幫助他們建立心理預期，了解進入災場及事後可能會經歷的心理反應，簡單處理情緒的方法等，包括安排曾處理嘉利大廈大火的人員分享，讓警員有心理準備。
 
@@ -557,7 +590,7 @@ DAB chairman Gary Chan, who was re-elected in New Territories Northeast, said hi
 警察臨床心理學家李明靜表示，絕大部分人經歷大型創傷性事件後約兩至四星期，症狀會減退，絕大部分人會慢慢回復生活，期間可做運動找回生活節奏，並留意入侵性畫面、氣味等會否隨時間減少，心理服務課會在1個月後，適時致電了解警員的恢復狀況。
 
 警務處心理服務課有約13名臨床心理學家，主要工作是內部心理支援，包括個人情緒困擾或心理需要、機構心理支援及刑事上的支援。以往在大埔車禍、大型騷亂等事件後，為警員提供心理支援等服務。"
-宏福苑五級火｜警務處心理服務課為處理火災警員提供心理支援,2025-12-09 13:26,,2025-12-09 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835306-20251209.htm,"大埔宏福苑五級火釀成150多人死亡，多人受傷，除了消防，警方派員進入災場搜索及辨認遇難者身份。警務處心理服務課的臨床心理學家為警員提供心理支援。
+警務處心理服務課為處理宏福苑大火相關工作警員提供心理支援,2025-12-09 13:26,,2025-12-09 13:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835306-20251209.htm,"大埔宏福苑五級火釀成150多人死亡，多人受傷，除了消防，警方派員進入災場搜索及辨認遇難者身份。警務處心理服務課的臨床心理學家為警員提供心理支援。
 
 警察臨床心理學家馮浩堅表示，會盡量在警員出勤前，先幫助他們建立心理預期，了解進入災場及事後可能會經歷的心理反應，簡單處理情緒的方法等，包括安排曾處理嘉利大廈大火的人員分享，讓警員有心理準備。
 
@@ -886,7 +919,7 @@ HashKey今日起至星期五招股　入場費2808元,2025-12-09 08:10,,2025-12-
 不過根據英倫銀行上月預測，明年第4季通脹將降至 2.5%，並在2027年回到目標水平。10月為3.6%。
 
 市場預計央行在本月會議上減息0.25厘的可能性約85%，但明年只會再減息一次。"
-IMF releases US$1.2bn to Pakistan,2025-12-09 07:32,,2025-12-09 15:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835254-20251209.htm,"The International Monetary Fund announced on Monday it has released US$1.2 billion to Pakistan, recognising its efforts in macroeconomic reform.
+IMF releases US$1.2 billion to Pakistan,2025-12-09 07:32,,2025-12-09 07:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835254-20251209.htm,"The International Monetary Fund announced on Monday it has released US$1.2 billion to Pakistan, recognising its efforts in macroeconomic reform.
 
 That brings to US$3.3 billion the amount disbursed by the Washington-based fund to Islamabad under two programmes aimed at providing financial support for economic reforms and mitigating the impacts of climate change.
 
@@ -901,7 +934,7 @@ But he urged the government to accelerate reforms to improve economic data colle
 Mired in prolonged economic and political crisis, Pakistan is heavily dependent on external financing and narrowly avoided default in 2023, thanks to a US$7 billion bailout from the IMF in 2024.
 
 The South Asian nation is one of the largest debtors to the IMF after Argentina and Ukraine. It also secured a 10-year, US$20 billion financing package from the World Bank in January. (AFP)"
-IMF releases US$1.2 billion to Pakistan,2025-12-09 07:32,,2025-12-09 07:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835254-20251209.htm,"The International Monetary Fund announced on Monday it has released US$1.2 billion to Pakistan, recognising its efforts in macroeconomic reform.
+IMF releases US$1.2bn to Pakistan,2025-12-09 07:32,,2025-12-09 15:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835254-20251209.htm,"The International Monetary Fund announced on Monday it has released US$1.2 billion to Pakistan, recognising its efforts in macroeconomic reform.
 
 That brings to US$3.3 billion the amount disbursed by the Washington-based fund to Islamabad under two programmes aimed at providing financial support for economic reforms and mitigating the impacts of climate change.
 
@@ -919,26 +952,3 @@ The South Asian nation is one of the largest debtors to the IMF after Argentina 
 英超曼聯作客4:1擊敗狼隊,2025-12-09 07:19,,2025-12-09 07:45,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835256-20251209.htm,"英超曼聯作客4:1擊敗包尾的狼隊。
 
 曼聯賽後15戰與車路士同得25分，但得失球不及對手排第六。今季仍未打響勝鼓的狼隊得2分，繼續包尾。"
-US to approve sale of Nvidia AI chips to China: Trump,2025-12-09 07:09,,2025-12-09 07:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1835255-20251209.htm,"The US government will allow Nvidia to export its H200 artificial intelligence chips to China, collecting a fee for each chip, US President Donald Trump said on Monday.
-
-Nvidia shares rose 1.2 percent in after-hours trading after Trump made the announcement on Truth Social, having closed 3.16 percent higher after Semafor first reported the possibility of approval.
-
-Trump said that he had informed President Xi Jinping, where Nvidia's chips are under government scrutiny, about the move and he ""responded positively,"" according to Trump's post.
-
-Trump said the US Commerce Department was finalising details of the arrangement and the same approach would apply to other AI chip firms such as Advanced Micro Devices and Intel.
-
-""We will protect National Security, create American Jobs, and keep America’s lead in AI,"" Trump wrote on Truth Social.
-
-""NVIDIA’s US Customers are already moving forward with their incredible, highly advanced Blackwell chips, and soon, Rubin, neither of which are part of this deal.""
-
-The announcement marks a significant shift in US export policy for advanced AI chips, which Joe Biden's administration had heavily restricted over US national security concerns about Chinese military applications.
-
-Under Biden-era restrictions, the H200 and similar advanced chips were blocked from export to China.
-
-First released in the second quarter of 2024, the H200s are roughly 18 months behind the company's state-of-the-art offerings.
-
-The chips – graphic processing units or GPUs – are used to train the AI models that are the bedrock of the generative AI revolution.
-
-Nvidia CEO Jensen Huang has lobbied the White House intensely to reverse the Biden-era policy despite considerable opposition in Washington to giving Chinese companies access to the chips.
-
-China's cybersecurity regulator summoned Nvidia to a meeting to explain whether its H20 AI chip had any backdoor security risks, an allegation Nvidia has denied, Reuters reported in August. (Agencies)"
