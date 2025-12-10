@@ -1,4 +1,28 @@
 title,date,summary,scrape_time,section,source,url,news_content
+道指高收近500點　納指升逾0.3%,2025-12-11 06:47,,2025-12-11 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835563-20251211.htm,"美股造好，美國聯儲局一如市場預期減息0.25厘，當局預計明年再減息1次，並上調明年經濟增長預測，道指升近500點收市。
+
+道瓊斯指數收報48057點，升497點，升幅1.05%。
+
+標準普爾500指數收報6886點，升46點，升幅0.67%。
+
+納斯達克指數收報23654點，升77點，升幅0.33%。"
+現貨金曾升0.7%　紐約期金低收0.3%,2025-12-11 06:47,,2025-12-11 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835566-20251211.htm,"聯儲局公布議息決定後，現貨金表現較波動，一度升0.7%，較早時跌不足0.1%，報每盎司4225.9美元。
+
+2月紐約期金收報每盎司4224.7美元，下跌0.3%。"
+油價靠穩　紐約期油升約0.4%收市,2025-12-11 06:47,,2025-12-11 07:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835565-20251211.htm,"原油期貨價格靠穩，結束連續兩日跌勢。據報美國在委內瑞拉海岸扣押一艘油輪，加劇市場對近期供應的擔憂。
+
+倫敦布蘭特期油收報每桶62.21美元，上升27美仙，升幅0.44%。
+
+紐約期油收報每桶58.46美元，上升21美仙，升幅0.36%。"
+歐聯曼城作客反勝皇馬2:1　阿仙奴三球挫布魯日,2025-12-11 06:46,,2025-12-11 07:00,csport,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835569-20251211.htm,"歐聯第六輪大戰，英超曼城作客反勝西甲皇家馬德里2:1。
+
+皇馬射手麥巴比今場因傷只列後備，洛迪高開賽28分鐘接應比寧咸傳送破門，攻入1月以來首個入球，皇馬先開紀錄。
+
+曼城只是落後了7分鐘，就由歷高奧懷利追成平手。上半場結束前，夏蘭特在禁區內被皇馬守將魯迪加踢低，他親自操刀十二碼，協助藍月亮反超前2:1。
+
+皇馬下半場試圖扳平比數，但比寧咸的射門高出，替補上陣的小將安迪歷頭槌亦擊中橫楣，曼城最終守住勝利，全取3分。
+
+阿仙奴作客3:0大勝布魯日，前鋒馬度亞基梅開二度。紐卡素作客一度反先的情況下，末段被利華古遜迫和2:2。"
 鮑威爾：逐次會議作利率決定　今次委員分歧在於評估風險程度,2025-12-11 06:19,,2025-12-11 06:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835562-20251211.htm,"聯儲局主席鮑威爾表示，過去3次會議進一步政策正常化應有助穩定勞動市場，並壓低通脹壓力，形容聯儲局處於良好位置，可以決定對政策利率進行調整，又指減息效果目前才剛剛開始顯現。
 
 他表示，政策制定者對利率的預測存在不確定性，並非計劃或決定，又指當局沒有預設利率路徑，將逐次會議決定，亦未對1月會議作出決定，又不認為有人將加息作為基本假設情景。
@@ -33,7 +57,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 當局上調明年經濟增長預測至2.3%，9月時預估為1.8%；預計長期增長率為1.8%，與9月預估相同。
 
 至2026年底個人消費支出（PCE）物價指數料上升2.4%，核心PCE物價指數上升2.5%，低於9月時預測。失業率預計是4.4%，與9月預測相同。"
-美國聯儲局減息0.25厘　符合預期,2025-12-11 03:10,,2025-12-11 03:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835557-20251211.htm,美國聯儲局一如市場預期，減息0.25厘，聯邦基金利率目標區間下調到3.5至3.75厘，是連續3次會議減息。
 美國聯儲局減息0.25厘　符合預期　將購買國庫券,2025-12-11 03:10,,2025-12-11 03:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835557-20251211.htm,"美國聯儲局一如市場預期，減息0.25厘，聯邦基金利率目標區間下調到3.5至3.75厘，是連續3次會議減息。
 
 會後聲明表示，經濟一直以溫和的速度擴張，就業增長已放緩，失業率略有上升。
@@ -45,14 +68,15 @@ title,date,summary,scrape_time,section,source,url,news_content
 委員對減息有分歧，只以9票比3票通過今次減息。投反對票的理事米蘭主張減息0.5厘，芝加哥聯儲銀行總裁古爾斯比及堪薩斯城聯儲銀行總裁施密認為要維持利率不變。
 
 另外，聯儲局將本月12日開始進行儲備管理的國庫券購買，首輪操作將買入約400億美元的國庫券。當局亦取消對常設隔夜回購操作的操作限制。"
-加拿大央行維持利率不變,2025-12-11 02:55,,2025-12-11 03:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835555-20251211.htm,"加拿大央行一如市場預期，維持指標利率在2.25厘不變。
-
-央行表示，加拿大經濟在應對美國貿易措施方面展現韌性，經濟對關稅抵禦能力正在增強，又指不確定性仍然高，若前景發生變化，央行已準備好作出回應。"
+美國聯儲局減息0.25厘　符合預期,2025-12-11 03:10,,2025-12-11 03:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835557-20251211.htm,美國聯儲局一如市場預期，減息0.25厘，聯邦基金利率目標區間下調到3.5至3.75厘，是連續3次會議減息。
 馬克龍和施紀賢及默茨就烏克蘭問題與特朗普通話尋求進展,2025-12-11 02:55,,2025-12-11 03:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835556-20251211.htm,"法國總統府表示，總統馬克龍、英國首相施紀賢及德國總理默茨，星期三與美國總統特朗普就烏克蘭問題通話，尋求進展。
 
 新華社引述法國總統府，通話持續約40分鐘，各方討論了美國主導斡旋的最新進展，一致認為對烏克蘭、烏克蘭人民，以及歐洲-大西洋地區共同安全而言，目前是關鍵時刻。
 
 報道又引述法國傳媒，指馬克龍與施紀賢今日稍後將共同主持新一次援助烏克蘭的「志願聯盟」網上會議。"
+加拿大央行維持利率不變,2025-12-11 02:55,,2025-12-11 03:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835555-20251211.htm,"加拿大央行一如市場預期，維持指標利率在2.25厘不變。
+
+央行表示，加拿大經濟在應對美國貿易措施方面展現韌性，經濟對關稅抵禦能力正在增強，又指不確定性仍然高，若前景發生變化，央行已準備好作出回應。"
 美聯邦法官裁定特朗普政府部署國民警衛隊到洛杉磯命令無效,2025-12-11 02:46,,2025-12-11 03:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835554-20251211.htm,"美國一名聯邦法官裁定，總統特朗普政府將國民警衛隊部署到洛杉磯的命令無效，頒令將部隊指揮權交還加州州長。
 
 法官指出，特朗普政府一方未能證明洛杉磯市的示威活動，是聯邦政府接管加州國民警衛隊的正當理由，又不認同辯方所稱，法庭不應干預總統於緊急情況下接管加州國民警衛隊的觀點，指出當年立國時已將美國政府設計成一個權力互相制衡的體系。
@@ -242,6 +266,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 總廚和另外4名員工，分別涉嫌觸犯《預防及遏止私營部門賄賂》法律中，私營部門的受賄罪和行賄罪，已經移交檢察院處理。
 
 廉署提醒，這類案件涉及就業權益，影響澳門公平廉潔的商業環境，再次呼籲私營機構員工，如果遇上索賄等不法行為，應該挺身舉報。"
+增一宗基孔肯雅熱本地個案　40歲患者潛伏期內曾到青衣自然徑,2025-12-10 20:05,,2025-12-10 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835519-20251210.htm, 
 增一宗基孔肯雅熱本地個案　患者曾與11人到青衣自然徑遠足,2025-12-10 20:05,,2025-12-10 21:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835519-20251210.htm,"本港新增一宗基孔肯雅熱本地個案。患者潛伏期內曾到過青衣自然徑，其間曾被蚊叮咬。本港累計11宗本地個案，連同這宗新增個案，共有6宗個案的患者曾到訪青衣自然徑一帶。
 
 新增個案涉及一名40歲男子，住在屯門區，初步調查顯示，上星期四及五先後出現關節痛及發燒，星期日出現皮疹，昨日到屯門醫院急症室求醫，獲安排入院在無蚊環境下接受治療，目前情況穩定。他的血液樣本對基孔肯雅病毒呈陽性反應。
@@ -251,13 +276,12 @@ title,date,summary,scrape_time,section,source,url,news_content
 這名男子的家居接觸者，及11名當日一同遠足的人士暫時沒有出現病徵，中心已按流行病學調查及風險評估進行防控工作，包括為相關人士提供醫學監察及健康建議。
 
 青衣自然徑目前已暫停開放，直至另行通告，相關政府部門會在該自然徑進行大規模的化學滅蚊及其他防控工作。中心呼籲，市民暫時不要到青衣自然徑，曾在青衣自然徑行山的人士若出現相關病徵，應盡快求醫。"
-增一宗基孔肯雅熱本地個案　40歲患者潛伏期內曾到青衣自然徑,2025-12-10 20:05,,2025-12-10 20:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835519-20251210.htm, 
 諾貝爾和平獎得主馬查多將前往挪威　但預計未能趕及領獎,2025-12-10 19:45,,2025-12-10 20:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835518-20251210.htm,"挪威諾貝爾委員會表示，本年度諾貝爾和平獎得主、委內瑞拉反對派領袖馬查多，將會前往挪威奧斯陸，但預計未能趕及出席頒獎禮。
 
 早前有報道指，原定今天到奧斯陸領獎的馬查多行蹤不明，頒獎禮前的記者會也取消。諾貝爾委員會後來發聲明，證實馬查多目前安全，稍後會抵達奧斯陸，確實時間未明，但預計未能趕及出席頒獎禮，馬查多的女兒將會代為領獎，及讀出馬查多撰寫的演辭。
 
 58歲的馬查多，今年初在委內瑞拉參與反政府抗議活動時被捕，獲釋之後一直匿藏，未有公開露面。"
-'Give Wang Fuk Court residents more rehousing options',2025-12-10 19:44,,2025-12-10 20:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm,"The DAB on Wednesday urged the government to allow owners of fire-ravaged Wang Fuk Court to surrender their flats in exchange for new, similar-sized subsidised units under the Home Ownership Scheme.
+"Give Wang Fuk Court residents more options, says DAB",2025-12-10 19:44,,2025-12-10 20:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm,"The DAB on Wednesday urged the government to allow owners of fire-ravaged Wang Fuk Court to surrender their flats in exchange for new, similar-sized subsidised units under the Home Ownership Scheme.
 
 The proposal was among a series of suggestions the party made to the government regarding the rehousing and compensation arrangements for people affected by the deadly blaze in Tai Po. 
 
@@ -291,7 +315,7 @@ DAB chairman Gary Chan said owners and tenants should be given maximum flexibili
 男子100米蛙泳SB14決賽，港隊智力殘疾組運動員蔡志強，以成績1分12秒07、第三名完成比賽，取得銅牌。
 
 殘運游泳比賽，港隊今日取得2金2銀1銅，兩日合計成績3金3銀3銅。"
-"Give Wang Fuk Court residents more options, says DAB",2025-12-10 19:44,,2025-12-10 20:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm,"The DAB on Wednesday urged the government to allow owners of fire-ravaged Wang Fuk Court to surrender their flats in exchange for new, similar-sized subsidised units under the Home Ownership Scheme.
+'Give Wang Fuk Court residents more rehousing options',2025-12-10 19:44,,2025-12-10 20:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm,"The DAB on Wednesday urged the government to allow owners of fire-ravaged Wang Fuk Court to surrender their flats in exchange for new, similar-sized subsidised units under the Home Ownership Scheme.
 
 The proposal was among a series of suggestions the party made to the government regarding the rehousing and compensation arrangements for people affected by the deadly blaze in Tai Po. 
 
@@ -672,13 +696,6 @@ In October, another e-commerce giant, Alibaba, with its fintech affiliate Ant Gr
 任國芬在決賽成績32秒83、第二名衝線，隊友余春麗得第五名，成績38秒50，湖南代表取得金牌。連同昨日取得100米T36級短跑銀牌，任國芬以兩面銀牌完成今屆殘運比賽。
 
 港隊在今屆殘運田徑項目，至今已得3面銀牌。"
-歐家榮：青衣自然徑滅蚊控蚊工作料需時7至10日,2025-12-10 12:48,,2025-12-10 13:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835460-20251210.htm,"近期有5宗基孔肯雅熱本地個案的患者曾到訪青衣自然徑一帶，青衣自然徑暫停開放。衞生防護中心傳染病處主任歐家榮表示，自然徑出現首宗基孔肯雅熱個案後，已在一帶展開控蚊工作，但仍有新個案增加，相信感染源頭仍未清除，將會進行大規模行動，徹底檢視整條行山徑，進行滅蚊控蚊工作，預計需時7至10日。
-
-歐家榮在本台節目《千禧年代》表示，青衣自然徑全長7公里，除了草、樹，亦有凹凸不平的泥地，易有積水，巡視時發現雨水渠有樹枝、枯葉堵塞。大規模滅蚊需要動用較大型的器材，決定停開自然徑，以找出及盡量填平有機會有積水的地方，並清理垃圾等，預計需時7天至10天，之後會聯同其他部門巡視，如確認出現蚊患的地方已經清除及風險減低，便會開放自然徑。
-
-歐家榮表示，食環署會在自然徑一帶放置捕蚊器，留意蚊患情況。市區防蚊控蚊比郊區容易，有信心其他地方暫時不會受影響，但提醒青衣居民要留意防蚊，如到訪青衣自然徑後的兩周內，出現發燒、關節痛等情況，要盡快求醫。
-
-香港蟲害控制從業員協會會長梁廣源表示，傳播基孔肯雅熱的白紋伊蚊一般活動範圍在滋生地100米左右，但有時因風力可遠達兩公里，加上青衣自然徑地方大，滅蚊存在一定難度，應使用大型機器協助。"
 歐盟對谷歌進行反壟斷調查　指其搜索引擎或扭曲AI市場競爭,2025-12-10 12:48,,2025-12-10 13:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835449-20251210.htm,"歐盟對美國互聯網巨頭谷歌公司進行另一次反壟斷調查，重點調查是否濫用搜索引擎主導地位，扭曲人工智能市場競爭，涉嫌違反歐盟反壟斷法規。
  
 歐盟委員會表示，歐盟懷疑谷歌使用供應商內容，用於人工智能服務但未有提供合理費用，亦不容許供應商提出反對，但由於供應商顧及流量亦要繼續使用谷歌搜索引擎。另外，歐盟亦對谷歌的視頻平台YouTube提出類似關注。
@@ -686,6 +703,13 @@ In October, another e-commerce giant, Alibaba, with its fintech affiliate Ant Gr
 歐委會表示，反映歐盟致力保障線上媒體及內容創作者權利，在日益發展的人工智能市場內，維護公平競爭。
 
 歐盟近年多次引用反壟斷規定，重罰谷歌，包括2017年裁定谷歌濫用搜索引擎主導地位，導引流量，判罰24億歐元；及在2018年裁定谷歌濫用手機安卓系統主導地位，向手機製造商等設限，判罰43億歐元。"
+歐家榮：青衣自然徑滅蚊控蚊工作料需時7至10日,2025-12-10 12:48,,2025-12-10 13:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835460-20251210.htm,"近期有5宗基孔肯雅熱本地個案的患者曾到訪青衣自然徑一帶，青衣自然徑暫停開放。衞生防護中心傳染病處主任歐家榮表示，自然徑出現首宗基孔肯雅熱個案後，已在一帶展開控蚊工作，但仍有新個案增加，相信感染源頭仍未清除，將會進行大規模行動，徹底檢視整條行山徑，進行滅蚊控蚊工作，預計需時7至10日。
+
+歐家榮在本台節目《千禧年代》表示，青衣自然徑全長7公里，除了草、樹，亦有凹凸不平的泥地，易有積水，巡視時發現雨水渠有樹枝、枯葉堵塞。大規模滅蚊需要動用較大型的器材，決定停開自然徑，以找出及盡量填平有機會有積水的地方，並清理垃圾等，預計需時7天至10天，之後會聯同其他部門巡視，如確認出現蚊患的地方已經清除及風險減低，便會開放自然徑。
+
+歐家榮表示，食環署會在自然徑一帶放置捕蚊器，留意蚊患情況。市區防蚊控蚊比郊區容易，有信心其他地方暫時不會受影響，但提醒青衣居民要留意防蚊，如到訪青衣自然徑後的兩周內，出現發燒、關節痛等情況，要盡快求醫。
+
+香港蟲害控制從業員協會會長梁廣源表示，傳播基孔肯雅熱的白紋伊蚊一般活動範圍在滋生地100米左右，但有時因風力可遠達兩公里，加上青衣自然徑地方大，滅蚊存在一定難度，應使用大型機器協助。"
 衞生防護中心料基孔肯雅熱源頭未除　青衣自然徑控蚊需7至10天,2025-12-10 12:44,,2025-12-10 13:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1835452-20251210.htm,"近期有5宗基孔肯雅熱本地個案患者，曾到訪青衣自然徑一帶，青衣自然徑暫停開放。
 
 衞生防護中心傳染病處主任歐家榮相信，感染源頭仍未清除，將會進行大規模行動，徹底檢視整條行山徑，進行滅蚊控蚊工作，預計需時7至10日"
