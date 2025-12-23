@@ -1,11 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-二○二四年香港創新活動統計顯示香港研發總開支持續上升,2025-12-23 17:32,2025-12-23 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300571.htm,"根據政府統計處今日（十二月二十三日）發表的《2024年香港創新活動統計》報告，香港的本地研發總開支持續上升，二○二四年增長至357.72億元，較二○二三年的相應數字（330.06億元）上升8.4%。本地研發總開支相對本地生產總值的比率亦由二○二三年的1.11%，進一步上升至二○二四年的1.13%。此外，研發人員數目過去數年呈現穩定增長，在二○二四年達47,210人（二○二三年為43,403人）。
-
-政府發言人表示：「國家在『十四五』規劃和『十五五』規劃建議中明確支持香港建設國際創新科技中心，推動創科發展一直是本屆政府的重點政策範疇之一。近年，政府大力鼓勵創新活動、發展創科基建、強化基礎科研和推動科研成果商品化、吸引及培育人才、支援初創企業等。本屆政府自上任以來一直積極完善本地創科生態圈，致力鞏固上游基礎科研優勢，推動中游科研成果轉化，以及下游產業發展。各項措施取得良好進展。香港的本地研發總開支及本地研發總開支相對本地生產總值的比率在二○二四年錄得理想增長，情況令人鼓舞。我們會繼續以三大創科園區、五大研發機構為主體架構，積極促進上、中、下游協調發展，全速推動本港創科發展。」
-
-發言人指，二○二五年《施政報告》宣布了一系列措施，包括提速建設第三個「InnoHK創新香港研發平台」、加快河套深港科技創新合作區香港園區（港深創科園）的發展、推進新型工業化、啓動100億元「創科產業引導基金」等，實現以科技賦能，推動高質量經濟發展。自《施政報告》發表後，政府積極推進各個項目，並已取得良好進展，例如港深創科園已於十二月正式開園。政府亦於今年十一月公布《新田科技城創科產業發展規劃概念綱要》，推動河套及新田科技城新田一帶作為香港「南金融、北創科」新戰略布局的發展。
-
-發言人續說：「政府會繼續推動落實各項政策措施，為本港創科發展創造有利條件，以進一步推動香港創科發展、發展新質生產力，實現發展香港成為國際創科中心的願景。」"
 """Hong Kong Innovation Activities Statistics"" shows continued increase in Hong Kong's gross expenditure on research and development in 2024",2025-12-23 17:32,2025-12-23 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300574.htm,"According to the report ""Hong Kong Innovation Activities Statistics 2024"" released today (December 23) by the Census and Statistics Department, the gross domestic expenditure on research and development (GERD) in Hong Kong has been on the rise and reached $35,772 million in 2024, representing an increase of 8.4 per cent compared with the corresponding figure in 2023 ($33,006 million). The GERD as a ratio to the Gross Domestic Product (GDP) has also further increased from 1.11 per cent in 2023 to 1.13 per cent in 2024. In addition, the number of research and development (R&D) personnel showed a steady increase over the years and reached 47,210 in 2024 (compared with 43,403 in 2023).
 
 A government spokesman said, ""The country indicates clear support in the National 14th Five-Year Plan and the Recommendations for the 15th Five-Year Plan for Hong Kong to develop into an international innovation and technology (I&T) centre. Promoting I&T development has always been one of the key policy areas of the current-term Government. In recent years, the Government has been focusing on encouraging innovation activities, developing I&T infrastructure, strengthening basic research and promoting commercialisation of R&D outcomes, attracting and nurturing talent, supporting start-ups, etc. Moreover, since taking office, the current-term Government has been actively enhancing the local I&T ecosystem by consolidating our strengths in upstream basic research, accelerating the midstream transformation and realisation of scientific research outcomes, and supporting industry development in the downstream. Various initiatives have achieved good progress. It is encouraging to see that the GERD and the GERD as a ratio of the GDP have recorded satisfactory growth in 2024. With three major I&T parks and five key R&D institutions as the framework, we will continue to propel I&T development at full steam by proactively promoting the synergistic development among upstream, midstream and downstream sectors in Hong Kong.”
@@ -13,6 +6,13 @@ A government spokesman said, ""The country indicates clear support in the Nation
 The spokesman also stated that a series of measures have been announced in the 2025 Policy Address, including expediting the development of the third InnoHK research cluster as well as that of the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Co-operation Zone (the Hong Kong-Shenzhen Innovation and Technology Park, HSITP), promoting the development of new industrialisation, launching the $10 billion I&T Industry-Oriented Fund, etc., to achieve high-quality economic development through technological empowerment. Since announcing the 2025 Policy Address, the Government has made strides in progressing various measures. For example, the HSITP has officially opened in December. The Government also promulgated the Conceptual Outline of the Development Plan for the Innovation and Technology Industry in the San Tin Technopole in November this year to advance the development of the Loop and San Tin Technopole San Tin area under the new strategic layout plan of ""South-North dual engine (finance-I&T)"".
 
 ""The Government will continue to take forward various policy measures to create favourable conditions for Hong Kong's I&T development, with a view to further promoting the development of I&T and new quality productive forces in Hong Kong, and realising the vision of developing Hong Kong into an international I&T centre,"" the spokesman added."
+二○二四年香港創新活動統計顯示香港研發總開支持續上升,2025-12-23 17:32,2025-12-23 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300571.htm,"根據政府統計處今日（十二月二十三日）發表的《2024年香港創新活動統計》報告，香港的本地研發總開支持續上升，二○二四年增長至357.72億元，較二○二三年的相應數字（330.06億元）上升8.4%。本地研發總開支相對本地生產總值的比率亦由二○二三年的1.11%，進一步上升至二○二四年的1.13%。此外，研發人員數目過去數年呈現穩定增長，在二○二四年達47,210人（二○二三年為43,403人）。
+
+政府發言人表示：「國家在『十四五』規劃和『十五五』規劃建議中明確支持香港建設國際創新科技中心，推動創科發展一直是本屆政府的重點政策範疇之一。近年，政府大力鼓勵創新活動、發展創科基建、強化基礎科研和推動科研成果商品化、吸引及培育人才、支援初創企業等。本屆政府自上任以來一直積極完善本地創科生態圈，致力鞏固上游基礎科研優勢，推動中游科研成果轉化，以及下游產業發展。各項措施取得良好進展。香港的本地研發總開支及本地研發總開支相對本地生產總值的比率在二○二四年錄得理想增長，情況令人鼓舞。我們會繼續以三大創科園區、五大研發機構為主體架構，積極促進上、中、下游協調發展，全速推動本港創科發展。」
+
+發言人指，二○二五年《施政報告》宣布了一系列措施，包括提速建設第三個「InnoHK創新香港研發平台」、加快河套深港科技創新合作區香港園區（港深創科園）的發展、推進新型工業化、啓動100億元「創科產業引導基金」等，實現以科技賦能，推動高質量經濟發展。自《施政報告》發表後，政府積極推進各個項目，並已取得良好進展，例如港深創科園已於十二月正式開園。政府亦於今年十一月公布《新田科技城創科產業發展規劃概念綱要》，推動河套及新田科技城新田一帶作為香港「南金融、北創科」新戰略布局的發展。
+
+發言人續說：「政府會繼續推動落實各項政策措施，為本港創科發展創造有利條件，以進一步推動香港創科發展、發展新質生產力，實現發展香港成為國際創科中心的願景。」"
 基孔肯雅熱最新情況,2025-12-23 17:30,2025-12-23 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300532.htm,"衞生署衞生防護中心（中心）表示，截至今日（十二月二十三日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。本港今年累計錄得81宗基孔肯雅熱確診個案中，11宗屬本地個案，其餘全部屬輸入個案。
 
 政府全方位跟進
@@ -183,21 +183,6 @@ R&D activities refer to creative and systematic work undertaken so as to increas
 More detailed statistics on Hong Kong innovation activities, together with the concepts and methodology, are given in the report ""Hong Kong Innovation Activities Statistics 2024"". Users can browse and download this report at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1110010&scode=580). The report presents the latest statistics on R&D activities in Hong Kong, with analyses on R&D activities performed in the business, higher education and government sectors. It also contains detailed statistics on innovation activities (including product and business process innovations) in the business sector.
 
 Enquiries about the statistics on Hong Kong innovation activities can be directed to the Science and Technology Statistics Section of the C&SD (Tel: 3903 7290 or email: stb1@censtatd.gov.hk)."
-Hong Kong Customs detects money laundering case involving $8.9 billion via fictitious trading activities,2025-12-23 16:12,2025-12-23 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300510.htm,"Hong Kong Customs mounted an enforcement operation codenamed ""Mirage"" on December 18 and 19 and successfully dismantled a money laundering syndicate. Five local persons suspected to be connected with the case were arrested. They were suspected of laundering about $8.9 billion in funds from unknown sources via fictitious trading activities.
-
-Acting upon intelligence, Customs targeted three local persons and initiated a financial investigation. It was revealed that the three persons opened multiple local company and personal bank accounts between January 2022 and December 2025 to deal with over 3 700 suspicious transactions totalling about $8.9 billion.
-
-After an in-depth investigation,Customs conducted the enforcement operation on the aforesaid dates. Two local males and three local females, aged between 28 and 59 and suspected to be connected with the case, were arrested for ""dealing with property known or reasonably believed to represent proceeds of an indictable offence"" (commonly known as money laundering) under the Organized and Serious Crimes Ordinance (OSCO).
-
-During the operation, Customs raided multiple local premises, including three residential units and three commercial premises. A batch of items suspected to be connected with the case, including a number of mobile phones, cheque books, and trade documents, was seized. About $55 million worth of assets under the names of the arrestees have been frozen and put under close monitoring.
-
-The investigation is ongoing. The five arrested persons have been released on bail pending further investigation, and the likelihood of further arrests is not ruled out.
-
-Customs reminds members of the public that they may risk committing the crime of money laundering if they use personal or company bank accounts to deal with money from unknown sources, regardless of whether a monetary reward is involved.
-
-Under the OSCO, a person commits an offence if he or she deals with any property knowing or having reasonable grounds to believe that such property in whole or in part, directly or indirectly represents any person's proceeds of an indictable offence. The maximum penalty upon conviction is a fine of $5 million and imprisonment for 14 years, while the crime proceeds are also subject to confiscation.
-
-Members of the public may report any suspected money laundering activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 ​香港海關偵破利用虛假貿易清洗約八十九億元黑錢案件,2025-12-23 16:12,2025-12-23 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300509.htm,"香港海關於十二月十八日和十九日採取代號「幻景」的執法行動，成功搗破一個洗黑錢集團並拘捕五名懷疑涉案本地人士，他們涉嫌利用虛假貿易清洗約八十九億元黑錢。
 
 海關人員根據情報鎖定三名本地人士並展開財富調查，發現三人於二○二二年一月至今年十二月期間，在本地開設多個公司及個人銀行帳戶，處理超過三千七百宗可疑交易，涉款約八十九億元。
@@ -213,15 +198,21 @@ Members of the public may report any suspected money laundering activities to Cu
 根據《條例》，任何人士如知道或有合理理由相信任何財產，不論全部或部分、直接或間接，代表任何人從可公訴罪行的得益，而仍然處理該財產，即屬犯罪。一經定罪，最高可被判罰款五百萬元及監禁十四年，而相關犯罪得益亦可被沒收。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑參與洗黑錢的活動。"
-Hong Kong Customs detects suspected case of illegal importing of animal (with photo),2025-12-23 16:10,2025-12-23 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300290.htm,"Hong Kong Customs yesterday (December 22) detected a suspected case of illegal importing of an animal at the Lo Wu Control Point. One suspected illegally imported cat with an estimated market value of about $20,000 was seized.
+Hong Kong Customs detects money laundering case involving $8.9 billion via fictitious trading activities,2025-12-23 16:12,2025-12-23 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300510.htm,"Hong Kong Customs mounted an enforcement operation codenamed ""Mirage"" on December 18 and 19 and successfully dismantled a money laundering syndicate. Five local persons suspected to be connected with the case were arrested. They were suspected of laundering about $8.9 billion in funds from unknown sources via fictitious trading activities.
 
-Customs officers yesterday intercepted an incoming 58-year-old male passenger at the Arrival Hall of the said Control Point. Upon examination, one cat was seized from his rucksack, and he was subsequently arrested.
+Acting upon intelligence, Customs targeted three local persons and initiated a financial investigation. It was revealed that the three persons opened multiple local company and personal bank accounts between January 2022 and December 2025 to deal with over 3 700 suspicious transactions totalling about $8.9 billion.
 
-The case has been handed over to the Agriculture, Fisheries and Conservation Department for follow-up investigation.
+After an in-depth investigation,Customs conducted the enforcement operation on the aforesaid dates. Two local males and three local females, aged between 28 and 59 and suspected to be connected with the case, were arrested for ""dealing with property known or reasonably believed to represent proceeds of an indictable offence"" (commonly known as money laundering) under the Organized and Serious Crimes Ordinance (OSCO).
 
-Customs reminds the public that importing animals into Hong Kong without a valid permit is an offence.
+During the operation, Customs raided multiple local premises, including three residential units and three commercial premises. A batch of items suspected to be connected with the case, including a number of mobile phones, cheque books, and trade documents, was seized. About $55 million worth of assets under the names of the arrestees have been frozen and put under close monitoring.
 
-Under the Rabies Regulation, any person found guilty of illegally importing animals, carcasses or animal products is liable to a maximum fine of $50,000 and imprisonment for one year."
+The investigation is ongoing. The five arrested persons have been released on bail pending further investigation, and the likelihood of further arrests is not ruled out.
+
+Customs reminds members of the public that they may risk committing the crime of money laundering if they use personal or company bank accounts to deal with money from unknown sources, regardless of whether a monetary reward is involved.
+
+Under the OSCO, a person commits an offence if he or she deals with any property knowing or having reasonable grounds to believe that such property in whole or in part, directly or indirectly represents any person's proceeds of an indictable offence. The maximum penalty upon conviction is a fine of $5 million and imprisonment for 14 years, while the crime proceeds are also subject to confiscation.
+
+Members of the public may report any suspected money laundering activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 ​香港海關偵破非法進口動物案件（附圖）,2025-12-23 16:10,2025-12-23 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300289.htm,"香港海關昨日（十二月二十二日）在羅湖管制站偵破一宗非法進口動物的案件，檢獲一隻懷疑非法進口貓，估計市值約二萬元。
 
 海關人員昨日在上述管制站入境大堂截查一名五十八歲抵港男旅客，經檢查後在其背包內檢獲一隻貓，遂拘捕該名男子。
@@ -240,6 +231,15 @@ Secretary for Transport and Logistics: Today is the formal launch of the Southbo
 We are also encouraged to see that the Federation of Hong Kong Hotel Owners has enlisted the support of more than 20 hotels to participate in this scheme, in which concessionary packages are offered to these visitors. I look forward to an even more positive response from various industry stakeholders. Christmas and New Year are coming around, and we will soon be celebrating the Chinese New Year in February next year. We will gather all the important information about the celebratory activities, as well as business conferences, sports and cultural events, and concerts. Such information is to be included on the Transport Department's dedicated webpage to provide one-stop shop information. We have also contacted platforms like Amap or Baidu, which will provide all the essential information in their apps, so that when Guangdong visitors switch on their apps, they can easily get information about the road conditions and essential transport facilities in Hong Kong. Thank you.
 
 (Please also refer to the Chinese portion of the remarks.)"
+Hong Kong Customs detects suspected case of illegal importing of animal (with photo),2025-12-23 16:10,2025-12-23 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300290.htm,"Hong Kong Customs yesterday (December 22) detected a suspected case of illegal importing of an animal at the Lo Wu Control Point. One suspected illegally imported cat with an estimated market value of about $20,000 was seized.
+
+Customs officers yesterday intercepted an incoming 58-year-old male passenger at the Arrival Hall of the said Control Point. Upon examination, one cat was seized from his rucksack, and he was subsequently arrested.
+
+The case has been handed over to the Agriculture, Fisheries and Conservation Department for follow-up investigation.
+
+Customs reminds the public that importing animals into Hong Kong without a valid permit is an offence.
+
+Under the Rabies Regulation, any person found guilty of illegally importing animals, carcasses or animal products is liable to a maximum fine of $50,000 and imprisonment for one year."
 食環署持續打擊非法出售來歷不明食物的無牌小販,2025-12-23 16:08,2025-12-23 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300278.htm,"食物環境衞生署（食環署）發言人今日（十二月二十三日）表示，針對出售來歷不明、過期或限制出售食物的小販，署方自去年八月起持續在全港各區展開連串突擊行動，至今共拘控四十一人，並提出合共九十五宗檢控。
 
 發言人表示，行動中共檢獲約三百五十公斤食物，包括壽司、麵包、蛋糕、罐頭、瓶裝豆漿、盒裝牛奶、魚類及肉類等。食環署以涉嫌無牌販賣、在公眾地方構成阻礙、未獲准許售賣限制出售的食物或出售過期食物等，向該些無牌小販提出檢控。目前，八十一宗相關案件已完成審理，法庭裁定全數違法人士罪名成立並處以罰款，當中兩名無牌小販各被判罰款五千元。
@@ -276,6 +276,13 @@ In tandem, the Kowloon East Job Centre will merge with the Kwun Tong Job Centre 
 Apart from the services of job centres, the LD's iES website and mobile application also provide round-the-clock online employment services and employment information to enable job seekers to search for job vacancies and submit job applications online. Job seekers and employers can also call the hotlines for job seekers (29690888) and employers (25033377) of the Telephone Employment Service Centre of the LD to receive services.
 
 The LD will continue to enhance its services in light of the service needs and market situation to improve efficiency."
+Independent Committee in relation to fire at Wang Fuk Court in Tai Po inspects Wang Fuk Court in Tai Po (with photo),2025-12-23 15:45,2025-12-23 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300471.htm,"The following is issued on behalf of the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po:
+
+ The Chairman of the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po, Mr Justice David Lok, and members Mr Chan Kin-por and Dr Rex Auyeung conducted a site visit to Wang Fuk Court in Tai Po today (December 23) to learn more about the actual situation.
+
+ The Committee inspected various indoor and outdoor locations at Wang Fuk Court to gain a better understanding of the actual environment and conditions of the estate; the causes and circumstances that led to the fire and its rapid spread; the fire service installations and equipment used in the buildings; the materials used in building maintenance and renovation works; and construction safety matters.
+
+ The Chief Executive established the Committee and appointed Mr Justice Lok as the Chairman and Mr Chan and Dr Auyeung as members to review the causes and related issues of the Wang Fuk Court fire in Tai Po and to make recommendations to prevent similar incidents from occurring again. The Committee formally commenced work on December 19."
 Inspection of aquatic products imported from Japan,2025-12-23 15:45,2025-12-23 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300484.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -287,7 +294,14 @@ Inspection of aquatic products imported from Japan,2025-12-23 15:45,2025-12-23 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 190 701 samples of food imported from Japan (including 123 288 samples of aquatic and related products, seaweeds and sea salt) and 42 316 samples of local catch respectively. All the samples passed the tests."
-港匯指數,2025-12-23 15:45,2025-12-23 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300194.htm,二○二五年十二月二十三日（星期二）的港幣匯率指數為一百零三點四（和昨日指數比較下降零點二）。
+Effective Exchange Rate Index,2025-12-23 15:45,2025-12-23 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300195.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, December 23, 2025 is 103.4 (down 0.2 against yesterday's index)."
+就大埔宏福苑火災成立的獨立委員會視察大埔宏福苑（附圖）,2025-12-23 15:45,2025-12-23 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300465.htm,"下稿代就大埔宏福苑火災成立的獨立委員會發出：
+
+就大埔宏福苑火災成立的獨立委員會主席陸啟康法官與委員陳健波和歐陽伯權博士今日（十二月二十三日）到大埔宏福苑視察，了解實際情況。
+
+委員會視察宏福苑的室內外不同地點，以進一步了解屋苑的實際環境和情況、導致火災發生及火勢迅速蔓延的原因、大廈配置的消防裝置及設備、樓宇維修工程使用的物料，以及施工安全等事宜。
+
+行政長官成立委員會，委任陸啟康法官為委員會主席，以及陳健波及歐陽伯權博士為委員會委員，審視大埔宏福苑火災的事故原因及相關問題，提出建議，防止同類事故再次發生。委員會於十二月十九日正式展開工作。"
 日本進口水產的檢測情況,2025-12-23 15:45,2025-12-23 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300483.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -299,21 +313,7 @@ Inspection of aquatic products imported from Japan,2025-12-23 15:45,2025-12-23 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共190 701個日本進口食物樣本（包括123 288個水產及其製品、海藻及海鹽樣本）及共42 316個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
-就大埔宏福苑火災成立的獨立委員會視察大埔宏福苑（附圖）,2025-12-23 15:45,2025-12-23 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300465.htm,"下稿代就大埔宏福苑火災成立的獨立委員會發出：
-
-就大埔宏福苑火災成立的獨立委員會主席陸啟康法官與委員陳健波和歐陽伯權博士今日（十二月二十三日）到大埔宏福苑視察，了解實際情況。
-
-委員會視察宏福苑的室內外不同地點，以進一步了解屋苑的實際環境和情況、導致火災發生及火勢迅速蔓延的原因、大廈配置的消防裝置及設備、樓宇維修工程使用的物料，以及施工安全等事宜。
-
-行政長官成立委員會，委任陸啟康法官為委員會主席，以及陳健波及歐陽伯權博士為委員會委員，審視大埔宏福苑火災的事故原因及相關問題，提出建議，防止同類事故再次發生。委員會於十二月十九日正式展開工作。"
-Independent Committee in relation to fire at Wang Fuk Court in Tai Po inspects Wang Fuk Court in Tai Po (with photo),2025-12-23 15:45,2025-12-23 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300471.htm,"The following is issued on behalf of the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po:
-
- The Chairman of the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po, Mr Justice David Lok, and members Mr Chan Kin-por and Dr Rex Auyeung conducted a site visit to Wang Fuk Court in Tai Po today (December 23) to learn more about the actual situation.
-
- The Committee inspected various indoor and outdoor locations at Wang Fuk Court to gain a better understanding of the actual environment and conditions of the estate; the causes and circumstances that led to the fire and its rapid spread; the fire service installations and equipment used in the buildings; the materials used in building maintenance and renovation works; and construction safety matters.
-
- The Chief Executive established the Committee and appointed Mr Justice Lok as the Chairman and Mr Chan and Dr Auyeung as members to review the causes and related issues of the Wang Fuk Court fire in Tai Po and to make recommendations to prevent similar incidents from occurring again. The Committee formally commenced work on December 19."
-Effective Exchange Rate Index,2025-12-23 15:45,2025-12-23 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300195.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, December 23, 2025 is 103.4 (down 0.2 against yesterday's index)."
+港匯指數,2025-12-23 15:45,2025-12-23 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300194.htm,二○二五年十二月二十三日（星期二）的港幣匯率指數為一百零三點四（和昨日指數比較下降零點二）。
 ​運輸及物流局局長與運輸署署長會見傳媒談話內容,2025-12-23 15:20,2025-12-23 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300475.htm,"以下是運輸及物流局局長陳美寶今日（十二月二十三日）到訪大嶼山充電站暨「粵車南下」資訊中心後，與運輸署署長李頌恩會見傳媒的談話內容：
 
 運輸及物流局局長：各位傳媒朋友，感謝大家來到大嶼山，此處鄰近港珠澳大橋，是中電源動和運輸署新設的充電站和資訊中心。今日凌晨，我和很多市民一樣在電視機前見證首批「粵車南下」旅客經港珠澳大橋入境香港市區。看到他們非常開心，我也回想起自己首次駕車經港珠澳大橋這項國家級基建往香港的愉快體驗。這些旅客編排了一些在港的旅遊和商務活動，體現了「粵車南下」作為政策創新的里程碑，能拉近兩地人民、加強往來，並縮短廣東和香港之間的距離。我們看到，今日凌晨抵港粵車經港珠澳大橋入境時的車輛查驗過程非常快捷，只需數分鐘，乘客可留在車上接受查驗。這正正是透過特區政府和廣東方面的合作促成，可謂是創新舉措。我們期望透過實施「粵車南下」，用好港珠澳大橋這項國家級基建，讓兩地人民互惠往來，從而帶旺香港百業。
@@ -617,50 +617,6 @@ EPD convictions in November,2025-12-23 15:00,2025-12-23 15:15,Eng,gia,https://ww
   Four of the convictions were under the Air Pollution Control Ordinance, nine were under the Noise Control Ordinance, 32 were under the Public Cleansing and Prevention of Nuisances Regulation, two were under the Product Eco-responsibility Ordinance, six were under the Waste Disposal Ordinance and one was under the Water Pollution Control Ordinance.
 
   A company was convicted for two breaches of the Noise Control Ordinance and was fined $15,000 for each case, which was the heaviest fine in November."
-香港藝術館推出三個新展覽與流動藝術教育專車,2025-12-23 14:50,2025-12-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200621.htm,"香港藝術館今日（十二月二十三日）起同步推出三個全新策劃的捐贈藏品展覽，分別展示畫壇巨匠吳冠中的世界足跡、至樂樓中國書畫的趣味小人物，以及靜觀樓的藏扇魅力。而由香港藝術館推出的吳冠中藝術教育專車亦將駛向學校及社區，與觀眾互動。
-
-「吳冠中藝術贊助專題展覽系列：吳冠中——邂逅風景」展覽
--------------------------------------------------------------
-
-享譽中外畫壇的吳冠中（一九一九年至二○一○年），是公認二十世紀最具影響力的藝術家之一。他曾於世界各地寫生，足跡遍及亞、非、歐、美四大洲二十多個國家。展覽精選他珍貴寫生手稿、水墨和油畫作品，包括描繪大都會璀璨的夜景的《都市之夜》和《奧斯陸之夜》，其中近一半珍藏為捐贈予藝術館後首次亮相的畫作，如《異國江山（二）》。吳冠中對香港情有獨鍾，認為香港中西匯聚，正與他畢生追求的藝術之道相互共鳴。展覽展出吳冠中二○○二年於香港藝術館冒雨描繪維港景色的《維港寫生》，是他生平唯一一次公開示範速寫的作品，並有一九九○年在香港寫生的《雀仔街》，為香港的老街舊貌留下印記。
-
-香港藝術家飛天豬（黃詠珊）以吳冠中的水墨畫作《窗之眼》為靈感，創作沉浸式裝置作品《光進來的地方》。作品融合動態影像與繪畫，捕捉入夜後公共屋邨萬千窗戶逐一亮起的燈火，表現城市風景背後的人文情懷。
-
-為讓更多市民認識這位畫壇大師，藝術館同時推出「吳冠中藝術贊助教育系列：藝術之旅——吳冠中流動藝術館」教育專車，於未來兩年走訪全港超過一百四十間本地中、小學，亦會停泊於各區交通樞紐、文化及休憩場所，透過多媒體裝置和互動遊戲，推廣吳冠中的藝術及美學理念。
-
-「畫中小人物」展覽
-----------------------
-
-展覽邀請觀眾以不同角度欣賞至樂樓的中國書畫藏品，展覽聚焦於畫作中那些輪廓簡略、比例微小的點景人物。這些漁夫、高士或旅人等，看似不起眼，卻是作品的靈魂關鍵。展覽探討他們的身分、故事與文化意涵，並特別加入動畫元素，生動再現古人的日常場景。精選展品包括查士標《漁父圖》和龔賢《釣罷歸來圖》等。
-
-「難得清風——靜觀樓藏扇精選」展覽
---------------------------------------
-
-香港藝術館從靜觀樓藏品中，精選逾一百五十把成扇，並結合藝術館所藏的中國書畫分兩期展出，引領觀眾領略中國文人執扇臨風的雅意。第一期展品已匯聚百家，包括任頤、張大千、溥儒、朱屺瞻、趙少昂等南北各派大師傑作。展覽陳列更是別具巧思，挑戰成扇的最佳欣賞角度，以度身訂製的展櫃及展台，突顯摺扇一體兩面的魅力，更展現其集詩、書、畫、印、雕刻於一身的綜合藝術性，為觀眾提供嶄新的觀賞視角與藝術體驗。
-
-三個展覽均免費入場。展覽及流動藝術教育專車詳情，請瀏覽網頁：hk.art.museum。"
-香港藝術館推出三個新展覽與流動藝術教育專車（附圖）,2025-12-23 14:50,2025-12-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200621.htm,"香港藝術館今日（十二月二十三日）起同步推出三個全新策劃的捐贈藏品展覽，分別展示畫壇巨匠吳冠中的世界足跡、至樂樓中國書畫的趣味小人物，以及靜觀樓的藏扇魅力。而由香港藝術館推出的吳冠中藝術教育專車亦將駛向學校及社區，與觀眾互動。
-
-「吳冠中藝術贊助專題展覽系列：吳冠中——邂逅風景」展覽
--------------------------------------------------------------
-
-享譽中外畫壇的吳冠中（一九一九年至二○一○年），是公認二十世紀最具影響力的藝術家之一。他曾於世界各地寫生，足跡遍及亞、非、歐、美四大洲二十多個國家。展覽精選他珍貴寫生手稿、水墨和油畫作品，包括描繪大都會璀璨的夜景的《都市之夜》和《奧斯陸之夜》，其中近一半珍藏為捐贈予藝術館後首次亮相的畫作，如《異國江山（二）》。吳冠中對香港情有獨鍾，認為香港中西匯聚，正與他畢生追求的藝術之道相互共鳴。展覽展出吳冠中二○○二年於香港藝術館冒雨描繪維港景色的《維港寫生》，是他生平唯一一次公開示範速寫的作品，並有一九九○年在香港寫生的《雀仔街》，為香港的老街舊貌留下印記。
-
-香港藝術家飛天豬（黃詠珊）以吳冠中的水墨畫作《窗之眼》為靈感，創作沉浸式裝置作品《光進來的地方》。作品融合動態影像與繪畫，捕捉入夜後公共屋邨萬千窗戶逐一亮起的燈火，表現城市風景背後的人文情懷。
-
-為讓更多市民認識這位畫壇大師，藝術館同時推出「吳冠中藝術贊助教育系列：藝術之旅——吳冠中流動藝術館」教育專車，於未來兩年走訪全港超過一百四十間本地中、小學，亦會停泊於各區交通樞紐、文化及休憩場所，透過多媒體裝置和互動遊戲，推廣吳冠中的藝術及美學理念。
-
-「畫中小人物」展覽
-----------------------
-
-展覽邀請觀眾以不同角度欣賞至樂樓的中國書畫藏品，展覽聚焦於畫作中那些輪廓簡略、比例微小的點景人物。這些漁夫、高士或旅人等，看似不起眼，卻是作品的靈魂關鍵。展覽探討他們的身分、故事與文化意涵，並特別加入動畫元素，生動再現古人的日常場景。精選展品包括查士標《漁父圖》和龔賢《釣罷歸來圖》等。
-
-「難得清風——靜觀樓藏扇精選」展覽
---------------------------------------
-
-香港藝術館從靜觀樓藏品中，精選逾一百五十把成扇，並結合藝術館所藏的中國書畫分兩期展出，引領觀眾領略中國文人執扇臨風的雅意。第一期展品已匯聚百家，包括任頤、張大千、溥儒、朱屺瞻、趙少昂等南北各派大師傑作。展覽陳列更是別具巧思，挑戰成扇的最佳欣賞角度，以度身訂製的展櫃及展台，突顯摺扇一體兩面的魅力，更展現其集詩、書、畫、印、雕刻於一身的綜合藝術性，為觀眾提供嶄新的觀賞視角與藝術體驗。
-
-三個展覽均免費入場。展覽及流動藝術教育專車詳情，請瀏覽網頁：hk.art.museum。"
 HKMoA launches three new exhibitions and mobile educational art bus (with photos),2025-12-23 14:50,2025-12-23 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200627.htm,"  The Hong Kong Museum of Art (HKMoA) today (December 23) unveils three new exhibitions based on its three major donations, showcasing the footprints of art master Wu Guanzhong around the world, intriguing figures from the Chih Lo Lou Collection of Chinese paintings and calligraphy, and folding fans from the Jingguanlou Collection, respectively. An educational art bus from the HKMoA will promote Wu's art to schools and engage with communities.
 
 ""Wu Guanzhong Art Sponsorship Thematic Exhibition Series: Wu Guanzhong: Encountering Landscapes"" exhibition
@@ -683,6 +639,50 @@ The exhibition invites audiences to appreciate the Chih Lo Lou Collection of Chi
   A selection of over 150 folding fans from the Jingguanlou Collection is featured in the exhibition in two phases, complemented by Chinese paintings from the museum collection, leading visitors to appreciate the cultivated elegance of the Chinese literati. Highlights of the first phase include masterpieces by Northern and Southern School painters such as Ren Yi, Zhang Daqian, Pu Ru, Zhu Qizhan, Chao Shao-an, and more. The folding fan is an unparalleled art form that integrates poetry, calligraphy, painting, sealing, and carving, embodying graphic artistry and craftsmanship all in one fan. Through thoughtfully designed display methods, the exhibition overcomes challenges in displaying folding fans and highlights their dual-sided aesthetics with an exploration of their structural composition, offering fresh perspectives for audiences in appreciating this art form.
 
   The admission to the three exhibitions is free. For details of the exhibitions and the mobile educational art bus, please visit the website at hk.art.museum."
+香港藝術館推出三個新展覽與流動藝術教育專車（附圖）,2025-12-23 14:50,2025-12-23 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200621.htm,"香港藝術館今日（十二月二十三日）起同步推出三個全新策劃的捐贈藏品展覽，分別展示畫壇巨匠吳冠中的世界足跡、至樂樓中國書畫的趣味小人物，以及靜觀樓的藏扇魅力。而由香港藝術館推出的吳冠中藝術教育專車亦將駛向學校及社區，與觀眾互動。
+
+「吳冠中藝術贊助專題展覽系列：吳冠中——邂逅風景」展覽
+-------------------------------------------------------------
+
+享譽中外畫壇的吳冠中（一九一九年至二○一○年），是公認二十世紀最具影響力的藝術家之一。他曾於世界各地寫生，足跡遍及亞、非、歐、美四大洲二十多個國家。展覽精選他珍貴寫生手稿、水墨和油畫作品，包括描繪大都會璀璨的夜景的《都市之夜》和《奧斯陸之夜》，其中近一半珍藏為捐贈予藝術館後首次亮相的畫作，如《異國江山（二）》。吳冠中對香港情有獨鍾，認為香港中西匯聚，正與他畢生追求的藝術之道相互共鳴。展覽展出吳冠中二○○二年於香港藝術館冒雨描繪維港景色的《維港寫生》，是他生平唯一一次公開示範速寫的作品，並有一九九○年在香港寫生的《雀仔街》，為香港的老街舊貌留下印記。
+
+香港藝術家飛天豬（黃詠珊）以吳冠中的水墨畫作《窗之眼》為靈感，創作沉浸式裝置作品《光進來的地方》。作品融合動態影像與繪畫，捕捉入夜後公共屋邨萬千窗戶逐一亮起的燈火，表現城市風景背後的人文情懷。
+
+為讓更多市民認識這位畫壇大師，藝術館同時推出「吳冠中藝術贊助教育系列：藝術之旅——吳冠中流動藝術館」教育專車，於未來兩年走訪全港超過一百四十間本地中、小學，亦會停泊於各區交通樞紐、文化及休憩場所，透過多媒體裝置和互動遊戲，推廣吳冠中的藝術及美學理念。
+
+「畫中小人物」展覽
+----------------------
+
+展覽邀請觀眾以不同角度欣賞至樂樓的中國書畫藏品，展覽聚焦於畫作中那些輪廓簡略、比例微小的點景人物。這些漁夫、高士或旅人等，看似不起眼，卻是作品的靈魂關鍵。展覽探討他們的身分、故事與文化意涵，並特別加入動畫元素，生動再現古人的日常場景。精選展品包括查士標《漁父圖》和龔賢《釣罷歸來圖》等。
+
+「難得清風——靜觀樓藏扇精選」展覽
+--------------------------------------
+
+香港藝術館從靜觀樓藏品中，精選逾一百五十把成扇，並結合藝術館所藏的中國書畫分兩期展出，引領觀眾領略中國文人執扇臨風的雅意。第一期展品已匯聚百家，包括任頤、張大千、溥儒、朱屺瞻、趙少昂等南北各派大師傑作。展覽陳列更是別具巧思，挑戰成扇的最佳欣賞角度，以度身訂製的展櫃及展台，突顯摺扇一體兩面的魅力，更展現其集詩、書、畫、印、雕刻於一身的綜合藝術性，為觀眾提供嶄新的觀賞視角與藝術體驗。
+
+三個展覽均免費入場。展覽及流動藝術教育專車詳情，請瀏覽網頁：hk.art.museum。"
+香港藝術館推出三個新展覽與流動藝術教育專車,2025-12-23 14:50,2025-12-23 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200621.htm,"香港藝術館今日（十二月二十三日）起同步推出三個全新策劃的捐贈藏品展覽，分別展示畫壇巨匠吳冠中的世界足跡、至樂樓中國書畫的趣味小人物，以及靜觀樓的藏扇魅力。而由香港藝術館推出的吳冠中藝術教育專車亦將駛向學校及社區，與觀眾互動。
+
+「吳冠中藝術贊助專題展覽系列：吳冠中——邂逅風景」展覽
+-------------------------------------------------------------
+
+享譽中外畫壇的吳冠中（一九一九年至二○一○年），是公認二十世紀最具影響力的藝術家之一。他曾於世界各地寫生，足跡遍及亞、非、歐、美四大洲二十多個國家。展覽精選他珍貴寫生手稿、水墨和油畫作品，包括描繪大都會璀璨的夜景的《都市之夜》和《奧斯陸之夜》，其中近一半珍藏為捐贈予藝術館後首次亮相的畫作，如《異國江山（二）》。吳冠中對香港情有獨鍾，認為香港中西匯聚，正與他畢生追求的藝術之道相互共鳴。展覽展出吳冠中二○○二年於香港藝術館冒雨描繪維港景色的《維港寫生》，是他生平唯一一次公開示範速寫的作品，並有一九九○年在香港寫生的《雀仔街》，為香港的老街舊貌留下印記。
+
+香港藝術家飛天豬（黃詠珊）以吳冠中的水墨畫作《窗之眼》為靈感，創作沉浸式裝置作品《光進來的地方》。作品融合動態影像與繪畫，捕捉入夜後公共屋邨萬千窗戶逐一亮起的燈火，表現城市風景背後的人文情懷。
+
+為讓更多市民認識這位畫壇大師，藝術館同時推出「吳冠中藝術贊助教育系列：藝術之旅——吳冠中流動藝術館」教育專車，於未來兩年走訪全港超過一百四十間本地中、小學，亦會停泊於各區交通樞紐、文化及休憩場所，透過多媒體裝置和互動遊戲，推廣吳冠中的藝術及美學理念。
+
+「畫中小人物」展覽
+----------------------
+
+展覽邀請觀眾以不同角度欣賞至樂樓的中國書畫藏品，展覽聚焦於畫作中那些輪廓簡略、比例微小的點景人物。這些漁夫、高士或旅人等，看似不起眼，卻是作品的靈魂關鍵。展覽探討他們的身分、故事與文化意涵，並特別加入動畫元素，生動再現古人的日常場景。精選展品包括查士標《漁父圖》和龔賢《釣罷歸來圖》等。
+
+「難得清風——靜觀樓藏扇精選」展覽
+--------------------------------------
+
+香港藝術館從靜觀樓藏品中，精選逾一百五十把成扇，並結合藝術館所藏的中國書畫分兩期展出，引領觀眾領略中國文人執扇臨風的雅意。第一期展品已匯聚百家，包括任頤、張大千、溥儒、朱屺瞻、趙少昂等南北各派大師傑作。展覽陳列更是別具巧思，挑戰成扇的最佳欣賞角度，以度身訂製的展櫃及展台，突顯摺扇一體兩面的魅力，更展現其集詩、書、畫、印、雕刻於一身的綜合藝術性，為觀眾提供嶄新的觀賞視角與藝術體驗。
+
+三個展覽均免費入場。展覽及流動藝術教育專車詳情，請瀏覽網頁：hk.art.museum。"
 HKMoA launches three new exhibitions and mobile educational art bus,2025-12-23 14:50,2025-12-23 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200627.htm,"  The Hong Kong Museum of Art (HKMoA) today (December 23) unveils three new exhibitions based on its three major donations, showcasing the footprints of art master Wu Guanzhong around the world, intriguing figures from the Chih Lo Lou Collection of Chinese paintings and calligraphy, and folding fans from the Jingguanlou Collection, respectively. An educational art bus from the HKMoA will promote Wu's art to schools and engage with communities.
 
 ""Wu Guanzhong Art Sponsorship Thematic Exhibition Series: Wu Guanzhong: Encountering Landscapes"" exhibition
@@ -705,17 +705,6 @@ The exhibition invites audiences to appreciate the Chih Lo Lou Collection of Chi
   A selection of over 150 folding fans from the Jingguanlou Collection is featured in the exhibition in two phases, complemented by Chinese paintings from the museum collection, leading visitors to appreciate the cultivated elegance of the Chinese literati. Highlights of the first phase include masterpieces by Northern and Southern School painters such as Ren Yi, Zhang Daqian, Pu Ru, Zhu Qizhan, Chao Shao-an, and more. The folding fan is an unparalleled art form that integrates poetry, calligraphy, painting, sealing, and carving, embodying graphic artistry and craftsmanship all in one fan. Through thoughtfully designed display methods, the exhibition overcomes challenges in displaying folding fans and highlights their dual-sided aesthetics with an exploration of their structural composition, offering fresh perspectives for audiences in appreciating this art form.
 
   The admission to the three exhibitions is free. For details of the exhibitions and the mobile educational art bus, please visit the website at hk.art.museum."
-"""iAM Smart"" registered users exceed 4 million, realising ""single portal for online government services""",2025-12-23 14:30,2025-12-23 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300274.htm,"âThe Digital Policy Office (DPO) announced today (December 23) that the ""iAM Smart"" one-stop personalised digital services platform has already accumulated over 4 million registered users.
-
-A spokesman for the DPO thanked members of the public and various sectors for their continuous support for ""iAM Smart"". With the simplified registration workflow and user-centric design, ""iAM Smart"", which has now recorded a daily usage of over 180 000, provides access to more than 1 300 online services from government, public and private organisations, as well as government e-Forms, achieving the goal of a ""single portal for online government services"". At present, members of the public can use different online services to manage daily affairs in a secure and convenient way anytime, anywhere via ""iAM Smart"", such as SmartPLAY, eTAX, eMPF, application for an International Driving Permit, application for working family allowance, and checking bills for electricity, water and gas.
-
-Meanwhile, the Mini-program Platform of ""iAM Smart"" was launched. The DPO is actively driving the integration of government mobile applications into the Mini-program Platform among bureaux/departments so that the public can access these services without the need to install various mobile applications of different government departments.
-
-The ""Personal Assistant"" page of ""iAM Smart"" has also introduced more practical functions. Users can present their ""iAM Smart"" Personal Code, which is displayed in the form of a QR code for admission to premises or visitor registration, without the need to disclose excessive personal data by utilising an identity card. The DPO will continue to promote and encourage government departments and industry stakeholders to adopt the Personal Code, with a view to bringing more convenience and benefits to the public and the business sectors. The ""Personal Assistant"" page also allows users to check the ""to-do"" items and the application status of various services, as well as view and pay the bills of the Water Supplies Department and Hongkong Post in one go.
-
-  Moreover, the DPO has been in discussions with more financial institutions to assist them in adopting the newly rolled out ""Step-up Authentication"" function to strengthen user verification in certain key processes, thereby further enhancing the security level. The DPO further plans to provide an ""AI Assistant"" by end-2026 to answer enquiries and offer personalised services for ""iAM Smart"" users, further enhancing the user experience of government services.
-
-The ""iAM Smart"" app supports iOS and Android operating systems, and mobile phones with biometric authentication activated. Members of the public can download and use the latest version of the app for free from the Apple App Store, Huawei AppGallery, and Google Play, or by visiting the ""iAM Smart"" thematic website (www.iamsmart.gov.hk/en/download.html)."
 「智方便」登記用戶突破400萬　實現政府服務「一網通辦」,2025-12-23 14:30,2025-12-23 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300271.htm,"​數字政策辦公室（數字辦）今日（十二月二十三日）公布，「智方便」一站式個人化數碼服務平台的登記用戶已超過400萬。
 
 數字辦發言人感謝市民及各界一直以來對「智方便」的支持。藉着簡化的登記流程和用戶為本的設計，「智方便」每日使用量已超過18萬人次，接達超過1 300項政府及公私營機構網上服務和政府電子表格，實現政府服務「一網通辦」的目標。現時，市民能透過「智方便」隨時隨地、安全快捷地使用不同網上服務處理日常生活事務，包括康體通、稅務易、積金易、申請國際駕駛許可證、申請在職家庭津貼、查閱電費、水費和煤氣帳單等。
@@ -727,6 +716,17 @@ The ""iAM Smart"" app supports iOS and Android operating systems, and mobile pho
 此外，數字辦正積極與更多金融機構商討，協助他們採用新推出的「多重身份認證」功能，於部分關鍵流程加強核實用戶身份，藉此進一步提升安全性。數字辦亦計劃於二○二六年年底為「智方便」用戶提供「AI助手」，解答查詢及提供個人化服務，進一步提升政府服務的用戶體驗。
 
 「智方便」流動應用程式支援iOS及Android作業系統和已啓用生物認證的流動電話，市民可以隨時於蘋果App Store、華為應用程式市場、Google Play或「智方便」專題網站（www.iamsmart.gov.hk/tc/download.html）免費下載最新版本使用。"
+"""iAM Smart"" registered users exceed 4 million, realising ""single portal for online government services""",2025-12-23 14:30,2025-12-23 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300274.htm,"âThe Digital Policy Office (DPO) announced today (December 23) that the ""iAM Smart"" one-stop personalised digital services platform has already accumulated over 4 million registered users.
+
+A spokesman for the DPO thanked members of the public and various sectors for their continuous support for ""iAM Smart"". With the simplified registration workflow and user-centric design, ""iAM Smart"", which has now recorded a daily usage of over 180 000, provides access to more than 1 300 online services from government, public and private organisations, as well as government e-Forms, achieving the goal of a ""single portal for online government services"". At present, members of the public can use different online services to manage daily affairs in a secure and convenient way anytime, anywhere via ""iAM Smart"", such as SmartPLAY, eTAX, eMPF, application for an International Driving Permit, application for working family allowance, and checking bills for electricity, water and gas.
+
+Meanwhile, the Mini-program Platform of ""iAM Smart"" was launched. The DPO is actively driving the integration of government mobile applications into the Mini-program Platform among bureaux/departments so that the public can access these services without the need to install various mobile applications of different government departments.
+
+The ""Personal Assistant"" page of ""iAM Smart"" has also introduced more practical functions. Users can present their ""iAM Smart"" Personal Code, which is displayed in the form of a QR code for admission to premises or visitor registration, without the need to disclose excessive personal data by utilising an identity card. The DPO will continue to promote and encourage government departments and industry stakeholders to adopt the Personal Code, with a view to bringing more convenience and benefits to the public and the business sectors. The ""Personal Assistant"" page also allows users to check the ""to-do"" items and the application status of various services, as well as view and pay the bills of the Water Supplies Department and Hongkong Post in one go.
+
+  Moreover, the DPO has been in discussions with more financial institutions to assist them in adopting the newly rolled out ""Step-up Authentication"" function to strengthen user verification in certain key processes, thereby further enhancing the security level. The DPO further plans to provide an ""AI Assistant"" by end-2026 to answer enquiries and offer personalised services for ""iAM Smart"" users, further enhancing the user experience of government services.
+
+The ""iAM Smart"" app supports iOS and Android operating systems, and mobile phones with biometric authentication activated. Members of the public can download and use the latest version of the app for free from the Apple App Store, Huawei AppGallery, and Google Play, or by visiting the ""iAM Smart"" thematic website (www.iamsmart.gov.hk/en/download.html)."
 ​運輸及物流局局長出席大嶼山充電站暨「粵車南下」資訊中心啓用禮致辭（只有中文）,2025-12-23 13:33,2025-12-23 13:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300383.htm,"以下是運輸及物流局局長陳美寶今日（十二月二十三日）上午出席大嶼山充電站暨「粵車南下」資訊中心啓用禮的致辭全文：
 
 各位香港市民、各位傳媒朋友：
@@ -780,6 +780,11 @@ New control on regulated mercury-added products to take effect on December 31,20
 相關資料已上載至環保署專題網頁（www.epd.gov.hk/epd/tc_chi/international_conventions/mercury/mco.html）。如就新修訂之《汞管制條例》有任何查詢，可致電2838 3111或電郵（enquiry@epd.gov.hk）與環保署聯絡。"
 Postal services to France subject to delays,2025-12-23 11:05,2025-12-23 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300276.htm,"âHongkong Post announced today (December 23) that, as advised by the postal administration of France, mail delivery services to France may be subject to delays due to a network incident."
 寄往法國的郵遞服務延誤,2025-12-23 11:05,2025-12-23 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300277.htm,​香港郵政今日（十二月二十三日）宣布，接獲法國郵政機關通知，因受網絡事故影響，法國的郵件派遞服務或會有所延誤。
+Labour Department to hold webinar on abolition of MPF offsetting arrangement,2025-12-23 11:00,2025-12-23 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200287.htm,"The Labour Department (LD) will hold a webinar on the abolition of Mandatory Provident Fund (MPF) offsetting arrangement at 3.30pm on January 29, 2026 (Thursday). Employers, employees and human resources practitioners are welcome to attend.
+
+The abolition of MPF offsetting arrangement took effect on May 1, 2025, to improve the retirement protection for employees. To tie in with the abolition, the LD on the same day launched the 25-year Subsidy Scheme for Abolition of MPF Offsetting Arrangement (SSA) to share out the severance payment/long service payment expenses of employers after the abolition. The key features of the abolition of MPF offsetting arrangement, the calculation of severance payment/long service payment after the abolition, and the main points of the SSA will be introduced in the briefing.
+
+The webinar will be conducted in Cantonese via Zoom, and admission is free of charge. The quotas will be allocated on a first-come, first-served basis, and the enrolment deadline is January 21, 2026 (Wednesday). The enrolment form can be downloaded from the thematic website of the abolition of MPF offsetting arrangement (www.op.labour.gov.hk/en/pdf/enrolment_form_jan26_e.pdf). For enquiries, please call 2852 3921."
 Extension of e-Appointment services to applications for warrants of distress in District Court Registry,2025-12-23 11:00,2025-12-23 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300229.htm,"The following is issued on behalf of the Judiciary:
 
 The Judiciary today (December 23) announced that the e-Appointment services will be extended to applications for warrants of distress in the District Court Registry as from next Tuesday (December30).
@@ -809,11 +814,6 @@ Note: This is not yet available for the Probate Registry (submitting application
 有關服務詳情載於網頁www.judiciary.hk/zh/court_services_facilities/es_index.html。
 
 註：有關功能尚未適用於遺產承辦處（提交附有遺囑的授予書申請）和勞資審裁處（提交申索書）。"
-Labour Department to hold webinar on abolition of MPF offsetting arrangement,2025-12-23 11:00,2025-12-23 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122200287.htm,"The Labour Department (LD) will hold a webinar on the abolition of Mandatory Provident Fund (MPF) offsetting arrangement at 3.30pm on January 29, 2026 (Thursday). Employers, employees and human resources practitioners are welcome to attend.
-
-The abolition of MPF offsetting arrangement took effect on May 1, 2025, to improve the retirement protection for employees. To tie in with the abolition, the LD on the same day launched the 25-year Subsidy Scheme for Abolition of MPF Offsetting Arrangement (SSA) to share out the severance payment/long service payment expenses of employers after the abolition. The key features of the abolition of MPF offsetting arrangement, the calculation of severance payment/long service payment after the abolition, and the main points of the SSA will be introduced in the briefing.
-
-The webinar will be conducted in Cantonese via Zoom, and admission is free of charge. The quotas will be allocated on a first-come, first-served basis, and the enrolment deadline is January 21, 2026 (Wednesday). The enrolment form can be downloaded from the thematic website of the abolition of MPF offsetting arrangement (www.op.labour.gov.hk/en/pdf/enrolment_form_jan26_e.pdf). For enquiries, please call 2852 3921."
 尋回牛頭角失蹤女子,2025-12-23 10:54,2025-12-23 11:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/23/P2025122300280.htm,"  一名在牛頭角失蹤的女子已被尋回。
 
   三十二歲女子劉蕙墡十二月十三日上午離開其位於偉業街的住所後便告失蹤，其家人十二月十六日向警方報案。
@@ -1423,25 +1423,6 @@ FSD clarifies commentary about fire service installation and equipment,2025-12-2
 國務院港澳事務辦公室分管日常工作的副主任徐啟方、中央人民政府駐香港特別行政區聯絡辦公室主任周霽、深圳市副市長羅晃浩、財政司司長陳茂波、財政司副司長黃偉綸、創新科技及工業局局長孫東教授、發展局局長甯漢豪，以及創新科技及工業局常任秘書長暨港深創新及科技園有限公司董事會主席蔡傑銘一同出席開園典禮。
 
 李家超亦參觀了河套香港園區濕實驗室大樓設施，了解其設施、環境及河套香港園區公司對企業的支援措施，並與已落戶園區的科技企業代表進行交流。"
-香港海關於機場偵破一宗入境旅客販毒案件（附圖）,2025-12-22 19:35,2025-12-22 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200699.htm,"​香港海關今日（十二月二十二日）在香港國際機場偵破一宗涉及入境旅客的販毒案件，檢獲約五公斤懷疑可卡因和拘捕一名男子。海關人員隨後在該男子的住所再檢獲三枝懷疑重力操作鋼棒和兩枝懷疑受管制氣槍，所有檢獲的物品估計市值共約四百萬元。
-
-一名二十五歲的男旅客今日從南非約翰內斯堡飛抵本港。海關人員清關時，在其寄艙行李箱的夾層中發現重約五公斤的懷疑可卡因，遂把該名男子拘捕。
-
-其後，海關人員再於該被捕男子的住所搜獲三枝懷疑重力操作鋼棒和兩枝懷疑受管制氣槍。
-
-案件仍在調查中。
-
-海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。
-
-海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，這確保有效打擊跨境販毒活動。
-
-根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
-
-根據《火器及彈藥條例》，任何人無牌管有槍械或彈藥，一經定罪，最高可被判罰款十萬元及監禁十四年。
-
-根據《武器條例》，任何人管有違禁武器，一經定罪，最高可被判罰款一萬元及監禁三年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 Hong Kong Customs detects drug trafficking case involving incoming passenger at airport (with photos),2025-12-22 19:35,2025-12-22 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200700.htm,"Hong Kong Customs detected a drug trafficking case involving an incoming passenger at Hong Kong International Airport today (December 22) and seized about 5 kilograms of suspected cocaine and arrested a man. Afterwards, Customs officers also seized three suspected gravity-operated steel batons and two suspected controlled air pistols in the man's residential premises. The total estimated market value of the seized items was about $4 million.
 
 A 25-year-old male passenger arrived in Hong Kong from Johannesburg, South Africa, today. During customs clearance, Customs officers found about 5kg of suspected cocaine concealed in the false compartments of his check-in suitcase. The man was subsequently arrested.
@@ -1461,16 +1442,35 @@ Under the Firearms and Ammunition Ordinance, any person found guilty of possessi
 Under the Weapons Ordinance, any person found guilty of possessing any prohibited weapon is liable to a maximum fine of $10,000 and imprisonment for three years.
 
 Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-波蘭、瑞典和日本部分地區禽肉及禽類產品暫停進口,2025-12-22 19:05,2025-12-22 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200503.htm,"食物環境衞生署食物安全中心（中心）今日（十二月二十二日）宣布，因應世界動物衞生組織、瑞典農業局和日本農林水產省分別通報，指波蘭濱海省Kartuzy區、羅茲省Poddębice區和瑞典Höör市爆發高致病性H5N1禽流感，以及日本岡山縣爆發高致病性H5禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
+香港海關於機場偵破一宗入境旅客販毒案件（附圖）,2025-12-22 19:35,2025-12-22 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200699.htm,"​香港海關今日（十二月二十二日）在香港國際機場偵破一宗涉及入境旅客的販毒案件，檢獲約五公斤懷疑可卡因和拘捕一名男子。海關人員隨後在該男子的住所再檢獲三枝懷疑重力操作鋼棒和兩枝懷疑受管制氣槍，所有檢獲的物品估計市值共約四百萬元。
 
-中心發言人說，根據政府統計處的資料，本港今年首九個月從波蘭進口約一千八百七十公噸冷藏禽肉、從瑞典進口約二十公噸冷藏禽肉，以及從日本進口約一千五百四十公噸冷藏禽肉及約二億一千九百七十三萬隻禽蛋。
+一名二十五歲的男旅客今日從南非約翰內斯堡飛抵本港。海關人員清關時，在其寄艙行李箱的夾層中發現重約五公斤的懷疑可卡因，遂把該名男子拘捕。
 
-發言人說：「中心已就事件聯絡波蘭、瑞典和日本當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
+其後，海關人員再於該被捕男子的住所搜獲三枝懷疑重力操作鋼棒和兩枝懷疑受管制氣槍。
+
+案件仍在調查中。
+
+海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。
+
+海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，這確保有效打擊跨境販毒活動。
+
+根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
+
+根據《火器及彈藥條例》，任何人無牌管有槍械或彈藥，一經定罪，最高可被判罰款十萬元及監禁十四年。
+
+根據《武器條例》，任何人管有違禁武器，一經定罪，最高可被判罰款一萬元及監禁三年。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 "Import of poultry meat and products from areas in Poland, Sweden and Japan suspended",2025-12-22 19:05,2025-12-22 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200506.htm,"  The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (December 22) that in view of notifications from the World Organisation for Animal Health (WOAH), the Swedish Board of Agriculture, and the Ministry of Agriculture, Forestry and Fisheries of Japan about outbreaks of highly pathogenic H5N1 avian influenza in Kartuzy District of Pomorskie Region and PoddÄbice District of Åódzkie Region in Poland, and in Municipality of Höör in Sweden; and an outbreak of highly pathogenic H5 avian influenza in Okayama Prefecture in Japan respectively, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the above-mentioned areas with immediate effect to protect public health in Hong Kong.
 
   A CFS spokesman said that according to the Census and Statistics Department, in the first nine months of this year, Hong Kong imported about 1 870 tonnes of frozen poultry meat from Poland; about 20 tonnes of frozen poultry meat from Sweden; and about 1 540 tonnes of frozen poultry meat and about 219.73 million poultry eggs from Japan.
 
   ""The CFS has contacted the Polish, Swedish and Japanese authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreaks. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
+波蘭、瑞典和日本部分地區禽肉及禽類產品暫停進口,2025-12-22 19:05,2025-12-22 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200503.htm,"食物環境衞生署食物安全中心（中心）今日（十二月二十二日）宣布，因應世界動物衞生組織、瑞典農業局和日本農林水產省分別通報，指波蘭濱海省Kartuzy區、羅茲省Poddębice區和瑞典Höör市爆發高致病性H5N1禽流感，以及日本岡山縣爆發高致病性H5禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
+
+中心發言人說，根據政府統計處的資料，本港今年首九個月從波蘭進口約一千八百七十公噸冷藏禽肉、從瑞典進口約二十公噸冷藏禽肉，以及從日本進口約一千五百四十公噸冷藏禽肉及約二億一千九百七十三萬隻禽蛋。
+
+發言人說：「中心已就事件聯絡波蘭、瑞典和日本當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
 教育局局長對凈因大和尚圓寂深表哀悼,2025-12-22 18:38,2025-12-22 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200642.htm,"​教育局局長蔡若蓮博士今日（十二月二十二日）對寶蓮禪寺董事會主席、第八代住持凈因大和尚圓寂表示深切哀悼。
 
 蔡若蓮博士說：「凈因大和尚德高望重，熱心投入教育事業，關懷廣大學子。凈因大和尚歷任香港大學佛學研究中心總監、香港能仁專上學院校董會董事、香港珠海學院佛學研究中心總監、佛教筏可紀念中學校監等，積極推動佛學及教育發展，惠澤學界與社會。他以慈悲為懷、以教育為志，深受師生及各界敬重，其精神與風範令人景仰。」
@@ -1485,11 +1485,11 @@ Members of the public may report any suspected drug trafficking activities to Cu
 事實上，《消防處通函第1/2021號》已列明，關閉消防裝置對其正常操作的影響應減至最低。承辦商應在大廈有工程進行時採用有系統的方法，將受影響的消防裝置分段關閉，並且盡快恢復其正常運作。如系統的受影響部分在工作更次的尾聲未能恢復正常操作，應把該部分孤立，讓系統其餘部分先恢復正常操作。當完成相關工作後，承辦商須在適當時間內發出相關「消防裝置及設備證書」。
 
 就上述事宜，本處早前已與香港註冊消防工程公司商會舉行會議，業界表示將全力配合，並按法例的指引執行有關措施。"
-Commissioner of Customs and Excise attends launching ceremony for trial run of Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme (with photos),2025-12-22 18:30,2025-12-22 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200556.htm,"The Commissioner of Customs and Excise, Mr Chan Tsz-tat, today (December 22) led a delegation to attend the launching ceremony for the trial run of the Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme in Qianhai, Shenzhen. Other officiating guests included member of the Standing Committee of the CPC Shenzhen Municipal Committee and Director General of the Authority of Qianhai Shenzhen-Hong Kong Modern Service Industry Co-operation Zone of Shenzhen Municipality, Mr Wang Shourui,and the Director General in the Shenzhen Customs District, Mr Zheng Jugang.
+香港海關關長出席「深港汽車快通計劃」試行計劃啓動會（附圖）,2025-12-22 18:30,2025-12-22 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200555.htm,"​香港海關關長陳子達今日（十二月二十二日）率領代表團出席在深圳前海舉行的「深港汽車快通計劃」試行計劃啓動會，其他主禮嘉賓包括深圳市委常委、深圳市前海深港現代服務業合作區管理局局長王守睿及深圳海關關長鄭巨剛等。
 
-Following the successful trial run of the Guangzhou-Hong Kong Motor Vehicle Export Facilitation Scheme since June 30 this year, Hong Kong Customs has collaborated with the Shenzhen Customs District on a similar initiative to extend the facilitation scheme for the motor vehicle industry to include the land export of electric private cars from Chinese Mainland to Hong Kong.
+自「穗港汽車出口快線」於今年六月三十日成功試行後，香港海關與深圳海關合作推出類似措施，優化內地電動私家車以陸路方式出口至香港的流程。
 
-Under the Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme, motor vehicle importers/distributors can submit advance information to Hong Kong Customs for pre-arrival notification and apply to relevant departments for a first registration tax concession on electric private cars that meet the eligibility criteria before shipping the vehicles to Hong Kong, thereby significantly enhancing overall logistical efficiency and convenience."
+在「深港汽車快通計劃」下，汽車進口者／分銷商在將有關車輛從深圳運往香港前，可預先向香港海關提交申報進口資料，並憑香港海關所發出的相關預審通知書向相關部門為合資格的電動私家車提前遞交首次登記稅寬減的申請。有關安排將大幅提升整體物流效率及便利性。"
 Strategic Committee on Commodities convenes first meeting (with photos),2025-12-22 18:30,2025-12-22 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200602.htm,"The Strategic Committee on Commodities, chaired by the Financial Secretary, Mr Paul Chan, convened its first meeting today (December 22).
 
 Mr Chan said, ""Driven by the interplay of several major trends, including the geopolitical situation, technological transformation and green transition, the global supply and demand landscape for commodities such as precious metals, non-ferrous metals, traditional energy and materials related to new energy is undergoing profound changes. As one of the world's major consumers and importers and exporters of commodities, our country is pressing ahead with high-quality development, firmly advancing towards its dual carbon goals, and stepping up investment in green industries. These developments highlight our country's strengths in building a global hub for commodity resource allocation. As an international financial, trade and shipping centre, Hong Kong enjoys the unique advantage of connecting the Mainland and the world under the 'one country, two systems' principle, with the free flow of capital, goods and information, together with its efficient financial, logistics and professional services and a well-connected transport network. Hong Kong possesses enormous potential in developing the commodities market, enabling it to serve and contribute to the development of our country and the world on this front, while creating more diversified development opportunities for itself.
@@ -1537,11 +1537,11 @@ Head of the Chief Executive's Policy Unitâ
 Government Economist
 
 Representatives from the Office for Attracting Strategic Enterprises, Invest Hong Kong, the Hong Kong Monetary Authority, the Securities and Futures Commission, the Insurance Authority, Hong Kong Exchanges and Clearing Limited, the Hong Kong Maritime and Port Development Board and the Airport Authority Hong Kong will attend the meeting as necessary."
-香港海關關長出席「深港汽車快通計劃」試行計劃啓動會（附圖）,2025-12-22 18:30,2025-12-22 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200555.htm,"​香港海關關長陳子達今日（十二月二十二日）率領代表團出席在深圳前海舉行的「深港汽車快通計劃」試行計劃啓動會，其他主禮嘉賓包括深圳市委常委、深圳市前海深港現代服務業合作區管理局局長王守睿及深圳海關關長鄭巨剛等。
+Commissioner of Customs and Excise attends launching ceremony for trial run of Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme (with photos),2025-12-22 18:30,2025-12-22 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200556.htm,"The Commissioner of Customs and Excise, Mr Chan Tsz-tat, today (December 22) led a delegation to attend the launching ceremony for the trial run of the Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme in Qianhai, Shenzhen. Other officiating guests included member of the Standing Committee of the CPC Shenzhen Municipal Committee and Director General of the Authority of Qianhai Shenzhen-Hong Kong Modern Service Industry Co-operation Zone of Shenzhen Municipality, Mr Wang Shourui,and the Director General in the Shenzhen Customs District, Mr Zheng Jugang.
 
-自「穗港汽車出口快線」於今年六月三十日成功試行後，香港海關與深圳海關合作推出類似措施，優化內地電動私家車以陸路方式出口至香港的流程。
+Following the successful trial run of the Guangzhou-Hong Kong Motor Vehicle Export Facilitation Scheme since June 30 this year, Hong Kong Customs has collaborated with the Shenzhen Customs District on a similar initiative to extend the facilitation scheme for the motor vehicle industry to include the land export of electric private cars from Chinese Mainland to Hong Kong.
 
-在「深港汽車快通計劃」下，汽車進口者／分銷商在將有關車輛從深圳運往香港前，可預先向香港海關提交申報進口資料，並憑香港海關所發出的相關預審通知書向相關部門為合資格的電動私家車提前遞交首次登記稅寬減的申請。有關安排將大幅提升整體物流效率及便利性。"
+Under the Shenzhen-Hong Kong Motor Vehicle Export Facilitation Scheme, motor vehicle importers/distributors can submit advance information to Hong Kong Customs for pre-arrival notification and apply to relevant departments for a first registration tax concession on electric private cars that meet the eligibility criteria before shipping the vehicles to Hong Kong, thereby significantly enhancing overall logistical efficiency and convenience."
 紅磡海濱活動空間的短期用途重新招標,2025-12-22 18:22,2025-12-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200622.htm,"發展局今日（十二月二十二日）公布，就前紅磡鐵路貨運碼頭（碼頭）用地發展作為海濱活動空間（位置見附件）的短期用途重新招標。招標期由即日起開始，至二○二六年一月二十二日截止。中標者未來約三年將負責發展、營運、管理和保養該活動空間並開放予訪客享用。
 
 碼頭目前為空置土地，發展局早前公布包括碼頭在內的紅磡海濱地帶的長遠發展建議，把該區打造成海濱新地標，並表示在碼頭用作長遠發展前，先於短期內把它活化為特色活動及公共空間。
@@ -1559,48 +1559,6 @@ Representatives from the Office for Attracting Strategic Enterprises, Invest Hon
 （3）除上述預警機制外，亦規定場地營運者及活動舉辦方須在開展活動前和發展局舉行三方會議，以便確立最後階段的情況和部署。
 
 是次招標採取「雙信封制」，技術建議的評分比重佔百分之七十，而價格建議佔百分之三十。技術建議的評估因素包括會否提出舉辦地標式活動或裝置、引入餐飲娛樂設施，以及開發夜間活動等。招標詳情請參閱發展局網頁（www.devb.gov.hk）。發展局會在明年一月截標後盡快完成評標工作。與此同時，政府現正在碼頭用地進行基本改善工程，完成後會把用地交予中標的場地營運者，以明年首季起分階段開放給公眾使用。"
-基孔肯雅熱最新情況,2025-12-22 18:20,2025-12-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200601.htm,"衞生署衞生防護中心（中心）表示，截至今日（十二月二十二日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。本港今年累計錄得81宗基孔肯雅熱確診個案中，11宗屬本地個案，其餘全部屬輸入個案。
-
-政府全方位跟進
-———————
-
-因應近期有多宗基孔肯雅熱本地個案的患者曾到訪青衣自然徑一帶，該處目前暫停開放，直至另行通告。鑑於中心與相關政府部門近期會在該自然徑進行大規模的化學滅蚊及其他防控工作，中心忠告市民不應擅進，以減低感染基孔肯雅熱的風險，同時避免接觸化學劑或妨礙滅蚊工作。
-
-中心繼續呼籲曾在青衣自然徑行山的人士若出現相關病徵，應盡快求醫，並致電設立的查詢熱線（電話：2125 2373）。查詢熱線的運作時間為早上九時至晚上六時。全港醫生及醫院應留意病人是否有相關病徵，並安排相關病人進行血液化驗，中心的公共衞生化驗服務處會提供免費檢測服務。
-
-針對數位患者曾到訪的青衣自然徑一帶，食物環境衞生署（食環署）持續進行密集式霧化處理以殺滅成蚊，在合適的地方使用大型超低微量噴霧器及試用滅蚊機械狗，以提升工作成效。署方亦設置新型捕蚊器、清理可引致積水的棄置容器和垃圾，以及在無法即時處理的積水地方施放蚊油或殺幼蟲劑。食環署已聯同葵青民政事務處、地政總署及渠務署在青衣自然徑加強清除潛在蚊子滋生地，並向該處行山人士派發宣傳單張，呼籲市民提防蚊患及採取個人保護措施。食環署亦舉行跨部門地區滅蚊專責小組會議，討論有關情況的最新發展，並因應需要作出部署，協調各相關部門及持份者在其管轄範圍內加強防蚊滅蚊。
-
-繼續加強防控
-——————
-
-食環署聯同相關部門自今年七月起已在全港各區全面加強控蚊工作，至今一直持續。其中，食環署已對早前所有輸入及本地個案進行病媒調查及針對性滅蚊工作。因應出現本地個案，食環署已立即採取跟進行動，包括：
-
-
-在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
-巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
-加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
-
-
-上述措施會持續進行。此外，政府會在現有強化措施的基礎上，進一步加強全港控蚊工作。
-
-市民應採取的防預措施
-——————————
-
-市民應使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
-
-
-先仔細閱讀標籤說明；
-在進入可能被蚊叮的範圍前使用；
-塗在外露皮膚及衣服；
-孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
-先塗防曬霜，再塗昆蟲驅避劑；
-遵照標籤說明，只於有需要時重複使用；及
-除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
-
-
-​​食環署亦呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置空罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
-
-市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 Update on chikungunya fever,2025-12-22 18:20,2025-12-22 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200604.htm,"The Centre for Health Protection (CHP) of the Department of Health announced that, as of 5pm today (December 22), no new cases of chikungunya fever (CF) had been recorded. Hong Kong has recorded a total of 81 confirmed CF cases this year. Among them, 11 were local cases, and the rest were imported cases.
 
 Government's comprehensive follow-up actions
@@ -1643,6 +1601,48 @@ in addition to DEET, there are other insect repellents available on the market c
 âThe FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as empty cans and lunch boxes. The FEHD also advises members of the public and property management agencies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
   The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
+基孔肯雅熱最新情況,2025-12-22 18:20,2025-12-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200601.htm,"衞生署衞生防護中心（中心）表示，截至今日（十二月二十二日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。本港今年累計錄得81宗基孔肯雅熱確診個案中，11宗屬本地個案，其餘全部屬輸入個案。
+
+政府全方位跟進
+———————
+
+因應近期有多宗基孔肯雅熱本地個案的患者曾到訪青衣自然徑一帶，該處目前暫停開放，直至另行通告。鑑於中心與相關政府部門近期會在該自然徑進行大規模的化學滅蚊及其他防控工作，中心忠告市民不應擅進，以減低感染基孔肯雅熱的風險，同時避免接觸化學劑或妨礙滅蚊工作。
+
+中心繼續呼籲曾在青衣自然徑行山的人士若出現相關病徵，應盡快求醫，並致電設立的查詢熱線（電話：2125 2373）。查詢熱線的運作時間為早上九時至晚上六時。全港醫生及醫院應留意病人是否有相關病徵，並安排相關病人進行血液化驗，中心的公共衞生化驗服務處會提供免費檢測服務。
+
+針對數位患者曾到訪的青衣自然徑一帶，食物環境衞生署（食環署）持續進行密集式霧化處理以殺滅成蚊，在合適的地方使用大型超低微量噴霧器及試用滅蚊機械狗，以提升工作成效。署方亦設置新型捕蚊器、清理可引致積水的棄置容器和垃圾，以及在無法即時處理的積水地方施放蚊油或殺幼蟲劑。食環署已聯同葵青民政事務處、地政總署及渠務署在青衣自然徑加強清除潛在蚊子滋生地，並向該處行山人士派發宣傳單張，呼籲市民提防蚊患及採取個人保護措施。食環署亦舉行跨部門地區滅蚊專責小組會議，討論有關情況的最新發展，並因應需要作出部署，協調各相關部門及持份者在其管轄範圍內加強防蚊滅蚊。
+
+繼續加強防控
+——————
+
+食環署聯同相關部門自今年七月起已在全港各區全面加強控蚊工作，至今一直持續。其中，食環署已對早前所有輸入及本地個案進行病媒調查及針對性滅蚊工作。因應出現本地個案，食環署已立即採取跟進行動，包括：
+
+
+在相關地點附近250米範圍內樹木茂密的地點進行密集式霧化處理工作，以殺滅成蚊；
+巡查上述地點，清理積水，施放殺蟲劑及清除遺棄的水載容器，以防止蚊子滋生；及
+加強宣傳教育，包括舉辦健康講座、設置流動教育中心及派發宣傳單張等。
+
+
+上述措施會持續進行。此外，政府會在現有強化措施的基礎上，進一步加強全港控蚊工作。
+
+市民應採取的防預措施
+——————————
+
+市民應使用含避蚊胺或其他有效活性成分的昆蟲驅避劑可有效防蚊，但使用時應注意以下事項：
+
+
+先仔細閱讀標籤說明；
+在進入可能被蚊叮的範圍前使用；
+塗在外露皮膚及衣服；
+孕婦使用避蚊胺的濃度上限是30%，兒童則為10%（如前往蚊傳疾病流行的國家或地區而有機會被蚊叮咬，兩個月或以上的兒童可使用濃度上限為30%的避蚊胺）；
+先塗防曬霜，再塗昆蟲驅避劑；
+遵照標籤說明，只於有需要時重複使用；及
+除了避蚊胺之外，市面上亦有含其他活性成分的昆蟲驅避劑，例如IR3535、埃卡瑞丁（亦稱派卡瑞丁）等。公眾使用任何昆蟲驅避劑時，應遵從產品標籤上的使用說明及注意事項。
+
+
+​​食環署亦呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置空罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
+
+市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。"
 冬日假期將至　衞生署提醒市民歡度節日仍需防範傳染病,2025-12-22 18:15,2025-12-22 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202512/22/P2025122200600.htm,"​聖誕及新年假期將至，衞生署衞生防護中心（中心）今日（十二月二十二日）提醒市民，不論是留港或到外地歡度節日亦要時刻注意個人、食物及環境衞生，並及早接種季節性流感疫苗，以預防各種在冬季較常見或與旅遊相關的傳染病。
 
 季節性流感及其他呼吸道疾病
