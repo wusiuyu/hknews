@@ -1,4 +1,8 @@
 title,date,summary,scrape_time,section,source,url,news_content
+台股今年首個交易日高收逾1%,2026-01-02 13:48,,2026-01-02 14:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838367-20260102.htm,台灣股市今年首個交易日高收逾1%，加權指數收市報29349點，升386點，升幅1.33%。
+恒指升幅擴大至逾600點,2026-01-02 13:45,,2026-01-02 14:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838366-20260102.htm,"恒生指數升幅擴大至逾600點，較早時報26268點，升637點，升幅2.49%。
+
+科技指數報5727點，升211點，升幅3.83%。"
 HK chills as first cold warning issued in January,2026-01-02 13:35,,2026-01-02 13:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1838363-20260102.htm,"Temperatures fell noticeably on Friday, with morning lows down to 12 degrees or below  across various districts — about four to five degrees lower than on Thursday.
 
 The Cold Weather Warning, issued on Thursday afternoon, remains in force.
@@ -147,6 +151,19 @@ Looking ahead, he expects more visitors, particularly business travellers, to co
 Chan also said that the Kai Tak Cruise Terminal, which is currently undergoing an open tender for a new operator and manager, would also help bring in more high-end tourists.
 
 Both business and high-end overnight visitors, he pointed out, are crucial to boosting spending in Hong Kong."
+Slight dip in A&E attendance after fee increase: HA,2026-01-02 11:23,,2026-01-02 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1838339-20260102.htm,"The Hospital Authority said on Friday there was a slight drop in the number of patients seeking treatment at accident and emergency departments after fees increased from New Year's Day, but more time is needed to assess the impact on services.
+
+The new charges saw A&E fees for urgent, semi-urgent, and non-urgent cases rising from HK$180 to HK$400, though there is no charge for patients triaged as critical or emergency.
+
+Chief Manager Dr Larry Lee said that about 3,800 patients were seen at accident and emergency departments after the new fee came into effect, with waiting times staying at about 70 to 80 minutes.
+
+However, he said that it is too early to analyse the figures as they are based on only one day.
+
+""I think there isn’t a conclusion yet. Traditionally, the number of patients seeking treatment in A&E during public holidays isn’t as high as it is after the holidays. So whether the number of patients seeking treatment will continue to decline, it’s still too early to tell,"" he said. 
+
+He noted that additional staff have been deployed to explain the fee changes to patients. 
+
+He said in the coming days, operations will continue to be closely monitored to ensure that services at public hospitals remain smooth after the New Year holiday ends."
 A&E attendance dips after fee increase: HA,2026-01-02 11:23,,2026-01-02 12:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1838339-20260102.htm,"The Hospital Authority said on Friday there was a slight drop in the number of patients seeking treatment at accident and emergency departments after fees increased from New Year's Day, but more time is needed to assess the impact on services.
 
 The new charges saw A&E fees for urgent, semi-urgent, and non-urgent cases rising from HK$180 to HK$400, though there is no charge for patients triaged as critical or emergency.
@@ -165,19 +182,6 @@ He said in the coming days, operations will continue to be closely monitored to 
 市場估值最高22.3億元，平均每平方呎樓面地價6000元，有測量師因應近期賣地成績理想而上調估值。
 
 今幅地皮估計可建樓面面積37.1萬平方呎，其中住宅最高可建面積30.9萬平方呎，另需提供嚴重智障人士宿舍和活動中心。項目需於2031年9月或之前完成。"
-Slight dip in A&E attendance after fee increase: HA,2026-01-02 11:23,,2026-01-02 11:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1838339-20260102.htm,"The Hospital Authority said on Friday there was a slight drop in the number of patients seeking treatment at accident and emergency departments after fees increased from New Year's Day, but more time is needed to assess the impact on services.
-
-The new charges saw A&E fees for urgent, semi-urgent, and non-urgent cases rising from HK$180 to HK$400, though there is no charge for patients triaged as critical or emergency.
-
-Chief Manager Dr Larry Lee said that about 3,800 patients were seen at accident and emergency departments after the new fee came into effect, with waiting times staying at about 70 to 80 minutes.
-
-However, he said that it is too early to analyse the figures as they are based on only one day.
-
-""I think there isn’t a conclusion yet. Traditionally, the number of patients seeking treatment in A&E during public holidays isn’t as high as it is after the holidays. So whether the number of patients seeking treatment will continue to decline, it’s still too early to tell,"" he said. 
-
-He noted that additional staff have been deployed to explain the fee changes to patients. 
-
-He said in the coming days, operations will continue to be closely monitored to ensure that services at public hospitals remain smooth after the New Year holiday ends."
 Bright start for HK stocks on first day of new year,2026-01-02 11:13,,2026-01-02 11:30,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1838335-20260102.htm,"Stocks began 2026 on a positive note in holiday-thinned trade as investors braced for a year set to test the AI-led rally, usher in a change of guard at the Federal Reserve and potentially more market turbulence under Donald Trump's presidency.
 
 In Hong Kong, the Hang Seng Index gained 86 points, or 0.34 percent, to open the first trading day of the new year at 25,717.
@@ -646,15 +650,6 @@ Yet another driver said he believed the fine for illegal parking had been set to
 本身是政府發展旅遊熱點工作組組長的卓永興表示，今次的展覽是去年公布的9個旅遊熱點之一，希望將香港的電影文化和旅遊結合，豐富文化和旅遊體驗，帶動本港經濟。他說，雖然展覽佔地不算大，但內容很豐富，讓訪客沉浸式重溫經典警匪片的精華片段和名場面，又預告日後範圍或會擴充。
 
 展覽由舊式戲院入口為起點，訪客穿過電影時光隧道，進入眾多於警匪電影出現的場景，如認人室、槍房、監控室和羈留室。展區亦融入多媒體展示、燈光設計及互動體驗裝置及 AI 照相亭等，公眾可以體驗成為電影角色，同時於多個打卡位留影。"
-港澳辦署名文章稱過去一年港澳行政長官和政府帶領各界迎難而上,2026-01-01 15:42,,2026-01-01 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838270-20260101.htm,"中央港澳辦、國務院港澳辦發表署名「港澳平」，題為《不負期許創佳績 乘勢而上再揚帆》的文章，指在國家主席習近平的領航掌舵下，香港、澳門特區不負期許、團結奮進，過去一年港澳特區行政長官和政府帶領社會各界迎難而上、砥礪前行，堅定維護國家主權、安全、發展利益，全面落實「愛國者治港」、「愛國者治澳」原則，著力提升治理效能，全力拼經濟、謀發展、促改革、惠民生，更加主動融入國家發展大局，不斷提升國際競爭力。
-
-文章說，香港經濟展現強勁韌性與活力，北部都會區建設快馬加鞭；港澳民生改善成效顯著，交出靚麗成績單；香港第八屆立法會選舉和澳門第八屆立法會選舉取得圓滿成功；港澳維護國家安全堅定有力，危害國家安全犯罪分子受到嚴懲。
-
-文章指出，香港有力有效應對處置重大火災事故，眾志成城、克難前行。去年11月突如其來的大埔火災為香港造成嚴重創傷，國家主席習近平高度重視，香港特區政府快速反應，全力以赴、高效專業開展抗災救災工作；香港社會各界亦同舟共濟、守望相助，中央有關部門、全國各地緊急馳援，全力提供協助，目前受災居民全部得到妥善安置，各項善後工作加緊有序推進，展現血濃於水的同胞深情。
-
-文章提到，2025年的不凡歷程值得深刻銘記，今年的嶄新希望激勵奮楫揚帆，中共二十屆四中全會對「十五五」時期國家經濟社會發展作出頂層設計和戰略擘畫，強調要堅定不移貫徹「一國兩制」、「港人治港」、「澳人治澳」、高度自治的方針，促進香港、澳門長期繁榮穩定。
-
-文章強調，「十五五」規劃的制定實施，將為港澳發展帶來重大機遇，相信新一年，在中央政府和國家內地的全力支持下，香港、澳門特區政府必將團結帶領社會各界主動對接「十五五」規劃，充分發揮港澳獨特優勢和重要作用，更好融入和服務國家發展大局。"
 瑞士阿爾卑斯山區滑雪勝地發生酒吧大火　據報至少十死十傷,2026-01-01 15:42,,2026-01-01 16:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838271-20260101.htm,"瑞士警方表示，位於瑞士阿爾卑斯山區滑雪勝地克萊恩蒙塔納一間酒吧起火，起火原因不明，造成多人死亡，多人受傷。
 
 英國天空新聞說，至少十人死亡和十人受傷。
@@ -664,6 +659,15 @@ Yet another driver said he believed the fine for illegal parking had been set to
 英國廣播公司報道，爆炸發生在當地星期四凌晨約一時半。社交平台流傳未經證實的影片，看到一間酒吧內起火，當時酒吧正在進行新年慶祝活動。
 
 克萊恩蒙塔納是位於瑞士阿爾卑斯山脈的一座豪華滑雪度假小鎮，距離瑞士首都伯恩約兩小時車程。"
+港澳辦署名文章稱過去一年港澳行政長官和政府帶領各界迎難而上,2026-01-01 15:42,,2026-01-01 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838270-20260101.htm,"中央港澳辦、國務院港澳辦發表署名「港澳平」，題為《不負期許創佳績 乘勢而上再揚帆》的文章，指在國家主席習近平的領航掌舵下，香港、澳門特區不負期許、團結奮進，過去一年港澳特區行政長官和政府帶領社會各界迎難而上、砥礪前行，堅定維護國家主權、安全、發展利益，全面落實「愛國者治港」、「愛國者治澳」原則，著力提升治理效能，全力拼經濟、謀發展、促改革、惠民生，更加主動融入國家發展大局，不斷提升國際競爭力。
+
+文章說，香港經濟展現強勁韌性與活力，北部都會區建設快馬加鞭；港澳民生改善成效顯著，交出靚麗成績單；香港第八屆立法會選舉和澳門第八屆立法會選舉取得圓滿成功；港澳維護國家安全堅定有力，危害國家安全犯罪分子受到嚴懲。
+
+文章指出，香港有力有效應對處置重大火災事故，眾志成城、克難前行。去年11月突如其來的大埔火災為香港造成嚴重創傷，國家主席習近平高度重視，香港特區政府快速反應，全力以赴、高效專業開展抗災救災工作；香港社會各界亦同舟共濟、守望相助，中央有關部門、全國各地緊急馳援，全力提供協助，目前受災居民全部得到妥善安置，各項善後工作加緊有序推進，展現血濃於水的同胞深情。
+
+文章提到，2025年的不凡歷程值得深刻銘記，今年的嶄新希望激勵奮楫揚帆，中共二十屆四中全會對「十五五」時期國家經濟社會發展作出頂層設計和戰略擘畫，強調要堅定不移貫徹「一國兩制」、「港人治港」、「澳人治澳」、高度自治的方針，促進香港、澳門長期繁榮穩定。
+
+文章強調，「十五五」規劃的制定實施，將為港澳發展帶來重大機遇，相信新一年，在中央政府和國家內地的全力支持下，香港、澳門特區政府必將團結帶領社會各界主動對接「十五五」規劃，充分發揮港澳獨特優勢和重要作用，更好融入和服務國家發展大局。"
 違例泊車定額罰款增至400元　有司機稱罰款額具阻嚇作用,2026-01-01 15:36,,2026-01-01 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838269-20260101.htm,"違例泊車定額罰款額今日起由320元調高至400元。在尖沙咀，現場所見，有車輛一度違泊上落貨，亦曾經有車輛違例停泊禁區。
 
 有泊在政府停車收費錶、即俗稱「咪錶」的私家車司機認為，提高罰款額具阻嚇作用，他不敢違泊，會選擇在政府「咪錶」或商場泊車。他說，今日公眾假期，在旺角找不到錶位，但認為自政府「咪錶」加價後，已相對容易找到錶位。
@@ -710,14 +714,14 @@ Yet another driver said he believed the fine for illegal parking had been set to
 陳國基在社交網站說，新一屆立法會選舉產生後，政府已與不少候任議員進行了形式多樣的交流，聽到許多貼地且具有建設性的意見。他深切感受到各位議員對香港的熱誠與擔當，大家都展現出務實有為、創新進取的良好姿態，行政立法良性互動的基礎非常扎實。
 
 他和團隊未來會繼續以開放、誠懇的態度，與立法會保持緊密溝通和高效合作。政府將在政策醞釀階段便積極聽取意見，讓施政更符合實際，更貼近民意；在法案審議過程中坦誠交流、充分研商，完善各項立法建議；在政策落實時加強協作，確保促發展、惠民生措施能夠有效推行。"
-瑞士阿爾卑斯山區滑雪勝地一間酒吧爆炸據報造成死傷,2026-01-01 14:38,,2026-01-01 14:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838261-20260101.htm,"瑞士阿爾卑斯山區的滑雪勝地一間酒吧發生爆炸，據報造成數人死傷。
+瑞士阿爾卑斯山滑雪勝地一間酒吧爆炸據報造成死傷,2026-01-01 14:38,,2026-01-01 15:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838261-20260101.htm,"瑞士阿爾卑斯山一個滑雪勝地有酒吧發生爆炸，據報造成數人死傷。
 
 英國廣播公司報道，爆炸發生在當地星期四凌晨約一時半，酒吧位於克萊恩蒙塔納鎮。
 
 社交平台流傳未經證實的影片，看到一間酒吧內起火，當時酒吧正在進行新年慶祝活動。
 
 克萊恩蒙塔納是位於瑞士阿爾卑斯山脈的一座豪華滑雪度假小鎮，距離瑞士首都伯恩約兩小時車程。"
-瑞士阿爾卑斯山滑雪勝地一間酒吧爆炸據報造成死傷,2026-01-01 14:38,,2026-01-01 15:00,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838261-20260101.htm,"瑞士阿爾卑斯山一個滑雪勝地有酒吧發生爆炸，據報造成數人死傷。
+瑞士阿爾卑斯山區滑雪勝地一間酒吧爆炸據報造成死傷,2026-01-01 14:38,,2026-01-01 14:45,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1838261-20260101.htm,"瑞士阿爾卑斯山區的滑雪勝地一間酒吧發生爆炸，據報造成數人死傷。
 
 英國廣播公司報道，爆炸發生在當地星期四凌晨約一時半，酒吧位於克萊恩蒙塔納鎮。
 
