@@ -1,4 +1,20 @@
 title,date,scrape_time,section,source,url,news_content
+深水灣泳灘紅旗除下,2026-01-13 09:47,2026-01-13 10:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/13/P2026011300200.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出以下特別報告，並在適當時間重複廣播：
+
+游泳人士請注意：康樂及文化事務署今日（一月十三日）宣布，港島南區深水灣泳灘的水質現已適宜游泳，該泳灘懸掛的紅旗已經除下。
+
+該泳灘較早前因發現紅潮而懸掛紅旗。"
+Red flag lowered at Deep Water Bay Beach,2026-01-13 09:47,2026-01-13 10:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/13/P2026011300201.htm,"Attention TV/radio announcers:
+
+Please broadcast the following as soon as possible and repeat it at regular intervals:
+
+Here is an item of interest to swimmers.
+
+The Leisure and Cultural Services Department announced today (January 13) that since the water of Deep Water Bay Beach in Southern District, Hong Kong Island, is now suitable for swimming, the red flag has been lowered.
+
+The red flag was hoisted at the beach earlier after a red tide was found."
 紅色火災危險警告,2026-01-13 06:03,2026-01-13 06:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/13/P2026011300098.htm,"電台、電視台當值宣布員注意：
 
 為大眾安全起見，請播放下列警告：
@@ -11,21 +27,6 @@ title,date,scrape_time,section,source,url,news_content
 Red fire danger warning,2026-01-13 06:03,2026-01-13 06:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/13/P2026011300101.htm,"Attention duty announcers, radio and TV stations:
 
 The fire danger situation today (January 13) is red and fire risk is extreme. The countryside is extremely vulnerable to fire. If you are planning to spend the day in the countryside, please take pre-cooked food for a picnic and take all measures to prevent hill fires. The penalty for lighting fires illegally in the countryside is $25,000 and a year's imprisonment."
-Labour Department highly concerned about fatal work accident that happened in Kai Tak today,2026-01-12 23:58,2026-01-13 00:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200885.htm,"  The Labour Department (LD) is highly concerned about a fatal work accident that happened at a construction site in Kai Tak this afternoon (January 12). While a male worker was detaching the lifting gear connected to the top of a water tank, the water tank displaced suddenly, trapping the worker between the water tank and a bored pile casing nearby. He was certified dead later in hospital. The LD is saddened by the death of the worker and expresses its deepest sympathy to his family.
-
- The LD's spokesman said, ""We commenced an immediate on-site investigation as soon as we were notified of the accident and have issued suspension notices to the contractors concerned, suspending the use of mobile cranes for lifting operation at site concerned. The contractors cannot resume the work process until the LD is satisfied that suitable measures to abate the relevant risks have been taken.""
-
- The spokesman added, ""We will complete the investigation as soon as possible to identify the cause of the accident, ascertain the liability of the duty holders and recommend improvement measures. We will take actions pursuant to the law if there is any violation of the work safety legislation.""
-
- To prevent workers from being struck or trapped by loads when engaged in unrigging process, the LD reminds employers to (i) ensure that the place supporting the loads is secure; and (ii) formulate proper unrigging methods for detaching lifting gear so as to prevent displacement of the objects in the course of unrigging operations.
-
- The general duty provisions of the Occupational Safety and Health Ordinance require employers to provide safe working environments, plant and systems of work for their employees. Those who contravene the relevant provisions are liable to a maximum fine of $10 million and imprisonment for two years.
-
- In regard to today's accident, the LD will issue a Work Safety Alert through its mobile application ""OSH 2.0"", website and email, giving a brief account of the accident concerned to duty holders, workers' unions, professional bodies of safety practitioners and others, and reminding the industry of the importance of following safety precautionary measures to prevent a recurrence of similar accidents.
-
- The LD will also remind the employer concerned of the liability for employees' compensation under the Employees' Compensation Ordinance, assist family members of the deceased to claim employees' compensation and closely follow up on the case. For those with financial difficulties, the LD will assist them to apply for appropriate emergency funds. Subject to the needs and wishes of family members of the deceased, the LD will also liaise with the Social Welfare Department for financial or other assistance.
-
- For the sake of securing the safety and health of employees at work, the LD appeals to employers to provide plant and systems of work that are safe and without risks to health. Employees should co-operate with their employers, adopt all safety measures and use personal protective equipment provided properly to avoid endangering their own work safety and that of other workers."
 勞工處高度關注今日在啟德發生的致命工作意外,2026-01-12 23:58,2026-01-13 00:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200884.htm,"勞工處高度關注今日（一月十二日）下午在啟德一個建築地盤發生的致命工作意外。意外中一名男工在協助解除水缸頂索具期間，水缸突然移位，工人被夾於水缸與附近的鑽孔樁套管之間，送院後證實不治。對於在意外中有工友身故，勞工處十分難過，並對其家屬致以深切慰問。
 
 勞工處發言人說：「在得知意外發生後，本處已即時派員到意外現場展開調查。我們已向有關承建商發出『暫時停工通知書』，停止其在該地盤內使用流動式起重機進行吊運工作，直至我們信納有關承建商已採取措施消除有關危害，才可復工。」
@@ -41,15 +42,21 @@ Labour Department highly concerned about fatal work accident that happened in Ka
 勞工處會敦促有關僱主必須履行《僱員補償條例》的補償責任，亦會協助死者家屬辦理工傷補償事宜，及密切跟進有關個案。對於有經濟困難的家庭，勞工處會協助他們申請合適的緊急援助基金。勞工處亦會因應家屬的需要及意願，就經濟或其他方面的援助聯絡社會福利署。
 
 為了保障所有在工作中的僱員的安全及健康，勞工處呼籲僱主必須提供安全和不會危害健康的作業裝置及工作系統。僱員亦須與其僱主合作，遵守所有安全措施及適當使用所提供的個人防護裝備，避免危害自己及他人的工作安全。"
-Fatal traffic accident in Sham Shui Po,2026-01-12 23:37,2026-01-12 23:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200879.htm,"Police are investigating a fatal traffic accident in Sham Shui Po tonight (January 12), in which a man died.
+Labour Department highly concerned about fatal work accident that happened in Kai Tak today,2026-01-12 23:58,2026-01-13 00:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200885.htm,"  The Labour Department (LD) is highly concerned about a fatal work accident that happened at a construction site in Kai Tak this afternoon (January 12). While a male worker was detaching the lifting gear connected to the top of a water tank, the water tank displaced suddenly, trapping the worker between the water tank and a bored pile casing nearby. He was certified dead later in hospital. The LD is saddened by the death of the worker and expresses its deepest sympathy to his family.
 
-At about 8.01pm, a 48-year-old man reportedly collapsed while driving a private car along Pei Ho Street towards Yu Chau Street. The private car suspectedly went out of control and crashed into an iron railing near the junction of Pei Ho Street and Yu Chau Street.
+ The LD's spokesman said, ""We commenced an immediate on-site investigation as soon as we were notified of the accident and have issued suspension notices to the contractors concerned, suspending the use of mobile cranes for lifting operation at site concerned. The contractors cannot resume the work process until the LD is satisfied that suitable measures to abate the relevant risks have been taken.""
 
-The man was trapped inside the vehicle and was rescued by firemen. Sustaining no superficial injury, the man was rushed to Caritas Medical Centre in unconscious state and was certified dead at 8.52pm.
+ The spokesman added, ""We will complete the investigation as soon as possible to identify the cause of the accident, ascertain the liability of the duty holders and recommend improvement measures. We will take actions pursuant to the law if there is any violation of the work safety legislation.""
 
-Investigation by the Special Investigation Team of Traffic, Kowloon West is underway.
- 
-Anyone who witnessed the accident or has any information to offer is urged to contact the investigating officers on 3661 9023 or 3661 9000."
+ To prevent workers from being struck or trapped by loads when engaged in unrigging process, the LD reminds employers to (i) ensure that the place supporting the loads is secure; and (ii) formulate proper unrigging methods for detaching lifting gear so as to prevent displacement of the objects in the course of unrigging operations.
+
+ The general duty provisions of the Occupational Safety and Health Ordinance require employers to provide safe working environments, plant and systems of work for their employees. Those who contravene the relevant provisions are liable to a maximum fine of $10 million and imprisonment for two years.
+
+ In regard to today's accident, the LD will issue a Work Safety Alert through its mobile application ""OSH 2.0"", website and email, giving a brief account of the accident concerned to duty holders, workers' unions, professional bodies of safety practitioners and others, and reminding the industry of the importance of following safety precautionary measures to prevent a recurrence of similar accidents.
+
+ The LD will also remind the employer concerned of the liability for employees' compensation under the Employees' Compensation Ordinance, assist family members of the deceased to claim employees' compensation and closely follow up on the case. For those with financial difficulties, the LD will assist them to apply for appropriate emergency funds. Subject to the needs and wishes of family members of the deceased, the LD will also liaise with the Social Welfare Department for financial or other assistance.
+
+ For the sake of securing the safety and health of employees at work, the LD appeals to employers to provide plant and systems of work that are safe and without risks to health. Employees should co-operate with their employers, adopt all safety measures and use personal protective equipment provided properly to avoid endangering their own work safety and that of other workers."
 深水埗致命交通意外,2026-01-12 23:37,2026-01-12 23:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200880.htm,"警方正調查今日（一月十二日）晚上在深水埗發生的致命交通意外，意外中一名男子死亡。
 
 晚上約八時零一分，一名四十八歲男子駕駛一輛私家車沿北河街往汝州街方向行駛期間據報突然暈倒，該輛私家車懷疑失控撞向北河街與汝州街交界附近一鐵欄。
@@ -59,6 +66,15 @@ Anyone who witnessed the accident or has any information to offer is urged to co
 西九龍總區交通部特別調查隊正跟進調查案件。
 
 任何人如目睹意外發生或有資料提供，請致電三六六一九○二三或三六六一九○○○與調查人員聯絡。"
+Fatal traffic accident in Sham Shui Po,2026-01-12 23:37,2026-01-12 23:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200879.htm,"Police are investigating a fatal traffic accident in Sham Shui Po tonight (January 12), in which a man died.
+
+At about 8.01pm, a 48-year-old man reportedly collapsed while driving a private car along Pei Ho Street towards Yu Chau Street. The private car suspectedly went out of control and crashed into an iron railing near the junction of Pei Ho Street and Yu Chau Street.
+
+The man was trapped inside the vehicle and was rescued by firemen. Sustaining no superficial injury, the man was rushed to Caritas Medical Centre in unconscious state and was certified dead at 8.52pm.
+
+Investigation by the Special Investigation Team of Traffic, Kowloon West is underway.
+ 
+Anyone who witnessed the accident or has any information to offer is urged to contact the investigating officers on 3661 9023 or 3661 9000."
 有關諮詢及法定組織任命的通知,2026-01-12 20:29,2026-01-12 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200730.htm,"​政府發言人今日（一月十二日）表示，陳健波議員日前向行政長官提出，為騰出更多時間投入就大埔宏福苑火災成立的獨立委員會（獨立委員會）的工作，請求暫停三項由行政長官委任的公職，直至獨立委員會的工作完成。行政長官經考慮後同意並批准。該三項公職分別為：（1）廉政公署貪污問題諮詢委員會主席；（2）市區重建局董事會非執行董事；及（3）授勳及非官守太平紳士遴選委員會成員。
 
 政府在二○二五年十二月十二日成立獨立委員會，審視事故原因及相關問題，查明事實真相，並為防範事故再發生和就改善措施作出建議。獨立委員會由陸啟康法官擔任主席，陳健波議員及歐陽伯權博士為委員。獨立委員會已於去年十二月十九日舉行首次會議，將在九個月內完成工作。
@@ -73,15 +89,6 @@ On December 12, 2025, the Government established the Independent Committee to ex
 Mr Chan Kin-por wrote earlier to the Chief Executive, expressing his wish to suspend the aforementioned three public positions until the Independent Committee completes its work, in order to dedicate more time and focus to the Independent Committee's tasks. The Chief Executive has agreed to and approved the request.
 
 A Government spokesperson said that since the fire at Wang Fuk Court in Tai Po, both the Government and the wider community have been highly concerned about the causes of the incident and the follow-up work. The scope of the Independent Committee's work is extensive, particularly concerning systemic issues related to bid-rigging and connected interests. Given the numerous issues involved and their complex nature, the Government will fully co-operate with the Independent Committee to ensure that it can complete its work and compile its report within nine months. The Government extends its gratitude to Mr Chan for accepting the appointment as a member of the Independent Committee and for his professional and conscientious approach to the Committee's work. When the Independent Committee's work is completed, the Government looks forward to Mr Chan's continuous contribution through his aforementioned public positions."
-民航處舉行搜索及救援演練加強協作及應變能力（附圖）,2026-01-12 19:00,2026-01-12 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200611.htm,"民航處今日（一月十二日）在大嶼山芝麻灣半島望東灣附近海域舉行的聯合短程航空事故搜救演練順利完成。
-
-是次演練有八個政府部門及一個搜救單位參與，分別為民航處、政府飛行服務隊、警務處、消防處、海事處、民眾安全服務隊、醫療輔助隊和香港天文台，以及中國人民解放軍駐香港部隊（駐港部隊）。
-
-今日的演練模擬一架直升機於大嶼山望東灣附近海域失事墜海。在駐港部隊、政府飛行服務隊、警務處及消防處派出的直升機和船隻通力合作下，機上三人全部獲救。演練歷時一小時，共動員約一百人。
-
-民航處發言人說：「民航處按照國際民用航空組織的建議，定期籌辦航空事故搜救演練，加強有關搜救單位進行搜救行動時的合作和協調，促進技術交流，以確保一旦遇上緊急事故時，能夠作出迅速及有效的應對。」
-
-是次航空事故搜救演練分為兩部分，包括今日在大嶼山望東灣附近海域進行的短程搜救演練和明日（一月十三日）在香港以南約五十海里的南中國海進行的長程搜救演練。整個長程搜救演練預計歷時約三小時，屆時民航處將聯同政府飛行服務隊、海事處、駐港部隊、中國交通運輸部南海救助局，以及廣東省海上搜救中心，出動定翼機、直升機及船艦進行搜救。"
 CAD search and rescue exercise strengthens collaboration and responsiveness (with photos),2026-01-12 19:00,2026-01-12 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200612.htm,"The Civil Aviation Department (CAD) successfully completed a joint short-range Aeronautical Search and Rescue exercise today (January 12) in the waters near Mong Tung Wan on the Chi Ma Wan Peninsula, Lantau Island.
 
 The exercise involved eight government departments and one search and rescue unit, namely CAD, the Government Flying Service (GFS), the Hong Kong Police Force (HKPF), the Fire Services Department (FSD), the Marine Department (MD), the Civil Aid Service, the Auxiliary Medical Service and the Hong Kong Observatory (HKO), and the Hong Kong Garrison of the Chinese People's Liberation Army (Garrison) respectively.
@@ -91,6 +98,15 @@ Today's exercise simulated a helicopter crashing into the sea near Mong Tung Wan
 A spokesperson for the Civil Aviation Department said, ""In accordance with the recommendations of the International Civil Aviation Organization, CAD regularly organises Aeronautical Search and Rescue exercises to strengthen co-operation and co-ordination among relevant search and rescue units and promote technical exchanges. This is to ensure a rapid and effective response in the event of an emergency.""
 
 This Aeronautical Search and Rescue exercise is divided into two parts: a short-range search and rescue exercise conducted today in the waters near Mong Tung Wan on Lantau Island; and a long-range search and rescue exercise to be conducted tomorrow (January 13) in the South China Sea, approximately 50 nautical miles south of Hong Kong. CAD, together with the GFS, the MD, the Garrison, the Nanhai Rescue Bureau of the Ministry of Transport of the People's Republic of China, and the Guangdong Maritime Rescue Coordination Centre, will jointly deploy fixed-wing aircraft, helicopters and ships to conduct the search and rescue tasks. The entire long-range exercise is expected to be completed in around three hours."
+民航處舉行搜索及救援演練加強協作及應變能力（附圖）,2026-01-12 19:00,2026-01-12 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200611.htm,"民航處今日（一月十二日）在大嶼山芝麻灣半島望東灣附近海域舉行的聯合短程航空事故搜救演練順利完成。
+
+是次演練有八個政府部門及一個搜救單位參與，分別為民航處、政府飛行服務隊、警務處、消防處、海事處、民眾安全服務隊、醫療輔助隊和香港天文台，以及中國人民解放軍駐香港部隊（駐港部隊）。
+
+今日的演練模擬一架直升機於大嶼山望東灣附近海域失事墜海。在駐港部隊、政府飛行服務隊、警務處及消防處派出的直升機和船隻通力合作下，機上三人全部獲救。演練歷時一小時，共動員約一百人。
+
+民航處發言人說：「民航處按照國際民用航空組織的建議，定期籌辦航空事故搜救演練，加強有關搜救單位進行搜救行動時的合作和協調，促進技術交流，以確保一旦遇上緊急事故時，能夠作出迅速及有效的應對。」
+
+是次航空事故搜救演練分為兩部分，包括今日在大嶼山望東灣附近海域進行的短程搜救演練和明日（一月十三日）在香港以南約五十海里的南中國海進行的長程搜救演練。整個長程搜救演練預計歷時約三小時，屆時民航處將聯同政府飛行服務隊、海事處、駐港部隊、中國交通運輸部南海救助局，以及廣東省海上搜救中心，出動定翼機、直升機及船艦進行搜救。"
 日本和波蘭部分地區禽肉及禽類產品暫停進口,2026-01-12 18:55,2026-01-12 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200504.htm,"​食物環境衞生署食物安全中心（中心）今日（一月十二日）宣布，因應日本農林水產省和世界動物衞生組織分別通報，指日本香川縣爆發高致病性H5禽流感，以及波蘭大波蘭省奧斯特魯夫區爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
 中心發言人說，根據政府統計處的資料，本港去年首九個月從日本進口約一千五百四十公噸冷藏禽肉及約二億一千九百七十三萬隻禽蛋，以及從波蘭進口約一千八百七十公噸冷藏禽肉。
@@ -101,46 +117,6 @@ Import of poultry meat and products from areas in Japan and Poland suspended,202
 A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 1 540 tonnes of frozen poultry meat and about 219.73 million poultry eggs from Japan, and about 1 870 tonnes of frozen poultry meat from Poland in the first nine months of last year.
 
 ""The CFS has contacted the Japanese and Polish authorities over the issues and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreaks. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
-Scam alert related to banks,2026-01-12 18:20,2026-01-12 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200629.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
-
-
-
-
-Bank
-Type of scam
-
-
-The Bank of East Asia, Limited
-Fraudulent websites and internet banking login screens
-
-
-Shanghai Commercial Bank Limited
-Fraudulent website and internet banking login screen
-
-
-Chong Hing Bank Limited
-Fraudulent website and internet banking login screen
-
-
-Chiyu Banking Corporation Limited
-Fraudulent websites and internet banking login screens
-
-
-The Hongkong and Shanghai Banking Corporation Limited
-Fraudulent website and internet banking login screen
-
-
-DBS Bank (Hong Kong) Limited
-Fraudulent website
-
-
-
-
-The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
-
-Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 與銀行有關的騙案通知,2026-01-12 18:20,2026-01-12 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200630.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -181,6 +157,46 @@ Anyone who has provided his or her personal information, or who has conducted an
 金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
 
 任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
+Scam alert related to banks,2026-01-12 18:20,2026-01-12 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200629.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+
+
+
+
+Bank
+Type of scam
+
+
+The Bank of East Asia, Limited
+Fraudulent websites and internet banking login screens
+
+
+Shanghai Commercial Bank Limited
+Fraudulent website and internet banking login screen
+
+
+Chong Hing Bank Limited
+Fraudulent website and internet banking login screen
+
+
+Chiyu Banking Corporation Limited
+Fraudulent websites and internet banking login screens
+
+
+The Hongkong and Shanghai Banking Corporation Limited
+Fraudulent website and internet banking login screen
+
+
+DBS Bank (Hong Kong) Limited
+Fraudulent website
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 立法會內務委員會和財務委員會選出主席及副主席,2026-01-12 17:42,2026-01-12 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200607.htm,"下稿代立法會秘書處發出：
 
 二○二六年會期立法會內務委員會（內會）和財務委員會（財委會）正副主席職位的提名期已於今日（一月十二日）下午五時結束。
@@ -294,12 +310,12 @@ in addition to DEET, there are other insect repellents available on the market c
 ​The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as empty cans and lunch boxes. The FEHD also advises members of the public and property management agencies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
 ​The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
-勞工處調查啟德致命工作意外,2026-01-12 17:20,2026-01-12 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200596.htm,"勞工處現正調查今日（一月十二日）下午在啟德發生的一宗致命工作意外，意外中一名男子死亡。
-
-勞工處接報後已即時派員到現場，現正就意外原因展開調查。"
 Labour Department investigates fatal work accident in Kai Tak,2026-01-12 17:20,2026-01-12 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200599.htm,"The Labour Department (LD) is investigating a fatal work accident that happened in Kai Tak this afternoon (January 12) in which a man died.
 
 The LD immediately deployed staff to the scene upon receiving a report of the accident, and is now conducting an investigation to look into its cause."
+勞工處調查啟德致命工作意外,2026-01-12 17:20,2026-01-12 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200596.htm,"勞工處現正調查今日（一月十二日）下午在啟德發生的一宗致命工作意外，意外中一名男子死亡。
+
+勞工處接報後已即時派員到現場，現正就意外原因展開調查。"
 衞生署特殊護理牙科服務協調委員會舉行首次會議（附圖）,2026-01-12 17:11,2026-01-12 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200240.htm,"衞生署轄下的特殊護理牙科服務協調委員會（委員會）今日（一月十二日）召開首次會議，就香港特殊護理牙科服務的長遠策略發展向政府提供意見，以期進一步提升特定人群的口腔健康水準和生活質素。
 
 新成立的委員會由衞生署署長林文健醫生和香港牙科醫學院社會牙醫科專業委員會委員蘇漢澄醫生擔任聯席主席，非官方成員包括來自本港大學、牙科專業、醫療界別、專職醫療，以及在相關領域有豐富經驗和淵博知識的社會賢達（成員名單見附件）。
@@ -331,52 +347,6 @@ According to the latest Report of the Oral Health Survey by the DH, the proporti
 Dr Lam expressed gratitude to all SCDSCC members for contributing valuable insights from their diverse areas of expertise to improve the oral health and quality of life of specific groups, providing the Government with valuable information.
 
 The appointments of the SCDSCC members are effective from December 1, 2025, to November 30, 2027, for a term of two years."
-DH announces latest situation of Legionnaires' disease cases,2026-01-12 17:00,2026-01-12 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200520.htm,"The Centre for Health Protection (CHP) of the Department of Health today (January 12) reported the latest number of Legionnaires' disease (LD) cases, and reminded the public of the importance of using and maintaining properly designed man-made water systems, adding that susceptible groups should strictly observe relevant precautions.
-
-  From January 4 to 10, the CHP recorded two community-acquired LD cases. Both patients involved had underlying illnesses. The details of the cases are as follows:
-
-
-a 70-year-old male patient living in Kwun Tong District; and
-a 76-year-old male patient living in Tai Po District.
-
-
-​The CHP is conducting epidemiological investigations to identify potential sources of infection and high-risk exposure. Initial investigations revealed that these are sporadic cases. No epidemiological linkages have been established between these twocommunity-acquired cases and other confirmed cases previously recorded in Hong Kong.
-
-  As of January 10, two LD cases had been recorded this year. In 2025 and 2024, there were 167 and 135 LD cases respectively.
-
-Men, people aged over 50, smokers, alcoholics and persons with weakened immunity are more susceptible to LD. Some situations may also increase the risk of infection, including poor maintenance of water systems; living in areas with old water systems, cooling towers or fountains; using electric water heaters, whirlpool spas or hot water spring spas; and recent stays in hotels or ships.
-
-Legionellae are found in various environmental settings and grow well in warm water (20 to 45 degrees Celsius). They can be found in aqueous environments such as water tanks, hot and cold water systems, cooling towers, whirlpool spas, water fountains, humidifiers and home respiratory devices that support breathing. People may become infected when they breathe in contaminated droplets (aerosols) and mist generated by artificial water systems, or when handling garden soil, compost and potting mixes.
-
-Immunocompromised persons should:
-
-
-Use sterile or boiled water for drinking, tooth brushing and mouth rinsing;
-Avoid using humidifiers, or other mist- or aerosol-generating devices; and
-If using humidifiers, or other mist- or aerosol-generating devices, fill the water tank with only sterile or cooled freshly boiled water, and not water directly from the tap. Also, clean and maintain humidifiers/devices regularly according to manufacturers' instructions. Never leave stagnant water in a humidifier/device. Empty the water tank, wipe all surfaces dry, and change the water daily.
-
-
-The public should observe the health advice below:
-
-
-Observe personal hygiene;
-Do not smoke and avoid alcohol consumption;
-Strainers in water taps and shower heads should be inspected, cleaned, descaled and disinfected regularly or at a frequency recommended by the manufacturer;
-If a fresh-water plumbing system is properly maintained, it is not necessary to install domestic water filters. Use of water filters is not encouraged as clogging occurs easily, which can promote growth of micro-organisms. In case water filters are used, the pore size should be 0.2 micrometres (µm) or less and the filter needs to be changed periodically according to the manufacturer's recommendations;
-Drain and clean water tanks of buildings at least quarterly;
-Drain or purge for at least one minute infrequently used water outlets (e.g. water taps, shower heads and hot water outlets) and stagnant points of the pipework weekly or before use;
-Seek and follow doctors' professional advice regarding the use and maintenance of home respiratory devices and use only sterile water (not distilled or tap water) to clean and fill the reservoir. Clean and maintain the device regularly according to the manufacturer's instructions. After cleaning/disinfection, rinse the device with sterile water, cooled freshly boiled water or water filtered with 0.2 µm filters. Never leave stagnant water in the device. Empty the water tank, keep all surfaces dry, and change the water daily; and
-When handling garden soil, compost and potting mixes:
-
-
-Wear gloves and a face mask;
-Water gardens and compost gently using low pressure;
-Open composted potting mixes slowly and make sure the opening is directed away from the face;
-Wet the soil to reduce dust when potting plants; and
-Avoid working in poorly ventilated places such as enclosed greenhouses.
-
-
-​The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
 衞生署公布退伍軍人病個案最新情況,2026-01-12 17:00,2026-01-12 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200519.htm,"衞生署衞生防護中心（中心）今日（一月十二日）公布退伍軍人病個案最新數字，並提醒市民應使用和保養妥善設計的人造供水系統，易受感染人士則需時刻採取相關預防措施。
 
 在一月四日至十日期間，中心錄得兩宗社區感染退伍軍人病個案，兩名病人均有長期病患，詳情如下：
@@ -423,19 +393,6 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 
 
 市民可參閱衞生防護中心退伍軍人病專頁、預防退伍軍人病委員會「預防退伍軍人病工作守則」及「適用於樓宇管理的冷熱水系統內務管理指引」；及衞生防護中心防控退伍軍人病的風險為本策略。"
-Nominations open for Anti-rodent Partner Awards 2026,2026-01-12 17:00,2026-01-12 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200271.htm,"The Food and Environmental Hygiene Department (FEHD) announced today (January 12) the launch of the Anti-rodent Partner Awards 2026, with nominations open from now until February 11.
-
-To raise public awareness of environmental hygiene and encourage people to work together to cultivate good habits for a rodent-free environment, the FEHD launched the Anti-rodent Charter (the Charter) in December 2024. Property management companies, owners' corporations and residents' organisations of private residential premises were invited to participate and jointly create a rodent-free environment. To date, over 680 organisations and groups have signed the Charter, becoming Anti-rodent Partners of the FEHD.
-
-The Anti-rodent Partner Awards 2026 aims to encourage residential premises to establish long-term anti-rodent mechanisms; enhance residents' attention to and engagement in environmental hygiene; and promote experience sharing and interaction among communities. The FEHD hopes that by commending proactive organisations and groups, more stakeholders will be motivated to engage in rodent prevention and control work; cultivate good habits of maintaining environmental hygiene; achieve the ultimate goal of ""rodent eradication for all, building a rodent-free community""; and create a healthier, safer and more liveable environment for the public.
-
-All Anti-rodent Partners who have signed the Charter are eligible for nomination. Details of the activity and application methods have been uploaded to the Charter's website (www.fehd.gov.hk/english/pestcontrol/anti_rodent_charter.html).
-
-An online briefing session will be held on January 16 (Friday) to introduce the details of the activity to Anti-rodent Partners. Interested organisations or groups may register by emailing anti_rodentcharter@fehd.gov.hk.
-
-  An FEHD spokesman emphasised that effective rodent prevention and control hinges on the co-operation of government departments, relevant sectors, stakeholders, as well as members of the public to bolster anti-rodent efforts in their respective areas. Members of the public should maintain good environmental hygiene and eliminate the three fundamental survival conditions of rodents, namely food, harbourage and passages, i.e. the elimination of the food sources and hiding places of rodents as well as blockage of their dispersal routes.
-
-​The FEHD appeals to residential estates, property management companies and residents' organisations that have not yet signed the Charter to sign it and become Anti-rodent Partners, taking concrete actions to contribute to rodent prevention and control efforts, and jointly create a more liveable environment."
 「滅鼠伙伴嘉許奬2026」接受提名,2026-01-12 17:00,2026-01-12 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200270.htm,"食物環境衞生署（食環署）今日（一月十二日）公布舉辦「滅鼠伙伴嘉許奬2026」，即日起至二月十一日接受提名。
 
 為提高公眾對保持環境衞生的意識，促使他們養成良好習慣，共同向締造無鼠環境的目標邁進，食環署在二○二四年十二月推出《滅鼠約章》（《約章》），邀請私人住宅處所的物業管理公司、業主立案法團及居民組織參與，攜手締造無鼠環境。至今，逾680個機構和團體已簽署《約章》，成為食環署的滅鼠伙伴。
@@ -449,21 +406,65 @@ An online briefing session will be held on January 16 (Friday) to introduce the 
 發言人強調，要有效防治鼠患，需要政府部門、相關業界和持份者，以及市民通力合作，在所屬範疇加強防治鼠患的工作。市民應持續保持環境衞生，並消除老鼠在「食」、「住」、「行」三方面的基本生存條件，即斷絕老鼠食物來源、清除老鼠藏匿點和堵塞老鼠通道。
 
 食環署呼籲尚未簽署《約章》的住宅屋苑、物業管理公司及居民組織，簽署《約章》成為滅鼠伙伴，以實際行動承諾為防治鼠患工作出一分力，協力締造更宜居的環境。​"
-Hong Kong Customs detects two drug trafficking cases at airport (with photos),2026-01-12 16:15,2026-01-12 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200451.htm,"Hong Kong Customs detected two drug trafficking cases involving baggage concealment at Hong Kong International Airport yesterday (January 11) and seized a total of about 11.5 kilograms of suspected cannabis buds with an estimated market value of about $2.3 million.
+DH announces latest situation of Legionnaires' disease cases,2026-01-12 17:00,2026-01-12 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200520.htm,"The Centre for Health Protection (CHP) of the Department of Health today (January 12) reported the latest number of Legionnaires' disease (LD) cases, and reminded the public of the importance of using and maintaining properly designed man-made water systems, adding that susceptible groups should strictly observe relevant precautions.
 
-The first case involved a 39-year-old non-local male passenger arriving in Hong Kong from Ko Samui, Thailand, yesterday. During customs clearance, about 5.5kg of suspected cannabis buds were found inside his check-in suitcase. The man was subsequently arrested.
+  From January 4 to 10, the CHP recorded two community-acquired LD cases. Both patients involved had underlying illnesses. The details of the cases are as follows:
 
-The second case involved another non-local male passenger, aged 37, who also arrived in Hong Kong from Ko Samui, Thailand, yesterday. During customs clearance, about 6kg of suspected cannabis buds were found inside his check-in suitcase. He was subsequently arrested.
 
-The arrested persons have each been charged with one count of trafficking in a dangerous drug. The cases will be brought up at the West Kowloon Magistrates' Court tomorrow (January 13).
+a 70-year-old male patient living in Kwun Tong District; and
+a 76-year-old male patient living in Tai Po District.
 
-Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not to participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
 
-Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
+​The CHP is conducting epidemiological investigations to identify potential sources of infection and high-risk exposure. Initial investigations revealed that these are sporadic cases. No epidemiological linkages have been established between these twocommunity-acquired cases and other confirmed cases previously recorded in Hong Kong.
 
-Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
+  As of January 10, two LD cases had been recorded this year. In 2025 and 2024, there were 167 and 135 LD cases respectively.
 
-Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+Men, people aged over 50, smokers, alcoholics and persons with weakened immunity are more susceptible to LD. Some situations may also increase the risk of infection, including poor maintenance of water systems; living in areas with old water systems, cooling towers or fountains; using electric water heaters, whirlpool spas or hot water spring spas; and recent stays in hotels or ships.
+
+Legionellae are found in various environmental settings and grow well in warm water (20 to 45 degrees Celsius). They can be found in aqueous environments such as water tanks, hot and cold water systems, cooling towers, whirlpool spas, water fountains, humidifiers and home respiratory devices that support breathing. People may become infected when they breathe in contaminated droplets (aerosols) and mist generated by artificial water systems, or when handling garden soil, compost and potting mixes.
+
+Immunocompromised persons should:
+
+
+Use sterile or boiled water for drinking, tooth brushing and mouth rinsing;
+Avoid using humidifiers, or other mist- or aerosol-generating devices; and
+If using humidifiers, or other mist- or aerosol-generating devices, fill the water tank with only sterile or cooled freshly boiled water, and not water directly from the tap. Also, clean and maintain humidifiers/devices regularly according to manufacturers' instructions. Never leave stagnant water in a humidifier/device. Empty the water tank, wipe all surfaces dry, and change the water daily.
+
+
+The public should observe the health advice below:
+
+
+Observe personal hygiene;
+Do not smoke and avoid alcohol consumption;
+Strainers in water taps and shower heads should be inspected, cleaned, descaled and disinfected regularly or at a frequency recommended by the manufacturer;
+If a fresh-water plumbing system is properly maintained, it is not necessary to install domestic water filters. Use of water filters is not encouraged as clogging occurs easily, which can promote growth of micro-organisms. In case water filters are used, the pore size should be 0.2 micrometres (µm) or less and the filter needs to be changed periodically according to the manufacturer's recommendations;
+Drain and clean water tanks of buildings at least quarterly;
+Drain or purge for at least one minute infrequently used water outlets (e.g. water taps, shower heads and hot water outlets) and stagnant points of the pipework weekly or before use;
+Seek and follow doctors' professional advice regarding the use and maintenance of home respiratory devices and use only sterile water (not distilled or tap water) to clean and fill the reservoir. Clean and maintain the device regularly according to the manufacturer's instructions. After cleaning/disinfection, rinse the device with sterile water, cooled freshly boiled water or water filtered with 0.2 µm filters. Never leave stagnant water in the device. Empty the water tank, keep all surfaces dry, and change the water daily; and
+When handling garden soil, compost and potting mixes:
+
+
+Wear gloves and a face mask;
+Water gardens and compost gently using low pressure;
+Open composted potting mixes slowly and make sure the opening is directed away from the face;
+Wet the soil to reduce dust when potting plants; and
+Avoid working in poorly ventilated places such as enclosed greenhouses.
+
+
+​The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD."
+Nominations open for Anti-rodent Partner Awards 2026,2026-01-12 17:00,2026-01-12 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200271.htm,"The Food and Environmental Hygiene Department (FEHD) announced today (January 12) the launch of the Anti-rodent Partner Awards 2026, with nominations open from now until February 11.
+
+To raise public awareness of environmental hygiene and encourage people to work together to cultivate good habits for a rodent-free environment, the FEHD launched the Anti-rodent Charter (the Charter) in December 2024. Property management companies, owners' corporations and residents' organisations of private residential premises were invited to participate and jointly create a rodent-free environment. To date, over 680 organisations and groups have signed the Charter, becoming Anti-rodent Partners of the FEHD.
+
+The Anti-rodent Partner Awards 2026 aims to encourage residential premises to establish long-term anti-rodent mechanisms; enhance residents' attention to and engagement in environmental hygiene; and promote experience sharing and interaction among communities. The FEHD hopes that by commending proactive organisations and groups, more stakeholders will be motivated to engage in rodent prevention and control work; cultivate good habits of maintaining environmental hygiene; achieve the ultimate goal of ""rodent eradication for all, building a rodent-free community""; and create a healthier, safer and more liveable environment for the public.
+
+All Anti-rodent Partners who have signed the Charter are eligible for nomination. Details of the activity and application methods have been uploaded to the Charter's website (www.fehd.gov.hk/english/pestcontrol/anti_rodent_charter.html).
+
+An online briefing session will be held on January 16 (Friday) to introduce the details of the activity to Anti-rodent Partners. Interested organisations or groups may register by emailing anti_rodentcharter@fehd.gov.hk.
+
+  An FEHD spokesman emphasised that effective rodent prevention and control hinges on the co-operation of government departments, relevant sectors, stakeholders, as well as members of the public to bolster anti-rodent efforts in their respective areas. Members of the public should maintain good environmental hygiene and eliminate the three fundamental survival conditions of rodents, namely food, harbourage and passages, i.e. the elimination of the food sources and hiding places of rodents as well as blockage of their dispersal routes.
+
+​The FEHD appeals to residential estates, property management companies and residents' organisations that have not yet signed the Charter to sign it and become Anti-rodent Partners, taking concrete actions to contribute to rodent prevention and control efforts, and jointly create a more liveable environment."
 ​香港海關於機場偵破兩宗毒品案件（附圖）,2026-01-12 16:15,2026-01-12 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200447.htm,"香港海關昨日（一月十一日）在香港國際機場偵破兩宗行李藏毒的販毒案件，共檢獲約十一點五公斤的懷疑大麻花，估計市值約二百三十萬元。
 
 首宗案件涉及一名三十九歲非本地男旅客，他昨日從泰國蘇梅飛抵本港。海關人員清關時，在其寄艙行李中發現約五點五公斤的懷疑大麻花，遂把他拘捕。
@@ -479,12 +480,27 @@ Members of the public may report any suspected drug trafficking activities to Cu
 根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
-Effective Exchange Rate Index,2026-01-12 16:00,2026-01-12 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200203.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, January 12, 2026 is 102.9 (same as last Saturday's index).
+Hong Kong Customs detects two drug trafficking cases at airport (with photos),2026-01-12 16:15,2026-01-12 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200451.htm,"Hong Kong Customs detected two drug trafficking cases involving baggage concealment at Hong Kong International Airport yesterday (January 11) and seized a total of about 11.5 kilograms of suspected cannabis buds with an estimated market value of about $2.3 million.
 
-  The effective exchange rate index for the Hong Kong dollar on Saturday, January 10, 2026 was 102.9 (same as last Friday's index)."
+The first case involved a 39-year-old non-local male passenger arriving in Hong Kong from Ko Samui, Thailand, yesterday. During customs clearance, about 5.5kg of suspected cannabis buds were found inside his check-in suitcase. The man was subsequently arrested.
+
+The second case involved another non-local male passenger, aged 37, who also arrived in Hong Kong from Ko Samui, Thailand, yesterday. During customs clearance, about 6kg of suspected cannabis buds were found inside his check-in suitcase. He was subsequently arrested.
+
+The arrested persons have each been charged with one count of trafficking in a dangerous drug. The cases will be brought up at the West Kowloon Magistrates' Court tomorrow (January 13).
+
+Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not to participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
+
+Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
+
+Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
+
+Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 港匯指數,2026-01-12 16:00,2026-01-12 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200202.htm,"二○二六年一月十二日（星期一）的港幣匯率指數為一百零二點九（和上星期六指數相同）。
 
 ​二○二六年一月十日（星期六）的港幣匯率指數為一百零二點九（和上星期五指數相同）。"
+Effective Exchange Rate Index,2026-01-12 16:00,2026-01-12 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200203.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, January 12, 2026 is 102.9 (same as last Saturday's index).
+
+  The effective exchange rate index for the Hong Kong dollar on Saturday, January 10, 2026 was 102.9 (same as last Friday's index)."
 香港馬拉松二○二六特別交通及運輸安排,2026-01-12 15:58,2026-01-12 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200453.htm,"運輸署今日（一月十二日）提醒市民，為配合在本周日（一月十八日）舉行的香港馬拉松二○二六，由星期六（一月十七日）晚上十一時三十分起，本港多處將分階段實施臨時封路安排，並會按賽事進度分階段重開，預計所有封閉路段將於星期日約下午二時重開。
 
 今年全程及半程馬拉松比賽均由尖沙咀彌敦道出發。全程馬拉松比賽途經的主要路段包括彌敦道（加連威老道至亞皆老街）、亞皆老街、連翔道、西九龍公路、昂船洲大橋、南灣隧道、汀九橋、長青隧道、青葵公路、西區海底隧道、干諾道西天橋、龍和道、博覽道、鴻興道、駱克道、波斯富街、軒尼詩道、怡和街及糖街，並以維多利亞公園為終點。半程馬拉松比賽路線會以全程馬拉松比賽路段為本，由彌敦道為起點至連翔道，以青葵公路為折返點，並經西九龍公路返回全程馬拉松賽道。
@@ -609,8 +625,8 @@ Inspection of aquatic products imported from Japan,2026-01-12 15:35,2026-01-12 1
 (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 196 280 samples of food imported from Japan (including 126 193 samples of aquatic and related products, seaweeds and sea salt) and 43 318 samples of local catch respectively. All the samples passed the tests."
-寄往德國的郵遞服務延誤,2026-01-12 15:05,2026-01-12 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200484.htm,​香港郵政今日（一月十二日）宣布，接獲德國郵政機關通知，因受惡劣天氣影響，德國的郵件派遞服務會有所延誤。
 Postal services to Germany subject to delays,2026-01-12 15:05,2026-01-12 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200483.htm,"​Hongkong Post announced today (January 12) that, as advised by the postal administration of Germany, mail delivery services to Germany are subject to delays due to severe weather."
+寄往德國的郵遞服務延誤,2026-01-12 15:05,2026-01-12 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200484.htm,​香港郵政今日（一月十二日）宣布，接獲德國郵政機關通知，因受惡劣天氣影響，德國的郵件派遞服務會有所延誤。
 三幢紅山半島獨立屋業主因僭建被法庭定罪和判罰款共逾二十七萬元,2026-01-12 15:00,2026-01-12 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200370.htm,"三幢紅山半島獨立屋業主由於進行僭建工程，違反《建築物條例》（第123章）第14（1）條（即明知未事先獲得屋宇署批准及同意便進行建築工程），上周四（一月八日）在東區裁判法院均表示認罪，共被判處罰款275,000元。
 
 屋宇署於二○二三年九月開展大規模行動，巡查紅山半島臨海一帶獨立屋，在多幢獨立屋發現僭建物，包括上述涉事三幢獨立屋。屋宇署調查發現，該三幢獨立屋的業主明知未事先獲得屋宇署批准及同意便進行有關建築工程，包括在花園、天井、客廳、睡房、平台及天台等樓層加建若干搭建物，違反《建築物條例》第14（1）條。屋宇署遂於二○二四年八月及九月根據《建築物條例》第40（1AA）條對業主提出檢控。他們上周四被法庭定罪及分別被判處罰款130,000元、85,000元及60,000元。
@@ -633,61 +649,6 @@ The spokesman said that property owners should consult building professionals be
 Pursuant to section 40(1AA) of the BO, any person who knowingly contravenes section 14(1) (i.e. commencement or carrying out any building works without having first obtained approval and consent from the BD) commits an offence and is liable upon conviction to a maximum fine of $400,000 and imprisonment for two years, and a further fine of up to $20,000 for each day that the offence continues.
 
 The Government will submit a bill to the Legislative Council to amend the BO this year, which will include increasing penalties for offences against serious UBWs to enhance deterrence."
-Guangdong-Hong Kong-Macao Greater Bay Area Development Office stages roving exhibition at universities to showcase Greater Bay Area opportunities,2026-01-12 14:45,2026-01-12 15:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200349.htm,"  The Guangdong-Hong Kong-Macao Greater Bay Area Development Office under the Constitutional and Mainland Affairs Bureau is staging a Guangdong-Hong Kong-Macao Greater Bay Area (GBA) roving exhibition from today (January 12) until late March on the campuses of eight universities and at the Civic Education Resource Centre of Youth Square. The aim of the exhibition is to introduce to university students and young people the significant opportunities that GBA development presents for the youth of Hong Kong.
-
-  A spokesman for the Office said thatthe Hong Kong Special Administrative Region (HKSAR) Government proactively aligns with the 15th Five-Year Plan, deeply engages in the development of the GBA, and better integrates into and serves the overall national development. The Government of the HKSAR attaches great importance to youth development and has continued to introduce a number of policy measures in various areas to support Hong Kong young people in grasping opportunities for internships, employment and entrepreneurship in the GBA, and encourage them to realise their aspirations on a bigger stage.
-
-  This year's roving exhibition kicked off today at Youth Square, the Chinese University of Hong Kong, Hong Kong Baptist University and the Education University of Hong Kong. The exhibition offers rich information including the introduction of policy measures in different areas of the GBA, support programmes and facilitation arrangements for Hong Kong young people, various on-the-ground support services provided by the Guangdong-Hong Kong-Macao Greater Bay Area Development Promotion Centre as well as diversified channels for obtaining the latest practical information about the GBA, to help young people seize the numerous opportunities in the GBA.
-
-  The roving exhibition has received venue support from the eight universities and the Civic Education Resource Centre of Youth Square. Details on the exhibition are as follows:
-
-
-
-
-Exhibition period
-Location
-
-
-January 12 - March 20, 2026
-Civic Education Resource Centre, 7/F, Youth Square#
-
-
-January 12 - 18, 2026
-Benjamin Franklin Centre, the Chinese University of Hong Kong*
-
-
-January 12- 23, 2026
-Au Shue Hung Memorial Library, Shaw Campus, Hong Kong Baptist University
-
-
-January 12 - 23, 2026
-Central Facilities Building, Tai Po Campus of the Education University of Hong Kong*
-
-
-January 19 - 30, 2026
-Atrium, the Hong Kong University of Science and Technology
-
-
-January 30 - February 10, 2026
-4/F, Yeung Kin Man Academic Building, City University of Hong Kong*
-
-
-March 5 - 12, 2026
-Kin Sun Square, Lingnan University
-
-
-March 9 - 20, 2026
-Centennial Campus, the University of Hong Kong*
-
-
-March 9 - 20, 2026
-FG Wing Podium, the Hong Kong Polytechnic University*
-
-
-
-
-# Open from 9am to 6pm (closed on public holidays).
-* Valid staff card, student card or registration is required for entry to the campus. Please refer to the specific regulations of each campus."
 粵港澳大灣區發展辦公室舉辦大專院校巡迴展覽介紹大灣區機遇,2026-01-12 14:45,2026-01-12 15:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200344.htm,"政制及內地事務局粵港澳大灣區發展辦公室今日（一月十二日）起至三月下旬，在八所大專院校的校園和青年廣場公民教育資源中心舉辦粵港澳大灣區巡迴展覽，旨在向大專院校學生和青年介紹粵港澳大灣區（大灣區）建設為香港青年帶來的重要機遇。
 
 辦公室發言人表示，特區政府積極對接國家「十五五」規劃，深度參與大灣區建設，推動香港更好融入和服務國家發展大局。政府極為重視青年的發展，在多個領域持續推出多項政策措施，支持香港青年把握在大灣區實習、就業及創業的機遇，鼓勵他們在更廣闊舞台盡展所長。
@@ -743,6 +704,61 @@ FG Wing Podium, the Hong Kong Polytechnic University*
 
 ＃開放時間為上午九時至下午六時（公眾假期休息）
 ＊須持有效職員證、學生證或經登記進入校園範圍，具體要求請遵照各校園相關規定"
+Guangdong-Hong Kong-Macao Greater Bay Area Development Office stages roving exhibition at universities to showcase Greater Bay Area opportunities,2026-01-12 14:45,2026-01-12 15:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200349.htm,"  The Guangdong-Hong Kong-Macao Greater Bay Area Development Office under the Constitutional and Mainland Affairs Bureau is staging a Guangdong-Hong Kong-Macao Greater Bay Area (GBA) roving exhibition from today (January 12) until late March on the campuses of eight universities and at the Civic Education Resource Centre of Youth Square. The aim of the exhibition is to introduce to university students and young people the significant opportunities that GBA development presents for the youth of Hong Kong.
+
+  A spokesman for the Office said thatthe Hong Kong Special Administrative Region (HKSAR) Government proactively aligns with the 15th Five-Year Plan, deeply engages in the development of the GBA, and better integrates into and serves the overall national development. The Government of the HKSAR attaches great importance to youth development and has continued to introduce a number of policy measures in various areas to support Hong Kong young people in grasping opportunities for internships, employment and entrepreneurship in the GBA, and encourage them to realise their aspirations on a bigger stage.
+
+  This year's roving exhibition kicked off today at Youth Square, the Chinese University of Hong Kong, Hong Kong Baptist University and the Education University of Hong Kong. The exhibition offers rich information including the introduction of policy measures in different areas of the GBA, support programmes and facilitation arrangements for Hong Kong young people, various on-the-ground support services provided by the Guangdong-Hong Kong-Macao Greater Bay Area Development Promotion Centre as well as diversified channels for obtaining the latest practical information about the GBA, to help young people seize the numerous opportunities in the GBA.
+
+  The roving exhibition has received venue support from the eight universities and the Civic Education Resource Centre of Youth Square. Details on the exhibition are as follows:
+
+
+
+
+Exhibition period
+Location
+
+
+January 12 - March 20, 2026
+Civic Education Resource Centre, 7/F, Youth Square#
+
+
+January 12 - 18, 2026
+Benjamin Franklin Centre, the Chinese University of Hong Kong*
+
+
+January 12- 23, 2026
+Au Shue Hung Memorial Library, Shaw Campus, Hong Kong Baptist University
+
+
+January 12 - 23, 2026
+Central Facilities Building, Tai Po Campus of the Education University of Hong Kong*
+
+
+January 19 - 30, 2026
+Atrium, the Hong Kong University of Science and Technology
+
+
+January 30 - February 10, 2026
+4/F, Yeung Kin Man Academic Building, City University of Hong Kong*
+
+
+March 5 - 12, 2026
+Kin Sun Square, Lingnan University
+
+
+March 9 - 20, 2026
+Centennial Campus, the University of Hong Kong*
+
+
+March 9 - 20, 2026
+FG Wing Podium, the Hong Kong Polytechnic University*
+
+
+
+
+# Open from 9am to 6pm (closed on public holidays).
+* Valid staff card, student card or registration is required for entry to the campus. Please refer to the specific regulations of each campus."
 香港藝術館「威尼斯視藝雙年展實習計劃2026」現正接受申請,2026-01-12 12:00,2026-01-12 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200193.htm,"香港藝術館將首度與香港藝術發展局合作，參與今年五月至十一月在意大利威尼斯舉行的第61屆威尼斯視藝雙年展外圍展，攜手將香港藝術家伍韶勁和許開嬌的作品帶到大型國際展覽。現招募實習生於展覽期間駐留威尼斯，深入了解展覽運作流程，累積寶貴實戰經驗，拓寬文化與國際視野，歡迎有志於當代藝術領域發展的人士申請。截止日期為一月三十日。
 
 「威尼斯視藝雙年展實習計劃2026」將設六個名額，獲選實習生將接受香藝術館提供的專業培訓，在威尼斯駐留實習六個星期，親身參與這個全球歷史最悠久的國際當代藝術盛事。實習生將協助香港展的籌備、場地日常運作及人流管理等，以及擔任藝術家與觀眾的橋樑，向參觀人士介紹展覽內容和展品，並協助進行宣傳推廣活動。
@@ -861,6 +877,11 @@ The Chairman of the MSEC, Mr Wilfred Ng, said today (January 12), ""With the beg
 The ""M"" Mark System aims to encourage and help local National Sports Associations and private or non-government organisations to organise more major international sports events and nurture them into sustainable undertakings. Sports events meeting the assessment criteria will be considered for ""M"" Mark status by the MSEC. Funding support will also be provided to some events. The ""M"" Mark System aims to promote the development of major sports events, cultivate a sustainable sporting culture, enhance Hong Kong's image as a centre for major international sports events and bring tangible economic benefits to the community.
 
 For details of ""M"" Mark events, please visit www.mevents.org.hk."
+清水灣第二灣泳灘懸掛紅旗,2026-01-12 10:51,2026-01-12 11:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200235.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（一月十二日）宣布，由於大浪關係，西貢區的清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flag hoisted at Clear Water Bay Second Beach,2026-01-12 10:51,2026-01-12 11:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200233.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -868,11 +889,6 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (January 12) that due to big waves, the red flag has been hoisted at Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at the beach."
-清水灣第二灣泳灘懸掛紅旗,2026-01-12 10:51,2026-01-12 11:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200235.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（一月十二日）宣布，由於大浪關係，西貢區的清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Speech by CS at Nobel Heroes Forum: Shaping Science and Future (English only) ,2026-01-12 10:20,2026-01-12 10:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/12/P2026011200215.htm,"  Following is the speech by the Chief Secretary for Administration, Mr Chan Kwok-ki, at the Nobel Heroes Forum: Shaping Science and Future today (January 12):
 
 Dr Wong (Chairman of the University of Hong Kong (HKU) Council, Dr Peter Wong), Professor Zhang (President and Vice-Chancellor of the HKU, Professor Zhang Xiang), Mr Turner (Executive Director of Foundation Lindau Nobel Laureate Meetings, Mr Nikolaus Turner), distinguished Nobel Laureates, esteemed scientists,ladies and gentlemen,
