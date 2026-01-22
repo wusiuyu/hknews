@@ -1,4 +1,39 @@
 title,date,scrape_time,section,source,url,news_content
+"HKPF urges public to stay vigilant against phishing SMS messages and fake ""eTraffic Ticket Platform"" websites (with photo)",2026-01-22 16:12,2026-01-22 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200488.htm," The Hong Kong Police Force (HKPF) today (January 22) urges members of the public to stay vigilant and beware of fraudulent electronic traffic ticket SMS messages purportedly issued by the ""eTraffic Ticket Platform"" (the Platform). These SMS messages contain hyperlinks to fake websites that pose as the relevant official Platform’s Verify/ Pay Ticket page, in an attempt to deceive citizens into providing their credit card details and personal information.
+ 
+ The HKPF sternly clarifies that the relevant fraudulent websites as listed in the fraudulent electronic traffic ticket SMS messages (https://etraffictickot.top/hk/, https://etrafticket.one/hk) are not official platforms. Members of the public are reminded not to click on any hyperlinks.
+ 
+ The Platform of the HKPF (https://www.etrafficticket.gov.hk) will also require members of the public to enter the notice number in addition to the vehicle registration mark. Details of the Fixed Penalty Notices (""FPNs""), including the offence date, time and location, will be displayed for verification.
+ 
+ The HKPF reiterates that all electronic FPNs SMS messages will only be issued under the HKPF sender name ""#HKPF-eTT"". Please note that the FPNs, whether issued via SMS messages or email, will never contain any hyperlinks.
+ 
+ Members of the public are reminded to stay vigilant if they receive SMS messages from unknown sources. Do not click on any hyperlinks, log in to suspicious websites, or provide any personal information. Any member of the public who has provided personal information to the relevant websites should dial 18222 to contact the Anti-Deception Coordination Centre officers of the HKPF. For any enquiries regarding the Platform, please call 181 181.
+ 
+ The HKPF also appeals to the public with the following anti-deception tips:
+
+All SMS tickets are issued under the SMS sender name ""#HKPF-eTT""; any of those issued from other sender names are fraudulent;
+All SMS messages or email tickets do not contain any hyperlinks. Members of the public should stay vigilant and avoid clicking on any suspicious hyperlinks or providing any personal information; and
+The Platform's thematic portal has a domain ending with "".gov.hk"". Websites that do not end with "".gov.hk"" are not government websites.
+
+
+"
+警務處呼籲市民提防釣魚短訊及偽冒「電子交通告票平台」網站（附圖）,2026-01-22 16:11,2026-01-22 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200486.htm,"警務處今日（一月二十二日）呼籲市民提高警覺，慎防聲稱由警務處「電子交通告票平台」發出的偽冒電子告票短訊。有關短訊附有虛假網站超連結，冒充「電子交通告票平台」的「核實／繳付告票」頁面，企圖欺騙市民提供信用卡帳戶及個人資料。
+
+警務處嚴正表示，有關的偽冒電子告票短訊所列的網站（https://etraffictickot.top/hk/, https://etrafticket.one/hk）並非官方平台，市民切勿點擊超連結。
+
+警務處「電子交通告票平台」（https://www.etrafficticket.gov.hk）除要求市民提供車牌號碼外，亦要求輸入通知書編號，並會列出「交通定額罰款通知書」（告票）詳情，如違例日期、時間及地點等，供市民核對。
+
+警務處強調，所有電子告票短訊只會由警務處發送人名稱（即「#HKPF-eTT」）發出，而無論是以短信或電郵形式發出的告票，絕不會附有任何超連結。
+
+市民如接獲來歷不明的短訊，應保持警覺，切勿點擊任何超連結、登入可疑網站或提供個人資料。市民若曾向該網站提供個人資料，請致電18222與警務處反詐騙協調中心人員聯絡。市民如對「電子交通告票平台」有任何查詢，可致電181 181。
+
+警務處提醒市民切記「有#無Link .gov.hk你要認清」，注意以下防騙資訊：
+
+所有告票短訊均由「#HKPF-eTT」發出，其他發送人名稱均屬偽冒；
+短訊及電郵告票均不會附上任何超連結，市民應提高警覺，切勿點擊可疑超連結或提供個人資料；以及
+平台官方網站域名結尾為「.gov.hk」，其他結尾均非政府網站。
+
+"
 日本進口水產的檢測情況,2026-01-22 16:10,2026-01-22 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200483.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -146,19 +181,6 @@ The rating results, conviction records, summaries of the warning letters and equ
 同時，香港憑藉完善的法治基礎和國際化的規管經驗，將透過檢視現行法規及政策框架，積極推動低空經濟發展的標準化與制度化，為低空管理體系提供示範，助力國家低空經濟產業的安全、有序及可持續發展。
 
 主席，未來我們在制定各項政策包括航空、航運及物流等，均會主動對接國家規劃及融入國家發展大局，鞏固及提升本港航運及航空業的競爭力，並持續發揮香港「內聯外通」的優勢，助力國家高質量發展。我謹此陳辭。多謝主席。"
-Tenders invited for tenancy of shop premises at Hong Kong-Zhuhai-Macao Bridge Hong Kong Port,2026-01-22 12:30,2026-01-22 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200239.htm,"The Government Property Agency (GPA) is inviting two separate tenders for the government properties at (i) Shop No. 308 on the Ground Floor and (ii) Shop No. 502 on the First Floor, Passenger Clearance Building, 33 Shun Fai Road, Hong Kong-Zhuhai-Macao Bridge Hong Kong Port, Lantau, Hong Kong, each for a three-year tenancy subject to the provisions for renewal for a further term of two years.
-
-The two premises should only be used for general retail and/or services purposes. Details are available in the respective tender notices and Forms of Tenancy Agreement.
-
-The tender notices were uploaded today (January 22) to the GPA Property Portal: www.gpaproperty.gov.hk/en/index.html. Tender documents are available for collection at the GPA, 9/F, South Tower, West Kowloon Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon, during 9am to 6pm from Monday to Friday, except public holidays. The documents can also be downloaded from the GPA Property Portal.
-
-Interested tenderers who wish to conduct a site inspection of the two premises should make a prior appointment by calling the GPA by January 28:
-
-Shop No. 308: Call 3842 6918 or 3842 6915 for an appointment
-Shop No. 502: Call 3842 6916 or 3842 6915 for an appointment
-
-​
-Tenderers must submit their tenders by placing them in the Government Logistics Department Tender Box situated on the Ground Floor, North Point Government Offices, 333 Java Road, North Point, Hong Kong, before noon on February 11. Late tenders will not be accepted."
 招標承投港珠澳大橋香港口岸鋪位租用權,2026-01-22 12:30,2026-01-22 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200238.htm,"政府產業署（產業署）現就位於香港大嶼山港珠澳大橋香港口岸順暉路33號旅檢大樓（i）地下第308號鋪位及（ii）一樓第502號鋪位的政府物業租用權分別招標，租期三年，並可按條文規定續租兩年。
 
 該兩個處所只可用作一般零售及／或服務用途。詳情載於相關招標公告和租約大綱。
@@ -172,6 +194,19 @@ Tenderers must submit their tenders by placing them in the Government Logistics 
 
 
 投標者必須於二月十一日中午十二時前把投標書放入香港北角渣華道333號北角政府合署地下的政府物流服務署投標箱。逾期遞交的投標書概不受理。"
+Tenders invited for tenancy of shop premises at Hong Kong-Zhuhai-Macao Bridge Hong Kong Port,2026-01-22 12:30,2026-01-22 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200239.htm,"The Government Property Agency (GPA) is inviting two separate tenders for the government properties at (i) Shop No. 308 on the Ground Floor and (ii) Shop No. 502 on the First Floor, Passenger Clearance Building, 33 Shun Fai Road, Hong Kong-Zhuhai-Macao Bridge Hong Kong Port, Lantau, Hong Kong, each for a three-year tenancy subject to the provisions for renewal for a further term of two years.
+
+The two premises should only be used for general retail and/or services purposes. Details are available in the respective tender notices and Forms of Tenancy Agreement.
+
+The tender notices were uploaded today (January 22) to the GPA Property Portal: www.gpaproperty.gov.hk/en/index.html. Tender documents are available for collection at the GPA, 9/F, South Tower, West Kowloon Government Offices, 11 Hoi Ting Road, Yau Ma Tei, Kowloon, during 9am to 6pm from Monday to Friday, except public holidays. The documents can also be downloaded from the GPA Property Portal.
+
+Interested tenderers who wish to conduct a site inspection of the two premises should make a prior appointment by calling the GPA by January 28:
+
+Shop No. 308: Call 3842 6918 or 3842 6915 for an appointment
+Shop No. 502: Call 3842 6916 or 3842 6915 for an appointment
+
+​
+Tenderers must submit their tenders by placing them in the Government Logistics Department Tender Box situated on the Ground Floor, North Point Government Offices, 333 Java Road, North Point, Hong Kong, before noon on February 11. Late tenders will not be accepted."
 立法會：財經事務及庫務局副局長就「制訂香港特區發展願景，主動對接國家『十五五』規劃」議員議案總結發言（只有中文）,2026-01-22 12:24,2026-01-22 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200299.htm,"以下是財經事務及庫務局副局長陳浩濂今日（一月二十二日）在立法會會議上就嚴剛議員動議的「制訂香港特區發展願景，主動對接國家『十五五』規劃」議案的總結發言：
 
 主席：
@@ -221,8 +256,8 @@ Tenderers must submit their tenders by placing them in the Government Logistics 
 「十五五」規劃建議為香港發展作出重要部署，支持香港鞏固提升和建設打造「四中心、一高地」的地位。習近平主席已明確指示我們需要錨定目標任務，堅定信心、乘勢而上，紮實推動高質量發展，進一步全面深化改革開放。我們必須要抓緊香港在國家整體發展戰略中的定位，更好服務國家所需，同時帶動香港發展。我現在將發言時間交給其他相關政策局的同事，就如何鞏固提升和建設打造「四中心、一高地」作出介紹和回應。
 
 我謹此致辭，多謝主席。"
-​古洞草地足球場關閉,2026-01-22 11:30,2026-01-22 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200188.htm,康樂及文化事務署今日（一月二十二日）宣布，為配合古洞北新發展區的建造工程，古洞草地足球場將於下星期五（一月三十日）起永久關閉。日後古洞北新發展區將預留土地興建康樂設施，供市民使用。其間市民可使用北區內的同類型設施。
 Closure of Kwu Tung Grass Soccer Pitch,2026-01-22 11:30,2026-01-22 12:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200189.htm,"  The Leisure and Cultural Services Department announced today (January 22) that the Kwu Tung Grass Soccer Pitch will be permanently closed starting next Friday (January 30) for the development of the Kwu Tung North New Development Area. Land at the Kwu Tung North New Development Area has been reserved for the future provision of recreational facilities for public use. During this period, the public may use similar facilities in North District."
+​古洞草地足球場關閉,2026-01-22 11:30,2026-01-22 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200188.htm,康樂及文化事務署今日（一月二十二日）宣布，為配合古洞北新發展區的建造工程，古洞草地足球場將於下星期五（一月三十日）起永久關閉。日後古洞北新發展區將預留土地興建康樂設施，供市民使用。其間市民可使用北區內的同類型設施。
 香港花卉展覽花卉重新栽種計劃接受申請,2026-01-22 11:15,2026-01-22 11:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200260.htm,"今年香港花卉展覽（花展）的「賞花，惜花！」賽馬會花卉重新栽種計劃現已接受申請，歡迎學校、環保團體和非政府機構參加，截止申請日期為二月二十七日，申請表格可於花展網頁www.lcsd.gov.hk/tc/hkfs/2026/flower.html下載。
 
 每年花展結束後，大會都把可再種植的花卉送往康樂及文化事務署（康文署）轄下公園重植。自二○一四年起，大會更推出花卉重新栽種計劃，藉此鼓勵於社區重植，提高公眾的環保意識。入選的機構和學校可選擇在花展結束後，自行到會場領取或由大會免費運送盆栽。盆栽種類和數量由大會安排，有關詳情請瀏覽上述網頁。
@@ -233,15 +268,6 @@ Hong Kong Flower Show's flower replanting scheme invites applications,2026-01-22
  Every year after the flower show, showground flowers suitable for replanting are sent to Leisure and Cultural Services Department (LCSD) parks for replanting. To encourage replanting in the community and raise environmental awareness among the public, the flower replanting scheme has been running since 2014. Upon successful application, organisations and schools may receive potted plants by either on-site collection from the showground or free delivery by the organiser. The type and number of plants will be assigned by the organiser. For details, please visit the above-mentioned webpage.
 
  Organised by the LCSD, this year's flower show will be held from March 20 to 29 at Victoria Park, featuring the stock as its theme flower, under the theme ""A Fragrant Journey through Hong Kong"". The Hong Kong Jockey Club Charities Trust is supporting the flower show for the 14th consecutive year and has been its major sponsor since 2014."
-Special traffic and transport arrangements for Kai Tak Stadium concerts on January 24 to 26,2026-01-22 11:10,2026-01-22 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200237.htm,"  The Transport Department (TD) today (January 22) said that special traffic and transport arrangements will be implemented to facilitate the holding of concerts at Kai Tak Stadium on the evenings of January 24 to 26. As traffic in the vicinity of the Kai Tak Sports Park (KTSP) is expected to be heavy, concertgoers should opt for public transport and avoid driving or taking private cars (including cross-boundary private cars).
-
-  The TD has co-ordinated with local and cross-boundary public transport operators to strengthen their services during dispersal. The MTR will enhance the intervals between trains on the Tuen Ma Line. The last MTR train to Lo Wu Station interchanging at Tai Wai Station on the East Rail Line will depart from Sung Wong Toi Station at 10.59pm and Kai Tak Station at 11.01pm. Franchised bus companies will provide 11 special bus routes at the Sung Wong Toi Road Pick-up/Drop-off Area (PUDOA) to the Lok Ma Chau (San Tin) Public Transport Interchange (route No. SP12), the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and Airport (route No. A25S), and major districts across the territory.
-
-  Concertgoers who plan to return to the Mainland on the same day may also take the KTSP's cross-boundary coach during dispersal. Passengers should purchase tickets from the operators' online platforms in advance. On-site ticket sales will not be available during dispersal.
-
-  The Kai Tak Stadium Taxi PUDOA will be open. The Sung Wong Toi Road PUDOA will be open for taxi drop-off only during admission (3.30pm to 7pm) and suspended for taxi pick-up/drop-off during dispersal. The expected waiting time will be longer amid the outflux of spectators, and passengers' patience is appreciated.
-
-  Spectators are advised to heed real-time information via the on-site broadcast and the ""Easy Leave"" platform (easyleave.police.gov.hk) as well as the latest traffic news through the TD's website (www.td.gov.hk), the ""HKeMobility"" mobile application and radio and television broadcasts."
 ​啟德主場館一月二十四至二十六日演唱會特別交通及運輸安排,2026-01-22 11:10,2026-01-22 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200236.htm,"運輸署今日（一月二十二日）表示，為配合一月二十四至二十六日晚上於啟德主場館舉行的演唱會，將實施特別交通及運輸安排。啟德體育園一帶的交通預期會較繁忙，觀眾應乘搭公共交通工具，避免駕駛或乘搭私家車（包括跨境私家車）前往。
 
 運輸署已協調本地及跨境公共運輸服務營辦商在離場時段加強服務。港鐵將會加密屯馬綫的班次。經港鐵大圍站接駁東鐵綫往羅湖站的最後一班列車將於晚上十時五十九分由宋皇臺站開出，以及十一時零一分由啟德站開出。專營巴士公司將於宋皇臺道上落客區提供11條特別巴士路線，分別前往落馬洲（新田）公共運輸交匯處（第SP12號線）、港珠澳大橋香港口岸和機場（第A25S號線）及港九新界各主要地區。
@@ -251,13 +277,15 @@ Special traffic and transport arrangements for Kai Tak Stadium concerts on Janua
 啟德主場館的士上落客區將會開放。宋皇臺道上落客區在進場時段（下午三時三十分至七時）只開放予的士落客，離場時段則暫停的士上落客。由於預計離場人士眾多，輪候時間會較長，請耐心輪候登車。
 
 觀眾請留意場地廣播和「離場易」平台（easyleave.police.gov.hk）提供的實時資訊，以及經運輸署網頁（www.td.gov.hk）、「香港出行易」流動應用程式、電台和電視台發放的最新交通消息。"
-"Property owner fined nearly $120,000 for not complying with removal order",2026-01-22 11:00,2026-01-22 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200209.htm,"​An owner was convicted and fined $119,900 in total, of which $89,900 was the fine for the number of days that the offence continued, at the Kowloon City Magistrates' Courts yesterday (January 21) for failing to comply with a removal order issued under the Buildings Ordinance (BO) (Cap. 123).
+Special traffic and transport arrangements for Kai Tak Stadium concerts on January 24 to 26,2026-01-22 11:10,2026-01-22 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200237.htm,"  The Transport Department (TD) today (January 22) said that special traffic and transport arrangements will be implemented to facilitate the holding of concerts at Kai Tak Stadium on the evenings of January 24 to 26. As traffic in the vicinity of the Kai Tak Sports Park (KTSP) is expected to be heavy, concertgoers should opt for public transport and avoid driving or taking private cars (including cross-boundary private cars).
 
-The case involved two unauthorised structures with a total area of about 89 square metres on the flat roof of a composite building on Un Chau Street, Sham Shui Po. As the unauthorised building works (UBWs) were carried out without prior approval and consent from the Buildings Department (BD), a removal order was served on the owner under section 24(1) of the BO. Failing to comply with the removal order, the owner was prosecuted by the BD.
+  The TD has co-ordinated with local and cross-boundary public transport operators to strengthen their services during dispersal. The MTR will enhance the intervals between trains on the Tuen Ma Line. The last MTR train to Lo Wu Station interchanging at Tai Wai Station on the East Rail Line will depart from Sung Wong Toi Station at 10.59pm and Kai Tak Station at 11.01pm. Franchised bus companies will provide 11 special bus routes at the Sung Wong Toi Road Pick-up/Drop-off Area (PUDOA) to the Lok Ma Chau (San Tin) Public Transport Interchange (route No. SP12), the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and Airport (route No. A25S), and major districts across the territory.
 
-A spokesman for the BD said today (January 22), ""UBWs may lead to serious consequences. Owners must comply with removal orders without delay. The BD will continue to take enforcement action against owners who fail to comply with removal orders, including instigation of prosecution, to ensure building and public safety.""
+  Concertgoers who plan to return to the Mainland on the same day may also take the KTSP's cross-boundary coach during dispersal. Passengers should purchase tickets from the operators' online platforms in advance. On-site ticket sales will not be available during dispersal.
 
-Failure to comply with a removal order without reasonable excuse is a serious offence under the BO. The maximum penalty upon conviction is a fine of $200,000 and one year's imprisonment, and a further fine of up to $20,000 for each day that the offence continues."
+  The Kai Tak Stadium Taxi PUDOA will be open. The Sung Wong Toi Road PUDOA will be open for taxi drop-off only during admission (3.30pm to 7pm) and suspended for taxi pick-up/drop-off during dispersal. The expected waiting time will be longer amid the outflux of spectators, and passengers' patience is appreciated.
+
+  Spectators are advised to heed real-time information via the on-site broadcast and the ""Easy Leave"" platform (easyleave.police.gov.hk) as well as the latest traffic news through the TD's website (www.td.gov.hk), the ""HKeMobility"" mobile application and radio and television broadcasts."
 業主不遵從清拆令被判罰款近十二萬元,2026-01-22 11:00,2026-01-22 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200212.htm,"一名業主由於不遵從根據《建築物條例》（第123章）發出的清拆令，昨日（一月二十一日）在九龍城裁判法院被定罪及判罰款合共119,900元，當中89,900元屬就罪行持續的日數所判的罰款。
 
 有關個䅁涉及深水埗元州街一幢商住大廈平台上的兩個搭建物，面積共約89平方米。該等僭建物並無事先獲得屋宇署的批准及同意，屋宇署根據《建築物條例》第24（1）條向業主發出清拆令。該業主沒有履行清拆令，故遭屋宇署檢控。
@@ -265,6 +293,13 @@ Failure to comply with a removal order without reasonable excuse is a serious of
 屋宇署發言人今日（一月二十二日）說：「僭建物可導致嚴重後果。業主必須盡快遵從清拆令。對於未有遵從清拆令的業主，屋宇署會繼續採取執法行動，包括提出檢控，以保障樓宇及公眾安全。」
 
 根據《建築物條例》，任何人無合理辯解而沒有遵從清拆令是嚴重罪行，一經定罪，最高可處罰款200,000元及監禁一年，及可就罪行持續的每一天，另處罰款最高20,000元。"
+"Property owner fined nearly $120,000 for not complying with removal order",2026-01-22 11:00,2026-01-22 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200209.htm,"​An owner was convicted and fined $119,900 in total, of which $89,900 was the fine for the number of days that the offence continued, at the Kowloon City Magistrates' Courts yesterday (January 21) for failing to comply with a removal order issued under the Buildings Ordinance (BO) (Cap. 123).
+
+The case involved two unauthorised structures with a total area of about 89 square metres on the flat roof of a composite building on Un Chau Street, Sham Shui Po. As the unauthorised building works (UBWs) were carried out without prior approval and consent from the Buildings Department (BD), a removal order was served on the owner under section 24(1) of the BO. Failing to comply with the removal order, the owner was prosecuted by the BD.
+
+A spokesman for the BD said today (January 22), ""UBWs may lead to serious consequences. Owners must comply with removal orders without delay. The BD will continue to take enforcement action against owners who fail to comply with removal orders, including instigation of prosecution, to ensure building and public safety.""
+
+Failure to comply with a removal order without reasonable excuse is a serious offence under the BO. The maximum penalty upon conviction is a fine of $200,000 and one year's imprisonment, and a further fine of up to $20,000 for each day that the offence continues."
 ​銀線灣泳灘及清水灣第二灣泳灘懸掛紅旗,2026-01-22 10:22,2026-01-22 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200176.htm,"電台及電視台當值宣布員注意：
 
 請盡快播出下列特別報告：
@@ -277,17 +312,6 @@ Please broadcast the following as soon as possible:
   Here is an item of interest to swimmers.
 
   The Leisure and Cultural Services Department announced today (January 22) that due to big waves, red flags have been hoisted at Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches."
-環境及生態局公布二○二四年香港溫室氣體排放清單,2026-01-22 10:10,2026-01-22 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200195.htm,"​ 環境及生態局今日（一月二十二日）公布二○二四年香港溫室氣體排放清單。
-
-香港溫室氣體排放量持續下降，二○二四年，香港的排放總量約為3 320萬公噸二氧化碳當量，較二○二三年下降3.6%。人均溫室氣體排放量下降至4.41公噸二氧化碳當量的新低點，較二○二三年下降3.5%，約是美國的四分之一及歐盟的六成。碳強度則為每港元本地生產總值0.011千克二氧化碳當量，相較二○二三年大幅下降約6%。
-
-香港的溫室氣體排放量已於二○一四年達峰。與二○一四年峰值比較，二○二四年的排放總量、人均排放量及碳強度分別下降約27%、30%及35%。
-
-按最新的溫室氣體排放清單，本地最大的三個排放源仍然為發電（61%）、運輸（18%）及廢物處理（8%）。隨着香港逐步以天然氣和零碳能源取代燃煤發電、推動電動車普及化、減少棄置都市固體廢物、以及增加使用回收堆填氣體來生產能源，這三個排放源的溫室氣體排放量比較二○二三年分別下降3.5%、3.7%及9%。廢物處理的溫室氣體排放量減幅尤為顯著，主因是於堆填區的都市固體廢物棄置量減少3.4%，以及用於生產能源的堆填氣體回收量增加近12%。
-
-為配合國家在二○三○年前碳排放量達峰，並於二○六○年前實現碳中和的「雙碳」目標，政府會繼續積極落實《香港氣候行動藍圖2050》中「淨零發電」、「節能綠建」、「綠色運輸」和「全民減廢」四個減碳策略，以實現在二○三五年前把香港的碳排放量從二○○五年的水平減半，並在二○五○年前實現碳中和。
-
-二○二四年溫室氣體排放清單已上載至碳中和及可持續發展網頁（cnsd.gov.hk/tc/climate-ready/ghg-emissions-and-trends）。"
 Hong Kong greenhouse gas emission inventory for 2024 released,2026-01-22 10:10,2026-01-22 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200196.htm,"​The Environment and Ecology Bureau (EEB) released today (January 22) the 2024 greenhouse gas (GHG) emission inventory for Hong Kong.
 
 Hong Kong's GHG emissions continued their downward trend. The total GHG emissions in 2024 amounted to approximately 33.2 million tonnes of carbon dioxide equivalent (CO2-e), representing a decrease of 3.6 per cent compared with 2023. The per capita GHG emissions continued its downward trend, reaching a new low of 4.41 tonnes CO2-e. It is 3.5 per cent lower than that in 2023 and is about a quarter of that of the United States and 60 per cent of that of the European Union. The carbon intensity was 0.011 kilograms of CO2-e per Hong Kong dollar of GDP, representing a significant decrease of about 6 per cent compared to 2023.
@@ -299,29 +323,17 @@ According to the latest GHG emission inventory, the three main emission sources 
 To align with the country's ""dual carbon"" target to achieve the peak of carbon emissions before 2030 and carbon neutrality before 2060, the Government will continue to implement the four decarbonisation strategies, namely, net-zero electricity generation, energy saving and green buildings, green transport and waste reduction, outlined in Hong Kong's Climate Action Plan 2050, with a view to reducing Hong Kong's carbon emissions by half from the 2005 levels before 2035 and achieve carbon neutrality before 2050.
 
 Details of the 2024 GHG emission inventory have been uploaded to the Carbon Neutrality and Sustainable Development website (cnsd.gov.hk/en/climate-ready/ghg-emissions-and-trends)."
-醫務衞生局為大埔宏福苑火災居民提供基層醫療服務最新數字,2026-01-22 10:00,2026-01-22 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012100605.htm,"醫務衞生局（醫衞局）早前公布為受大埔宏福苑火災影響的居民提供醫療支援，現時以全港十八區地區康健中心／站（統稱康健中心）為樞紐，為受影響居民統籌及協調各項所需的基層醫療服務。醫衞局今日（一月二十二日）公布各服務的最新數字：
+環境及生態局公布二○二四年香港溫室氣體排放清單,2026-01-22 10:10,2026-01-22 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200195.htm,"​ 環境及生態局今日（一月二十二日）公布二○二四年香港溫室氣體排放清單。
 
-康健中心熱線
+香港溫室氣體排放量持續下降，二○二四年，香港的排放總量約為3 320萬公噸二氧化碳當量，較二○二三年下降3.6%。人均溫室氣體排放量下降至4.41公噸二氧化碳當量的新低點，較二○二三年下降3.5%，約是美國的四分之一及歐盟的六成。碳強度則為每港元本地生產總值0.011千克二氧化碳當量，相較二○二三年大幅下降約6%。
 
-基層醫療署統籌全港十八區康健中心自二○二五年十二月一日起設立熱線（詳見附件一），為受影響居民安排個人化個案管理服務，提供更便捷和全面的醫療支援，包括配對私營醫療界別家庭醫生及中醫師義診、按需要協調醫院管理局（醫管局）家庭醫學門診的覆診安排及覆配藥物事宜、轉介接受所需醫療、護理和藥物服務，以及心理支援。康健中心協調的服務不受區域限制，例如中心可協助受影響居民更改醫管局家庭醫學門診覆診和覆配藥物服務點，由大埔區轉至另一地點，免卻居民跨區奔波。截至一月二十日，十八區康健中心熱線累計接獲363人次的來電。
+香港的溫室氣體排放量已於二○一四年達峰。與二○一四年峰值比較，二○二四年的排放總量、人均排放量及碳強度分別下降約27%、30%及35%。
 
-免費中、西醫義診及牙醫免費鑲配假牙服務
+按最新的溫室氣體排放清單，本地最大的三個排放源仍然為發電（61%）、運輸（18%）及廢物處理（8%）。隨着香港逐步以天然氣和零碳能源取代燃煤發電、推動電動車普及化、減少棄置都市固體廢物、以及增加使用回收堆填氣體來生產能源，這三個排放源的溫室氣體排放量比較二○二三年分別下降3.5%、3.7%及9%。廢物處理的溫室氣體排放量減幅尤為顯著，主因是於堆填區的都市固體廢物棄置量減少3.4%，以及用於生產能源的堆填氣體回收量增加近12%。
 
-醫衞局分別在二○二五年十二月四日、十五日和二十三日推出家庭醫生義診計劃、中醫義診服務和牙醫免費鑲配假牙服務，支援受影響居民的基層醫療服務需要，直至今年二月二十八日。康健中心個案經理會按情況及居民意願，安排他們接受家庭醫生和中醫各三次免費診症，服務涵蓋藥物及相關治療；以及至少一次免費牙醫診療及一次跟進服務（視乎診療需要），服務涵蓋鑲配假牙和口腔治療服務。
+為配合國家在二○三○年前碳排放量達峰，並於二○六○年前實現碳中和的「雙碳」目標，政府會繼續積極落實《香港氣候行動藍圖2050》中「淨零發電」、「節能綠建」、「綠色運輸」和「全民減廢」四個減碳策略，以實現在二○三五年前把香港的碳排放量從二○○五年的水平減半，並在二○五○年前實現碳中和。
 
-截至一月二十日，有超過300名私營家庭醫生參加義診計劃，涵蓋超過450個服務點，當中包括八間私家醫院，累計已處理94宗轉介。中醫義診服務則已有超過360名中醫師參加，涵蓋超過620個服務點，累計已處理57宗轉介。牙醫免費鑲配假牙服務有超過110名私營牙醫參加，涵蓋超過150個服務點，累計已處理31宗轉介。
-
-醫管局醫療服務
-
-所有在是次火災中因受傷而送往醫管局轄下公立醫院的傷者，其整個治療和復康過程所需的醫療服務（包括藥物及醫療器械）均會獲全額費用豁免。在火災中共有79名傷者在不同的公立醫院接受治療，截至一月二十日，已經有71名傷者先後康復出院。餘下的8名傷者均情況穩定，醫護人員會繼續為傷者提供合適的治療及照顧。
-
-此外，宏福苑共八座樓宇的所有居民（包括外籍家庭傭工）均可享有全額醫療費用豁免安排至今年十二月三十一日，涵蓋醫管局轄下的住院、家庭醫學及專科門診（包括精神科專科門診）、急症室、日間醫院、日間程序、社區服務及中醫診所暨教研中心。截至一月二十日，醫管局已為約1 900名受影響居民提供所需醫療服務。
-
-心理健康支援
-
-「情緒通」18111精神健康支援熱線在事故當日已即時增派人手，並加強對接聽員的訓練，以應對市民因事件而可能產生的情緒困擾。由事發至一月二十日，熱線已接聽超過17 000宗來電，其中750宗來電與火災相關；WhatsApp功能亦已處理超過800宗信息，其中約50宗與火災相關。醫管局透過24小時的「精神健康專線」，由精神科護士接聽，為求助者就精神健康事宜提供專業意見及支援，包括提供風險評估及按求助者需要適切安排轉介醫管局精神科服務。截至一月二十日，「精神健康專線」共收到102宗與火災相關來電，其中40宗來電來自受影響市民。
-
-醫衞局會繼續為受影響居民提供全面基層醫療支援，並從居民的角度設計相關服務流程，讓他們只需透過康健中心便可獲得便捷及到位的醫療支援（詳見附件二）。"
+二○二四年溫室氣體排放清單已上載至碳中和及可持續發展網頁（cnsd.gov.hk/tc/climate-ready/ghg-emissions-and-trends）。"
 Latest figures of primary healthcare services provided by Health Bureau to residents affected by Tai Po Wang Fuk Court fire,2026-01-22 10:00,2026-01-22 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012100608.htm,"  The Health Bureau (HHB) announced earlier the medical support provided for residents affected by the fire at Wang Fuk Court in Tai Po. At present, the District Health Centres/District Health Centre Expresses (collectively referred to as DHCs) across all 18 districts in Hong Kong serve as hubs to co-ordinate various primary healthcare services as needed for the affected residents. The HHB announced today (January 22) the latest figures of these services:
 
 DHC hotlines
@@ -345,21 +357,29 @@ Mental health support
   The 18111 - Mental Health Support Hotline immediately deployed additional staff and strengthened training for its call handlers on the day of the fire incident to cope with the emotional distress that the public may experience due to the incident. From the time of the incident to January 20, the hotline has received over 17 000 calls, 750 of which were related to the fire incident. The WhatsApp service has handled over 800 messages, with about 50 of them concerning the fire incident. The HA's 24-hour Mental Health Direct hotline, manned by psychiatric nurses, offers professional advice and support on mental health issues to callers, including provision of risk assessments and referrals to the HA's mental health services as appropriate. As of January 20, the Mental Health Direct hotline has received 102 calls related to the fire incident, with 40 of them coming from affected citizens.
 
   The HHB will continue to provide comprehensive primary healthcare support to affected residents. The HHB also designed the relevant service workflow from the residents' perspective, allowing them to receive convenient and effective medical support simply through the DHCs (see Annex 2)."
-財政司司長在瑞士向各界領袖推廣香港優勢（附圖／短片）,2026-01-22 09:00,2026-01-22 09:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200131.htm,"財政司司長陳茂波昨日（達沃斯時間一月二十一日）繼續出席在瑞士達沃斯舉行的世界經濟論壇年會活動，出席了多場餐會和交流會，並與各地官員和商界領袖會面交流，推廣香港的優勢。
+醫務衞生局為大埔宏福苑火災居民提供基層醫療服務最新數字,2026-01-22 10:00,2026-01-22 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012100605.htm,"醫務衞生局（醫衞局）早前公布為受大埔宏福苑火災影響的居民提供醫療支援，現時以全港十八區地區康健中心／站（統稱康健中心）為樞紐，為受影響居民統籌及協調各項所需的基層醫療服務。醫衞局今日（一月二十二日）公布各服務的最新數字：
 
-陳茂波中午出席了「2026達沃斯‧財新CEO午餐會」並發表主題演講。餐會以「探尋有效增長之道」為主題，陳茂波向參與午餐會的嘉賓介紹了香港在過去一兩年所取得的穩健發展，以及未來在金融、貿易和創科三個主要增長引擎的發展願景和布局。
+康健中心熱線
 
-他特別指出，人工智能和區塊鏈等技術的突破正引發深刻的產業變革，驅動經濟增長和轉型，任何經濟體都必須擁抱這些發展；在「一國兩制」下，香港在金融和科技創新上正不斷探索和試驗，加上與鄰近粵港澳大灣區具備強大創科產業鏈的兄弟城市合作，具有相當大的發展潛力，值得投資。
+基層醫療署統籌全港十八區康健中心自二○二五年十二月一日起設立熱線（詳見附件一），為受影響居民安排個人化個案管理服務，提供更便捷和全面的醫療支援，包括配對私營醫療界別家庭醫生及中醫師義診、按需要協調醫院管理局（醫管局）家庭醫學門診的覆診安排及覆配藥物事宜、轉介接受所需醫療、護理和藥物服務，以及心理支援。康健中心協調的服務不受區域限制，例如中心可協助受影響居民更改醫管局家庭醫學門診覆診和覆配藥物服務點，由大埔區轉至另一地點，免卻居民跨區奔波。截至一月二十日，十八區康健中心熱線累計接獲363人次的來電。
 
-他在演講中也指出，國際貿易正經歷範式轉移，發達國家需意識到部分發展中國家過去主要以製造和輸出廉價產品的發展模式正在改變。以中國為例，國家推進高水平雙向對外開放，並以擴大內需作為經濟發展的主要動力，這一方面將持續為中國經濟的高質量發展注入動能，同時也為不同經濟體的優質產品和服務提供龐大巿場機遇，繼續共同繁榮。
+免費中、西醫義診及牙醫免費鑲配假牙服務
 
-此外，陳茂波晚上出席以聚焦中國發展為主題的晚餐會並發表演講，分享對國家發展、國際關係，以及香港和內地資本市場發展的看法。
+醫衞局分別在二○二五年十二月四日、十五日和二十三日推出家庭醫生義診計劃、中醫義診服務和牙醫免費鑲配假牙服務，支援受影響居民的基層醫療服務需要，直至今年二月二十八日。康健中心個案經理會按情況及居民意願，安排他們接受家庭醫生和中醫各三次免費診症，服務涵蓋藥物及相關治療；以及至少一次免費牙醫診療及一次跟進服務（視乎診療需要），服務涵蓋鑲配假牙和口腔治療服務。
 
-昨日早上，陳茂波也出席了世界經濟論壇年會的企業家交流會，與近百名來自各經濟體不同界別的領袖就美國經濟和環球經濟展望等議題互動，討論增強經濟韌性和推動增長的策略。
+截至一月二十日，有超過300名私營家庭醫生參加義診計劃，涵蓋超過450個服務點，當中包括八間私家醫院，累計已處理94宗轉介。中醫義診服務則已有超過360名中醫師參加，涵蓋超過620個服務點，累計已處理57宗轉介。牙醫免費鑲配假牙服務有超過110名私營牙醫參加，涵蓋超過150個服務點，累計已處理31宗轉介。
 
-此外，陳茂波分別會見了柬埔寨副首相孫占托和阿拉伯聯合酋長國金融事務國務部長Mohamed bin Hadi Al Hussaini，就國際經貿形勢和共同關心的議題交流看法，並探討加強雙邊經貿合作。他昨日亦與醫療科技公司醫渡科技董事長兼創始人宫盈盈會面，了解其結合人工智能和數字化技術的臨床平台的發展，並鼓勵其到香港開展業務。
+醫管局醫療服務
 
-陳茂波今日（達沃斯時間一月二十二日）將繼續當地的訪問行程。"
+所有在是次火災中因受傷而送往醫管局轄下公立醫院的傷者，其整個治療和復康過程所需的醫療服務（包括藥物及醫療器械）均會獲全額費用豁免。在火災中共有79名傷者在不同的公立醫院接受治療，截至一月二十日，已經有71名傷者先後康復出院。餘下的8名傷者均情況穩定，醫護人員會繼續為傷者提供合適的治療及照顧。
+
+此外，宏福苑共八座樓宇的所有居民（包括外籍家庭傭工）均可享有全額醫療費用豁免安排至今年十二月三十一日，涵蓋醫管局轄下的住院、家庭醫學及專科門診（包括精神科專科門診）、急症室、日間醫院、日間程序、社區服務及中醫診所暨教研中心。截至一月二十日，醫管局已為約1 900名受影響居民提供所需醫療服務。
+
+心理健康支援
+
+「情緒通」18111精神健康支援熱線在事故當日已即時增派人手，並加強對接聽員的訓練，以應對市民因事件而可能產生的情緒困擾。由事發至一月二十日，熱線已接聽超過17 000宗來電，其中750宗來電與火災相關；WhatsApp功能亦已處理超過800宗信息，其中約50宗與火災相關。醫管局透過24小時的「精神健康專線」，由精神科護士接聽，為求助者就精神健康事宜提供專業意見及支援，包括提供風險評估及按求助者需要適切安排轉介醫管局精神科服務。截至一月二十日，「精神健康專線」共收到102宗與火災相關來電，其中40宗來電來自受影響市民。
+
+醫衞局會繼續為受影響居民提供全面基層醫療支援，並從居民的角度設計相關服務流程，讓他們只需透過康健中心便可獲得便捷及到位的醫療支援（詳見附件二）。"
 FS promotes Hong Kong's advantages to global leaders in Switzerland (with photos/video),2026-01-22 09:00,2026-01-22 09:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200132.htm,"​The Financial Secretary, Mr Paul Chan, continued his visit to Davos, Switzerland, yesterday (January 21, Davos time) to attend activities of the World Economic Forum (WEF) Annual Meeting. He participated in multiple luncheons and networking sessions, and met with officials and business leaders from various regions to promote Hong Kong's advantages.
 
 At noon, Mr Chan attended the ""2026 Davos-Caixin CEO Luncheon"" themed ""Beyond Old Models: Designing Growth That Works"" and delivered a keynote speech. In his speech, Mr Chan introduced the steady progress Hong Kong has made over the past year or two, and shared the city's development vision and strategic positioning in its three key growth engines — finance, trade as well as innovation and technology.
@@ -375,6 +395,21 @@ Earlier in the day, Mr Chan also attended a business exchange session of the WEF
 Meanwhile, Mr Chan also held bilateral meetings with the Deputy Prime Minister of Cambodia, Mr Sun Chanthol, and the Minister of State for Financial Affairs of the United Arab Emirates, Mr Mohamed bin Hadi Al Hussaini. They exchanged views on the global economic and trade landscape and matters of mutual interest, and explored ways to strengthen bilateral economic and trade co-operation. Mr Chan also met with the Chairlady and Founder of medical technology company Yidu Tech, Ms Gong Yingying, yesterday to learn about the development of its AI and digital-powered clinical platform. He encouraged the company to consider expanding its business to Hong Kong.
 
 Mr Chan will continue his visit in Davos today (January 22, Davos time)."
+財政司司長在瑞士向各界領袖推廣香港優勢（附圖／短片）,2026-01-22 09:00,2026-01-22 09:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012200131.htm,"財政司司長陳茂波昨日（達沃斯時間一月二十一日）繼續出席在瑞士達沃斯舉行的世界經濟論壇年會活動，出席了多場餐會和交流會，並與各地官員和商界領袖會面交流，推廣香港的優勢。
+
+陳茂波中午出席了「2026達沃斯‧財新CEO午餐會」並發表主題演講。餐會以「探尋有效增長之道」為主題，陳茂波向參與午餐會的嘉賓介紹了香港在過去一兩年所取得的穩健發展，以及未來在金融、貿易和創科三個主要增長引擎的發展願景和布局。
+
+他特別指出，人工智能和區塊鏈等技術的突破正引發深刻的產業變革，驅動經濟增長和轉型，任何經濟體都必須擁抱這些發展；在「一國兩制」下，香港在金融和科技創新上正不斷探索和試驗，加上與鄰近粵港澳大灣區具備強大創科產業鏈的兄弟城市合作，具有相當大的發展潛力，值得投資。
+
+他在演講中也指出，國際貿易正經歷範式轉移，發達國家需意識到部分發展中國家過去主要以製造和輸出廉價產品的發展模式正在改變。以中國為例，國家推進高水平雙向對外開放，並以擴大內需作為經濟發展的主要動力，這一方面將持續為中國經濟的高質量發展注入動能，同時也為不同經濟體的優質產品和服務提供龐大巿場機遇，繼續共同繁榮。
+
+此外，陳茂波晚上出席以聚焦中國發展為主題的晚餐會並發表演講，分享對國家發展、國際關係，以及香港和內地資本市場發展的看法。
+
+昨日早上，陳茂波也出席了世界經濟論壇年會的企業家交流會，與近百名來自各經濟體不同界別的領袖就美國經濟和環球經濟展望等議題互動，討論增強經濟韌性和推動增長的策略。
+
+此外，陳茂波分別會見了柬埔寨副首相孫占托和阿拉伯聯合酋長國金融事務國務部長Mohamed bin Hadi Al Hussaini，就國際經貿形勢和共同關心的議題交流看法，並探討加強雙邊經貿合作。他昨日亦與醫療科技公司醫渡科技董事長兼創始人宫盈盈會面，了解其結合人工智能和數字化技術的臨床平台的發展，並鼓勵其到香港開展業務。
+
+陳茂波今日（達沃斯時間一月二十二日）將繼續當地的訪問行程。"
 HKETO San Francisco hosts New Year Reception in California (with photos),2026-01-22 07:10,2026-01-22 07:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/22/P2026012100548.htm," The Hong Kong Economic and Trade Office in San Francisco (HKETO San Francisco) ushered in the New Year with close to 300 guests at the New Year Reception on January 9 (San Francisco time) in San Francisco, California.
 
  Guests attending the event included consuls-general, mayors, supervisors, academia, business and community leaders as well as representatives of cultural institutes in the San Francisco Bay Area.
@@ -707,35 +742,6 @@ President,
 （四）各駐內地辦事處一直致力與駐地的港人組織、商會、企業和學生團體等建立和保持緊密聯繫，並通過不時舉辦的各類經貿文化交流活動主動了解港人在當地工作、學習和生活的情況以及所遇到的困難。駐內地辦事處會按實際情況和需要為港人提供適切的支援和協助，並就他們的訴求向內地相關部門作出反映。為協助港人更好地適應當地生活，駐內地辦事處又已編製實用生活資訊小冊子，同時以電子版本在辦事處網站及社交媒體上發布，並向內地港人提供有關內地最新法律法規、政策及重大區域發展等的資訊。另外，駐內地辦事處又透過設於廣州的粵港澳大灣區發展推廣中心，向在大灣區內地城市發展的香港居民和企業推廣大灣區機遇，並提供各種實務性的協助。
 
 此外，貿發局亦不時拜訪內地港企，了解其業務發展需要及營運挑戰，並舉辦合適的主題活動，提供商貿支援。同時，貿發局又推出了「GoGBA一站式平台」和「GoGBA灣區經貿通」數碼資訊平台，為商界提供大灣區「9+2」城市群的最新資訊，包括政策、市場、產業、資助，以至各灣區城市的最新發展，並在各灣區城市建立了「GoGBA港商服務站」網絡，其中位於深圳福田高鐵站大堂的「GoGBA港商服務站」更是由貿發局、深圳市福田區人民政府和廣東省香港商會共同建立。"
-LCQ6: Alignment with country's development plans,2026-01-21 19:44,2026-01-21 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100561.htm,"  Following is a question by Dr the Hon Johnny Ng and a reply by the Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, in the Legislative Council today (January 21):
-
-Question:
-
-  The Recommendations for Formulating the 15th Five-Year Plan outline the country's development in the next five years and make special arrangements to promote long-term prosperity and stability in Hong Kong and Macao. In this connection, will the Government inform this Council:
-
-(1) of the specific policy options to proactively align with the Recommendations for Formulating the 15th Five-Year Plan, including how to broaden economic development and growth, accelerate the development and application of innovation and technology, and expedite the upgrading of industry structures, so as to align with the country's development;
-
-(2) as there are views that the Northern Metropolis will be crucial to Hong Kong's economic and innovation development during the 15th Five-Year Plan period, how the Government will strengthen co-operation between the Northern Metropolis and other Mainland cities in the Guangdong-Hong Kong-Macao Greater Bay Area, such as formulating joint policies to promote division of work in development, streamlining the administration workflows, advancing infrastructure construction, and expediting the implementation of the Northern Metropolis Action Agenda and the Conceptual Outline of the Development Plan for the Innovation and Technology Industry in the San Tin Technopole, so as to align with the country's planning and development; and
-
-(3) whether the Government will, apart from formulating one-year policy planning through the annual Policy Address, proactively align with the country's planning and arrangements and formulate ""five-year plans"" in the long run, so as to align with the country's macro development direction?
-
-Reply:
-
-President,
-
-  Having consulted the Innovation, Technology and Industry Bureau (ITIB) and the Development Bureau (DEVB), our reply in response to the questions raised by Dr the Hon Johnny Ng is as follows:
-
-(1) The Fourth Plenary Session of the 20th Central Committee of the Communist Party of China (CPC) deliberated and adopted the Recommendations of the CPC Central Committee for Formulating the 15th Five Year Plan for National Economic and Social Development (the Recommendations for Formulating the 15th Five-Year Plan) in October last year. The Recommendations for Formulating the 15th Five-Year Plan provide top-level design and strategic blueprint for the country’s development over the next five years, comprehensively devising the strategic tasks and major initiatives during the 15th Five-Year Plan period, and clarifying the approaches and key tasks in priority areas ranging from industrial development, technological innovation, domestic market, economic system, opening-up, rural revitalisation, and regional development, to cultural construction, safeguarding people's livelihoods, green development, safe development, and national defence. All of these strategic tasks and major initiatives will bring boundless opportunities for Hong Kong's future development, and therefore all sectors of Hong Kong society must seize them firmly. For example, in terms of improving regional economic structures, Hong Kong should deeply engage in the development of the Guangdong-Hong Kong-Macao Greater Bay Area, while strengthening interactive co-operation with other Mainland regional economies for mutual benefit, win-win results, and mutual advancement. In terms of international co-operation, Hong Kong should continue to deepen international exchanges and co-operation, attract global high-end talents and capital, and play its dual roles of assisting Mainland enterprises to ""go global"" and attracting overseas investment. In terms of green development, Hong Kong should promote green finance and carbon neutrality practices to support the country's ecological civilisation construction, while fostering the development of local environmental industries. As for the innovation and technology development that Member is concerned about, the Government announced the Hong Kong Innovation and Technology Development Blueprint in 2022. In addition, the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Co-operation Zone (the Hong Kong-Shenzhen Innovation and Technology Park) officially opened in December 2025. Hong Kong and Shenzhen will strive for trial implementation of dedicated cross-boundary policy measures to facilitate the convenient flow of important innovation elements including personnel, materials, capital and data within the Loop, endeavouring to become a testing zone for new rules and innovation and cultivate a testing ground for institutional and policy innovation, in response to the goals and requirements for high-quality development as well as self-reliance and strength in science and technology in the Recommendations for Formulating the 15th Five-Year Plan. From the above, it can be seen that the work of aligning with the 15th Five-Year Plan is all-round, in-depth and multi-dimensional, covering extensive areas. The Recommendations for Formulating the 15th Five-Year Plan also make important plans for Hong Kong's development, proposing to consolidate, enhance, build and develop the ""Four Centres and One Highland"", namely the international financial, shipping, trade and innovation and technology centres, as well as the highland of international top-tier talent. These plans not only represent the direction and driving force for Hong Kong's long-term development in the future, but also align with the country's development positioning and are conducive to the country's development needs, precisely leveraging Hong Kong's strengths to serve the country's needs. At present, policy bureaux and departments of the HKSAR Government are actively studying in-depth on how to proactively align with the Recommendations for Formulating the 15th Five-Year Plan in their respective scopes and purviews. After the draft outline of the 15th Five-Year Plan is adopted at the session of the National People's Congress later, the policy bureaux will take forward the relevant alignment work in full swing. The Steering Group on Integration into National Development led by the Chief Executive will also provide high-level, all-round guidance, co-ordination and supervision to effectively implement the relevant work, ensuring that the HKSAR fully aligns with the 15th Five-Year Plan and promotes high-quality development for both the country and Hong Kong.
-
-(2) As regard the development of the Northern Metropolis (NM), it is an important measure taken by the HKSAR Government to actively align with the 15th Five-Year Plan, as well as an important engine driving Hong Kong's future economic and social development. It helps promote the high-quality development and foster more comprehensive co-operation of the Guangdong-Hong Kong-Macao Greater Bay Area. We are moving full steam ahead to develop the NM, expedite the construction and attract industries. At the same time, as mentioned above, the Hong Kong-Shenzhen Innovation and Technology Park already officially opened in December 2025, and the ITIB has also promulgated the Conceptual Outline of Development Plan for Innovation and Technology Industry in San Tin Technopole, setting a clear development strategy for the San Tin Technopole.
-
-  Recently, in addition to launching the tender exercise for the first pilot area under the large-scale land disposal approach within the NM, DEVB is also actively preparing for the Hung Shui Kiu Industry Park Company Limited's commencement of operation in mid-2026. DEVB will conduct a public consultation on the dedicated legislation to accelerate the development of the NM in the first quarter, and has recently introduced to the industry and stakeholders the administrative measures to expedite approval of private projects within the NM. The HKSAR Government will continue to maintain close liaison with the Shenzhen side on matters relating to NM development through the Task Force for Collaboration on the NM Development Strategy. Both sides will conduct joint discussions on matters related to cross-boundary development and construction.
-
-(3) The HKSAR Government attaches utmost importance to the work of proactively aligning with the country's ""Five-Year Plans"". The Chief Executive delivers the Policy Address annually, setting out to the Legislative Council and all sectors of the community the major policy directions and concrete measures to be launched by the Government in the coming year. These policy measures maintain consistency and are highly aligned with the national ""Five-Year Plans"". In fact, since the promulgation of the 14th Five-Year Plan, each year's Policy Address has included specific policy initiatives aimed at consolidating and strengthening Hong Kong's role as the ""eight centres"" outlined in the plan. The Government also formulates development blueprints from time to time for key policy areas, manifesting medium- to long-term development planning, such as the Hong Kong Innovation and Technology Development Blueprint and the Chinese Medicine Development Blueprint. All these demonstrate that the HKSAR Government attaches great importance to the long-term planning and development of the HKSAR. The establishment by the Government of the Steering Group on Integration into National Development to steer the 14th Five-Year Plan and the 15th Five-Year Plan is in itself a mature and established mechanism for comprehensively aligning with the country's ""Five-Year Plans"".
-
-  The 15th Five-Year Plan will bring boundless development opportunities to Hong Kong. The HKSAR Government will certainly lead all sectors of Hong Kong society to work together to fully and proactively align with the 15th Five-Year Plan, so as to promote the long-term high-quality development of the country and Hong Kong, integrate into and at the same time serve the overall national development, and contribute to the country's building of a great country and the great rejuvenation of the nation.
-
-  Thank you, President."
 立法會六題：配合國家的發展規劃,2026-01-21 19:44,2026-01-21 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100560.htm,"以下是今日（一月二十一日）在立法會會議上吳傑莊議員的提問和政制及內地事務局局長曾國衞的答覆：
 
 問題：
@@ -765,6 +771,35 @@ President,
 「十五五」規劃將為香港帶來無限的發展機遇，特區政府必定會帶領全港各界共同努力全面主動對接好「十五五」規劃，以促進國家與香港長遠的高質量發展，既融入同時又服務國家的發展大局，並為國家的強國建設和民族的偉大復興作出貢獻。
 
 多謝主席。"
+LCQ6: Alignment with country's development plans,2026-01-21 19:44,2026-01-21 20:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100561.htm,"  Following is a question by Dr the Hon Johnny Ng and a reply by the Secretary for Constitutional and Mainland Affairs, Mr Erick Tsang Kwok-wai, in the Legislative Council today (January 21):
+
+Question:
+
+  The Recommendations for Formulating the 15th Five-Year Plan outline the country's development in the next five years and make special arrangements to promote long-term prosperity and stability in Hong Kong and Macao. In this connection, will the Government inform this Council:
+
+(1) of the specific policy options to proactively align with the Recommendations for Formulating the 15th Five-Year Plan, including how to broaden economic development and growth, accelerate the development and application of innovation and technology, and expedite the upgrading of industry structures, so as to align with the country's development;
+
+(2) as there are views that the Northern Metropolis will be crucial to Hong Kong's economic and innovation development during the 15th Five-Year Plan period, how the Government will strengthen co-operation between the Northern Metropolis and other Mainland cities in the Guangdong-Hong Kong-Macao Greater Bay Area, such as formulating joint policies to promote division of work in development, streamlining the administration workflows, advancing infrastructure construction, and expediting the implementation of the Northern Metropolis Action Agenda and the Conceptual Outline of the Development Plan for the Innovation and Technology Industry in the San Tin Technopole, so as to align with the country's planning and development; and
+
+(3) whether the Government will, apart from formulating one-year policy planning through the annual Policy Address, proactively align with the country's planning and arrangements and formulate ""five-year plans"" in the long run, so as to align with the country's macro development direction?
+
+Reply:
+
+President,
+
+  Having consulted the Innovation, Technology and Industry Bureau (ITIB) and the Development Bureau (DEVB), our reply in response to the questions raised by Dr the Hon Johnny Ng is as follows:
+
+(1) The Fourth Plenary Session of the 20th Central Committee of the Communist Party of China (CPC) deliberated and adopted the Recommendations of the CPC Central Committee for Formulating the 15th Five Year Plan for National Economic and Social Development (the Recommendations for Formulating the 15th Five-Year Plan) in October last year. The Recommendations for Formulating the 15th Five-Year Plan provide top-level design and strategic blueprint for the country’s development over the next five years, comprehensively devising the strategic tasks and major initiatives during the 15th Five-Year Plan period, and clarifying the approaches and key tasks in priority areas ranging from industrial development, technological innovation, domestic market, economic system, opening-up, rural revitalisation, and regional development, to cultural construction, safeguarding people's livelihoods, green development, safe development, and national defence. All of these strategic tasks and major initiatives will bring boundless opportunities for Hong Kong's future development, and therefore all sectors of Hong Kong society must seize them firmly. For example, in terms of improving regional economic structures, Hong Kong should deeply engage in the development of the Guangdong-Hong Kong-Macao Greater Bay Area, while strengthening interactive co-operation with other Mainland regional economies for mutual benefit, win-win results, and mutual advancement. In terms of international co-operation, Hong Kong should continue to deepen international exchanges and co-operation, attract global high-end talents and capital, and play its dual roles of assisting Mainland enterprises to ""go global"" and attracting overseas investment. In terms of green development, Hong Kong should promote green finance and carbon neutrality practices to support the country's ecological civilisation construction, while fostering the development of local environmental industries. As for the innovation and technology development that Member is concerned about, the Government announced the Hong Kong Innovation and Technology Development Blueprint in 2022. In addition, the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Co-operation Zone (the Hong Kong-Shenzhen Innovation and Technology Park) officially opened in December 2025. Hong Kong and Shenzhen will strive for trial implementation of dedicated cross-boundary policy measures to facilitate the convenient flow of important innovation elements including personnel, materials, capital and data within the Loop, endeavouring to become a testing zone for new rules and innovation and cultivate a testing ground for institutional and policy innovation, in response to the goals and requirements for high-quality development as well as self-reliance and strength in science and technology in the Recommendations for Formulating the 15th Five-Year Plan. From the above, it can be seen that the work of aligning with the 15th Five-Year Plan is all-round, in-depth and multi-dimensional, covering extensive areas. The Recommendations for Formulating the 15th Five-Year Plan also make important plans for Hong Kong's development, proposing to consolidate, enhance, build and develop the ""Four Centres and One Highland"", namely the international financial, shipping, trade and innovation and technology centres, as well as the highland of international top-tier talent. These plans not only represent the direction and driving force for Hong Kong's long-term development in the future, but also align with the country's development positioning and are conducive to the country's development needs, precisely leveraging Hong Kong's strengths to serve the country's needs. At present, policy bureaux and departments of the HKSAR Government are actively studying in-depth on how to proactively align with the Recommendations for Formulating the 15th Five-Year Plan in their respective scopes and purviews. After the draft outline of the 15th Five-Year Plan is adopted at the session of the National People's Congress later, the policy bureaux will take forward the relevant alignment work in full swing. The Steering Group on Integration into National Development led by the Chief Executive will also provide high-level, all-round guidance, co-ordination and supervision to effectively implement the relevant work, ensuring that the HKSAR fully aligns with the 15th Five-Year Plan and promotes high-quality development for both the country and Hong Kong.
+
+(2) As regard the development of the Northern Metropolis (NM), it is an important measure taken by the HKSAR Government to actively align with the 15th Five-Year Plan, as well as an important engine driving Hong Kong's future economic and social development. It helps promote the high-quality development and foster more comprehensive co-operation of the Guangdong-Hong Kong-Macao Greater Bay Area. We are moving full steam ahead to develop the NM, expedite the construction and attract industries. At the same time, as mentioned above, the Hong Kong-Shenzhen Innovation and Technology Park already officially opened in December 2025, and the ITIB has also promulgated the Conceptual Outline of Development Plan for Innovation and Technology Industry in San Tin Technopole, setting a clear development strategy for the San Tin Technopole.
+
+  Recently, in addition to launching the tender exercise for the first pilot area under the large-scale land disposal approach within the NM, DEVB is also actively preparing for the Hung Shui Kiu Industry Park Company Limited's commencement of operation in mid-2026. DEVB will conduct a public consultation on the dedicated legislation to accelerate the development of the NM in the first quarter, and has recently introduced to the industry and stakeholders the administrative measures to expedite approval of private projects within the NM. The HKSAR Government will continue to maintain close liaison with the Shenzhen side on matters relating to NM development through the Task Force for Collaboration on the NM Development Strategy. Both sides will conduct joint discussions on matters related to cross-boundary development and construction.
+
+(3) The HKSAR Government attaches utmost importance to the work of proactively aligning with the country's ""Five-Year Plans"". The Chief Executive delivers the Policy Address annually, setting out to the Legislative Council and all sectors of the community the major policy directions and concrete measures to be launched by the Government in the coming year. These policy measures maintain consistency and are highly aligned with the national ""Five-Year Plans"". In fact, since the promulgation of the 14th Five-Year Plan, each year's Policy Address has included specific policy initiatives aimed at consolidating and strengthening Hong Kong's role as the ""eight centres"" outlined in the plan. The Government also formulates development blueprints from time to time for key policy areas, manifesting medium- to long-term development planning, such as the Hong Kong Innovation and Technology Development Blueprint and the Chinese Medicine Development Blueprint. All these demonstrate that the HKSAR Government attaches great importance to the long-term planning and development of the HKSAR. The establishment by the Government of the Steering Group on Integration into National Development to steer the 14th Five-Year Plan and the 15th Five-Year Plan is in itself a mature and established mechanism for comprehensively aligning with the country's ""Five-Year Plans"".
+
+  The 15th Five-Year Plan will bring boundless development opportunities to Hong Kong. The HKSAR Government will certainly lead all sectors of Hong Kong society to work together to fully and proactively align with the 15th Five-Year Plan, so as to promote the long-term high-quality development of the country and Hong Kong, integrate into and at the same time serve the overall national development, and contribute to the country's building of a great country and the great rejuvenation of the nation.
+
+  Thank you, President."
 駐倫敦經貿辦在倫敦推廣香港藝術科技（附圖）,2026-01-21 19:42,2026-01-21 20:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100063.htm,"香港駐倫敦經濟貿易辦事處（駐倫敦經貿辦）與香港浸會大學（浸大）於一月十九日（倫敦時間）在英國倫敦聯合主辦「明珠脈動：前衛．商道」酒會，推廣香港藝術科技領域的最新發展和投資機遇。
 
 在投資推廣署、創新科技署及香港貿易發展局的支持下，酒會聚焦藝術科技的最新發展，探討其商業化及產業化的潛力，並展示香港蓬勃發展的藝術科技領域所蘊藏的投資機遇。活動亦慶祝由浸大、香港芭蕾舞團及Studio Wayne McGregor聯合製作的全球首個後電影舞蹈裝置作品《異．地》（Wayne McGregor: On The Other Earth）於倫敦成功展出。
@@ -1136,32 +1171,6 @@ Members of the public may report any suspected illicit cigarette activities to C
 政府回應法庭就精進建築除名決定上訴作出的裁決,2026-01-21 17:36,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100527.htm,"高等法院原訟法庭今日（一月二十一日）就精進建築有限公司（「精進建築」）上訴建築事務監督將其從「一般建築承建商名冊」除名的決定作出裁決，裁定「精進建築」上訴得直，屋宇署作為建築事務監督須重新處理其註冊續期申請。
 
 屋宇署表示會與律政司詳細研究判詞，以積極考慮上訴。"
-​按揭證券公司舉辦《退休後，我想做的100件事》首映禮及分享會（附圖）,2026-01-21 17:30,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100315.htm,"下稿代香港金融管理局發出︰
-
-香港按揭證券有限公司（按揭證券公司）今日（一月二十一日）舉辦《退休後，我想做的100件事》首映禮及分享會，推廣善用「HKMC退休3寶」，即安老按揭計劃、保單逆按計劃及香港年金計劃（註）來自製長糧，有助達到個人退休生活的目標。
-
-是次活動有約三十家按揭證券公司的合作伙伴（見附件）應邀出席，包括銀行、保險業公司、公共機構，及社會企業等，一同觀賞由藝人黃德斌及李司棋主演的《退休後，我想做的100件事》微電影的首播，並參與全場亮燈儀式，為市民的退休生活送上祝福。另外，活動還設有退休規劃分享會，介紹「HKMC退休3寶」及會員計劃AMIGOS By HKMC，亦開放予現場公眾參與。
-
-按揭證券公司執行董事兼總裁鮑克運表示：「按揭證券公司其中一項使命是促進退休規劃市場發展。我們自二○一一年起先後推出『HKMC退休3寶』下三項產品，時至今日已協助超過45 000名客戶，提升退休生活質素。我希望大家看過這部微電影後能產生共鳴，一起做好退休規劃。按揭證券公司未來會繼續加強推廣『HKMC退休3寶』及推動長者理財教育，配合政府應對高齡化和促進銀髮經濟。」
-
-《退休後，我想做的100件事》微電影已上載至HKMC YouTube頻道（www.youtube.com/@HKMC_Channel）供公眾收看。同時，按揭證券公司會利用多元化平台推行全年的宣傳和教育，包括電視、電台、網上媒體及戶外媒體的廣告均會陸續推出。
-
-如對「HKMC退休3寶」產品內容或申請辦法有任何疑問，可致電熱線2536 0833查詢。
-
-註：安老按揭計劃和保單逆按計劃是由香港按證保險有限公司營運，而香港年金計劃則由香港年金有限公司承保。香港按證保險有限公司和香港年金有限公司為按揭證券公司全資附屬公司。"
-"HKMC organises premiere and sharing session of ""100 Things I Want to Do after Retirement"" (with photos)",2026-01-21 17:30,2026-01-21 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100312.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-  The Hong Kong Mortgage Corporation Limited (HKMC) organised the premiere of ""100 Things I Want to Do after Retirement"" and a sharing session on retirement planning today (January 21) to promote the use of the ""HKMC Retire 3"", namely the Reverse Mortgage Programme (RMP), the Policy Reverse Mortgage Programme (PRMP) and the HKMC Annuity Plan (Note), to generate lifelong payouts in support of achieving personal retirement goals.
-
-Around 30 partners of the HKMC (see Annex), including banks, companies in the insurance industry, public bodies and social enterprises, attended the premiere of the micro-film ""100 Things I Want to Do after Retirement"" starring Mr Kenny Wong and Ms Louise Lee, and participated in a lighting ceremony wishing the best for the public's retirement lives. In addition, a retirement planning sharing session, which was open to the public, was conducted to introduce the ""HKMC Retire 3"" and AMIGOS By HKMC loyalty programme.
-
-  The Executive Director and Chief Executive Officer of the HKMC, Mr Colin Pou,said, ""One of the HKMC's missions is to promote the development of the retirement planning market. Since the launch of the three products under the 'HKMC Retire 3' from 2011 onwards, we have helped over 45 000 customers enhance the quality of their retirement lives. I hope this micro-film can resonate with the public and inspire them to plan ahead for their retirement. The HKMC will continue to step up the promotion of the 'HKMC Retire 3' and strengthen financial education for the elderly, so as to support the Government's initiative to address the ageing society and promote silver economy.""
-
-The micro-film ""100 Things I Want to Do after Retirement"" is now available on the HKMC's YouTube Channel (www.youtube.com/@HKMC_Channel) for public viewing. Concurrently, the HKMC is rolling out a year-round promotion and education campaign, with advertisements to be launched successively across diverse channels, including television, radio, online media and outdoor media.
-
-For any enquiries on the product features or application methods of the ""HKMC Retire 3"", please call the hotline at 2536 0833.
-
-Note: The RMP and the PRMP are operated by HKMC Insurance Limited, and the HKMC Annuity Plan is underwritten by HKMC Annuity Limited. HKMC Insurance Limited and HKMC Annuity Limited are wholly-owned subsidiaries of the HKMC."
 HAD opens temporary cold shelters,2026-01-21 17:30,2026-01-21 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100503.htm,"  In view of the cold weather, the Home Affairs Department has opened 18 temporary cold shelters in various districts today (January 21) for people in need of the service. The temporary shelters will remain open when the Cold Weather Warning is in force.
 
  Clean mattresses and blankets/quilts, hot meals and hot water will be provided to shelter users free of charge during the opening of the temporary shelters.
@@ -1299,6 +1308,19 @@ in addition to DEET, there are other insect repellents available on the market c
   The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as empty cans and lunch boxes. The FEHD also advises members of the public and property management agencies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
 
   The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
+"HKMC organises premiere and sharing session of ""100 Things I Want to Do after Retirement"" (with photos)",2026-01-21 17:30,2026-01-21 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100312.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+  The Hong Kong Mortgage Corporation Limited (HKMC) organised the premiere of ""100 Things I Want to Do after Retirement"" and a sharing session on retirement planning today (January 21) to promote the use of the ""HKMC Retire 3"", namely the Reverse Mortgage Programme (RMP), the Policy Reverse Mortgage Programme (PRMP) and the HKMC Annuity Plan (Note), to generate lifelong payouts in support of achieving personal retirement goals.
+
+Around 30 partners of the HKMC (see Annex), including banks, companies in the insurance industry, public bodies and social enterprises, attended the premiere of the micro-film ""100 Things I Want to Do after Retirement"" starring Mr Kenny Wong and Ms Louise Lee, and participated in a lighting ceremony wishing the best for the public's retirement lives. In addition, a retirement planning sharing session, which was open to the public, was conducted to introduce the ""HKMC Retire 3"" and AMIGOS By HKMC loyalty programme.
+
+  The Executive Director and Chief Executive Officer of the HKMC, Mr Colin Pou,said, ""One of the HKMC's missions is to promote the development of the retirement planning market. Since the launch of the three products under the 'HKMC Retire 3' from 2011 onwards, we have helped over 45 000 customers enhance the quality of their retirement lives. I hope this micro-film can resonate with the public and inspire them to plan ahead for their retirement. The HKMC will continue to step up the promotion of the 'HKMC Retire 3' and strengthen financial education for the elderly, so as to support the Government's initiative to address the ageing society and promote silver economy.""
+
+The micro-film ""100 Things I Want to Do after Retirement"" is now available on the HKMC's YouTube Channel (www.youtube.com/@HKMC_Channel) for public viewing. Concurrently, the HKMC is rolling out a year-round promotion and education campaign, with advertisements to be launched successively across diverse channels, including television, radio, online media and outdoor media.
+
+For any enquiries on the product features or application methods of the ""HKMC Retire 3"", please call the hotline at 2536 0833.
+
+Note: The RMP and the PRMP are operated by HKMC Insurance Limited, and the HKMC Annuity Plan is underwritten by HKMC Annuity Limited. HKMC Insurance Limited and HKMC Annuity Limited are wholly-owned subsidiaries of the HKMC."
 LCQ1: Promoting digital education,2026-01-21 17:30,2026-01-21 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100492.htm,"​Following is a question by the Hon Ken Wong and a reply by the Secretary for Education, Dr Choi Yuk-lin, in the Legislative Council today (January 21):
 
 Question:
@@ -1342,6 +1364,55 @@ In fact, given the varying school circumstances, the extent and pace of implemen
 In summary, building on existing strengths and foundations, the EDB will continue to optimise teacher professional training and school-based support services through a multi-pronged approach. We will also keep pace with the latest development of digital education, timely review the effectiveness and adjust strategies, to equip schools and teachers with the capacity to apply innovative technology to assist teaching, thereby fostering pedagogical innovation and enhancing learning effectiveness.
 
 Thank you, President."
+民政事務總署已開放臨時避寒中心,2026-01-21 17:30,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100502.htm,"民政事務總署今日（一月二十一日）已在各區開放共十八間臨時避寒中心，供有需要的市民避寒。中心會於寒冷天氣警告持續生效期間繼續開放。
+
+各臨時避寒中心在開放期間會免費提供潔淨的墊褥和毛氈／棉被、熱食和熱水予入住人士使用。
+
+為確保入住臨時避寒中心的人士可以在寧靜及不受干擾的環境下休息，任何市民或團體如希望送贈物品給入住者，須先聯絡中心職員進行登記，然後將物品放置在指定的室內地點。中心職員會協助通知入住者有關安排，讓他們自行領取所需物品。
+
+任何人士如需使用避寒中心或查詢有關在中心派贈物品的安排，可致電民政事務總署熱線2572 8427。
+
+十八間臨時避寒中心的位置如下：
+
+香港島：
+———
+中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
+東區 －銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區 －鴨脷洲利東邨利東社區會堂
+灣仔 －灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
+
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘 －藍田啓田道71號藍田（西區）社區中心
+深水埗－深水埗昌新里1號南昌社區中心
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
+
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌大窩口道15號大窩口社區中心
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂"
+​按揭證券公司舉辦《退休後，我想做的100件事》首映禮及分享會（附圖）,2026-01-21 17:30,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100315.htm,"下稿代香港金融管理局發出︰
+
+香港按揭證券有限公司（按揭證券公司）今日（一月二十一日）舉辦《退休後，我想做的100件事》首映禮及分享會，推廣善用「HKMC退休3寶」，即安老按揭計劃、保單逆按計劃及香港年金計劃（註）來自製長糧，有助達到個人退休生活的目標。
+
+是次活動有約三十家按揭證券公司的合作伙伴（見附件）應邀出席，包括銀行、保險業公司、公共機構，及社會企業等，一同觀賞由藝人黃德斌及李司棋主演的《退休後，我想做的100件事》微電影的首播，並參與全場亮燈儀式，為市民的退休生活送上祝福。另外，活動還設有退休規劃分享會，介紹「HKMC退休3寶」及會員計劃AMIGOS By HKMC，亦開放予現場公眾參與。
+
+按揭證券公司執行董事兼總裁鮑克運表示：「按揭證券公司其中一項使命是促進退休規劃市場發展。我們自二○一一年起先後推出『HKMC退休3寶』下三項產品，時至今日已協助超過45 000名客戶，提升退休生活質素。我希望大家看過這部微電影後能產生共鳴，一起做好退休規劃。按揭證券公司未來會繼續加強推廣『HKMC退休3寶』及推動長者理財教育，配合政府應對高齡化和促進銀髮經濟。」
+
+《退休後，我想做的100件事》微電影已上載至HKMC YouTube頻道（www.youtube.com/@HKMC_Channel）供公眾收看。同時，按揭證券公司會利用多元化平台推行全年的宣傳和教育，包括電視、電台、網上媒體及戶外媒體的廣告均會陸續推出。
+
+如對「HKMC退休3寶」產品內容或申請辦法有任何疑問，可致電熱線2536 0833查詢。
+
+註：安老按揭計劃和保單逆按計劃是由香港按證保險有限公司營運，而香港年金計劃則由香港年金有限公司承保。香港按證保險有限公司和香港年金有限公司為按揭證券公司全資附屬公司。"
 基孔肯雅熱最新情況,2026-01-21 17:30,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100494.htm,"衞生署衞生防護中心（中心）表示，截至今日（一月二十一日）下午五時，中心沒有錄得新增感染基孔肯雅熱個案。
 
 最新監測數據
@@ -1432,42 +1503,6 @@ Thank you, President."
 總而言之，教育局會建基現有優勢和基礎，透過多重進路，持續優化教師專業培訓和校本支援服務，配合數字教育最新發展，適時檢視成效，調整策略，裝備學校及教師應用創新科技輔助教學的能力，推動教學創新，提升學習效能。
 
 多謝主席。"
-民政事務總署已開放臨時避寒中心,2026-01-21 17:30,2026-01-21 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100502.htm,"民政事務總署今日（一月二十一日）已在各區開放共十八間臨時避寒中心，供有需要的市民避寒。中心會於寒冷天氣警告持續生效期間繼續開放。
-
-各臨時避寒中心在開放期間會免費提供潔淨的墊褥和毛氈／棉被、熱食和熱水予入住人士使用。
-
-為確保入住臨時避寒中心的人士可以在寧靜及不受干擾的環境下休息，任何市民或團體如希望送贈物品給入住者，須先聯絡中心職員進行登記，然後將物品放置在指定的室內地點。中心職員會協助通知入住者有關安排，讓他們自行領取所需物品。
-
-任何人士如需使用避寒中心或查詢有關在中心派贈物品的安排，可致電民政事務總署熱線2572 8427。
-
-十八間臨時避寒中心的位置如下：
-
-香港島：
-———
-中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
-東區 －銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區 －鴨脷洲利東邨利東社區會堂
-灣仔 －灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘 －藍田啓田道71號藍田（西區）社區中心
-深水埗－深水埗昌新里1號南昌社區中心
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌大窩口道15號大窩口社區中心
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂"
 香港海關與消防處聯合行動打擊非法燃油儲存倉及非法加油站（附圖）,2026-01-21 17:15,2026-01-21 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100407.htm,"香港海關與消防處於過去兩星期（一月五日至十八日）展開代號「擊破」的全港性打擊非法燃油活動的聯合行動，以堵截非法燃油的供應及打擊市內非法燃油販賣活動。行動中，海關與消防處共偵破八宗相關案件，檢獲共約七千一百公升未完稅汽油及六萬公升柴油，扣查七輛涉案車輛，檢獲的非法燃油估計市值約一百九十萬元。
 
 海關與消防處人員於行動期間，在九龍灣、慈雲山、青衣及屯門搗破共三個流動非法汽油加油站及兩個非法柴油加油站，檢獲約三千一百公升未完稅汽油、六萬公升柴油及大批入油工具。涉案人士包括七名相信為非法加油站負責人及三名正在該處光顧的男子，年齡介乎三十四歲至六十六歲，六輛涉案車輛亦被檢取。
@@ -1524,17 +1559,6 @@ Hip Seng Builders Limited was prosecuted by the Labour Department (LD) for viola
 After the sentencing, the prosecution filed a review application with the court regarding the sentences imposed on the relevant contractor. The review hearing was brought up today before the court. The fines imposed on Hip Seng Builders Limited were increased to $521,000.
 
 A spokesman for the LD said that the ruling will disseminate a strong message to all contractors that they have to protect workers' safety and health at work in accordance with the laws. The prosecution will continue to pay attention to court rulings and will file review or appeal applications for cases where the sentences are manifestly inadequate and/or wrong in principle."
-Persons in custody at Stanley Prison attain good examination results (with photos),2026-01-21 17:10,2026-01-21 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100188.htm,"Sixty-two persons in custody (PICs) at Stanley Prison of the Correctional Services Department (CSD) were presented with certificates at a ceremony today (January 21) in recognition of their continuous efforts in pursuing further studies.
-
-In 2025, a total of 195 PICs at Stanley Prison passed 277 papers with 97 distinctions and credits in various courses and public examinations organised by the Hong Kong Metropolitan University (HKMU) and Caritas Institute of Community Education. The subjects covered language and literature, English for business, business finance and accounting. The 62 PICs who were awarded certificates today passed 99 papers with 72 distinctions and credits. Among them, one PIC was awarded a Bachelor's Degree in Language Studies (English), two were awarded Bachelor's Degrees in General Studies, and one was awarded an Associate Degree in General Studies by the HKMU.
-
-Officiating at the ceremony, the Chairman of the Shaw Foundation, Dr Raymond Chan, said that the Shaw Foundation is fully supportive of the rehabilitation work of the CSD and set up the Shaw Education Fund for Rehabilitation in 2024, which runs for three years, to provide financial assistance to needy PICs for education and vocational training, enabling them to rebuild their lives through continuing education and contribute to society in the future.
-
-During the ceremony, a Chinese music performance was staged by PICs, followed by a music performance by a band composed of PICs and the Tsz Shan Youth Choir.
-
-In the sharing session, a PIC conveyed his gratitude to his mother through self-accompanied singing, expressing appreciation for her unwavering support in sustaining his resolve to rehabilitate.
-
-Stanley Prison is a maximum security institution for the detention of male adult remand and convicted PICs."
 赤柱監獄在囚人士考獲良好成績（附圖）,2026-01-21 17:10,2026-01-21 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100186.htm,"懲教署轄下的赤柱監獄今日（一月二十一日）舉行證書頒發典禮，向62名在囚人士頒發學業證書，肯定他們在學業上努力進修的成果。
 
 過去一年，赤柱監獄共有195名在囚人士報考各類課程及公開考試。他們共取得277卷合格成績，其中97卷為優良成績。課程及考試由香港都會大學（都大）及明愛社區書院舉辦，科目包括語文及文學、商業英語、商業財務及會計等。而今日參加典禮的62名在囚人士共考獲99卷合格成績，其中72卷為優良成績，當中一名在囚人士人獲都大頒授語言研究學士（英文）學位、兩名獲頒通識教育學士學位，以及一名獲頒通識教育副學士學位。
@@ -1546,96 +1570,17 @@ Stanley Prison is a maximum security institution for the detention of male adult
 在分享環節中，一名在囚人士以自彈自唱方式向母親表逹謝意，感謝她的不離不棄及支持，鞏固了他改過的決心。
 
 赤柱監獄是一所高度設防懲教院所，羈押男性成年還押及定罪在囚人士。"
-為配合天橋拆卸工程龍翔道本周六晚上實施臨時交通及公共運輸安排,2026-01-21 16:35,2026-01-21 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100426.htm,"運輸署今日（一月二十一日）提醒市民，為配合天橋拆卸工程，介乎斧山道與蒲崗村道的一段龍翔道西行行車道（近荷里活廣場）及附近一帶道路將於本周六（一月二十四日）晚上十一時起至翌日上午五時三十分，分階段實施以下的臨時交通及運輸安排：
+Persons in custody at Stanley Prison attain good examination results (with photos),2026-01-21 17:10,2026-01-21 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100188.htm,"Sixty-two persons in custody (PICs) at Stanley Prison of the Correctional Services Department (CSD) were presented with certificates at a ceremony today (January 21) in recognition of their continuous efforts in pursuing further studies.
 
-臨時交通安排
--------------
+In 2025, a total of 195 PICs at Stanley Prison passed 277 papers with 97 distinctions and credits in various courses and public examinations organised by the Hong Kong Metropolitan University (HKMU) and Caritas Institute of Community Education. The subjects covered language and literature, English for business, business finance and accounting. The 62 PICs who were awarded certificates today passed 99 papers with 72 distinctions and credits. Among them, one PIC was awarded a Bachelor's Degree in Language Studies (English), two were awarded Bachelor's Degrees in General Studies, and one was awarded an Associate Degree in General Studies by the HKMU.
 
-（一）道路封閉
+Officiating at the ceremony, the Chairman of the Shaw Foundation, Dr Raymond Chan, said that the Shaw Foundation is fully supportive of the rehabilitation work of the CSD and set up the Shaw Education Fund for Rehabilitation in 2024, which runs for three years, to provide financial assistance to needy PICs for education and vocational training, enabling them to rebuild their lives through continuing education and contribute to society in the future.
 
-下列路段將會在以下指定時段臨時封閉，禁止所有車輛駛入：
+During the ceremony, a Chinese music performance was staged by PICs, followed by a music performance by a band composed of PICs and the Tsz Shan Youth Choir.
 
+In the sharing session, a PIC conveyed his gratitude to his mother through self-accompanied singing, expressing appreciation for her unwavering support in sustaining his resolve to rehabilitate.
 
-
-臨時封路時間
-封閉路段
-
-
-本周六（一月二十四日）晚上十一時至翌日上午五時三十分
-
-
-觀塘道（西行）近啟業邨至龍翔道（西行）近蒲崗村道的一段快線
-龍翔道（東行）介乎沙田坳道與鑽石山（彩虹道）公共運輸交匯處的一段快線
-
-
-
-
-本周日（一月二十五日）凌晨零時至上午五時三十分
-
-
-龍翔道（西行）介乎大磡變電站與蒲崗村道的一段中線
-龍翔道（東行）介乎豪苑與鑽石山（彩虹道）公共運輸交匯處的一段中線
-
-
-
-
-本周日（一月二十五日）凌晨一時至上午五時三十分
-
-
-龍翔道（西行）介乎斧山道與蒲崗村道的全部三條行車線
-連接彩虹道（東行）與龍翔道（西行）的支路
-連接龍翔道（西行）與蒲崗村道的支路
-
-
-
-
-
-
-（二）交通改道
-
-當介乎斧山道與蒲崗村道的一段龍翔道（西行）於周日凌晨一時至上午五時三十分全線封閉期間，相應的一段龍翔道東行行車道將臨時改為雙程行車，並實施以下的交通改道措施：
-
-
-沿彩虹道（東行）經支路前往龍翔道（西行）的車輛，將改經斧山道（北行）、迴旋處、斧山道（南行）、彩虹道（西行）、蒲崗村道（北行）及龍翔道（西行）；
-沿龍翔道（西行）經支路前往蒲崗村道的車輛，則改經支路、迴旋處、彩虹道（西行）及蒲崗村道（北行）。
-
-
-臨時公共運輸安排
-----------------
-
-為配合上述龍翔道（西行）的全線封路措施，行經該封閉路段的巴士及專線小巴路線將會臨時改道及遷移站點如下：
-
-
-
-
-巴士及專線小巴路線
-改道安排
-遷移站點安排
-
-
-日間路線
-			九巴第38、62X、259D、268C號線
-
-			通宵路線
-			九巴第N214、N290號線、城巴第N26、N29及NA29號線及新界專線小巴第501S號線
-臨時改經支路、迴旋處、彩虹道（西行）及蒲崗村道（北行），然後恢復原有行車路線往龍翔道（西行）
-
-
-位於龍翔道（西行）近鑽石山港鐵站B出口供巴士及專線小巴路線使用的站點將臨時遷移至彩虹道（西行）近采頤花園。
-九巴第268C號線設於鑽石山（彩虹道）公共運輸交匯處的站點將臨時取消。
-
-				
-
-
-
-
-
-
-有關公共運輸營辦商會張貼通告，通知乘客有關特別安排。
-
-受影響路段會設置適當的交通標誌，指導駕駛人士。駕駛人士請保持忍讓及小心駕駛，留意交通改道安排及遵從在場警務人員的指示。
-
-市民請預早計劃行程及預留足夠的交通時間，並留意傳媒廣播或瀏覽運輸署「香港出行易」流動應用程式或網頁（www.td.gov.hk），獲取最新交通消息。"
+Stanley Prison is a maximum security institution for the detention of male adult remand and convicted PICs."
 Temporary traffic and public transport arrangements at Lung Cheung Road this Saturday night to facilitate footbridge demolition works,2026-01-21 16:35,2026-01-21 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100446.htm,"  The Transport Department (TD) today (January 21) reminded the public that the following temporary traffic and public transport arrangements will be implemented in phases at the westbound carriageway of the section of Lung Cheung Road between Hammer Hill Road and Po Kong Village Road (near Plaza Hollywood) and nearby roads in the area from 11pm this Saturday (January 24) to 5.30am the following day to facilitate footbridge demolition works:
 
 Temporary traffic arrangements
@@ -1726,93 +1671,93 @@ The stopping point for KMB route no. 268C located at Diamond Hill (Choi Hung Roa
   Appropriate traffic signs will be erected on-site to guide motorists. Motorist should exercise patience and drive with care, pay attention to the traffic diversion arrangements and follow the instructions of the Police on-site.
 
   Members of the public are advised to plan their journeys in advance and allow sufficient travelling time, and stay alert to the latest traffic news through the media or the TD's mobile application ""HKeMobility"" or website (www.td.gov.hk)."
-立法會四題：公立醫院護士人手,2026-01-21 16:15,2026-01-21 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100402.htm,"以下是今日（一月二十一日）在立法會會議上林哲玄議員的提問和醫務衞生局局長盧寵茂教授的答覆︰
+為配合天橋拆卸工程龍翔道本周六晚上實施臨時交通及公共運輸安排,2026-01-21 16:35,2026-01-21 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100426.htm,"運輸署今日（一月二十一日）提醒市民，為配合天橋拆卸工程，介乎斧山道與蒲崗村道的一段龍翔道西行行車道（近荷里活廣場）及附近一帶道路將於本周六（一月二十四日）晚上十一時起至翌日上午五時三十分，分階段實施以下的臨時交通及運輸安排：
 
-問題：
+臨時交通安排
+-------------
 
-據報醫院管理局（醫管局）的護理人員長期嚴重不足，而公立醫院病房的護士和床位比例並無強制要求。此外，有前線護士憂慮，醫管局於去年逐步縮減護理職系中具有寶貴臨床經驗的自選兼職護士（即「locom nurses」）、退休後延任人員及臨床啟導員的人數，將嚴重影響新入職護士的培訓和臨床能力，增加病人風險。就此，政府可否告知本會，是否知悉：
+（一）道路封閉
 
-（一）過去兩年，每年年底醫管局護理職系的自選兼職護士、退休後延任人員及臨床啟導員的人數分別為何；
+下列路段將會在以下指定時段臨時封閉，禁止所有車輛駛入：
 
-（二）現時醫管局具五年以上資歷，以及三年或以下資歷的護士比例分別為何，以及有否制訂相關標準比例；醫管局有否計劃增加具五年以上資歷護士的比例；如有，計劃詳情為何；如否，原因為何；及
 
-（三）現時醫管局臨床護士與病床數目的比例為何；有否計劃制訂相關目標比例及實施方案；如有，詳情為何；如否，原因為何？
 
-答覆：
+臨時封路時間
+封閉路段
 
-主席：
 
-香港擁有高水平的醫療專業和高效率的醫療系統，多項健康指標位居世界前列，為全球人均壽命最高（註一）而嬰兒死亡率最低（註二）的地區之一。二○二三至二四年度香港公共醫療衞生經常性開支相對本地生產總值的百分比只為4.3%（註三），與其他人口老化程度相若的經濟體比較，香港的相關開支比例屬於最低的地區之一，但已能提供全港超過九成醫療服務，並達致國際高水平的醫療質素，彰顯公營醫療系統的效率。
+本周六（一月二十四日）晚上十一時至翌日上午五時三十分
 
-不過，香港醫療系統面對多項結構性挑戰。隨着人口年齡老化和慢性疾病急速上升，優質而高度補貼的公營醫療服務吸引龐大服務需求，令醫療系統承受沉重壓力。有鑑於此，醫院管理局（醫管局）積極推行不同措施以吸引、培訓和挽留人才，同時應用資訊科技提升效率。
 
-就林議員的提問，我現在回覆如下：
+觀塘道（西行）近啟業邨至龍翔道（西行）近蒲崗村道的一段快線
+龍翔道（東行）介乎沙田坳道與鑽石山（彩虹道）公共運輸交匯處的一段快線
 
-（一）首先，醫護專業是本地醫療體系的基石。政府一直大力投入資源提升培訓質量，包括根據人手狀況及人力推算結果增加政府資助的培訓名額，以應對不斷攀升的醫療服務需求。為加強本地護士人手，相關院校培訓學額已逐步提升，由二○一六／一七學年起的約3 200名，增加近六成至二○二四／二五學年的約5 000名。
 
-在人力資源管理方面，醫管局於二○二一年推出退休後延任政策，讓現職醫護人員於60歲退休後延任至65歲，透過挽留具經驗的醫護人員，在公立醫院執行臨床工作，紓緩人手情況，同時協助培訓及知識傳承。另一方面，醫管局亦成立自選兼職辦公室，積極聘請兼職醫護人員及推行更靈活的招聘策略。此外，為培育初級護士，醫管局加強臨床啟導計劃，聘請資深護師作臨床啟導員為初級護士提供指導，促進他們熟悉病房工作程序和環境。
 
-二○二四年七月二十六日《護士註冊（修訂）條例》通過後，醫管局舉辦了一系列的宣傳活動，以吸引世界各地的非本地培訓護士加入醫管局。此外，醫管局亦積極與不同的非本地合作夥伴開展護士交流計劃。截至二○二五年十月底，累計共有170名非本地培訓護士以有限度註冊或特别註冊方式在醫管局執業或交流。
 
-相關措施漸見成效。全職護士的流失率有所改善，由二○二三年三月底前連續12個月的高峰10.9%，回落至二○二五年十月底前連續12個月的6.0%。醫管局護士數目，以全職人員的人手計算，已由二○二四年三月的低位28 865人回升至二○二五年十月的30 533人，一年半間增加5.7%。
+本周日（一月二十五日）凌晨零時至上午五時三十分
 
-隨着近年流失率逐漸回落及全職護士人手增加，旨在填補短期空缺的自選兼職護士人數因而可以減少。過去兩年（即由二○二三年十月底至二○二五年十月底），醫管局護理職系的自選兼職護士、退休後延任人員及臨床啟導員的人數載於附件一。自選兼職護士由1 450人，兩年間微降至1 372人，但退休後延任人員以及臨床啟導員並非如質詢主題引言所指的縮減，而是不減反增，退休後延任人員由729人增至1 090人，而臨床啟導員則由149人增至181人。相對臨時或兼職安排，其實全職護士可於團隊內提供較為穩定及連貫的服務，有利持續推行病人護理計劃。醫管局會根據服務需求，安排臨時或兼職護士支援特定專科。
 
-（二）截至二○二五年十月底，按服務年資劃分的醫管局護士人手數目載於附件二。有關數據反映，在醫管局33 683名護士中，任職三年以下的護士有9 463人，佔整體護士人手28.1%，而任職五年或以上的護士有20 049人，佔整體護士人手接近六成，十年或以上資深、較經驗豐富的護士也有12 878人，佔38.2%，當中大部分在前線提供服務，並同時協助培訓資歷較淺的護士，促進專業傳承。政府特別感謝公營醫療系統的護士在過去面對人手緊張的情況下，仍然堅守崗位，發揮南丁格爾的精神，在前線盡心、專業地照顧病人。醫管局會繼續透過多項措施招聘及挽留護士，以確保服務質素並促進專業傳承。同時，醫管局亦會為護士提供多元結構及創新培訓項目，當中包括擴大模擬培訓及專科培訓機會，以提升護理專業服務發展。
+龍翔道（西行）介乎大磡變電站與蒲崗村道的一段中線
+龍翔道（東行）介乎豪苑與鑽石山（彩虹道）公共運輸交匯處的一段中線
 
-（三）為應付臨床服務需求和運作需要，醫管局亦聘有19 106名護理支援人員，包括病房服務員、病人服務助理等，支援護士為病人提供臨床護理工作。
 
-截至去年三月底，醫管局所有病床數目為30 824張。由於醫管局內支援住院服務的醫護人員也同時負責其他服務包括專科門診，不同醫院及專科住院服務對護理人手需求也不一致，因此獨立計算住院服務護士的人手數目與整體病床數目的比例並不合適。
 
-除密切留意人手情況外，醫管局會繼續積極應用資訊科技，涵蓋人工智能、智慧病房、智慧診所、智慧支援及數碼工作間等範疇，提升臨床及行政流程，以至資源運用效益。
 
-多謝主席。
+本周日（一月二十五日）凌晨一時至上午五時三十分
 
-註一：二○二四年出生時平均預期壽命為男性82.7歲和女性88.2歲。
-註二：二○二四年嬰兒死亡率為1.7人（按每千名登記活產嬰兒計算）。
-註三：撇除2019冠狀病毒病的相關開支。"
-LCQ4: Manpower of nursing staff in public hospitals,2026-01-21 16:15,2026-01-21 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/21/P2026012100398.htm,"  Following is a question by Dr the Hon David Lam and a reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (January 21):
 
-Question:
+龍翔道（西行）介乎斧山道與蒲崗村道的全部三條行車線
+連接彩虹道（東行）與龍翔道（西行）的支路
+連接龍翔道（西行）與蒲崗村道的支路
 
-  It has been reported that the Hospital Authority (HA) has long faced a severe shortage of nursing staff, and there are no mandatory requirements for the nurse-to-bed ratio in public hospital wards. Furthermore, some frontline nurses are concerned that over the past year, HA's gradual reduction in the number of locum nurses, personnel whose employment has been extended beyond retirement, as well as clinical preceptors, all of whom possess valuable clinical experience within the nursing grade, will have a significant impact on the training and clinical competence of newly recruited nurses, thereby increasing patient risks. In this connection, will the Government inform this Council:
 
-(1) of the respective numbers of locum nurses, personnel whose employment has been extended beyond retirement, and clinical preceptors within HA's nursing grade at the end of each of the past two years;
 
-(2) of the respective ratios of nurses with over five years' experience and those with three years' experience or less in HA at present, and whether HA has formulated the relevant standard ratios; whether HA has plans to increase the ratio of nurses with over five years' experience; if so, of the details of the plans; if not, the reasons for that; and
 
-(3) of the ratio of HA's clinical nurses to the number of hospital beds at present; whether HA has plans to formulate a target ratio and implementation plan; if so, of the details; if not, the reasons for that?
 
-Reply:
 
-President,
+（二）交通改道
 
-  With our high-quality healthcare professionals and highly efficient healthcare system, Hong Kong boasts a number of world-leading health indicators. We are among one of the regions with the longest life expectancies (Note 1) and lowest infant mortality rate in the world (Note 2). The public current health expenditures in Hong Kong only accounted for 4.3 per cent (Note 3) of its Gross Domestic Product in 2023-24. Compared with other economies with a similar degree of population ageing, Hong Kong's related expenditure ratio is among the lowest. On the other hand, we were able to provide over 90 per cent of the city's healthcare services and achieve a high service quality on par with international standards, demonstrating the remarkable efficiency of our public healthcare system.
+當介乎斧山道與蒲崗村道的一段龍翔道（西行）於周日凌晨一時至上午五時三十分全線封閉期間，相應的一段龍翔道東行行車道將臨時改為雙程行車，並實施以下的交通改道措施：
 
-  Nevertheless, Hong Kong's healthcare system is facing various structural challenges. With an ageing population and a surging prevalence of chronic diseases, quality and highly subsidised public healthcare services have attracted huge service demand, exerting immense pressure on the healthcare system. In light of the above, the Hospital Authority (HA) is actively implementing various measures to attract, train and retain manpower, while leveraging information technology to enhance efficiency.
 
-  My reply to the question raised by Dr the Hon Lam is as follows:
+沿彩虹道（東行）經支路前往龍翔道（西行）的車輛，將改經斧山道（北行）、迴旋處、斧山道（南行）、彩虹道（西行）、蒲崗村道（北行）及龍翔道（西行）；
+沿龍翔道（西行）經支路前往蒲崗村道的車輛，則改經支路、迴旋處、彩虹道（西行）及蒲崗村道（北行）。
 
-(1) First of all, healthcare professions are the cornerstone of the local healthcare system. The Government has consistently invested heavily in enhancing the training quality, including increasing government-funded training places based on manpower situations and projections to meet the rising demand for healthcare services. To enhance manpower of local nurses, the number of relevant training places in institutions has steadily increased by nearly 60 per cent from about 3 200 in the 2016/17 academic year to about 5 000 in the 2024/25 academic year.
 
-  As for human resources management, the HA introduced the policy of Extending Employment Beyond Retirement (EER) in 2021, allowing serving healthcare staff to extend their service up to the age of 65 after reaching the retirement age of 60. This enables the retention of experienced healthcare professionals to continue taking up clinical duties in public hospitals, thereby alleviating manpower pressure and supporting training and knowledge transfer. On the other hand, the HA has also established the Locum Office to actively recruit part‑time healthcare staff and adopt more flexible hiring strategies. In addition, to nurture junior nurses, the HA has strengthened its preceptorship programme by recruiting experienced nurses as preceptors to provide clinical guidance for junior nurses, facilitating them to get familiarised with the ward procedures and environment.
+臨時公共運輸安排
+----------------
 
-  Following the passage of the Nurses Registration (Amendment) Ordinance on July 26, 2024, the HA has launched a series of promotional activities to attract non-locally trained nurses (NLTNs) to join the HA. Moreover, the HA has also been actively collaborating with various non-local partners to roll out nurse exchange programmes. As at the end of October 2025, a cumulative total of 170 NLTNs had practised or participated in exchanges in the HA under Limited Registration or Special Registration pathways.
+為配合上述龍翔道（西行）的全線封路措施，行經該封閉路段的巴士及專線小巴路線將會臨時改道及遷移站點如下：
 
-  These measures have begun to yield results. The attrition rate of full-time nurses has improved, with the 12-month rolling figure falling from a peak rate of 10.9 per cent as at end-March 2023 to 6.0 per cent as at end-October 2025. The number of HA nurses counting on full-time basis has increased from a low level of 28 865 as at March 2024 to 30 533 as at October 2025, recording an increase of 5.7 per cent in one and a half year.
 
-  With the gradual decline in the attrition rate and the increase in the number of full‑time nurses in recent years, the number of locum nurses, whose role is to fill short‑term vacancies, has therefore decreased. For the past two years (i.e. from end-October 2023 to end-October 2025), the numbers of locum nurses, EER staff and clinical preceptors in the HA's nursing grade are set out in Annex 1. While the number of locum nurses slightly decreased from 1 450 to 1 372 in two years, the numbers of EER staff and clinical preceptors did not decrease as indicated in the introduction of the question, in fact, they increased. The number of EER staff increased from 729 to 1 090 and that of clinical preceptors rose from 149 to 181. In contrast with temporary or locum arrangements, full‑time nurses are able to provide more stable and continuous services within clinical teams, which is conducive to the continuity of patient care plans. The HA will continue to arrange temporary or locum nurses to support designated specialties having regard to service needs.
 
-(2) As at end‑October 2025, the distribution of HA's nurses by years of service is set out in Annex 2. The data shows that among the 33 683 nurses in the HA, 9 463 nurses were working for less than three years, representing 28.1 per cent of the overall nursing manpower; while 20 049 nurses had five years of service or more, representing nearly 60 per cent of the overall nursing manpower. There were 12 878 more experienced nurses with ten years of experience or more, representing 38.2 per cent of the overall nursing manpower. Most of these nurses serve on the frontline and assist in training less‑experienced nurses to facilitate professional succession. The Government is particularly thankful to nurses of public healthcare system who embody the spirit of Nightingale for their commitment, dedication and professionalism in taking care patients in the frontline amidst manpower pressure in the past. The HA will continue to implement various measures to recruit and retain nurses, with a view to ensuring service quality and facilitating professional succession. Meanwhile, the HA will also provide nurses with diversely structured and innovative training programmes, including providing more opportunities of simulation and specialty trainings, to enhance the development of professional nursing services.
 
-(3) In order to meet clinical service demand and operation needs, the HA has also recruited 19 106 nursing supporting staff including ward assistants, patient care assistants and so on to support nurses for providing clinical care of patients.
+巴士及專線小巴路線
+改道安排
+遷移站點安排
 
-  As at end‑March last year, the HA had a total of 30 824 hospital beds. As healthcare staff supporting inpatient services in the HA also undertake other duties (such as specialist out-patient services), the demand for nursing manpower varies across different hospitals and inpatient specialties. Therefore, computing a ratio of number of staff supporting in-patient services to that of overall hospital beds separately is not appropriate.
 
-  Apart from closely monitoring manpower situations, the HA will continue to actively leverage information technologies, including areas like artificial intelligence, smart wards, smart clinics, smart support and digital workplaces, with a view to enhancing clinical and administrative workflows, and the effectiveness of resource utilisation.
+日間路線
+			九巴第38、62X、259D、268C號線
 
-  Thank you, President.
+			通宵路線
+			九巴第N214、N290號線、城巴第N26、N29及NA29號線及新界專線小巴第501S號線
+臨時改經支路、迴旋處、彩虹道（西行）及蒲崗村道（北行），然後恢復原有行車路線往龍翔道（西行）
 
-Note 1: Average life expectancy at birth in 2024 is 82.7 for male and 88.2 for female.
-Note 2: Infant mortality rate in 2024 is 1.7 deaths per 1 000 registered live births.
-Note 3: Excluding expenditures relating to COVID-19."
+
+位於龍翔道（西行）近鑽石山港鐵站B出口供巴士及專線小巴路線使用的站點將臨時遷移至彩虹道（西行）近采頤花園。
+九巴第268C號線設於鑽石山（彩虹道）公共運輸交匯處的站點將臨時取消。
+
+				
+
+
+
+
+
+
+有關公共運輸營辦商會張貼通告，通知乘客有關特別安排。
+
+受影響路段會設置適當的交通標誌，指導駕駛人士。駕駛人士請保持忍讓及小心駕駛，留意交通改道安排及遵從在場警務人員的指示。
+
+市民請預早計劃行程及預留足夠的交通時間，並留意傳媒廣播或瀏覽運輸署「香港出行易」流動應用程式或網頁（www.td.gov.hk），獲取最新交通消息。"
