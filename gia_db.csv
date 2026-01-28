@@ -1,43 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-立法會三題：利用科技加強消防安全,2026-01-28 13:04,2026-01-28 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800325.htm,"以下是今日（一月二十八日）在立法會會議上林筱魯議員的提問和保安局局長鄧炳強的答覆：
-
-問題：
-
-行政長官在二○二五年《施政報告》中強調科技革新，促進科技和人工智能技術在各行業的應用和發展。關於善用科技加強消防安全，政府可否告知本會：
-
-（一）鑑於政府在本月十四日本會辯論「有關大埔宏福苑火災後支援及重建工作的議案」時表示，會加快推廣「物聯網火警偵測系統」，以加快滅火救援效率，有關工作的具體時間表為何；政府會否研究應用更多先進科技，提升住宅樓宇和家居環境的消防安全水平；如會，詳情為何；如否，原因為何；及
-
-（二）除了發展局所推展的「安全智慧工地系統」外，政府會否研究在建築工地上，引入其他創新科技以加強工地的消防安全，包括利用科技確保施工程序及所使用的建築物料符合有關的消防規定及標準；如會，詳情為何；如否，原因為何？
-
-答覆：
-
-主席：
-
-政府十分重視透過善用科技提升消防安全水平和消防安全治理，持續在消防設備、預防監測、巡查執法、救援滅火、宣傳教育和人員訓練等方面引入合適的科技方案，進一步保障市民的生命和財產。
-
-就議員的提問，經諮詢發展局，現回覆如下：
-
-（一）消防處持續推動應用合適科技，以加強家居消防安全，具體包括以下三個方面：
-
-第一，消防處於去年底引進「物聯網火警偵測系統」先導計劃以提升舊式樓宇消防安全水平，目前，在港島、九龍及新界區的十幢六層或以下舊式樓宇安裝「物聯網火警偵測系統」，並讓有關樓宇免卻裝設消防喉轆、消防水缸和水泵等消防裝置，進一步協助目標樓宇業主以更便捷及安全的方式遵從消防安全指示。
-
-與傳統手動火警警報系統比較，「物聯網火警偵測系統」具備實時監察及迅速傳輸火警訊號的功能，透過無線訊號連結整個系統。當「物聯網火警偵測系統」偵測到火警時，會透過無線訊號即時通知消防處通訊中心，讓消防處在火警最初期即使未有人報警的情況底下，仍能第一時間調派消防車輛處理火警事故。
-
-此外，物聯網系統具備監控系統狀態的功能，當個別偵測器損壞時，系統會即時發出訊號通知消防處及服務供應商作出跟進行動。「物聯網火警偵測系統」也會收集火警數據，有助消防處利用大數據分析相關風險因素，從而制定相應的消防安全策略，例如火警時的調派規模等。
-
-消防處正持續評估先導計劃的成效，預計於今年第二季完成首階段評估。如果效果理想，消防處會考慮讓「物聯網火警偵測系統」在所有相關樓宇應用。
-
-第二，推動業界善用科技。例如，消防處鼓勵物業管理公司引入數碼化的消防設備維修保養紀錄管理系統，涵蓋電子巡查紀錄、到期提示和缺失跟進流程等功能，有助提升整體消防安全。消防處亦設置網上遞交系統，利便註冊消防裝置承辦商以電子方式遞交消防裝置及設備證書。上述系統不但能提升消防工作效率，同時能提供重要的數據，讓消防處能掌握消防裝置或設備的運作和維修情況，並可進一步利用人工智能和大數據進行研究、分析和風險評估，有助處方制定和落實風險為本的防火巡查和執法行動策略。
-
-第三，積極鼓勵市民在住用處所使用獨立火警偵測器和其他手提滅火設備，增強初期火災的預警與自救能力，提升家居消防安全。獨立火警偵測器可以探測到火警初期產生的煙霧，隨之向處所內的人發出警報，讓他們有更多時間疏散。近年，市場更出現具備智能聯動功能的獨立式火警偵測器。這類偵測器可與家庭監控鏡頭及智能手機應用程式相互連接，當偵測器發出火警訊號時，用戶不僅能即時收到警報通知，更可透過遠程監控畫面即時查看家中實際狀況，從而迅速作出判斷並採取最合適的應對措施，例如指示家人疏散或報警求助，及時降低災害損失與風險。消防處會持續透過社交平台短片和社區講座等，向公眾推廣智能消防設備。
-
-（二）政府一直與不同持份者緊密合作，探索、商議和制定各種工地安全措施，包括善用科技應用，提升工地安全水平。
-
-發展局和建造業議會現正與建造業界積極研究應用合適的科技，包括各類攝影機與感應器，例如人工智能攝影機、熱成像攝影機及物聯網溫度感應器等。發展局希望透過人工智能演算法與紅外線熱成像技術，偵測工地物料擺放的異常狀況，持續監測高溫區域或高危區域（包括工地上危險品倉庫、儲存易燃物料的地方）、使用易燃物品的工序與熱工序（例如燒焊）等，發出即時警示。發展局亦會研究透過不同的監察裝置，即時記錄巡查過程，確保作業環境的消防安全要求。
-
-屋宇署於上月發出作業備考，訂明鋪設於外牆棚架的棚網的採樣和測試要求，當中要求承建商如場外採樣，應採用可靠數碼系統（如二維碼、近距離無線通訊裝置（NFC）、射頻識別（RFID）等技術），以便查核及追蹤物料批次。建造業議會近日為業界集體採購的棚網均嵌入RFID晶片和二維碼，並配備數碼化追蹤平台，可記錄和追蹤棚網由生產至配送的每個環節，向業界作出良好示範。發展局會借鑑這經驗，進一步研究將相關技術應用於其他須符合防火要求的建築物料，優化其存放管理。
-
-主席，政府會繼續與時並進，積極探討在各個範疇善用科技優化及提升應變能力，以期加強保障市民安全。多謝主席。"
 LCQ3: Leveraging technology to enhance fire safety,2026-01-28 13:04,2026-01-28 13:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800331.htm,"Following is a question by the Hon Andrew Lam and a reply by the Secretary for Security, Mr Tang Ping-keung, in the Legislative Council today (January 28):
 
 Question:
@@ -77,6 +38,45 @@ In consultation with the Development Bureau (DEVB), my reply to the question rai
  The Buildings Department issued a practice note last month stipulating the sampling and testing requirements for scaffolding nets used on the scaffolds at external walls. The practice note requires that, where sampling is conducted off-site, the contractor should adopt a reliable digital system (such as quick response (QR) codes, near field communication (NFC) devices and radio frequency identification (RFID) technologies) to facilitate checking and tracking material batches. The scaffolding nets recently procured collectively by the Construction Industry Council for the industry are all embedded with RFID chips and QR codes with a digital tracking platform capable of recording and tracing every stage from production to delivery of scaffolding nets, thereby setting a good example for the industry. The DEVB will make reference to this experience and further review the application of the technologies to other construction materials for meeting fire resistance requirements, thereby optimising their storage and management.
 
 President, the Government will continue to keep pace with the times and actively explore ways to optimise and enhance emergency response capabilities through the effective use of technology across various domains, with a view to strengthening the protection of public safety. Thank you, President."
+立法會三題：利用科技加強消防安全,2026-01-28 13:04,2026-01-28 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800325.htm,"以下是今日（一月二十八日）在立法會會議上林筱魯議員的提問和保安局局長鄧炳強的答覆：
+
+問題：
+
+行政長官在二○二五年《施政報告》中強調科技革新，促進科技和人工智能技術在各行業的應用和發展。關於善用科技加強消防安全，政府可否告知本會：
+
+（一）鑑於政府在本月十四日本會辯論「有關大埔宏福苑火災後支援及重建工作的議案」時表示，會加快推廣「物聯網火警偵測系統」，以加快滅火救援效率，有關工作的具體時間表為何；政府會否研究應用更多先進科技，提升住宅樓宇和家居環境的消防安全水平；如會，詳情為何；如否，原因為何；及
+
+（二）除了發展局所推展的「安全智慧工地系統」外，政府會否研究在建築工地上，引入其他創新科技以加強工地的消防安全，包括利用科技確保施工程序及所使用的建築物料符合有關的消防規定及標準；如會，詳情為何；如否，原因為何？
+
+答覆：
+
+主席：
+
+政府十分重視透過善用科技提升消防安全水平和消防安全治理，持續在消防設備、預防監測、巡查執法、救援滅火、宣傳教育和人員訓練等方面引入合適的科技方案，進一步保障市民的生命和財產。
+
+就議員的提問，經諮詢發展局，現回覆如下：
+
+（一）消防處持續推動應用合適科技，以加強家居消防安全，具體包括以下三個方面：
+
+第一，消防處於去年底引進「物聯網火警偵測系統」先導計劃以提升舊式樓宇消防安全水平，目前，在港島、九龍及新界區的十幢六層或以下舊式樓宇安裝「物聯網火警偵測系統」，並讓有關樓宇免卻裝設消防喉轆、消防水缸和水泵等消防裝置，進一步協助目標樓宇業主以更便捷及安全的方式遵從消防安全指示。
+
+與傳統手動火警警報系統比較，「物聯網火警偵測系統」具備實時監察及迅速傳輸火警訊號的功能，透過無線訊號連結整個系統。當「物聯網火警偵測系統」偵測到火警時，會透過無線訊號即時通知消防處通訊中心，讓消防處在火警最初期即使未有人報警的情況底下，仍能第一時間調派消防車輛處理火警事故。
+
+此外，物聯網系統具備監控系統狀態的功能，當個別偵測器損壞時，系統會即時發出訊號通知消防處及服務供應商作出跟進行動。「物聯網火警偵測系統」也會收集火警數據，有助消防處利用大數據分析相關風險因素，從而制定相應的消防安全策略，例如火警時的調派規模等。
+
+消防處正持續評估先導計劃的成效，預計於今年第二季完成首階段評估。如果效果理想，消防處會考慮讓「物聯網火警偵測系統」在所有相關樓宇應用。
+
+第二，推動業界善用科技。例如，消防處鼓勵物業管理公司引入數碼化的消防設備維修保養紀錄管理系統，涵蓋電子巡查紀錄、到期提示和缺失跟進流程等功能，有助提升整體消防安全。消防處亦設置網上遞交系統，利便註冊消防裝置承辦商以電子方式遞交消防裝置及設備證書。上述系統不但能提升消防工作效率，同時能提供重要的數據，讓消防處能掌握消防裝置或設備的運作和維修情況，並可進一步利用人工智能和大數據進行研究、分析和風險評估，有助處方制定和落實風險為本的防火巡查和執法行動策略。
+
+第三，積極鼓勵市民在住用處所使用獨立火警偵測器和其他手提滅火設備，增強初期火災的預警與自救能力，提升家居消防安全。獨立火警偵測器可以探測到火警初期產生的煙霧，隨之向處所內的人發出警報，讓他們有更多時間疏散。近年，市場更出現具備智能聯動功能的獨立式火警偵測器。這類偵測器可與家庭監控鏡頭及智能手機應用程式相互連接，當偵測器發出火警訊號時，用戶不僅能即時收到警報通知，更可透過遠程監控畫面即時查看家中實際狀況，從而迅速作出判斷並採取最合適的應對措施，例如指示家人疏散或報警求助，及時降低災害損失與風險。消防處會持續透過社交平台短片和社區講座等，向公眾推廣智能消防設備。
+
+（二）政府一直與不同持份者緊密合作，探索、商議和制定各種工地安全措施，包括善用科技應用，提升工地安全水平。
+
+發展局和建造業議會現正與建造業界積極研究應用合適的科技，包括各類攝影機與感應器，例如人工智能攝影機、熱成像攝影機及物聯網溫度感應器等。發展局希望透過人工智能演算法與紅外線熱成像技術，偵測工地物料擺放的異常狀況，持續監測高溫區域或高危區域（包括工地上危險品倉庫、儲存易燃物料的地方）、使用易燃物品的工序與熱工序（例如燒焊）等，發出即時警示。發展局亦會研究透過不同的監察裝置，即時記錄巡查過程，確保作業環境的消防安全要求。
+
+屋宇署於上月發出作業備考，訂明鋪設於外牆棚架的棚網的採樣和測試要求，當中要求承建商如場外採樣，應採用可靠數碼系統（如二維碼、近距離無線通訊裝置（NFC）、射頻識別（RFID）等技術），以便查核及追蹤物料批次。建造業議會近日為業界集體採購的棚網均嵌入RFID晶片和二維碼，並配備數碼化追蹤平台，可記錄和追蹤棚網由生產至配送的每個環節，向業界作出良好示範。發展局會借鑑這經驗，進一步研究將相關技術應用於其他須符合防火要求的建築物料，優化其存放管理。
+
+主席，政府會繼續與時並進，積極探討在各個範疇善用科技優化及提升應變能力，以期加強保障市民安全。多謝主席。"
 香港海關偵破懷疑非法進口動物案件（附圖）,2026-01-28 13:00,2026-01-28 13:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800317.htm,"香港海關昨日（一月二十七日）在羅湖管制站偵破一宗懷疑非法進口動物的案件，檢獲一隻懷疑非法進口貓，估計市值約二萬元。
 
 海關人員昨日在上述管制站入境大堂截查一名六十二歲抵港男旅客，經檢查後在其背包內檢獲一隻貓，遂拘捕該名男子。
@@ -266,71 +266,6 @@ President,
 環島長廊於明年內駁通九成後，餘下一成約六公里主要包括筲箕灣至杏花邨，以及位於南區的以下段落：南朗山至苗鍾徑、香葉徑至深灣碼頭徑、瀑布灣公園至南堤綠徑等路段，這些路段涉及較多技術考量和複雜工程，例如斜坡改善，我們爭取二○三一年年底前大致完成。至於大浪灣道一段行車路，該段路面十分狹窄，考慮到成本效益及對附近民居的影響等因素，在該處修建步行徑似乎並不合宜，我們正考慮替代方案，例如將走線改經曾獲選為「亞洲最佳市區遠足徑」的龍脊。
 
 ​無論是推動環島長廊或是優化海濱工程，我們均採用「先易後難」和「先駁通、再優化」的策略，這個方案既務實、亦利民。發展局會繼續按這個策略提供更多受市民歡迎的海濱空間及步行徑。多謝主席。"
-Speech by FS at Asia Private Equity Forum 2026 (English only) (with video),2026-01-28 12:30,2026-01-28 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800271.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Asia Private Equity Forum 2026 today (January 28):
-
-Stephanie (Chairwoman of Hong Kong Venture Capital and Private Equity Association (HKVCA), Ms Stephanie Hui), Rebecca (Past Chairwoman of HKVCA, Ms Rebecca Xu), Kent (Vice Chairman of HKVCA, Mr Kent Chen), distinguished guests, ladies and gentlemen,
-
-  Good morning. It gives me great pleasure to join you again at the Asia Private Equity Forum for the ninth time, alongside leaders from the venture capital and private equity community in Hong Kong and across the region.
-
-  Over the years, this Forum has become an important platform for dialogue - helping us take stock of market developments, exchange perspectives, and explore emerging investment opportunities. I thank the Hong Kong Venture Capital and Private Equity Association for convening this timely gathering.
-
-The global environment
-
-  Globally, private markets are showing encouraging signs of recovery. Anticipated interest-rate cuts, improving valuation expectations, and growing investor demand for private assets are contributing to a more conducive environment for deal-making and capital deployment. In Asia-Pacific, the private equity ecosystem has shown positive momentum in recent months, supported by sustained investment activity and deepening market sophistication across major hubs.
-
-  At the same time, the private markets industry itself is evolving. Artificial intelligence is increasingly being applied to sourcing, due diligence, and portfolio value creation and monitoring. Participation in private markets is also broadening. Retail and high-net-worth investors are increasingly seeking exposure to private equity, attracted by the potential for improved risk-adjusted returns and diversification.
-
-Hong Kong: outlook and opportunities
-
-  So how about Hong Kong? I remain confident and optimistic - for a few reasons.
-
-  First, capital inflows. You must be aware of the strong performance of our public markets. Last year, the Hang Seng Index rose by 28 per cent, following an 18per cent increase in 2024. Trading activity reached new highs, with average daily turnover close to HK$250 billion, up 90per cent year on year. In 2025, Hong Kong recorded 119 initial public offerings (IPOs), raising more than HK$285 billion, registering an increase of over two times year on year, and ranking first globally.
-
-  A vibrant stock market and robust IPO performance are certainly good news for the private equity ecosystem. They provide portfolio companies with clearer and more credible exit pathways, support better price discovery, and can improve valuations when conditions allow. Improved liquidity has also strengthened investor confidence and renewed interest in high-potential companies.
-
-  Beyond public markets, our deep liquidity is underpinned by a thriving asset and wealth management sector. At last count, in 2024, Hong Kong's asset and wealth management industry managed over HK$35 trillion in assets under management, representing a 13 per centincrease from the year before. Fund flows have remained strong as well. In the first 11 months of 2025, Hong Kong-domiciled funds recorded net inflows of HK$386 billion.
-
-  This momentum is supported by a growing family office ecosystem. There are more than 2 700 family offices in Hong Kong, over half of which are managing assets of more than US$50 million.
-
-  Looking ahead, the global environment in 2026 will remain complex. Geopolitical tensions, impact of technological advancement, climate-related risks and other variables will continue to affect sentiment and volatility.
-
-  However, Asia's medium- to long-term fundamentals remain strong. China, for example, is expected to grow at around 4.5 per centto 5per cent this year. While it steadily contributes to 30per cent of global GDP growth, the Global South as a whole contributes to some 60 per cent. In particular, ASEAN (Association of Southeast Asian Nations) is home to young populations, massive infrastructure development, a growing middle class, and expanding industrial production. These dynamics are becoming powerful engines of both capital formation and demand.
-
-  The second reason for optimism is increasingly attractive investment opportunities.
-
-  Technology will, no doubt, shape the future. The recalibration of Asia's private equity landscape is being driven by a decisive pivot towards hard technology - the engines of future growth, particularly artificial intelligence, biotech and new energy. The outlook for private equity in these sectors is compelling.
-
-  China is embarking on the 15th Five-Year Plan, advancing high-quality development. In essence, it is pursuing high-level, two-way opening-up and accelerating technological and industrial innovation. Notably, it places strong emphasis on technological self-reliance, and we can expect game-changing breakthroughs.
-
-  In Hong Kong, we have been developing innovation and technology as one of our three principal engines of growth, alongside finance and trade. From supporting R&D and building infrastructure, to nurturing start-ups and attracting talent, we are strengthening Hong Kong's tech ecosystem from upstream to downstream.
-
-  Two points are particularly worth noting. First, the Government is determined to attract the world's leading frontier-technology enterprises to Hong Kong. Over the past three years, the Office for Attracting Strategic Enterprises has attracted more than 100 strategic enterprises, which are expected to invest over HK$60 billion and create more than 22 000 jobs. Importantly, these companies will bring partners across their value chains, further strengthening and broadening Hong Kong's innovation ecosystem.
-
-  Second, the HKSAR Government has established the Hong Kong Investment Corporation Limited, or HKIC. It provides patient capital and makes strategic investments in high-potential ventures, particularly in hard technology. HKIC also co-invests in projects where justified. Its portfolio includes frontier AI platforms reshaping productivity across the Greater Bay Area - from smart logistics to advanced manufacturing - as well as biotech ventures advancing precision medicine and next-generation therapeutics, and AI-driven healthcare solutions integrating machine learning with clinical diagnostics. HKIC plays an important role in channelling private capital into strategic projects. For every dollar it invests, it attracts around six dollars in private investment. HKIC is ready to further collaborate with the private equity community to support high-potential ventures.
-
-Developments for the PE sector
-
-  Looking ahead, we are keen to support the PE and VC sector's continued growth. Hong Kong has a strong private equity ecosystem. We are home to over 650 PE firms, and assets under management stand at around US$230 billion. This keeps us firmly in second place in Asia, behind only the Chinese Mainland.
-
-  We continue to see encouraging responses to the recent reforms to fund structures. By end-2025, close to 680 open-ended fund companies had been set up, a 43 per centyear-on-year increase. About 1 450 limited partnership funds were registered, up 37per cent from the previous year.
-
-  The Government is committed to creating fresh momentum for the industry. We will continue to support the growth of our asset and wealth management business, including facilitating more family offices in setting up or expanding here. We are committed to facilitating at least 220 family offices in establishing or expanding operations in Hong Kong from 2026 to 2028.
-
-  Maintaining the competitiveness of our tax regime is also essential. To attract more funds to establish a presence and be managed in Hong Kong, we will introduce a bill into the Legislative Council in the first half of this year to enhance the preferential tax regimes for funds, single family offices, and carried interest.
-
-  Key enhancements will include: first, expanding the scope of ""fund"" under the tax exemption regime to cover pension funds and endowment funds; second, increasing the types of qualifying investments to include emission derivatives and carbon credits, insurance-linked securities, loans and private credit investments, and digital assets; and third, enhancing the tax concession arrangement on the distribution of carried interest by removing the certification requirement for funds and the reference to a hurdle rate.
-
-  On exit options, we have in recent years modernised our listing regime by establishing listing avenues for companies from the new economy and emerging sectors, including pre-revenue biotechnology companies and specialist technology companies, thereby broadening fundraising channels for these enterprises and, in turn, providing PE investors with the avenues to realise their investments through the public markets.
-
-  We also welcome alternative asset funds to list in Hong Kong. In February 2025, the SFC clarified the regulatory requirements for authorising closed-ended funds that invest mainly in private and less liquid assets. This is intended to encourage eligible and sizeable alternative asset funds - such as those investing in private equity, private credit, or infrastructure debt, and preferably with regular income streams - to list in Hong Kong. And subject to the approval of the Mandatory Provident Fund Schemes Authority, an MPF fund can gain limited exposure to such funds. We look forward to welcoming the first such listing. 
-
-Closing
-
-  Ladies and gentlemen, 2026 will not be without challenges. Yet with the country's unwavering support, Hong Kong's enduring institutional strengths, and the wide-ranging initiatives we are putting in place - from deepening market liquidity and strengthening our innovation ecosystem to enhancing tax competitiveness and broadening exit channels - we are well positioned to turn uncertainty into opportunity, and opportunity into lasting value.
-
-  In just a couple of weeks, we will welcome the Year of the Horse - symbolising agility, stamina, and transformation. These qualities also describe the private equity and venture capital community. With your insight, discipline, and long-term commitment, I am confident Hong Kong will continue to thrive as a leading international financial centre and a premier hub for private capital in Asia.
-
-  I wish you a rewarding Forum, and the very best in business, investment, and health in the year ahead. Thank you."
 Speech by FS at Asia Private Equity Forum 2026 (English only) (with photos/video),2026-01-28 12:30,2026-01-28 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800271.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Asia Private Equity Forum 2026 today (January 28):
 
 Stephanie (Chairwoman of Hong Kong Venture Capital and Private Equity Association (HKVCA), Ms Stephanie Hui), Rebecca (Past Chairwoman of HKVCA, Ms Rebecca Xu), Kent (Vice Chairman of HKVCA, Mr Kent Chen), distinguished guests, ladies and gentlemen,
@@ -396,116 +331,71 @@ Closing
   In just a couple of weeks, we will welcome the Year of the Horse - symbolising agility, stamina, and transformation. These qualities also describe the private equity and venture capital community. With your insight, discipline, and long-term commitment, I am confident Hong Kong will continue to thrive as a leading international financial centre and a premier hub for private capital in Asia.
 
   I wish you a rewarding Forum, and the very best in business, investment, and health in the year ahead. Thank you."
-立法會十題：支援受大埔宏福苑火災影響的師生,2026-01-28 12:20,2026-01-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800216.htm,"以下是今日（一月二十八日）在立法會會議上黃錦良議員的提問和教育局局長蔡若蓮博士的書面答覆︰
+Speech by FS at Asia Private Equity Forum 2026 (English only) (with video),2026-01-28 12:30,2026-01-28 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800271.htm,"  Following is the speech by the Financial Secretary, Mr Paul Chan, at the Asia Private Equity Forum 2026 today (January 28):
 
-問題：
+Stephanie (Chairwoman of Hong Kong Venture Capital and Private Equity Association (HKVCA), Ms Stephanie Hui), Rebecca (Past Chairwoman of HKVCA, Ms Rebecca Xu), Kent (Vice Chairman of HKVCA, Mr Kent Chen), distinguished guests, ladies and gentlemen,
 
-據悉大埔宏福苑火災的受影響居民中，有不少是學生及教職員。關於支援該等受影響師生，政府可否告知本會：
+  Good morning. It gives me great pleasure to join you again at the Asia Private Equity Forum for the ninth time, alongside leaders from the venture capital and private equity community in Hong Kong and across the region.
 
-（一）目前已識別及登記為受上述火災事故影響的學生及教職員人數為何，並按（i）學校類型、（ii）學生（以年級劃分），以及（iii）教職員列出分項數字；
+  Over the years, this Forum has become an important platform for dialogue - helping us take stock of market developments, exchange perspectives, and explore emerging investment opportunities. I thank the Hong Kong Venture Capital and Private Equity Association for convening this timely gathering.
 
-（二）會否為受災師生提供長期心理輔導及情緒支援服務，而非一次性的支援措施；如會，預計的跟進期為多久；如否，當局會如何幫助他們走出陰霾；
+The global environment
 
-（三）受災家庭中，有多少名屬有特殊教育需要的學生；會否考慮向學校提供額外資源及針對性支援措施，例如安排專業支援人員或學習輔導等，以防止該等學生的學習情況受影響；
+  Globally, private markets are showing encouraging signs of recovery. Anticipated interest-rate cuts, improving valuation expectations, and growing investor demand for private assets are contributing to a more conducive environment for deal-making and capital deployment. In Asia-Pacific, the private equity ecosystem has shown positive momentum in recent months, supported by sustained investment activity and deepening market sophistication across major hubs.
 
-（四）鑑於受火災影響，大埔浸信會公立學校校舍須暫時封閉，其間該校學生須按年級分別在另外兩間小學的校舍上課，當局有何措施支援該校應對因分隔校舍而增加的行政人手及工作量；及
+  At the same time, the private markets industry itself is evolving. Artificial intelligence is increasingly being applied to sourcing, due diligence, and portfolio value creation and monitoring. Participation in private markets is also broadening. Retail and high-net-worth investors are increasingly seeking exposure to private equity, attracted by the potential for improved risk-adjusted returns and diversification.
 
-（五）據悉不少受災家庭被安排至其他地區的過渡性房屋等暫住，以致該等家庭的學童須長途跋涉跨區上學，當局會否考慮為他們提供校巴接送服務或發放額外交通津貼；會否設立特別機制，讓該等家庭的家長可按照意願為子女申請在所住地區插班及升學？
+Hong Kong: outlook and opportunities
 
-答覆：
+  So how about Hong Kong? I remain confident and optimistic - for a few reasons.
 
-主席：
+  First, capital inflows. You must be aware of the strong performance of our public markets. Last year, the Hang Seng Index rose by 28 per cent, following an 18per cent increase in 2024. Trading activity reached new highs, with average daily turnover close to HK$250 billion, up 90per cent year on year. In 2025, Hong Kong recorded 119 initial public offerings (IPOs), raising more than HK$285 billion, registering an increase of over two times year on year, and ranking first globally.
 
-在大埔宏福苑火災發生後，教育局已即時聯絡大埔區學校校長會及位於宏福苑附近的學校，並派出教育心理學家及大埔區學校發展組人員前往設於大埔的臨時庇護中心，為受影響的學生提供適切支援。教育局亦一直與大埔區學校保持聯繫，密切留意師生的情況，提供所需協助。
+  A vibrant stock market and robust IPO performance are certainly good news for the private equity ecosystem. They provide portfolio companies with clearer and more credible exit pathways, support better price discovery, and can improve valuations when conditions allow. Improved liquidity has also strengthened investor confidence and renewed interest in high-potential companies.
 
-就黃錦良議員的提問，經諮詢相關政府部門後，現綜合回覆如下：
+  Beyond public markets, our deep liquidity is underpinned by a thriving asset and wealth management sector. At last count, in 2024, Hong Kong's asset and wealth management industry managed over HK$35 trillion in assets under management, representing a 13 per centincrease from the year before. Fund flows have remained strong as well. In the first 11 months of 2025, Hong Kong-domiciled funds recorded net inflows of HK$386 billion.
 
-（一）至（三）根據學校向教育局提供的資料，共有370多名中、小學和幼稚園學生居於宏福苑。教育局沒有備存居於宏福苑的學校教職員的相關數字及受災家庭中有特殊教育需要學童的相關數字。就專上院校而言，共有80多名學生及50多名教職員受影響。
+  This momentum is supported by a growing family office ecosystem. There are more than 2 700 family offices in Hong Kong, over half of which are managing assets of more than US$50 million.
 
-教育局在事件發生後已成立「大埔區學校危機處理小組」，與大埔區學校校長會和區內各學校保持緊密聯繫，持續為學校提供所需協助和支援服務。為支援受影響的學校應對這次事故，教育局已即時向大埔區每所中小學（包括特殊學校）和幼稚園分別發放10萬元和五萬元的「特別事故支援津貼」。學校可以靈活運用津貼，為學生、教職員和家長提供適切支援，包括提供心理輔導服務、為受影響學生購買與學習相關的物品。
+  Looking ahead, the global environment in 2026 will remain complex. Geopolitical tensions, impact of technological advancement, climate-related risks and other variables will continue to affect sentiment and volatility.
 
-除了為受影響的學校提供津貼，教育局為全港中小學及幼稚園製作了針對火災事件的資源套，包括給學校及家長的輔導建議、特別班主任課教材及問與答參考，讓學校人員及家長盡早協助學生應對事件。教育局亦特意為直接或非直接受火災影響的有自閉症及相關需要的學生製作輔導建議，為協助有特殊教育需要的學生易於理解資源內容，相關資源已特別加設旁白。創傷可能為學生帶來較長遠的影響，因此，教育局製作了以創傷知情理念為本的相關資源，協助學校及家長了解學生經歷創傷後的影響，並建議適當的支援方法，加強曾經歷創傷學生的安全感和抗逆力，促進復原，以及整合了針對火災事件的社區支援服務資訊，所有上述的資源已上載至教育局的「學校危機處理」專頁。與此同時，教育局已聯絡「教師陽光專線」（電話：8100 3361）的輔導員，加強為受影響的教師和校長提供電話輔導及支援。
+  However, Asia's medium- to long-term fundamentals remain strong. China, for example, is expected to grow at around 4.5 per centto 5per cent this year. While it steadily contributes to 30per cent of global GDP growth, the Global South as a whole contributes to some 60 per cent. In particular, ASEAN (Association of Southeast Asian Nations) is home to young populations, massive infrastructure development, a growing middle class, and expanding industrial production. These dynamics are becoming powerful engines of both capital formation and demand.
 
-為對受較大影響的學校提供針對性的支援，教育局組織「一校一支援」隊伍，包括教育局校本專業支援人員及教育心理學家，與學校保持密切聯繫，按學校的個別情況和需要，提供即時、到校及對焦的支援服務，包括協助學校在過渡期間恢復運作、學與教調適安排及師生情緒支援，以及持續檢視事件對師生的影響程度，提供適切的專業支援及轉介安排。
+  The second reason for optimism is increasingly attractive investment opportunities.
 
-另外，教育局於二○二五年十一月至十二月期間舉辦了12場全港性的網上特別事故心理支援講座，邀請不同的講者，包括精神科醫生、教育／臨床心理學家、大學教授作專業分享，協助學校人員及家長了解學生在創傷事件後常見的身心反應及情緒需要，並學習一些應對策略和支援方法。學校的專業人員（包括校本教育心理學家、學校社工及學生輔導人員）會密切留意學生在學習、社交和情緒上的需要，並適時提供適切的協助和支援，教育局亦會持續與學校保持緊密聯繫，以確保受影響的學生（包括有特殊教育需要的學生）得到適切的長期情緒支援。
+  Technology will, no doubt, shape the future. The recalibration of Asia's private equity landscape is being driven by a decisive pivot towards hard technology - the engines of future growth, particularly artificial intelligence, biotech and new energy. The outlook for private equity in these sectors is compelling.
 
-至於專上院校方面，專上院校在火災發生當日已主動聯絡受影響的學生和教職員，並積極提供彈性學習及工作安排、心理輔導服務和緊急住宿等支援，重點如下：
+  China is embarking on the 15th Five-Year Plan, advancing high-quality development. In essence, it is pursuing high-level, two-way opening-up and accelerating technological and industrial innovation. Notably, it places strong emphasis on technological self-reliance, and we can expect game-changing breakthroughs.
 
+  In Hong Kong, we have been developing innovation and technology as one of our three principal engines of growth, alongside finance and trade. From supporting R&D and building infrastructure, to nurturing start-ups and attracting talent, we are strengthening Hong Kong's tech ecosystem from upstream to downstream.
 
-建立聯絡渠道：受影響的學生及教職員，如需要協助，可直接聯絡院校學生事務處或人力資源處；
-心理輔導服務：事件可能引起情緒困擾，專上院校設立情緒支援熱線及安排校內學生事務處輔導員向受影響師生提供心理輔導與支援，有需要的師生可獲安排見輔導員或轉介專科跟進；
-彈性學習及工作安排：有院校在考慮當區交通情況及師生的實際情況後，實施彈性授課和工作安排；以及
-緊急住宿支援：為有需要的師生提供緊急住宿安排。
+  Two points are particularly worth noting. First, the Government is determined to attract the world's leading frontier-technology enterprises to Hong Kong. Over the past three years, the Office for Attracting Strategic Enterprises has attracted more than 100 strategic enterprises, which are expected to invest over HK$60 billion and create more than 22 000 jobs. Importantly, these companies will bring partners across their value chains, further strengthening and broadening Hong Kong's innovation ecosystem.
 
+  Second, the HKSAR Government has established the Hong Kong Investment Corporation Limited, or HKIC. It provides patient capital and makes strategic investments in high-potential ventures, particularly in hard technology. HKIC also co-invests in projects where justified. Its portfolio includes frontier AI platforms reshaping productivity across the Greater Bay Area - from smart logistics to advanced manufacturing - as well as biotech ventures advancing precision medicine and next-generation therapeutics, and AI-driven healthcare solutions integrating machine learning with clinical diagnostics. HKIC plays an important role in channelling private capital into strategic projects. For every dollar it invests, it attracts around six dollars in private investment. HKIC is ready to further collaborate with the private equity community to support high-potential ventures.
 
-在資源方面，大學教育資助委員會（教資會）資助大學可靈活運用以整筆撥款形式發放的經常補助金以支援有需要學生。除此之外，教資會一直支持大學提倡精神健康和正向教育，並加強對學生的各類支援服務，當中包括心理輔導及精神健康支援。至於協助有特殊學習需要或有精神健康病歷的學生方面，教資會在二○二五至二○二八三年期間進一步向教資會資助大學增撥資源，提供涉及額外9,000萬元的「加強支援有特殊教育需要學生」特別撥款，讓大學改善為有特殊教育需要學生提供的教學體驗、加強教職員培訓及推廣校園共融，惠及所有有特殊教育需要的學生。院校亦已為受影響的學生提供特殊考試安排或延期提交功課等協助。所有專上院校將繼續定期跟進受災師生的情況，並會持續檢視可行方案，務求在不同層面提供更多支援。
+Developments for the PE sector
 
-（四）大埔浸信會公立學校的校舍受宏福苑火災影響而須封閉一段時間，教育局一直與該校密切溝通，並持續提供支援。為了讓大埔浸信會公立學校能盡快恢復教學日常，教育局已協調區內學校調動可用課室，並迅速投入資源完成改裝工程，讓大埔浸信會公立學校由二○二五年十二月十五日起按年級分別在大埔官立小學和新界婦孺福利會基督教銘恩小學的校舍恢復面授課堂，作為過渡措施至本學年完結。教育局已成立專責工作小組，並預留五百萬元以提供額外資源支援上述三所學校在過渡期間的運作，並為師生提供適切的學與教支援。
+  Looking ahead, we are keen to support the PE and VC sector's continued growth. Hong Kong has a strong private equity ecosystem. We are home to over 650 PE firms, and assets under management stand at around US$230 billion. This keeps us firmly in second place in Asia, behind only the Chinese Mainland.
 
-為了讓大埔浸信會公立學校所有學生能盡快在一個持續而穩定的學習環境上課，進一步保障學生的福祉，經教育局積極與相關政府部門商討後，前中華基督教會基正小學的校舍（原計劃改建為綜合社會服務大樓）將分配給大埔浸信會公立學校於二○二六／二七學年起作校舍用途，讓該校所有班級均可在同一校舍恢復日常教學活動。教育局正致力推進校舍的翻新工程，以新校舍標準交付，預計可在二○二六年夏季完成。教育局會就有關校舍事宜繼續與大埔浸信會公立學校保持密切溝通。
+  We continue to see encouraging responses to the recent reforms to fund structures. By end-2025, close to 680 open-ended fund companies had been set up, a 43 per centyear-on-year increase. About 1 450 limited partnership funds were registered, up 37per cent from the previous year.
 
-（五）運輸署持續督導公共運輸服務營辦商加強服務，加派車輛和人手，支援入住各區過渡性房屋的大埔宏福苑火災居民。至今各過渡性房屋項目的公共運輸服務如下：
+  The Government is committed to creating fresh momentum for the industry. We will continue to support the growth of our asset and wealth management business, including facilitating more family offices in setting up or expanding here. We are committed to facilitating at least 220 family offices in establishing or expanding operations in Hong Kong from 2026 to 2028.
 
+  Maintaining the competitiveness of our tax regime is also essential. To attract more funds to establish a presence and be managed in Hong Kong, we will introduce a bill into the Legislative Council in the first half of this year to enhance the preferential tax regimes for funds, single family offices, and carried interest.
 
+  Key enhancements will include: first, expanding the scope of ""fund"" under the tax exemption regime to cover pension funds and endowment funds; second, increasing the types of qualifying investments to include emission derivatives and carbon credits, insurance-linked securities, loans and private credit investments, and digital assets; and third, enhancing the tax concession arrangement on the distribution of carried interest by removing the certification requirement for funds and the reference to a hurdle rate.
 
+  On exit options, we have in recent years modernised our listing regime by establishing listing avenues for companies from the new economy and emerging sectors, including pre-revenue biotechnology companies and specialist technology companies, thereby broadening fundraising channels for these enterprises and, in turn, providing PE investors with the avenues to realise their investments through the public markets.
 
-地區
-項目
-現有公共運輸服務
-新增／加強的公共運輸服務
+  We also welcome alternative asset funds to list in Hong Kong. In February 2025, the SFC clarified the regulatory requirements for authorising closed-ended funds that invest mainly in private and less liquid assets. This is intended to encourage eligible and sizeable alternative asset funds - such as those investing in private equity, private credit, or infrastructure debt, and preferably with regular income streams - to list in Hong Kong. And subject to the approval of the Mandatory Provident Fund Schemes Authority, an MPF fund can gain limited exposure to such funds. We look forward to welcoming the first such listing. 
 
+Closing
 
+  Ladies and gentlemen, 2026 will not be without challenges. Yet with the country's unwavering support, Hong Kong's enduring institutional strengths, and the wide-ranging initiatives we are putting in place - from deepening market liquidity and strengthening our innovation ecosystem to enhancing tax competitiveness and broadening exit channels - we are well positioned to turn uncertainty into opportunity, and opportunity into lasting value.
 
+  In just a couple of weeks, we will welcome the Year of the Horse - symbolising agility, stamina, and transformation. These qualities also describe the private equity and venture capital community. With your insight, discipline, and long-term commitment, I am confident Hong Kong will continue to thrive as a leading international financial centre and a premier hub for private capital in Asia.
 
-大埔
-善樓
-九巴：72C、73P、74E、75K、75P及275R分別前往大埔墟、荃灣及觀塘；
-			專線小巴：20B、20C、20E、20G、20R及20T前往大埔墟站。
-增設居民巴士服務NR540往返善樓及大埔墟站，每日上午至晚間時段提供服務；增設穿梭巴士服務往返善樓、大埔中心及雅麗氏何妙齡那打素醫院，每日上午至晚間時段提供服務。
-
-
-樂善村
-增設穿梭巴士服務往返樂善村及大埔墟站，星期一至六每日上午至晚間時段提供服務；專線小巴20B、20C及20G加強服務；九巴75K已增加三輛車加強服務，尾班車由晚上十一時四十分延至翌日零時五分由大美督開出。
-
-
-策誠軒
-居民巴士NR50往返策誠軒及大埔墟站。
-NR50加強服務。
-
-
-元朗
-路德會雙魚薈
-九巴77K前往上水站及元朗站；
-			紅色公共小巴前往上水站及元朗。
-增設居民巴士服務NR977往返路德會七星薈、路德會雙魚薈及大埔墟站，每日上午至晚間時段提供服務；九巴77K已增加一輛車加強服務。
-
-
-路德會七星薈
-九巴54、77K、251B及251M分別前往元朗、上水及荃灣；
-			專線小巴608及608S分別前往元朗及錦上路站。
-
-
-新田
-			部屋
-居民巴士NR976往返新田部屋及錦上路站；九巴76K前住朗屏及上水；專線小巴75前往元朗及落馬洲支線管制站、76前往元朗，以及78前往大欖隧道收費廣場及落馬洲（新田）；
-			紅色公共小巴前往上水站及元朗。
-增設居民巴士NR976的輔助服務往返新田部屋及大埔墟站，每日上午至晚間時段提供服務。
-
-
-北區
-博愛昇平村
-九巴79K前住粉嶺及上水站；專線小巴52K前往粉嶺站。
-九巴79K已增加一輛車加強服務。
-
-
-
-
-有關專營巴士及專線小巴服務詳情，可參閱運輸署網頁（www.td.gov.hk）及各專營巴士營辦商網頁。運輸署會繼續與相關過渡性房屋項目營運機構和公共運輸服務營辦商緊密協調，照顧居民的出行需要。
-
-此外，政府已透過學校向受宏福苑火災影響的學生發放每名學生兩萬元的特別補助，供他們重新購置書本、文具、電腦等學習工具，或來往臨時住所及學校的交通費。至於學位安排支援服務，若學童因受宏福苑火災事件影響而需要轉校，受影響家長和學生可聯絡居住地區所屬的教育局區域教育服務處，教育局會為有需要的學童提供學位安排支援服務。
-
-教育局會繼續與學校保持緊密聯繫，提供適切的支援。"
+  I wish you a rewarding Forum, and the very best in business, investment, and health in the year ahead. Thank you."
 LCQ10: Supporting teachers and students affected by Wang Fuk Court fire in Tai Po,2026-01-28 12:20,2026-01-28 12:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800217.htm,"  ​Following is a question by the Hon Ken Wong and a written reply by the Secretary for Education, Dr Choi Yuk-lin, in the Legislative Council today (January 28):
 
 Question:
@@ -617,6 +507,116 @@ KMB 79K service enhanced by one additional vehicle.
   Meanwhile, the Government has already distributed through schools a special subsidy of $20,000 to each student affected by the Wang Fuk Court fire incident for repurchase of textbooks, stationery, computers, and other learning tools, or for transportation expenses on commuting between temporary accommodation and schools. Regarding school placement assistance, if students affected by the Wang Fuk Court fire incident have to look for other school places elsewhere, the affected parents and students may contact the Regional Education Offices of the EDB under which their residential districts are covered. The EDB will provide the students in need with relevant school placement assistance.
 
   The EDB will continue to maintain close liaison with schools and provide appropriate support."
+立法會十題：支援受大埔宏福苑火災影響的師生,2026-01-28 12:20,2026-01-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800216.htm,"以下是今日（一月二十八日）在立法會會議上黃錦良議員的提問和教育局局長蔡若蓮博士的書面答覆︰
+
+問題：
+
+據悉大埔宏福苑火災的受影響居民中，有不少是學生及教職員。關於支援該等受影響師生，政府可否告知本會：
+
+（一）目前已識別及登記為受上述火災事故影響的學生及教職員人數為何，並按（i）學校類型、（ii）學生（以年級劃分），以及（iii）教職員列出分項數字；
+
+（二）會否為受災師生提供長期心理輔導及情緒支援服務，而非一次性的支援措施；如會，預計的跟進期為多久；如否，當局會如何幫助他們走出陰霾；
+
+（三）受災家庭中，有多少名屬有特殊教育需要的學生；會否考慮向學校提供額外資源及針對性支援措施，例如安排專業支援人員或學習輔導等，以防止該等學生的學習情況受影響；
+
+（四）鑑於受火災影響，大埔浸信會公立學校校舍須暫時封閉，其間該校學生須按年級分別在另外兩間小學的校舍上課，當局有何措施支援該校應對因分隔校舍而增加的行政人手及工作量；及
+
+（五）據悉不少受災家庭被安排至其他地區的過渡性房屋等暫住，以致該等家庭的學童須長途跋涉跨區上學，當局會否考慮為他們提供校巴接送服務或發放額外交通津貼；會否設立特別機制，讓該等家庭的家長可按照意願為子女申請在所住地區插班及升學？
+
+答覆：
+
+主席：
+
+在大埔宏福苑火災發生後，教育局已即時聯絡大埔區學校校長會及位於宏福苑附近的學校，並派出教育心理學家及大埔區學校發展組人員前往設於大埔的臨時庇護中心，為受影響的學生提供適切支援。教育局亦一直與大埔區學校保持聯繫，密切留意師生的情況，提供所需協助。
+
+就黃錦良議員的提問，經諮詢相關政府部門後，現綜合回覆如下：
+
+（一）至（三）根據學校向教育局提供的資料，共有370多名中、小學和幼稚園學生居於宏福苑。教育局沒有備存居於宏福苑的學校教職員的相關數字及受災家庭中有特殊教育需要學童的相關數字。就專上院校而言，共有80多名學生及50多名教職員受影響。
+
+教育局在事件發生後已成立「大埔區學校危機處理小組」，與大埔區學校校長會和區內各學校保持緊密聯繫，持續為學校提供所需協助和支援服務。為支援受影響的學校應對這次事故，教育局已即時向大埔區每所中小學（包括特殊學校）和幼稚園分別發放10萬元和五萬元的「特別事故支援津貼」。學校可以靈活運用津貼，為學生、教職員和家長提供適切支援，包括提供心理輔導服務、為受影響學生購買與學習相關的物品。
+
+除了為受影響的學校提供津貼，教育局為全港中小學及幼稚園製作了針對火災事件的資源套，包括給學校及家長的輔導建議、特別班主任課教材及問與答參考，讓學校人員及家長盡早協助學生應對事件。教育局亦特意為直接或非直接受火災影響的有自閉症及相關需要的學生製作輔導建議，為協助有特殊教育需要的學生易於理解資源內容，相關資源已特別加設旁白。創傷可能為學生帶來較長遠的影響，因此，教育局製作了以創傷知情理念為本的相關資源，協助學校及家長了解學生經歷創傷後的影響，並建議適當的支援方法，加強曾經歷創傷學生的安全感和抗逆力，促進復原，以及整合了針對火災事件的社區支援服務資訊，所有上述的資源已上載至教育局的「學校危機處理」專頁。與此同時，教育局已聯絡「教師陽光專線」（電話：8100 3361）的輔導員，加強為受影響的教師和校長提供電話輔導及支援。
+
+為對受較大影響的學校提供針對性的支援，教育局組織「一校一支援」隊伍，包括教育局校本專業支援人員及教育心理學家，與學校保持密切聯繫，按學校的個別情況和需要，提供即時、到校及對焦的支援服務，包括協助學校在過渡期間恢復運作、學與教調適安排及師生情緒支援，以及持續檢視事件對師生的影響程度，提供適切的專業支援及轉介安排。
+
+另外，教育局於二○二五年十一月至十二月期間舉辦了12場全港性的網上特別事故心理支援講座，邀請不同的講者，包括精神科醫生、教育／臨床心理學家、大學教授作專業分享，協助學校人員及家長了解學生在創傷事件後常見的身心反應及情緒需要，並學習一些應對策略和支援方法。學校的專業人員（包括校本教育心理學家、學校社工及學生輔導人員）會密切留意學生在學習、社交和情緒上的需要，並適時提供適切的協助和支援，教育局亦會持續與學校保持緊密聯繫，以確保受影響的學生（包括有特殊教育需要的學生）得到適切的長期情緒支援。
+
+至於專上院校方面，專上院校在火災發生當日已主動聯絡受影響的學生和教職員，並積極提供彈性學習及工作安排、心理輔導服務和緊急住宿等支援，重點如下：
+
+
+建立聯絡渠道：受影響的學生及教職員，如需要協助，可直接聯絡院校學生事務處或人力資源處；
+心理輔導服務：事件可能引起情緒困擾，專上院校設立情緒支援熱線及安排校內學生事務處輔導員向受影響師生提供心理輔導與支援，有需要的師生可獲安排見輔導員或轉介專科跟進；
+彈性學習及工作安排：有院校在考慮當區交通情況及師生的實際情況後，實施彈性授課和工作安排；以及
+緊急住宿支援：為有需要的師生提供緊急住宿安排。
+
+
+在資源方面，大學教育資助委員會（教資會）資助大學可靈活運用以整筆撥款形式發放的經常補助金以支援有需要學生。除此之外，教資會一直支持大學提倡精神健康和正向教育，並加強對學生的各類支援服務，當中包括心理輔導及精神健康支援。至於協助有特殊學習需要或有精神健康病歷的學生方面，教資會在二○二五至二○二八三年期間進一步向教資會資助大學增撥資源，提供涉及額外9,000萬元的「加強支援有特殊教育需要學生」特別撥款，讓大學改善為有特殊教育需要學生提供的教學體驗、加強教職員培訓及推廣校園共融，惠及所有有特殊教育需要的學生。院校亦已為受影響的學生提供特殊考試安排或延期提交功課等協助。所有專上院校將繼續定期跟進受災師生的情況，並會持續檢視可行方案，務求在不同層面提供更多支援。
+
+（四）大埔浸信會公立學校的校舍受宏福苑火災影響而須封閉一段時間，教育局一直與該校密切溝通，並持續提供支援。為了讓大埔浸信會公立學校能盡快恢復教學日常，教育局已協調區內學校調動可用課室，並迅速投入資源完成改裝工程，讓大埔浸信會公立學校由二○二五年十二月十五日起按年級分別在大埔官立小學和新界婦孺福利會基督教銘恩小學的校舍恢復面授課堂，作為過渡措施至本學年完結。教育局已成立專責工作小組，並預留五百萬元以提供額外資源支援上述三所學校在過渡期間的運作，並為師生提供適切的學與教支援。
+
+為了讓大埔浸信會公立學校所有學生能盡快在一個持續而穩定的學習環境上課，進一步保障學生的福祉，經教育局積極與相關政府部門商討後，前中華基督教會基正小學的校舍（原計劃改建為綜合社會服務大樓）將分配給大埔浸信會公立學校於二○二六／二七學年起作校舍用途，讓該校所有班級均可在同一校舍恢復日常教學活動。教育局正致力推進校舍的翻新工程，以新校舍標準交付，預計可在二○二六年夏季完成。教育局會就有關校舍事宜繼續與大埔浸信會公立學校保持密切溝通。
+
+（五）運輸署持續督導公共運輸服務營辦商加強服務，加派車輛和人手，支援入住各區過渡性房屋的大埔宏福苑火災居民。至今各過渡性房屋項目的公共運輸服務如下：
+
+
+
+
+地區
+項目
+現有公共運輸服務
+新增／加強的公共運輸服務
+
+
+
+
+大埔
+善樓
+九巴：72C、73P、74E、75K、75P及275R分別前往大埔墟、荃灣及觀塘；
+			專線小巴：20B、20C、20E、20G、20R及20T前往大埔墟站。
+增設居民巴士服務NR540往返善樓及大埔墟站，每日上午至晚間時段提供服務；增設穿梭巴士服務往返善樓、大埔中心及雅麗氏何妙齡那打素醫院，每日上午至晚間時段提供服務。
+
+
+樂善村
+增設穿梭巴士服務往返樂善村及大埔墟站，星期一至六每日上午至晚間時段提供服務；專線小巴20B、20C及20G加強服務；九巴75K已增加三輛車加強服務，尾班車由晚上十一時四十分延至翌日零時五分由大美督開出。
+
+
+策誠軒
+居民巴士NR50往返策誠軒及大埔墟站。
+NR50加強服務。
+
+
+元朗
+路德會雙魚薈
+九巴77K前往上水站及元朗站；
+			紅色公共小巴前往上水站及元朗。
+增設居民巴士服務NR977往返路德會七星薈、路德會雙魚薈及大埔墟站，每日上午至晚間時段提供服務；九巴77K已增加一輛車加強服務。
+
+
+路德會七星薈
+九巴54、77K、251B及251M分別前往元朗、上水及荃灣；
+			專線小巴608及608S分別前往元朗及錦上路站。
+
+
+新田
+			部屋
+居民巴士NR976往返新田部屋及錦上路站；九巴76K前住朗屏及上水；專線小巴75前往元朗及落馬洲支線管制站、76前往元朗，以及78前往大欖隧道收費廣場及落馬洲（新田）；
+			紅色公共小巴前往上水站及元朗。
+增設居民巴士NR976的輔助服務往返新田部屋及大埔墟站，每日上午至晚間時段提供服務。
+
+
+北區
+博愛昇平村
+九巴79K前住粉嶺及上水站；專線小巴52K前往粉嶺站。
+九巴79K已增加一輛車加強服務。
+
+
+
+
+有關專營巴士及專線小巴服務詳情，可參閱運輸署網頁（www.td.gov.hk）及各專營巴士營辦商網頁。運輸署會繼續與相關過渡性房屋項目營運機構和公共運輸服務營辦商緊密協調，照顧居民的出行需要。
+
+此外，政府已透過學校向受宏福苑火災影響的學生發放每名學生兩萬元的特別補助，供他們重新購置書本、文具、電腦等學習工具，或來往臨時住所及學校的交通費。至於學位安排支援服務，若學童因受宏福苑火災事件影響而需要轉校，受影響家長和學生可聯絡居住地區所屬的教育局區域教育服務處，教育局會為有需要的學童提供學位安排支援服務。
+
+教育局會繼續與學校保持緊密聯繫，提供適切的支援。"
 立法會十三題：公眾骨灰龕位的編配,2026-01-28 12:18,2026-01-28 12:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800229.htm,"以下是今日（一月二十八日）在立法會會議上李梓敬議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -1020,15 +1020,6 @@ President,
   To further foster a hospitable culture, the HKTB has recognised merchants and industry practitioners through newspapers, online platforms and television programmes for their outstanding products and services, promoting the spirit of hospitality to the society. This has included the local food and beverage services industry, where frontline practitioners and restaurant managers shared their stories on providing quality dining experiences with professionalism and courtesy. These stories showcased the excellent professional service standards and service skills of the industry from multiple perspectives, while also encouraging broader industry participation in promoting and displaying hospitality of Hong Kong.
 
   Besides, the Chinese Culinary Institute and International Culinary Institute of the Vocational Training Council are committed to providing diversified training programmes to meet the manpower demand of the food and beverage services industry, and nurture outstanding talent in support of the sustainable development of the food and beverage services industry in Hong Kong. The Employees Retraining Board also provides training courses relevant to the food and beverage services industry for the local workforce, covering such skills training as different cuisines and hospitality etiquette."
-​香港與土耳其促進和保護投資協定二月四日生效,2026-01-28 11:00,2026-01-28 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012700342.htm,"經雙方完成所需內部程序，香港與土耳其促進和保護投資協定（投資協定）將於二月四日生效。
-
-根據協定，兩地政府承諾為對方投資者提供保障，如公正、公平和非歧視性對待其投資，在徵收投資時作出賠償，以及容許投資和收益自由轉移至外地。協定亦規定投資爭端可根據國際認可的規則解決，包括仲裁。
-
-商務及經濟發展局局長丘應樺說：「通過加強對投資的保障，投資協定將提升投資者信心，擴大香港和土耳其之間的投資流動，為兩地經濟發展帶來裨益。」
-
-他續說：「政府一直致力擴展香港的全球經貿網絡，積極尋求與新興市場，包括中東及其他『一帶一路』沿線地區具潛力的夥伴簽署投資協定或自由貿易協定。我們已大致完成與卡塔爾的投資協定談判，與秘魯的談判亦進度良好。同時，我們正與孟加拉國、埃及和沙特阿拉伯探討簽訂投資協定。」
-
-香港至今已與33個外地經濟體簽訂24份投資協定。除與土耳其於二○二三年十月簽署的協定外，其餘外地經濟體包括10個東南亞國家聯盟成員國（即文萊、柬埔寨、印尼、老撾、馬來西亞、緬甸、菲律賓、新加坡、泰國和越南）、澳洲、奧地利、巴林、比利時、加拿大、智利、丹麥、芬蘭、法國、德國、意大利、日本、韓國、科威特、盧森堡、墨西哥、荷蘭、新西蘭、瑞典、瑞士、阿拉伯聯合酋長國和英國。"
 Investment Promotion and Protection Agreement between Hong Kong and Türkiye to enter into force on February 4,2026-01-28 11:00,2026-01-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012700341.htm,"The Investment Promotion and Protection Agreement (IPPA) signed between Hong Kong and Türkiye will enter into force on February 4, following the fulfilment of relevant internal requirements by both sides.
 
 Under the IPPA, the two governments undertake to provide investors of the other side with, among others, fair, equitable and non-discriminatory treatment of their investments, compensation in the event of expropriation of investments, and the right to free transfers abroad of investments and returns. The IPPA also provides for the settlement of investment disputes under internationally accepted rules, including arbitration.
@@ -1038,6 +1029,15 @@ The Secretary for Commerce and Economic Development, Mr Algernon Yau, said, ""By
   ""The Government is dedicated to expanding Hong Kong's global economic and trade networks and has been actively seeking to sign IPPAs or free trade agreements with emerging markets including potential partners in the Middle East and other regions along the Belt and Road. We have largely concluded the IPPA negotiations with Qatar, and good progress has been made for the one with Peru. Meanwhile, we are exploring the signing of IPPAs with Bangladesh, Egypt and Saudi Arabia,"" he added.
 
 Hong Kong has so far signed 24 IPPAs with 33 foreign economies. Apart from the one signed with Türkiye in October 2023, the other foreign economies include 10 member states of the Association of Southeast Asian Nations (namely Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Viet Nam), Australia, Austria, Bahrain, Belgium, Canada, Chile, Denmark, Finland, France, Germany, Italy, Japan, Korea, Kuwait, Luxembourg, Mexico, the Netherlands, New Zealand, Sweden, Switzerland, the United Arab Emirates and the United Kingdom."
+​香港與土耳其促進和保護投資協定二月四日生效,2026-01-28 11:00,2026-01-28 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012700342.htm,"經雙方完成所需內部程序，香港與土耳其促進和保護投資協定（投資協定）將於二月四日生效。
+
+根據協定，兩地政府承諾為對方投資者提供保障，如公正、公平和非歧視性對待其投資，在徵收投資時作出賠償，以及容許投資和收益自由轉移至外地。協定亦規定投資爭端可根據國際認可的規則解決，包括仲裁。
+
+商務及經濟發展局局長丘應樺說：「通過加強對投資的保障，投資協定將提升投資者信心，擴大香港和土耳其之間的投資流動，為兩地經濟發展帶來裨益。」
+
+他續說：「政府一直致力擴展香港的全球經貿網絡，積極尋求與新興市場，包括中東及其他『一帶一路』沿線地區具潛力的夥伴簽署投資協定或自由貿易協定。我們已大致完成與卡塔爾的投資協定談判，與秘魯的談判亦進度良好。同時，我們正與孟加拉國、埃及和沙特阿拉伯探討簽訂投資協定。」
+
+香港至今已與33個外地經濟體簽訂24份投資協定。除與土耳其於二○二三年十月簽署的協定外，其餘外地經濟體包括10個東南亞國家聯盟成員國（即文萊、柬埔寨、印尼、老撾、馬來西亞、緬甸、菲律賓、新加坡、泰國和越南）、澳洲、奧地利、巴林、比利時、加拿大、智利、丹麥、芬蘭、法國、德國、意大利、日本、韓國、科威特、盧森堡、墨西哥、荷蘭、新西蘭、瑞典、瑞士、阿拉伯聯合酋長國和英國。"
 Speech by SFST at 2026 International Forum for Impact Investing (English Only),2026-01-28 10:56,2026-01-28 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/28/P2026012800241.htm,"Following is the speech by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the 2026 International Forum for Impact Investing today (January 28):
 
 Regina (Convenor of the Non-official Members of the Executive Council, Mrs Regina Ip), DG Zhong Wu (Director General, Finance Center for South-South Cooperation, Dr Wu Zhong), Chairman Bei (Chairman, GSG Impact China National Partner, Dr Bei Duoguang), distinguished guests, ladies and gentlemen,
@@ -1263,19 +1263,6 @@ Dr Shen noted that Hong Kong provides a vibrant and highly internationalised env
 Dr Shen said, ""With the rapid development of AI infrastructure, Hong Kong plays a greater role in data science, fintech and smart manufacturing, serving as a strategic hub linking the Chinese Mainland with international markets. We look forward to deepening co-operation with OASES through the GBS, driving the application of AI technologies across broader industrial scenarios, and contributing to the continued growth of Hong Kong's innovation ecosystem.""
 
   Moving forward, OASES will continuously align with the National 15th Five‑Year Plan to elevate Hong Kong's status as a leading international hub for finance, shipping, trade, and innovation and technology. OASES will continue to leverage Hong Kong's unique role as a ""Super Connector"" and ""Super Value‑Adder"" to accelerate growth in finance and I&T, and deepen global interactions. OASES will continue to attract high-potential technology enterprises to set up in Hong Kong and support them to thrive globally through our city. This initiative is designed to drive significant advancements in key emerging industries: AI & Data Science, fintech, life and health technology, advanced manufacturing and new energy technology, and cultural and creative technology. Ultimately, these efforts are intended to further solidify Hong Kong's competitive position as a global I&T hub."
-Hong Kong Customs hosts International Customs Day 2026 Reception (with photos),2026-01-27 22:32,2026-01-27 22:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700571.htm,"Officiated by the Financial Secretary, Mr Paul Chan, and the Commissioner of Customs and Excise, Mr Chan Tsz-tat, a reception for International Customs Day (ICD) 2026 was held by Hong Kong Customs at the Hong Kong Convention and Exhibition Centre today (January 27).
-
-The World Customs Organization (WCO) set the theme of this year's ICD as ""Customs protecting society through vigilance and commitment"", highlighting Customs' staunch dedication and unwavering efforts in law enforcement to safeguard national security and foster social prosperity.
-
-The Financial Secretary, Mr Paul Chan, commended Hong Kong Customs for its far-reaching responsibilities and essential service, from facilitating travel and trade and connecting Hong Kong with the world, to law enforcement and safeguarding the well-being of the public. He said that, amid structural changes in the global trade and economic landscape driven by geopolitical shifts, technological transformation and supply-chain realignment, Hong Kong, as the country's southern gateway, and as a ""super connector"" and ""super value-adder"", stands to benefit. But it will also face new challenges.
-
-Mr Chan noted that, under the new circumstances, Hong Kong Customs must continue to evolve. Empowering law enforcement with technologies and strengthening collaboration with Mainland and overseas partners are important. He looked to Hong Kong Customs to make greater contributions to international customs co-operation.
-
-In his speech, Mr Chan Tsz-tat highlighted the profound and transformative impacts brought by artificial intelligence on daily life, and that Hong Kong Customs has actively applied innovative technologies to enhance trade facilitation and boundary security to foster economic development and safeguard social stability. He also expressed appreciation to colleagues for their commitment to strive for excellence in law enforcement to enhance public well-being. He stressed that Hong Kong Customs will stay committed to be a modern, efficient, and forward-looking law enforcement agency.
-
-Hong Kong Customs became a member of the WCO in 1987, and ICD has become an annual event of Hong Kong Customs ever since. At the reception, Mr Paul Chan presented WCO Certificates of Merit to Hong Kong Customs' officers and a business stakeholder in recognition of their remarkable contributions to various customs affairs pertinent to the theme of ICD.
-
-Over 300 guests, including officials of the Government of the Hong Kong Special Administrative Region, members of the Executive and Legislative Councils, representatives of various offices of the Central People's Government in Hong Kong and Customs administrations of the Chinese Mainland and Macao, Consuls-General, foreign Customs attachés, as well as private stakeholders, attended the reception."
 ​香港海關舉辦二○二六年國際海關節酒會（附圖）,2026-01-27 22:32,2026-01-27 22:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700570.htm,"香港海關今日（一月二十七日）在香港會議展覽中心舉行二○二六年「國際海關節」酒會，並由財政司司長陳茂波及海關關長陳子達主禮。
 
 今年，世界海關組織將「國際海關節」的主題定為「竭誠把關衞家國，機智執法護社羣」，旨在彰顯海關秉持使命、致力打擊罪案，保障國家安全與社會繁榮。
@@ -1289,6 +1276,19 @@ Over 300 guests, including officials of the Government of the Hong Kong Special 
 香港海關在一九八七年加入世界海關組織，「國際海關節」自此成為香港海關的年度盛事。陳茂波亦於會上頒發世界海關組織嘉許狀予香港海關人員和合作夥伴，表揚他們在與國際海關節主題相關的不同海關事務上所作出的傑出貢獻。
 
 超過三百名嘉賓出席是次酒會，包括香港特別行政區政府官員、行政會議成員和立法會議員、中央人民政府駐港機構及內地和澳門海關代表、多國駐港使節、外國海關專員，以及私人機構代表等。"
+Hong Kong Customs hosts International Customs Day 2026 Reception (with photos),2026-01-27 22:32,2026-01-27 22:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700571.htm,"Officiated by the Financial Secretary, Mr Paul Chan, and the Commissioner of Customs and Excise, Mr Chan Tsz-tat, a reception for International Customs Day (ICD) 2026 was held by Hong Kong Customs at the Hong Kong Convention and Exhibition Centre today (January 27).
+
+The World Customs Organization (WCO) set the theme of this year's ICD as ""Customs protecting society through vigilance and commitment"", highlighting Customs' staunch dedication and unwavering efforts in law enforcement to safeguard national security and foster social prosperity.
+
+The Financial Secretary, Mr Paul Chan, commended Hong Kong Customs for its far-reaching responsibilities and essential service, from facilitating travel and trade and connecting Hong Kong with the world, to law enforcement and safeguarding the well-being of the public. He said that, amid structural changes in the global trade and economic landscape driven by geopolitical shifts, technological transformation and supply-chain realignment, Hong Kong, as the country's southern gateway, and as a ""super connector"" and ""super value-adder"", stands to benefit. But it will also face new challenges.
+
+Mr Chan noted that, under the new circumstances, Hong Kong Customs must continue to evolve. Empowering law enforcement with technologies and strengthening collaboration with Mainland and overseas partners are important. He looked to Hong Kong Customs to make greater contributions to international customs co-operation.
+
+In his speech, Mr Chan Tsz-tat highlighted the profound and transformative impacts brought by artificial intelligence on daily life, and that Hong Kong Customs has actively applied innovative technologies to enhance trade facilitation and boundary security to foster economic development and safeguard social stability. He also expressed appreciation to colleagues for their commitment to strive for excellence in law enforcement to enhance public well-being. He stressed that Hong Kong Customs will stay committed to be a modern, efficient, and forward-looking law enforcement agency.
+
+Hong Kong Customs became a member of the WCO in 1987, and ICD has become an annual event of Hong Kong Customs ever since. At the reception, Mr Paul Chan presented WCO Certificates of Merit to Hong Kong Customs' officers and a business stakeholder in recognition of their remarkable contributions to various customs affairs pertinent to the theme of ICD.
+
+Over 300 guests, including officials of the Government of the Hong Kong Special Administrative Region, members of the Executive and Legislative Councils, representatives of various offices of the Central People's Government in Hong Kong and Customs administrations of the Chinese Mainland and Macao, Consuls-General, foreign Customs attachés, as well as private stakeholders, attended the reception."
 首屆全球產業峰會匯聚環球領袖　推動金融與產業融合（附圖）,2026-01-27 21:27,2026-01-27 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700805.htm,"首屆全球產業峰會今日（一月二十七日）在香港會議展覽中心圓滿舉行，以多角度剖析各行業的前景、挑戰和機遇。
 
 全球產業峰會於年度盛事亞洲金融論壇的第二天盛大舉行，由香港特別行政區政府財經事務及庫務局、引進重點企業辦公室（引進辦）及香港貿易發展局攜手舉辦，約3 500位環球頂尖領袖雲集，充分彰顯香港作為「超級聯繫人」及「超級增值人」的獨特角色，進一步鞏固本港作為國際金融和創新科技樞紐的地位。
@@ -1468,20 +1468,6 @@ Yesterday, accompanied by the Under Secretary for Commerce and Economic Developm
 此外，各駐內地辦事處亦會積極配合分別由商務及經濟發展局和教育局牽頭的「內地企業出海專班」和「留學香港專班」，吸引更多內地優秀企業利用香港平台「出海」，以及在內地加強推廣香港高等教育，招攬更多教研人才和學生來港就讀。
 
 主席，我的介紹完畢。我和同事樂意解答議員的問題。多謝主席。"
-​公務員學院舉辦「中美關係的發展」講座（附圖）,2026-01-27 18:55,2026-01-27 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700275.htm,"公務員學院今日（一月二十七日）與外交部駐香港特別行政區特派員公署（特派員公署）舉辦「國家外交事務系列」講座，由外交部北美大洋洲司副司長唐志文主講，主題為「中美關係的發展」。
-
-公務員事務局局長楊何蓓茵在講座致辭時表示，香港擁有背靠祖國、聯通世界的獨特優勢，具備多元文化和國際化背景。在國家「十五五」規劃中，香港可發揮橋樑作用，促進國家與世界各地的經濟和文化交流，拓展新的發展空間。特區公務員更應積極參與，深入理解國家戰略，準確把握國際格局變化，充分發揮公務員團隊的專業素養和溝通能力，為推動中美之間的理性溝通和務實合作貢獻力量。
-
-約170名高級官員、首長級和高級公務員出席今日於政府總部舉行的講座。
-
-公務員學院與特派員公署自二○二一年底開始合辦「國家外交事務系列」講座，包括邀請特派員公署特派員主講「年度國際形勢和中國外交」專題報告會，以及外交部相關官員主講不同議題，提升公務員的國際視野、國家安全意識和大局觀。"
-"Civil Service College holds talk on ""Development of China - United States Relations"" (with photos)",2026-01-27 18:55,2026-01-27 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700277.htm,"The Civil Service College (CSC) today (January 27) held a talk in the series on the country's foreign affairs, jointly with the Office of the Commissioner of the Ministry of Foreign Affairs (OCMFA) in the Hong Kong Special Administrative Region (HKSAR). The talk was delivered by Deputy Director General of the Department of North American and Oceanian Affairs of the Ministry of Foreign Affairs (MFA) Mr Tang Zhiwen. The theme of the talk was ""Development of China - United States Relations"".
-
-Addressing the talk, the Secretary for the Civil Service, Mrs Ingrid Yeung, said that Hong Kong has the distinctive advantages of enjoying the nation's strong support and being closely connected to the world, along with a multicultural and international background. In the National 15th Five-Year Plan, Hong Kong can play a bridging role by promoting economic and cultural exchanges between the country and the rest of the world, thereby opening up new development opportunities. HKSAR civil servants should take a more active role by developing a deep understanding of national strategies, accurately grasping changes in the international landscape, and fully leveraging their professional expertise and communication capabilities to contribute to fostering rational dialogue and pragmatic co-operation between China and the United States.
-
-About 170 senior officials and civil servants in the directorate and senior ranks attended the talk at the Central Government Offices today. 
-
-The CSC and the OCMFA have been jointly organising this series of talks on the country's foreign affairs since late 2021. The series, including thematic briefing sessions on ""International Landscape and China's Foreign Relations"" by the Commissioner of OCMFA, and talks by relevant officials of the MFA on various topics, aims to broaden civil servants' international perspectives, and awareness of national security and holistic views."
 文化體育及旅遊局局長出席立法會經濟發展事務委員會政策簡報會開場發言（只有中文）,2026-01-27 18:55,2026-01-27 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700643.htm,"以下是文化體育及旅遊局（文體旅局）局長羅淑佩今日（一月二十七日）出席立法會經濟發展事務委員會政策簡報會就旅遊政策措施的開場發言：
 
 本屆政府成立文體旅局是讓我們可以統整文化、體育和旅遊事宜，目標是讓三個範疇相輔相成，協同發展，但由於歷史原因，文體旅局負責的事務現時分別由三個立法會事務委員會處理。今早我已向民政及文化體育事務委員會介紹的在文化和體育方面的政策。現在於經濟發展事務委員會，我會介紹文體旅局在旅遊方面的工作。
@@ -1531,6 +1517,13 @@ The CSC and the OCMFA have been jointly organising this series of talks on the c
 要令旅客一來再來，優質服務必不可少。為深化好客文化並加強推廣「人人都是旅遊大使」，旅發局早前跟大眾媒體合作，推出傑出服務嘉許計劃，向市民表揚提供優質服務的旅遊從業員，鼓勵大眾一起成為「旅遊大使」，攜手展現香港好客精神。
 
 各位議員、主席，香港的旅遊勢頭很好，通過豐富旅客體驗、開拓客源及優化旅遊相關設施配套及服務，我們致力將香港建設成為一個世界級旅遊目的地，讓全球旅客在香港時「樂而忘返」，回家後「念念不忘」，進而「一來再來」。"
+​公務員學院舉辦「中美關係的發展」講座（附圖）,2026-01-27 18:55,2026-01-27 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700275.htm,"公務員學院今日（一月二十七日）與外交部駐香港特別行政區特派員公署（特派員公署）舉辦「國家外交事務系列」講座，由外交部北美大洋洲司副司長唐志文主講，主題為「中美關係的發展」。
+
+公務員事務局局長楊何蓓茵在講座致辭時表示，香港擁有背靠祖國、聯通世界的獨特優勢，具備多元文化和國際化背景。在國家「十五五」規劃中，香港可發揮橋樑作用，促進國家與世界各地的經濟和文化交流，拓展新的發展空間。特區公務員更應積極參與，深入理解國家戰略，準確把握國際格局變化，充分發揮公務員團隊的專業素養和溝通能力，為推動中美之間的理性溝通和務實合作貢獻力量。
+
+約170名高級官員、首長級和高級公務員出席今日於政府總部舉行的講座。
+
+公務員學院與特派員公署自二○二一年底開始合辦「國家外交事務系列」講座，包括邀請特派員公署特派員主講「年度國際形勢和中國外交」專題報告會，以及外交部相關官員主講不同議題，提升公務員的國際視野、國家安全意識和大局觀。"
 Opening ceremony of Hong Kong International Correctional Services Response Tactics Training Academy held today (with photos),2026-01-27 18:55,2026-01-27 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012600585.htm,"  The Correctional Services Department (CSD) today (January 27) held the opening ceremony of the Hong Kong International Correctional Services Response Tactics Training Academy, implementing the relevant policy initiative announced by the Chief Executive in his latest Policy Address. With the motto of ""Fusing East and West through tactics; Forging new heights through synergy"", the Academy aims to promote the sharing of emergency response tactics and experiences among law enforcement agencies from different jurisdictions, thereby further enhancing the CSD's collaboration with them and professional capabilities of each other.
 
   The Academy is situated at the former Cape Collinson Correctional Institution. In addition to offering a wide range of training facilities, it offers an authentic correctional institution environment to provide members of law enforcement teams from the Mainland and overseas with professional correctional response tactics training. The Academy also aims to promote exchanges of correctional response tactics and relevant areas between the CSD's response teams and trainees from the Mainland and overseas, with a view to enhancing each other's capabilities and tactics when handling emergencies.
@@ -1542,6 +1535,13 @@ Opening ceremony of Hong Kong International Correctional Services Response Tacti
   The Academy offers tactics training courses that combine both theory and practice, including the Certificate in Safe and Effective Control Tactics, the Certificate in Close Quarter Defense and Control Technique, and other courses relating to correctional response forces' anti-riot tactics. The Academy also plans to progressively introduce instructor courses, enabling graduates to provide relevant training for other personnel to elevate professional standards after their return to their respective organisations. In addition, the Academy will proactively reach out to correctional institutions worldwide to foster learning and exchanges among different jurisdictions.
 
   The first batch of 29 participants from the Mainland, Macao, Brunei, Fiji, Malaysia, the Philippines, the Republic of Korea and Vietnam arrived in Hong Kong on January 26 for tactical exchanges with the CSD's response teams and the Certificate in Safe and Effective Control Tactics course. This course was formulated by the CSD and pitched at Level 3 under the Hong Kong Qualifications Framework. The course aims to teach frontline law enforcement officers to apply self-defence and control techniques with a low level of harm to reduce the risk of injury to both law enforcement officers and those being controlled, while ensuring effective self-defence and control."
+"Civil Service College holds talk on ""Development of China - United States Relations"" (with photos)",2026-01-27 18:55,2026-01-27 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700277.htm,"The Civil Service College (CSC) today (January 27) held a talk in the series on the country's foreign affairs, jointly with the Office of the Commissioner of the Ministry of Foreign Affairs (OCMFA) in the Hong Kong Special Administrative Region (HKSAR). The talk was delivered by Deputy Director General of the Department of North American and Oceanian Affairs of the Ministry of Foreign Affairs (MFA) Mr Tang Zhiwen. The theme of the talk was ""Development of China - United States Relations"".
+
+Addressing the talk, the Secretary for the Civil Service, Mrs Ingrid Yeung, said that Hong Kong has the distinctive advantages of enjoying the nation's strong support and being closely connected to the world, along with a multicultural and international background. In the National 15th Five-Year Plan, Hong Kong can play a bridging role by promoting economic and cultural exchanges between the country and the rest of the world, thereby opening up new development opportunities. HKSAR civil servants should take a more active role by developing a deep understanding of national strategies, accurately grasping changes in the international landscape, and fully leveraging their professional expertise and communication capabilities to contribute to fostering rational dialogue and pragmatic co-operation between China and the United States.
+
+About 170 senior officials and civil servants in the directorate and senior ranks attended the talk at the Central Government Offices today. 
+
+The CSC and the OCMFA have been jointly organising this series of talks on the country's foreign affairs since late 2021. The series, including thematic briefing sessions on ""International Landscape and China's Foreign Relations"" by the Commissioner of OCMFA, and talks by relevant officials of the MFA on various topics, aims to broaden civil servants' international perspectives, and awareness of national security and holistic views."
 香港國際懲教應變戰術訓練學院開幕典禮今日舉行（附圖）,2026-01-27 18:55,2026-01-27 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012600469.htm,"懲教署今日（一月二十七日）舉行香港國際懲教應變戰術訓練學院開幕典禮，以落實行政長官在最新一份《施政報告》中提出的有關項目。學院以「融匯中西經驗共創國際新峰」為目標，促進不同司法管轄區執法部隊之間的緊急事故應變戰術與經驗分享，從而進一步加強懲教署與他們的合作聯繫，並提升彼此的專業能力。
 
 學院設於前歌連臣角懲教所舊址，除了設有各種訓練設施外，亦提供真實的懲教院所環境，為國內及海外的執法部隊提供專業的懲教應變戰術訓練，以及促進懲教署應變部隊和國內及海外學員就懲教應變戰術和相關領域交流，藉以提升彼此應對突發事件的能力和戰術。
@@ -1553,6 +1553,17 @@ Opening ceremony of Hong Kong International Correctional Services Response Tacti
 學院提供理論與實踐並重的戰術訓練課程，包括「安全有效控制戰術證書」、「近戰防控術證書」，以及有關監獄特警防暴戰術等的其他課程。學院亦計劃逐步推出教官課程，讓學員能在完成課程後，回到所屬機構為其他人員提供相關訓練，提升專業水平。此外，學院會積極與世界各地的懲教機構聯繫，以促成與不同司法管轄區的相互學習與交流。
 
 首批29名來自內地、澳門、文萊、斐濟、馬來西亞、菲律賓、韓國及越南的學員已於一月二十六日抵港，與懲教署應變部隊進行戰術交流，並參加「安全有效控制戰術證書」課程。該課程由懲教署制定，並獲香港資歷架構第三級別認證。課程旨在教授前線執法人員應用低傷害自衛及控制術，以減少執法人員和被控制一方受傷的機會，並同時達致有效自衛及控制。"
+​交諮會支持政府實施強制安裝和佩戴安全帶新規定,2026-01-27 18:35,2026-01-27 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700700.htm,"下稿代交通諮詢委員會發出：
+
+交通諮詢委員會（交諮會）主席黃仕進教授今日（一月二十七日）表示支持政府實施強制安裝和佩戴安全帶的新法例，進一步加強保障乘客出行及道路安全。
+
+黃仕進教授說：「交諮會支持政府實施新的安全帶法例，並認為乘客出行安全定當放在首位。新法例將原本已適用於私家車、的士和公共小巴的強制安裝及佩戴安全帶法定要求延伸至其他車輛，進一步保障乘客安全。政府曾向交諮會報告相關修例建議，委員均表示支持。」
+
+「研究顯示，佩戴安全帶可減低交通意外中死亡和重傷的風險分別約四成和七成，而強制佩戴是提高安全帶使用率的有效方法。其他地方例如中國內地、澳洲、英國等早已有在公共交通工具佩戴安全帶的相關法定要求，香港的乘客亦應獲得更佳保障。」
+
+「二○一八年在大埔公路發生的嚴重致命交通意外，讓社會深刻反思乘客安全保障。為避免類似嚴重傷亡再次發生，政府經研究和討論後實施新規定，有其合理性和必要性。」
+
+「我留意到新法例包含容許乘客提出合理辯解的條文，亦樂見香港警務處表示在執法時會採取法、理、情兼備的方針。我亦支持當局在條例生效初期加強宣傳及公眾教育，向司機、乘客及相關業界介紹法例要求，讓市民大眾明白新規定旨在保障市民安全。」"
 ​署理創新科技及工業局局長出席立法會工商及創新科技事務委員會政策簡報會開場發言（只有中文）,2026-01-27 18:35,2026-01-27 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700659.htm,"以下是署理創新科技及工業局局長張曼莉今日（一月二十七日）出席立法會工商及創新科技事務委員會政策簡報會的開場發言：
 
 主席、各位委員：
@@ -1576,17 +1587,6 @@ Opening ceremony of Hong Kong International Correctional Services Response Tacti
 特區政府亦積極與國家中央部委及省市簽署多份協議，並會支持本地大學及專業組織繼續積極爭取舉辦國際學術或專業會議、籌辦具影響力的學術期刊，以及繼續積極參與國際和地區組織以開展更多國際科技創新合作。
 
 主席，我們會積極推動落實各項措施，致力發展香港成為國際創科中心。我簡介到此，歡迎各位議員稍後提問。多謝主席。"
-​交諮會支持政府實施強制安裝和佩戴安全帶新規定,2026-01-27 18:35,2026-01-27 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700700.htm,"下稿代交通諮詢委員會發出：
-
-交通諮詢委員會（交諮會）主席黃仕進教授今日（一月二十七日）表示支持政府實施強制安裝和佩戴安全帶的新法例，進一步加強保障乘客出行及道路安全。
-
-黃仕進教授說：「交諮會支持政府實施新的安全帶法例，並認為乘客出行安全定當放在首位。新法例將原本已適用於私家車、的士和公共小巴的強制安裝及佩戴安全帶法定要求延伸至其他車輛，進一步保障乘客安全。政府曾向交諮會報告相關修例建議，委員均表示支持。」
-
-「研究顯示，佩戴安全帶可減低交通意外中死亡和重傷的風險分別約四成和七成，而強制佩戴是提高安全帶使用率的有效方法。其他地方例如中國內地、澳洲、英國等早已有在公共交通工具佩戴安全帶的相關法定要求，香港的乘客亦應獲得更佳保障。」
-
-「二○一八年在大埔公路發生的嚴重致命交通意外，讓社會深刻反思乘客安全保障。為避免類似嚴重傷亡再次發生，政府經研究和討論後實施新規定，有其合理性和必要性。」
-
-「我留意到新法例包含容許乘客提出合理辯解的條文，亦樂見香港警務處表示在執法時會採取法、理、情兼備的方針。我亦支持當局在條例生效初期加強宣傳及公眾教育，向司機、乘客及相關業界介紹法例要求，讓市民大眾明白新規定旨在保障市民安全。」"
 商務及經濟發展局副局長出席立法會工商及創新科技事務委員會政策簡報會開場發言（只有中文）,2026-01-27 18:30,2026-01-27 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700662.htm,"以下是商務及經濟發展局（商經局）副局長陳百里博士今日（一月二十七日）出席立法會工商及創新科技事務委員會政策簡報會，就有關商經局政策簡報的開場發言：
 
 主席、各位委員：
@@ -1713,34 +1713,6 @@ CE meets Prime Minister of Vanuatu (with photo),2026-01-27 18:00,2026-01-27 18:3
   Mr Lee welcomed Mr Napat and his delegation to Hong Kong. Noting that bilateral trade between Hong Kong and Vanuatu continues to grow, Mr Lee said that the prospects for co-operation between the two places are broad and promising. Hong Kong enjoys the dual advantage of having national and global opportunities under the ""one country, two systems"" principle, and actively gives full play to the roles of a ""super connector"" and ""super value-adder"" to deepen international exchanges and co-operation to further explore the Belt and Road and the Global South countries, including Vanuatu, to accelerate the pursuit of new growth opportunities.
 
   Mr Lee said that Hong Kong will further leverage its advantages of connecting with both the Mainland and the world and its role as a functional platform for the Belt and Road Initiative, and will further strengthen economic and trade collaborations with Belt and Road economies and promote participation in green co-operation. Hong Kong and Vanuatu will together seize the opportunities presented by the Belt and Road Initiative. Hong Kong is the world's freest economy. Mr Lee welcomed enterprises from Vanuatu to leverage Hong Kong's unique advantages, such as its highly internationalised business environment and its pool of professional services talent, to explore overseas and Mainland markets, to further strengthen co-operation and exchanges across different areas between the two places, and to jointly explore more opportunities."
-與銀行有關的騙案通知,2026-01-27 17:48,2026-01-27 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700658.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
-
-
-
-
-銀行
-騙案類別
-
-
-東亞銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-上海商業銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-創興銀行有限公司
-欺詐網站及網上銀行登入畫面
-
-
-
-
-金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
-
-任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 Scam alert related to banks,2026-01-27 17:48,2026-01-27 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700656.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
@@ -1769,6 +1741,34 @@ Fraudulent websites and internet banking login screens
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+與銀行有關的騙案通知,2026-01-27 17:48,2026-01-27 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700658.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
+
+
+
+
+銀行
+騙案類別
+
+
+東亞銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+上海商業銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+創興銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+
+
+金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
+
+任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
 內地卡拉OK品牌星聚會KTV在香港連開兩店拓展版圖（附圖）,2026-01-27 17:35,2026-01-27 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012600464.htm,"投資推廣署（投資署）今日（一月二十七日）宣布，內地卡拉OK品牌星聚會KTV位於中環蘭桂坊及銅鑼灣的兩間香港分店正式開幕，為本地娛樂消費產業注入新動力，是該集團拓展全球布局的重要里程碑。
 
 投資署助理署長劉智元表示：「我們歡迎星聚會KTV在香港設點並連開兩店。香港作為國際商業和文化樞紐，是內地企業出海的啓航點，有利星聚會KTV這類創新文娛企業以香港為國際運營平台。我期待星聚會KTV以香港為支點，將其獨特的社交娛樂體驗帶向全球。」
@@ -2305,205 +2305,6 @@ Guangdong-Hong Kong-Macao Greater Bay Area Development Office holds seminar in S
   The Acting Chief Business Development Officer of the Hong Kong Science and Technology Parks Corporation (HKSTP), Mr Oscar Wong, said that the HKSTP is a member of the Greater Bay Area Low Altitude Economy Alliance to support the development of the low-altitude economy, and has been actively collaborating and communicating closely with the HKSAR Government and various stakeholders. This has enabled the successful launch of the first batch of pilot projects under the low-altitude economy regulatory sandbox, including food delivery via drones over Science Park and pharmaceutical delivery trials by another park company. The HKSTP looks forward to seeing more outcomes in the future.
 
   The seminar was co-organised by the GBA Office and the HKSTP. Industry leaders and think tank representatives were invited to share their insights on the opportunities and challenges of cross-boundary applications of the low-altitude economy. The panel discussions were lively, with guests actively exchanging views and offering forward-looking suggestions that provided practical references for the audience, reflecting the sector's keen anticipation on cross-boundary operations in the low-altitude economy."
-食環署公布一月份第四批白紋伊蚊誘蚊器指數,2026-01-27 17:00,2026-01-27 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700458.htm,"食物環境衞生署（食環署）今日（一月二十七日）公布，一月份第四批涵蓋26個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
-
-
-
-
-行政區
-監察地區
-2026年1月
-
-
-第一階段誘蚊器指數
-第一階段密度指數
-
-
-中西區
-中環及金鐘
-0.0%
-N/A
-
-
-上環及西營盤
-0.0%
-N/A
-
-
-灣仔區
-跑馬地及大坑
-0.0%
-N/A
-
-
-離島區
-長洲
-0.0%
-N/A
-
-
-九龍城區
-何文田
-0.0%
-N/A
-
-
-九龍城
-0.0%
-N/A
-
-
-觀塘區
-九龍灣
-0.0%
-N/A
-
-
-藍田及秀茂坪
-0.0%
-N/A
-
-
-旺角區
-旺角及大角咀
-0.0%
-N/A
-
-
-深水埗區
-長沙灣
-0.0%
-N/A
-
-
-深水埗及石硤尾
-0.0%
-N/A
-
-
-黃大仙區
-黃大仙東
-0.0%
-N/A
-
-
-黃大仙西
-0.0%
-N/A
-
-
-北區
-上水
-0.0%
-N/A
-
-
-大埔區
-大埔西
-0.0%
-N/A
-
-
-葵青區
-葵涌西
-0.0%
-N/A
-
-
-荔景
-0.0%
-N/A
-
-
-青衣北
-0.0%
-N/A
-
-
-屯門區
-掃管笏
-1.8%
-1.0
-
-
-屯門北
-0.0%
-N/A
-
-
-元朗區
-洪水橋及屏山
-0.0%
-N/A
-
-
-
-
-
-
-
-
-行政區
-監察地區
-2026年1月
-
-
-分區誘蚊器指數
-分區密度指數
-
-
-南區
-薄扶林
-0.0%
-N/A
-
-
-黃大仙區
-牛池灣及新蒲崗
-0.0%
-N/A
-
-
-西貢區
-西貢市
-0.0%
-N/A
-
-
-屯門區
-屯門西
-0.0%
-N/A
-
-
-元朗區
-元朗市中心
-0.0%
-N/A
-
-
-
-
-一月份第四批涵蓋21個監察地區的第一階段誘蚊器指數及五個監察地區的分區誘蚊器指數，全部都在10%以下。
-
-食環署至今已公布二○二六年一月共四批白紋伊蚊誘蚊器指數，涵蓋共59個監察地區，當中大部分地區更為0%，顯示白紋伊蚊的分布情況並不廣泛。
-
-白紋伊蚊的卵能長時間抵禦乾旱的環境，當遇到合適的溫度和接觸水時，便會孵化。市民在冬季仍須採取防治蚊蟲措施，徹底清除蚊卵。
-
-要有效防治蚊患，市民大眾的參與至關重要。食環署呼籲市民攜手合作，加強個人防蚊措施，包括：
-
-收拾處所，並檢查處所內是否有容器積水；
-清除積水並消除滲漏源頭；
-檢查家居用品（尤其是存放於戶外露天地方的用品），例如垃圾桶、花盆、冷氣機底盤、晾衣架等，避免出現積水；
-最少每星期一次更換花瓶和清倒盆栽墊盤裏的水；
-妥善蓋好所有盛水容器，以防成蚊接觸水面；
-妥善處置能盛水的物品，例如空飯盒和空罐；及
-最少每星期一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
-
-
-食環署自二○二五年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
-
-食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。食環署檢討現行登革熱／基孔肯雅熱病媒監察計劃後，由二○二六起擴大監察白紋伊蚊的覆蓋範圍，把在社區設置的監察地區修訂為62個，個別監察地區會重新命名，在全港不同地點亦會增設誘蚊器，以加強監察蚊子的滋生情況。按現行監察機制，食環署在各社區的監察地區放置誘蚊器，監察期為兩星期。在監察期間，食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
 FEHD releases fourth batch of gravidtrap indexes for Aedes albopictus in January,2026-01-27 17:00,2026-01-27 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700473.htm,"The Food and Environmental Hygiene Department (FEHD) today (January 27) released the fourth batch of gravidtrap indexes and density indexes for Aedes albopictus in January, covering 26 survey areas, as follows:
 
 
@@ -2703,16 +2504,215 @@ scrub drains and surface sewers with alkaline detergent at least once a week to 
 Starting in August 2025, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of chikungunya fever (CF) transmission.
 
 Following recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever (DF). After reviewing the present DF and CF vector surveillance programme, the FEHD has expanded the coverage for monitoring Aedes albopictus mosquitoes starting from 2026. The number of survey areas set up in the community has been revised to 62, with some survey areas renamed. Additional gravidtraps will also be set up at different locations across the territory to strengthen the monitoring of the breeding of mosquitoes. Under the present surveillance mechanism, the FEHD has set up gravidtraps in survey areas of the community, with a surveillance period of two weeks. During the surveillance period, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#)."
-運輸署呼籲市民提防偽冒「易通行」的虛假網站及電郵,2026-01-27 16:55,2026-01-27 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700502.htm,"運輸署今日（一月二十七日）呼籲市民提高警覺，留意偽冒「易通行」的虛假網站及電郵（詳情見「易通行」網站），企圖欺騙收件人付款及騙取其信用卡資料。
+食環署公布一月份第四批白紋伊蚊誘蚊器指數,2026-01-27 17:00,2026-01-27 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700458.htm,"食物環境衞生署（食環署）今日（一月二十七日）公布，一月份第四批涵蓋26個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
 
-運輸署澄清有關虛假網站及電郵與「易通行」沒有任何關係，已把事件交警方跟進。運輸署重申，用戶或車主如需在網上繳交隧道費，必須登入「易通行」網站或流動應用程式。
 
-市民如接獲不明來歷的短訊，應保持警覺，切勿登入可疑網站及提供個人資料。任何市民若曾向該些網站提供個人資料，應與警方聯絡。如對「易通行」有任何查詢，可致電3853 7333。"
+
+
+行政區
+監察地區
+2026年1月
+
+
+第一階段誘蚊器指數
+第一階段密度指數
+
+
+中西區
+中環及金鐘
+0.0%
+N/A
+
+
+上環及西營盤
+0.0%
+N/A
+
+
+灣仔區
+跑馬地及大坑
+0.0%
+N/A
+
+
+離島區
+長洲
+0.0%
+N/A
+
+
+九龍城區
+何文田
+0.0%
+N/A
+
+
+九龍城
+0.0%
+N/A
+
+
+觀塘區
+九龍灣
+0.0%
+N/A
+
+
+藍田及秀茂坪
+0.0%
+N/A
+
+
+旺角區
+旺角及大角咀
+0.0%
+N/A
+
+
+深水埗區
+長沙灣
+0.0%
+N/A
+
+
+深水埗及石硤尾
+0.0%
+N/A
+
+
+黃大仙區
+黃大仙東
+0.0%
+N/A
+
+
+黃大仙西
+0.0%
+N/A
+
+
+北區
+上水
+0.0%
+N/A
+
+
+大埔區
+大埔西
+0.0%
+N/A
+
+
+葵青區
+葵涌西
+0.0%
+N/A
+
+
+荔景
+0.0%
+N/A
+
+
+青衣北
+0.0%
+N/A
+
+
+屯門區
+掃管笏
+1.8%
+1.0
+
+
+屯門北
+0.0%
+N/A
+
+
+元朗區
+洪水橋及屏山
+0.0%
+N/A
+
+
+
+
+
+
+
+
+行政區
+監察地區
+2026年1月
+
+
+分區誘蚊器指數
+分區密度指數
+
+
+南區
+薄扶林
+0.0%
+N/A
+
+
+黃大仙區
+牛池灣及新蒲崗
+0.0%
+N/A
+
+
+西貢區
+西貢市
+0.0%
+N/A
+
+
+屯門區
+屯門西
+0.0%
+N/A
+
+
+元朗區
+元朗市中心
+0.0%
+N/A
+
+
+
+
+一月份第四批涵蓋21個監察地區的第一階段誘蚊器指數及五個監察地區的分區誘蚊器指數，全部都在10%以下。
+
+食環署至今已公布二○二六年一月共四批白紋伊蚊誘蚊器指數，涵蓋共59個監察地區，當中大部分地區更為0%，顯示白紋伊蚊的分布情況並不廣泛。
+
+白紋伊蚊的卵能長時間抵禦乾旱的環境，當遇到合適的溫度和接觸水時，便會孵化。市民在冬季仍須採取防治蚊蟲措施，徹底清除蚊卵。
+
+要有效防治蚊患，市民大眾的參與至關重要。食環署呼籲市民攜手合作，加強個人防蚊措施，包括：
+
+收拾處所，並檢查處所內是否有容器積水；
+清除積水並消除滲漏源頭；
+檢查家居用品（尤其是存放於戶外露天地方的用品），例如垃圾桶、花盆、冷氣機底盤、晾衣架等，避免出現積水；
+最少每星期一次更換花瓶和清倒盆栽墊盤裏的水；
+妥善蓋好所有盛水容器，以防成蚊接觸水面；
+妥善處置能盛水的物品，例如空飯盒和空罐；及
+最少每星期一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
+
+
+食環署自二○二五年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
+
+食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。食環署檢討現行登革熱／基孔肯雅熱病媒監察計劃後，由二○二六起擴大監察白紋伊蚊的覆蓋範圍，把在社區設置的監察地區修訂為62個，個別監察地區會重新命名，在全港不同地點亦會增設誘蚊器，以加強監察蚊子的滋生情況。按現行監察機制，食環署在各社區的監察地區放置誘蚊器，監察期為兩星期。在監察期間，食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
 Transport Department alerts public to fraudulent websites and emails purported to be from HKeToll,2026-01-27 16:55,2026-01-27 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700505.htm,"The Transport Department (TD) today (January 27) alerted members of the public to fraudulent website addresses and emails that claim to be from the HKeToll (see the HKeToll website for details) and seek to deceive users into making payments and obtaining their credit card information.
 
 The TD clarifies that the fraudulent websites and emails have no connection with the HKeToll and has referred the case to the Police for follow-up. The TD reiterates that users or vehicle owners must log in to the HKeToll website or mobile app to pay outstanding tolls online.
 
 Members of the public should stay alert when receiving any unidentified messages, and should not visit suspicious websites or disclose any personal information. Anyone who has provided his or her personal information to the websites concerned should contact the Police. For enquiries about the HKeToll, please call 3853 7333."
+運輸署呼籲市民提防偽冒「易通行」的虛假網站及電郵,2026-01-27 16:55,2026-01-27 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700502.htm,"運輸署今日（一月二十七日）呼籲市民提高警覺，留意偽冒「易通行」的虛假網站及電郵（詳情見「易通行」網站），企圖欺騙收件人付款及騙取其信用卡資料。
+
+運輸署澄清有關虛假網站及電郵與「易通行」沒有任何關係，已把事件交警方跟進。運輸署重申，用戶或車主如需在網上繳交隧道費，必須登入「易通行」網站或流動應用程式。
+
+市民如接獲不明來歷的短訊，應保持警覺，切勿登入可疑網站及提供個人資料。任何市民若曾向該些網站提供個人資料，應與警方聯絡。如對「易通行」有任何查詢，可致電3853 7333。"
 ​署理政制及內地事務局局長會見傳媒談話全文（只有中文）,2026-01-27 16:41,2026-01-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700579.htm,"以下是署理政制及內地事務局局長胡健民今日（一月二十七日）出席立法會工商及創新科技事務委員會政策簡報會前會見傳媒談話全文：
 
 記者：想問你本身是否知道曾國衞局長身體不適？
@@ -2722,23 +2722,6 @@ Members of the public should stay alert when receiving any unidentified messages
 記者：有否見到他身體不適？
 
 署理政制及內地事務局局長：我和政制及內地事務局所有同事，上上下下，一定會盡心盡力做好我們的工作。"
-Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area and Macao SAR Government e-Services self-service kiosk launched at Treasury Building today (with photos),2026-01-27 16:32,2026-01-27 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700265.htm,"  The Digital Policy Office (DPO), together with the Guangdong Provincial Administration of Government Service and Data, as well as the Identification Services Bureau of the Macao Special Administrative Region (Macao SAR), today (January 27) announced the establishment of the Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area and the setting up of the Macao SAR Government e-Services self-service kiosk at the Treasury Building, enabling residents and enterprises in Hong Kong to enjoy simple and convenient cross-boundary public services starting today.
-
-  The DPO has been advancing the initiative of Cross-boundary Public Services between Guangdong, Hong Kong and Macao. Following the installation of the Hong Kong Cross-boundary Public Services self-service kiosks and ""iAM Smart"" self-registration kiosks earlier in the nine Mainland cities of the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and Macao, a one-stop Self-service Area jointly established with Guangdong Province and the Macao SAR is now available in Hong Kong.
-
-  In delivering his speech, the Commissioner for Digital Policy, Mr Tony Wong, said, ""The launch of the Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area marks another step forward in the collaborative efforts of Guangdong, Hong Kong and Macao to promote cross-boundary public services. It provides residents and enterprises in Hong Kong with one-stop access to the relevant public services, thereby achieving seamless cross-boundary public services across the three places.""
-
-  Starting today, the public can register for ""iAM Smart+"" and access various public services of Guangdong Province and the Macao SAR by visiting the Self-service Area located on 1/F, Treasury Building, 3 Tonkin Street West, Cheung Sha Wan, Kowloon. The Self-service Area is open from 9am to 5pm, Monday to Friday (except public holidays), with the following self-service kiosks:
-
-
-Guangdong Province's cross-boundary public services kiosk: providing over 100 Guangdong Provincepublic services covering areas such ashousing, retirement and employment;
-Hong Kong's ""iAM Smart"" self-registration kiosk: facilitatingHong Kong residents inregistering for ""iAM Smart"" and accessingover 1 300 government, public and private online services; and
-Macao SAR Government e-Servicesself-service kiosk: providing 37 Macaopublic services from 11 government departments, covering areas such as identity verification, tax enquiries and social welfare.
-
-
-  The DPO will continue to work closely with Guangdong and Macao to further enhance the Cross-boundary Public Services, with a view to coping with the demands of residents and enterprises in the GBA for Hong Kong public services.
-
-  For details, please visit the Hong Kong Cross-boundary Public Services website at www.crossboundaryservices.gov.hk."
 「粵港澳跨境政務自助服務專區」及「澳政易」自助服務機今日在庫務大樓啓動（附圖）,2026-01-27 16:32,2026-01-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700264.htm,"數字政策辦公室（數字辦）今日（一月二十七日）聯同廣東省政務服務和數據管理局和澳門特別行政區（澳門特區）身份證明局，公布於庫務大樓設立「粵港澳跨境政務自助服務專區」（服務專區）及設置「澳政易」自助服務機，即日起讓在港居民和企業能享受簡易快捷的跨境政務服務。
 
 數字辦積極促進粵港澳政務服務「跨境通辦」。繼早前在粵港澳大灣區（大灣區）九個內地城市和澳門設置香港「跨境通辦」自助服務機及「智方便」自助登記站，現聯同廣東省和澳門特區於香港設立一站式服務專區。
@@ -2756,55 +2739,23 @@ Macao SAR Government e-Servicesself-service kiosk: providing 37 Macaopublic serv
 數字辦會繼續與粵澳兩地緊密協作，進一步優化「跨境通辦」服務，以滿足身處大灣區的居民和企業對香港政務服務的需求。
 
 詳情請參閱「跨境通辦」網站www.crossboundaryservices.gov.hk。"
-External merchandise trade statistics for December 2025,2026-01-27 16:30,2026-01-27 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700489.htm,"The Census and Statistics Department (C&SD) released today (January 27) the external merchandise trade statistics for December 2025. In December 2025, the values of Hong Kong's total exports and imports of goods both recorded year-on-year increases, at 26.1% and 30.6% respectively.
+Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area and Macao SAR Government e-Services self-service kiosk launched at Treasury Building today (with photos),2026-01-27 16:32,2026-01-27 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700265.htm,"  The Digital Policy Office (DPO), together with the Guangdong Provincial Administration of Government Service and Data, as well as the Identification Services Bureau of the Macao Special Administrative Region (Macao SAR), today (January 27) announced the establishment of the Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area and the setting up of the Macao SAR Government e-Services self-service kiosk at the Treasury Building, enabling residents and enterprises in Hong Kong to enjoy simple and convenient cross-boundary public services starting today.
 
-In December 2025, the value of total exports of goods increased by 26.1% over a year earlier to $512.8 billion, after a year-on-year increase by 18.8% in November 2025. Concurrently, the value of imports of goods increased by 30.6% over a year earlier to $576.0 billion in December 2025, after a year-on-year increase by 18.1% in November 2025. A visible trade deficit of $63.3 billion, equivalent to 11.0% of the value of imports of goods, was recorded in December 2025.
+  The DPO has been advancing the initiative of Cross-boundary Public Services between Guangdong, Hong Kong and Macao. Following the installation of the Hong Kong Cross-boundary Public Services self-service kiosks and ""iAM Smart"" self-registration kiosks earlier in the nine Mainland cities of the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and Macao, a one-stop Self-service Area jointly established with Guangdong Province and the Macao SAR is now available in Hong Kong.
 
-For 2025 as a whole, the value of total exports of goods increased by 15.4% over 2024. Concurrently, the value of imports of goods increased by 15.5%. A visible trade deficit of $446.6 billion, equivalent to 7.9% of the value of imports of goods, was recorded in 2025.
+  In delivering his speech, the Commissioner for Digital Policy, Mr Tony Wong, said, ""The launch of the Guangdong-Hong Kong-Macao Cross-boundary Public Services Designated Self-service Area marks another step forward in the collaborative efforts of Guangdong, Hong Kong and Macao to promote cross-boundary public services. It provides residents and enterprises in Hong Kong with one-stop access to the relevant public services, thereby achieving seamless cross-boundary public services across the three places.""
 
-Comparing the fourth quarter of 2025 with the preceding quarter on a seasonally adjusted basis, the value of total exports of goods increased by 5.2%. Meanwhile, the value of imports of goods increased by 6.7%.
+  Starting today, the public can register for ""iAM Smart+"" and access various public services of Guangdong Province and the Macao SAR by visiting the Self-service Area located on 1/F, Treasury Building, 3 Tonkin Street West, Cheung Sha Wan, Kowloon. The Self-service Area is open from 9am to 5pm, Monday to Friday (except public holidays), with the following self-service kiosks:
 
-Analysis by country/territory
 
-Comparing December 2025 with December 2024, total exports to Asia as a whole grew by 26.6%. In this region, increases were registered in the values of total exports to some major destinations, in particular Malaysia (+138.6%), Thailand (+76.6%), Taiwan (+72.7%), Singapore (+30.4%), Vietnam (+29.4%) and Chinese Mainland (the Mainland) (+24.9%).
+Guangdong Province's cross-boundary public services kiosk: providing over 100 Guangdong Provincepublic services covering areas such ashousing, retirement and employment;
+Hong Kong's ""iAM Smart"" self-registration kiosk: facilitatingHong Kong residents inregistering for ""iAM Smart"" and accessingover 1 300 government, public and private online services; and
+Macao SAR Government e-Servicesself-service kiosk: providing 37 Macaopublic services from 11 government departments, covering areas such as identity verification, tax enquiries and social welfare.
 
-Apart from destinations in Asia, increases were registered in the values of total exports to some major destinations in other regions, in particular Switzerland (+48.8%) and the USA (+47.5%).
 
-Over the same period of comparison, increases were registered in the values of imports from most major suppliers, in particular Vietnam (+164.1%), the United Kingdom (+41.6%), the Mainland (+33.9%), Taiwan (+30.8%), Japan (+18.0%) and Singapore (+17.2%).
+  The DPO will continue to work closely with Guangdong and Macao to further enhance the Cross-boundary Public Services, with a view to coping with the demands of residents and enterprises in the GBA for Hong Kong public services.
 
-Comparing 2025 with 2024, increases were registered in the values of total exports to most major destinations, in particular Malaysia (+61.6%), Vietnam (+50.5%), Taiwan (+43.6%), the Mainland (+16.7%) and Japan (+13.5%).
-
-Over the same period of comparison, increases were registered in the values of imports from most major suppliers, in particular Vietnam (+97.1%), the United Kingdom (+43.7%), Taiwan (+20.0%), Malaysia (+18.3%), the Mainland (+16.2%) and Singapore (+11.7%).
-
-Analysis by major commodity
-
-Comparing December 2025 with December 2024, increases were registered in the values of total exports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $60.8 billion or +30.7%) and ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $21.2 billion or +46.8%).
-
-Over the same period of comparison, increases were registered in the values of imports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $58.1 billion or +27.9%) and ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $29.5 billion or +59.6%).
-
-Comparing 2025 with 2024, increases were registered in the values of total exports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $376.2 billion or +17.2%) and ""office machines and automatic data processing machines"" (by $135.0 billion or +24.9%).
-
-Over the same period of comparison, increases were registered in the values of imports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $392.6 billion or +17.9%), ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $135.8 billion or +24.6%) and ""office machines and automatic data processing machines"" (by $130.8 billion or +29.3%).
-
-Commentary
-
-A Government spokesman said that the value of merchandise exports picked up strongly towards the end of 2025, surging by 26.1% in December over a year earlier. For 2025 as a whole, the value of merchandise exports rose visibly by 15.4% to $5,240.3 billion, a historical high. Exports to the Mainland continued to grow visibly, and those to the ASEAN economies showed robust growth. Exports to the United States showed a decent increase, while those to the European Union declined slightly. Analysed by commodity, exports of most major commodities rose markedly, particularly for exports of electrical equipment, machinery and mechanical appliances.
-
-Looking ahead, sustained moderate expansion of the global economy, enhanced economic and trade ties with new markets, coupled with strong demand worldwide for AI-enabled electronic-related products, will support Hong Kong's merchandise trade performance. The Government will stay vigilant to the developments of various uncertainties.
-
-Further information
-
-Table 1 presents the analysis of external merchandise trade statistics for December 2025. Table 2 presents the original monthly trade statistics from January 2022 to December 2025, and Table 3 gives the seasonally adjusted series for the same period.
-
-The values of total exports of goods to 10 main destinations for December 2025 are shown in Table 4, whereas the values of imports of goods from 10 main suppliers are given in Table 5.
-
-Tables 6 and 7 show the values of total exports and imports of 10 principal commodity divisions for December 2025.
-
-All the merchandise trade statistics described here are measured at current prices and no account has been taken of changes in prices between the periods of comparison. A separate analysis of the volume and price movements of external merchandise trade for December 2025 will be released in mid-February 2026.
-
-The December 2025 issue of ""Hong Kong External Merchandise Trade"" contains detailed analysis on the performance of Hong Kong's external merchandise trade in December 2025 and will be available in early February 2026. Users can browse and download the report at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1020005&scode=230).
-
-Enquiries on merchandise trade statistics may be directed to the Trade Analysis Section of the C&SD (Tel: 2582 4691)."
+  For details, please visit the Hong Kong Cross-boundary Public Services website at www.crossboundaryservices.gov.hk."
 二零二五年十二月份對外商品貿易統計,2026-01-27 16:30,2026-01-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700487.htm,"政府統計處今日（一月二十七日）發表的對外商品貿易統計數字顯示，二零二五年十二月份本港整體出口和進口貨值均錄得按年升幅，分別上升26.1%和30.6%。
 
 繼二零二五年十一月份錄得18.8%的按年升幅後，二零二五年十二月份商品整體出口貨值為5,128億元，較二零二四年同月上升26.1%。同時，繼二零二五年十一月份錄得18.1%的按年升幅後，二零二五年十二月份商品進口貨值為5,760億元，較二零二四年同月上升30.6%。二零二五年十二月份錄得有形貿易逆差633億元，相等於商品進口貨值的11.0%。
@@ -2854,6 +2805,55 @@ Enquiries on merchandise trade statistics may be directed to the Trade Analysis 
 詳細分析二零二五年十二月份本港對外商品貿易表現的統計資料，刊載於二零二五年十二月號的《香港對外商品貿易》。該報告將於二零二六年二月初出版，用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1020005&scode=230）瀏覽及下載。
 
 查詢有關商品貿易統計數字，請與政府統計處貿易資料分析組聯絡（電話：2582 4691）。"
+External merchandise trade statistics for December 2025,2026-01-27 16:30,2026-01-27 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700489.htm,"The Census and Statistics Department (C&SD) released today (January 27) the external merchandise trade statistics for December 2025. In December 2025, the values of Hong Kong's total exports and imports of goods both recorded year-on-year increases, at 26.1% and 30.6% respectively.
+
+In December 2025, the value of total exports of goods increased by 26.1% over a year earlier to $512.8 billion, after a year-on-year increase by 18.8% in November 2025. Concurrently, the value of imports of goods increased by 30.6% over a year earlier to $576.0 billion in December 2025, after a year-on-year increase by 18.1% in November 2025. A visible trade deficit of $63.3 billion, equivalent to 11.0% of the value of imports of goods, was recorded in December 2025.
+
+For 2025 as a whole, the value of total exports of goods increased by 15.4% over 2024. Concurrently, the value of imports of goods increased by 15.5%. A visible trade deficit of $446.6 billion, equivalent to 7.9% of the value of imports of goods, was recorded in 2025.
+
+Comparing the fourth quarter of 2025 with the preceding quarter on a seasonally adjusted basis, the value of total exports of goods increased by 5.2%. Meanwhile, the value of imports of goods increased by 6.7%.
+
+Analysis by country/territory
+
+Comparing December 2025 with December 2024, total exports to Asia as a whole grew by 26.6%. In this region, increases were registered in the values of total exports to some major destinations, in particular Malaysia (+138.6%), Thailand (+76.6%), Taiwan (+72.7%), Singapore (+30.4%), Vietnam (+29.4%) and Chinese Mainland (the Mainland) (+24.9%).
+
+Apart from destinations in Asia, increases were registered in the values of total exports to some major destinations in other regions, in particular Switzerland (+48.8%) and the USA (+47.5%).
+
+Over the same period of comparison, increases were registered in the values of imports from most major suppliers, in particular Vietnam (+164.1%), the United Kingdom (+41.6%), the Mainland (+33.9%), Taiwan (+30.8%), Japan (+18.0%) and Singapore (+17.2%).
+
+Comparing 2025 with 2024, increases were registered in the values of total exports to most major destinations, in particular Malaysia (+61.6%), Vietnam (+50.5%), Taiwan (+43.6%), the Mainland (+16.7%) and Japan (+13.5%).
+
+Over the same period of comparison, increases were registered in the values of imports from most major suppliers, in particular Vietnam (+97.1%), the United Kingdom (+43.7%), Taiwan (+20.0%), Malaysia (+18.3%), the Mainland (+16.2%) and Singapore (+11.7%).
+
+Analysis by major commodity
+
+Comparing December 2025 with December 2024, increases were registered in the values of total exports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $60.8 billion or +30.7%) and ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $21.2 billion or +46.8%).
+
+Over the same period of comparison, increases were registered in the values of imports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $58.1 billion or +27.9%) and ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $29.5 billion or +59.6%).
+
+Comparing 2025 with 2024, increases were registered in the values of total exports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $376.2 billion or +17.2%) and ""office machines and automatic data processing machines"" (by $135.0 billion or +24.9%).
+
+Over the same period of comparison, increases were registered in the values of imports of most principal commodity divisions, in particular ""electrical machinery, apparatus and appliances, and electrical parts thereof"" (by $392.6 billion or +17.9%), ""telecommunications and sound recording and reproducing apparatus and equipment"" (by $135.8 billion or +24.6%) and ""office machines and automatic data processing machines"" (by $130.8 billion or +29.3%).
+
+Commentary
+
+A Government spokesman said that the value of merchandise exports picked up strongly towards the end of 2025, surging by 26.1% in December over a year earlier. For 2025 as a whole, the value of merchandise exports rose visibly by 15.4% to $5,240.3 billion, a historical high. Exports to the Mainland continued to grow visibly, and those to the ASEAN economies showed robust growth. Exports to the United States showed a decent increase, while those to the European Union declined slightly. Analysed by commodity, exports of most major commodities rose markedly, particularly for exports of electrical equipment, machinery and mechanical appliances.
+
+Looking ahead, sustained moderate expansion of the global economy, enhanced economic and trade ties with new markets, coupled with strong demand worldwide for AI-enabled electronic-related products, will support Hong Kong's merchandise trade performance. The Government will stay vigilant to the developments of various uncertainties.
+
+Further information
+
+Table 1 presents the analysis of external merchandise trade statistics for December 2025. Table 2 presents the original monthly trade statistics from January 2022 to December 2025, and Table 3 gives the seasonally adjusted series for the same period.
+
+The values of total exports of goods to 10 main destinations for December 2025 are shown in Table 4, whereas the values of imports of goods from 10 main suppliers are given in Table 5.
+
+Tables 6 and 7 show the values of total exports and imports of 10 principal commodity divisions for December 2025.
+
+All the merchandise trade statistics described here are measured at current prices and no account has been taken of changes in prices between the periods of comparison. A separate analysis of the volume and price movements of external merchandise trade for December 2025 will be released in mid-February 2026.
+
+The December 2025 issue of ""Hong Kong External Merchandise Trade"" contains detailed analysis on the performance of Hong Kong's external merchandise trade in December 2025 and will be available in early February 2026. Users can browse and download the report at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1020005&scode=230).
+
+Enquiries on merchandise trade statistics may be directed to the Trade Analysis Section of the C&SD (Tel: 2582 4691)."
 日本進口水產的檢測情況,2026-01-27 16:28,2026-01-27 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700566.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -2876,8 +2876,8 @@ Inspection of aquatic products imported from Japan,2026-01-27 16:28,2026-01-27 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 199 386 samples of food imported from Japan (including 128 030 samples of aquatic and related products, seaweeds and sea salt) and 44 070 samples of local catch respectively. All the samples passed the tests."
-港匯指數,2026-01-27 16:00,2026-01-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700181.htm,二○二六年一月二十七日（星期二）的港幣匯率指數為一百零二點三（和昨日指數比較相同）。
 Effective Exchange Rate Index,2026-01-27 16:00,2026-01-27 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700182.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, January 27, 2026 is 102.3 (same as yesterday's index)."
+港匯指數,2026-01-27 16:00,2026-01-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700181.htm,二○二六年一月二十七日（星期二）的港幣匯率指數為一百零二點三（和昨日指數比較相同）。
 教育局局長出席立法會教育事務委員會政策簡報會開場發言（只有中文）,2026-01-27 15:48,2026-01-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700488.htm,"以下是教育局局長蔡若蓮博士今日（一月二十七日）出席立法會教育事務委員會（委員會）政策簡報會的開場發言：
 
 主席、各位委員：
@@ -2957,15 +2957,6 @@ Effective Exchange Rate Index,2026-01-27 16:00,2026-01-27 16:15,Eng,gia,https://
 教育是立國之本，人才是強國之基。香港教育會朝着高質量發展的方向邁步向前，我們為建設教育強國而努力不懈。我簡介至此，歡迎議員提出意見及互動交流。
 
 多謝主席。"
-食安中心公布肉類添加二氧化硫專項食品調查結果（附圖）,2026-01-27 15:30,2026-01-27 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700298.htm,"食物環境衞生署食物安全中心（中心）今日（一月二十七日）公布肉類添加二氧化硫專項食品調查結果。在六百三十個肉類樣本中，除早前已公布的三個鮮肉樣本驗出不可在新鮮肉類中使用的防腐劑二氧化硫外，其餘樣本全部通過檢測，整體合格率為百分之九十九點五。
-
-中心發言人說：「鑑於以往曾在新鮮肉類樣本中檢出該防腐劑，中心近年一直定期進行專項調查，評估市場上肉類添加該化學物的情況。中心以風險為本原則從不同店鋪包括新鮮糧食店、超級市場、街市肉檔及網上零售商抽取牛肉、豬肉及羊肉樣本作化驗。」
-
-二氧化硫是防腐劑，可用於乾果、醃菜和經加工處理的肉製品如香腸及漢堡扒等不同種類的食物。根據《食物內防腐劑規例》（第132BD章），二氧化硫不得用於新鮮或冰鮮肉類，但過往曾有個別販商為使肉類的色澤更鮮明，違法在肉類中添加二氧化硫。二氧化硫可溶於水中，清洗和烹煮可除去食物中大部分二氧化硫，但對其有過敏反應的人士，在食用後可能會出現氣喘、頭痛或噁心等徵狀。
-
-根據上述規例，在新鮮及冰鮮肉類中添加二氧化硫屬違法，最高可判罰款五萬元及監禁六個月。
-
-發言人提醒業界必須遵守法例規定，不可售賣摻雜了二氧化硫的新鮮及冰鮮肉類。市民則應光顧可靠的商戶，切勿購買或進食顏色異常鮮紅的肉類。"
 CFS announces test results of targeted surveillance on use of sulphur dioxide in meat (with photo),2026-01-27 15:30,2026-01-27 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700296.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department today (January 27) released the test results of a targeted food surveillance project on the use of sulphur dioxide in meat. Among 630 samples tested, except for three samples found to contain sulphur dioxide (a non-permitted preservative in fresh meat) which have been announced, all the remaining samples passed the test. The overall satisfactory rate was 99.5 per cent.
 
 ""In view of the detection of the preservative in fresh meat samples in the past, the CFS has long been conducting targeted surveillance projects regularly on the use of such a chemical in meat in recent years. Samples of beef, pork and mutton were collected according to a risk-based approach from fresh provision shops, supermarkets, market meat stalls and online retailers for testing,"" a spokesman for the CFS said.
@@ -2975,18 +2966,15 @@ Sulphur dioxide is a preservative which can be used in a variety of foods includ
 Under the Regulation, the maximum penalty upon conviction of using sulphur dioxide in fresh or chilled meat is a fine of $50,000 and six months' imprisonment.
 
 The spokesman reminded the food trade to comply with the law and not to sell fresh or chilled meat containing sulphur dioxide. Members of the public should patronise reliable vendors and avoid buying or consuming meat which is unnaturally red."
-LCSD public service arrangements during Chinese New Year holidays,2026-01-27 15:00,2026-01-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700259.htm,"  The Leisure and Cultural Services Department (LCSD) announced today (January 27) that its non-fee charging outdoor recreation and sports facilities in parks and playgrounds will remain open during the Chinese New Year holidays. The opening arrangements for other facilities from Chinese New Year's Eve to the third day of the Chinese New Year (February 16 to 19) are listed in the attachment. All facilities will resume normal operations on the fourth day of the Chinese New Year (February 20).
+食安中心公布肉類添加二氧化硫專項食品調查結果（附圖）,2026-01-27 15:30,2026-01-27 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700298.htm,"食物環境衞生署食物安全中心（中心）今日（一月二十七日）公布肉類添加二氧化硫專項食品調查結果。在六百三十個肉類樣本中，除早前已公布的三個鮮肉樣本驗出不可在新鮮肉類中使用的防腐劑二氧化硫外，其餘樣本全部通過檢測，整體合格率為百分之九十九點五。
 
-  The SmartPLAY website (www.smartplay.lcsd.gov.hk/home) and mobile app (My SmartPLAY App), the URBTIX website (www.urbtix.hk), the mobile ticketing app URBTIX, as well as the telephone booking hotline 3166 1288 and the ticketing enquiries and customer service hotline 3166 1100 (from 10am to 8pm daily), will maintain normal services.
+中心發言人說：「鑑於以往曾在新鮮肉類樣本中檢出該防腐劑，中心近年一直定期進行專項調查，評估市場上肉類添加該化學物的情況。中心以風險為本原則從不同店鋪包括新鮮糧食店、超級市場、街市肉檔及網上零售商抽取牛肉、豬肉及羊肉樣本作化驗。」
 
-  System maintenance work of public libraries will be carried out from 12.30am on February 17 to 11.59pm on February 19, during which the following services will be suspended:
+二氧化硫是防腐劑，可用於乾果、醃菜和經加工處理的肉製品如香腸及漢堡扒等不同種類的食物。根據《食物內防腐劑規例》（第132BD章），二氧化硫不得用於新鮮或冰鮮肉類，但過往曾有個別販商為使肉類的色澤更鮮明，違法在肉類中添加二氧化硫。二氧化硫可溶於水中，清洗和烹煮可除去食物中大部分二氧化硫，但對其有過敏反應的人士，在食用後可能會出現氣喘、頭痛或噁心等徵狀。
 
-library mobile app services and Internet and telephone renewal services;
-other online library services, including the library catalogue, borrowers' record enquiries, reservation of library materials and computer facilities and electronic resources;
-self-service library stations; and
-the function of real-time loan record updates of smart book drops and smart book returns (readers may still return library materials to the smart book return facilities, and the loan record will be updated within two working days).
+根據上述規例，在新鮮及冰鮮肉類中添加二氧化硫屬違法，最高可判罰款五萬元及監禁六個月。
 
-"
+發言人提醒業界必須遵守法例規定，不可售賣摻雜了二氧化硫的新鮮及冰鮮肉類。市民則應光顧可靠的商戶，切勿購買或進食顏色異常鮮紅的肉類。"
 康文署公共服務農曆新年假期安排,2026-01-27 15:00,2026-01-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700256.htm,"康樂及文化事務署（康文署）今日（一月二十七日）公布，轄下公園及遊樂場的戶外免費康體設施將於農曆新年假期期間照常開放，其他設施於農曆年廿九至年初三（二月十六日至十九日）期間的開放安排載於附件。所有設施會於年初四（二月二十日）回復正常服務。
 
 「SmartPLAY康體通」的網頁（www.smartplay.lcsd.gov.hk/home）及流動應用程式（My SmartPLAY App）、城市售票網的網頁（www.urbtix.hk）、流動購票應用程式（URBTIX），以及電話購票熱線3166 1288和票務查詢及客戶服務熱線3166 1100（上午十時至晚上八時）均維持正常服務。
@@ -2999,10 +2987,37 @@ the function of real-time loan record updates of smart book drops and smart book
 智能還書箱及智能還書站的實時更新借閱紀錄功能（讀者仍可透過智能還書設施歸還圖書館資料，借閱紀錄會在兩個工作天內更新）。
 
 "
-Postal services to Angola subject to delays,2026-01-27 14:16,2026-01-27 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700442.htm,"​Hongkong Post announced today (January 27) that, as advised by the postal administration of Angola, mail delivery services to Angola are subject to delays due to strike action."
+LCSD public service arrangements during Chinese New Year holidays,2026-01-27 15:00,2026-01-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700259.htm,"  The Leisure and Cultural Services Department (LCSD) announced today (January 27) that its non-fee charging outdoor recreation and sports facilities in parks and playgrounds will remain open during the Chinese New Year holidays. The opening arrangements for other facilities from Chinese New Year's Eve to the third day of the Chinese New Year (February 16 to 19) are listed in the attachment. All facilities will resume normal operations on the fourth day of the Chinese New Year (February 20).
+
+  The SmartPLAY website (www.smartplay.lcsd.gov.hk/home) and mobile app (My SmartPLAY App), the URBTIX website (www.urbtix.hk), the mobile ticketing app URBTIX, as well as the telephone booking hotline 3166 1288 and the ticketing enquiries and customer service hotline 3166 1100 (from 10am to 8pm daily), will maintain normal services.
+
+  System maintenance work of public libraries will be carried out from 12.30am on February 17 to 11.59pm on February 19, during which the following services will be suspended:
+
+library mobile app services and Internet and telephone renewal services;
+other online library services, including the library catalogue, borrowers' record enquiries, reservation of library materials and computer facilities and electronic resources;
+self-service library stations; and
+the function of real-time loan record updates of smart book drops and smart book returns (readers may still return library materials to the smart book return facilities, and the loan record will be updated within two working days).
+
+"
 寄往安哥拉的郵遞服務延誤,2026-01-27 14:16,2026-01-27 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700444.htm,​香港郵政今日（一月二十七日）宣布，接獲安哥拉郵政機關通知，因受罷工影響，安哥拉的郵件派遞服務會有所延誤。
-Postal services to the United States subject to delays,2026-01-27 14:14,2026-01-27 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700438.htm,"​Hongkong Post announced today (January 27) that, as advised by the postal administration of the United States, mail delivery services to the United States are subject to delays due to extreme weather conditions."
+Postal services to Angola subject to delays,2026-01-27 14:16,2026-01-27 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700442.htm,"​Hongkong Post announced today (January 27) that, as advised by the postal administration of Angola, mail delivery services to Angola are subject to delays due to strike action."
 寄往美國的郵遞服務延誤,2026-01-27 14:14,2026-01-27 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700439.htm,​香港郵政今日（一月二十七日）宣布，接獲美國郵政機關通知，因受極端天氣影響，美國的郵件派遞服務會有所延誤。
+Postal services to the United States subject to delays,2026-01-27 14:14,2026-01-27 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700438.htm,"​Hongkong Post announced today (January 27) that, as advised by the postal administration of the United States, mail delivery services to the United States are subject to delays due to extreme weather conditions."
+Remarks by CE at media session before ExCo (with video),2026-01-27 13:45,2026-01-27 14:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700367.htm,"  Following are the remarks by the Chief Executive, Mr John Lee, at a media session before the Executive Council meeting today (January 27):
+
+Reporter: Good morning, Chief Executive. First, regarding the resignation of Mr Erick Tsang, currently in the CMAB (Constitutional and Mainland Affairs Bureau), both the Political Assistant and Permanent Secretary of the bureau are vacant, and now the Secretary is gone as well. How can you ensure the bureau will run smoothly? You just said that no other underperforming officials will be removed in the near future. Is it possible that some officials will be sacked after the Tai Po fire independent committee (Independent Committee in relation to the fire at Wang Fuk Court in Tai Po) wraps up its work? And second question, regarding the new seat belt law, I am not sure if the Government misjudged that it did not conduct a public consultation back then when enacting the law. Would the Government consider calls like exempting short-haul journeys from the new rules? Thank you.
+
+Chief Executive: You have asked three questions, but I will exceptionally deal with them all. First of all, the application by Erick Tsang to resign from his job because of personal health reasons is fully appreciated. Principal Officials' jobs are very demanding. Not just the workload is heavy, but the pressure is also heavy. I can understand why Erick, under the present health condition, would like to take a rest so as to take care of his health problems.
+
+  I have also said that there will be no further change of Principal Officials, particularly now that we have so many things to do, and they are all doing these as I require them to, sharing my governance philosophy. For the Constitutional and Mainland Affairs Bureau (CMAB), because of the departure of Erick Tsang, of course, it will mean that I will have to look for a replacement. In the meantime, the Under Secretary will be the Acting Secretary. I will ensure that the CMAB will be sufficiently staffed with colleagues of the right calibre, and I will be discussing with the Civil Service Bureau, so that we can make early arrangements for the right staff to be posted to the CMAB. Lying ahead, the CMAB has a lot of important tasks to do. That is why I said that had Erick's health condition been manageable, I really would have liked him to continue. But since he has now applied for resignation, we have to ensure that we build up some kind of study teams within the CMAB, so as to look at the different work that lies ahead, laying out the priorities and the significance for each task, and then supply the CMAB with sufficient staff and people with the right calibre. That will be done as soon as possible.
+
+  In regard to the accountability for the Tai Po fire, I have said repeatedly that all those who should be held accountable will be held to account, whether they are within the Government or outside the Government, whether they are at the junior level or senior level, and that we will pursue accountability to the very end. Accountability must be grounded on facts and evidence. It has to be fair and just to all parties concerned on this basis. Any action taken before the facts have been fully ascertained will not be based on facts and evidence and would therefore not be in accordance with the principles of fairness and justice. The criminal investigations by law enforcement agencies, including the Police and the Independent Commission Against Corruption, as well as the comprehensive review by the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po chaired by Mr Justice David Lok, are being carried out at full speed and with the utmost effort to ascertain the truth and clarify responsibilities as soon as possible. I will pursue accountability in accordance with the actual circumstances or the basis of the facts and evidence as established by these investigations.
+
+  Regarding seat belts, wearing seat belts on public transport has been implemented for many years in a lot of countries and places, some for over 10 years, some for over 20 years, for example, in the Mainland, the UK, Australia and Singapore - all with the aim of safeguarding passengers' lives and safety. Studies have shown that in head-on collisions, seat belts can reduce serious injuries by 70 per cent and deaths by 40 per cent, preventing passengers from being thrown out of the vehicle or in subsequent hitting around inside the vehicle. The recommendation to wear seat belts was given in the review of a serious, fatal traffic accident in 2018 on Tai Po Road, which resulted in 19 deaths and 66 injuries. The Independent Review Committee, set up to inquire into that accident, has come up with this recommendation among a series of other recommendations, with a view to preventing similar large-scale deaths and injuries. The recommendation was made based on research, discussion, and also sad and sorrowful experience learned. I understand the measure will require a change in behaviour, and passengers may feel inconvenient at the beginning. However, this small change in behaviour can potentially reduce serious injuries by 70 per cent and deaths by 40 per cent. The intent is to enhance safety protection for passengers.
+
+  During the implementation process, the primary focus of the initial phase will be on public education, advice, and changing habits. Meanwhile, the Transport and Logistics Bureau (TLB) will require public transport operators to properly manage the cleanliness, functionality, and regulatory compliance of seat belt installations. The TLB will continue its promotion, publicity, and educational efforts to ensure the public understands that the law intends to protect them from serious injuries when an accident occurs unexpectedly. At the same time, the law allows for a reasonable excuse, such as an emergency or sudden special need, and those people will be exempted from liability. The Government will handle each case balanced in law, reason, and compassion. Thank you.
+
+(Please also refer to the Chinese portion of the remarks.)"
 ​行政長官於行政會議前會見傳媒開場發言及答問內容（附短片）,2026-01-27 13:45,2026-01-27 14:00,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700373.htm,"以下是行政長官李家超今日（一月二十七日）上午出席行政會議前會見傳媒的開場發言及答問內容：
 
 行政長官：大家早晨，國務院今早已經宣布，按照《中華人民共和國香港特別行政區基本法》有關規定，根據行政長官的建議，免去曾國衞的政制及內地事務局局長職務。早前曾國衞向我提出，因為健康理由，希望辭去政制及內地事務局局長一職。我詳細跟他討論，了解他的情況後，按《基本法》第四十八條的規定，向中央人民政府作出建議。今日，中央人民政府宣布，根據我的建議，免去曾國衞政制及內地事務局局長的職務。
@@ -3084,21 +3099,3 @@ Postal services to the United States subject to delays,2026-01-27 14:14,2026-01-
 針對前署長所採取的措施，包括點名批評、紀錄在案、撤回勳章，都影響了工作紀錄和個人聲譽，他更失去原本獲頒的勳章，採取的措施是考慮到他因為在處理問題上，下級沒有上報，而他沒有直接參與的角色，還有作為部門首長，要承擔主體責任的原則而作出的決定，是一個按事實和所佔實際角色而決定的處分，這亦是我們履行部門首長責任制的理念。現有的公務員紀律制度，雖然會針對部門首長在管理下屬方面有要求和處理方法，但在我推行的部門首長責任制中，會更加強調作為部門首長，部門首長承擔部門的主體責任時，我們對他可以作出甚麼處分，到時在我們制定部門首長責任制會有更清晰的講述。多謝大家。
 
 （請同時參閱答問內容英文部分）"
-Remarks by CE at media session before ExCo (with video),2026-01-27 13:45,2026-01-27 14:00,Eng,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700367.htm,"  Following are the remarks by the Chief Executive, Mr John Lee, at a media session before the Executive Council meeting today (January 27):
-
-Reporter: Good morning, Chief Executive. First, regarding the resignation of Mr Erick Tsang, currently in the CMAB (Constitutional and Mainland Affairs Bureau), both the Political Assistant and Permanent Secretary of the bureau are vacant, and now the Secretary is gone as well. How can you ensure the bureau will run smoothly? You just said that no other underperforming officials will be removed in the near future. Is it possible that some officials will be sacked after the Tai Po fire independent committee (Independent Committee in relation to the fire at Wang Fuk Court in Tai Po) wraps up its work? And second question, regarding the new seat belt law, I am not sure if the Government misjudged that it did not conduct a public consultation back then when enacting the law. Would the Government consider calls like exempting short-haul journeys from the new rules? Thank you.
-
-Chief Executive: You have asked three questions, but I will exceptionally deal with them all. First of all, the application by Erick Tsang to resign from his job because of personal health reasons is fully appreciated. Principal Officials' jobs are very demanding. Not just the workload is heavy, but the pressure is also heavy. I can understand why Erick, under the present health condition, would like to take a rest so as to take care of his health problems.
-
-  I have also said that there will be no further change of Principal Officials, particularly now that we have so many things to do, and they are all doing these as I require them to, sharing my governance philosophy. For the Constitutional and Mainland Affairs Bureau (CMAB), because of the departure of Erick Tsang, of course, it will mean that I will have to look for a replacement. In the meantime, the Under Secretary will be the Acting Secretary. I will ensure that the CMAB will be sufficiently staffed with colleagues of the right calibre, and I will be discussing with the Civil Service Bureau, so that we can make early arrangements for the right staff to be posted to the CMAB. Lying ahead, the CMAB has a lot of important tasks to do. That is why I said that had Erick's health condition been manageable, I really would have liked him to continue. But since he has now applied for resignation, we have to ensure that we build up some kind of study teams within the CMAB, so as to look at the different work that lies ahead, laying out the priorities and the significance for each task, and then supply the CMAB with sufficient staff and people with the right calibre. That will be done as soon as possible.
-
-  In regard to the accountability for the Tai Po fire, I have said repeatedly that all those who should be held accountable will be held to account, whether they are within the Government or outside the Government, whether they are at the junior level or senior level, and that we will pursue accountability to the very end. Accountability must be grounded on facts and evidence. It has to be fair and just to all parties concerned on this basis. Any action taken before the facts have been fully ascertained will not be based on facts and evidence and would therefore not be in accordance with the principles of fairness and justice. The criminal investigations by law enforcement agencies, including the Police and the Independent Commission Against Corruption, as well as the comprehensive review by the Independent Committee in relation to the fire at Wang Fuk Court in Tai Po chaired by Mr Justice David Lok, are being carried out at full speed and with the utmost effort to ascertain the truth and clarify responsibilities as soon as possible. I will pursue accountability in accordance with the actual circumstances or the basis of the facts and evidence as established by these investigations.
-
-  Regarding seat belts, wearing seat belts on public transport has been implemented for many years in a lot of countries and places, some for over 10 years, some for over 20 years, for example, in the Mainland, the UK, Australia and Singapore - all with the aim of safeguarding passengers' lives and safety. Studies have shown that in head-on collisions, seat belts can reduce serious injuries by 70 per cent and deaths by 40 per cent, preventing passengers from being thrown out of the vehicle or in subsequent hitting around inside the vehicle. The recommendation to wear seat belts was given in the review of a serious, fatal traffic accident in 2018 on Tai Po Road, which resulted in 19 deaths and 66 injuries. The Independent Review Committee, set up to inquire into that accident, has come up with this recommendation among a series of other recommendations, with a view to preventing similar large-scale deaths and injuries. The recommendation was made based on research, discussion, and also sad and sorrowful experience learned. I understand the measure will require a change in behaviour, and passengers may feel inconvenient at the beginning. However, this small change in behaviour can potentially reduce serious injuries by 70 per cent and deaths by 40 per cent. The intent is to enhance safety protection for passengers.
-
-  During the implementation process, the primary focus of the initial phase will be on public education, advice, and changing habits. Meanwhile, the Transport and Logistics Bureau (TLB) will require public transport operators to properly manage the cleanliness, functionality, and regulatory compliance of seat belt installations. The TLB will continue its promotion, publicity, and educational efforts to ensure the public understands that the law intends to protect them from serious injuries when an accident occurs unexpectedly. At the same time, the law allows for a reasonable excuse, such as an emergency or sudden special need, and those people will be exempted from liability. The Government will handle each case balanced in law, reason, and compassion. Thank you.
-
-(Please also refer to the Chinese portion of the remarks.)"
-前政制及內地事務局局長聲明（只有中文）,2026-01-27 13:20,2026-01-27 13:30,Chi,gia,https://www.info.gov.hk/gia/general/202601/27/P2026012700340.htm,"以下為前政制及內地事務局局長曾國衞今日（一月二十七日）發出的聲明：
-
-本人自二○二○年四月獲中央任命為特區政府政制及內地事務局局長。多年以來一直盡心盡力做好工作，致力為特區和市民服務；但在高強度工作中，身體亦漸漸出現了情況。雖然作了不同檢查並按醫生指示服藥，但情況仍未有改善。經與家人及醫生商量後，認為目前最好的方法是放下工作，減少壓力並調理好身體。因此我在去年底完成立法會選舉任務後便思考並最終決定向行政長官作出請辭。在這裏，我再次感謝中央和行政長官多年來的信任、支持和指導，亦感謝社會各界的支持和配合。日後若有機會，我仍希望在不同崗位或範疇為社會作出貢獻。最後，再次感謝大家的關心！"
