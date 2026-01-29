@@ -1,4 +1,16 @@
 title,date,summary,scrape_time,section,source,url,news_content
+內地股市變動不大　滬股半日跌0.1%,2026-01-29 11:44,,2026-01-29 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841858-20260129.htm,"滬深股市缺乏方向，半日變動不大。房地產、貴金屬、人工智能應用等股份升幅較大；半導體、光刻機、電網及風電設備股偏軟。
+
+上證指數半日報4147點，跌4點，跌幅0.1%。
+
+深證成份指數報14344點，升2點，升幅0.01%。
+
+創業板指數報3322點，跌1點，跌幅0.05%。"
+工信部要求光伏行業「反內卷」亦要「防壟斷」,2026-01-29 11:41,,2026-01-29 12:00,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841853-20260129.htm,"內地工業和信息化部召開光伏行業企業家座談會，提到「反內卷」方法時，額外提到「防範壟斷風險」；對行業自律的提法亦由過去的「支持行業自律」、「加強行業自律」，轉變為「依法依規推進行業自律」。
+
+工信部新聞稿強調，光伏行業協會要積極履行職能，依法依規推進行業自律，創新方式，堅決破除行業「內卷式」競爭。
+
+市場監管總局3周前約談6家光伏企業及行業協會時亦要求，協會及企業不得約定產能、產銷量及銷售價格，確保加價與行業自律行為不觸及壟斷紅線。"
 習近平晤施紀賢稱國際形勢變亂交織　中英兩國需加強對話與合作,2026-01-29 11:34,,2026-01-29 11:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841857-20260129.htm,"國家主席習近平上午在北京人民大會堂，會見來華進行正式訪問的英國首相施紀賢。
 
 習近平歡迎施紀賢，表示是相隔8年，英國首相再次訪問中國。
@@ -57,6 +69,7 @@ title,date,summary,scrape_time,section,source,url,news_content
 東亞銀行首席經濟師卓亮表示，聯儲局認為美國經濟好轉，就業市場壓力減少，通脹預期相對平穩，反映短期內不急於調整利率政策，預料鮑威爾任期內仍會維持利率不變，直至換人後在下半年重新減息。他又認為，若通脹仍然回落，減息周期可能延長至明年。
 
 卓亮提到，即使美國重啟減息，香港最優惠利率再度調整機會較低，因為已處於今輪周期底部，但拆息仍有下跌空間，今年私人住宅樓價或有高單位數升幅。"
+日股半日偏軟,2026-01-29 10:35,,2026-01-29 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841846-20260129.htm,日本股市半日偏軟，日經平均指數上午收市報53274點，跌84點，跌幅0.16%。
 金管局：美國息率走向仍不確定　對香港利率環境亦有影響,2026-01-29 10:35,,2026-01-29 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841845-20260129.htm,"美國聯儲局一如預期維持利率不變，聯邦基金利率目標區間維持3.5至3.75厘。
 
 香港金管局表示，利率決定符合市場預期，市場普遍認為，美國未來貨幣政策走向存在較大不確定，將取決於通脹走勢及就業市場情況。
@@ -64,7 +77,6 @@ title,date,summary,scrape_time,section,source,url,news_content
 金管局指，香港貨幣及金融市場保持有序運作，在聯繫匯率制度下，港元拆息整體上趨近美元息率，而較短期限拆息同時受到本地市場港元資金供求影響，例如季節性因素及資本市場活動。
 
 金管局說，美國未來息率走向仍存在不確定，對香港利率環境亦會有影響，提醒市民在作出置業、投資或借貸決定時，要充分考慮及管理利率風險。金管局會繼續密切監察市場變化，維持貨幣及金融穩定。"
-日股半日偏軟,2026-01-29 10:35,,2026-01-29 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841846-20260129.htm,日本股市半日偏軟，日經平均指數上午收市報53274點，跌84點，跌幅0.16%。
 截至前日75名宏福苑火災傷者由公立醫院康復出院　餘下4人穩定,2026-01-29 10:32,,2026-01-29 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm,"醫衞局表示，在大埔宏福苑火災共有79名傷者在公立醫院接受治療，截至前日，已經有75名傷者先後康復出院。餘下的4名傷者均情況穩定。
 
 宏福苑共8座樓宇的所有居民，包括外籍家庭傭工，均可享有全額醫療費用豁免安排至今年12月31日，涵蓋醫管局轄下的住院、家庭醫學及專科門診，包括精神科專科門診、急症室、日間醫院、日間程序、社區服務及中醫診所暨教研中心。截至前日，醫管局已為約1900名受影響居民提供所需醫療服務。
@@ -430,9 +442,6 @@ EIA又指，煉廠煉油量減少每日39.5萬桶，產能利用率跌2.4個百�
 美聯集團料去年度盈利顯著上升,2026-01-28 22:53,,2026-01-28 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841785-20260128.htm,"美聯集團料去年度盈利顯著上升，因首11個月料錄得稅前溢利約4.6億元，已較2024年全年度盈利多出逾20%。
 
 公司表示，首11個月旗下所有業務單位表現亮麗，尤其是「美聯物業」及「香港置業」，主要因為受到住宅市場持續復蘇期間，致力透過一系列管理措施成功實現業務增長；提升住宅市場佔有率；提升營運效率等。"
-警方葵青區搗破毒品儲存倉　拘男女檢獲1200萬元可卡因和大麻,2026-01-28 22:51,,2026-01-28 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841791-20260128.htm,"警方昨日在葵青區搗破一個懷疑毒品儲存倉庫，以涉嫌販毒拘捕分別32歲的一男一女，他們正被扣查，並檢獲14磚共重約16公斤懷疑可卡因及6包共重約50克的懷疑大麻，總市值約1200萬元。
-
-案件明日在西九龍裁判法院提堂。"
 美股初段上升　 標普500指數曾升穿7000點,2026-01-28 22:51,,2026-01-28 23:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841790-20260128.htm,"美股初段上升。
 
 道瓊斯指數較早時報49016點，升13點。
@@ -443,15 +452,18 @@ EIA又指，煉廠煉油量減少每日39.5萬桶，產能利用率跌2.4個百�
 警方葵青區搗破毒品儲存倉　檢獲市值1200萬元懷疑毒品,2026-01-28 22:51,,2026-01-28 23:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841791-20260128.htm,"警方昨日在葵青區搗破一個懷疑毒品儲存倉庫，以涉嫌販毒拘捕分別32歲的一男一女，他們正被扣查，並檢獲14磚共重約16公斤懷疑可卡因及6包共重約50克的懷疑大麻，總市值約1200萬元。
 
 案件明日在西九龍裁判法院提堂。"
+警方葵青區搗破毒品儲存倉　拘男女檢獲1200萬元可卡因和大麻,2026-01-28 22:51,,2026-01-28 23:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841791-20260128.htm,"警方昨日在葵青區搗破一個懷疑毒品儲存倉庫，以涉嫌販毒拘捕分別32歲的一男一女，他們正被扣查，並檢獲14磚共重約16公斤懷疑可卡因及6包共重約50克的懷疑大麻，總市值約1200萬元。
+
+案件明日在西九龍裁判法院提堂。"
 警方觀塘拘捕一名男子涉駕駛電動可移動工具,2026-01-28 22:46,,2026-01-28 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841789-20260128.htm,"警方表示，留意到傳媒報道，指懷疑有人沿觀塘康寧道往物華街方向駕駛電動可移動工具，經調查及翻查銳眼計劃下的閉路電視後，鎖定一名涉案男子。
 
 警方下午在觀塘巧明街展開埋伏行動，拘捕一名47歲本地男子，他涉嫌「被取消駕駛資格期間駕駛」、「駕駛未有登記及未持牌車輛」、「沒有第三者保險而使用車輛」、「駕駛電單車時沒有戴上認可防護頭盔」及「在行人路上駕駛」，正被扣查。"
-拖行飛機時拖車工人跌出車外遭撞斃　涉事公司被罰44萬元,2026-01-28 22:44,,2026-01-28 23:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841788-20260128.htm,"涉及2024年本港機場致命意外的中國飛機服務有限公司，今日在西九龍裁判法院被判罰款44萬元。
+拖行飛機時拖車工人跌出車外遭撞斃　死者公司被罰44萬元,2026-01-28 22:44,,2026-01-28 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841788-20260128.htm,"涉及2024年本港機場致命意外的中國飛機服務有限公司，今日在西九龍裁判法院被判罰款44萬元。
 
 案發在前年2月，當一輛拖車在滑行道拖行一架飛機時，在拖車上的一名工人跌倒在地及被拖行中的飛機撞到，工人嚴重受傷，並於同日離世。
 
 涉事的中國飛機服務有限公司因違反《工廠及工業經營條例》及《工廠及工業經營（安全管理）規例》的規定，其後被勞工處檢控。"
-拖行飛機時拖車工人跌出車外遭撞斃　死者公司被罰44萬元,2026-01-28 22:44,,2026-01-28 23:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841788-20260128.htm,"涉及2024年本港機場致命意外的中國飛機服務有限公司，今日在西九龍裁判法院被判罰款44萬元。
+拖行飛機時拖車工人跌出車外遭撞斃　涉事公司被罰44萬元,2026-01-28 22:44,,2026-01-28 23:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841788-20260128.htm,"涉及2024年本港機場致命意外的中國飛機服務有限公司，今日在西九龍裁判法院被判罰款44萬元。
 
 案發在前年2月，當一輛拖車在滑行道拖行一架飛機時，在拖車上的一名工人跌倒在地及被拖行中的飛機撞到，工人嚴重受傷，並於同日離世。
 
@@ -485,18 +497,18 @@ The driver reported the incident to the company, which subsequently contacted th
 KMB strongly condemned the act, stating it will not tolerate any deliberate destruction of bus facilities. 
 
 The incident occurred just days after the implementation of a new regulation mandating seatbelt use on buses and minibuses."
-商人承認以5萬元賄賂講師要求協助入讀課程　判囚半年,2026-01-28 21:34,,2026-01-29 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841783-20260128.htm,"一名39歲商人涉嫌以5萬元行賄理大專業進修學院一名高級講師，要求對方協助他入讀一個學位銜接課程，遭對方拒絕。廉署控告該名商人違反《防止賄賂條例》，被告今日在西九龍裁判法院承認控罪，被判入獄半年。
-
-案情透露，被告康杰欲報讀理大專業進修學院一個自資學士學位課程，他在2024年6月底及10月底先後兩次參加英語面試，但均未能通過考核。期間，被告多次向一名有份主持該兩次英語面試的高級講師發送電話訊息，又在理大專業進修學院校園附近等待對方，請求對方取錄他入讀其申請的學位課程，但遭拒絕。
-
-被告同年11月一個晚上趁該名高級講師下班，將一疊5萬元現金鈔票塞入對方外套口袋，並請求接納他的入學申請。該講師拒絕接受被告提供的款項並指賄賂違法，又提醒被告不要觸犯法例，被告其後跑離現場。講師立即向上司報告並於翌日早上向廉署舉報。
-
-裁判官判刑時指，案情嚴重，被告行為影響香港法治、公平和聲譽，頒令充公涉案賄款5萬元。廉署表示，學術界廉潔誠信是香港成為國際專上教育樞紐的重要基石，提醒入學申請者，切勿行賄教職員以換取協助或優待。廉署絕不姑息任何破壞學術界廉潔的行為，如有發現定必嚴肅跟進，果斷執法。"
 商人承認以5萬元賄賂講師要求協助入讀課程　判囚半年　,2026-01-28 21:34,,2026-01-28 21:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841783-20260128.htm,"一名39歲商人涉嫌以5萬元行賄理大專業進修學院一名高級講師，要求對方協助他入讀一個學位銜接課程，遭對方拒絕。廉署控告該名商人違反《防止賄賂條例》，被告今日在西九龍裁判法院承認控罪，被判入獄半年。
 
 案情透露，被告康杰欲報讀理大專業進修學院一個自資學士學位課程，他在2024年6月底及10月底先後兩次參加英語面試，但均未能通過考核。期間，被告多次向一名有份主持該兩次英語面試的高級講師發送電話訊息，又在理大專業進修學院校園附近等待對方，請求對方取錄他入讀其申請的學位課程，但遭一一拒絕。
 
 被告同年11月一個晚上趁該名高級講師下班，將一疊5萬元現金鈔票塞入對方外套口袋，並請求對方接納他的入學申請。該講師拒絕接受被告提供的款項並指賄賂違法，又提醒被告不要觸犯法例，被告其後跑離現場。講師立即向上司報告並於翌日早上向廉署舉報。
+
+裁判官判刑時指，案情嚴重，被告行為影響香港法治、公平和聲譽，頒令充公涉案賄款5萬元。廉署表示，學術界廉潔誠信是香港成為國際專上教育樞紐的重要基石，提醒入學申請者，切勿行賄教職員以換取協助或優待。廉署絕不姑息任何破壞學術界廉潔的行為，如有發現定必嚴肅跟進，果斷執法。"
+商人承認以5萬元賄賂講師要求協助入讀課程　判囚半年,2026-01-28 21:34,,2026-01-29 09:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841783-20260128.htm,"一名39歲商人涉嫌以5萬元行賄理大專業進修學院一名高級講師，要求對方協助他入讀一個學位銜接課程，遭對方拒絕。廉署控告該名商人違反《防止賄賂條例》，被告今日在西九龍裁判法院承認控罪，被判入獄半年。
+
+案情透露，被告康杰欲報讀理大專業進修學院一個自資學士學位課程，他在2024年6月底及10月底先後兩次參加英語面試，但均未能通過考核。期間，被告多次向一名有份主持該兩次英語面試的高級講師發送電話訊息，又在理大專業進修學院校園附近等待對方，請求對方取錄他入讀其申請的學位課程，但遭拒絕。
+
+被告同年11月一個晚上趁該名高級講師下班，將一疊5萬元現金鈔票塞入對方外套口袋，並請求接納他的入學申請。該講師拒絕接受被告提供的款項並指賄賂違法，又提醒被告不要觸犯法例，被告其後跑離現場。講師立即向上司報告並於翌日早上向廉署舉報。
 
 裁判官判刑時指，案情嚴重，被告行為影響香港法治、公平和聲譽，頒令充公涉案賄款5萬元。廉署表示，學術界廉潔誠信是香港成為國際專上教育樞紐的重要基石，提醒入學申請者，切勿行賄教職員以換取協助或優待。廉署絕不姑息任何破壞學術界廉潔的行為，如有發現定必嚴肅跟進，果斷執法。"
 New seatbelt mandate focuses on persuasion: govt,2026-01-28 21:29,,2026-01-28 21:45,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841771-20260128.htm,"The city's new mandate requiring seatbelts to be worn on buses and minibuses will focus on education and persuasion during the initial adaptation period, Secretary for Transport and Logistics Mable Chan said.
@@ -720,12 +732,12 @@ By categories, the fund's total stock investment income for the entire year of 2
 Bond investment income stood at HK$142.2 billion, while the valuation of non-Hong Kong dollar assets rose by HK$38.4 billion.
 
 By the end of September last year, the long-term growth portfolio saw investment income rise to HK$42.4 billion."
-外匯基金上季其他股票投資收益按年升近４倍,2026-01-28 17:25,,2026-01-28 18:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841756-20260128.htm,"外匯基金去年第4季投資收入462億元，當中未計入其他投資，包括長期增長組合在第4季的估值變動。
+外匯基金上季其他股票投資收益按年升近4倍,2026-01-28 17:25,,2026-01-28 19:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841756-20260128.htm,"外匯基金去年第4季投資收入462億元，當中未計入其他投資，包括長期增長組合在第4季的估值變動。
 
 上季投資收入當中，港股投資虧損62億元，時隔3個季度再次錄得虧損，但按年收窄逾7%。其他股票投資收益146億元，按年急升3.7倍，按季收窄逾54%。
 
 債券投資收益達296億元，按年升逾1.5倍，按季收窄約21%。非港元資產外匯估值上調82億元，扭轉前年同期及前季的下調走勢。"
-外匯基金上季其他股票投資收益按年升近4倍,2026-01-28 17:25,,2026-01-28 19:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841756-20260128.htm,"外匯基金去年第4季投資收入462億元，當中未計入其他投資，包括長期增長組合在第4季的估值變動。
+外匯基金上季其他股票投資收益按年升近４倍,2026-01-28 17:25,,2026-01-28 18:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841756-20260128.htm,"外匯基金去年第4季投資收入462億元，當中未計入其他投資，包括長期增長組合在第4季的估值變動。
 
 上季投資收入當中，港股投資虧損62億元，時隔3個季度再次錄得虧損，但按年收窄逾7%。其他股票投資收益146億元，按年急升3.7倍，按季收窄逾54%。
 
@@ -1052,7 +1064,7 @@ The secretary stressed that a crisis management team was set up after the infern
 恒指下午初段升逾2%,2026-01-28 13:16,,2026-01-28 13:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841711-20260128.htm,"港股下午開市初段延續升勢，恒生指數較早時報27721點，升594點，升幅2.19%。
 
 科技指數報5851點，升96點，升幅1.68%。"
-Call for companies to beef up cybersecurity measures,2026-01-28 13:09,,2026-01-28 20:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841709-20260128.htm,"The Productivity Council on Wednesday called on companies to strengthen protection against cyberattacks, as the city logged more than 15,800 cybersecurity incidents in 2025 — an almost 30 percent increase from 2024. 
+Call for companies to beef up cyber security measures,2026-01-28 13:09,,2026-01-28 13:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841709-20260128.htm,"The Productivity Council on Wednesday called on companies to strengthen protection against cyberattacks, as the city logged more than 15,800 cybersecurity incidents in 2025 — an almost 30 percent increase from 2024. 
 
 Phishing accounted for nearly 60 percent of the cases, according to the council’s Computer Emergency Response Team Coordination Centre, with the prevalence of generative AI making these attacks harder to identify. 
 
@@ -1067,7 +1079,7 @@ Lai said companies should lay out clear policies on AI technology use in the wor
 The survey from last October to November also found around 30 percent of them lack dedicated cybersecurity staff. 
 
 Lai said enterprises should assign relevant staff to ensure a timely response to emergencies, making use of cybersecurity technologies such as access-rights control and encryption."
-Call for companies to beef up cyber security measures,2026-01-28 13:09,,2026-01-28 13:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841709-20260128.htm,"The Productivity Council on Wednesday called on companies to strengthen protection against cyberattacks, as the city logged more than 15,800 cybersecurity incidents in 2025 — an almost 30 percent increase from 2024. 
+Call for companies to beef up cybersecurity measures,2026-01-28 13:09,,2026-01-28 20:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841709-20260128.htm,"The Productivity Council on Wednesday called on companies to strengthen protection against cyberattacks, as the city logged more than 15,800 cybersecurity incidents in 2025 — an almost 30 percent increase from 2024. 
 
 Phishing accounted for nearly 60 percent of the cases, according to the council’s Computer Emergency Response Team Coordination Centre, with the prevalence of generative AI making these attacks harder to identify. 
 
@@ -1175,52 +1187,3 @@ Lai said enterprises should assign relevant staff to ensure a timely response to
 深證成份指數報14342點，升12點。
 
 創業板指數報3330點，跌12點，跌幅0.37%。"
-HK home prices rise 3.3pc in 2025,2026-01-28 11:54,,2026-01-28 12:15,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1841689-20260128.htm,"Hong Kong's home prices rose 3.3 percent in 2025 as a stock market boom, interest rate cuts, as well as government policies propped up the previously sluggish sector.
-
-Official figures released by the Rating and Valuation Department on Wednesday also showed that the city's official home price index climbed for the seventh consecutive month to stand at 298.6 in December, up 0.2 percent from November.
-
-The December figure also marked the highest level since June 2024, when the gauge stood at 302.5.
-
-Commenting on the figures, Eddie Kwok, executive director of valuation and advisory services at CBRE Hong Kong, said the upward trend would continue in 2026, as more buyers entered the market and drove up the transaction volumes, signalling that prices have already bottomed out.
-
-He noted that small-sized units saw the biggest price spikes last year, rising 4.1 percent, partly driven by government measures to cut stamp duties on units valued at HK$4 million or below.
-
-He also said that the inventory of unsold new-homes started declining last year, as over 1,600 first-hand transactions were recorded each month since April.
-
-""Looking ahead, when unsold inventory falls below 18,000 units, developers would be in a position to further scale back discounts, which will help stabilise prices and support the steady upward movement,"" he said.
-
-Meanwhile, Alvin Leung, senior director of valuation and advisory services at Colliers, noted that the city's residential market has picked up notably since the middle of last year, supported by the stock market boom, interest rate cuts and government talent schemes.
-
-""Attractive rental yields and the full removal of property cooling measures in the 2024 Policy Address further fuelled strong market sentiment,"" he said.
-
-""Large-scale first-hand projects have been particularly appealing to investors, long-term family funds, and mainland buyers for both asset allocation and self-use,"" he added.
-
-The property veteran also noted that many mainland buyers snapped up properties in areas such as Kai Tak, West Kowloon, and Mid-Levels, potentially giving more room for price increases in these districts.
-
-Both Leung and Kwok forecast that residential prices would rise by another three to five percent this year."
-卡尼否認收回達沃斯發表的言論　稱美國幾乎一切都不正常,2026-01-28 11:50,,2026-01-28 12:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1841691-20260128.htm,"加拿大總理卡尼表示，他並未收回自己在達沃斯世界經濟論壇年會上發表的言論，並表示美國現時幾乎一切都不正常。
-
-卡尼上星期在達沃斯世界經濟論壇年會發表演講，批評美國的政策破壞世界秩序。美國財政部長貝森特早前表示，卡尼在同美國總統特朗普的通話中，極力地收回他在達沃斯發表的一些不當言論。
-
-另外，卡尼透露，推動北美自由貿易的《美墨加協定》正式審查將在幾周內啟動，但他未透露有關更多細節。"
-Lawmaker calls for end to social welfare spending cuts,2026-01-28 11:50,,2026-01-28 12:00,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1841698-20260128.htm,"Election Committee lawmaker Peter Koon on Wednesday called on the government to halt its recurrent expenditure cuts for the social welfare sector when it announces its annual budget next month.
-
-Last year, Financial Secretary Paul Chan announced there would be a two percent reduction for three years, to optimise fiscal resources.
-
-Koon, who is also chief executive of the Hong Kong Council of Social Service, said maintaining the sector's funding at current levels is paramount to helping the underprivileged.
-
-""We've always said that demand for our social services just keeps growing. It's fine that you don't inject more money, but if you cut spending, logically it's a bit strange,"" he said on RTHK's In The Chamber programme.
-
-""Because when the pool [of beneficiaries] gets bigger and you cut our money, it just gets harder for us to provide services.""
-
-Koon added that instead of offering budget sweeteners to the public, he thinks it would be better for the government to revert to higher expenditure levels for categories such as education.
-
-Meanwhile, lawmaker Leung Man-kwong called on officials to strengthen monitoring of employers' recruitment processes in regards to a labour scheme for importing catering sector workers.
-
-Speaking on the same programme, the Kowloon West representative said it is true that there have been fewer import applications since the government changed rules to prioritise job opportunities for locals.
-
-""However, we can't rule out that there are still a small amount of unscrupulous employers who manipulate this scheme to import workers to replace locals,"" Leung said.
-
-""By extending the [mandatory] recruitment period for locals from four weeks to six before they could import workers, it's just a time cost to employers. They only need to wait for two more weeks.""
-
-The councillor went on to say that he does not think employers found to have sacked local workers after bringing in staff from outside the city should bear criminal liability."
