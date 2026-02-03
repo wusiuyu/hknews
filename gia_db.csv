@@ -1,4 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
+港匯指數,2026-02-03 16:00,2026-02-03 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300188.htm,二○二六年二月三日（星期二）的港幣匯率指數為一百零一點九（和昨日指數比較下降零點三）。
+Effective Exchange Rate Index,2026-02-03 16:00,2026-02-03 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300184.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, February 3, 2026 is 101.9 (down 0.3 against yesterday's index)."
 大埔宏福苑管理人合安協助發放市區重建局「樓宇更新大行動2.0」資助予合資格業主,2026-02-03 15:52,2026-02-03 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300493.htm,"民政及青年事務局（民青局）今日（二月三日）公布有關大埔宏福苑管理人合安管理有限公司（合安）協助向合資格業主發放市區重建局（市建局）「樓宇更新大行動2.0」資助的安排。
 
 土地審裁處已於今年一月六日就政府引用《建築物管理條例》（第344章）（《建管條例》）第31條提出的申請作出裁決，正式批准解散宏福苑業主立案法團（法團）的管理委員會（管委會），並委任合安為該屋苑的委任管理人。自獲委任以來，合安為履行在《建管條例》下管委會的職能，已展開一系列工作，包括更新銀行戶口資料、與前管理公司進行交接、安排接收各項與法團相關的文件，釐清法團及業主的法律責任及權益，亦會跟進有關履約保證金事宜，以及查明法團的帳目情況。同時，合安亦已開設網上平台（www.WFCAdmin.com.hk），與居民保持溝通聯絡。民政事務總署的專班亦一直與合安保持緊密聯繫，並提供所需的協助。
@@ -8,6 +10,43 @@ title,date,scrape_time,section,source,url,news_content
 社會福利署安排的「一戶一社工」會協助聯絡合資格業主，在徵得業主同意後，將業主的聯絡方式轉交合安跟進。隨後，合安會盡快聯絡業主説明支票發放安排，並就業主領取支票的時間及地點進行預約，以作妥善安排。
 
 合安將於本月在不同指定地點設立支票派發點，合資格業主可按預約的時間前往港九新界指定地點（包括較多居民居住的過渡性房屋項目的地區）領取支票。有關支票派發點的地點和時間將於日內上載至合安網站，供合資格業主查閱。至於查詢有關資助計劃的事宜，業主可致電市建局「樓宇更新大行動2.0」計劃查詢熱線3188 1188。"
+金管局公布金融科技推廣藍圖：從應用到演變,2026-02-03 15:47,2026-02-03 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300358.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）今日（二月三日）公布金融科技推廣藍圖，提出推動負責任創新及進階應用金融科技。
+
+在「金融科技2030」（註一）下，這戰略執行藍圖將透過推動高效能運算基礎設施的應用，拓展人工智能和分布式分類帳技術（DLT）的進階方案。藍圖以數據卓越和網絡韌性為基礎，旨在強化銀行業在運用先進科技時的風險管理能力。
+
+藍圖提出一套以生態協作、技術演變以及人才培育為執行核心的框架。未來數月，金管局將推出四個旗艦項目，包括：
+
+
+量子準備度指數：鑑於量子計算對依賴安全加密技術的金融業具有深遠影響，金管局將推出量子準備度指數，以評估銀行業在後量子密碼學（PQC）領域的準備情況。該指數不僅提供全面的現狀分析，亦將作為未來數年可量化的目標，協助金管局在銀行業過渡至PQC的過程中提供實務支援。
+
+
+
+
+全新風險數據策略：為充分發揮人工智能和DLT在尖端應用的潛力，金管局將推行全新風險數據策略，以強化銀行業的數據管理能力。透過更完善的數據管治框架與更先進的數據基礎設施，銀行將可以更有效運用複雜的結構化及非結構化數據（註二）進行進階分析，應對不斷變化的風險環境。有關能力亦將支持金管局擴展「細緻數據匯報」計劃，進一步強化風險管理和銀行監管工作的靈活性。
+
+
+
+
+金融科技網絡安全基準：金管局將與業界合作，為金融科技公司制定一套全新而標準化、業界主導的金融科技網絡安全基準，重點聚焦於人工智能和DLT等新興技術的應用。此基準旨在為金融科技公司與銀行合作時提供清晰的安全指引，從而強化整個金融科技生態圈的信任基礎與風險韌性，同時提升銀行在引入金融科技合作夥伴時的盡職審查效率。
+
+
+
+
+資歷發展支援：金管局將與業界合作，提供實務指引，以提升銀行中一般金融科技使用者的技能，並輔助現有的資歷發展工作。措施將聚焦於提升「人機互動」能力，讓從業員能更清楚了解將人工智能與 DLT融入新一代金融產品與服務時所需的技能。
+
+
+藍圖亦參考《金融科技成熟度調查》（註三）結果，提出一系列措施以應對挑戰金融科技進一步發展的主要因素。這些措施包括FiNETech系列、負責任創新比賽、優化Fintech Connect配對平台，以及實務工作坊。
+
+金管局副總裁阮國恒表示：「金融業的未來將由那些能夠駕馭先進技術的推動者定義，他們不僅優化現有流程，更能重塑未來的可能性。透過鼓勵負責任創新、加強跨境協作及持續投資人才發展，藍圖提供實務指引，協助構建具韌性及前瞻性的生態圈──一個能平衡風險和機遇急速演變的未來金融系統。」
+
+藍圖完整報告（只備英文版）已上載於金管局網站。
+
+註一：金管局於香港金融科技周2025公布「金融科技2030」www.hkma.gov.hk/chi/news-and-media/press-releases/2025/11/20251103-3/
+註二：結構化數據如交易紀錄、信貸評分，以及非結構化數據如客戶電郵往來、商業合約等
+註三：《金融科技應用：進展及未來方向》（只提供英文版）
+brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250716-3-EN/20250716-3-EN.pdf"
 HKMA unveils Fintech Promotion Blueprint: From adoption to advancement,2026-02-03 15:47,2026-02-03 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300415.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
 The Hong Kong Monetary Authority (HKMA) published today (February 3) a Fintech Promotion Blueprint to foster responsible innovation and fintech advancement.
@@ -46,54 +85,6 @@ www.hkma.gov.hk/eng/news-and-media/press-releases/2025/11/20251103-3/
 Note 2: Structured data such as transaction records and credit scores, as well as unstructured data such as email correspondence and business contracts.
 Note 3: Fintech Adoption: Progress and Future Directions
 brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250716-3-EN/20250716-3-EN.pdf"
-金管局公布金融科技推廣藍圖：從應用到演變,2026-02-03 15:47,2026-02-03 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300358.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）今日（二月三日）公布金融科技推廣藍圖，提出推動負責任創新及進階應用金融科技。
-
-在「金融科技2030」（註一）下，這戰略執行藍圖將透過推動高效能運算基礎設施的應用，拓展人工智能和分布式分類帳技術（DLT）的進階方案。藍圖以數據卓越和網絡韌性為基礎，旨在強化銀行業在運用先進科技時的風險管理能力。
-
-藍圖提出一套以生態協作、技術演變以及人才培育為執行核心的框架。未來數月，金管局將推出四個旗艦項目，包括：
-
-
-量子準備度指數：鑑於量子計算對依賴安全加密技術的金融業具有深遠影響，金管局將推出量子準備度指數，以評估銀行業在後量子密碼學（PQC）領域的準備情況。該指數不僅提供全面的現狀分析，亦將作為未來數年可量化的目標，協助金管局在銀行業過渡至PQC的過程中提供實務支援。
-
-
-
-
-全新風險數據策略：為充分發揮人工智能和DLT在尖端應用的潛力，金管局將推行全新風險數據策略，以強化銀行業的數據管理能力。透過更完善的數據管治框架與更先進的數據基礎設施，銀行將可以更有效運用複雜的結構化及非結構化數據（註二）進行進階分析，應對不斷變化的風險環境。有關能力亦將支持金管局擴展「細緻數據匯報」計劃，進一步強化風險管理和銀行監管工作的靈活性。
-
-
-
-
-金融科技網絡安全基準：金管局將與業界合作，為金融科技公司制定一套全新而標準化、業界主導的金融科技網絡安全基準，重點聚焦於人工智能和DLT等新興技術的應用。此基準旨在為金融科技公司與銀行合作時提供清晰的安全指引，從而強化整個金融科技生態圈的信任基礎與風險韌性，同時提升銀行在引入金融科技合作夥伴時的盡職審查效率。
-
-
-
-
-資歷發展支援：金管局將與業界合作，提供實務指引，以提升銀行中一般金融科技使用者的技能，並輔助現有的資歷發展工作。措施將聚焦於提升「人機互動」能力，讓從業員能更清楚了解將人工智能與 DLT融入新一代金融產品與服務時所需的技能。
-
-
-藍圖亦參考《金融科技成熟度調查》（註三）結果，提出一系列措施以應對挑戰金融科技進一步發展的主要因素。這些措施包括FiNETech系列、負責任創新比賽、優化Fintech Connect配對平台，以及實務工作坊。
-
-金管局副總裁阮國恒表示：「金融業的未來將由那些能夠駕馭先進技術的推動者定義，他們不僅優化現有流程，更能重塑未來的可能性。透過鼓勵負責任創新、加強跨境協作及持續投資人才發展，藍圖提供實務指引，協助構建具韌性及前瞻性的生態圈──一個能平衡風險和機遇急速演變的未來金融系統。」
-
-藍圖完整報告（只備英文版）已上載於金管局網站。
-
-註一：金管局於香港金融科技周2025公布「金融科技2030」www.hkma.gov.hk/chi/news-and-media/press-releases/2025/11/20251103-3/
-註二：結構化數據如交易紀錄、信貸評分，以及非結構化數據如客戶電郵往來、商業合約等
-註三：《金融科技應用：進展及未來方向》（只提供英文版）
-brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250716-3-EN/20250716-3-EN.pdf"
-Inspection of aquatic products imported from Japan,2026-02-03 15:45,2026-02-03 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300501.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
-
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
-
-  From noon on February 2 to noon today (February 3), the CFS conducted tests on the radiological levels of 127 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
-
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
-
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
-
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 201 307 samples of food imported from Japan (including 129 093 samples of aquatic and related products, seaweeds and sea salt) and 44 422 samples of local catch respectively. All the samples passed the tests."
 日本進口水產的檢測情況,2026-02-03 15:45,2026-02-03 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300498.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -105,6 +96,17 @@ Inspection of aquatic products imported from Japan,2026-02-03 15:45,2026-02-03 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共201 307個日本進口食物樣本（包括129 093個水產及其製品、海藻及海鹽樣本）及共44 422個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2026-02-03 15:45,2026-02-03 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300501.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on February 2 to noon today (February 3), the CFS conducted tests on the radiological levels of 127 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 201 307 samples of food imported from Japan (including 129 093 samples of aquatic and related products, seaweeds and sea salt) and 44 422 samples of local catch respectively. All the samples passed the tests."
 少雨及陽光充沛的一月,2026-02-03 15:30,2026-02-03 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300234.htm,"​由於月內大部分時間香港受乾燥的東北季候風影響，二○二六年一月遠較正常少雨及陽光充沛。一月總雨量為3.2毫米，只有正常值33.2毫米的約百分之十。一月平均相對濕度為百分之六十三，較正常值的百分之七十四低百分之十一，是有紀錄以來一月份的第九低。一月總日照時間為216.1小時，較正常值145.8小時多約百分之四十八。一月亦較正常溫暖，平均氣溫為17.5度，較正常值16.5度高1.0度。而平均最高氣溫為20.3度，較正常值18.7度高1.6度，是有紀錄以來一月份的其中一個第八高。
 
 受乾燥的東北季候風影響，一月首五日本港天晴，一月二日至三日早上天氣寒冷。隨着一股強烈的冬季季候風補充於一月五日晚上抵達本港，晚間北風增強。一月六日至十日本港持續天晴，大部分地區早上天氣寒冷，天文台氣溫於一月七日早上下降至全月最低的10.9度。一月七日至十一日日間亦非常乾燥，天文台的相對濕度於一月八日下午曾下降至百分之十七，是天文台總部自一九八四年設置自動氣象站以來一月份的最低紀錄。由於天朗氣清及風勢較弱，內陸地區輻射冷卻顯著。一月八日至十日早上新界東北部分地區有結霜報告。
@@ -215,15 +217,6 @@ This year, with strong support from the National Medical Products Administration
 Additionally, the DH began offering one-on-one pre-new drug application meetings last December for potential applicants for new drugs registration through the ""1+"" mechanism. Dr Lam urged the pharmaceutical industry to actively apply, working together to achieve the goals of early consultation to enhance quality and efficiency throughout the process so that registration approval can be expedited in Hong Kong, thereby consolidating Hong Kong's position as an international health and medical innovation hub. This service aims to further optimise the new drug registration approval process, and no fees will be charged for this service at this stage.
 
 The Symposium was attended by over 700 participants today. The DH will continue to work closely with different stakeholders to refine regulatory processes and strengthen regional and international collaboration, so as to fully leverage Hong Kong's role as a ""super connector"" and ""super value-adder""."
-"LegCo to debate motion on ""Further enhancing the speed and efficiency of developing the Northern Metropolis to promote the better development of Hong Kong's innovation and technology industry""",2026-02-03 12:10,2026-02-03 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300302.htm,"The following is issued on behalf of the Legislative Council Secretariat:
-
-The Legislative Council (LegCo) will hold a meeting tomorrow (February 4) at 11am in the Chamber of the LegCo Complex. During the meeting, Members will debate a motion on ""Further enhancing the speed and efficiency of developing the Northern Metropolis to promote the better development of Hong Kong's innovation and technology industry"". The motion, moved by Mr Chan Yung, is set out in Appendix 1. Mr Augustine Wong, Mr Lee Kwong-yu, Professor Michael Ngai, Mr Tam Chun-kwok, Mr Andrew Fan, Professor Priscilla Leung and Dr Hoey Simon Lee will move separate amendments to Mr Chan Yung's motion.
-
-Ms Judy Chan will move a motion on ""Formulating development strategies to deal with demographic challenges"". The motion is set out in Appendix 2. Mr Ken Wong, Mr Duncan Chiu, Mr Stanley Ng, Ms Maggie Chan, Ms Nixie Lam and Professor Priscilla Leung will move separate amendments to Ms Judy Chan's motion.
-
-Members will also ask the Government 22 questions on various policy areas, six of which require oral replies.
-
-The agenda of the above meeting is available on the LegCo Website (www.legco.gov.hk). Members of the public can watch or listen to the meeting via the ""Webcast"" system on the LegCo Website. To observe the proceedings of the meeting at the LegCo Complex, members of the public may call 3919 3399 during office hours to reserve seats."
 ​立法會將辯論「進一步提速提效建設好北部都會區，推動香港創科產業更好落地發展」的議案,2026-02-03 12:10,2026-02-03 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300299.htm,"下稿代立法會秘書處發出：
 
 立法會將於明日（二月四日）上午十一時在立法會綜合大樓會議廳舉行會議。在會議上，議員將辯論一項有關「進一步提速提效建設好北部都會區，推動香港創科產業更好落地發展」的議案。該議案由陳勇提出，議案內容載於附錄一。黃浩明、李廣宇、魏明德、譚鎮國、范駿華、梁美芬和李浩然將分別就陳勇的議案提出修正案。
@@ -233,6 +226,15 @@ The agenda of the above meeting is available on the LegCo Website (www.legco.gov
 議員亦會就不同政策範疇向政府提出22項質詢，其中六項要求政府作口頭答覆。
 
 公眾人士可透過立法會網頁（www.legco.gov.hk）參閱上述會議的議程，亦可透過立法會網頁的「網上廣播」系統，即場收看或收聽會議；如欲親臨立法會綜合大樓旁聽會議，請於辦公時間內致電3919 3399預留座位。"
+"LegCo to debate motion on ""Further enhancing the speed and efficiency of developing the Northern Metropolis to promote the better development of Hong Kong's innovation and technology industry""",2026-02-03 12:10,2026-02-03 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020300302.htm,"The following is issued on behalf of the Legislative Council Secretariat:
+
+The Legislative Council (LegCo) will hold a meeting tomorrow (February 4) at 11am in the Chamber of the LegCo Complex. During the meeting, Members will debate a motion on ""Further enhancing the speed and efficiency of developing the Northern Metropolis to promote the better development of Hong Kong's innovation and technology industry"". The motion, moved by Mr Chan Yung, is set out in Appendix 1. Mr Augustine Wong, Mr Lee Kwong-yu, Professor Michael Ngai, Mr Tam Chun-kwok, Mr Andrew Fan, Professor Priscilla Leung and Dr Hoey Simon Lee will move separate amendments to Mr Chan Yung's motion.
+
+Ms Judy Chan will move a motion on ""Formulating development strategies to deal with demographic challenges"". The motion is set out in Appendix 2. Mr Ken Wong, Mr Duncan Chiu, Mr Stanley Ng, Ms Maggie Chan, Ms Nixie Lam and Professor Priscilla Leung will move separate amendments to Ms Judy Chan's motion.
+
+Members will also ask the Government 22 questions on various policy areas, six of which require oral replies.
+
+The agenda of the above meeting is available on the LegCo Website (www.legco.gov.hk). Members of the public can watch or listen to the meeting via the ""Webcast"" system on the LegCo Website. To observe the proceedings of the meeting at the LegCo Complex, members of the public may call 3919 3399 during office hours to reserve seats."
 Over 2 900 quality job vacancies to be offered at Career Takeoff Job Fair for the Middle-aged and Elderly,2026-02-03 11:00,2026-02-03 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202602/03/P2026020200319.htm,"​The Labour Department (LD) will hold the Career Takeoff Job Fair for the Middle-aged and Elderly at MacPherson Stadium in Mong Kok on February 5 and 6, providing a large number of vacancies from catering, retail and various other industries for job seekers.
 
 Over 60 organisations will participate in the two-day job fair, offering over 2 900 quality job vacancies from various industries, among which nearly 2 100 are from catering, retail, transport, real estate and property management industries. Around 30 organisations will set up booths and conduct recruitment on the spot each day. A wide variety of positions will be offered at the job fair, including accounting officer, clerk, senior production technician, technical officer, assistant maintenance officer, airline ground crew, track fitter, pier sailor, baggage scanner, health worker, massagist, recreation assistant, restaurant manager, barista, chef, cashier, security guard, taxi driver, etc. Job seekers can visit the LD's Interactive Employment Service website (www.jobs.gov.hk) for more details of the vacancies.
@@ -430,25 +432,6 @@ Finally, on a personal note, may I extend my warmest wishes to Dr King Au, Execu
 Ladies and gentlemen, in about two weeks, we will be celebrating the Year of the Horse, an emblem of vitality, agility and perseverance, which are the very qualities that sustain Hong Kong's success on the global stage. Looking ahead, despite complex headwinds, I remain confident that Hong Kong will continue to thrive as an international financial centre of choice.
 
 For now, I hope you will enjoy the evening and the company, over a drink or two. Thank you very much."
-食環署頒獎典禮表揚協助處理冷氣機滴水的物管公司、大廈業主立案法團和地區團體（附圖）,2026-02-02 20:15,2026-02-02 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200760.htm,"食物環境衞生署（食環署）今日（二月二日）舉行「2025《協助處理冷氣機滴水》頒獎典禮」，以表揚及感謝積極參與物業管理公司協助處理冷氣機滴水事故計劃的物業管理公司、大廈業主立案法團和地區團體過去一年的努力和貢獻。是次活動亦響應署方宣傳口號「冷氣滴水處理好社區和諧無煩惱」，鼓勵更多團體與市民攜手關注並妥善處理冷氣機滴水問題，共同改善社區環境。
-
-食環署發言人表示，署方持續以多管齊下方式打擊冷氣機滴水問題，去年夏季在全港各區加強巡查及執管，並結合宣傳教育、創新科技應用及行動策略調整，取得一定成效。
-
-發言人說：「食環署二○二五年累計已處理約8 600部冷氣機的滴水問題，較二○二三年多出約三倍，與二○二四年比較亦增加超過三成。當中，在署方鎖定的黑點，冷氣機滴水問題有顯著改善。」
-
-食環署去年採取全新行動策略，除繼續處理市民投訴外，署方人員主動出擊，以「洗樓」形式重點跟進各區約300個冷氣機滴水地點，亦鎖定30個對市民造成較大滋擾的黑點，包括巴士站、小巴站及行人通道等，展開每星期最少一次的執法行動。因應滴水問題多在夜間及清晨出現，署方亦調整調查人手分配，由以往日間七成、夜間三成，改為日間三成、夜間七成。
-
-食環署亦積極應用創新科技，與創新科技署轄下的物流及供應鏈多元技術研發中心合作研發冷氣機滴水調查系統。該系統配備紅外線夜視錄像功能，能在夜間或低光環境下快速鎖定滴水源頭，偵測範圍達120米，足以覆蓋約40層高的大廈，大幅縮短調查取證時間，成效顯著。
-
-此外，食環署與各界協作加強宣傳教育，包括與區議員、地區團體、大廈業主立案法團及物管公司派發宣傳單張和海報、在巴士站張貼宣傳海報，並透過社交媒體、電台及電視台等發布專題短片，呼籲市民定期檢查冷氣機，及早處理滴水問題，以免造成滋擾。
-
-發言人強調，物管公司在地區層面扮演關鍵角色。食環署與物業管理業監管局共同制定「處理冷氣機滴水問題」良好作業指南，為持牌物管公司及人員提供相關指引。此外，物管公司熟悉屋苑情況並與居民熟稔，能有效處理屋苑內的冷氣機滴水問題。因此，食環署在私人屋苑推行計劃，邀請物管公司在夏季（五月至十一月）協助處理冷氣機滴水投訴。現時有290多個私人屋苑的物管公司參與計劃，過去三年平均每年完成跟進和處理五千多宗冷氣機滴水投訴個案。
-
-為嘉許積極參與計劃的物管公司，以及協助推行行動策略的大廈業主立案法團和地區團體，食環署今日舉行頒獎典禮，感謝他們的努力。
-
-發言人說：「物管公司、大廈業主立案法團、區議員和地區團體在處理冷氣機滴水以至其他環境衞生事宜上均擔當重要角色，食環署期待與他們繼續加強合作，為市民營造更理想的居住環境。」
-
-食環署呼籲市民定期檢查冷氣機，如發現滴水問題應盡快處理。更多資訊可參閱食環署網頁上的小冊子（www.fehd.gov.hk/english/pleasant_environment/library/aircon/Pamphlet_water_dripping_from_air_conditioner.pdf）。"
 食安中心繼續跟進個別批次嬰幼兒配方奶粉可能存在源自微生物蠟樣芽孢桿菌的物質,2026-02-02 20:15,2026-02-02 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200771.htm,"食物環境衞生署（食環署）食物安全中心（食安中心）繼續積極跟進早前在全球不同地區因為個別批次的嬰幼兒配方奶粉可能存在源自微生物蠟樣芽孢桿菌（Bacillus cereus）的物質而預防性回收的事件。食安中心今日（二月二日）表示，經持續跟進調查，有五個樣本今日被檢出微量蠟樣芽孢桿菌的耐熱毒素（Cereulide），當中每公斤食物含介乎0.2至1.3微克的蠟樣芽孢桿菌的耐熱毒素。上述五個檢測樣本均屬於早前已被回收、現時市面上再沒有供應的22個批次內的批次。
 
 上述三個已回收批次的產品資料如下：
@@ -518,6 +501,25 @@ WhatsApp：5283 4139（雀巢®️能恩®️）／2599 8871（惠氏®️營養
 發言人呼籲市民不要讓嬰幼兒食用事涉22個受影響批次的產品，如發覺嬰幼兒食用有關產品後不適，應盡快求醫。業界亦應立即停止使用或出售受影響批次產品。
 
 食安中心已成立專題網站（www.cfs.gov.hk/tc_chi/whatsnew/powdered_formula/index.html），方便市民瀏覽和獲取更多資訊。"
+食環署頒獎典禮表揚協助處理冷氣機滴水的物管公司、大廈業主立案法團和地區團體（附圖）,2026-02-02 20:15,2026-02-02 21:00,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200760.htm,"食物環境衞生署（食環署）今日（二月二日）舉行「2025《協助處理冷氣機滴水》頒獎典禮」，以表揚及感謝積極參與物業管理公司協助處理冷氣機滴水事故計劃的物業管理公司、大廈業主立案法團和地區團體過去一年的努力和貢獻。是次活動亦響應署方宣傳口號「冷氣滴水處理好社區和諧無煩惱」，鼓勵更多團體與市民攜手關注並妥善處理冷氣機滴水問題，共同改善社區環境。
+
+食環署發言人表示，署方持續以多管齊下方式打擊冷氣機滴水問題，去年夏季在全港各區加強巡查及執管，並結合宣傳教育、創新科技應用及行動策略調整，取得一定成效。
+
+發言人說：「食環署二○二五年累計已處理約8 600部冷氣機的滴水問題，較二○二三年多出約三倍，與二○二四年比較亦增加超過三成。當中，在署方鎖定的黑點，冷氣機滴水問題有顯著改善。」
+
+食環署去年採取全新行動策略，除繼續處理市民投訴外，署方人員主動出擊，以「洗樓」形式重點跟進各區約300個冷氣機滴水地點，亦鎖定30個對市民造成較大滋擾的黑點，包括巴士站、小巴站及行人通道等，展開每星期最少一次的執法行動。因應滴水問題多在夜間及清晨出現，署方亦調整調查人手分配，由以往日間七成、夜間三成，改為日間三成、夜間七成。
+
+食環署亦積極應用創新科技，與創新科技署轄下的物流及供應鏈多元技術研發中心合作研發冷氣機滴水調查系統。該系統配備紅外線夜視錄像功能，能在夜間或低光環境下快速鎖定滴水源頭，偵測範圍達120米，足以覆蓋約40層高的大廈，大幅縮短調查取證時間，成效顯著。
+
+此外，食環署與各界協作加強宣傳教育，包括與區議員、地區團體、大廈業主立案法團及物管公司派發宣傳單張和海報、在巴士站張貼宣傳海報，並透過社交媒體、電台及電視台等發布專題短片，呼籲市民定期檢查冷氣機，及早處理滴水問題，以免造成滋擾。
+
+發言人強調，物管公司在地區層面扮演關鍵角色。食環署與物業管理業監管局共同制定「處理冷氣機滴水問題」良好作業指南，為持牌物管公司及人員提供相關指引。此外，物管公司熟悉屋苑情況並與居民熟稔，能有效處理屋苑內的冷氣機滴水問題。因此，食環署在私人屋苑推行計劃，邀請物管公司在夏季（五月至十一月）協助處理冷氣機滴水投訴。現時有290多個私人屋苑的物管公司參與計劃，過去三年平均每年完成跟進和處理五千多宗冷氣機滴水投訴個案。
+
+為嘉許積極參與計劃的物管公司，以及協助推行行動策略的大廈業主立案法團和地區團體，食環署今日舉行頒獎典禮，感謝他們的努力。
+
+發言人說：「物管公司、大廈業主立案法團、區議員和地區團體在處理冷氣機滴水以至其他環境衞生事宜上均擔當重要角色，食環署期待與他們繼續加強合作，為市民營造更理想的居住環境。」
+
+食環署呼籲市民定期檢查冷氣機，如發現滴水問題應盡快處理。更多資訊可參閱食環署網頁上的小冊子（www.fehd.gov.hk/english/pleasant_environment/library/aircon/Pamphlet_water_dripping_from_air_conditioner.pdf）。"
 "FEHD holds awards ceremony to commend property management agents, owners' corporations and district organisations for assisting in tackling dripping air conditioners (with photos)",2026-02-02 20:15,2026-02-02 21:00,Eng,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200763.htm,"The Food and Environmental Hygiene Department (FEHD) today (February 2) held the Awards Ceremony for Tackling Dripping Air-conditioners 2025 to commend and express gratitude to property management agents (PMAs), owners' corporations and district organisations for their dedicated efforts and contributions over the past year through active participation in the Scheme of Participation by Property Management Agents in Tackling Dripping Air-conditioners. The ceremony also echoed the department's slogan, ""Fix Air-con Drips, Harmony Comes Without Gripe"", encouraging more organisations and citizens to join hands in paying attention to and properly addressing dripping air conditioner issues, so as to improve the community environment together.
 
 A spokesman for the FEHD said the department has been adopting a multipronged approach to tackle dripping air conditioner issues. The FEHD stepped up inspections and enforcement across districts in Hong Kong last summer. By combining publicity and education, the application of innovative technology and adjustments to operational strategies, the measures have achieved notable results.
@@ -781,16 +783,16 @@ Customs welcomes the sentence, noting that even a first-time offender may still 
 Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
 
 Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-承建商因違反安全法例被判罰款,2026-02-02 17:28,2026-02-02 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200632.htm,"聯力建築有限公司及利貴灃工程有限公司被勞工處檢控，今日（二月二日）在觀塘裁判法院分別被判罰款二萬六千元及十萬零二千元。
-
-聯力違反《建築地盤（安全）規例》的規定；利貴灃則違反《建築地盤（安全）規例》及《工廠及工業經營條例》的規定。
-
-案情涉及一宗於二○二三年十二月八日在油塘一建築地盤發生的致命意外。一名工人進行搭建臨時金屬結構工作時，從高處墮下至地面，工人昏迷並於翌日離世。"
 Contractors fined for violation of safety legislation,2026-02-02 17:28,2026-02-02 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200631.htm,"  Unistress Building Construction Limited and Lei Gwai Fung Engineering Co., Limited were fined $26,000 and $102,000 respectively at the Kwun Tong Magistrates' Courts today (February 2). The prosecutions were launched by the Labour Department.
   
   Unistress violated the Construction Sites (Safety) Regulations (CSSR), whereas Lei Gwai Fung violated the CSSR and the Factories and Industrial Undertakings Ordinance.
   
   The case involved a fatal accident that occurred on December 8, 2023, at a construction site in Yau Tong. While carrying out erection work of a temporary metal structure, a worker fell from height onto the ground. The worker was unconscious and passed away the next day."
+承建商因違反安全法例被判罰款,2026-02-02 17:28,2026-02-02 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200632.htm,"聯力建築有限公司及利貴灃工程有限公司被勞工處檢控，今日（二月二日）在觀塘裁判法院分別被判罰款二萬六千元及十萬零二千元。
+
+聯力違反《建築地盤（安全）規例》的規定；利貴灃則違反《建築地盤（安全）規例》及《工廠及工業經營條例》的規定。
+
+案情涉及一宗於二○二三年十二月八日在油塘一建築地盤發生的致命意外。一名工人進行搭建臨時金屬結構工作時，從高處墮下至地面，工人昏迷並於翌日離世。"
 房屋局批出兩份「簡約公屋」項目營運及管理服務合約（附圖）,2026-02-02 17:27,2026-02-02 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200483.htm,"房屋局今日（二月二日）將第七及第八份「簡約公屋」項目營運及管理服務合約（合約編號LPH20250005和LPH20250006），批予創毅物業服務顧問有限公司——博愛醫院聯營，中標價分別約為二億零六十萬元和一億五千九百七十萬元。
 
 第七及第八份合約涵蓋啟德世運道簡約公屋（第2A期）及（第2B期）項目，分別提供約4 500及約3 250個單位。總數共約7 750個單位，預計今年第三季均可全部陸續落成入伙。
@@ -1027,25 +1029,6 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 ​The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD.
 
 Additionally, as smokers and alcoholics are more susceptible to LD, the Government urgesmembers of the public to quit smoking and avoid drinking. Members of the public may call the DH Integrated Smoking Cessation Hotline at 1833 183, which is answered by registered nurses who provide professional counselling and referral to a wide range of free smoking cessation services. The public may also visit the smoking cessation thematic website (www.livetobaccofree.hk) for more information on smoking cessation. The DH has also launched the Pilot Alcohol Cessation Counselling Service, which provides free counselling to people identified as having probable alcohol dependence, through a subvented non-governmental organisation, the Tung Wah Group of Hospitals (TWGHs). Information on the service has been uploaded to the DH'sChange for Healthwebsite. Eligible persons who are interested can call the enquiry hotline of the TWGHs (2884 9876)."
-二○二五年第四季中小企貸款狀況調查,2026-02-02 16:30,2026-02-02 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200577.htm,"下稿代香港金融管理局發出︰
-
-香港金融管理局（金管局）今日（二月二日）公布二○二五年第四季「中小企貸款狀況調查」結果。調查顯示，中小企信貸狀況大致保持穩定。
-
-關於中小企對銀行貸款批核取態（即難易程度）的觀感，撇除回答「沒意見／不知道」的受訪者，70%認為銀行在二○二五年第四季貸款批核的取態與六個月前相比「沒有分別」或「較容易」，高於前一季的59%（附件圖1）。30%認為銀行的有關取態「較困難」，而上一季度則為41%。貸款較困難的觀感並不一定反映中小企在借貸上遇到實質困難，而是可以受多項因素（如媒體／新聞報道、生意經營狀況及親友的意見等）所影響。
-
-在已獲批貸款的受訪者中，1%表示銀行對其貸款的取態有所「收緊」，較前一季的3%下降（附件圖2）。在本調查中，貸款收緊的含義包括各種可能，例如降低備用信貸額和貸款額、信貸利率上升、增加抵押品要求或縮短貸款年期等。因此，受訪者表示銀行對其貸款的取態並不直接反映銀行實際對中小企的貸款投放。
-
-調查亦收集有關中小企新貸款申請的結果。2%受訪者表示曾於二○二五年第四季向銀行申請新貸款。在已知申請結果的受訪者中，表示申請完全成功或部分成功的受訪者佔77%，高於前一季的72%（附件圖3）。
-
-由於季內有已獲批貸款的中小企及有申請新貸款的中小企數目較少，分別僅佔受訪中小企的14%及2%，調查結果容易出現較大波動，詮釋時需要注意。
-
-關於「中小企貸款狀況調查」
-
-鑑於中小企對香港經濟的重要性，以及過去幾年中小企可能面對融資困難，金管局委託香港生產力促進局由二○一六年第三季起進行是項調查。調查按季進行，每次涵蓋約2 500間不同行業的中小企。調查結果有助從需求角度了解中小企獲得銀行貸款的狀況。
-
-讀者需要小心詮釋調查結果。正如其他意見調查一樣，調查期間可能會出現特殊事件影響到受訪者的觀感，令調查結果變得波動。讀者在詮釋調查結果時應同時參考其他經濟及金融資訊。此外，收集所得意見僅反映受訪者對不同季度之間預期變動的趨勢（例如「收緊」、「沒有改變」或「放寬」），而並非具體變動的幅度。
-
-本調查詳細列表及技術資料，載於香港生產力促進局網站（smecc.hkpc.org）。"
 Survey on Small and Medium-Sized Enterprises' Credit Conditions for fourth quarter 2025,2026-02-02 16:30,2026-02-02 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200576.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
   The Hong Kong Monetary Authority (HKMA) published today (February 2) the results of the Survey on Small and Medium-Sized Enterprises (SMEs)' Credit Conditions for the fourth quarter of 2025. According to the survey, SMEs' credit conditions remained broadly stable.
@@ -1065,6 +1048,25 @@ About Survey on SMEs' Credit Conditions
   The results of this survey should be interpreted with caution. Similar to other opinion surveys, views collected in this survey may be affected by changes in sentiment due to idiosyncratic events that occurred over the survey period, which can make the results prone to fluctuations. Readers are advised to interpret the results together with other economic and financial information. In addition, views collected are limited to the expected direction of inter-quarter changes (e.g. ""tighter"", ""no change"" or ""easier"") without providing information about the magnitude of these changes.
 
   Detailed tables and technical information of this survey are published on the website of the HKPC (smecc.hkpc.org)."
+二○二五年第四季中小企貸款狀況調查,2026-02-02 16:30,2026-02-02 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200577.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）今日（二月二日）公布二○二五年第四季「中小企貸款狀況調查」結果。調查顯示，中小企信貸狀況大致保持穩定。
+
+關於中小企對銀行貸款批核取態（即難易程度）的觀感，撇除回答「沒意見／不知道」的受訪者，70%認為銀行在二○二五年第四季貸款批核的取態與六個月前相比「沒有分別」或「較容易」，高於前一季的59%（附件圖1）。30%認為銀行的有關取態「較困難」，而上一季度則為41%。貸款較困難的觀感並不一定反映中小企在借貸上遇到實質困難，而是可以受多項因素（如媒體／新聞報道、生意經營狀況及親友的意見等）所影響。
+
+在已獲批貸款的受訪者中，1%表示銀行對其貸款的取態有所「收緊」，較前一季的3%下降（附件圖2）。在本調查中，貸款收緊的含義包括各種可能，例如降低備用信貸額和貸款額、信貸利率上升、增加抵押品要求或縮短貸款年期等。因此，受訪者表示銀行對其貸款的取態並不直接反映銀行實際對中小企的貸款投放。
+
+調查亦收集有關中小企新貸款申請的結果。2%受訪者表示曾於二○二五年第四季向銀行申請新貸款。在已知申請結果的受訪者中，表示申請完全成功或部分成功的受訪者佔77%，高於前一季的72%（附件圖3）。
+
+由於季內有已獲批貸款的中小企及有申請新貸款的中小企數目較少，分別僅佔受訪中小企的14%及2%，調查結果容易出現較大波動，詮釋時需要注意。
+
+關於「中小企貸款狀況調查」
+
+鑑於中小企對香港經濟的重要性，以及過去幾年中小企可能面對融資困難，金管局委託香港生產力促進局由二○一六年第三季起進行是項調查。調查按季進行，每次涵蓋約2 500間不同行業的中小企。調查結果有助從需求角度了解中小企獲得銀行貸款的狀況。
+
+讀者需要小心詮釋調查結果。正如其他意見調查一樣，調查期間可能會出現特殊事件影響到受訪者的觀感，令調查結果變得波動。讀者在詮釋調查結果時應同時參考其他經濟及金融資訊。此外，收集所得意見僅反映受訪者對不同季度之間預期變動的趨勢（例如「收緊」、「沒有改變」或「放寬」），而並非具體變動的幅度。
+
+本調查詳細列表及技術資料，載於香港生產力促進局網站（smecc.hkpc.org）。"
 文化體育及旅遊局局長出席米蘭科爾蒂納2026冬季奧運會中國香港代表團授旗典禮致辭全文（只有中文）,2026-02-02 16:17,2026-02-02 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200561.htm,"以下是文化體育及旅遊局（文體旅局）局長羅淑佩今日（二月二日）出席米蘭科爾蒂納2026冬季奧運會中國香港代表團授旗典禮的致辭全文：
 
 Consul General（意大利駐香港及澳門總領事Carmelo Ficarra）、Edgar（中國香港體育協會暨奧林匹克委員會義務秘書長楊祖賜）、寶基（2026冬季奧運會中國香港代表團團長黃寶基）、各位嘉賓、各位運動員、各位朋友：
@@ -1078,25 +1080,3 @@ Consul General（意大利駐香港及澳門總領事Carmelo Ficarra）、Edgar�
 特區政府一直以來持續投入資源，為運動員提供全面支援，助力大家專心訓練，爭取好成績。在二○二五至二六年度，政府透過精英運動員發展基金向香港體育學院撥款超過10億元，支持精英運動發展。中國香港運動員也不負眾望，佳績頻傳，令香港市民引以為傲。
 
 今日大會授予中國香港代表隊這面區旗，承載着我們對運動員爭勝的渴望和夢想，也盛載廣大市民對你們的期望和祝福。我祝願中國香港代表團發揮出色，贏取佳績。謝謝大家。"
-Inspection of aquatic products imported from Japan,2026-02-02 16:12,2026-02-02 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200584.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
-
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
-
-  From noon on January 30 to noon today (February 2), the CFS conducted tests on the radiological levels of 362 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
-
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 150 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
-
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
-
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 201 020 samples of food imported from Japan (including 128 966 samples of aquatic and related products, seaweeds and sea salt) and 44 372 samples of local catch respectively. All the samples passed the tests."
-日本進口水產的檢測情況,2026-02-02 16:12,2026-02-02 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202602/02/P2026020200578.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由一月三十日中午截至今日（二月二日）中午，食安中心已對362個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對150個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共201 020個日本進口食物樣本（包括128 966個水產及其製品、海藻及海鹽樣本）及共44 372個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
