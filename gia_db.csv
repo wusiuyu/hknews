@@ -1,4 +1,92 @@
 title,date,scrape_time,section,source,url,news_content
+與銀行有關的騙案通知,2026-03-06 18:00,2026-03-06 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600588.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
+
+
+
+
+銀行
+騙案類別
+
+
+東亞銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+上海商業銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+創興銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+華僑銀行（香港）有限公司
+欺詐網站及網上銀行登入畫面
+
+
+集友銀行有限公司
+欺詐網站及網上銀行登入畫面
+
+
+
+
+金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
+
+任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
+Fraudulent websites related to Mastercard,2026-03-06 18:00,2026-03-06 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600579.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to a press release issued by Mastercard relating to a fraudulent website, which has been reported to the HKMA.
+
+The fraudulent website reported by the retail payment system (RPS) operator known at the time is as follows:
+hxxps[:]//mastercard[.]hk-priceless[.]icu/hk
+
+The HKMA wishes to remind the public that anyone who has provided his or her personal information or account credentials, or who has conducted any financial transactions, through or in response to the website concerned, should contact the relevant RPS operator, and report to the Police or contact the Anti-Deception Coordination Centre of the Police at 18222."
+有關Mastercard的欺詐網站,2026-03-06 18:00,2026-03-06 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600581.htm,"下稿代香港金融管理局發出︰
+
+香港金融管理局（金管局）呼籲市民提高警覺，留意一個由Mastercard所發出關於欺詐網站的新聞稿。有關零售支付系統營運者已向金管局匯報事件。
+
+已知涉及該零售支付系統營運者匯報的欺詐網站如下：
+hxxps[:]//mastercard[.]hk-priceless[.]icu/hk
+
+金管局提醒公眾，任何人士若曾向該網站提供其個人或戶口資料，或曾透過該網站進行任何交易，應聯絡有關系統營運者，並向警方報案，或聯絡警方的反詐騙協調中心（電話號碼：18222）。"
+Scam alert related to banks,2026-03-06 18:00,2026-03-06 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600584.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press releases issued by the banks listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which have been reported to the HKMA. Hyperlinks to the press releases are available on theHKMA website.
+
+
+
+
+Bank
+Type of scam
+
+
+The Bank of East Asia, Limited
+Fraudulent websites and internet banking login screens
+
+
+Shanghai Commercial Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+Chong Hing Bank Limited
+Fraudulent websites and internet banking login screens
+
+
+OCBC Bank (Hong Kong) Limited
+Fraudulent websites and internet banking login screens
+
+
+Chiyu Banking Corporation Limited
+Fraudulent websites and internet banking login screens
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 衞生防護中心正調查今年首宗本地麻疹個案,2026-03-06 17:45,2026-03-06 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600573.htm,"​衞生署衞生防護中心（中心）今日（三月六日）表示，正調查一宗本地麻疹個案，並提醒市民接種疫苗是預防麻疹的最有效方法。
 
 個案涉及一名32歲女子，她於二月二十八日起出現發燒、喉嚨痛、咳嗽、眼睛發紅及皮疹，於三月四日到私家診所求醫，隨即被轉介瑪嘉烈醫院急症室，需留院接受治療。她的臨床樣本證實對麻疹病毒核酸檢測呈陽性反應。病人現時正接受隔離治療，情況穩定。
@@ -28,46 +116,6 @@ title,date,scrape_time,section,source,url,news_content
 •病患者在出疹後的四日內不應上學，避免將疾病傳染給未有免疫力的人。
 
 市民如欲索取更多關於麻疹的資料，可瀏覽衞生防護中心麻疹專頁。準備出遊的市民亦可參考衞生署旅遊健康服務網，了解香港以外地方的麻疹疫情消息。"
-"Update on mosquito-borne diseases, dengue fever and chikungunya fever",2026-03-06 17:30,2026-03-06 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600342.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (March 6) reported the latest situation of dengue fever (DF) and chikungunya fever (CF). The Controller of the CHP, Dr Edwin Tsui, reminds the public that temperatures in subtropical and some temperate regions (including neighbouring Southeast Asian countries) remain favourable for mosquito breeding. When travelling to areas affected by mosquito-borne diseases, the public should take measures to prevent mosquito bites, including wearing loose, light-coloured, long-sleeved tops and trousers and applying insect repellent containing DEET to clothing or exposed parts of the body.
-
-Dengue fever
-----------------
-
-  From February 27 to yesterday (March 5), the CHP recorded one imported DF case. The patient had travelled to Indonesia during the incubation period.
-
-  As of yesterday, nine imported DF cases have been recorded so far this year. A total of 59 DF cases were recorded last year (2025), all of which were imported cases.
-
-  According to the World Health Organization (WHO), the global incidence of DF has markedly increased over the past two decades, posing a substantial public health challenge. In 2024, the WHO recorded over 14 million cases, which was a record number. From January to July 2025, over 4 million cases and over 3 000 DF-related deaths were reported in 97 countries/territories.
-
-  DF is prevalent in many neighbouring tourist destinations. In 2025, Indonesia, India and Vietnam each recorded over 120 000 cases; Malaysia and Thailand each recorded over 50 000 cases; and Singapore recorded over 4 000 cases.Meanwhile, the Guangdong Provincial Center for Disease Control and Prevention recorded over 3 500 locally infected cases in Guangdong Province in 2025.
-
-  Detailed information on the latest DF situation in Hong Kong, as well as neighbouring and overseas countries and areas, has been uploaded to the CHP'swebsite.
-
-Chikungunya fever
------------------------
-
-  From February 27 to yesterday, no new cases of CF had been recorded. Hong Kong has recorded two confirmed CF cases so far this year, all of which were imported cases. Hong Kong has recorded a total of 82 confirmed CF cases last year. Among them, 11 were local cases, and the rest were imported cases.
-
-  Since the beginning of 2025, and as of December 10, 2025, a total of 502 264 CF cases and 186 CF-related deaths have been reported in over 40 countries/territories. Cases have been reported in the Americas, Africa, Asia, and Europe. Although the northern hemisphere has entered the winter season, temperatures in subtropical and some temperate regions remain elevated due to climate change, creating favourable conditions for mosquito breeding. In addition, CF outbreaks continue to occur in many countries worldwide. The risk of imported cases persists. Members of the public should check the situation of the destinations before travelling abroad, especially when travelling to Southeast Asian countries.
-
-Preventive measures to be taken by the public
-----------------------------------------------------
-
-  Members of the public should use DEET-containing insect repellents or other effective active ingredients properly to prevent mosquito bites, but the following precautions should be taken when using them:
-
-
-read the label instructions carefully first;
-apply right before entering an area with a risk of mosquito bites;
-apply on exposed skin and clothing;
-use DEET of up to 30 per cent for pregnant women and up to 10 per cent for children (for children who travel to countries or areas where mosquito-borne diseases are endemic or epidemic and where exposure is likely, those aged 2 months or above can use DEET-containing insect repellents with a DEET concentration of up to 30 per cent);
-apply sunscreen first, then insect repellent;
-reapply only when needed and follow the instructions; and
-in addition to DEET, there are other insect repellents available on the market containing different active ingredients, such as IR3535 and picaridin. When using any insect repellent, the public should follow the usage instructions and precautions on the product label.
-
-
-  The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as empty cans and lunch boxes. The FEHD also advises members of the public and property management agencies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
-
-  ​The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
 蚊傳疾病登革熱和基孔肯雅熱的最新情況,2026-03-06 17:30,2026-03-06 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600340.htm,"衞生署衞生防護中心（中心）今日（三月六日）公布登革熱和基孔肯雅熱的最新情況。中心總監徐樂堅醫生提醒市民，亞熱帶及部分溫帶地區（包括鄰近東南亞國家）的氣溫仍然適合蚊媒滋生，市民前往受蚊傳疾病影響的地區，應採取措施防止被蚊叮咬，包括穿着寬鬆、淺色的長袖上衣及長褲，並於外露的皮膚及衣服塗上含避蚊胺成分的昆蟲驅避劑。
 
 登革熱
@@ -108,19 +156,46 @@ in addition to DEET, there are other insect repellents available on the market c
 ​食環署亦呼籲市民繼續提高警覺及攜手合作，及早於家居及其他環境採取防蚊及滅蚊措施，包括視察家居及附近環境、徹底清除可供蚊子滋生的地方、每周最少一次徹底更換花瓶的水及擦洗內壁並清倒盆栽墊碟的水、妥善棄置空罐和飯盒等容器。此外，食環署亦建議市民和物業管理公司，應保持溝渠暢通及填平凹陷的地面，以防積水，並每周最少一次以鹼性清潔劑擦洗溝渠和排水明渠，除去可能積聚的蚊卵。
 
 市民如發現蚊患，應致電1823，亦可參閱以下專題網頁，了解詳情：衞生防護中心及旅遊健康服務基孔肯雅熱專頁、最新旅遊情報、使用昆蟲驅避劑的注意事項、中心Facebook專頁、Instagram帳戶及YouTube頻道，以及食環署防控蚊患專頁。​"
-10 persons arrested during anti-illegal worker operations (with photo),2026-03-06 17:15,2026-03-06 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600546.htm,"  The Immigration Department (ImmD) mounted a series of territory-wide anti-illegal worker operations codenamed ""Lightshadow"", ""Twilight"", ""Fastrack""; a joint operation with the Hong Kong Police Force codenamed ""Windsand""; a joint operation with the Hong Kong Police Force, the Food and Environmental Hygiene Department and the Home Affairs Department; and a joint operation with Hong Kong Customs, the Hong Kong Police Force, the Food and Environmental Hygiene Department and the Leisure and Cultural Services Department from February 27 to yesterday (March 5).
+"Update on mosquito-borne diseases, dengue fever and chikungunya fever",2026-03-06 17:30,2026-03-06 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600342.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (March 6) reported the latest situation of dengue fever (DF) and chikungunya fever (CF). The Controller of the CHP, Dr Edwin Tsui, reminds the public that temperatures in subtropical and some temperate regions (including neighbouring Southeast Asian countries) remain favourable for mosquito breeding. When travelling to areas affected by mosquito-borne diseases, the public should take measures to prevent mosquito bites, including wearing loose, light-coloured, long-sleeved tops and trousers and applying insect repellent containing DEET to clothing or exposed parts of the body.
 
-  During the anti-illegal worker operations, investigators raided multiple target locations including restaurants, massage parlours and a logistics company. Nine suspected illegal workers and one suspected employer were arrested. The arrested suspected illegal workers comprised four men and five women, aged 22 to 50. One woman aged 50 was suspected of employing the illegal workers and was also arrested. An investigation into the suspected employers is ongoing, and the possibility of further arrests is not ruled out.
+Dengue fever
+----------------
 
-  An ImmD spokesman said, ""Any person who contravenes a condition of stay in force in respect of him or her shall be guilty of an offence. Also, visitors are not allowed to take employment in Hong Kong, whether paid or unpaid, without the permission of the Director of Immigration. Offenders are liable to prosecution and upon conviction face a maximum fine of $50,000 and up to two years' imprisonment. Aiders and abettors are also liable to prosecution and penalties.""
+  From February 27 to yesterday (March 5), the CHP recorded one imported DF case. The patient had travelled to Indonesia during the incubation period.
 
-  The spokesman stressed that it is a serious offence to employ people who are not lawfully employable. Under the Immigration Ordinance, the maximum penalty for an employer employing a person who is not lawfully employable, i.e. an illegal immigrant, a person who is the subject of a removal order or a deportation order, an overstayer or a person who was refused permission to land, has been significantly increased from a fine of $350,000 and three years' imprisonment to a fine of $500,000 and 10 years' imprisonment to reflect the gravity of such offences. The director, manager, secretary, partner, etc, of the company concerned may also bear criminal liability. The High Court has laid down sentencing guidelines that the employer of an illegal worker should be given an immediate custodial sentence.
+  As of yesterday, nine imported DF cases have been recorded so far this year. A total of 59 DF cases were recorded last year (2025), all of which were imported cases.
 
-  According to the court sentencing, employers must take all practicable steps to determine whether a person is lawfully employable prior to employment. Apart from inspecting a prospective employee's identity card, the employer has the explicit duty to make enquiries regarding the person and ensure that the answers would not cast any reasonable doubt concerning the lawful employability of the person. The court will not accept failure to do so as a defence in proceedings. It is also an offence if an employer fails to inspect the job seeker's valid travel document if the job seeker does not have a Hong Kong permanent identity card. Offenders are liable upon conviction to a maximum fine of $150,000 and to imprisonment for one year. In that connection, the spokesman would like to remind all employers not to defy the law by employing illegal workers. The ImmD will continue to take resolute enforcement action to combat such offences.
+  According to the World Health Organization (WHO), the global incidence of DF has markedly increased over the past two decades, posing a substantial public health challenge. In 2024, the WHO recorded over 14 million cases, which was a record number. From January to July 2025, over 4 million cases and over 3 000 DF-related deaths were reported in 97 countries/territories.
 
-  Under the existing mechanism, the ImmD will, as a standard procedure, conduct an initial screening of vulnerable persons, including illegal workers, illegal immigrants, sex workers and foreign domestic helpers, who are arrested during any operation with a view to ascertaining whether they are trafficking in persons (TIP) and/or forced labour victims. When any TIP and/or forced labour indicator is revealed in the initial screening, the ImmD officers will conduct a full debriefing and identification by using a standardised checklist to ascertain the presence of TIP and/or forced labour elements. Identified TIP and/or forced labour victims will be provided with various forms of support and assistance, including urgent intervention, medical services, counselling, shelter or temporary accommodation and other supporting services. The ImmD calls on TIP and/or forced labour victims to report crimes to the relevant departments immediately.
+  DF is prevalent in many neighbouring tourist destinations. In 2025, Indonesia, India and Vietnam each recorded over 120 000 cases; Malaysia and Thailand each recorded over 50 000 cases; and Singapore recorded over 4 000 cases.Meanwhile, the Guangdong Provincial Center for Disease Control and Prevention recorded over 3 500 locally infected cases in Guangdong Province in 2025.
 
-  For reporting illegal employment activities, please call the dedicated hotline 3861 5000, by fax at 2824 1166, email to anti_crime@immd.gov.hk, or submit ""Online Reporting of Immigration Offences"" form at www.immd.gov.hk."
+  Detailed information on the latest DF situation in Hong Kong, as well as neighbouring and overseas countries and areas, has been uploaded to the CHP'swebsite.
+
+Chikungunya fever
+-----------------------
+
+  From February 27 to yesterday, no new cases of CF had been recorded. Hong Kong has recorded two confirmed CF cases so far this year, all of which were imported cases. Hong Kong has recorded a total of 82 confirmed CF cases last year. Among them, 11 were local cases, and the rest were imported cases.
+
+  Since the beginning of 2025, and as of December 10, 2025, a total of 502 264 CF cases and 186 CF-related deaths have been reported in over 40 countries/territories. Cases have been reported in the Americas, Africa, Asia, and Europe. Although the northern hemisphere has entered the winter season, temperatures in subtropical and some temperate regions remain elevated due to climate change, creating favourable conditions for mosquito breeding. In addition, CF outbreaks continue to occur in many countries worldwide. The risk of imported cases persists. Members of the public should check the situation of the destinations before travelling abroad, especially when travelling to Southeast Asian countries.
+
+Preventive measures to be taken by the public
+----------------------------------------------------
+
+  Members of the public should use DEET-containing insect repellents or other effective active ingredients properly to prevent mosquito bites, but the following precautions should be taken when using them:
+
+
+read the label instructions carefully first;
+apply right before entering an area with a risk of mosquito bites;
+apply on exposed skin and clothing;
+use DEET of up to 30 per cent for pregnant women and up to 10 per cent for children (for children who travel to countries or areas where mosquito-borne diseases are endemic or epidemic and where exposure is likely, those aged 2 months or above can use DEET-containing insect repellents with a DEET concentration of up to 30 per cent);
+apply sunscreen first, then insect repellent;
+reapply only when needed and follow the instructions; and
+in addition to DEET, there are other insect repellents available on the market containing different active ingredients, such as IR3535 and picaridin. When using any insect repellent, the public should follow the usage instructions and precautions on the product label.
+
+
+  The FEHD also appeals to members of the public to continue to stay alert and work together to carry out mosquito prevention and control measures early, including inspecting their homes and surroundings to remove potential breeding grounds, changing water in vases and scrubbing their inner surfaces, removing water in saucers under potted plants at least once a week, and properly disposing of containers such as empty cans and lunch boxes. The FEHD also advises members of the public and property management agencies to keep drains free of blockage and level all defective ground surfaces to prevent the accumulation of water. They should also scrub all drains and surface sewers with an alkaline detergent at least once a week to remove any mosquito eggs.
+
+  ​The public should call 1823 in case of mosquito problems, and may visit the following pages for more information: the CF page of theCHPand theTravel Health Service, the latestTravel Health News,tips for using insect repellents, and the CHPFacebook Page,Instagram AccountandYouTube Channel, and also theMosquito Prevention and Control dedicated pageof the FEHD."
 反非法勞工行動拘十人（附圖）,2026-03-06 17:15,2026-03-06 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600542.htm,"入境事務處（入境處）於二月二十七日至昨日（三月五日）在全港多區展開反非法勞工行動，包括「光影行動」、「曙光行動」、「捷足行動」、聯同香港警務處執行的「風沙行動」、聯同香港警務處、食物環境衛生署和民政事務總署執行的聯合行動以及聯同香港海關、香港警務處、食物環境衞生署和康樂及文化事務署執行的聯合行動。
 
 行動中，調查人員搜查了多個目標地點，包括食肆、按摩店及物流公司等，共拘捕九名懷疑非法勞工及一名涉嫌聘用非法勞工的僱主。被捕的懷疑非法勞工為四男五女，年齡介乎二十二至五十歲。因涉嫌聘用非法勞工被捕的僱主為一名女子，年齡為五十歲。有關涉嫌聘用上述非法勞工的僱主的調查仍然在進行中，不排除有更多人被捕。
@@ -134,6 +209,19 @@ in addition to DEET, there are other insect repellents available on the market c
 入境處會根據現行機制的標準程序以審核及識別販運人口及／或強迫勞動受害人，對所有行動中被捕的容易受剝削人士（包括非法勞工、非法入境者、性工作者及外籍家庭傭工）進行初步審核。如初步審核結果顯示有任何販運人口及／或強迫勞動指標出現，入境處人員會依據一份標準核對清單再作全面調查及識別程序，以確定當中是否有販運人口及／或強迫勞動的元素。被識別的販運人口及／或強迫勞動受害人會獲提供各項支援和協助，包括緊急介入、診症和治療、輔導、收容或臨時住宿及其他支援服務。入境處呼籲販運人口及／或強迫勞動受害人應立即向有關部門舉報有關罪行。
 
 市民可使用舉報非法勞工專線3861 5000、傳真2824 1166、電郵anti_crime@immd.gov.hk、或登入入境處網址www.immd.gov.hk利用「網上舉報違反入境條例罪行」表格向入境處舉報僱用非法勞工活動。"
+10 persons arrested during anti-illegal worker operations (with photo),2026-03-06 17:15,2026-03-06 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600546.htm,"  The Immigration Department (ImmD) mounted a series of territory-wide anti-illegal worker operations codenamed ""Lightshadow"", ""Twilight"", ""Fastrack""; a joint operation with the Hong Kong Police Force codenamed ""Windsand""; a joint operation with the Hong Kong Police Force, the Food and Environmental Hygiene Department and the Home Affairs Department; and a joint operation with Hong Kong Customs, the Hong Kong Police Force, the Food and Environmental Hygiene Department and the Leisure and Cultural Services Department from February 27 to yesterday (March 5).
+
+  During the anti-illegal worker operations, investigators raided multiple target locations including restaurants, massage parlours and a logistics company. Nine suspected illegal workers and one suspected employer were arrested. The arrested suspected illegal workers comprised four men and five women, aged 22 to 50. One woman aged 50 was suspected of employing the illegal workers and was also arrested. An investigation into the suspected employers is ongoing, and the possibility of further arrests is not ruled out.
+
+  An ImmD spokesman said, ""Any person who contravenes a condition of stay in force in respect of him or her shall be guilty of an offence. Also, visitors are not allowed to take employment in Hong Kong, whether paid or unpaid, without the permission of the Director of Immigration. Offenders are liable to prosecution and upon conviction face a maximum fine of $50,000 and up to two years' imprisonment. Aiders and abettors are also liable to prosecution and penalties.""
+
+  The spokesman stressed that it is a serious offence to employ people who are not lawfully employable. Under the Immigration Ordinance, the maximum penalty for an employer employing a person who is not lawfully employable, i.e. an illegal immigrant, a person who is the subject of a removal order or a deportation order, an overstayer or a person who was refused permission to land, has been significantly increased from a fine of $350,000 and three years' imprisonment to a fine of $500,000 and 10 years' imprisonment to reflect the gravity of such offences. The director, manager, secretary, partner, etc, of the company concerned may also bear criminal liability. The High Court has laid down sentencing guidelines that the employer of an illegal worker should be given an immediate custodial sentence.
+
+  According to the court sentencing, employers must take all practicable steps to determine whether a person is lawfully employable prior to employment. Apart from inspecting a prospective employee's identity card, the employer has the explicit duty to make enquiries regarding the person and ensure that the answers would not cast any reasonable doubt concerning the lawful employability of the person. The court will not accept failure to do so as a defence in proceedings. It is also an offence if an employer fails to inspect the job seeker's valid travel document if the job seeker does not have a Hong Kong permanent identity card. Offenders are liable upon conviction to a maximum fine of $150,000 and to imprisonment for one year. In that connection, the spokesman would like to remind all employers not to defy the law by employing illegal workers. The ImmD will continue to take resolute enforcement action to combat such offences.
+
+  Under the existing mechanism, the ImmD will, as a standard procedure, conduct an initial screening of vulnerable persons, including illegal workers, illegal immigrants, sex workers and foreign domestic helpers, who are arrested during any operation with a view to ascertaining whether they are trafficking in persons (TIP) and/or forced labour victims. When any TIP and/or forced labour indicator is revealed in the initial screening, the ImmD officers will conduct a full debriefing and identification by using a standardised checklist to ascertain the presence of TIP and/or forced labour elements. Identified TIP and/or forced labour victims will be provided with various forms of support and assistance, including urgent intervention, medical services, counselling, shelter or temporary accommodation and other supporting services. The ImmD calls on TIP and/or forced labour victims to report crimes to the relevant departments immediately.
+
+  For reporting illegal employment activities, please call the dedicated hotline 3861 5000, by fax at 2824 1166, email to anti_crime@immd.gov.hk, or submit ""Online Reporting of Immigration Offences"" form at www.immd.gov.hk."
 香港最新外匯儲備資產數字,2026-03-06 16:30,2026-03-06 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600491.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（三月六日）公布，香港於二○二六年二月底的官方外匯儲備資產為4,392億美元（二○二六年一月底為4,356億美元）（附件）。
@@ -209,17 +297,6 @@ Exchange Fund Abridged Balance Sheet and
 
 
 "
-日本進口水產的檢測情況,2026-03-06 16:22,2026-03-06 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600538.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由三月五日中午截至今日（三月六日）中午，食安中心已對192個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共209 349個日本進口食物樣本（包括133 540個水產及其製品、海藻及海鹽樣本）及共45 878個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 Inspection of aquatic products imported from Japan,2026-03-06 16:22,2026-03-06 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600540.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -231,6 +308,17 @@ Inspection of aquatic products imported from Japan,2026-03-06 16:22,2026-03-06 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 209 349 samples of food imported from Japan (including 133 540 samples of aquatic and related products, seaweeds and sea salt) and 45 878 samples of local catch respectively. All the samples passed the tests."
+日本進口水產的檢測情況,2026-03-06 16:22,2026-03-06 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600538.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由三月五日中午截至今日（三月六日）中午，食安中心已對192個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共209 349個日本進口食物樣本（包括133 540個水產及其製品、海藻及海鹽樣本）及共45 878個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 一名女子因經辦無牌職業介紹所被定罪,2026-03-06 16:10,2026-03-06 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600515.htm,"一名女子因經辦無牌職業介紹所，違反《僱傭條例》第XII部的規定被勞工處檢控。該女子今日（三月六日）在沙田裁判法院被裁定罪名成立及被判罰款五千元。法庭同時命令該女子將收取的一千元服務費退回有關僱主。
 
 勞工處於二○二五年三月接獲一名陪月員的僱主對一名女子的投訴。由於調查後有足夠證據顯示該女子經辧無牌職業介紹所，勞工處遂提出檢控。
@@ -249,202 +337,51 @@ Woman convicted of operating unlicensed employment agency,2026-03-06 16:10,2026-
   The LD reminds EAs to operate in full compliance with the law as well as the Code of Practice for EAs at all times. Failure to do so may lead to prosecution and/or revocation of licence. The maximum penalty for the offences of unlicensed operation of an EA or overcharging commission from job-seekers is a fine of $350,000 and imprisonment for three years.
 
   Should there be enquiries about matters related to EAs or complaints about suspected violations of EAs, please contact the Employment Agencies Administration of the LD (telephone: 2115 3667; email: ea-ee@labour.gov.hk; address: Unit 906, 9/F, One Mong Kok Road Commercial Centre, 1 Mong Kok Road, Kowloon)."
-Approved Mai Po and Fairview Park Outline Zoning Plan amended,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600245.htm,"​The Town Planning Board today (March 6) announced amendments to the approved Mai Po and Fairview Park Outline Zoning Plan (OZP).
+環保署公布泳灘等級,2026-03-06 16:00,2026-03-06 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600274.htm,"環境保護署（環保署）今日（三月六日）公布十個開放游泳的憲報公布泳灘的最新等級評定結果，包括六個全年開放予泳客的泳灘和四個由三月一日起開放游泳的泳灘。
 
-The amendments mainly involve (i) rezoning a site on Kam Pok Road from ""Residential (Group D)"" to ""Residential (Group C)1""; and (ii) upzoning a site at Wo Sang Wai zoned ""Other Specified Uses"" annotated ""Comprehensive Development to include Wetland Restoration Area"".
+七個泳灘的水質被評為良好（一級），三個為一般（二級）。
 
-Opportunity is also taken to amend the Notes and Explanatory Statement of the OZP to reflect the above amendments and to update the general information of various land use zonings and the planning scheme area, where appropriate.
+一級泳灘包括：
 
-The draft Mai Po and Fairview Park OZP No. S/YL-MP/9 incorporating the amendments is available for public inspection during office hours at (i) the Secretariat of the Town Planning Board, (ii) the Planning Enquiry Counters, (iii) the Fanling, Sheung Shui and Yuen Long East District Planning Office, (iv) the Yuen Long District Office and (v) the San Tin Rural Committee.
 
-Any person may make written representations in respect of the amendments to the Secretary of the Town Planning Board on or before May 6. Any person who intends to make a representation is advised to read the Town Planning Board Guidelines No. 29C on ""Submission and Processing of Representations and Further Representations"" (TPB PG-No. 29C).
 
-Submission of a representation should comply with the requirements set out in TPB PG-No. 29C. In particular, the representer should take note of the following:
+清水灣第二灣泳灘
+銀礦灣泳灘
 
-* If the representer fails to provide his or her full name and the first four alphanumeric characters of his or her Hong Kong identity card or passport number as required under TPB PG-No. 29C, the representation submitted shall be treated as not having been made; and
-* The Secretariat of the Town Planning Board reserves the right to require the representer to provide identity proof for verification.
 
-The Guidelines and the submission form are available at the above locations (i) and (ii) and the Town Planning Board's website (www.tpb.gov.hk).
+深水灣泳灘
+銀線灣泳灘
 
-Copies of the draft Mai Po and Fairview Park OZP are available for sale at the Map Publications Centre in North Point. The electronic version of the OZP can be viewed on the Town Planning Board's website (www.tpb.gov.hk)."
-Grading of beach water quality released,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600278.htm,"  The Environmental Protection Department (EPD) today (March 6) released the latest grading of water quality for 10 gazetted beaches that are open for swimming, including six that are open to swimmers all year round and four others that have been open for swimming since March 1.
 
-  Seven beaches were rated as Good (Grade 1) and three as Fair (Grade 2).
+黃金泳灘
+赤柱正灘泳灘
 
-Grade 1 beaches are:
 
+淺水灣泳灘
 
 
-Clear Water Bay Second Beach
-Silver Mine Bay Beach
 
 
-Deep Water Bay Beach
-Silverstrand Beach
 
+二級泳灘包括：
 
-Golden Beach
-Stanley Main Beach
 
 
-Repulse Bay Beach
+大浪灣泳灘
+麗都灣泳灘
 
 
+更生灣泳灘
 
 
 
-Grade 2 beaches are:
 
 
+環保署根據海水中的大腸桿菌水平，將泳灘水質評定為四個等級，包括良好（一級）、一般（二級）、欠佳（三級）及極差（四級）。泳灘等級是根據最近五次水樣本中大腸桿菌的幾何平均數而計算。
 
-Big Wave Bay Beach
-Lido Beach
+環保署發言人提醒市民，雖然泳灘的等級反映泳灘於一般情況下的水質，但泳灘的水質在大雨期間及過後或會暫時受到影響，泳客應該避免在風暴或大雨後三天內前往泳灘游泳。
 
-
-Casam Beach
-
-
-
-
-
-  Under the present grading system, beaches are classified into four grades, namely Good (Grade 1), Fair (Grade 2), Poor (Grade 3) and Very Poor (Grade 4), according to the level of E. coli in the water. Grades are calculated on the basis of the geometric mean of the E. coli counts on the five most recent sampling occasions.
-
-  While the ratings represent the general water quality at the beaches, an EPD spokesman reminded members of the public that water quality could be temporarily affected during and after periods of heavy rain. Bathers should avoid swimming at beaches for up to three days after a tropical cyclone or heavy rainfall.
-
-  A summary of beach grades is published weekly before the weekend. The latest beach grades based on the most current data may be obtained from the EPD's website on Beach Water Quality (www.epd.gov.hk/epd/beach) or the beach hotline, 2511 6666. Members of the public can also obtain the latest daily water quality forecast information for all beaches that are open for swimming through the EPD's dedicated webpage on the beach water quality forecast (www.epd.gov.hk/en/BWQForecast)."
-Special traffic and transport arrangements in Chai Wan during Ching Ming Festival,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600486.htm,"The Transport Department (TD) today (March 6) reminded members of the public that in anticipation of a large number of grave-sweepers heading to the cemeteries along Cape Collinson Road in Chai Wan during the Ching Ming Festival period, the following special traffic and transport arrangements will be implemented there to facilitate their visits to the cemeteries.
-
-A. Special Traffic Arrangements
-
-(i) Temporary prohibited zone
-
-  The section of Cape Collinson Road to the east of Lin Shing Road (i.e. the left-turning movement from Lin Shing Road to Cape Collinson Road leading to the Chinese Permanent Cemetery) will be temporarily designated as a private car and light goods vehicle prohibited zone from 7am to 3pm daily from March 14 to April 26. All private cars and light goods vehicles, except those with permits, will be prohibited from entering the prohibited zone.
-
-(ii) Road closures
-
-  In connection with the implementation of road closures at Cape Collinson Road and its vicinity by the Police, except for the exempted vehicles, Lin Shing Road and Cape Collinson Road will be closed to all vehicular traffic from 7am to 5pm on the specified dates.
-
-
-
-
-Road closures arrangements
-Date
-Exempted vehicles
-
-
-Phase 1 road closures
-March 21, 22, 28, 29 and April 3, 4, 6, 7, 11, 12, 18 and 19
-
-
-Franchised buses
-Green minibuses (GMBs) routes 16A, 16M, 16X and 18M
-Taxis
-Hearses
-Funeral vehicles
-Vehicles with permits
-
-
-
-
-Phase 2 road closures
-April 5
-			(Ching Ming Festival)
-
-
-Franchised buses
-GMB routes 16A, 16M, 16X
-Hearses
-Funeral vehicles
-Vehicles with permits
-
-
-
-
-
-
-B. Public Transport Services
-
-(i) The following special bus services will be operated on the specified dates, and the bus services will be strengthened depending on the passenger demand and traffic conditions.
-
-
-
-
-Routes
-Date
-Operating period
-
-
-Citybus (CTB) Route 388 (Circular)
-			
-			- between Chai Wan Station Bus Terminus and Chai Wan Cemeteries
-March 15
-10am to 2pm
-
-
-March 21 and 22
-9am to 2pm
-
-
-March 28, 29, April 3 and 4
-9am to 4pm
-
-
-April 5
-			(Ching Ming Festival)
-8am to 6pm
-
-
-April 6 and 7
-9am to 4pm
-
-
-April 11 and 12
-9am to 2pm
-
-
-April 18 and 19
-10am to 2pm
-
-
-CTB Route 389 (Circular)
-			
-			- between Shau Kei Wan Bus Terminus and Chai Wan Cemeteries
-March 22
-9am to 2pm
-
-
-March 28, 29, April 3 and 4
-9am to 4pm
-
-
-April 5
-			(Ching Ming Festival)
-8am to 6pm
-
-
-April 6 and 7
-9am to 4pm
-
-
-April 11 and 12
-9am to 2pm
-
-
-
-
-(ii) CTB route X9 will operate additional departures from Shek O to Central (Central Ferry Piers) from noon to 2pm on April 5 (Ching Ming Festival).
-
-(iii) CTB routes 8X, 9 and 780 and cross harbour routes 106, 118 and 606, and GMB route 18M will be strengthened subject to passenger demand.
-
-(iv)GMB route 18M service will be temporarily suspended during Phase 2 of road closures.
-
-During the Ching Ming Festival period, adjustments to the extent of road closures, traffic control measures and public transport diversions will be made by the Police depending on the actual traffic conditions in the areas.
-
-Grave-sweepers are advised to plan their journey early and allow more travelling time. If they would like to go to the cemeteries along Cape Collinson Road in Chai Wan outside the above-mentioned road closure periods, they should use public transport services as far as possible. They can take GMB routes 16A, 16M, 16X or 18M at Chai Wan MTR Station to Cape Collinson Road, or take CTB Route 9 at Shau Kei Wan Bus Terminus to Shek O Road near Cape Collinson Road. Grave-sweepers heading to the Cape Collinson-San Ha Columbarium may also make use of the escalators and pedestrian access route connecting San Ha Street at Chai Wan (near Chai Wan MTR Station Exit A) and the said columbarium.
-
-The TD anticipates that the traffic in the vicinity of Cape Collinson Road, Lin Shing Road and Wan Tsui Road in Chai Wan will be busy. Motorists are advised not to drive to the congested and affected areas and should exercise tolerance and patience in case of traffic congestion and observe the instructions given by the Police.
-
-Members of the public are advised to be alert to the latest traffic news on radio and television. They may also visit the TD's website (www.td.gov.hk) or use the mobile application ""HKeMobility"" for the latest traffic and public transport information."
+環保署會在每個周末前公布各泳灘等級摘要。市民可於環保署網頁（www.epd.gov.hk/epd/beach_chi）查閱根據最新數據評定的泳灘等級，或致電環保署泳灘水質熱線2511 6666查詢。市民亦可透過環保署的泳灘水質預測專題網頁（www.epd.gov.hk/BWQForecast），獲取各開放予公眾使用的泳灘的每日最新水質預測資訊。"
 城規會修訂米埔及錦綉花園分區計劃大綱核准圖,2026-03-06 16:00,2026-03-06 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600246.htm,"​城市規劃委員會（城規會）今日（三月六日）宣布修訂米埔及錦綉花園分區計劃大綱核准圖。
 
 修訂項目主要涉及（i）把錦壆路一幅用地由「住宅（丁類）」地帶改劃為「住宅（丙類）1」地帶；以及（ii）上調位於和生圍的一幅劃作「其他指定用途」註明「綜合發展包括濕地修復區」地帶用地的發展限制。
@@ -593,53 +530,213 @@ Members of the public are advised to be alert to the latest traffic news on radi
 清明節期間，運輸署預計柴灣歌連臣角道、連城道及環翠道一帶的交通將會繁忙，駕駛人士請避免駕車前往擠塞及受影響地區，如遇交通受阻，駕車人士請保持忍讓並遵從警方的指示。
 
 市民應留意電台及電視台發放的最新交通消息，亦可瀏覽運輸署網頁（www.td.gov.hk）或流動應用程式「香港出行易」，了解最新的交通及公共運輸服務情況。"
-環保署公布泳灘等級,2026-03-06 16:00,2026-03-06 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600274.htm,"環境保護署（環保署）今日（三月六日）公布十個開放游泳的憲報公布泳灘的最新等級評定結果，包括六個全年開放予泳客的泳灘和四個由三月一日起開放游泳的泳灘。
+Special traffic and transport arrangements in Chai Wan during Ching Ming Festival,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600486.htm,"The Transport Department (TD) today (March 6) reminded members of the public that in anticipation of a large number of grave-sweepers heading to the cemeteries along Cape Collinson Road in Chai Wan during the Ching Ming Festival period, the following special traffic and transport arrangements will be implemented there to facilitate their visits to the cemeteries.
 
-七個泳灘的水質被評為良好（一級），三個為一般（二級）。
+A. Special Traffic Arrangements
 
-一級泳灘包括：
+(i) Temporary prohibited zone
 
+  The section of Cape Collinson Road to the east of Lin Shing Road (i.e. the left-turning movement from Lin Shing Road to Cape Collinson Road leading to the Chinese Permanent Cemetery) will be temporarily designated as a private car and light goods vehicle prohibited zone from 7am to 3pm daily from March 14 to April 26. All private cars and light goods vehicles, except those with permits, will be prohibited from entering the prohibited zone.
 
+(ii) Road closures
 
-清水灣第二灣泳灘
-銀礦灣泳灘
-
-
-深水灣泳灘
-銀線灣泳灘
-
-
-黃金泳灘
-赤柱正灘泳灘
-
-
-淺水灣泳灘
+  In connection with the implementation of road closures at Cape Collinson Road and its vicinity by the Police, except for the exempted vehicles, Lin Shing Road and Cape Collinson Road will be closed to all vehicular traffic from 7am to 5pm on the specified dates.
 
 
 
 
-
-二級泳灘包括：
-
-
-
-大浪灣泳灘
-麗都灣泳灘
+Road closures arrangements
+Date
+Exempted vehicles
 
 
-更生灣泳灘
+Phase 1 road closures
+March 21, 22, 28, 29 and April 3, 4, 6, 7, 11, 12, 18 and 19
+
+
+Franchised buses
+Green minibuses (GMBs) routes 16A, 16M, 16X and 18M
+Taxis
+Hearses
+Funeral vehicles
+Vehicles with permits
+
+
+
+
+Phase 2 road closures
+April 5
+			(Ching Ming Festival)
+
+
+Franchised buses
+GMB routes 16A, 16M, 16X
+Hearses
+Funeral vehicles
+Vehicles with permits
 
 
 
 
 
-環保署根據海水中的大腸桿菌水平，將泳灘水質評定為四個等級，包括良好（一級）、一般（二級）、欠佳（三級）及極差（四級）。泳灘等級是根據最近五次水樣本中大腸桿菌的幾何平均數而計算。
 
-環保署發言人提醒市民，雖然泳灘的等級反映泳灘於一般情況下的水質，但泳灘的水質在大雨期間及過後或會暫時受到影響，泳客應該避免在風暴或大雨後三天內前往泳灘游泳。
+B. Public Transport Services
 
-環保署會在每個周末前公布各泳灘等級摘要。市民可於環保署網頁（www.epd.gov.hk/epd/beach_chi）查閱根據最新數據評定的泳灘等級，或致電環保署泳灘水質熱線2511 6666查詢。市民亦可透過環保署的泳灘水質預測專題網頁（www.epd.gov.hk/BWQForecast），獲取各開放予公眾使用的泳灘的每日最新水質預測資訊。"
+(i) The following special bus services will be operated on the specified dates, and the bus services will be strengthened depending on the passenger demand and traffic conditions.
+
+
+
+
+Routes
+Date
+Operating period
+
+
+Citybus (CTB) Route 388 (Circular)
+			
+			- between Chai Wan Station Bus Terminus and Chai Wan Cemeteries
+March 15
+10am to 2pm
+
+
+March 21 and 22
+9am to 2pm
+
+
+March 28, 29, April 3 and 4
+9am to 4pm
+
+
+April 5
+			(Ching Ming Festival)
+8am to 6pm
+
+
+April 6 and 7
+9am to 4pm
+
+
+April 11 and 12
+9am to 2pm
+
+
+April 18 and 19
+10am to 2pm
+
+
+CTB Route 389 (Circular)
+			
+			- between Shau Kei Wan Bus Terminus and Chai Wan Cemeteries
+March 22
+9am to 2pm
+
+
+March 28, 29, April 3 and 4
+9am to 4pm
+
+
+April 5
+			(Ching Ming Festival)
+8am to 6pm
+
+
+April 6 and 7
+9am to 4pm
+
+
+April 11 and 12
+9am to 2pm
+
+
+
+
+(ii) CTB route X9 will operate additional departures from Shek O to Central (Central Ferry Piers) from noon to 2pm on April 5 (Ching Ming Festival).
+
+(iii) CTB routes 8X, 9 and 780 and cross harbour routes 106, 118 and 606, and GMB route 18M will be strengthened subject to passenger demand.
+
+(iv)GMB route 18M service will be temporarily suspended during Phase 2 of road closures.
+
+During the Ching Ming Festival period, adjustments to the extent of road closures, traffic control measures and public transport diversions will be made by the Police depending on the actual traffic conditions in the areas.
+
+Grave-sweepers are advised to plan their journey early and allow more travelling time. If they would like to go to the cemeteries along Cape Collinson Road in Chai Wan outside the above-mentioned road closure periods, they should use public transport services as far as possible. They can take GMB routes 16A, 16M, 16X or 18M at Chai Wan MTR Station to Cape Collinson Road, or take CTB Route 9 at Shau Kei Wan Bus Terminus to Shek O Road near Cape Collinson Road. Grave-sweepers heading to the Cape Collinson-San Ha Columbarium may also make use of the escalators and pedestrian access route connecting San Ha Street at Chai Wan (near Chai Wan MTR Station Exit A) and the said columbarium.
+
+The TD anticipates that the traffic in the vicinity of Cape Collinson Road, Lin Shing Road and Wan Tsui Road in Chai Wan will be busy. Motorists are advised not to drive to the congested and affected areas and should exercise tolerance and patience in case of traffic congestion and observe the instructions given by the Police.
+
+Members of the public are advised to be alert to the latest traffic news on radio and television. They may also visit the TD's website (www.td.gov.hk) or use the mobile application ""HKeMobility"" for the latest traffic and public transport information."
+Approved Mai Po and Fairview Park Outline Zoning Plan amended,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600245.htm,"​The Town Planning Board today (March 6) announced amendments to the approved Mai Po and Fairview Park Outline Zoning Plan (OZP).
+
+The amendments mainly involve (i) rezoning a site on Kam Pok Road from ""Residential (Group D)"" to ""Residential (Group C)1""; and (ii) upzoning a site at Wo Sang Wai zoned ""Other Specified Uses"" annotated ""Comprehensive Development to include Wetland Restoration Area"".
+
+Opportunity is also taken to amend the Notes and Explanatory Statement of the OZP to reflect the above amendments and to update the general information of various land use zonings and the planning scheme area, where appropriate.
+
+The draft Mai Po and Fairview Park OZP No. S/YL-MP/9 incorporating the amendments is available for public inspection during office hours at (i) the Secretariat of the Town Planning Board, (ii) the Planning Enquiry Counters, (iii) the Fanling, Sheung Shui and Yuen Long East District Planning Office, (iv) the Yuen Long District Office and (v) the San Tin Rural Committee.
+
+Any person may make written representations in respect of the amendments to the Secretary of the Town Planning Board on or before May 6. Any person who intends to make a representation is advised to read the Town Planning Board Guidelines No. 29C on ""Submission and Processing of Representations and Further Representations"" (TPB PG-No. 29C).
+
+Submission of a representation should comply with the requirements set out in TPB PG-No. 29C. In particular, the representer should take note of the following:
+
+* If the representer fails to provide his or her full name and the first four alphanumeric characters of his or her Hong Kong identity card or passport number as required under TPB PG-No. 29C, the representation submitted shall be treated as not having been made; and
+* The Secretariat of the Town Planning Board reserves the right to require the representer to provide identity proof for verification.
+
+The Guidelines and the submission form are available at the above locations (i) and (ii) and the Town Planning Board's website (www.tpb.gov.hk).
+
+Copies of the draft Mai Po and Fairview Park OZP are available for sale at the Map Publications Centre in North Point. The electronic version of the OZP can be viewed on the Town Planning Board's website (www.tpb.gov.hk)."
+Grading of beach water quality released,2026-03-06 16:00,2026-03-06 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600278.htm,"  The Environmental Protection Department (EPD) today (March 6) released the latest grading of water quality for 10 gazetted beaches that are open for swimming, including six that are open to swimmers all year round and four others that have been open for swimming since March 1.
+
+  Seven beaches were rated as Good (Grade 1) and three as Fair (Grade 2).
+
+Grade 1 beaches are:
+
+
+
+Clear Water Bay Second Beach
+Silver Mine Bay Beach
+
+
+Deep Water Bay Beach
+Silverstrand Beach
+
+
+Golden Beach
+Stanley Main Beach
+
+
+Repulse Bay Beach
+
+
+
+
+
+Grade 2 beaches are:
+
+
+
+Big Wave Bay Beach
+Lido Beach
+
+
+Casam Beach
+
+
+
+
+
+  Under the present grading system, beaches are classified into four grades, namely Good (Grade 1), Fair (Grade 2), Poor (Grade 3) and Very Poor (Grade 4), according to the level of E. coli in the water. Grades are calculated on the basis of the geometric mean of the E. coli counts on the five most recent sampling occasions.
+
+  While the ratings represent the general water quality at the beaches, an EPD spokesman reminded members of the public that water quality could be temporarily affected during and after periods of heavy rain. Bathers should avoid swimming at beaches for up to three days after a tropical cyclone or heavy rainfall.
+
+  A summary of beach grades is published weekly before the weekend. The latest beach grades based on the most current data may be obtained from the EPD's website on Beach Water Quality (www.epd.gov.hk/epd/beach) or the beach hotline, 2511 6666. Members of the public can also obtain the latest daily water quality forecast information for all beaches that are open for swimming through the EPD's dedicated webpage on the beach water quality forecast (www.epd.gov.hk/en/BWQForecast)."
 港匯指數,2026-03-06 15:40,2026-03-06 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600200.htm,二○二六年三月六日（星期五）的港幣匯率指數為一百零一點九（和昨日指數相同）。
 Effective Exchange Rate Index,2026-03-06 15:40,2026-03-06 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600198.htm,"The effective exchange rate index for the Hong Kong dollar on Friday, March 6, 2026 is 101.9 (same as yesterday's index)."
+Red tides sighted,2026-03-06 14:32,2026-03-06 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600453.htm," A red tide was sighted during the past week, the Inter-departmental Red Tide Working Group reported today (March 6).
+
+ On March 2, staff of the Leisure and Cultural Services Department spotted a red tide at Deep Water Bay Beach, Hong Kong Island. The red tide has dissipated. No associated fish deaths have been reported as of today.
+
+ A spokesman for the working group said, ""The red tide was formed by Noctiluca scintillans, which is commonly found in Hong Kong waters and non-toxic.""
+
+ The Agriculture, Fisheries and Conservation Department (AFCD) urged mariculturists at Lo Tik Wan, Sok Kwu Wan and Po Toi fish culture zones to monitor the situation closely and increase aeration where necessary.
+
+ Red tide is a natural phenomenon. The AFCD's proactive phytoplankton monitoring programme will continue to monitor red tide occurrences to minimise the impact on the mariculture industry and the public."
 Red tide sighted,2026-03-06 14:32,2026-03-06 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600453.htm," A red tide was sighted during the past week, the Inter-departmental Red Tide Working Group reported today (March 6).
 
  On March 2, staff of the Leisure and Cultural Services Department spotted a red tide at Deep Water Bay Beach, Hong Kong Island. The red tide has dissipated. No associated fish deaths have been reported as of today.
@@ -658,15 +755,6 @@ Red tide sighted,2026-03-06 14:32,2026-03-06 16:45,Eng,gia,https://www.info.gov.
 漁農自然護理署（漁護署）已提醒蘆荻灣、索罟灣及蒲台魚類養殖區養魚戶留意魚排情況，並適時增氧。
 
 紅潮的出現為自然現象，漁護署實施的浮游植物監測計劃將繼續主動監測紅潮出現的情況，以減低對本地海魚養殖業及市民可能造成的影響。"
-Red tides sighted,2026-03-06 14:32,2026-03-06 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600453.htm," A red tide was sighted during the past week, the Inter-departmental Red Tide Working Group reported today (March 6).
-
- On March 2, staff of the Leisure and Cultural Services Department spotted a red tide at Deep Water Bay Beach, Hong Kong Island. The red tide has dissipated. No associated fish deaths have been reported as of today.
-
- A spokesman for the working group said, ""The red tide was formed by Noctiluca scintillans, which is commonly found in Hong Kong waters and non-toxic.""
-
- The Agriculture, Fisheries and Conservation Department (AFCD) urged mariculturists at Lo Tik Wan, Sok Kwu Wan and Po Toi fish culture zones to monitor the situation closely and increase aeration where necessary.
-
- Red tide is a natural phenomenon. The AFCD's proactive phytoplankton monitoring programme will continue to monitor red tide occurrences to minimise the impact on the mariculture industry and the public."
 僱主因違反安全法例被判罰款,2026-03-06 14:30,2026-03-06 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600347.htm,"城覓科技（香港）有限公司因違反《職業安全及健康條例》的規定，被勞工處檢控，今日（三月六日）在東區裁判法院被判罰款十八萬元。
 
 案情涉及一宗於二○二五年三月十七日在灣仔一個停車場發生的致命意外。一名工人推著裝載貨物的手推車沿車輛斜道倒退時，失去平衡並向後摔倒，後腦撞到地面。他被送往醫院時已失去意識，並於九日後離世。"
@@ -709,34 +797,6 @@ EMSD announces latest sampling results for legionella at fresh water cooling tow
   The EMSD publishes the latest statistics of the above information on a half-monthly basis on its website (www.emsd.gov.hk/en/other_regulatory_services/cooling_towers/water_sampling/index.html).
 ​
   The EMSD reminds the owners of fresh water cooling towers that they have the responsibility to design, operate and maintain cooling towers properly. They should arrange regular inspections, timely maintenance and periodic testing of the water quality in their cooling towers in accordance with the Code of Practice for Fresh Water Cooling Towers issued by the department to prevent the proliferation of legionella."
-香港花卉展覽造像攝影活動接受報名,2026-03-06 11:00,2026-03-06 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030500358.htm,"每年一度的香港花卉展覽（花展）將於三月下旬舉行。為配合這項賞花盛事，「無綫電視藝員及香港小姐造像攝影」活動將於三月十九日下午三時三十分在維多利亞公園（維園）舉行，活動約一小時，現正接受報名，歡迎攝影愛好者參加。
-
-造像攝影活動由康樂及文化事務署（康文署）及電視廣播有限公司（無綫電視）合辦。
-
-有興趣的人士可於今日（三月六日）至三月十八日期間，經SmartPLAY流動應用程式（My SmartPLAY App）、SmartPLAY網頁（www.smartplay.lcsd.gov.hk/home）或智能自助服務站報名，名額八百名，先到先得，額滿即止。參加費用為全費六十三元，全日制學生、六十歲或以上長者及殘疾人士為三十二元。
-
-與此同時，花展亦設有「花語尋『香』——細味城市特色」攝影比賽，通過參賽者在會場內拍攝的精彩照片，展示色彩繽紛的花卉、有趣或動人的場面，以及無綫電視藝員和香港小姐在園林美景中的造像，以推廣社區綠化。
-
-攝影比賽分三組：Ａ組為「無綫電視藝員及香港小姐造像攝影」。該組再分為公開組及學生組，Ａ組參賽者必須報名出席三月十九日下午三時三十分在維園舉行的造像攝影活動。
-
-另外兩組為Ｂ組「花卉攝影」及Ｃ組「花絮攝影」，參賽者無須預先報名，但必須繳付入場費於展覽期間進入會場拍攝，而參賽照片亦必須以今年花展為題材。
-
-詳情請瀏覽花展網頁www.hkflowershow.hk/tc/hkfs/2026/photo_rs.html或致電2601 8260查詢。
-
-今年花展於三月二十日至二十九日在維園舉行，為期十天，開放時間為上午九時至晚上九時。大會以紫羅蘭為主題花，並以「花語尋『香』——細味城市特色」為主題。
-
-花展由康文署主辦，香港賽馬會慈善信託基金連續十四年支持花展，並於二○一四年起成為花展的主要贊助機構。"
-英勇殉職消防員的家屬獲發經濟援助金,2026-03-06 11:00,2026-03-06 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600251.htm,"政府今日（三月六日）宣布根據「向捨身救人者家屬提供經濟援助計劃」，向英勇殉職的消防隊目（追授）何偉豪的家屬發放六百一十五萬元。
-
-何偉豪於二零二五年十一月二十六日在大埔宏福苑執行搜救任務期間不幸殉職。
-
-負責批核申請的「向捨身救人者家屬提供經濟援助委員會」主席勞工及福利局局長孫玉菡讚揚何偉豪的英勇行為。
-
-孫玉菡說：「何偉豪為了拯救和保護他人性命，展現出超凡勇氣和捨身為民的高尚情操，值得我們致以最崇高的敬意。」
-
-「我們為失去如此優秀和盡忠職守的公務人員深感哀痛。發放援助金是要肯定何偉豪英勇無畏、捨己為公的精神。」
-
-「向捨身救人者家屬提供經濟援助計劃」於二○○二年一月成立，旨在向捨身拯救或保護他人者的家屬提供經濟援助。計劃下每個獲批核個案的援助金額，按身故者的年齡、正常退休年齡及香港當時的每月就業入息中位數計算。現時援助的最低和最高金額分別為六百一十五萬元和一千二百三十萬元。"
 Hong Kong Flower Show's portrait photo shooting activity open for enrolment,2026-03-06 11:00,2026-03-06 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030500364.htm,"  Photography enthusiasts are invited to enrol in the ""Portrait of TVB Artistes and Miss Hong Kong"" activity to be held at 3.30pm on March 19 at Victoria Park in conjunction with the annual Hong Kong Flower Show in late March. The shooting activity will last for about an hour.
 
  The portrait photo shooting activity is jointly organised by the Leisure and Cultural Services Department (LCSD) and Television Broadcasts Limited (TVB).
@@ -765,11 +825,34 @@ Family of brave deceased fireman given financial assistance ,2026-03-06 11:00,20
   ""We deeply mourn the loss of such an excellent and devoted public servant. The grant represents the Government's recognition of the late Mr Ho's gallantry and selflessness of the highest order.""
 
   The Scheme was set up in January 2002 to provide financial assistance to family members of those who lost their lives when attempting to save or protect others. Under the Scheme, the amount of financial assistance for each approved application is worked out according to a formula having regard to the age, normal retirement age of the deceased and the prevailing median monthly employment earnings, with the minimum and maximum levels currently set at $6.15 million and $12.3 million respectively."
-銀線灣泳灘懸掛紅旗,2026-03-06 10:40,2026-03-06 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600227.htm,"電台及電視台當值宣布員注意：
+香港花卉展覽造像攝影活動接受報名,2026-03-06 11:00,2026-03-06 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030500358.htm,"每年一度的香港花卉展覽（花展）將於三月下旬舉行。為配合這項賞花盛事，「無綫電視藝員及香港小姐造像攝影」活動將於三月十九日下午三時三十分在維多利亞公園（維園）舉行，活動約一小時，現正接受報名，歡迎攝影愛好者參加。
 
-請盡快播出下列特別報告：
+造像攝影活動由康樂及文化事務署（康文署）及電視廣播有限公司（無綫電視）合辦。
 
-游泳人士請注意：康樂及文化事務署今日（三月六日）宣布，由於大浪關係，西貢區的銀線灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
+有興趣的人士可於今日（三月六日）至三月十八日期間，經SmartPLAY流動應用程式（My SmartPLAY App）、SmartPLAY網頁（www.smartplay.lcsd.gov.hk/home）或智能自助服務站報名，名額八百名，先到先得，額滿即止。參加費用為全費六十三元，全日制學生、六十歲或以上長者及殘疾人士為三十二元。
+
+與此同時，花展亦設有「花語尋『香』——細味城市特色」攝影比賽，通過參賽者在會場內拍攝的精彩照片，展示色彩繽紛的花卉、有趣或動人的場面，以及無綫電視藝員和香港小姐在園林美景中的造像，以推廣社區綠化。
+
+攝影比賽分三組：Ａ組為「無綫電視藝員及香港小姐造像攝影」。該組再分為公開組及學生組，Ａ組參賽者必須報名出席三月十九日下午三時三十分在維園舉行的造像攝影活動。
+
+另外兩組為Ｂ組「花卉攝影」及Ｃ組「花絮攝影」，參賽者無須預先報名，但必須繳付入場費於展覽期間進入會場拍攝，而參賽照片亦必須以今年花展為題材。
+
+詳情請瀏覽花展網頁www.hkflowershow.hk/tc/hkfs/2026/photo_rs.html或致電2601 8260查詢。
+
+今年花展於三月二十日至二十九日在維園舉行，為期十天，開放時間為上午九時至晚上九時。大會以紫羅蘭為主題花，並以「花語尋『香』——細味城市特色」為主題。
+
+花展由康文署主辦，香港賽馬會慈善信託基金連續十四年支持花展，並於二○一四年起成為花展的主要贊助機構。"
+英勇殉職消防員的家屬獲發經濟援助金,2026-03-06 11:00,2026-03-06 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600251.htm,"政府今日（三月六日）宣布根據「向捨身救人者家屬提供經濟援助計劃」，向英勇殉職的消防隊目（追授）何偉豪的家屬發放六百一十五萬元。
+
+何偉豪於二零二五年十一月二十六日在大埔宏福苑執行搜救任務期間不幸殉職。
+
+負責批核申請的「向捨身救人者家屬提供經濟援助委員會」主席勞工及福利局局長孫玉菡讚揚何偉豪的英勇行為。
+
+孫玉菡說：「何偉豪為了拯救和保護他人性命，展現出超凡勇氣和捨身為民的高尚情操，值得我們致以最崇高的敬意。」
+
+「我們為失去如此優秀和盡忠職守的公務人員深感哀痛。發放援助金是要肯定何偉豪英勇無畏、捨己為公的精神。」
+
+「向捨身救人者家屬提供經濟援助計劃」於二○○二年一月成立，旨在向捨身拯救或保護他人者的家屬提供經濟援助。計劃下每個獲批核個案的援助金額，按身故者的年齡、正常退休年齡及香港當時的每月就業入息中位數計算。現時援助的最低和最高金額分別為六百一十五萬元和一千二百三十萬元。"
 Red flag hoisted at Silverstrand Beach,2026-03-06 10:40,2026-03-06 10:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600225.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -777,6 +860,11 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (March 6) that due to big waves, the red flag has been hoisted at Silverstrand Beach in Sai Kung District. Beachgoers are advised not to swim at the beach."
+銀線灣泳灘懸掛紅旗,2026-03-06 10:40,2026-03-06 10:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600227.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（三月六日）宣布，由於大浪關係，西貢區的銀線灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 屯門游泳池即將重開,2026-03-06 09:00,2026-03-06 09:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/06/P2026030600188.htm,"電台及電視台當值宣布員注意︰
 
 請盡快播出下列報告，並於適當時間重複廣播︰
@@ -789,17 +877,6 @@ Please broadcast the following as soon as possible and repeat it at regular inte
   Here is an item of interest to swimmers.
 
   The Leisure and Cultural Services Department announced today (March 6) that Tuen Mun Swimming Pool in Tuen Mun District, closed earlier due to urgent maintenance works, will be reopened at 9.30am."
-Two incoming passengers convicted and jailed for possessing duty-not-paid cigarettes (with photos),2026-03-05 23:20,2026-03-05 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500700.htm,"Two incoming passengers were sentenced to nine weeks imprisonment and six weeks imprisonment and fined $2,000 respectively by the Fanling Magistrates' Courts today (March 5) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted a 60-year-old incoming female passenger at Heung Yuen Wai Boundary Control Point (HYWBCP) on January 22 and seized 437 duty-not-paid cigarettes with an estimated market value of $1,966 and a duty potential of $1,444 from her personal baggage. She was subsequently arrested. She was sentenced to nine weeks' imprisonment and fined $2,000 by the courts today.
-
-In addition, Customs officers intercepted a 63-year-old incoming male passenger at the HYWBCP on January 23 and seized 181 duty-not-paid cigarettes with an estimated market value of $814 and a duty potential of about $598 from his personal baggage. He was subsequently arrested. He was sentenced to six weeks' imprisonment and fined $2,000 by the courts today.
-
-Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflects the seriousness of the offences.
-
-Under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en)."
 兩名入境旅客管有未完稅香煙罪成判囚（附圖）,2026-03-05 23:20,2026-03-05 23:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500699.htm,"兩名入境旅客因管有未完稅香煙，及未有向海關人員作出申報，違反《應課稅品條例》，今日（三月五日）在粉嶺裁判法院分別被判處監禁九星期及六星期，以及各罰款二千元。
 
 海關人員於一月二十二日在香園圍邊境管制站截查一名六十歲抵港女旅客，並在其攜帶的個人行李內檢獲四百三十七支未完稅香煙，估計市值一千九百六十六元，應課稅值一千四百四十四元，該名女旅客隨即被捕。她今日被法院判處監禁九星期及罰款二千元。
@@ -811,6 +888,17 @@ Members of the public may report any suspected illicit cigarette activities to C
 根據《應課稅品條例》，煙草屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/tc）舉報懷疑私煙活動。"
+Two incoming passengers convicted and jailed for possessing duty-not-paid cigarettes (with photos),2026-03-05 23:20,2026-03-05 23:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500700.htm,"Two incoming passengers were sentenced to nine weeks imprisonment and six weeks imprisonment and fined $2,000 respectively by the Fanling Magistrates' Courts today (March 5) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
+
+Customs officers intercepted a 60-year-old incoming female passenger at Heung Yuen Wai Boundary Control Point (HYWBCP) on January 22 and seized 437 duty-not-paid cigarettes with an estimated market value of $1,966 and a duty potential of $1,444 from her personal baggage. She was subsequently arrested. She was sentenced to nine weeks' imprisonment and fined $2,000 by the courts today.
+
+In addition, Customs officers intercepted a 63-year-old incoming male passenger at the HYWBCP on January 23 and seized 181 duty-not-paid cigarettes with an estimated market value of $814 and a duty potential of about $598 from his personal baggage. He was subsequently arrested. He was sentenced to six weeks' imprisonment and fined $2,000 by the courts today.
+
+Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflects the seriousness of the offences.
+
+Under the DCO, tobacco products are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
+
+Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en)."
 Import of poultry meat and products from Utrecht Province in Netherlands suspended,2026-03-05 19:26,2026-03-05 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500525.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (March 5) that in view of a notification from the World Organisation for Animal Health (WOAH) about an outbreak of highly pathogenic H5N1 avian influenza in Utrecht Province in the Netherlands, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the area with immediate effect to protect public health in Hong Kong.
 
 A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 370 tonnes of frozen poultry meat from the Netherlands last year.
@@ -821,16 +909,16 @@ A CFS spokesman said that according to the Census and Statistics Department, Hon
 中心發言人說，根據政府統計處的資料，本港去年從荷蘭進口約三百七十公噸冷藏禽肉。
 
 發言人說：「中心已就事件聯絡荷蘭當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
-​勞福局澄清網上謠言,2026-03-05 19:18,2026-03-05 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500662.htm,"勞工及福利局（勞福局）今日（三月五日）發現網上流傳假消息，指政府會向長者派發半價餐飲劵。勞福局發言人澄清絕無其事。
-
-勞福局已向相關社交媒體平台舉報，並保留一切法律追究的權利。
-
-發言人呼籲，長者切勿輕易相信任何可疑網站或來歷不明及具誤導性的消息；如懷疑受騙，應與警方聯絡。"
 LWB clarifies online rumours,2026-03-05 19:18,2026-03-05 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500666.htm,"  The Labour and Welfare Bureau (LWB) today (March 5) noted that fake information is circulating online alleging that the Government would distribute half-price food vouchers to the elderly. An LWB spokesman clarified that such information is completely false.
 
   The LWB has reported the matter to the relevant social media platform and reserves the right to pursue legal action.
 
   The spokesman urged elderly persons not to trust any suspicious websites or believe unknown and misleading messages. Those who suspect that they have fallen victim to any fraudulent acts should contact the Police."
+​勞福局澄清網上謠言,2026-03-05 19:18,2026-03-05 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500662.htm,"勞工及福利局（勞福局）今日（三月五日）發現網上流傳假消息，指政府會向長者派發半價餐飲劵。勞福局發言人澄清絕無其事。
+
+勞福局已向相關社交媒體平台舉報，並保留一切法律追究的權利。
+
+發言人呼籲，長者切勿輕易相信任何可疑網站或來歷不明及具誤導性的消息；如懷疑受騙，應與警方聯絡。"
 兒童事務委員會舉行第27次會議,2026-03-05 18:52,2026-03-05 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500626.htm,"政務司司長陳國基今日（三月五日）主持兒童事務委員會第27次會議。
 
 會上，委員聽取衞生署簡介本港兒童使用電子屏幕產品的情況，以及對他們身心健康所帶來的影響。隨着資訊及通訊科技日益發展，兒童使用互聯網和電子屏幕產品越趨普及。政府去年十月成立跨部門專家諮詢小組檢視兒童使用電子屏幕及社交媒體對其健康的影響，並提供相關健康建議，鼓勵兒童建立有規律的健康生活模式，避免過分沉迷使用電子屏幕產品。
@@ -857,21 +945,3 @@ Please broadcast the following as soon as possible and repeat it at regular inte
   Here is an item of interest to swimmers.
 
   The Leisure and Cultural Services Department announced today (March 5) that due to urgent maintenance works, the Tuen Mun Swimming Pool has been temporarily closed until further notice."
-水務署署長訪問江西考察東江源頭保護工作（附圖）,2026-03-05 18:00,2026-03-05 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500443.htm,"水務署署長黃恩諾昨日（三月四日）起一連兩日訪問江西省贛州市，考察東江源頭保護工作。
-
-昨日，黃恩諾與江西省水利廳廳長羅傳彬、水利部珠江水利委員會及贛州市人民政府相關單位代表會面，了解江西省在保護東江源頭工作，包括保護及巡護源區森林、推進水土保持及河湖治理。江西省作為東江源頭所在地，過去六十年一直致力保障供港東江水的水質安全。黃恩諾感謝江西省多年來為確保東江水源安全和潔淨所作出的努力，為香港的繁榮和發展提供重要保障，充分體現國家對香港的關懷與支持。
-
-今日（三月五日），黃恩諾前往安遠縣三百山探訪源區首位護林員龔隆壽，感謝他及一眾護林員多年來守護東江源頭生態環境的貢獻。黃恩諾表示：「護水必先護林。正因有一代代護林員的堅守，香港市民才能安心飲用穩定優質的東江水。我們對他們的付出深表敬意。」
-
-黃恩諾今日亦參與由教育局舉辦的高中公民與社會發展科內地考察團部分行程，與明愛馬鞍山中學師生實地了解源區森林保護及巡護工作，加深對東江水供港及水資源保護工作的認識。其間，黃恩諾鼓勵學生珍惜水資源，深化對國家水利建設及生態保育成就的認識，體會「飲水思源」的意義。師生均表示獲益良多。隨後，一行人與當地官員在護源林共同參與植樹活動，以實際行動支持水源保護及生態建設。黃恩諾今日結束行程返港。
-
-內地考察屬於公民科課程的重要組成部分，旨在讓所有高中學生通過實地考察活動親身了解國情，提升國民身分認同。截至今年一月，累計超過15萬名高中學生參與公民科內地考察，地點涵蓋11個省份或直轄市。"
-DWS visits Jiangxi to inspect protection of sources of Dongjiang River (with photos),2026-03-05 18:00,2026-03-05 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/05/P2026030500449.htm,"  The Director of Water Supplies, Mr Roger Wong, began a two-day visit to Ganzhou, Jiangxi Province, yesterday (March 4) to inspect the protection of the sources of Dongjiang River.
-
-  Yesterday, Mr Wong met with the Director-General of the Water Resources Department of Jiangxi Province, Mr Luo Chuanbin, and representatives of the Pearl River Water Resources Commission of the Ministry of Water Resources and relevant authorities of the Ganzhou Municipal People's Government to learn about the province's work in protecting the sources of Dongjiang River, including forest conservation and patrols, soil and water conservation, as well as river and lake management. Being the sources of Dongjiang River, Jiangxi Province has, over the past 60 years, been committed to safeguarding the quality of Dongjiang water supplied to Hong Kong. Mr Wong thanked the Jiangxi authorities for their long-standing efforts in ensuring the safety and cleanliness of the Dongjiang water supply, which have provided strong support for Hong Kong's prosperity and development and demonstrated the country's care and support for Hong Kong.
-
-  Today (March 5), Mr Wong visited Sanbai Mountain in Anyuan County to meet with the first forest ranger of the source area, Mr Gong Longshou, and expressed appreciation to him and other forest rangers for their dedication over the years to safeguarding the ecological environment of the sources of Dongjiang River. Mr Wong said, ""Protecting water begins with protecting forests. Thanks to the dedication of generations of forest rangers, Hong Kong citizensare able to enjoy a stable supply of high-quality Dongjiang water. We pay our highest tribute to their commitment.""
-
-  Mr Wong also joined parts of a Mainland study tour organised by the Education Bureau for the senior secondary subject Citizenship and Social Development today. He accompanied teachers and students from Caritas Ma On Shan Secondary School to learn on-site about forest conservation and patrol work in the source area, with a view to deepening their understanding of the Dongjiang water supply to Hong Kong and water resources protection. Mr Wong encouraged students to cherish water resources, enhance their understanding of the country's achievements in water infrastructure and ecological conservation, and appreciate the meaning of ""Our Blessed Origin"". Teachers and students said the visit was highly rewarding. The tour later joined local officials in a tree-planting activity in the watershed forest to support source protection and ecological development through concrete actions. Mr Wong concluded his visit and returned to Hong Kong today.
-
-  Mainland study tours are an integral part of the curriculum of Citizenship and Social Development, enabling all senior secondary students to gain first-hand understanding of the country and enhance their sense of national identity through field studies. As of January this year, more than 150 000 senior secondary students had participated in Mainland study tours covering 11 provinces or municipalities."
