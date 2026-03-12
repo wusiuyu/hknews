@@ -1,4 +1,57 @@
 title,date,summary,scrape_time,section,source,url,news_content
+Caution urged over use of AI agent platforms,2026-03-12 15:20,,2026-03-12 15:30,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1847039-20260312.htm,"Cybersecurity officials are urging organisations to proceed with caution when adopting advanced AI agent platforms, warning that these powerful new tools introduce a much wider range of security threats than standard chatbots.
+
+In a statement on Thursday, the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) said AI agent platforms - which can operate directly on local devices, install third-party skills and integrate with external services - ""present a risk surface beyond that of typical conversational AI tools"". 
+
+The warning is centred on the rising popularity of an open-source platform called OpenClaw. 
+
+Unlike a simple chatbot, OpenClaw is designed to be self-hosted and acts as a multi-channel gateway, connecting to messaging apps like WhatsApp, Telegram and Discord. 
+
+It boasts features such as persistent memory, browser control and system access, allowing it to handle file operations, browser automation and script-related tasks across multiple environments. 
+
+""This high degree of integration has quickly attracted attention from developers and technical communities,"" the centre said.
+
+However, HKCERT reported that malicious actors have already exploited interest in the platform by creating ""fake GitHub repositories and Bing AI search results to distribute information-stealing malware and proxy malware to users searching for the OpenClaw Windows installer"".
+
+Beyond fake downloads, the platform itself has had security flaws. 
+
+According to HKCERT, ""OpenClaw once had a high-severity vulnerability that could allow malicious websites to hijack developers' OpenClaw agents"". 
+
+While that specific vulnerability was patched on February 26, the incident serves as a stark reminder of the risks. 
+
+""This incident serves as a reminder that organisations deploying AI agent tools may face greater risk exposure if they lack adequate security oversight and control measures,"" the centre said.
+
+Further compounding the risk is the platform’s open-source skills ecosystem, known as ClawHub, which allows users to publish and install scripts to extend functionality. 
+
+HKCERT warned that ""while this open extension model accelerates feature growth, it also introduces supply chain risks associated with third-party components"".
+
+To help organisations navigate these dangers, HKCERT has issued a set of cybersecurity recommendations, including verifying download sources and installation instructions, updating OpenClaw and exercising caution when installing third-party skills.
+
+
+
+Edited by Thomas McAlinden"
+滬股低收0.1%　創業板指數於3300點失而復得,2026-03-12 15:15,,2026-03-12 15:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847037-20260312.htm,"內地股市偏軟，創業板指數跌幅較大。商業航天、軍工、金屬股受壓，煤炭、風電、鋼鐵、銀行及豬肉股向上。
+
+上證指數反覆向下，全日跌幅有限，收報4129點，跌4點，跌幅0.1%。
+
+深證成份指數報14374點，跌90點，跌幅0.63%。
+
+創業板指數於3300點失而復得，最多跌約1.9%，低見3286點，收市報3317點，跌32點，跌幅0.96%。
+
+
+
+編輯：張詩民"
+全國兩會｜人大會議表決通過十五五規劃綱要決議草案,2026-03-12 15:12,,2026-03-12 15:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847038-20260312.htm,"十四屆全國人大四次會議閉幕會，下午3時在北京人民大會堂舉行，國家主席習近平等黨和國家領導人出席。
+
+出席會議的2762名全國人大代表，就各項决議草案、法律草案和決定草案進行表決。
+
+當中，「國民經濟和社會發展第十五個五年規劃綱要的決議草案」、即「十五五」規劃綱要草案，以2758票贊成、1票反、2票棄權，高票通過。
+
+至於國務院總理李強的政府工作報告，亦以2759票贊成、1票反對、0票棄權，高票通過。
+
+
+
+編輯：黃佩珊"
 全國兩會｜海信集團：中國製造業已具備「量質同升」優勢,2026-03-12 15:10,,2026-03-12 15:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847036-20260312.htm,"全國人大代表、海信集團董事長賈少謙表示，中國製造業面對轉型升級的關鍵時期，目前已具備「量質同升」優勢。
 
 賈少謙在十四屆全國人大四次會議第三場「代表通道」表示，中國製造業具備規模效應帶來「量的優勢」，亦有核心技術帶來「質的優勢」，「量及質提升」為中國製造業帶來機遇，尤其人工智能（AI）技術應用是千載難逢的機遇。
@@ -373,6 +426,7 @@ In Seoul, the Korea Composite Stock Price Index opened 42 points, or 0.75 percen
 
 
 編輯：潘潔平"
+「裕澤香江」高峰論壇本月23至24日舉行,2026-03-12 10:38,,2026-03-12 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847005-20260312.htm, 
 「裕澤香江」高峰論壇本月23至24日舉行　主題為「築就傳承」,2026-03-12 10:38,,2026-03-12 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847005-20260312.htm,"第四屆「裕澤香江」高峰論壇本月23至24日舉行，主題是「築就傳承」，彰顯家族辦公室資產規模持續增長與財富世代交替正在掀起的浪潮。財經事務及庫務局局長許正宇表示，本屆論壇將從三大方向，向全球家族創一代與新一代，展示香港深厚實力與發展潛能。
 
 許正宇在網誌說，當前全球地緣政治不確定性日益加劇，香港正凸顯作為「安全港」的獨特優勢。在此大變局中，香港的政策前瞻性與制度穩定性更顯珍貴，包括無戰亂風險、資金自由流動、資本市場深厚穩健、監管架構完善，再加上與國家發展深度對接的長遠規劃，使香港成為全球高淨值人士及家族辦公室重新配置資產的首選。
@@ -384,7 +438,6 @@ In Seoul, the Korea Composite Stock Price Index opened 42 points, or 0.75 percen
 
 
 編輯：宋家樑"
-「裕澤香江」高峰論壇本月23至24日舉行,2026-03-12 10:38,,2026-03-12 10:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847005-20260312.htm, 
 日股半日跌逾1.5%,2026-03-12 10:37,,2026-03-12 10:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1847004-20260312.htm,"東京股市今早回吐。
 
 日經指數半日跌848點，報54177點，跌幅1.54%。
@@ -534,12 +587,12 @@ Edited by Raymond Yeung"
 
 
 編輯：方嘉莉"
-因應青馬大橋車禍　港鐵加強東涌綫服務維持繁忙時間列車班次,2026-03-12 09:16,,2026-03-12 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846987-20260312.htm,"港鐵表示，因應青馬大橋附近的交通意外，青馬大橋往機場方向的部分行車線要封閉，路面交通擠塞。港鐵正加強東涌綫服務，維持繁忙時間列車班次，以便利乘客出行。
+因應青馬大橋車禍　港鐵加強機場快綫及東涌綫服務,2026-03-12 09:16,,2026-03-12 10:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846987-20260312.htm,"港鐵表示，因應青馬大橋附近的交通意外，青馬大橋往機場方向的部分行車線要封閉，路面交通擠塞。港鐵正加強機場快綫及東涌綫服務，維持繁忙時間列車班次，以便利乘客出行。
 
 
 
 編輯：譚佩貞"
-因應青馬大橋車禍　港鐵加強機場快綫及東涌綫服務,2026-03-12 09:16,,2026-03-12 10:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846987-20260312.htm,"港鐵表示，因應青馬大橋附近的交通意外，青馬大橋往機場方向的部分行車線要封閉，路面交通擠塞。港鐵正加強機場快綫及東涌綫服務，維持繁忙時間列車班次，以便利乘客出行。
+因應青馬大橋車禍　港鐵加強東涌綫服務維持繁忙時間列車班次,2026-03-12 09:16,,2026-03-12 09:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846987-20260312.htm,"港鐵表示，因應青馬大橋附近的交通意外，青馬大橋往機場方向的部分行車線要封閉，路面交通擠塞。港鐵正加強東涌綫服務，維持繁忙時間列車班次，以便利乘客出行。
 
 
 
@@ -623,16 +676,16 @@ When asked earlier on Wednesday whether he was looking at the threshold for the 
 
 
 Edited by Cecil Wong"
-韓股初段跌約0.5%,2026-03-12 08:07,,2026-03-12 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846978-20260312.htm,"韓國股市初段跌約0.5%。
+日股初段回吐1%,2026-03-12 08:07,,2026-03-12 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846977-20260312.htm,"東京股市初段下跌1%。
 
-首爾綜合指數較早時報5583點，跌26點，跌幅0.47%。
+日經指數54470點，下跌554點。
 
 
 
 編輯：李意琴"
-日股初段回吐1%,2026-03-12 08:07,,2026-03-12 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846977-20260312.htm,"東京股市初段下跌1%。
+韓股初段跌約0.5%,2026-03-12 08:07,,2026-03-12 08:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846978-20260312.htm,"韓國股市初段跌約0.5%。
 
-日經指數54470點，下跌554點。
+首爾綜合指數較早時報5583點，跌26點，跌幅0.47%。
 
 
 
@@ -1206,14 +1259,14 @@ Edited by Edmond Fong"
 
 
 編輯：鍾慧儀"
-美以大規模空襲伊朗　特朗普警告勿在霍爾木茲海峽布雷,2026-03-11 18:08,,2026-03-11 18:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846916-20260311.htm,"美國和以色列，展開對伊朗的軍事行動以來，最大規模的空襲。美軍說，在霍爾木茲海峽附近再摧毀多艘伊朗海軍艦艇，包括16艘布雷艦艇。美國總統特朗普警告伊朗，不能在霍爾木茲海峽布設水雷，否則將面臨前所未見的軍事後果。
+全國兩會｜內地航空公司預計油價影響非長久,2026-03-11 18:08,,2026-03-11 18:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846917-20260311.htm,"全國政協委員、上海吉祥航空董事長王均金接受本台訪問時說，中東局勢肯定會影響油價，但相信屬階段性而非長久影響，整體而言不會對內地航空帶來很大影響。
+
+全國政協民族和宗教委員會委員、青海省伊斯蘭教協會會長馬躍祥，回應中東局勢對前往沙特阿拉伯朝覲安排的影響時說，相信朝覲不會受影響，內地穆斯林規模應維持在一萬多人。
 
 
 
 編輯：梁家奇"
-全國兩會｜內地航空公司預計油價影響非長久,2026-03-11 18:08,,2026-03-11 18:15,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846917-20260311.htm,"全國政協委員、上海吉祥航空董事長王均金接受本台訪問時說，中東局勢肯定會影響油價，但相信屬階段性而非長久影響，整體而言不會對內地航空帶來很大影響。
-
-全國政協民族和宗教委員會委員、青海省伊斯蘭教協會會長馬躍祥，回應中東局勢對前往沙特阿拉伯朝覲安排的影響時說，相信朝覲不會受影響，內地穆斯林規模應維持在一萬多人。
+美以大規模空襲伊朗　特朗普警告勿在霍爾木茲海峽布雷,2026-03-11 18:08,,2026-03-11 18:15,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846916-20260311.htm,"美國和以色列，展開對伊朗的軍事行動以來，最大規模的空襲。美軍說，在霍爾木茲海峽附近再摧毀多艘伊朗海軍艦艇，包括16艘布雷艦艇。美國總統特朗普警告伊朗，不能在霍爾木茲海峽布設水雷，否則將面臨前所未見的軍事後果。
 
 
 
@@ -1390,7 +1443,6 @@ Police said no one was injured and no evacuation was required."
 
 
 編輯：宋家樑"
-國泰行政總裁林紹波：很快會公布調整航班燃油附加費,2026-03-11 16:20,,2026-03-11 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846896-20260311.htm, 
 國泰林紹波：中東局勢影響油價　很快會公布調整航班燃油附加費,2026-03-11 16:20,,2026-03-11 16:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846896-20260311.htm,"國泰航空行政總裁林紹波表示，中東局勢帶來的最主要影響在於油價，3月的油價較1月及2月的平均值差不多升了兩倍，集團快將公布燃油附加費調整，務求讓航班繼續有效營運。
 
 他在業績記者會又說，集團的燃油對沖達30%，會繼續按既有機制處理，不會因局勢改變。
@@ -1400,6 +1452,7 @@ Police said no one was injured and no evacuation was required."
 
 
 編輯：鍾慧儀"
+國泰行政總裁林紹波：很快會公布調整航班燃油附加費,2026-03-11 16:20,,2026-03-11 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846896-20260311.htm, 
 西班牙研究人員以魚鱗研發人工角膜　有望減少病人對器官捐贈依賴,2026-03-11 16:19,,2026-03-11 16:30,cinternational,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846895-20260311.htm,"西班牙一間大學的研究人員研發出以魚鱗作為原材料的人工角膜，有望減少病人對器官捐贈的依賴。
 
 當地一間大學的研究團隊對魚鱗進行全面分析，發現魚鱗在角膜修復和再生方面，具有潛在用途。研究人員對鯉魚等市面常見的魚類鱗片進行處理，製造出具有高度生物相容性、堅韌而且透明的角膜植入物，在實驗室測試及動物實驗中，功能效果都表現良好。
@@ -1471,17 +1524,6 @@ Police said no one was injured and no evacuation was required."
 
 
 編輯：許敬軒"
-沙頭角口岸重建工程或致沉降影響古蹟協天宮　當局將採取緩解措施,2026-03-11 15:56,,2026-03-11 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846889-20260311.htm,"沙頭角口岸重建與相關工程工地範圍外50米之內，有法定古蹟、建於1894至1895年間的沙頭角山咀協天宮。保安局向古諮會提交的文物影響評估，認為一系列措施將有效緩解古蹟造成的潛在影響。建築署將確保所有為文物保育而進行的工程，嚴格符合古諮會已認可的文物影響評估報告內所訂明的各項要求。
-
-評估指出，在施工階段，地基工程可能會導致地面水平變化、水位變化、沉降、傾斜或振動，從而影響法定古蹟。為減輕影響，項目的主要建築物將由法定古蹟界線後退約50米。由於撞擊式打樁施工方法會產生較高程度的振動，因此行人天橋的工程不應採用此施工方法。為避免對具歷史材料造成不利影響，在承建商的初期設計階段，須由根據《建築物條例》註冊的專業人士以及一名文物顧問，對該法定古蹟進行整體結構評估，並提交古蹟辦審批同意。
-
-保安局指出，行人天橋設計亦會尊重法定古蹟及周邊鄉村景觀。現行設計採用非封閉式行人天橋，所選用的物料將與法定古蹟及周邊鄉村景觀相協調。建築物外立面將盡量避免使用反光物料，並採用低調、中性的色調。建議在項目工地靠近法定古蹟的位置種植具美觀效果的植物，減低項目的視覺突出度。
-
-評估提到，項目為公眾提供一個難得的機會，讓市民能夠接觸及欣賞該廟宇的文化及歷史價值。新沙頭角口岸的連接天橋不僅能提升可達性，更可創造高處觀景位置。
-
-
-
-編輯：譚佩貞"
 'Authorities made every effort to mitigate fare hikes',2026-03-11 15:56,,2026-03-11 16:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1846884-20260311.htm,"A transport official on Wednesday reiterated that authorities tried their best to mitigate fare increases that are set to come into effect on April 1 on six outlying island ferry routes.
 
 Fares will go up by 12.5 percent for standard journeys from Central to Cheung Chau, Lamma, and on the inter-island services. 
@@ -1503,6 +1545,17 @@ Fung said the department understands the importance of ferry services to the res
 
 
 Edited by Thomas McAlinden"
+沙頭角口岸重建工程或致沉降影響古蹟協天宮　當局將採取緩解措施,2026-03-11 15:56,,2026-03-11 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846889-20260311.htm,"沙頭角口岸重建與相關工程工地範圍外50米之內，有法定古蹟、建於1894至1895年間的沙頭角山咀協天宮。保安局向古諮會提交的文物影響評估，認為一系列措施將有效緩解古蹟造成的潛在影響。建築署將確保所有為文物保育而進行的工程，嚴格符合古諮會已認可的文物影響評估報告內所訂明的各項要求。
+
+評估指出，在施工階段，地基工程可能會導致地面水平變化、水位變化、沉降、傾斜或振動，從而影響法定古蹟。為減輕影響，項目的主要建築物將由法定古蹟界線後退約50米。由於撞擊式打樁施工方法會產生較高程度的振動，因此行人天橋的工程不應採用此施工方法。為避免對具歷史材料造成不利影響，在承建商的初期設計階段，須由根據《建築物條例》註冊的專業人士以及一名文物顧問，對該法定古蹟進行整體結構評估，並提交古蹟辦審批同意。
+
+保安局指出，行人天橋設計亦會尊重法定古蹟及周邊鄉村景觀。現行設計採用非封閉式行人天橋，所選用的物料將與法定古蹟及周邊鄉村景觀相協調。建築物外立面將盡量避免使用反光物料，並採用低調、中性的色調。建議在項目工地靠近法定古蹟的位置種植具美觀效果的植物，減低項目的視覺突出度。
+
+評估提到，項目為公眾提供一個難得的機會，讓市民能夠接觸及欣賞該廟宇的文化及歷史價值。新沙頭角口岸的連接天橋不僅能提升可達性，更可創造高處觀景位置。
+
+
+
+編輯：譚佩貞"
 屯門有4輛貨車疑被偷油　損失逾3萬元,2026-03-11 15:38,,2026-03-11 15:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846887-20260311.htm,"屯門望發街有4輛貨車，油缸的油懷疑被人偷去，合共損失超過3萬元。
 
 警方在早上約8時接報，一名貨車司機表示停泊在望發街的中型貨車的油缸被人偷油，警員到場調查，共有4輛中型貨車被人偷油，其中一輛貨車車主未能聯絡，其餘3輛貨車被偷走的油價值超過3萬元。警方正調查案件，暫時未有人被捕。
@@ -1530,14 +1583,3 @@ Edited by Thomas McAlinden"
 
 
 編輯：許敬軒"
-滬指升逾0.2%　創業板指數升逾1%,2026-03-11 15:16,,2026-03-11 15:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1846883-20260311.htm,"滬深股市高收，光伏、儲能、鋰電池和化工等股份上升；軍工、半導體、海南自貿區等股份下跌。
-
-上證綜合指數收市報4133點，升10點，升幅0.25%。
-
-深證成份指數報14465點，升111點，升幅0.78%。
-
-創業板指數報3349點，升43點，升幅1.31%。
-
-
-
-編輯：宋家樑"
