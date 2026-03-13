@@ -1,4 +1,23 @@
 title,date,scrape_time,section,source,url,news_content
+港匯指數,2026-03-13 15:45,2026-03-13 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300198.htm,二○二六年三月十三日（星期五）的港幣匯率指數為一百零二（和昨日指數比較上升零點二）。
+Effective Exchange Rate Index,2026-03-13 15:45,2026-03-13 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300199.htm,"The effective exchange rate index for the Hong Kong dollar on Friday, March 13, 2026 is 102 (up 0.2 against yesterday's index)."
+​律政司司長在第六期中國法基本原則課程開班典禮致辭（只有中文）（附圖）,2026-03-13 15:03,2026-03-13 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300449.htm,"以下是律政司司長林定國資深大律師今日（三月十三日）在第六期中國法基本原則課程開班典禮的致辭：
+
+尊敬的王教授（清華大學法學院教授、全國港澳研究會副會長王振民教授）、陳院長（清華大學繼續教育學院副院長陳肖庚）、各位學員：
+
+大家好！歡迎各位出席律政司第六期中國法基本原則課程開班典禮。我們非常榮幸再次與清華大學合作，透過這個課程讓政府律師及私人執業律師有機會進一步了解國家法律體系。
+
+我們特別感謝中央港澳辦（中共中央港澳工作辦公室）和清華大學一直對本課程的大力支持，也特別感謝各位課程主講教授，包括王振民博士、何海波博士、張建偉博士、申衞星博士、龍俊博士、屠凱博士、李應博博士、靳衞萍博士，感謝他們撥冗與學員分享寶貴的知識和見解。
+
+回歸以來，「一國兩制」、「港人治港」、高度自治一直是中央對港工作的根本方針。維護國家主權、安全、發展利益是「一國兩制」方針的最高原則。《維護國家安全條例》在二○二四年三月正式生效實施，履行了香港特區在《基本法》第二十三條的憲制責任。不論在政府工作或私人執業的律師都必須準確理解國家《憲法》、《基本法》和《香港國安法》。我們必須確保在履行職責時，準確貫徹「一國兩制」的方針，維護國家安全，促進香港的長期繁榮和穩定。
+
+昨日閉幕的第十四屆全國人民代表大會第四次會議，通過《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》，為國家未來五年發展提出了總體思路、戰略目標及重大舉措，是引領全面實踐中國式現代化的戰略藍圖。規劃建議明確支持香港更好融入和服務國家發展大局，鞏固提升香港國際金融、航運、貿易中心和國際航空樞紐地位，並建設國際創新科技中心，深化國際法律及解決爭議服務中心、區域知識產權貿易中心、中外文化藝術交流中心建設，加快北部都會區建設。行政長官將制定首份「香港五年規劃」，全速編製香港五年規劃，並在今年內完成有關工作，帶領香港主動對接「十五五」規劃。
+
+在政策局層面，律政司亦為此成立了「香港五年規劃編制小組」，就「十五五」規劃作出更全面、精準和細緻的部署。作為律政司一直以來的重點工作，香港特區將深化香港作為國際法律及解決爭議服務中心，務求更積極發揮香港法律和爭議解決服務在國家發展中的角色，並且在培訓國際法律人才方面積極作為。律政司將致力協助香港法律界把握好國家政策帶來的機遇，提升香港法治的優勢，更積極融入和配合國家發展大局，為建設更高水平的法治中國貢獻力量。
+
+本期課程正是基於上述理念而設計，內容非常豐富，涵蓋國家司法制度、民法、刑法、行政法等專門法律知識，以及國家《憲法》和《國家安全法》，以加深學員對《基本法》和《香港國安法》的理解。同時，課程還會教授習近平主席的法治思想和全過程人民民主的概念，以及探討國家發展大局和最新動態，目的是提升學員對國家當前法律以及其他環境的認識，希望大家能夠把握機會，好好學習。
+
+最後，我感謝中央港澳辦、清華大學以及律政司各位同事的努力，讓本期課程得以順利舉行。希望各位學員能夠積極參與，與教授們深入交流，共同提升專業水平。謝謝大家。"
 ​律政司司長在第六期中國法基本原則課程開班典禮致辭（只有中文）,2026-03-13 15:03,2026-03-13 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300449.htm,"以下是律政司司長林定國資深大律師今日（三月十三日）在第六期中國法基本原則課程開班典禮的致辭：
 
 尊敬的王教授（清華大學法學院教授、全國港澳研究會副會長王振民教授）、陳院長（清華大學繼續教育學院副院長陳肖庚）、各位學員：
@@ -202,23 +221,6 @@ Hong Kong Customs will continue to enhance efficiency and streamline procedures 
 上述收費自金錢服務經營者發牌制度於二○一二年四月一日實施以來一直未有調整。
 
 香港海關會繼續致力提高效率和精簡程序，以控制服務成本。如有查詢，歡迎致電3742 7742或電郵至msoenquiry@customs.gov.hk與香港海關金錢服務監理科聯絡。"
-"HKMA releases new anti-fraud A.I. music video ""Confronting Lachachu"" while innovative promotional strategy wins international ""Communications Initiative"" award",2026-03-13 14:40,2026-03-13 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300342.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Monetary Authority (HKMA) today (March 13) released the full music video (MV) of its new anti-fraud song ""Confronting Lachachu"" under its 2026 anti-fraud public education campaign, aiming to deliver anti-fraud messages in an entertaining yet educational way, and to unite all sectors of the society in combating scams.
-
-The new MV is inspired by the kung fu (martial arts) game concept and produced with artificial intelligence (AI) technology. It features Deputy Chief Executive of the HKMA Mr Arthur Yuen,who sings while transforming into a game character and facing off against theoriginal fraudster character ""Lachachu"" (despicable banana in Cantonese) in a battle between good and evil. The ""Lachachu"" disguises itself as various identities, including a ticket scalper, customer service representative, courier, and a dating partner, to entice members of the public into clicking suspicious links, disclosing personal information, or making instant fund transfers. The HKMA urges the public to remember three golden rules for fraud prevention:
-
-
-Click the links, fall for scams: Don't click on suspicious links;
-Path to quick cash leads to financial ruins: Never pay an advanced fee for a reward; and
-Fake romance drains real fortunes: Don't transfer money or share personal information in ""online romances"".
-
-
-In recent years, the HKMA has been proactively enhancing public awareness of fraud prevention through innovative approaches. The launch of this new video sustains the down-to-earth approach in previous promotional efforts. With joint action in building a collective defence against scams in the society, fraud cases have shown signs of slowing down in recent years. The Hong Kong Police Force's statistics indicate that 43 212 fraud cases were recorded in 2025 - a 2.9 per cent drop from 2024, marking the first decrease since 2019.
-
-The HKMA's approach to public education has garnered international recognition. The HKMA has launched an anti-fraud song ""Don't Click Links Indiscriminately"", co-performed by Yuen and singer Wan Kwong, as well as the ""Lachachu""'s interactive promotion of anti-fraud messages in the community. These initiatives have been recognised with the ""Central Banking Awards 2026 – Communications Initiative""by the international financial publication Central Banking. The HKMA expresses gratitude to the global judging panel for this acknowledgement. Going forward, the HKMA will continue to promote fraud prevention in collaboration with different stakeholders in ways that resonate with the public's lifestyle, continuously strengthening the robustness and resilience of Hong Kong's financial system.
-
-The full version of the ""Confronting Lachachu"" is now available on the HKMA's official social media platforms."
 ​金管局推出全新A.I.防騙音樂短片《決戰嗱喳蕉》　創新宣傳手法獲頒國際「年度傳訊大獎」,2026-03-13 14:40,2026-03-13 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300344.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）今日（三月十三日）發布二○二六年防騙公眾教育計劃的全新音樂短片《決戰嗱喳蕉》完整版，旨在以寓教於樂的形式傳遞防騙訊息，凝聚社會各界共同打擊騙案。
@@ -236,6 +238,23 @@ The full version of the ""Confronting Lachachu"" is now available on the HKMA's 
 金管局的宣傳教育工作亦獲得了國際認同。局方早前推出由阮國恒與歌手尹光合唱的防騙歌曲《Link咪亂撳》，以及「嗱喳蕉」深入社區的互動宣傳，日前獲國際金融刊物《中央銀行》雜誌頒發「中央銀行大獎—2026年度傳訊大獎」。金管局感謝國際評審委員會的認可，未來將繼續與各界攜手，以切合市民生活的方式推廣防騙信息，持續鞏固香港金融體系的穩健與韌性。
 
 《決戰嗱喳蕉》完整版已於金管局官方社交媒體專頁同步上架。"
+"HKMA releases new anti-fraud A.I. music video ""Confronting Lachachu"" while innovative promotional strategy wins international ""Communications Initiative"" award",2026-03-13 14:40,2026-03-13 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300342.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) today (March 13) released the full music video (MV) of its new anti-fraud song ""Confronting Lachachu"" under its 2026 anti-fraud public education campaign, aiming to deliver anti-fraud messages in an entertaining yet educational way, and to unite all sectors of the society in combating scams.
+
+The new MV is inspired by the kung fu (martial arts) game concept and produced with artificial intelligence (AI) technology. It features Deputy Chief Executive of the HKMA Mr Arthur Yuen,who sings while transforming into a game character and facing off against theoriginal fraudster character ""Lachachu"" (despicable banana in Cantonese) in a battle between good and evil. The ""Lachachu"" disguises itself as various identities, including a ticket scalper, customer service representative, courier, and a dating partner, to entice members of the public into clicking suspicious links, disclosing personal information, or making instant fund transfers. The HKMA urges the public to remember three golden rules for fraud prevention:
+
+
+Click the links, fall for scams: Don't click on suspicious links;
+Path to quick cash leads to financial ruins: Never pay an advanced fee for a reward; and
+Fake romance drains real fortunes: Don't transfer money or share personal information in ""online romances"".
+
+
+In recent years, the HKMA has been proactively enhancing public awareness of fraud prevention through innovative approaches. The launch of this new video sustains the down-to-earth approach in previous promotional efforts. With joint action in building a collective defence against scams in the society, fraud cases have shown signs of slowing down in recent years. The Hong Kong Police Force's statistics indicate that 43 212 fraud cases were recorded in 2025 - a 2.9 per cent drop from 2024, marking the first decrease since 2019.
+
+The HKMA's approach to public education has garnered international recognition. The HKMA has launched an anti-fraud song ""Don't Click Links Indiscriminately"", co-performed by Yuen and singer Wan Kwong, as well as the ""Lachachu""'s interactive promotion of anti-fraud messages in the community. These initiatives have been recognised with the ""Central Banking Awards 2026 – Communications Initiative""by the international financial publication Central Banking. The HKMA expresses gratitude to the global judging panel for this acknowledgement. Going forward, the HKMA will continue to promote fraud prevention in collaboration with different stakeholders in ways that resonate with the public's lifestyle, continuously strengthening the robustness and resilience of Hong Kong's financial system.
+
+The full version of the ""Confronting Lachachu"" is now available on the HKMA's official social media platforms."
 房屋局局長哀悼廖本懷博士逝世,2026-03-13 12:00,2026-03-13 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300270.htm,"​房屋局局長何永賢今日（三月十三日）對前房屋司、首任房屋署署長、香港房屋委員會（房委會）前主席廖本懷博士辭世表示哀悼，並向他的家人致以深切慰問。
 
 廖本懷博士於一九七三年至一九八○年間出任首任房屋署署長、一九八○年至一九八五年出任房屋司。
@@ -387,15 +406,6 @@ Mr Ronald Kwok Wing-chung
 Mr Johnny Sze Chun-hong
 Ms Chan Wo-mi
 Dr Law Sui-chun"
-《2026年食物業（修訂）規例》刊憲,2026-03-13 11:00,2026-03-13 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031200330.htm,"政府今日（三月十三日）在憲報刊登《2026年食物業（修訂）規例》（《修訂規例》），並將於三月十八日提交立法會審議。
-
-政府建議修訂《食物業規例》（第132X章），賦權食物環境衞生署（食環署）署長批出准許，在符合若干法定要求的情況下讓狗隻可進入及逗留在食物業處所內。
-
-政府發言人說：「新措施將為餐飲業界開拓新商機，並推廣人寵共融，回應了不少市民的訴求。同時，市民和食肆經營者都會有所選擇，食肆經營者要主動提出申請，獲批准的食肆亦必須在入口當眼處張貼指定樣式標示，讓市民可選擇是否光顧。」
-
-「新措施以保障安全和環境衞生為前提，會以小步走的方式穩妥推展，首階段擬設約500至1 000個名額。政府會密切留意推行情況，按需要優化下一階段的執行細節。」
-
-​如《修訂規例》獲立法會通過，食環署會適時公布食肆申請准許的詳情，預計在二○二六年年中批出首階段申請。"
 2026-27 Valuation List and Government Rent Roll open for inspection from March 16,2026-03-13 11:00,2026-03-13 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031200492.htm,"The 2026-27 Valuation List and Government Rent Roll will be open for inspection from next Monday (March 16) to May 31.
 
 Members of the public may view the Valuation List and Government Rent Roll on the Rating and Valuation Department (RVD)'s website or its Property Information Online (PIO) website, or at the RVD on 15/F, Cheung Sha Wan Government Offices, 303 Cheung Sha Wan Road, Kowloon, during office hours. Notices on the display of the Valuation List and Government Rent Roll were gazetted today (March 13).
@@ -455,6 +465,15 @@ Subject to the Regulation being passed by the Legislative Council, the Food and 
 估價署發言人說：「不論曾否提交建議書，差餉及地租繳納人均須在通知書上所示的最後繳款日期前繳款。估價署如決定修訂應課差餉租值，修訂會追溯至今年四月一日，並在日後的通知書作出調整。」
 
 為提高估價透明度，私人住宅物業（村屋除外）的差餉及地租繳納人可利用通知書上的「估價編號」和「物業資料查詢編號」，透過「物業資訊網」免費查閱其物業的實用面積和樓齡等資料。"
+《2026年食物業（修訂）規例》刊憲,2026-03-13 11:00,2026-03-13 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031200330.htm,"政府今日（三月十三日）在憲報刊登《2026年食物業（修訂）規例》（《修訂規例》），並將於三月十八日提交立法會審議。
+
+政府建議修訂《食物業規例》（第132X章），賦權食物環境衞生署（食環署）署長批出准許，在符合若干法定要求的情況下讓狗隻可進入及逗留在食物業處所內。
+
+政府發言人說：「新措施將為餐飲業界開拓新商機，並推廣人寵共融，回應了不少市民的訴求。同時，市民和食肆經營者都會有所選擇，食肆經營者要主動提出申請，獲批准的食肆亦必須在入口當眼處張貼指定樣式標示，讓市民可選擇是否光顧。」
+
+「新措施以保障安全和環境衞生為前提，會以小步走的方式穩妥推展，首階段擬設約500至1 000個名額。政府會密切留意推行情況，按需要優化下一階段的執行細節。」
+
+​如《修訂規例》獲立法會通過，食環署會適時公布食肆申請准許的詳情，預計在二○二六年年中批出首階段申請。"
 政府再度委任版權審裁處主席,2026-03-13 11:00,2026-03-13 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/13/P2026031300259.htm,"政府今日（三月十三日）公布再度委任孫靖乾資深大律師為版權審裁處主席，任期兩年，由二○二六年四月一日起生效。
 
 版權審裁處是根據《版權條例》成立的半司法機構，就版權特許機構訂定的版權特許計劃條款所引起的爭議作出裁決。版權審裁處由一位主席、一位副主席和七位成員組成。
@@ -726,30 +745,6 @@ Hong Kong Visual Arts Centre showcases new prints and installations by artist Ja
 各位同事，今年是國家「十五五」規劃的開局之年。「十五五」規劃為國家和香港的未來五年定下鴻圖大計，對公務員團隊的工作有直接的指導作用，特區政府亦會編制對接「十五五」規劃的香港五年規劃。我認為全體公務員都應該主動了解「十五五」規劃綱要的內容，並且積極思考怎樣結合自身工作，為香港特區對接「十五五」規劃作出貢獻，令香港更好地融入和服務國家發展大局。我有信心公務員同事會繼續以高度的責任感和使命感，加上創新思維，提升公共服務水平，讓香港實現高質量發展。
 
 最後，我再次祝賀各位得奬者，亦趁現在仍是農曆正月，在此祝賀各位在馬年龍馬精神、工作順利。多謝各位。"
-Hong Kong Green Week returns in September,2026-03-12 18:00,2026-03-12 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200262.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-  The Hong Kong Green Week 2026 will convene under the theme ""Future-proofing Sustainable Growth"" from September 7 to 11.
-
-  This will mark the third edition of the city's flagship sustainability event, which brings together diverse and practical insights across the globe to inspire and drive collective actions towards Asia's sustainable transformation.
-
-Co-ordinated by the Hong Kong Monetary Authority, the 2026 programme will consist of the Main Programme, which features large-scale conferences and forums that foster open dialogues across sectors and regions, and the Satellite Events, which offer more targeted discussions in various forms, including roundtables, workshops, and seminars.
-
-The programme will revolve around six key thematic areas that are central to maintaining Asia's sustainable growth in an evolving global landscape:
-
-
-Inclusive Transition
-Climate Adaptation and Resilience
-Green Technology
-Green Trade and Supply Chain Resilience
-Nature and Biodiversity Conservation
-Investing for Social Impact
-
-
-Please visit the official event website (www.hkgreenweek.hk) for more details. The website will continue to be updated.
-
-About Hong Kong Green Week
-
-First held in 2024, the Hong Kong Green Week offers a platform for stakeholders worldwide to engage in dialogues and collaborations on sustainability. In 2025, a total of 65 local and international institutions from both public and private sectors hosted over 40 multifaceted events during the second edition of the Hong Kong Green Week, bringing together over 14 500 participants from more than 75 jurisdictions, and elevating Hong Kong's status as a hub for sustainability dialogues."
 「香港綠色周」九月再啓航,2026-03-12 18:00,2026-03-12 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200256.htm,"下稿代香港金融管理局發出︰
 
 「香港綠色周2026」將於九月七日至十一日舉行，主題為「賦能未來．共築可持續發展」。
@@ -774,23 +769,30 @@ First held in 2024, the Hong Kong Green Week offers a platform for stakeholders 
 有關「香港綠色周」
 
 「香港綠色周」自二○二四年起舉行，為來自世界各地的持份者提供交流與合作的平台，促進可持續發展。二○二五年第二屆「香港綠色周」匯聚65家本地及國際公私營機構舉辦超過40項不同形式的活動，吸引來自全球超過75個地區的14 500多名參與者，進一步提升香港作為可持續發展對話樞紐的地位。"
-"Hong Kong Customs seizes suspected controlled injections and pharmaceutical products worth about $990,000 (with photos)",2026-03-12 17:30,2026-03-12 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200524.htm,"Hong Kong Customs detected two cases of importing suspected controlled injections and pharmaceutical products in early March and seized 1 744 vials of injection and 27 tubes of ointment suspected to contain Part 1 poisons, with an estimated market value of about $990,000.
+Hong Kong Green Week returns in September,2026-03-12 18:00,2026-03-12 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200262.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
 
-In the first case, Customs officers on March 5 inspected a postal packet imported from Japan at the Surface Mail Centre. Upon inspection, Customs officers found and seized 96 anti-obesity injection vials suspected to contain Part 1 poisons from the consignment.
+  The Hong Kong Green Week 2026 will convene under the theme ""Future-proofing Sustainable Growth"" from September 7 to 11.
 
-After a follow-up investigation, Customs officers on the same day arrested a 45-year-old female consignee suspected to be connected with the case, and further seized 888 injection vials and 27 tubes of ointment suspected to contain Part 1 poisons at the consignee's address in North Point.
+  This will mark the third edition of the city's flagship sustainability event, which brings together diverse and practical insights across the globe to inspire and drive collective actions towards Asia's sustainable transformation.
 
-In the second case, Customs officers on March 9 inspected an express parcel imported from Korea to Hong Kong via the Shenzhen Bay Control Point. Upon inspection, Customs officers found and seized 32 cosmetic injection vials suspected to contain Part 1 poisons in the parcel.
+Co-ordinated by the Hong Kong Monetary Authority, the 2026 programme will consist of the Main Programme, which features large-scale conferences and forums that foster open dialogues across sectors and regions, and the Satellite Events, which offer more targeted discussions in various forms, including roundtables, workshops, and seminars.
 
-After a follow-up investigation, Customs officers on March 10 arrested a 35-year-old male consignee suspected to be connected with the case, and further seized 728 cosmetic injection vials suspected to contain Part 1 poisons at the consignee's address in Cheung Sha Wan.
+The programme will revolve around six key thematic areas that are central to maintaining Asia's sustainable growth in an evolving global landscape:
 
-Investigations are ongoing, and the two arrested persons have been released on bail.
 
-Under the Import and Export Ordinance, any person who imports pharmaceutical products and medicines without a valid import licence commits an offence. The maximum penalty upon conviction is a fine of $500,000 and imprisonment for two years.
+Inclusive Transition
+Climate Adaptation and Resilience
+Green Technology
+Green Trade and Supply Chain Resilience
+Nature and Biodiversity Conservation
+Investing for Social Impact
 
-Under the Pharmacy and Poisons Ordinance, any person who possesses any poison included in Part 1 of the Poisons List other than in accordance with provisions commits an offence. The maximum penalty upon conviction is a fine of $100,000 and imprisonment for two years.
 
-Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+Please visit the official event website (www.hkgreenweek.hk) for more details. The website will continue to be updated.
+
+About Hong Kong Green Week
+
+First held in 2024, the Hong Kong Green Week offers a platform for stakeholders worldwide to engage in dialogues and collaborations on sustainability. In 2025, a total of 65 local and international institutions from both public and private sectors hosted over 40 multifaceted events during the second edition of the Hong Kong Green Week, bringing together over 14 500 participants from more than 75 jurisdictions, and elevating Hong Kong's status as a hub for sustainability dialogues."
 香港海關檢獲約九十九萬元懷疑受管制針劑及藥劑製品（附圖）,2026-03-12 17:30,2026-03-12 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200526.htm,"香港海關於三月上旬偵破兩宗輸入懷疑受管制針劑及藥劑製品案件，檢獲懷疑含有第一部毒藥的一千七百四十四支針劑及二十七支藥膏，估計市值約九十九萬元。
 
 首宗案件中，海關人員於三月五日在郵運中心查驗一件從日本抵港的郵包。經查驗後，海關人員在包裹內發現並檢獲九十六支懷疑含有第一部毒藥的抗肥胖症針劑。
@@ -808,6 +810,23 @@ Members of the public may report any suspected smuggling activities to Customs' 
 根據《藥劑業及毒藥條例》，任何人未有按照條文的規定而管有毒藥表第1部所列任何毒藥，即屬違法，一經定罪，最高可被判罰款十萬元及監禁兩年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動的事宜。"
+"Hong Kong Customs seizes suspected controlled injections and pharmaceutical products worth about $990,000 (with photos)",2026-03-12 17:30,2026-03-12 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200524.htm,"Hong Kong Customs detected two cases of importing suspected controlled injections and pharmaceutical products in early March and seized 1 744 vials of injection and 27 tubes of ointment suspected to contain Part 1 poisons, with an estimated market value of about $990,000.
+
+In the first case, Customs officers on March 5 inspected a postal packet imported from Japan at the Surface Mail Centre. Upon inspection, Customs officers found and seized 96 anti-obesity injection vials suspected to contain Part 1 poisons from the consignment.
+
+After a follow-up investigation, Customs officers on the same day arrested a 45-year-old female consignee suspected to be connected with the case, and further seized 888 injection vials and 27 tubes of ointment suspected to contain Part 1 poisons at the consignee's address in North Point.
+
+In the second case, Customs officers on March 9 inspected an express parcel imported from Korea to Hong Kong via the Shenzhen Bay Control Point. Upon inspection, Customs officers found and seized 32 cosmetic injection vials suspected to contain Part 1 poisons in the parcel.
+
+After a follow-up investigation, Customs officers on March 10 arrested a 35-year-old male consignee suspected to be connected with the case, and further seized 728 cosmetic injection vials suspected to contain Part 1 poisons at the consignee's address in Cheung Sha Wan.
+
+Investigations are ongoing, and the two arrested persons have been released on bail.
+
+Under the Import and Export Ordinance, any person who imports pharmaceutical products and medicines without a valid import licence commits an offence. The maximum penalty upon conviction is a fine of $500,000 and imprisonment for two years.
+
+Under the Pharmacy and Poisons Ordinance, any person who possesses any poison included in Part 1 of the Poisons List other than in accordance with provisions commits an offence. The maximum penalty upon conviction is a fine of $100,000 and imprisonment for two years.
+
+Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 與銀行有關的騙案通知,2026-03-12 17:28,2026-03-12 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200573.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -910,6 +929,35 @@ from the first departure on Sunday (March 15) to about 6pm.
   Members of the public are advised to make use of public transport services as far as possible to avoid traffic congestion and unnecessary delays. During the event, the TD and the Police will closely monitor the traffic situation. The Police may adjust the traffic arrangements subject to the prevailing crowd and traffic conditions in the areas. Members of the public should pay attention to the latest traffic news through radio, television or the ""HKeMobility"" mobile application.
 
   For details of the special traffic and public transport arrangements, members of the public may visit the TD website (www.td.gov.hk), its mobile application ""HKeMobility"" or passenger notices issued by the relevant public transport operators."
+Construction output for fourth quarter and whole year of 2025,2026-03-12 16:30,2026-03-12 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200297.htm,"The total gross value of construction works (GVCW) performed by main contractors in the fourth quarter of 2025 decreased by 6.1% in nominal terms compared with a year earlier to $73.2 billion, according to the provisional results of the Quarterly Survey of Construction Output released today (March 12) by the Census and Statistics Department (C&SD).
+
+After discounting the effect of price changes, the provisional results showed that the total GVCW performed by main contractors decreased by 8.3% in real terms over the same period. GVCW in real terms is derived by deflating the corresponding nominal value with an appropriate price index to the price level in the base period of 2000.
+
+Analysed by type of construction works, the GVCW performed at private sector sites totalled $16.6billion in the fourth quarter of 2025, down by 23.2% in nominal terms compared with a year earlier. In real terms, it decreased by 25.1%. The GVCW performed at public sector sites increased by 2.9% in nominal terms over a year earlier to $34.3 billion in the fourth quarter of 2025. In real terms, however, it slightly decreased by 0.4%.
+
+The GVCW performed by main contractors at locations other than construction sites amounted to $22.2 billion in the fourth quarter of 2025, down by 3.0% in nominal terms compared with a year earlier. In real terms, it decreased by 2.1%. Construction works at locations other than construction sites included minor new construction activities and decoration, repair and maintenance for buildings; and electrical equipment installation and maintenance works at locations other than construction sites.
+
+Analysed by major end-use group, the GVCW performed at construction sites in respect of residential buildings projects amounted to $21.4 billion in the fourth quarter of 2025, down by 3.5% in nominal terms compared with a year earlier. Over the same period, the GVCW performed at construction sites in respect of transport projects down by 19.3% in nominal terms to $8.7 billion in the fourth quarter of 2025.
+
+On a seasonally adjusted quarter-to-quarter basis, the GVCW performed by main contractors decreased by 4.5% in nominal terms and 3.1% in real terms in the fourth quarter of 2025 compared with the third quarter of 2025.
+
+For 2025 as a whole, the provisional results showed that the total GVCW performed by main contractors decreased by 1.4% in nominal terms compared with a year earlier to $286.6 billion. After discounting the effect of price changes, the total GVCW performed by main contractors in 2025 decreased by 4.5% in real terms compared with a year earlier.
+
+Analysed by type of construction works, the GVCW performed at private sector sites totalled $70.7 billion in 2025, down by 16.9% in nominal terms compared with a year earlier. In real terms, it decreased by 19.2%. The GVCW performed at public sector sites amounted to $130.1 billion in 2025, up by 10.2% in nominal terms over a year earlier. In real terms, it increased by 6.2%.
+
+The GVCW performed by main contractors at locations other than construction sites amounted to $85.7 billion in 2025, down by 1.9% in nominal terms compared with a year earlier. In real terms, it decreased by 3.1%.
+
+Analysed by major end-use group, residential buildings projects accounted for the largest share in the total GVCW performed at construction sites in 2025. The GVCW performed in respect of these projects amounted to $84.9 billion in 2025, up by 1.2% in nominal terms over a year earlier. Transport projects constituted the second largest group of construction site works in 2025. The GVCW performed in respect of these projects totalled $33.3 billion in 2025, down by 21.8% in nominal terms compared with a year earlier.
+
+Tables 1 and 2 show the provisional figures on the GVCW performed by main contractors in the fourth quarter and the whole year of 2025 respectively. Table 3 shows the revised figures for the third quarter of 2025.
+
+Owing to the widespread sub-contracting practices in the construction industry, a construction company can be a main contractor for one contract and a sub-contractor for another contract at the same time. The GVCW performed by main contractors covers only those projects in which the construction company takes the role of a main contractor, but not projects in which it takes only the role of a sub-contractor. However, sub-contractors' contribution to projects should have been included in the GVCW performed by main contractors for whom they worked.
+
+The classification in the construction sector follows the Hong Kong Standard Industrial Classification Version 2.0, which is used in various economic surveys for classifying economic units into different industry classes.
+
+More detailed statistics are given in the Report on the Quarterly Survey of Construction Output. Users can browse and download thispublication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1090002&scode=330).
+
+For enquiries about the survey results, please contact the Construction and Miscellaneous Services Statistics Section of the C&SD (Tel: 3903 6965; email:building@censtatd.gov.hk)."
 Quarterly business receipts indices for service industries for fourth quarter of 2025 and whole year of 2025,2026-03-12 16:30,2026-03-12 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200283.htm,"​Business receipts in value terms of almost all major service industries showed increases of varying magnitudes in the fourth quarter of 2025 when compared with the fourth quarter of 2024, according to the provisional figures of business receipts indices released today (March 12) by the Census and Statistics Department (C&SD).
 
 Comparing the fourth quarter of 2025 with the fourth quarter of 2024, double-digit increases were recorded in business receipts indices of the financing (except banking) (+34.7%), insurance (+31.9%), import/export trade (+20.1%) and banking (+16.0%) industries. On the other hand, the warehousing and storage industry recorded a decrease of 3.3% in business receipts index during the same period.
@@ -974,35 +1022,6 @@ For enquiries about the business receipts indices, please contact the Business S
 更詳細的統計數字刊載於《建造工程完成量按季統計調查報告》。用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1090002&scode=330）瀏覽及下載該刊物。
 
 有關統計調查結果的查詢，請與政府統計處建造及雜項服務統計組聯絡（電話：3903 6965；電郵：building@censtatd.gov.hk）。"
-Construction output for fourth quarter and whole year of 2025,2026-03-12 16:30,2026-03-12 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200297.htm,"The total gross value of construction works (GVCW) performed by main contractors in the fourth quarter of 2025 decreased by 6.1% in nominal terms compared with a year earlier to $73.2 billion, according to the provisional results of the Quarterly Survey of Construction Output released today (March 12) by the Census and Statistics Department (C&SD).
-
-After discounting the effect of price changes, the provisional results showed that the total GVCW performed by main contractors decreased by 8.3% in real terms over the same period. GVCW in real terms is derived by deflating the corresponding nominal value with an appropriate price index to the price level in the base period of 2000.
-
-Analysed by type of construction works, the GVCW performed at private sector sites totalled $16.6billion in the fourth quarter of 2025, down by 23.2% in nominal terms compared with a year earlier. In real terms, it decreased by 25.1%. The GVCW performed at public sector sites increased by 2.9% in nominal terms over a year earlier to $34.3 billion in the fourth quarter of 2025. In real terms, however, it slightly decreased by 0.4%.
-
-The GVCW performed by main contractors at locations other than construction sites amounted to $22.2 billion in the fourth quarter of 2025, down by 3.0% in nominal terms compared with a year earlier. In real terms, it decreased by 2.1%. Construction works at locations other than construction sites included minor new construction activities and decoration, repair and maintenance for buildings; and electrical equipment installation and maintenance works at locations other than construction sites.
-
-Analysed by major end-use group, the GVCW performed at construction sites in respect of residential buildings projects amounted to $21.4 billion in the fourth quarter of 2025, down by 3.5% in nominal terms compared with a year earlier. Over the same period, the GVCW performed at construction sites in respect of transport projects down by 19.3% in nominal terms to $8.7 billion in the fourth quarter of 2025.
-
-On a seasonally adjusted quarter-to-quarter basis, the GVCW performed by main contractors decreased by 4.5% in nominal terms and 3.1% in real terms in the fourth quarter of 2025 compared with the third quarter of 2025.
-
-For 2025 as a whole, the provisional results showed that the total GVCW performed by main contractors decreased by 1.4% in nominal terms compared with a year earlier to $286.6 billion. After discounting the effect of price changes, the total GVCW performed by main contractors in 2025 decreased by 4.5% in real terms compared with a year earlier.
-
-Analysed by type of construction works, the GVCW performed at private sector sites totalled $70.7 billion in 2025, down by 16.9% in nominal terms compared with a year earlier. In real terms, it decreased by 19.2%. The GVCW performed at public sector sites amounted to $130.1 billion in 2025, up by 10.2% in nominal terms over a year earlier. In real terms, it increased by 6.2%.
-
-The GVCW performed by main contractors at locations other than construction sites amounted to $85.7 billion in 2025, down by 1.9% in nominal terms compared with a year earlier. In real terms, it decreased by 3.1%.
-
-Analysed by major end-use group, residential buildings projects accounted for the largest share in the total GVCW performed at construction sites in 2025. The GVCW performed in respect of these projects amounted to $84.9 billion in 2025, up by 1.2% in nominal terms over a year earlier. Transport projects constituted the second largest group of construction site works in 2025. The GVCW performed in respect of these projects totalled $33.3 billion in 2025, down by 21.8% in nominal terms compared with a year earlier.
-
-Tables 1 and 2 show the provisional figures on the GVCW performed by main contractors in the fourth quarter and the whole year of 2025 respectively. Table 3 shows the revised figures for the third quarter of 2025.
-
-Owing to the widespread sub-contracting practices in the construction industry, a construction company can be a main contractor for one contract and a sub-contractor for another contract at the same time. The GVCW performed by main contractors covers only those projects in which the construction company takes the role of a main contractor, but not projects in which it takes only the role of a sub-contractor. However, sub-contractors' contribution to projects should have been included in the GVCW performed by main contractors for whom they worked.
-
-The classification in the construction sector follows the Hong Kong Standard Industrial Classification Version 2.0, which is used in various economic surveys for classifying economic units into different industry classes.
-
-More detailed statistics are given in the Report on the Quarterly Survey of Construction Output. Users can browse and download thispublication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1090002&scode=330).
-
-For enquiries about the survey results, please contact the Construction and Miscellaneous Services Statistics Section of the C&SD (Tel: 3903 6965; email:building@censtatd.gov.hk)."
 二零二五年第四季及全年服務行業按季業務收益指數,2026-03-12 16:30,2026-03-12 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200280.htm,"​政府統計處今日（三月十二日）發表的業務收益指數的臨時數字顯示，二零二五年第四季與二零二四年第四季比較，差不多所有主要服務行業以價值計算的業務收益均有不同程度的升幅。
 
 二零二五年第四季與二零二四年第四季比較，金融業（銀行除外）（+34.7%）、保險業（+31.9%）、進出口貿易業（+20.1%）及銀行業（+16.0%）的業務收益指數均錄得雙位數升幅。另一方面，貨倉及倉庫業的業務收益指數同期則下跌3.3%。
@@ -1040,25 +1059,3 @@ For enquiries about the survey results, please contact the Construction and Misc
 有關業務收益指數的查詢，請與政府統計處商業服務統計組聯絡（電話：3903 7274或電郵：business-receipts@censtatd.gov.hk）。"
 Effective Exchange Rate Index,2026-03-12 16:00,2026-03-12 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200186.htm,"The effective exchange rate index for the Hong Kong dollar on Thursday, March 12, 2026 is 101.8 (up 0.3 against yesterday's index)."
 港匯指數,2026-03-12 16:00,2026-03-12 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200182.htm,二○二六年三月十二日（星期四）的港幣匯率指數為一百零一點八（和昨日指數比較上升零點三）。
-日本進口水產的檢測情況,2026-03-12 15:48,2026-03-12 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200497.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
-
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
-
-由三月十一日中午截至今日（三月十二日）中午，食安中心已對98個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
-
-同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共210 977個日本進口食物樣本（包括134 330個水產及其製品、海藻及海鹽樣本）及共46 178個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
-Inspection of aquatic products imported from Japan,2026-03-12 15:48,2026-03-12 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/12/P2026031200500.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
-
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
-
-  From noon on March 11 to noon today (March 12), the CFS conducted tests on the radiological levels of 98 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
-
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
-
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
-
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 210 977 samples of food imported from Japan (including 134 330 samples of aquatic and related products, seaweeds and sea salt) and 46 178 samples of local catch respectively. All the samples passed the tests."
