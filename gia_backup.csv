@@ -1,4 +1,41 @@
 title,date,scrape_time,section,source,url,news_content
+DEVB teams and its departments achieved outstanding results at International Exhibition of Inventions of Geneva (with photos),2026-03-15 16:30,2026-03-15 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500513.htm,"The Development Bureau (DEVB) and its departments presented 36 projects at the 51st International Exhibition of Inventions of Geneva and achieved remarkable results by winning 36 awards, comprising the Saudi Innovation Excellence Prize - Ministry of Education, Kingdom of Saudi Arabia, 7 gold medals with the congratulations of jury, 13 gold medals, 11 silver medals, and 4 bronze medals (see Annex), setting a new record for the number of winning awards.
+
+The Secretary for Development, Ms Bernadette Linn, today (March 15) extended her heartfelt congratulations to the teams from the Works Branch of the DEVB and its departments, including the Drainage Services Department (DSD), the Civil Engineering and Development Department (CEDD), the Buildings Department (BD), the Water Supplies Department (WSD), the Electrical and Mechanical Services Department, and the Highways Department, for receiving multiple awards with their innovative projects at the Exhibition this year. She said, ""The DEVB and the works departments have been actively engaging in research and development and applying innovative technologies. Many of the award-winning projects this year have introduced novel solutions in the fields of artificial intelligence, robotics, and drones, gaining international recognition. These projects not only enhance the quality and efficiency of public services and improve cost-effectiveness, but also set a good example for the industry, driving the wider adoption of innovative technologies across the sector and jointly developing Hong Kong into an international infrastructure centre.""
+
+The Crawler-type all-terrain survey robot ""T300"", which was jointly developed by the DSD and a professional team from the Chinese Mainland, won the Saudi Innovation Excellence Prize - Ministry of Education, Kingdom of Saudi Arabia. This marks the first time a Hong Kong Special Administrative Region Government department has received this prestigious award. Equipped with a zoomable high-resolution camera, LiDAR, and an adaptive lighting system, this robot can capture comprehensive visual and spatial data. Its novel transformable tracked structure allows it to navigate complex and challenging terrain. The robot can simultaneously collect photogrammetric information and point cloud data, enabling the automatic construction of detailed three-dimensional (3D) models of the drainage facilities. Its modular design can also accommodate other sensors, such as the gas detector for monitoring air quality in confined spaces. Inspection data can be automatically uploaded to an AI-powered online condition assessment platform for real-time analysis and rapid generation of inspection reports.
+
+The winning projects of the gold medals with the congratulations of jury are as follows:
+
+1. ""FireCheck 4D – A BIM Fire Safety Checker"" developed by the BD: This project integrates Building Information Modelling (BIM) automated checking to reform building design and regulatory processes for fire safety compliance, and enables precise spatial analysis and fire protection material tracking.
+
+2. ""AI Landslip Warning System"" developed by the CEDD: The system applies AI for big data analytics to enhance the accuracy of the predicted number of reported landslides during heavy rainstorms, thereby enhancing its capability for landslide risk assessment and optimising the issuance of Landslip Warning.
+
+3. ""CANOPUS - Smart Safety Harness"" developed by the CEDD: By integrating Internet of Things (IoT) and worker identification, this system monitors in real-time the behaviour of those who work at height and the environmental conditions, to ensure the workers using the harness properly.
+
+4. ""Intelligent occupational health and safety management and monitoring system for confined spaces"" developed by the CEDD: This system designed for confined spaces integrates AI vision, gas sensing, ultra-wideband positioning, vital sign monitoring and cloud analytics to deliver continuous detection and instant alerts for abnormal situations.
+
+5. ""Personnel real-name system and equipment tracking intelligent software"" developed by the CEDD: This software features deep integration of identity verification, high-precision ultra-wideband personnel and equipment tracking, multi-sensor data fusion, electronic permits-to-work (e-PTW), and blockchain-based audit trails. Powered by modular AI technology, the platform enables predictive safety alerts and collaborative emergency response.
+
+6. ""i-STAR: Intelligent smart trap analysing robot"" developed by the DSD: This robot mainly helps check and verify the structural safety of cover plates. i-STAR integrates artificial intelligence and multiple sensing technologies to monitor in real-time the conditions of cover plates.
+
+7. ""AquaMend Rover"" developed by the WSD: The robotic crawler designed for urgent water pipeline repairs can navigate inside the pipes to perform welding and maintenance, drastically reducing the working hours of the welders working in the confined spaces.
+
+In addition, the ""SmartAERO"", a smart drone management platform, which was jointly developed by the DEVB and the CEDD, won a gold medal. The ""SmartAERO"" enables AI-driven operations to control a fully autonomous drone dock, ensuring smooth, precise and swift drone deployment across diverse environments and in emergency situations.
+
+The International Exhibition of Inventions of Geneva is one of the most significant global annual events on inventions. This year, the Exhibition was held from March 11 to 15 in Geneva, Switzerland. About 1 000 inventions from 35 countries and regions were evaluated by the international jury of specialists."
+米埔火警特別通知,2026-03-15 16:24,2026-03-15 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500547.htm,"電台及電視台當值宣布員注意，請盡快播出以下信息，並適時重播：
+
+米埔小磡村一個回收場今日（三月十五日）下午三時四十一分發生火警，消防處正進行滅火行動。
+
+如市民受到隨風飄散的煙霧和異味影響，請關閉門窗及保持鎮定。"
+Special announcement on fire in Mai Po,2026-03-15 16:24,2026-03-15 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500545.htm,"Attention TV and radio duty announcers:
+
+Please broadcast the following special announcement as soon as possible, and repeat it at suitable intervals:
+
+A fire broke out at a recycling site at Siu Hum Tsuen, Mai Po at 3.41pm today (March 15). The Fire Services Department is conducting a firefighting operation.
+
+Members of the public who are being affected by the smoke and an unusual odour carried by the wind are advised to close their doors and windows and stay calm."
 投資署與食環署跨部門合作　助中資企業於香港推出首個智能餐飲機器人（附圖）,2026-03-15 15:54,2026-03-15 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031200566.htm,"投資推廣署（投資署）今日（三月十五日）宣布，與食物環境衞生署（食環署）跨部門合作，協助華潤創業建設投資有限公司（華創建投）於香港推出首個提供24小時現製現售熱食的智能餐飲機器人，由接單、翻熱至出餐全程自動化操作，將人工智能科技應用於本地餐飲零售場景。
 
 投資署署長劉凱旋表示：「投資署一直以來與政策局和部門緊密溝通和協作，不斷優化香港的營商環境。最新公布的《財政預算案》明確提出推動人工智能產業化及鼓勵人工智能的廣泛應用，我們十分樂見相關技術於餐飲行業付諸實行，為智慧零售開拓新方向。是次項目亦充分體現跨部門協作的成果，使創新科技在符合本地法規及食品安全要求下順利落地。我期待更多公司把握香港的營商優勢，繼續拓展香港以至其他亞太地區業務。」
@@ -110,11 +147,6 @@ Maymay Kitchen at 108 Ap Lei Chau Main Street in Aberdeen
 Maymay Kitchen at 106 Ap Lei Chau Main Street in Aberdeen
 
   The meeting will be held at 9.45am in the conference room, Room 102, 1/F, 258 Queen's Road East, Wan Chai. Members of the public are welcome to attend."
-數個泳灘懸掛紅旗,2026-03-15 10:16,2026-03-15 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500223.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（三月十五日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘及大浪灣泳灘；西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flags hoisted at some beaches,2026-03-15 10:16,2026-03-15 10:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500222.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -122,19 +154,11 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (March 15) that due to big waves, red flags have been hoisted at Stanley Main Beach and Big Wave Bay Beach in Southern District, Hong Kong Island; Silverstrand Beach and Clear Water Bay Second Beach in Sai Kung District. Beachgoers are advised not to swim at these beaches."
-Taxi drivers required to provide e-payment means for passengers' convenience from April 1 (with photos),2026-03-15 10:03,2026-03-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm,"  The Transport Department (TD) today (March 15) reminded taxi drivers that, starting from April 1, 2026, they must provide electronic payment means (e-payment means) to facilitate passengers' payments of taxi fares. Before boarding, passengers may check the stickers on taxi windows or ask the driver about the e-payment means available. Passengers may also continue to pay in cash. Drivers who have yet to install e-payment means are urged to do so as soon as possible to familiarise themselves with the operations.
+數個泳灘懸掛紅旗,2026-03-15 10:16,2026-03-15 10:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500223.htm,"電台及電視台當值宣布員注意：
 
-  From April 1, all taxi drivers are required to provide at least two types of e-payment means, including one QR code e-payment means (such as AlipayHK, WeChat Pay HK or BoC Pay) and one non-QR code e-payment means (such as Octopus cards, credit cards or Faster Payment System (FPS)). Drivers may flexibly choose the e-payment means based on their operational needs. Stickers showing the available e-payment means should be displayed at designated positions on taxi windows for passengers' easy reference. There are e-payment platforms (e.g. Octopus Mobile POS) available in the market supporting multiple payment means to enable drivers to meet the mandatory requirement.
+請盡快播出下列特別報告：
 
-  A spokesman for the TD said, ""The new requirement aims to leverage the use of electronic technology to further enhance the overall quality of taxi services. Different types of e-payment means can provide convenience to passengers, especially tourists, in settling fares, cater for their different needs, and improve the operational efficiency of the taxi trade at the same time.""
-
-  Since August 2025, the TD has been steering major e-payment platforms and the taxi trade to step up publicity and public education to familiarise taxi drivers with the mandatory requirement. The TD has also hosted over 20 workshops at community halls and centres across the territory and 11 outreach activities at taxi stands to proactively engage drivers, so that they understand the operations of e-payment means, and assist them to register as users. To date, about 1 900 drivers have joined the workshops. An additional workshop for drivers to register as users will be held from 6pm to 9pm on March 20 at the hall of Henry G. Leong Yaumatei Community Centre.
-
-  In addition, dedicated service counters have been set up at three Government carparks on Rumsey Street in Sheung Wan and in Kwai Fong and Tsuen Wanfrom March 7 to April 4 from 9.30am to 5.30pm to further support drivers in installing and registering for e-payment means early. Taxi drivers can make reservations by phone (38425821), email (taxiteam@td.gov.hk) or fax (28242176) to save waiting time. Over 1600 drivers have made bookings so far. Reservation holders who drive to the counters will enjoy one hour of free parking.
-
-  The TD has strengthened publicity through multiple channels, including dedicated liquefied petroleum gas filling stations for taxis, taxi stands at the airport, boundary control points and major stations, designated pre-service training schools for taxi drivers and taxi driver identity plate agents. Publicity has also been carried out regularly via placards inside taxi compartments, the Radio Announcement in the Public Interest, posters, social media, websites, taxi trade conferences and taxi newsletters. The Government noted that the taxi trade is ready for the new requirement.
-
-  Members of the public may refer to the TD's leaflet on taxi e-payment means (see Annex, Chinese only) coupled with infographics on the Agent T Facebook page (www.facebook.com/AgentT.hk) on the new requirement, or call the hotline at 28042600 for details."
+游泳人士請注意：康樂及文化事務署今日（三月十五日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘及大浪灣泳灘；西貢區的銀線灣泳灘及清水灣第二灣泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 四月一日起的士司機須提供電子繳費媒介便利乘客（附圖）,2026-03-15 10:03,2026-03-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031300569.htm,"運輸署今日（三月十五日）提醒的士司機，由今年四月一日起，必須提供電子繳費媒介，以方便乘客繳付車費。乘客登車前，可留意車窗貼紙或向司機了解所提供的電子繳費媒介。乘客亦可繼續以現金繳費。署方呼籲尚未安裝電子繳費媒介的司機盡快安裝並熟習操作。
 
 由四月一日起，所有的士司機須提供至少兩種電子繳費媒介，包括一種二維碼電子繳費媒介（如支付寶、微信支付或BoCPay）和一種非二維碼電子繳費媒介（如八達通、信用卡或「轉數快」）。司機可按營運需要靈活選擇電子繳費媒介，並在車窗指定位置張貼貼紙展示所提供的電子繳費媒介，方便乘客識別。市場上有電子繳費平台（如八達通流動收款機）支援多種支付方式，有助司機符合法例要求。
@@ -148,6 +172,19 @@ Taxi drivers required to provide e-payment means for passengers' convenience fro
 署方亦在的士專用石油氣加氣站及機場、各口岸和主要車站的士站，以及透過指定的士司機職前訓練學校、的士司機證承辦商等多個渠道加強宣傳，連同的士車廂標語牌、電台宣傳聲帶、海報、社交媒體、網站、的士事務會議及《的士通訊》等定期宣傳，政府欣悉的士業界已為新規定準備就緒。
 
 市民可參閱運輸署有關的士電子繳費媒介的單張（見附件），AgentTFacebook專頁（www.facebook.com/AgentT.hk）亦推出懶人包介紹新規定。如有查詢，可致電熱線28042600了解詳情。"
+Taxi drivers required to provide e-payment means for passengers' convenience from April 1 (with photos),2026-03-15 10:03,2026-03-15 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031300594.htm,"  The Transport Department (TD) today (March 15) reminded taxi drivers that, starting from April 1, 2026, they must provide electronic payment means (e-payment means) to facilitate passengers' payments of taxi fares. Before boarding, passengers may check the stickers on taxi windows or ask the driver about the e-payment means available. Passengers may also continue to pay in cash. Drivers who have yet to install e-payment means are urged to do so as soon as possible to familiarise themselves with the operations.
+
+  From April 1, all taxi drivers are required to provide at least two types of e-payment means, including one QR code e-payment means (such as AlipayHK, WeChat Pay HK or BoC Pay) and one non-QR code e-payment means (such as Octopus cards, credit cards or Faster Payment System (FPS)). Drivers may flexibly choose the e-payment means based on their operational needs. Stickers showing the available e-payment means should be displayed at designated positions on taxi windows for passengers' easy reference. There are e-payment platforms (e.g. Octopus Mobile POS) available in the market supporting multiple payment means to enable drivers to meet the mandatory requirement.
+
+  A spokesman for the TD said, ""The new requirement aims to leverage the use of electronic technology to further enhance the overall quality of taxi services. Different types of e-payment means can provide convenience to passengers, especially tourists, in settling fares, cater for their different needs, and improve the operational efficiency of the taxi trade at the same time.""
+
+  Since August 2025, the TD has been steering major e-payment platforms and the taxi trade to step up publicity and public education to familiarise taxi drivers with the mandatory requirement. The TD has also hosted over 20 workshops at community halls and centres across the territory and 11 outreach activities at taxi stands to proactively engage drivers, so that they understand the operations of e-payment means, and assist them to register as users. To date, about 1 900 drivers have joined the workshops. An additional workshop for drivers to register as users will be held from 6pm to 9pm on March 20 at the hall of Henry G. Leong Yaumatei Community Centre.
+
+  In addition, dedicated service counters have been set up at three Government carparks on Rumsey Street in Sheung Wan and in Kwai Fong and Tsuen Wanfrom March 7 to April 4 from 9.30am to 5.30pm to further support drivers in installing and registering for e-payment means early. Taxi drivers can make reservations by phone (38425821), email (taxiteam@td.gov.hk) or fax (28242176) to save waiting time. Over 1600 drivers have made bookings so far. Reservation holders who drive to the counters will enjoy one hour of free parking.
+
+  The TD has strengthened publicity through multiple channels, including dedicated liquefied petroleum gas filling stations for taxis, taxi stands at the airport, boundary control points and major stations, designated pre-service training schools for taxi drivers and taxi driver identity plate agents. Publicity has also been carried out regularly via placards inside taxi compartments, the Radio Announcement in the Public Interest, posters, social media, websites, taxi trade conferences and taxi newsletters. The Government noted that the taxi trade is ready for the new requirement.
+
+  Members of the public may refer to the TD's leaflet on taxi e-payment means (see Annex, Chinese only) coupled with infographics on the Agent T Facebook page (www.facebook.com/AgentT.hk) on the new requirement, or call the hotline at 28042600 for details."
 多元活動　樂在耆中,2026-03-15 10:00,2026-03-15 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031300554.htm,"由社會褔利署資助、保良局營運的長者鄰舍中心青富喜悅薈三月中正式開幕，提供電競、瑜伽，以至咖啡拉花等多元活動，冀打破傳統長者活動的刻板印象，同時滿足參加者，尤其較年輕長者的需求。
 
 保良局代表接受《政府新聞網》訪問，介紹相關的活動內容和服務宗旨，也有長者分享參加活動的得着。
@@ -283,33 +320,3 @@ Early identification of TB cases and the prompt initiation of anti-TB treatment 
 TB is an airborne disease. When a TB patient coughs or sneezes, small droplets containing the tubercle bacilli are generated and spread in the air. If others inhale these small airborne droplets, they may become infected. However, prolonged exposure is usually the prerequisite for the disease to be effectively transmitted. Members of the public should be vigilant against TB and adopt a healthy lifestyle involving a balanced diet, avoiding smoking and alcohol, exercising and getting adequate rest in order to reduce the risk of contracting the disease. If they develop symptoms, such as persistent cough, blood in sputum, weight loss, fever and night sweating, they should seek prompt medical advice. If they are diagnosed as having TB disease, patients should strengthen their respiratory hygiene and cough etiquette, and receive TB treatment under the doctor's advice.
 
   For more TB-related information, services and figures, the public may also visit the website of the DH's Tuberculosis and Chest Service (www.info.gov.hk/tb_chest)."
-衞生署和業界齊心協力防治結核病（附圖）,2026-03-14 16:17,2026-03-14 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/14/P2026031400409.htm,"​衞生署今日（三月十四日）呼籲市民持續保持對結核病的警覺性，培養良好生活習慣，包括均衡飲食、戒煙戒酒、並配合適當運動和休息，注重個人衞生，以預防感染結核病，同時響應世界衞生組織（世衞）訂於三月二十四日的「世界防癆日」。
-
-衞生署署長林文健醫生今日為香港防癆心臟及胸病協會主辦、衞生署協辦的「世界防癆日2026」開幕典禮暨頒獎禮擔任主禮嘉賓。他致辭時說：「肺結核病是全球及香港本地的重大傳染病之一。呈報個案在過去10年，每年介乎3 000到4 500宗之間，呈下降趨勢，但比起其他先進經濟體發病率仍在10倍以上。受結核菌感染者，大約每十個中有一個會在數星期甚或長達數十年後發病。身體抵抗力較低的人發病的機會則較大。以一生人計，每20個香港人中就有一位會患上結核病。每一個人都有受到結核病影響的機會，所以絕對不可以掉以輕心。香港的結核病呈報率由八十年代初的每十萬人有大約150宗，一直下降至現時每十萬人中約有40人發病，減幅超過七成。香港人煙稠密，人口流動頻繁，高齡化迅速，在此多重挑戰下，香港能有效控制結核病，實在有賴病人和醫護的衷誠合作，『早發現、早治療』，並全面配合衞生署胸肺科診所積極推行的全監督治療。」
-
-他亦指出，吸煙是導致肺結核病感染及復發的重大危險因素。他呼籲市民繼續支持政府的控煙措施。除了擴大禁煙區外，香港將全面禁止在公眾地方管有指明另類吸煙產品（例如電子煙油／煙彈／加熱煙支）、推行「完稅標籤制度」、禁止加味傳統煙和就傳統吸煙產品統一包裝設計等。
-
-林文健醫生續說：「衞生署胸肺服務負責監察及控制結核病，促進全面為新生嬰兒接種卡介苗，並推廣結核病的教育，其轄下的胸肺科診所則免費為市民提供結核病檢查及治療；衞生防護中心的結核實驗室，獲世衞評定為『跨國結核參比實驗室』，提供先進的結核桿菌檢測支援，如快速分子檢測、全基因組測序藥敏檢查等。」
-
-為了提升市民的認識，衞生署除了透過互聯網及社交平台宣傳結核病及有關資訊外，亦會聯同香港防癆心臟及胸病協會，以及醫院管理局等舉辦一系列健康教育講座，提醒公眾時常保持警惕、及時診斷和治療結核病的重要性，以及介紹結核病的預防方法，以達到終止結核病的目標。
-
-盡早發現病例及適時進行抗結核藥物治療是最主要的結核病防控措施。衞生署轄下的胸肺科診所，為結核病患者提供免費的診斷和門診治療。醫治結核病療程一般為六個月，並需同時採用多種藥物，病人必須嚴謹地按時服藥，以減低出現耐藥性結核菌的情況。
-
-結核病是一種經空氣傳播的疾病，當結核病人咳嗽或打噴嚏時，所產生含有結核菌的小點便會於空氣中散播。若旁人吸入這些小點，便有可能會受到感染。但一般而言，感染過程是需要與病人長時間接觸。市民應持續保持對結核病的警覺性，培養良好生活習慣，包括均衡飲食、戒煙戒酒、並配合適當運動和休息，以減低致病的機會。市民如有長期咳嗽、痰中帶血、消瘦、發燒和午夜盜汗等徵狀，便應及早求醫。若不幸染上結核病，應加強呼吸道衞生和咳嗽禮儀，並跟從醫生指引接受治療。
-
-市民可參閱衞生署胸肺科網頁（www.info.gov.hk/tb_chest）了解更多有關結核病的資料、服務及統計數字。"
-衞生署和業界齊心協力防治結核病 （附圖）,2026-03-14 16:17,2026-03-14 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/14/P2026031400409.htm,"​衞生署今日（三月十四日）呼籲市民持續保持對結核病的警覺性，培養良好生活習慣，包括均衡飲食、戒煙戒酒、並配合適當運動和休息，注重個人衞生，以預防感染結核病，同時響應世界衞生組織（世衞）訂於三月二十四日的「世界防癆日」。
-
-衞生署署長林文健醫生今日為香港防癆心臟及胸病協會主辦、衞生署協辦的「世界防癆日2026」開幕典禮暨頒獎禮擔任主禮嘉賓。他致辭時說：「肺結核病是全球及香港本地的重大傳染病之一。呈報個案在過去10年，每年介乎3 000到4 500宗之間，呈下降趨勢，但比起其他先進經濟體發病率仍在10倍以上。受結核菌感染者，大約每十個中有一個會在數星期甚或長達數十年後發病。身體抵抗力較低的人發病的機會則較大。以一生人計，每20個香港人中就有一位會患上結核病。每一個人都有受到結核病影響的機會，所以絕對不可以掉以輕心。香港的結核病呈報率由八十年代初的每十萬人有大約150宗，一直下降至現時每十萬人中約有40人發病，減幅超過七成。香港人煙稠密，人口流動頻繁，高齡化迅速，在此多重挑戰下，香港能有效控制結核病，實在有賴病人和醫護的衷誠合作，『早發現、早治療』，並全面配合衞生署胸肺科診所積極推行的全監督治療。」
-
-他亦指出，吸煙是導致肺結核病感染及復發的重大危險因素。他呼籲市民繼續支持政府的控煙措施。除了擴大禁煙區外，香港將全面禁止在公眾地方管有指明另類吸煙產品（例如電子煙油／煙彈／加熱煙支）、推行「完稅標籤制度」、禁止加味傳統煙和就傳統吸煙產品統一包裝設計等。
-
-林文健醫生續說：「衞生署胸肺服務負責監察及控制結核病，促進全面為新生嬰兒接種卡介苗，並推廣結核病的教育，其轄下的胸肺科診所則免費為市民提供結核病檢查及治療；衞生防護中心的結核實驗室，獲世衞評定為『跨國結核參比實驗室』，提供先進的結核桿菌檢測支援，如快速分子檢測、全基因組測序藥敏檢查等。」
-
-為了提升市民的認識，衞生署除了透過互聯網及社交平台宣傳結核病及有關資訊外，亦會聯同香港防癆心臟及胸病協會，以及醫院管理局等舉辦一系列健康教育講座，提醒公眾時常保持警惕、及時診斷和治療結核病的重要性，以及介紹結核病的預防方法，以達到終止結核病的目標。
-
-盡早發現病例及適時進行抗結核藥物治療是最主要的結核病防控措施。衞生署轄下的胸肺科診所，為結核病患者提供免費的診斷和門診治療。醫治結核病療程一般為六個月，並需同時採用多種藥物，病人必須嚴謹地按時服藥，以減低出現耐藥性結核菌的情況。
-
-結核病是一種經空氣傳播的疾病，當結核病人咳嗽或打噴嚏時，所產生含有結核菌的小點便會於空氣中散播。若旁人吸入這些小點，便有可能會受到感染。但一般而言，感染過程是需要與病人長時間接觸。市民應持續保持對結核病的警覺性，培養良好生活習慣，包括均衡飲食、戒煙戒酒、並配合適當運動和休息，以減低致病的機會。市民如有長期咳嗽、痰中帶血、消瘦、發燒和午夜盜汗等徵狀，便應及早求醫。若不幸染上結核病，應加強呼吸道衞生和咳嗽禮儀，並跟從醫生指引接受治療。
-
-市民可參閱衞生署胸肺科網頁（www.info.gov.hk/tb_chest）了解更多有關結核病的資料、服務及統計數字。"
