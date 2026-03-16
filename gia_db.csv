@@ -1,24 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-Scam alert related to banks,2026-03-16 17:35,2026-03-16 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600556.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press release issued by the bank listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which has been reported to the HKMA. Hyperlink to the press release is available on the HKMA website.
-
-
-
-
-Bank
-Type of Scam
-
-
-OCBC Bank (Hong Kong) Limited
-Fraudulent website and internet banking login screen
-
-
-
-
-The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
-
-Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 與銀行有關的騙案通知,2026-03-16 17:35,2026-03-16 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600557.htm,"下稿代香港金融管理局發出︰
 
 ​香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -40,6 +20,26 @@ Anyone who has provided his or her personal information, or who has conducted an
 
 任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。
 "
+Scam alert related to banks,2026-03-16 17:35,2026-03-16 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600556.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press release issued by the bank listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which has been reported to the HKMA. Hyperlink to the press release is available on the HKMA website.
+
+
+
+
+Bank
+Type of Scam
+
+
+OCBC Bank (Hong Kong) Limited
+Fraudulent website and internet banking login screen
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 屯門醫院通過《國際醫院評審認證標準（中國）》（2021版）評審認證（附圖）,2026-03-16 17:25,2026-03-16 17:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600485.htm,"​下稿代醫院管理局發出：
 
 醫院管理局（醫管局）今日（三月十六日）公布，屯門醫院已成功通過《國際醫院評審認證標準（中國）》（2021版）評審認證，是第四間獲得認證的公立醫院。
@@ -141,6 +141,33 @@ Speech by CS at Hong Kong University of Science and Technology 35th Anniversary 
 
   Thank you very much."
 ​財政司司長出席「校長AI公開課 x AI百校行」致辭（只有中文）,2026-03-16 16:53,2026-03-16 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600547.htm,"以下是財政司司長陳茂波今日（三月十六日）在「校長AI公開課 x AI百校行」的致辭：
+
+魏明德主席（香港城市大學校董會主席）、梅彥昌校長（香港城市大學校長）、何金暉處長（中央人民政府駐香港特別行政區聯絡辦公室教育科技部處長）、李子樹博士（騰訊集團公共事務副總裁、騰訊基金會行政總監）、各位嘉賓、各位同學：
+
+大家好！很高興出席今日騰訊WeTech Academy舉辦的「校長AI公開課 x AI百校行」活動。首先，我感謝騰訊及城市大學攜手合作，積極響應《財政預算案》中的「全民AI培訓」策略，為香港的教育及創新科技發展增添動力。
+
+人工智能近年正以前所未見的速度改變我們的工作和生活模式。一、兩年前，大家還在討論究竟哪一個AI模型更能夠理解由人發出的指令；但今日， AI智能體（Agentic AI）面世，一隻隻「龍蝦」引爆的熱潮，從一般用家、專業程式員、大中小型科技企業，以至股票市場的資金，都在追逐這個新主題。
+
+可以説，AI的發展基礎已然成形，我們正處於新一輪井噴式增長曲線的初階：AI智能體正為我們帶來前所未有的效率、處理能力、服務模式。AI智能體對網站和文檔「能聽能睇」，能穩定地學習你在過去到現在的決策，智能化地幫助我們學習新知識，並自動化地執行任務，從清理電郵、選擇產品，以至搭建個人化網站和應用程式等等。可以預期，未來數年這方面的發展將會很快。
+
+但同樣真實的是，新技術和新應用，存在不少挑戰，例如網絡安全、私隱、倫理道德等等。不過，這些看得見的挑戰，其實是讓我們提前準備、主動克服，為的是日後可以加速向前。
+
+對各位校長、老師，以及關心孩子教育的父母和朋友，AI時代正帶來巨大挑戰。技術迭代之快，其能力之廣，迫使我們必須更深刻的思考事物的本質，我們為何要學習？究竟學習甚麼知識才能保持未來持續的競爭力？舉例而言，當AI可即時生成代碼，教Coding（編程）會否足夠？當學生能夠一鍵獲得答案，我們又該如何引導他們提出真正的問題？
+
+當然，第一步立即可以做的是，借助科技帶來更高效精準的學習，但更重要的是，如何藉此更深度地啓發學生對知識的興趣甚至熱愛。激發好奇、啓發興趣、燃起夢想，讓年青人釋放內在潛能。
+
+各位在座的同學，相信大家或多或少都有用AI來協助學習，也會發現它是好幫手，甚至是十分好玩。我鼓勵大家多學用AI，當然不是用來代你做功課，而是幫忙學習更多新的知識。例如你對某個課題感興趣，AI是進行深入研究的好工具。
+
+我剛與一些同學聊天，好高興知道他們也很積極學習使用AI技術，但也顧慮其功能之強大，會否影響將來的就業機會。雖然AI可能令一些重複性很高的職位減少，但懂得用的人會有更多工作選擇。積極擁抱及學習使用新科技，就是為未來的更好發展邁出堅實基礎的一步。
+
+AI的發展將會很快、很廣。只有認識，才會看到機遇；只有善用，才能駕馭未來。在AI的大潮中，香港必須走在前列，才能在新時代站穩陣腳，鞏固我們在全球競爭中的優勢。而這一切的關鍵，在於培育具備未來視野及專業技能的人才。
+
+這項工程需要跨界別、全社會的參與，因此我們提出了「全民AI培訓」。
+
+很高興看到騰訊與香港城市大學這次合作，結合彼此的優勢，助力提升社會的AI素養。我知道WeTech Academy除了推出多項AI科技工具外，更會推出創科人才培養計劃，為青年提供從課程、工具賦能、實踐落地到實習就業的全方位支持，推動青年科技向善。而香港城市大學在數據科學和AI學科位列全球前50，雙方可謂強強聯手，一同推動前沿AI技術在教育領域的創新實踐。我深信這個計劃將啓發更多新項目，為社會培育出更多AI人才。
+
+最後，我感謝各位支持特區政府推動AI的發展。願與大家一同努力，推動香港成為一個敢於擁抱未來、並且贏得未來的城市。多謝大家！"
+​財政司司長出席「校長AI公開課 x AI百校行」致辭（只有中文）（附圖）,2026-03-16 16:53,2026-03-16 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600547.htm,"以下是財政司司長陳茂波今日（三月十六日）在「校長AI公開課 x AI百校行」的致辭：
 
 魏明德主席（香港城市大學校董會主席）、梅彥昌校長（香港城市大學校長）、何金暉處長（中央人民政府駐香港特別行政區聯絡辦公室教育科技部處長）、李子樹博士（騰訊集團公共事務副總裁、騰訊基金會行政總監）、各位嘉賓、各位同學：
 
@@ -354,31 +381,15 @@ Entry forms and brochures are now available from the respective organisers. They
  The HKAI was launched in 2005 by merging the former Hong Kong Awards for Industry and the former Hong Kong Awards for Services, established in 1989 and 1997 respectively. Over the years, the HKAI has recognised and commended the excellent performance of about 1 260 companies.
 
  For further information, please visit the HKAI website at www.hkindustryaward.org, or contact the respective organisers (contact details available on the website) or the Secretariat of the Organising Committee of the HKAI at hkai@tid.gov.hk."
-"March 2026 issue of ""Hong Kong Monthly Digest of Statistics"" now available",2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600291.htm,"The Census and Statistics Department (C&SD) published today (March 16) the March 2026 issue of the ""Hong Kong Monthly Digest of Statistics"" (HKMDS).
+勞工處優化行業性招聘及就業服務,2026-03-16 16:00,2026-03-16 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600239.htm,"勞工處今日（三月十六日）公布，四月一日起全港各區的十所就業中心將加強向飲食、零售及建造業提供招聘及就業服務，包括舉辦更多地區行業性專題招聘會和推出行業招聘週，以及加強相關行業的就業諮詢服務，為僱主及求職人士提供更便捷及適切的服務。
 
-Apart from providing up-to-date statistics, this issue also contains a feature article entitled ""The Profile of Persons Residing in Private Elderly Homes in 2025"".
+勞工處今日亦推出加強版的行業專題網頁——「飲食、零售及建造業專頁」，為求職人士提供有關行業的最新就業資訊，包括招聘會、職位空缺及招聘情況等資料。求職人士可同時使用「互動就業服務」網站或「iES」流動應用程式，經電郵或「推送提示通知」獲取最新的職位空缺資料。
 
-  ""The Profile of Persons Residing in Private Elderly Homes in 2025""
+此外，勞工處將於四月二十一日及五月十二至十三日，在旺角麥花臣場館舉辦三場「行業新里程」大型招聘會，提供大量上述行業的職位空缺。在各區就業中心舉辦地區行業性招聘會及招聘週的詳情，稍後在「飲食、零售及建造業專頁」公布。
 
-A survey was conducted by C&SD during July to August 2025 to collect the age-sex profile of persons residing in private elderly homes (PEH). Results of the survey together with some other administrative records are used in the General Household Survey to estimate the age-sex profile of the land-based non-institutional population of Hong Kong. This feature article gives a brief account of the results of the 2025 round of the Annual Survey on Profile of Inmates of PEH.
+為更有效運用公共資源，位於長沙灣的飲食業和零售業招聘中心，以及位於牛頭角的建造業招聘中心將於四月一日關閉，市民可前往各區就業中心或瀏覽「飲食、零售及建造業專頁」，獲取有關行業的就業資訊及服務。
 
-For enquiries about this feature article, please contact the General Household Survey Section (3) of the C&SD (Tel: 2887 5208; email: ghs@censtatd.gov.hk).
-
-Published in bilingual form, the HKMDS is a compact volume of official statistics containing about 130 tables. It collects up-to-date statistical series on various aspects of the social and economic situation of Hong Kong. Topics include population; labour; external trade; National Income and Balance of Payments; prices; business performance; energy; housing and property; government accounts, finance and insurance; and transport, communications and tourism. For selected key statistical items, over 20 charts depicting the annual trend in the past decade and quarterly or monthly trend in the recent two years are also available. Users can download the Digest at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1010002&scode=460).
-
-Enquiries about the contents of the Digest can be directed to the Statistical Information Dissemination Section (1) of the C&SD (Tel: 2582 4738; email: gen-enquiry@censtatd.gov.hk)."
-Effective Exchange Rate Index,2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600171.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, March 16, 2026 is 102.1 (down 0.1 against last Saturday's index).
-
-​The effective exchange rate index for the Hong Kong dollar on Saturday, March 14, 2026 is 102.2 (up 0.2 against last Friday's index)."
-Labour Department enhances industry-based recruitment and employment services,2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600237.htm,"  The Labour Department (LD) announced today (March 16) that the 10 job centres across the territory will strengthen recruitment and employment services for the catering, retail and construction industries from April 1, including organising more district-based job fairs, staging recruitment weeks and strengthening employment advisory services for these industries, with a view to providing employers and job seekers with more convenient and appropriate services.
-
-The LD today also launched enhanced industry-based thematic webpages - Dedicated Webpages on Catering, Retail and Construction Industries - to provide job seekers with the latest information about these sectors, including job fairs, job vacancies and recruitment trends. Job seekers may also receive information about newly posted job vacancies via email or push notifications through the Interactive Employment Service website and its mobile application. 
-
-In addition, the LD will organise three large-scale ""Embarking on a New Journey"" industry-based job fairs at MacPherson Stadium in Mong Kok on April 21, May 12 and May 13 to provide a large number of job vacancies from the above industries. Details of the district-based job fairs and recruitment weeks for the industries to be held at job centres will be announced nearer the time on the Dedicated Webpages on Catering, Retail and Construction Industries.
-
-To enhance the effective use of public resources, the Recruitment Centre for the Catering Industry and Retail Industry in Cheung Sha Wan, as well as the Recruitment Centre for the Construction Industry in Ngau Tau Kok, will cease operation on April 1. Members of the public may visit job centres in various districts or browse the Dedicated Webpages on Catering, Retail and Construction Industries for employment information and services related to these sectors. 
- 
-The LD will continue to enhance its services in light of service needs and market situation to further improve efficiency."
+勞工處會繼續因應服務需求及市場情況優化服務，提升效率。"
 港匯指數,2026-03-16 16:00,2026-03-16 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600168.htm,"二○二六年三月十六日（星期一）的港幣匯率指數為一百零二點一（和上星期六指數比較下降零點一）。
 
 ​二○二六年三月十四日（星期六）的港幣匯率指數為一百零二點二（和上星期五指數比較上升零點二）。"
@@ -395,22 +406,31 @@ The LD will continue to enhance its services in light of service needs and marke
 月刊以中英文對照形式出版，匯集各項官方統計數字，載有約130個統計表。月刊收錄本港各項最新社會及經濟統計數列，涉及的課題包括人口；勞工；對外貿易；國民收入及國際收支平衡；物價；業務表現；能源；房屋及物業；政府收支、金融及保險；以及運輸、通訊及旅遊。此外，月刊亦載有超過20個統計圖，展示選定主要統計項目在過去10年的按年趨勢及最近兩年的按季或按月趨勢。用戶可以在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1010002&scode=460）下載該月刊。
 
 有關該月刊內容的查詢，請與政府統計處統計資料發布組（一）聯絡（電話：2582 4738；電郵：gen-enquiry@censtatd.gov.hk）。"
-勞工處優化行業性招聘及就業服務,2026-03-16 16:00,2026-03-16 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600239.htm,"勞工處今日（三月十六日）公布，四月一日起全港各區的十所就業中心將加強向飲食、零售及建造業提供招聘及就業服務，包括舉辦更多地區行業性專題招聘會和推出行業招聘週，以及加強相關行業的就業諮詢服務，為僱主及求職人士提供更便捷及適切的服務。
+"March 2026 issue of ""Hong Kong Monthly Digest of Statistics"" now available",2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600291.htm,"The Census and Statistics Department (C&SD) published today (March 16) the March 2026 issue of the ""Hong Kong Monthly Digest of Statistics"" (HKMDS).
 
-勞工處今日亦推出加強版的行業專題網頁——「飲食、零售及建造業專頁」，為求職人士提供有關行業的最新就業資訊，包括招聘會、職位空缺及招聘情況等資料。求職人士可同時使用「互動就業服務」網站或「iES」流動應用程式，經電郵或「推送提示通知」獲取最新的職位空缺資料。
+Apart from providing up-to-date statistics, this issue also contains a feature article entitled ""The Profile of Persons Residing in Private Elderly Homes in 2025"".
 
-此外，勞工處將於四月二十一日及五月十二至十三日，在旺角麥花臣場館舉辦三場「行業新里程」大型招聘會，提供大量上述行業的職位空缺。在各區就業中心舉辦地區行業性招聘會及招聘週的詳情，稍後在「飲食、零售及建造業專頁」公布。
+  ""The Profile of Persons Residing in Private Elderly Homes in 2025""
 
-為更有效運用公共資源，位於長沙灣的飲食業和零售業招聘中心，以及位於牛頭角的建造業招聘中心將於四月一日關閉，市民可前往各區就業中心或瀏覽「飲食、零售及建造業專頁」，獲取有關行業的就業資訊及服務。
+A survey was conducted by C&SD during July to August 2025 to collect the age-sex profile of persons residing in private elderly homes (PEH). Results of the survey together with some other administrative records are used in the General Household Survey to estimate the age-sex profile of the land-based non-institutional population of Hong Kong. This feature article gives a brief account of the results of the 2025 round of the Annual Survey on Profile of Inmates of PEH.
 
-勞工處會繼續因應服務需求及市場情況優化服務，提升效率。"
-民航處在第五十一屆日內瓦國際發明展榮獲金獎（附圖）,2026-03-16 15:52,2026-03-16 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600461.htm,"​由民航處和本地研究機構新研發的「航空全球衞星導航系統干擾偵測及監察系統」，於三月十一日至十五日在瑞士日內瓦舉行的第五十一屆日內瓦國際發明展中，榮獲金獎。該系統能利用航機傳送的廣播式自動相關監察數據，進行實時監察及識別潛在的全球衞星導航系統干擾。
+For enquiries about this feature article, please contact the General Household Survey Section (3) of the C&SD (Tel: 2887 5208; email: ghs@censtatd.gov.hk).
 
-該系統結合精心設計的演算法，可實時分析航機收集的廣播式自動相關監察數據，識別可能會影響航道上航機安全運作的潛在全球衞星導航系統干擾，並及時發出警報。這個新研發系統與傳統依賴地面站的全球衞星導航系統干擾監察技術相輔相成，覆蓋範圍更廣，對航機的監察和偵測更可靠，從而提升航空安全。相關研發經驗對日後推廣至其他依賴全球衞星導航系統的領域，促進更廣泛應用，發揮重要參考作用。
+Published in bilingual form, the HKMDS is a compact volume of official statistics containing about 130 tables. It collects up-to-date statistical series on various aspects of the social and economic situation of Hong Kong. Topics include population; labour; external trade; National Income and Balance of Payments; prices; business performance; energy; housing and property; government accounts, finance and insurance; and transport, communications and tourism. For selected key statistical items, over 20 charts depicting the annual trend in the past decade and quarterly or monthly trend in the recent two years are also available. Users can download the Digest at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1010002&scode=460).
 
-民航處處長廖志勇表示：「民航處一直致力運用創新科技提升航空安全和運作效率，是次獲獎肯定了我們在這方面的持續推動和專業投入。民航處會繼續積極創新，善用新科技，促進和帶領航空業的發展。」
+Enquiries about the contents of the Digest can be directed to the Statistical Information Dissemination Section (1) of the C&SD (Tel: 2582 4738; email: gen-enquiry@censtatd.gov.hk)."
+Labour Department enhances industry-based recruitment and employment services,2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600237.htm,"  The Labour Department (LD) announced today (March 16) that the 10 job centres across the territory will strengthen recruitment and employment services for the catering, retail and construction industries from April 1, including organising more district-based job fairs, staging recruitment weeks and strengthening employment advisory services for these industries, with a view to providing employers and job seekers with more convenient and appropriate services.
 
-日內瓦國際發明展為全球發明界的年度盛事。今年展覽共匯聚約35個國家及地區、約1 000項發明，並由國際專家評判團進行詳細評審，選出各得獎項目。"
+The LD today also launched enhanced industry-based thematic webpages - Dedicated Webpages on Catering, Retail and Construction Industries - to provide job seekers with the latest information about these sectors, including job fairs, job vacancies and recruitment trends. Job seekers may also receive information about newly posted job vacancies via email or push notifications through the Interactive Employment Service website and its mobile application. 
+
+In addition, the LD will organise three large-scale ""Embarking on a New Journey"" industry-based job fairs at MacPherson Stadium in Mong Kok on April 21, May 12 and May 13 to provide a large number of job vacancies from the above industries. Details of the district-based job fairs and recruitment weeks for the industries to be held at job centres will be announced nearer the time on the Dedicated Webpages on Catering, Retail and Construction Industries.
+
+To enhance the effective use of public resources, the Recruitment Centre for the Catering Industry and Retail Industry in Cheung Sha Wan, as well as the Recruitment Centre for the Construction Industry in Ngau Tau Kok, will cease operation on April 1. Members of the public may visit job centres in various districts or browse the Dedicated Webpages on Catering, Retail and Construction Industries for employment information and services related to these sectors. 
+ 
+The LD will continue to enhance its services in light of service needs and market situation to further improve efficiency."
+Effective Exchange Rate Index,2026-03-16 16:00,2026-03-16 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600171.htm,"The effective exchange rate index for the Hong Kong dollar on Monday, March 16, 2026 is 102.1 (down 0.1 against last Saturday's index).
+
+​The effective exchange rate index for the Hong Kong dollar on Saturday, March 14, 2026 is 102.2 (up 0.2 against last Friday's index)."
 CAD wins gold medal at 51st International Exhibition of Inventions Geneva (with photos),2026-03-16 15:52,2026-03-16 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600460.htm,"​An Aeronautical Global Navigation Satellite System (GNSS) Interference Detection and Monitoring System that is capable of making use of Automatic Dependent Surveillance-Broadcast (ADS-B) data transmitted by aircraft and performing real-time monitoring and identification of potential GNSS interference, newly developed by the Civil Aviation Department (CAD) in conjunction with a local research organisation, won a Gold Medal at the 51st International Exhibition of Inventions Geneva held between March 11 and 15 in Geneva, Switzerland.
 
 Integrated with carefully designed algorithms, the system can perform real-time analysis of ADS-B data collected by aircraft in flight, and identify potential GNSS interference that may affect the safe operations of aircraft along their flight routes and issue timely alerts. This newly developed system complements the conventional GNSS interference monitoring technologies that mostly rely on ground stations, offering broader and more reliable monitoring and detection coverage for aircraft in flight, thus enhancing aviation safety. The experience gained from developing this new technology can also serve as an important reference for extending its application to other GNSS-reliance sectors, enabling wider adoption.
@@ -418,17 +438,13 @@ Integrated with carefully designed algorithms, the system can perform real-time 
 The Director-General of Civil Aviation, Mr Victor Liu, said, ""CAD is committed to enhancing aviation safety and operational efficiency through innovative technologies. This award is testimony to our continued drive and professional efforts. CAD will continue to facilitate and pioneer the development and growth of the aviation industry through embracing innovation and leveraging new technologies.""
 
 The International Exhibition of Inventions Geneva is an annual major event in the global invention community. Around 1 000 inventions from about 35 countries and regions were showcased in this year's event, and award-winning entries were selected as per detailed assessments conducted by an international panel of expert judges."
-日本進口水產的檢測情況,2026-03-16 15:35,2026-03-16 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600486.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+民航處在第五十一屆日內瓦國際發明展榮獲金獎（附圖）,2026-03-16 15:52,2026-03-16 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600461.htm,"​由民航處和本地研究機構新研發的「航空全球衞星導航系統干擾偵測及監察系統」，於三月十一日至十五日在瑞士日內瓦舉行的第五十一屆日內瓦國際發明展中，榮獲金獎。該系統能利用航機傳送的廣播式自動相關監察數據，進行實時監察及識別潛在的全球衞星導航系統干擾。
 
-至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+該系統結合精心設計的演算法，可實時分析航機收集的廣播式自動相關監察數據，識別可能會影響航道上航機安全運作的潛在全球衞星導航系統干擾，並及時發出警報。這個新研發系統與傳統依賴地面站的全球衞星導航系統干擾監察技術相輔相成，覆蓋範圍更廣，對航機的監察和偵測更可靠，從而提升航空安全。相關研發經驗對日後推廣至其他依賴全球衞星導航系統的領域，促進更廣泛應用，發揮重要參考作用。
 
-由三月十三日中午截至今日（三月十六日）中午，食安中心已對334個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+民航處處長廖志勇表示：「民航處一直致力運用創新科技提升航空安全和運作效率，是次獲獎肯定了我們在這方面的持續推動和專業投入。民航處會繼續積極創新，善用新科技，促進和帶領航空業的發展。」
 
-同期，漁農自然護理署（漁護署）已對150個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
-
-香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
-
-由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共212 019個日本進口食物樣本（包括134 918個水產及其製品、海藻及海鹽樣本）及共46 380個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+日內瓦國際發明展為全球發明界的年度盛事。今年展覽共匯聚約35個國家及地區、約1 000項發明，並由國際專家評判團進行詳細評審，選出各得獎項目。"
 Inspection of aquatic products imported from Japan,2026-03-16 15:35,2026-03-16 15:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600487.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
 
   For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
@@ -440,6 +456,17 @@ Inspection of aquatic products imported from Japan,2026-03-16 15:35,2026-03-16 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 212 019 samples of food imported from Japan (including 134 918 samples of aquatic and related products, seaweeds and sea salt) and 46 380 samples of local catch respectively. All the samples passed the tests."
+日本進口水產的檢測情況,2026-03-16 15:35,2026-03-16 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600486.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由三月十三日中午截至今日（三月十六日）中午，食安中心已對334個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對150個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共212 019個日本進口食物樣本（包括134 918個水產及其製品、海藻及海鹽樣本）及共46 380個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
 公務員事務局局長在立法會公務員及資助機構員工事務委員會會議就推廣公務員隊伍維持廉潔的工作的開場發言（只有中文）,2026-03-16 14:35,2026-03-16 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600414.htm,"以下是公務員事務局局長楊何蓓茵今日（三月十六日）在立法會公務員及資助機構員工事務委員會會議就推廣公務員隊伍維持廉潔的工作的開場發言：
 
 主席、各位議員：
@@ -509,29 +536,16 @@ Inspection of aquatic products imported from Japan,2026-03-16 15:35,2026-03-16 1
 記者：「十五五」規劃提出支持香港建設國際創新科技中心和支持港澳打造國際高端人才集聚高地，想了解會引進多少人才來到香港？
 
 創新科技及工業局局長：有關人才，特區政府過去這幾年，大家都看到我們在吸引人才政策上取得很大成效。過去這些年來，我們從海內外吸引一大批人才，對於創新科技及工業局來說，吸引人才的方向是「以人才推動科技，以科技引領產業，以產業匯聚人才」。所以，我們下一步要着重建好香港的幾個大平台，包括三大園區、五大公營機構，特別是加速北部都會區的發展。我們要強調加速建立香港創科產業，產業發展起來，人才就會聚集，而且人才就有用武之地。除了這個以外，我們特別重視要建立一些infrastructure、一些重要機構，比如說，我們在數碼港建立了人工智能超算中心，馬上又在這個地方（元朗創新園）今年就會啓動香港微電子研發院，特別是兩條中試線會投入運行。這些都是可以支撐人才，在香港能夠發揮作用的一些重要基建平台。所以今後我們在產業引領方面會加強工作，通過產業匯聚更多的人才。"
-SITI to visit Beijing,2026-03-16 12:05,2026-03-16 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600235.htm,"​The Secretary for Innovation, Technology and Industry, Professor Sun Dong, will depart for Beijing this afternoon (March 16) to attend a press conference tomorrow (March 17), together with the Secretary General of the World Internet Conference (WIC), Mr Ren Xianliang, to introduce the 2026 WIC Asia-Pacific Summit to be held in Hong Kong.
-
-  During his visit, Professor Sun will also call on the Ministry of Industry and Information Technology, the National Development and Reform Commission, and the State Administration of Foreign Exchange.
-
-  Professor Sun will depart to return to Hong Kong on March 19 afternoon. During his absence, the Under Secretary for Innovation, Technology and Industry, Ms Lillian Cheong, will be the Acting Secretary for Innovation, Technology and Industry."
 創新科技及工業局局長訪問北京,2026-03-16 12:05,2026-03-16 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600233.htm,"創新科技及工業局局長孫東教授今日（三月十六日）下午啓程前往北京，明日（三月十七日）與世界互聯網大會秘書長任賢良共同出席新聞發布會，介紹將在香港舉行的2026年世界互聯網大會亞太峰會。
 
 訪京期間，孫東教授亦會拜訪國家工業和信息化部、國家發展和改革委員會及國家外匯管理局等部門。
 
 孫東教授將於三月十九日下午啓程返港。在他離港期間，創新科技及工業局副局長張曼莉將署任局長。"
-創新科技及工業局局長出席香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」致辭（只有中文）（附圖）,2026-03-16 11:53,2026-03-16 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600284.htm,"以下是創新科技及工業局局長孫東教授今日（三月十六日）在香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」的致辭：
+SITI to visit Beijing,2026-03-16 12:05,2026-03-16 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600235.htm,"​The Secretary for Innovation, Technology and Industry, Professor Sun Dong, will depart for Beijing this afternoon (March 16) to attend a press conference tomorrow (March 17), together with the Secretary General of the World Internet Conference (WIC), Mr Ren Xianliang, to introduce the 2026 WIC Asia-Pacific Summit to be held in Hong Kong.
 
-查毅超主席（香港科技園公司主席）、王永超董事長（河南東微電子材料有限公司董事長）、蔡傑銘常任秘書長（創新科技及工業局常任秘書長）、各位業界朋友、各位來賓：
+  During his visit, Professor Sun will also call on the Ministry of Industry and Information Technology, the National Development and Reform Commission, and the State Administration of Foreign Exchange.
 
-大家上午好！我非常高興出席今天由香港科技園公司及東微電子合辦的「元朗創新園半導體設備生產基地項目起動禮」。
-
-全國兩會剛剛結束，國家「十五五」規劃強調要推動科技創新和產業創新的深度融合，構建以先進製造業為骨幹的國家現代化產業體系，鞏固壯大實體經濟根基。今年《財政預算案》以創科驅動為主軸，推出多項措施加速新型工業發展，培育壯大新興產業。今天的項目起動禮作為二○二六年香港新型工業發展的「頭炮」，充分展現了香港在配合國家推動產業創新的決心，特別是發展半導體產業及先進製造業的穩健步伐。
-
-為了主動對接國家「十五五」規劃，我們正全方位推進新型工業化，加速發展新質生產力。特區政府推出的100億元「新型工業加速計劃」，旨在鼓勵企業在港設立新智能生產設施。東微電子項目正是獲該計劃支持的其中一個項目，項目總預算超過8億元，預計獲「新型工業加速計劃」資助金額約2億元。
-
-特區政府一直大力支持本港發展半導體及微電子產業，積極構建本地微電子生態圈。我們於二○二四年九月成立了香港微電子研發院，利用大灣區完備的產業鏈及龐大市場優勢，推動「從一到N」的科研成果轉化和產業發展。研發院在元朗微電子中心的第三代半導體芯片技術研發與試產的中試線將於今年內投入運作，促進本地芯片研發和產業升級。作為國家級專精特新「小巨人」企業，東微電子落戶元朗創新園可在半導體前端設備、零部件及靶材等領域，為香港貢獻其技術和經驗。加上今年《財政預算案》宣布預留約2.2億元支持在港建設首個境外的國家製造業創新中心，聚焦半導體相關研發，形成群聚效應，進一步完善香港的微電子生態圈，助力國家在半導體領域的原始創新和技術攻關。
-
-特區政府會繼續為先進製造業創造條件，多管齊下推動香港新型工業發展。我們樂見更多具潛力或引領性的創科企業來港設廠。讓我們攜手推動香港微電子產業邁向新高峰，為建設國際創新科技中心及國家現代化產業體系作出更大貢獻！謝謝大家。"
+  Professor Sun will depart to return to Hong Kong on March 19 afternoon. During his absence, the Under Secretary for Innovation, Technology and Industry, Ms Lillian Cheong, will be the Acting Secretary for Innovation, Technology and Industry."
 創新科技及工業局局長出席香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」致辭（只有中文）,2026-03-16 11:53,2026-03-16 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600284.htm,"以下是創新科技及工業局局長孫東教授今日（三月十六日）在香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」的致辭：
 
 查毅超主席（香港科技園公司主席）、王永超董事長（河南東微電子材料有限公司董事長）、蔡傑銘常任秘書長（創新科技及工業局常任秘書長）、各位業界朋友、各位來賓：
@@ -539,6 +553,19 @@ SITI to visit Beijing,2026-03-16 12:05,2026-03-16 12:15,Eng,gia,https://www.info
 大家上午好！我非常高興出席今天由香港科技園公司及東微電子合辦的「元朗創新園半導體設備生產基地項目起動禮」。
 
 全國兩會剛剛結束，國家「十五五」規劃強調要推動科技創新和產業創新的深度融合，構建以先進製造業為骨幹的國家現代化產業體系，鞏固壯大實體經濟根基。今年《財政預算案》以創科驅動為主軸，推出多項措施推動加速新型工業發展，培育壯大新興產業。今天的項目起動禮作為二○二六年香港新型工業發展的「頭炮」，充分展現了香港在配合國家推動產業創新的決心，特別是發展半導體產業及先進製造業的穩健步伐。
+
+為了主動對接國家「十五五」規劃，我們正全方位推進新型工業化，加速發展新質生產力。特區政府推出的100億元「新型工業加速計劃」，旨在鼓勵企業在港設立新智能生產設施。東微電子項目正是獲該計劃支持的其中一個項目，項目總預算超過8億元，預計獲「新型工業加速計劃」資助金額約2億元。
+
+特區政府一直大力支持本港發展半導體及微電子產業，積極構建本地微電子生態圈。我們於二○二四年九月成立了香港微電子研發院，利用大灣區完備的產業鏈及龐大市場優勢，推動「從一到N」的科研成果轉化和產業發展。研發院在元朗微電子中心的第三代半導體芯片技術研發與試產的中試線將於今年內投入運作，促進本地芯片研發和產業升級。作為國家級專精特新「小巨人」企業，東微電子落戶元朗創新園可在半導體前端設備、零部件及靶材等領域，為香港貢獻其技術和經驗。加上今年《財政預算案》宣布預留約2.2億元支持在港建設首個境外的國家製造業創新中心，聚焦半導體相關研發，形成群聚效應，進一步完善香港的微電子生態圈，助力國家在半導體領域的原始創新和技術攻關。
+
+特區政府會繼續為先進製造業創造條件，多管齊下推動香港新型工業發展。我們樂見更多具潛力或引領性的創科企業來港設廠。讓我們攜手推動香港微電子產業邁向新高峰，為建設國際創新科技中心及國家現代化產業體系作出更大貢獻！謝謝大家。"
+創新科技及工業局局長出席香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」致辭（只有中文）（附圖）,2026-03-16 11:53,2026-03-16 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/16/P2026031600284.htm,"以下是創新科技及工業局局長孫東教授今日（三月十六日）在香港科技園公司及東微電子「元朗創新園半導體設備生產基地項目起動禮」的致辭：
+
+查毅超主席（香港科技園公司主席）、王永超董事長（河南東微電子材料有限公司董事長）、蔡傑銘常任秘書長（創新科技及工業局常任秘書長）、各位業界朋友、各位來賓：
+
+大家上午好！我非常高興出席今天由香港科技園公司及東微電子合辦的「元朗創新園半導體設備生產基地項目起動禮」。
+
+全國兩會剛剛結束，國家「十五五」規劃強調要推動科技創新和產業創新的深度融合，構建以先進製造業為骨幹的國家現代化產業體系，鞏固壯大實體經濟根基。今年《財政預算案》以創科驅動為主軸，推出多項措施加速新型工業發展，培育壯大新興產業。今天的項目起動禮作為二○二六年香港新型工業發展的「頭炮」，充分展現了香港在配合國家推動產業創新的決心，特別是發展半導體產業及先進製造業的穩健步伐。
 
 為了主動對接國家「十五五」規劃，我們正全方位推進新型工業化，加速發展新質生產力。特區政府推出的100億元「新型工業加速計劃」，旨在鼓勵企業在港設立新智能生產設施。東微電子項目正是獲該計劃支持的其中一個項目，項目總預算超過8億元，預計獲「新型工業加速計劃」資助金額約2億元。
 
@@ -945,24 +972,6 @@ Bronze medal
 • Electronic lock and work permit system for hazardous areas
 
 The International Exhibition of Inventions of Geneva is an annual grand event in the global invention community. This year, the Exhibition was held from March 11 to 15 in Geneva, Switzerland, showcasing about 1 000 inventions from 35 countries and regions, which were evaluated by the international jury of specialists."
-創新科技及工業局局長祝賀香港代表團在第五十一屆日內瓦國際發明展再創佳績,2026-03-15 21:52,2026-03-15 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500771.htm,"第五十一屆日內瓦國際發明展於三月十一日至十五日在瑞士日內瓦舉行，香港代表團今年繼續積極參與該全球最具規模的發明展覽會。代表團成員來自本地大學、研發中心、科技企業、政府部門及中小學等44個機構，並榮獲近300個獎項，包括破紀錄的12個特別大獎，其中The Oasis One International Limited更勇奪全場總冠軍；其餘獎項包括57個評審團嘉許金獎及98個金獎，創下香港代表團的最佳成績，成績令人鼓舞。
-
-政府部門、本地院校、研發機構和本地企業在本屆發明展中表現出色，共獲得12個的特別大獎項目如下：
-
-
-TheOasis One International Limited：熱帶海水魚類養殖產業鏈方案（＊同時榮獲全場總冠軍）
-渠務署的履帶式全地形渠道檢測機械人「百變探哥」
-香港大學InnoHK先進生物醫學儀器中心的鼻腦遞送納米噴劑用於院前缺血性腦卒中急救
-香港中文大學InnoHK香港微生物菌群創新中心的用於肝臟健康的新型合生元配方（SLD07）
-香港城市大學的海水淡化裝置
-香港浸會大學的AI事實查核服務
-香港理工大學的PD-001R：神經退化性疾病治療候選藥物；以及發電機檢測方式：兼容擋板的自主式機械人
-香港鐵路有限公司：聲學齒輪監測系統「Acoustic GearGuard」
-香港創新基金：「智惜泊」（青年組）
-林氏基金—青松侯寶垣小學：生物綠芯濾油器（青年組）
-
-
-創新科技及工業局局長孫東教授今日（三月十五日）恭賀香港代表在今屆日內瓦國際發明展再創佳績，他表示：「我熱烈祝賀本港代表在世界創科舞台上發光發亮。香港科研的高度成就有賴我們深厚的創科實力與人才優勢。特區政府會繼續投放資源，加強人才培訓及鼓勵創科研發，亦會配合國家『十五五』規劃，主動對接國家戰略，全力打造香港成為國際創新科技中心，為國家高水平科技自立自強貢獻力量。」"
 SITI congratulates Hong Kong delegation on its remarkable achievements at 51st International Exhibition of Inventions of Geneva,2026-03-15 21:52,2026-03-15 22:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500772.htm,"The 51st International Exhibition of Inventions of Geneva was held from March 11 to 15 in Geneva, Switzerland. The Hong Kong delegation, comprising 44 organisations including local universities, research and development (R&D) centres, technology companies, government departments, and primary and secondary schools, continued its active participation in this world's largest invention exhibition this year. The delegation has wonnearly 300 prizes, including a record high number of 12 Special Awards with The Oasis One International Limited also winning the Grand Prix, as well as 57 Gold Medals with Congratulations of Jury and 98 Gold Medals, setting the encouraging best record for the Hong Kong delegation.
 
 Government department, local educational institutions, research institutes and enterprises demonstrated exceptional performance at the exhibition, clinching a total of12Special Awards as follows:
@@ -981,6 +990,24 @@ The Lam Foundation – Ching Chung Hau Po Woon Primary School: BioCapture (Youth
 
 
  The Secretary for Innovation, Technology and Industry, Professor Sun Dong, today (March 15), congratulated the Hong Kong delegation on their remarkable achievements at the 51st International Exhibition of Inventions of Geneva. He said, ""I would like to extend my warmest congratulations to the Hong Kong representatives for shining on the global innovation and technology (I&T) stage. Hong Kong's remarkable achievements in scientific research depend on our profound I&T capabilities and talent advantages. The Hong Kong Special Administrative Region (HKSAR) Government will continue to deploy resources to enhance talent training and encourage R&D. To align with the country's15th Five Year Plan, the HKSAR Government will proactively integrate with the country's strategic directions by developing Hong Kong into an international I&T centre, contributing tohigh-leveltechnological self-reliance of our country."""
+創新科技及工業局局長祝賀香港代表團在第五十一屆日內瓦國際發明展再創佳績,2026-03-15 21:52,2026-03-15 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500771.htm,"第五十一屆日內瓦國際發明展於三月十一日至十五日在瑞士日內瓦舉行，香港代表團今年繼續積極參與該全球最具規模的發明展覽會。代表團成員來自本地大學、研發中心、科技企業、政府部門及中小學等44個機構，並榮獲近300個獎項，包括破紀錄的12個特別大獎，其中The Oasis One International Limited更勇奪全場總冠軍；其餘獎項包括57個評審團嘉許金獎及98個金獎，創下香港代表團的最佳成績，成績令人鼓舞。
+
+政府部門、本地院校、研發機構和本地企業在本屆發明展中表現出色，共獲得12個的特別大獎項目如下：
+
+
+TheOasis One International Limited：熱帶海水魚類養殖產業鏈方案（＊同時榮獲全場總冠軍）
+渠務署的履帶式全地形渠道檢測機械人「百變探哥」
+香港大學InnoHK先進生物醫學儀器中心的鼻腦遞送納米噴劑用於院前缺血性腦卒中急救
+香港中文大學InnoHK香港微生物菌群創新中心的用於肝臟健康的新型合生元配方（SLD07）
+香港城市大學的海水淡化裝置
+香港浸會大學的AI事實查核服務
+香港理工大學的PD-001R：神經退化性疾病治療候選藥物；以及發電機檢測方式：兼容擋板的自主式機械人
+香港鐵路有限公司：聲學齒輪監測系統「Acoustic GearGuard」
+香港創新基金：「智惜泊」（青年組）
+林氏基金—青松侯寶垣小學：生物綠芯濾油器（青年組）
+
+
+創新科技及工業局局長孫東教授今日（三月十五日）恭賀香港代表在今屆日內瓦國際發明展再創佳績，他表示：「我熱烈祝賀本港代表在世界創科舞台上發光發亮。香港科研的高度成就有賴我們深厚的創科實力與人才優勢。特區政府會繼續投放資源，加強人才培訓及鼓勵創科研發，亦會配合國家『十五五』規劃，主動對接國家戰略，全力打造香港成為國際創新科技中心，為國家高水平科技自立自強貢獻力量。」"
 香港海關於機場偵破一宗入境旅客販毒案件（附圖）,2026-03-15 21:34,2026-03-15 21:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/15/P2026031500532.htm,"​香港海關昨日（三月十四日）在香港國際機場偵破一宗涉及兩名航空入境旅客的販毒案件，檢獲約八公斤懷疑大麻花，估計市值約一百七十萬元。
 
 一名四十一歲的男旅客昨日從泰國曼谷飛抵本港。海關人員清關時，在其手提行李箱中發現該批懷疑大麻花，遂把該名男子拘捕。跟進調查後，海關人員在同日於機場再拘捕一名三十九歲同樣由泰國曼谷抵港的懷疑涉案男旅客。
