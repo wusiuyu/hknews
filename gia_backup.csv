@@ -1,4 +1,25 @@
 title,date,scrape_time,section,source,url,news_content
+港匯指數,2026-03-19 16:00,2026-03-19 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900179.htm,二○二六年三月十九日（星期四）的港幣匯率指數為一百零二點一（和昨日指數比較上升零點四）。
+再度任命終審法院常任法官,2026-03-19 16:00,2026-03-19 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900250.htm,"下稿代司法機構發出：
+
+行政長官已按司法人員推薦委員會的推薦，並徵得立法會同意，作出以下再度任命︰
+
+終審法院常任法官
+————————
+（由二○二六年三月二十日起）
+
+終審法院常任法官李義法官"
+Reappointment of Permanent Judge of Court of Final Appeal,2026-03-19 16:00,2026-03-19 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900243.htm,"The following is issued on behalf of the Judiciary:
+
+The Chief Executive has, on the recommendation of the Judicial Officers Recommendation Commission and with the endorsement of the Legislative Council, made the following reappointment:
+
+Permanent Judge of the Court of Final Appeal
+-------------------------------------------------------
+(With effect from March 20, 2026)
+
+The Honourable Mr Justice Roberto Alexandre Vieira Ribeiro,
+Permanent Judge of the Court of Final Appeal"
+Effective Exchange Rate Index,2026-03-19 16:00,2026-03-19 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900178.htm,"The effective exchange rate index for the Hong Kong dollar on Thursday, March 19, 2026 is 102.1 (up 0.4 against yesterday's index)."
 日本進口水產的檢測情況,2026-03-19 15:30,2026-03-19 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900484.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -23,7 +44,7 @@ Inspection of aquatic products imported from Japan,2026-03-19 15:30,2026-03-19 1
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 213 445 samples of food imported from Japan (including 135 533 samples of aquatic and related products, seaweeds and sea salt) and 46 530 samples of local catch respectively. All the samples passed the tests."
 寄往智利的郵遞服務延誤,2026-03-19 15:00,2026-03-19 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900467.htm,​香港郵政今日（三月十九日）宣布，接獲智利郵政機關通知，由於當地海關有大量郵件積壓，智利的郵件派遞服務會有所延誤。
 Postal services to Chile subject to delays,2026-03-19 15:00,2026-03-19 15:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900466.htm,"​Hongkong Post announced today (March 19) that, as advised by the postal administration of Chile, mail delivery services to Chile are subject to delays due to a backlog at the local customs."
-Speech by SLW at International Talent Forum of Global Talent Summit Week (English only) (with photo/video),2026-03-19 12:43,2026-03-19 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900339.htm,"  ​Following is the speech by the Secretary for Labour and Welfare, Mr Chris Sun, at the International Talent Forum of the Global Talent Summit Week this morning (March 19):
+Speech by SLW at International Talent Forum of Global Talent Summit Week (English only),2026-03-19 12:43,2026-03-19 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900339.htm,"  ​Following is the speech by the Secretary for Labour and Welfare, Mr Chris Sun, at the International Talent Forum of the Global Talent Summit Week this morning (March 19):
 
 Distinguished guests, ladies and gentlemen,
 
@@ -70,7 +91,7 @@ Distinguished guests, ladies and gentlemen,
    By working together to strengthen our manpower ecosystem and reinforce Hong Kong's role as an international talent hub, we will contribute with confidence and determination to sustainable development for the city and our country.
 
    Thank you."
-Speech by SLW at International Talent Forum of Global Talent Summit Week (English only),2026-03-19 12:43,2026-03-19 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900339.htm,"  ​Following is the speech by the Secretary for Labour and Welfare, Mr Chris Sun, at the International Talent Forum of the Global Talent Summit Week this morning (March 19):
+Speech by SLW at International Talent Forum of Global Talent Summit Week (English only) (with photo/video),2026-03-19 12:43,2026-03-19 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/19/P2026031900339.htm,"  ​Following is the speech by the Secretary for Labour and Welfare, Mr Chris Sun, at the International Talent Forum of the Global Talent Summit Week this morning (March 19):
 
 Distinguished guests, ladies and gentlemen,
 
@@ -360,19 +381,6 @@ The fee waiver for the above Food Inspection Certificate and the Health Certific
 The spokesman said, ""This measure aims to facilitate the further opening up of the Mainland and international markets for the industry. In addition, the scope of Advance Release Arrangement has been extended from the initial three categories of food products, namely beverages, pastries, and candies, to a total of six. The three newly added categories of food products are tea leaves, seasonings (ground) and noodles (without meat ingredient).""
 
 Applicants for the Food Inspection Certificate, the Health Certificate for Foods of Animal Origin, the Recommendation on Food Manufacturer Registration, and the Advance Release Permission may proceed with applications for the certificates during the aforementioned concession period at the CFS office, or through the Food Trader Portal, the CFS's one-stop online communication platform, without the need to pay the relevant fees. For details, please call 2867 5577. The CFS has also begun holding briefing sessions for the trade to introduce the above arrangements."
-"Hong Kong Customs seizes suspected cannabis buds worth about $870,000 at airport (with photos)",2026-03-18 20:00,2026-03-18 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800671.htm,"​Hong Kong Customs yesterday (March 17) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport and seized about 4.2 kilograms of suspected cannabis buds, with an estimated market value of about $870,000.
-
-A 29-year-old male passenger arrived in Hong Kong from Bangkok, Thailand, yesterday. During customs clearance, Customs officers found the batch of suspected cannabis buds inside his carry-on luggage. The man was subsequently arrested.
-
-The arrested person has been charged with one count of trafficking in a dangerous drug. The case will be brought up at the West Kowloon Magistrates' Courts tomorrow (March 19).
-
-Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
-
-Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
-
-Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
-
-Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en)."
 ​香港海關於機場檢獲約八十七萬元懷疑大麻花（附圖）,2026-03-18 20:00,2026-03-18 20:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800670.htm,"香港海關昨日（三月十七日）在香港國際機場偵破一宗行李藏毒的販毒案件，檢獲約四點二公斤、估計市值約八十七萬元的懷疑大麻花。
 
 一名二十九歲的男旅客昨日從泰國曼谷飛抵本港。海關人員清關時，在其手提行李內發現該批懷疑大麻花，遂把他拘捕。
@@ -386,6 +394,19 @@ Members of the public may report any suspected drug trafficking activities to Cu
 根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002/tc）舉報懷疑販毒活動。"
+"Hong Kong Customs seizes suspected cannabis buds worth about $870,000 at airport (with photos)",2026-03-18 20:00,2026-03-18 20:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800671.htm,"​Hong Kong Customs yesterday (March 17) detected a drug trafficking case involving baggage concealment at Hong Kong International Airport and seized about 4.2 kilograms of suspected cannabis buds, with an estimated market value of about $870,000.
+
+A 29-year-old male passenger arrived in Hong Kong from Bangkok, Thailand, yesterday. During customs clearance, Customs officers found the batch of suspected cannabis buds inside his carry-on luggage. The man was subsequently arrested.
+
+The arrested person has been charged with one count of trafficking in a dangerous drug. The case will be brought up at the West Kowloon Magistrates' Courts tomorrow (March 19).
+
+Customs will continue to step up enforcement against drug trafficking activities through intelligence analysis. The department also reminds members of the public to stay alert and not participate in drug trafficking activities for monetary return. They must not accept hiring or delegation from another party to carry controlled items into and out of Hong Kong. They are also reminded not to carry unknown items for other people.
+
+Customs will continue to apply a risk assessment approach and focus on selecting passengers from high-risk regions for clearance to combat transnational drug trafficking activities.
+
+Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
+
+Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002/en)."
 食安中心指示業界暫停進口及在港出售法國Ets Guittonneau（FR 85.083.501）（生產廠房）出產的生蠔,2026-03-18 19:40,2026-03-18 19:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800768.htm,"食物環境衞生署食物安全中心（中心）今日（三月十八日）指示業界暫停進口法國Ets Guittonneau（FR 85.083.501）（生產廠房）出產的生蠔。業界如持有受影響產品，應立即停止使用或出售。
 
 中心發言人說：「中心得悉法國當局發出通告，指法國 Ets Guittonneau（FR 85.083.501）（生產廠房）出產的生蠔可能受到諾如病毒污染而進行回收。中心得悉事件後，隨即進行調查及聯絡本地主要進口商和零售商跟進，初步調查顯示涉事生蠔未有進口本港。為審慎起見，中心即時指示業界暫停進口及在港出售由法國 Ets Guittonneau（FR 85.083.501）（生產廠房）出產的生蠔。」
@@ -492,15 +513,6 @@ In addition, HKTE premiered its latest promotional video during the GTS Week's o
 Prior to the GTS Week's opening session, the Secretary for Labour and Welfare, Mr Chris Sun, accompanied Mainland official delegates to tour the concurrently running CareerConnect Expo. They visited the HKTE exhibition area, as well as the thematic zones for education, technology and talent.
 
 The GTS Week will continue tomorrow (March 19). The International Talent Forum will be webcast live, and the CareerConnect Expo will be open from 10am to 5.30pm tomorrow at Hall 3F of the Hong Kong Convention and Exhibition Centre. Satellite events under the GTS Week are also taking place concurrently. Interested parties can visit the GTS Week website (gts.hkengage.gov.hk) or HKTE's social media platforms for more details."
-一名入境旅客管有未完稅香煙罪成判囚（附圖）,2026-03-18 19:20,2026-03-18 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800734.htm,"一名入境女旅客因管有未完稅香煙和未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（三月十八日）在粉嶺裁判法院被判處監禁十二星期和罰款三千元。
-
-海關人員昨日（三月十七日）在落馬洲支線管制站截查該名六十七歲抵港女旅客，在她攜帶的個人行李內檢獲一百四十一支未完稅香煙，估計市值約五百八十元，應課稅值約四百七十元。該名旅客隨即被捕。
-
-海關對判刑表示歡迎，監禁刑罰具相當阻嚇作用，並反映罪行的嚴重性。
-
-海關提醒市民，根據《條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
 Incoming passenger convicted and jailed for possessing duty-not-paid cigarettes (with photos),2026-03-18 19:20,2026-03-18 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800735.htm,"An incoming female passenger was sentenced to 12 weeks' imprisonment and fined $3,000 by the Fanling Magistrates' Courts today (March 18) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
 
 Customs officers intercepted the incoming 67-year-old female passenger at the Lok Ma Chau Spur Line Control Point yesterday (March 17) and seized 141 duty-not-paid cigarettes with an estimated market value of about $580 and a duty potential of about $470 from her personal baggage. She was subsequently arrested.
@@ -510,6 +522,15 @@ Customs welcomes the sentence. The custodial sentence has imposed a considerable
 Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
 
 Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+一名入境旅客管有未完稅香煙罪成判囚（附圖）,2026-03-18 19:20,2026-03-18 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800734.htm,"一名入境女旅客因管有未完稅香煙和未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（三月十八日）在粉嶺裁判法院被判處監禁十二星期和罰款三千元。
+
+海關人員昨日（三月十七日）在落馬洲支線管制站截查該名六十七歲抵港女旅客，在她攜帶的個人行李內檢獲一百四十一支未完稅香煙，估計市值約五百八十元，應課稅值約四百七十元。該名旅客隨即被捕。
+
+海關對判刑表示歡迎，監禁刑罰具相當阻嚇作用，並反映罪行的嚴重性。
+
+海關提醒市民，根據《條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
 丹麥部分地區禽肉及禽類產品暫停進口,2026-03-18 19:16,2026-03-18 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800580.htm,"​食物環境衞生署食物安全中心（中心）今日（三月十八日）宣布，因應世界動物衞生組織通報，指丹麥靈斯泰茲市和斯勞厄爾瑟市爆發高致病性H5N1禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
 中心發言人說，根據政府統計處的資料，本港去年從丹麥進口約四百五十公噸冷藏禽肉和約二十一萬隻禽蛋。
@@ -545,30 +566,6 @@ Seek medical advice if you become ill after returning from high-risk areas, and 
 
 
 The CHP will continue to monitor the situation to safeguard public health and the well-being of citizens. The public may also visit the CHP's website for more information on meningococcal infection."
-油街實現兩個新展覽　以水為切入點引發想像（附圖）,2026-03-18 19:00,2026-03-18 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800223.htm,"油街實現藝術空間明日（三月十九日）起推出年度重點項目「油街焦點」兩個新展覽，由中國內地著名當代跨領域藝術家鄭靖，以及香港藝術家陳惠立，以水為切入點，把油街實現的展覽空間塑造成各具特色的藝術世界。
-
-鄭靖「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」
---------------------------------------------------------------------
-中國美術學院教授鄭靖，是公共藝術學科帶頭人。是次「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」是他首個在香港的個人展覽，深入探索水、聲、氣、光等多種非固體媒介在公共空間中的可能性。油街倉庫內有多組裝置作品。《時空迴響——東方之珠》啓發自他兒時記憶中的鏡面反光遊戲。鄭靖在香港各處收集城市獨有的聲音，如電車的叮叮聲、列車的報站聲、雪糕車的音樂旋律、喧嚷的街市叫賣聲及本地童謠等，並把這些聲音轉化成作品的一部分。觀眾走進油街倉庫1展覽空間，彷彿置身於維多利亞港的水底，可一邊抬頭仰望，一邊操控鏡面裝置的光線，在水底的浪湧間探尋時空。另一裝置作品《時空際會》以懸浮的立方體為核心，向外投射的光束從不同方位穿透油街倉庫的空間。《漂流瓶》是鄭靖二十多年前的大學畢業作品，建構了一個弧形的大容器，以影像技術封藏潛遊的人影。
-
-在油街草地則有《氣韻——泉石嘯傲III》，五座仿太湖石的雕塑外層是金色的鏡面膜，石頭「呼吸吐納」，氣與韻流動不息，具有源源不絕的生命力。除其中四座雕塑取材自江南園林四大名石外，《鄺日修峰》更是鄭靖到香港九龍寨城公園實地考察及進行三維掃描創作而成。油街書房展出了鄭靖藝術生涯中最大型和具生長性的公共藝術項目「牧光計劃」相關影片及展品。
-
-陳惠立「油街焦點——左旋們浴場」
------------------------------------------------
-香港藝術家陳惠立在油街玻璃屋帶來全新個人展覽「油街焦點——左旋們浴場」，延續其「游泳」系列，構建出一個虛實交融的浴場空間。
-
-陳惠立的靈感源自世界各地跨時空的浴場文化。場域特定裝置《左旋之心》由1 200多塊手工陶瓷磚組成，為打造這個屬於香港的當代版本「浴場」，他親身到景德鎮學習陶瓷燒製技藝，為展覽製作專屬瓷磚及其紋飾。心形的浴池外觀不僅喚起對愛與浪漫的直觀聯想，陳惠立更賦予此符號為情感的精神象徵，邀請參觀者走進浴池，巧妙地模糊公共與私密的界線，探索一段關於距離、親密與公共性的獨特感官旅程。
-
-另一組裝置作品《七彩肥皂》則捕捉了肥皂與身體的親密連結及其可塑特質，牆上展示的各式陶瓷肥皂，隱喻人際相處間個體的獨特性與群體共存的多元樣貌。空間氣氛隨時間而變化，結合定時釋放的霧氣，展廳營造出時而朦朧的視覺效果，為觀眾帶來沉浸式的感官體驗。
-
-展覽由康樂及文化事務署主辦、油街實現籌劃。「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」展期由三月十九日至十月十一日，「油街焦點——左旋們浴場」則由三月十九日展出至八月三十日，兩個展覽均免費入場。兩位藝術家將分別於三月二十一日及二十二日下午舉行導賞。有關展覽詳情，可瀏覽網頁www.apo.hk/tc/web/apo/oi_projects_and_programmes.html。"
-公務員學院舉辦第六場「撮合南北：多極世界中的中國系列」講座（附圖）,2026-03-18 19:00,2026-03-18 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800262.htm,"公務員學院自二○二四年七月舉辦「撮合南北：多極世界中的中國系列」講座，今日（三月十八日）在公務員學院舉行系列的第六講，主題為「全球南方與國際秩序」，由南非約翰尼斯堡大學公共政策與非洲研究中心主任恩卡韋尼教授主講，復旦大學國際問題研究院戰略諮詢委員會主任及中國研究院諮詢委員會主任李世默擔任主持。
-
-公務員學院院長郭蔭庶在講座致辭時指出，在共同推進更公正合理的國際秩序的過程中，溝通橋樑及聯繫人的角色尤為重要。香港擁有獨特的歷史背景、普通法制度和穩健的金融市場，是東西薈萃、資本自由流動和思想匯聚之地。香港具備獨特優勢，背靠祖國，聯通世界，能促進國際間對話、投資和合作，塑造未來。
-
-約140名分別來自49個決策局／部門的首長級和中高級公務員現場或透過網上參與今日的講座。
-
-「撮合南北：多極世界中的中國系列」講座邀請內地及海外知名學者和領袖作嘉賓講者，啓發公務員思考在全球南方崛起，世界格局深刻變化中，中國作為多極世界中重要一方對世界的影響，並探討香港作為東西文化薈萃之地，應如何運用優勢，發揮聯繫國家與世界的獨特作用。系列涵蓋的主題圍繞全球南方崛起與國際秩序、文化藝術的守正創新與國際傳播、總體國家安全觀及全球倡議等。"
 Oil Street Art Space's two new exhibitions use water as creative lens to spark imaginations (with photos),2026-03-18 19:00,2026-03-18 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800226.htm,"  The Oil Street Art Space (Oi!) is staging two new exhibitions under its annual flagship project ""Oi! Spotlight"" tomorrow (March 19), featuring renowned contemporary multidisciplinary artist Zheng Jing from the Chinese Mainland and Hong Kong artist Chan Wai-lap. With water as the starting point, the artists transform the exhibition spaces of Oi! into distinct artistic worlds.
 
 Zheng Jing's ""Oi! Spotlight - Space · Ecology · Poetics: Zheng Jing's Way of Art""
@@ -586,6 +583,23 @@ Chan Wai-lap's ""Oi! Spotlight - Jeremy's Bathhouse""
   Another installation, ""Chromatic Soap"", captures the intimate relationship between soap and the body, highlighting the former's malleable qualities. The ceramic soaps displayed along the wall metaphorically reflect individual uniqueness within interpersonal relationships, while suggesting the diversity inherent in collective coexistence. The atmosphere of the space evolves through the timed release of mist, creating shifting visual conditions that move between clarity and obscurity, offering an immersive sensory experience.
 
  The exhibitions are presented by the Leisure and Cultural Services Department and organised by Oi!. ""Oi! Spotlight - Space · Ecology · Poetics: Zheng Jing's Way of Art"" will run from March 19 to October 11, and ""Oi! Spotlight - Jeremy's Bathhouse"" will run from March 19 to August 30. Admission is free for both exhibitions. Artist tours guided by the two artists will be arranged on March 21 and 22 respectively. For details of the exhibitions, please visit the website www.apo.hk/en/web/apo/oi_projects_and_programmes.html."
+油街實現兩個新展覽　以水為切入點引發想像（附圖）,2026-03-18 19:00,2026-03-18 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800223.htm,"油街實現藝術空間明日（三月十九日）起推出年度重點項目「油街焦點」兩個新展覽，由中國內地著名當代跨領域藝術家鄭靖，以及香港藝術家陳惠立，以水為切入點，把油街實現的展覽空間塑造成各具特色的藝術世界。
+
+鄭靖「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」
+--------------------------------------------------------------------
+中國美術學院教授鄭靖，是公共藝術學科帶頭人。是次「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」是他首個在香港的個人展覽，深入探索水、聲、氣、光等多種非固體媒介在公共空間中的可能性。油街倉庫內有多組裝置作品。《時空迴響——東方之珠》啓發自他兒時記憶中的鏡面反光遊戲。鄭靖在香港各處收集城市獨有的聲音，如電車的叮叮聲、列車的報站聲、雪糕車的音樂旋律、喧嚷的街市叫賣聲及本地童謠等，並把這些聲音轉化成作品的一部分。觀眾走進油街倉庫1展覽空間，彷彿置身於維多利亞港的水底，可一邊抬頭仰望，一邊操控鏡面裝置的光線，在水底的浪湧間探尋時空。另一裝置作品《時空際會》以懸浮的立方體為核心，向外投射的光束從不同方位穿透油街倉庫的空間。《漂流瓶》是鄭靖二十多年前的大學畢業作品，建構了一個弧形的大容器，以影像技術封藏潛遊的人影。
+
+在油街草地則有《氣韻——泉石嘯傲III》，五座仿太湖石的雕塑外層是金色的鏡面膜，石頭「呼吸吐納」，氣與韻流動不息，具有源源不絕的生命力。除其中四座雕塑取材自江南園林四大名石外，《鄺日修峰》更是鄭靖到香港九龍寨城公園實地考察及進行三維掃描創作而成。油街書房展出了鄭靖藝術生涯中最大型和具生長性的公共藝術項目「牧光計劃」相關影片及展品。
+
+陳惠立「油街焦點——左旋們浴場」
+-----------------------------------------------
+香港藝術家陳惠立在油街玻璃屋帶來全新個人展覽「油街焦點——左旋們浴場」，延續其「游泳」系列，構建出一個虛實交融的浴場空間。
+
+陳惠立的靈感源自世界各地跨時空的浴場文化。場域特定裝置《左旋之心》由1 200多塊手工陶瓷磚組成，為打造這個屬於香港的當代版本「浴場」，他親身到景德鎮學習陶瓷燒製技藝，為展覽製作專屬瓷磚及其紋飾。心形的浴池外觀不僅喚起對愛與浪漫的直觀聯想，陳惠立更賦予此符號為情感的精神象徵，邀請參觀者走進浴池，巧妙地模糊公共與私密的界線，探索一段關於距離、親密與公共性的獨特感官旅程。
+
+另一組裝置作品《七彩肥皂》則捕捉了肥皂與身體的親密連結及其可塑特質，牆上展示的各式陶瓷肥皂，隱喻人際相處間個體的獨特性與群體共存的多元樣貌。空間氣氛隨時間而變化，結合定時釋放的霧氣，展廳營造出時而朦朧的視覺效果，為觀眾帶來沉浸式的感官體驗。
+
+展覽由康樂及文化事務署主辦、油街實現籌劃。「油街焦點——空間‧生態‧詩學：鄭靖的藝術之道」展期由三月十九日至十月十一日，「油街焦點——左旋們浴場」則由三月十九日展出至八月三十日，兩個展覽均免費入場。兩位藝術家將分別於三月二十一日及二十二日下午舉行導賞。有關展覽詳情，可瀏覽網頁www.apo.hk/tc/web/apo/oi_projects_and_programmes.html。"
 Civil Service College organises sixth seminar in Executive Series on Brokering North and South: China in a Multipolar World (with photos),2026-03-18 19:00,2026-03-18 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800269.htm,"The Civil Service College (CSC) has been running the Executive Series on Brokering North and South: China in a Multipolar World since July 2024. The sixth seminar in the series, on the topic of ""Global South and the Shifting International Order"", was delivered by the Director of the Centre for Public Policy and African Studies, University of Johannesburg, South Africa, Professor Busani Ngcaweni, and chaired by the Chairman of the Strategic Advisory Council of the Institute of International Studies and the Chairman of the Advisory Committee of the China Institute of Fudan University, Mr Eric Li, at the CSC today (March 18).
 
 Addressing the seminar, the Head of the CSC, Mr Oscar Kwok, said that in the collective endeavour to pursue a more just and equitable international order, the role of bridges and connectors becomes ever more vital. With its unique history, common law system and robust financial markets, Hong Kong is a place where East meets West, where capital flows freely and where ideas converge. Hong Kong has unique advantages of being backed by the motherland and connected to the world to facilitate global dialogues, investments, and partnerships that will shape the future.
@@ -593,6 +607,13 @@ Addressing the seminar, the Head of the CSC, Mr Oscar Kwok, said that in the col
 About 140 civil servants in directorate, senior, and middle ranks from 49 bureaux/departments attended the seminar in person or online today.
 
 The Executive Series on Brokering North and South: China in a Multipolar World invites renowned scholars and leaders from the Mainland and overseas as guest speakers to inspire civil servants to reflect on the influence of China, as a major player in a multipolar world, on the global community amid the rise of the Global South and profound changes in the international landscape, and to explore how Hong Kong, as a city where East meets West, should leverage its strengths in its unique role in connecting the country with the world. It covers subjects pertaining to the rise of the Global South and international order, upholding principles and innovation in arts and culture and international communication, a holistic approach to national security and global initiatives, among others."
+公務員學院舉辦第六場「撮合南北：多極世界中的中國系列」講座（附圖）,2026-03-18 19:00,2026-03-18 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800262.htm,"公務員學院自二○二四年七月舉辦「撮合南北：多極世界中的中國系列」講座，今日（三月十八日）在公務員學院舉行系列的第六講，主題為「全球南方與國際秩序」，由南非約翰尼斯堡大學公共政策與非洲研究中心主任恩卡韋尼教授主講，復旦大學國際問題研究院戰略諮詢委員會主任及中國研究院諮詢委員會主任李世默擔任主持。
+
+公務員學院院長郭蔭庶在講座致辭時指出，在共同推進更公正合理的國際秩序的過程中，溝通橋樑及聯繫人的角色尤為重要。香港擁有獨特的歷史背景、普通法制度和穩健的金融市場，是東西薈萃、資本自由流動和思想匯聚之地。香港具備獨特優勢，背靠祖國，聯通世界，能促進國際間對話、投資和合作，塑造未來。
+
+約140名分別來自49個決策局／部門的首長級和中高級公務員現場或透過網上參與今日的講座。
+
+「撮合南北：多極世界中的中國系列」講座邀請內地及海外知名學者和領袖作嘉賓講者，啓發公務員思考在全球南方崛起，世界格局深刻變化中，中國作為多極世界中重要一方對世界的影響，並探討香港作為東西文化薈萃之地，應如何運用優勢，發揮聯繫國家與世界的獨特作用。系列涵蓋的主題圍繞全球南方崛起與國際秩序、文化藝術的守正創新與國際傳播、總體國家安全觀及全球倡議等。"
 衞生署正跟進英國肯特郡出現的侵入性腦膜炎雙球菌感染群組,2026-03-18 18:00,2026-03-18 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800667.htm,"衞生署衞生防護中心（中心）今日（三月十八日）正向英國衞生當局跟進一個在英國肯特郡出現的侵入性腦膜炎雙球菌感染群組，涉及20名病人（截至當地時間三月十七日下午五時），當中兩人死亡，而部分病人證實感染B型腦膜炎雙球菌。中心提醒市民，應時刻注意個人和環境衞生，以減低感染侵入性腦膜炎雙球菌的風險。
 
 當地衞生部門的流行病學調查發現，全部個案涉及年輕成年人，部分受影響人士曾於三月五日至七日到訪當地一間名為「Club Chemistry」的夜總會。當地衞生部門正進行接觸者追蹤，並已向超過2 500名於該段時間曾到訪該夜總會的人士及密切接觸者提供預防性藥物。由於當中部分病人屬肯特大學的學生，因此，肯特大學亦已聯同英國衞生當局向該校師生提供健康建議並進行接觸者追蹤，並會為住宿學生提供疫苗接種。
@@ -722,19 +743,19 @@ Customs reminds dealers in precious metals and stones that they must obtain the 
 For the forms, procedures and guidelines to submit applications for registration, please visit the website for Dealers in Precious Metals and Stones Registration System (www.drs.customs.gov.hk) or Customs' webpage (www.customs.gov.hk/en/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html).
 
 Members of the public may report any suspected transactions involving precious metals and stones with a total value at or above HK$120,000 conducted without the required registration to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk)or online form(eform.cefs.gov.hk/form/ced002)."
-Hong Kong Customs seizes suspected smuggled live turtles worth about $1 million (with photo),2026-03-18 17:40,2026-03-18 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800650.htm,"Hong Kong Customs yesterday (March 17) detected a suspected live turtle smuggling case involving an outgoing private car at the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and seized 986 live turtles, with a total estimated market value of about $1 million.
+​香港海關檢獲約一百萬元懷疑走私活龜（附圖）,2026-03-18 17:40,2026-03-18 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800648.htm,"香港海關昨日（三月十七日）在港珠澳大橋香港口岸偵破一宗涉嫌利用出境私家車走私活龜的案件，檢獲九百八十六隻活龜，估計市值共約一百萬元。
 
-Based on risk assessment, Customs yesterday intercepted an outgoing private car at the aforementioned control point. Upon inspection, the batch of suspected smuggled live turtles was found in seven black plastic bags placed in the trunk of the vehicle.
+海關昨日根據風險評估，在上述口岸截查一輛出境私家車。經查驗後，海關人員於車尾位置的七個黑色膠袋內發現該批懷疑走私活龜。
 
-A 42-year-old male driver and a 50-year-old male passenger were arrested. They were charged by Customs with one count of attempting to export unmanifested cargo and were charged by the Agriculture, Fisheries and Conservation Department with one count of cruelty to animals. The case will be brought up at the West Kowloon Magistrates' Courts tomorrow (March 19).
+一名四十二歲男司機及一名五十歲男乘客被捕，並被海關控以一項企圖輸出未列艙單貨物和被漁農自然護理署控以一項殘酷對待動物的罪名。案件將於明日（三月十九日）在西九龍裁判法院提堂。
 
-Customs will continue to combat cross-boundary smuggling activities with firm enforcement action based on risk assessment and intelligence analysis.
+海關會繼續透過風險評估和情報分析嚴厲執法，打撃跨境走私活動。
 
-Smuggling is a serious offence. Under the Import and Export Ordinance, any person found guilty of importing or exporting unmanifested cargo is liable to a maximum fine of $2 million and imprisonment for seven years.
+走私屬嚴重罪行，根據《進出口條例》，任何人輸入或輸出未列艙單貨物，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
-Also, according to the Prevention of Cruelty to Animals Ordinance (Cap. 169), any person who, by wantonly or unreasonably doing or omitting to do any act, causes any unnecessary suffering to any animal commits an offence and will be liable to a maximum fine of $200,000 and imprisonment for three years upon conviction.
+同時，根據《防止殘酷對待動物條例》（第169章），任何人因胡亂或不合理地作出或不作出某種作為而導致任何動物受到任何不必要的痛苦，即屬違法。一經定罪，最高可被判罰款二十萬元及監禁三年。
 
-Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動。"
 SITI continues visit to Beijing (with photos),2026-03-18 17:40,2026-03-18 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800620.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong, continued his visit to Beijing yesterday afternoon (March 17) and today (March 18).
 
   Professor Sun called on the Ministry of Industry and Information Technology (MIIT) and met with Vice Minister of Industry and Information Technology Mr Ke Jixin. They had an in-depth exchange on the arrangements for promoting the establishment in Hong Kong of the first national manufacturing innovation centre outside the Mainland, as well as on how Hong Kong can promote the development of new industrialisation in the Guangdong-Hong Kong-Macao Greater Bay Area under the National 15th Five-Year Plan. Professor Sun said that to implement the Co-operation Agreement on the Development of New Quality Productive Forces and the Promotion of New Industrialisation signed with the MIIT, as well as to actively align with the National 15th Five-Year Plan, deeply involve itself in the construction of the Guangdong-Hong Kong-Macao Greater Bay Area, and better integrate into and serve the overall national development, the Hong Kong Special Administrative Region (HKSAR) Government had proposed in its Budget to earmark about $220 million to support the establishment of the innovation centre with the MIIT.
@@ -752,19 +773,19 @@ SITI continues visit to Beijing (with photos),2026-03-18 17:40,2026-03-18 17:45,
   The Commissioner for Industry (Innovation and Technology), Dr Ge Ming, also joined part of the visit.
 
   Professor Sun will continue his visit to Beijing tomorrow (March 19)."
-​香港海關檢獲約一百萬元懷疑走私活龜（附圖）,2026-03-18 17:40,2026-03-18 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800648.htm,"香港海關昨日（三月十七日）在港珠澳大橋香港口岸偵破一宗涉嫌利用出境私家車走私活龜的案件，檢獲九百八十六隻活龜，估計市值共約一百萬元。
+Hong Kong Customs seizes suspected smuggled live turtles worth about $1 million (with photo),2026-03-18 17:40,2026-03-18 17:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800650.htm,"Hong Kong Customs yesterday (March 17) detected a suspected live turtle smuggling case involving an outgoing private car at the Hong Kong-Zhuhai-Macao Bridge Hong Kong Port and seized 986 live turtles, with a total estimated market value of about $1 million.
 
-海關昨日根據風險評估，在上述口岸截查一輛出境私家車。經查驗後，海關人員於車尾位置的七個黑色膠袋內發現該批懷疑走私活龜。
+Based on risk assessment, Customs yesterday intercepted an outgoing private car at the aforementioned control point. Upon inspection, the batch of suspected smuggled live turtles was found in seven black plastic bags placed in the trunk of the vehicle.
 
-一名四十二歲男司機及一名五十歲男乘客被捕，並被海關控以一項企圖輸出未列艙單貨物和被漁農自然護理署控以一項殘酷對待動物的罪名。案件將於明日（三月十九日）在西九龍裁判法院提堂。
+A 42-year-old male driver and a 50-year-old male passenger were arrested. They were charged by Customs with one count of attempting to export unmanifested cargo and were charged by the Agriculture, Fisheries and Conservation Department with one count of cruelty to animals. The case will be brought up at the West Kowloon Magistrates' Courts tomorrow (March 19).
 
-海關會繼續透過風險評估和情報分析嚴厲執法，打撃跨境走私活動。
+Customs will continue to combat cross-boundary smuggling activities with firm enforcement action based on risk assessment and intelligence analysis.
 
-走私屬嚴重罪行，根據《進出口條例》，任何人輸入或輸出未列艙單貨物，一經定罪，最高可被判罰款二百萬元及監禁七年。
+Smuggling is a serious offence. Under the Import and Export Ordinance, any person found guilty of importing or exporting unmanifested cargo is liable to a maximum fine of $2 million and imprisonment for seven years.
 
-同時，根據《防止殘酷對待動物條例》（第169章），任何人因胡亂或不合理地作出或不作出某種作為而導致任何動物受到任何不必要的痛苦，即屬違法。一經定罪，最高可被判罰款二十萬元及監禁三年。
+Also, according to the Prevention of Cruelty to Animals Ordinance (Cap. 169), any person who, by wantonly or unreasonably doing or omitting to do any act, causes any unnecessary suffering to any animal commits an offence and will be liable to a maximum fine of $200,000 and imprisonment for three years upon conviction.
 
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑走私活動。"
+Members of the public may report any suspected smuggling activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 ​立法會：勞工及福利局局長就「制訂全面的『無家者友善政策』，構建關愛共融社會」動議辯論總結發言（只有中文）,2026-03-18 17:28,2026-03-18 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800643.htm,"以下是勞工及福利局局長孫玉菡今日（三月十八日）在立法會會議上就「制訂全面的『無家者友善政策』，構建關愛共融社會」動議辯論的總結發言：
 
 主席：
@@ -846,6 +867,13 @@ SITI continues visit to Beijing (with photos),2026-03-18 17:40,2026-03-18 17:45,
 本屆政府決心解決香港累積多年的劣質「劏房」「老大難」問題，簡樸房制度已於今年三月一日開始按「先登記、後執法」的步伐推展，提供48個月過渡安排，讓分間單位的業主／營運人有合理時間逐步過渡至符合法定要求，務求分間單位能在租務市場上提供安全、衞生和合理的居住環境。現存分間單位，無論現時是否符合標準，均歡迎先進行免費登記以取得寬限期作改善。房屋局轄下的六隊區域服務隊亦已加強全方位支援，就市場上可能出現分間單位業主與租客需要就其租賃安排作商討的情況，積極主動為受影響的租戶提供即時的援助，並且設置過渡性房屋「丙類租戶」作安全網，確保住戶不會流離失所。
 
 主席，房屋局會繼續不斷優化各項房屋政策，並推行上述各項短、中、長期的房屋措施，保障市民包括無家者基本的住屋需求，從根本優化公營房屋系統，提升市民的幸福感和獲得感，共同構建關愛共融社會。多謝主席。"
+二○二六年二月份領取綜援個案數字,2026-03-18 17:00,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800217.htm,"社會福利署今日（三月十八日）發表最新的領取綜合社會保障援助（綜援）個案數字。二月份整體領取綜援的個案稍微下跌36宗，與一月份數字相若。
+
+二月底領取綜援的個案總數為194 224宗（詳見附表），受助總人數為255 939。
+
+就個案類別分析，低收入類別個案的按月跌幅為0.8%，有1 264宗。失業類別個案下跌0.7%，有15 169宗。單親類別個案下跌0.3%，有17 895宗。永久性殘疾類別個案下跌0.2%，有16 319宗。
+
+年老類別個案及健康欠佳類別個案則上升0.1%，分別有111 473宗及28 169宗。"
 FEHD releases third batch of gravidtrap indexes for Aedes albopictus in March,2026-03-18 17:00,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800201.htm,"The Food and Environmental Hygiene Department (FEHD) today (March 18) released the third batch of gravidtrap indexes and density indexes for Aedes albopictus in March, covering 19 survey areas, as follows:
 
 
@@ -1006,6 +1034,23 @@ scrub drains and surface sewers with alkaline detergent at least once a week to 
 Starting in August 2025, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of chikungunya fever (CF) transmission.
 
   ​Following recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 62 survey areas of the community, with a surveillance period of two weeks. During the surveillance period, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#)."
+Term of non-permanent CFA judge extended,2026-03-18 17:00,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800233.htm,"The following is issued on behalf of the Judiciary:
+
+The Chief Executive has accepted the recommendation of the Chief Justice of the Court of Final Appeal to extend the term of office of the Honourable MrJustice Patrick Anthony Keane as a non-permanent judge from another common law jurisdiction of the Court of Final Appeal for a period of three years commencing April 6,2026.
+
+The Hong Kong Court of Final Appeal Ordinance provides for a list of non-permanent Hong Kong judges and a list of judges from other common law jurisdictions. The term of appointment of such judges is three years. That term may be extended for one or more periods of three years by the Chief Executive acting in accordance with the recommendation of the Chief Justice."
+CSSA caseload for February 2026,2026-03-18 17:00,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800219.htm,"The overall Comprehensive Social Security Assistance (CSSA) caseload in February slightly dropped by 36 cases, remaining more or less the same as that of January, according to the latest CSSA caseload statistics released by the Social Welfare Department today (March 18).
+
+The total CSSA caseload at the end of February stood at 194 224 (see attached table), with a total of 255 939 recipients.
+
+Analysed by case nature, low-earnings cases registered a month-to-month decrease of 0.8 per cent to 1 264 cases. Unemployment cases dropped by 0.7 per cent to 15 169 cases. Single parent cases declined by 0.3 per cent to 17 895 cases. Permanent disability cases declined by 0.2 per cent to 16 319 cases.
+
+Both old age cases and Ill-health cases registered an increase of 0.1 per cent to 111 473 cases and 28 169 cases respectively."
+終審法院非常任法官任期延續,2026-03-18 17:00,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800231.htm,"下稿代司法機構發出：
+
+行政長官已接納終審法院首席法官的建議，將終審法院其他普通法適用地區非常任法官祈顯義的任期，由二○二六年四月六日起，延續三年。
+
+《香港終審法院條例》規定設有一份非常任香港法官及一份其他普通法適用地區法官的名單。非常任法官的任期為三年，而行政長官可根據終審法院首席法官的建議，將非常任法官的任期延續一次或一次以上，每次續期為三年。"
 食環署公布三月份第三批白紋伊蚊誘蚊器指數,2026-03-18 17:00,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800193.htm,"食物環境衞生署（食環署）今日（三月十八日）公布，三月份第三批涵蓋19個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
 
 
@@ -1166,30 +1211,6 @@ N/A
 食環署自二○二五年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
 
 ​食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。現時，食環署在社區62個監察地區放置誘蚊器，監察期為兩星期。在監察期間，食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
-CSSA caseload for February 2026,2026-03-18 17:00,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800219.htm,"The overall Comprehensive Social Security Assistance (CSSA) caseload in February slightly dropped by 36 cases, remaining more or less the same as that of January, according to the latest CSSA caseload statistics released by the Social Welfare Department today (March 18).
-
-The total CSSA caseload at the end of February stood at 194 224 (see attached table), with a total of 255 939 recipients.
-
-Analysed by case nature, low-earnings cases registered a month-to-month decrease of 0.8 per cent to 1 264 cases. Unemployment cases dropped by 0.7 per cent to 15 169 cases. Single parent cases declined by 0.3 per cent to 17 895 cases. Permanent disability cases declined by 0.2 per cent to 16 319 cases.
-
-Both old age cases and Ill-health cases registered an increase of 0.1 per cent to 111 473 cases and 28 169 cases respectively."
-二○二六年二月份領取綜援個案數字,2026-03-18 17:00,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800217.htm,"社會福利署今日（三月十八日）發表最新的領取綜合社會保障援助（綜援）個案數字。二月份整體領取綜援的個案稍微下跌36宗，與一月份數字相若。
-
-二月底領取綜援的個案總數為194 224宗（詳見附表），受助總人數為255 939。
-
-就個案類別分析，低收入類別個案的按月跌幅為0.8%，有1 264宗。失業類別個案下跌0.7%，有15 169宗。單親類別個案下跌0.3%，有17 895宗。永久性殘疾類別個案下跌0.2%，有16 319宗。
-
-年老類別個案及健康欠佳類別個案則上升0.1%，分別有111 473宗及28 169宗。"
-Term of non-permanent CFA judge extended,2026-03-18 17:00,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800233.htm,"The following is issued on behalf of the Judiciary:
-
-The Chief Executive has accepted the recommendation of the Chief Justice of the Court of Final Appeal to extend the term of office of the Honourable MrJustice Patrick Anthony Keane as a non-permanent judge from another common law jurisdiction of the Court of Final Appeal for a period of three years commencing April 6,2026.
-
-The Hong Kong Court of Final Appeal Ordinance provides for a list of non-permanent Hong Kong judges and a list of judges from other common law jurisdictions. The term of appointment of such judges is three years. That term may be extended for one or more periods of three years by the Chief Executive acting in accordance with the recommendation of the Chief Justice."
-終審法院非常任法官任期延續,2026-03-18 17:00,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800231.htm,"下稿代司法機構發出：
-
-行政長官已接納終審法院首席法官的建議，將終審法院其他普通法適用地區非常任法官祈顯義的任期，由二○二六年四月六日起，延續三年。
-
-《香港終審法院條例》規定設有一份非常任香港法官及一份其他普通法適用地區法官的名單。非常任法官的任期為三年，而行政長官可根據終審法院首席法官的建議，將非常任法官的任期延續一次或一次以上，每次續期為三年。"
 立法會：醫務衞生局副局長就「制訂全面的『無家者友善政策』，構建關愛共融社會」議員議案總結發言（只有中文）,2026-03-18 16:47,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800591.htm,"​以下是醫務衞生局（醫衞局）副局長范婉雯醫生今日（三月十八日）在立法會會議就「制訂全面的『無家者友善政策』，構建關愛共融社會」議員議案的總結發言：
 
 主席：
@@ -1313,69 +1334,6 @@ Moreover, the EDB has implemented and regularised the Relocation Grant to encour
 President, when planning for the future development of education, the Government will accord top priority to the interests of students, while reviewing the policies and the effectiveness of utilisation of public resources. We will timely redeploy and consolidate resources, as well as focus on enhancing the overall education quality to suitably cater for the various needs of students, while continue to maintain communication with the sector and work pragmatically to overcome challenges.
 
 Thank you, President."
-LCQ7: Financial co-operation with Middle East and Global South economies,2026-03-18 16:45,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800337.htm," Following is a question by the Hon Lau Ka-keung and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (March 18):
-
-Question:
-
- There are views that while the recent dramatic changes in the Middle East situation have heightened geopolitical risks and brought uncertainties to international financial markets, energy prices and global supply chains, they have also presented new opportunities to Hong Kong for co-operation with Middle East economies and other Global South economies. In this connection, will the Government inform this Council:
-
-(1) whether it has assessed the respective aggregate asset sizes and risk exposures of Hong Kong's banks and major licensed financial institutions in Middle East economies and other Global South economies in each of the past three years; if it has assessed, set out the data in tabular form by jurisdiction and asset type; if not, whether it will conduct an assessment;
-
-(2) whether it has compiled statistics on the values of bilateral trade (including imports and total exports) between Hong Kong and Global South economies, their year-on-year rates of change, and the proportions of Global South economies in Hong Kong's total external trade value in each of the past three years; if it has compiled, set out the data in tabular form by jurisdiction and service type; if not, whether it will compile such statistics;
-
-(3) whether it knows if the Hong Kong Monetary Authority and the Securities and Futures Commission have taken specific measures to assess and monitor the risks assumed by Hong Kong's banks and financial institutions for their investments in the Middle East (such as requiring the relevant banks and financial institutions to undergo targeted stress tests or step up risk monitoring); if so, of the details; if not, the reasons for that;
-
-(4) as there are views that geopolitical tensions may cause fluctuations in energy and commodity prices, thereby affecting inflation and business operations, whether a cross-departmental alert and response mechanism will be formulated to reduce the potential impact of such fluctuations on the economic and financial stability of Hong Kong; if it will, of the details; if not, the reasons for that;
-
-(5) as there are views that the Government has actively promoted co-operation with Middle East economies and other Global South economies in the areas of finance, economy and trade in recent years, and yet the current geopolitical risks may impact the advancement of such co-operation and the exploration of new markets, how the authorities assess and manage the risks involved and provide ongoing support to Hong Kong's financial institutions and enterprises interested in exploring those markets, thereby assisting relevant bodies in seizing development opportunities, subject to compliance with laws and regulations; and
-
-(6) as there are views pointing out the pressing demands from Middle East economies and other Global South economies in areas such as Islamic finance and green sustainable finance, whether timely deployment has been made in light of the current international turmoil to further strengthen Hong Kong's institutional advantages in such areas so as not to miss development opportunities, and, where risks are controllable, develop Hong Kong into a key hub connecting capital and projects between China and the Global South; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
- The tensions in the Middle East have brought volatility to global energy supply, financial markets and trade. Geopolitical uncertainties have highlighted the importance of Hong Kong as an international financial centre in providing security, stability, and certainty. With the free flow of capital, merchandise and talent into and out of Hong Kong, coupled with the stability of the Hong Kong dollar under the Linked Exchange Rate System, as well as Hong Kong's comprehensive capital markets, robust financial infrastructure and quality professional services and talent, Hong Kong is well-positioned to play the role of a ""safe haven"" amidst these changes. Notably, as co-operation between Hong Kong and the Middle Eastern financial markets continues to deepen in recent years, some Middle East funds may flow into Hong Kong to avert risk. At the same time, the Government and financial regulators will closely monitor market conditions and put in place contingency plans to properly manage geopolitical risks while seizing the opportunities that arise.
-
-After consulting the Commerce and Economic Development Bureau, the Environment and Ecology Bureau, the Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC), our reply to the six parts of the question is as follows:
-
-(1) The exposure of the local banking sector to the Middle East is very small, accounting for less than 3 per cent of the total assets of the banking industry over the past three years. Besides, the exposure of Hong Kong banks to other major Global South economies (excluding Chinese Mainland) over the past three years also accounted for only about 3 per cent of the total assets of the banking industry.
-
- The SFC has been closely monitoring the operation of the market, and has not detected any significant risks relating to the recent situation in the Middle East, nor has it identified any major issues arising from the Middle East situation in the operation or risk management of licensed corporations.
-
-(2) The Government has been proactively expanding into the emerging markets in the Global South, including the Association of Southeast Asian Nations (ASEAN) and the Middle East, to promote the long-term economic development of Hong Kong.
-
- Taking ASEAN as an example, in 2025, ASEAN as a bloc was Hong Kong's second largest trading partner in the world. The bilateral trade in goods between Hong Kong and ASEAN amounted to HK$1,668.5 billion (US$214.0 billion), representing 15.3 per cent of Hong Kong's global merchandise trade and registering an average annual growth rate of 7.6 per cent in the past five years.
-
- In 2025, the Middle East as a bloc was our 10th largest trading partner in the world. The bilateral trade in goods between Hong Kong and the Middle East amounted to HK$192.8 billion (US$24.7 billion), representing 1.8 per cent of Hong Kong's global merchandise trade and registering an average annual growth rate of 5.8 per cent in the past five years.
-
- Hong Kong and the emerging markets in the Global South have significant room for trade and economic development. Hong Kong is committed to giving full play of our role as the functional platform for the Belt and Road Initiative, and stepping up efforts to deepen co-operation with the Global South markets.
-
-(3) In view of the escalation of the situation in the Middle East and geopolitical risks, the HKMA has stepped up its monitoring of market conditions, including conducting stress tests, and maintaining close communication with banks. Banks have also enhanced their risk monitoring and management, and have been formulating appropriate contingency measures for different risk scenarios. Overall, as pointed out in part (1) of the reply, the exposure of Hong Kong banks to the Middle East is very small. The Hong Kong banking sector remains stable, with ample capital and liquidity levels that are well above international standards. The HKMA will closely monitor the developments and continue to guide Hong Kong banks in adopting prudent risk management measures to properly manage the risks arising from financial market volatility and external uncertainties. On the monetary front, Hong Kong's foreign exchange reserves are substantial, exceeding US$430 billion, which is about 1.7 times the size of the Hong Kong monetary base, ensuring the smooth functioning of the Linked Exchange Rate System at all times. Hong Kong's money market continues to operate in an orderly manner, and the Hong Kong dollar exchange rate has been maintained within the convertibility zone of 7.75 to 7.85 against the US dollar.
-
- The SFC has also been closely monitoring the operation of the local stock market, exchanges and the over-the-counter derivatives market. The SFC conducts regular stress tests based on the financial information reported by brokers to assess their financial resilience. During periods of relative market volatility, the SFC also pays particular attention by inquiring with major investment banks and hedge funds about their short positions in heavyweight stocks, as well as seeking to understand the trading strategies, overall positions and risk management measures of market participants. The SFC has not detected any significant risks relating to the recent situation in the Middle East.
-
- The Government and financial regulators will continue to closely monitor market changes to maintain the stability of Hong Kong's monetary and financial markets.
-
-(4) In response to the recent developments, the Government has strengthened communication with the two power companies and major energy companies, closely monitoring the inventory levels and supply status of major fuels. The Government has in place a mechanism that sets minimum stockpile requirements for major fuels and contingency plans to deal with potential supply tightness. The Government will remain vigilant, closely monitoring geopolitical developments, international energy price trends and the local fuel supply situation to ensure the stability of Hong Kong's energy supply.
-
- The financial market is operating smoothly with regard to the trading of other commodities. The Government and financial regulators will continue to closely monitor the situation to ensure its effective functioning.
-
-(5) and (6) The Government has been actively promoting enhanced co-operation between Hong Kong and emerging markets in the Global South, including the Middle East and ASEAN, in areas such as finance and trade, and is committed to developing and providing products and services that meet the needs of these markets to seize relevant opportunities.
-
- In the area of finance, as an international financial centre, Hong Kong is dedicated to providing investors and issuers with a diverse range of products and services. Islamic financial products, in particular, can offer issuers additional financing channels and broaden their investor base. The Government amended the laws in 2013 and 2014 to provide a tax framework for issuing sukuk that is comparable to that for conventional bonds, and to allow the issuance of sukuk under the Government Bond Programme. Thereafter, the Government issued three sukuk, totalling US$3 billion, under the Government Bond Programme, demonstrating that Hong Kong's legal, regulatory and taxation framework can readily support sukuk issuances of different structures, making it a suitable platform for raising funds through sukuk.
-
- In addition, an array of Islamic financial products and services have been rolled out in Hong Kong, including the listing of global sukuk on the Hong Kong Exchanges and Clearing Limited (HKEX), Shariah-compliant equity indices tracking Hong Kong stocks, and Islamic banking windows. Hong Kong and Saudi Arabia have also achieved continuous breakthroughs in developing new financial products in recent years. Following the listing of Asia's first exchange-traded fund (ETF) investing in Saudi-listed stocks on the HKEX in November 2023, two ETFs tracking Hong Kong stock indices were listed on the Saudi Exchange via master-feeder structure in October 2024. Asia's first government sukuk ETF was also listed on the HKEX in May 2025.
-
- At the same time, financial regulators are actively promoting the strengths of Hong Kong's financial system and market through market development efforts, with a view to further strengthening co-operation with Islamic markets such as the Middle East and ASEAN.
-
- In recent years, the HKMA has held multiple bilateral meetings and signed Memoranda of Understanding (MOUs) with central banks in the United Arab Emirates (UAE), Saudi Arabia, Qatar, etc., discussing topics of financial infrastructure development, sustainable finance, fintech, market connectivity and Islamic finance, etc. Notably, the Central Bank of the UAE officially joined the HKMA's Central Moneymarkets Unit in February 2026, enabling the Central Bank of the UAE and investors in the UAE to fully utilise Hong Kong's mature financial infrastructure to access the Mainland Chinese capital market and invest in related financial assets. Furthermore, the HKMA and the Dubai Financial Services Authority have co-organised the Joint Climate Finance Conference for two consecutive years since 2024 and, in 2025, initiated a joint study exploring the role of sustainable debt instruments in scaling up climate finance for the emerging markets in the Global South, subsequently publishing a research report titled Scaling Sustainable Debt in Emerging Markets.
-
- In addition, the SFC has also been actively forging greater connectivity with the Middle East region to further reinforce Hong Kong's role as Asia's premier capital intermediary. In 2025, the SFC has signed four MOUs with financial regulators in the Middle East region, strengthening co-operation between Hong Kong and the Middle East on the areas of market regulatory oversight, supervision of collective investment scheme managers, cross-border regulatory co-operation on digital assets and the establishment of Mutual Recognition of Funds arrangement.
-
- The Government and financial regulators will continue to advance relevant market development efforts, seeking further co-operation with emerging markets in the Global South, including the Middle East and ASEAN, in the financial field. This will better leverage Hong Kong's advantages as an international financial centre to connect markets and capital between China and the Global South.
-
- In the area of trade, the Government has been actively seeking to conclude free trade agreements and investment agreements (IAs) with economies in the Middle East and the Global South. The Government has concluded negotiations of IAs with Qatar, Bangladesh and Peru respectively, and is exploring new IAs with Saudi Arabia and Egypt. These agreements require long-term negotiations and have consistently received support from the governments of both sides. The recent situation in the Middle East does not affect the authorities' intentions regarding these agreements. The Government will continue to actively advance this work. At the same time, the Government will strengthen its role as the functional node for the Belt and Road Initiative, collaborating with industry players to further develop the ASEAN, Middle East and Global South markets, and explore the potential of markets in Central Asia, South Asia and North Africa."
 立法會七題：與中東及全球南方經濟體的金融合作,2026-03-18 16:45,2026-03-18 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800335.htm,"以下是今日（三月十八日）在立法會會議上樓家強議員的提問和財經事務及庫務局局長許正宇的書面答覆：
 
 問題：
@@ -1439,6 +1397,69 @@ After consulting the Commerce and Economic Development Bureau, the Environment a
 政府與金融監管機構將繼續推展相關的市場發展工作，在金融領域上尋求進一步與中東及東盟等「全球南方」新興市場合作，更好善用香港國際金融中心的優勢，將中國與「全球南方」的市場和資金連接起來。
 
 在貿易方面，政府一直積極尋求與中東地區及全球南方的經濟體締結自由貿易協定及投資協定。政府已分別與卡塔爾、孟加拉國和秘魯完成投資協定談判，並正與沙特阿拉伯和埃及探討新投資協定。有關協定須經長時間談判，亦一直得到雙方政府支持，中東近期局勢並不影響當局對有關協定的意向。政府會繼續積極推進有關工作。同時，政府會加強發揮共建「一帶一路」關鍵節點角色，聯同業界深耕東盟、中東及「全球南方」市場，探索中亞、南亞及北非市場潛力。"
+LCQ7: Financial co-operation with Middle East and Global South economies,2026-03-18 16:45,2026-03-18 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800337.htm," Following is a question by the Hon Lau Ka-keung and a written reply by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, in the Legislative Council today (March 18):
+
+Question:
+
+ There are views that while the recent dramatic changes in the Middle East situation have heightened geopolitical risks and brought uncertainties to international financial markets, energy prices and global supply chains, they have also presented new opportunities to Hong Kong for co-operation with Middle East economies and other Global South economies. In this connection, will the Government inform this Council:
+
+(1) whether it has assessed the respective aggregate asset sizes and risk exposures of Hong Kong's banks and major licensed financial institutions in Middle East economies and other Global South economies in each of the past three years; if it has assessed, set out the data in tabular form by jurisdiction and asset type; if not, whether it will conduct an assessment;
+
+(2) whether it has compiled statistics on the values of bilateral trade (including imports and total exports) between Hong Kong and Global South economies, their year-on-year rates of change, and the proportions of Global South economies in Hong Kong's total external trade value in each of the past three years; if it has compiled, set out the data in tabular form by jurisdiction and service type; if not, whether it will compile such statistics;
+
+(3) whether it knows if the Hong Kong Monetary Authority and the Securities and Futures Commission have taken specific measures to assess and monitor the risks assumed by Hong Kong's banks and financial institutions for their investments in the Middle East (such as requiring the relevant banks and financial institutions to undergo targeted stress tests or step up risk monitoring); if so, of the details; if not, the reasons for that;
+
+(4) as there are views that geopolitical tensions may cause fluctuations in energy and commodity prices, thereby affecting inflation and business operations, whether a cross-departmental alert and response mechanism will be formulated to reduce the potential impact of such fluctuations on the economic and financial stability of Hong Kong; if it will, of the details; if not, the reasons for that;
+
+(5) as there are views that the Government has actively promoted co-operation with Middle East economies and other Global South economies in the areas of finance, economy and trade in recent years, and yet the current geopolitical risks may impact the advancement of such co-operation and the exploration of new markets, how the authorities assess and manage the risks involved and provide ongoing support to Hong Kong's financial institutions and enterprises interested in exploring those markets, thereby assisting relevant bodies in seizing development opportunities, subject to compliance with laws and regulations; and
+
+(6) as there are views pointing out the pressing demands from Middle East economies and other Global South economies in areas such as Islamic finance and green sustainable finance, whether timely deployment has been made in light of the current international turmoil to further strengthen Hong Kong's institutional advantages in such areas so as not to miss development opportunities, and, where risks are controllable, develop Hong Kong into a key hub connecting capital and projects between China and the Global South; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+ The tensions in the Middle East have brought volatility to global energy supply, financial markets and trade. Geopolitical uncertainties have highlighted the importance of Hong Kong as an international financial centre in providing security, stability, and certainty. With the free flow of capital, merchandise and talent into and out of Hong Kong, coupled with the stability of the Hong Kong dollar under the Linked Exchange Rate System, as well as Hong Kong's comprehensive capital markets, robust financial infrastructure and quality professional services and talent, Hong Kong is well-positioned to play the role of a ""safe haven"" amidst these changes. Notably, as co-operation between Hong Kong and the Middle Eastern financial markets continues to deepen in recent years, some Middle East funds may flow into Hong Kong to avert risk. At the same time, the Government and financial regulators will closely monitor market conditions and put in place contingency plans to properly manage geopolitical risks while seizing the opportunities that arise.
+
+After consulting the Commerce and Economic Development Bureau, the Environment and Ecology Bureau, the Hong Kong Monetary Authority (HKMA) and the Securities and Futures Commission (SFC), our reply to the six parts of the question is as follows:
+
+(1) The exposure of the local banking sector to the Middle East is very small, accounting for less than 3 per cent of the total assets of the banking industry over the past three years. Besides, the exposure of Hong Kong banks to other major Global South economies (excluding Chinese Mainland) over the past three years also accounted for only about 3 per cent of the total assets of the banking industry.
+
+ The SFC has been closely monitoring the operation of the market, and has not detected any significant risks relating to the recent situation in the Middle East, nor has it identified any major issues arising from the Middle East situation in the operation or risk management of licensed corporations.
+
+(2) The Government has been proactively expanding into the emerging markets in the Global South, including the Association of Southeast Asian Nations (ASEAN) and the Middle East, to promote the long-term economic development of Hong Kong.
+
+ Taking ASEAN as an example, in 2025, ASEAN as a bloc was Hong Kong's second largest trading partner in the world. The bilateral trade in goods between Hong Kong and ASEAN amounted to HK$1,668.5 billion (US$214.0 billion), representing 15.3 per cent of Hong Kong's global merchandise trade and registering an average annual growth rate of 7.6 per cent in the past five years.
+
+ In 2025, the Middle East as a bloc was our 10th largest trading partner in the world. The bilateral trade in goods between Hong Kong and the Middle East amounted to HK$192.8 billion (US$24.7 billion), representing 1.8 per cent of Hong Kong's global merchandise trade and registering an average annual growth rate of 5.8 per cent in the past five years.
+
+ Hong Kong and the emerging markets in the Global South have significant room for trade and economic development. Hong Kong is committed to giving full play of our role as the functional platform for the Belt and Road Initiative, and stepping up efforts to deepen co-operation with the Global South markets.
+
+(3) In view of the escalation of the situation in the Middle East and geopolitical risks, the HKMA has stepped up its monitoring of market conditions, including conducting stress tests, and maintaining close communication with banks. Banks have also enhanced their risk monitoring and management, and have been formulating appropriate contingency measures for different risk scenarios. Overall, as pointed out in part (1) of the reply, the exposure of Hong Kong banks to the Middle East is very small. The Hong Kong banking sector remains stable, with ample capital and liquidity levels that are well above international standards. The HKMA will closely monitor the developments and continue to guide Hong Kong banks in adopting prudent risk management measures to properly manage the risks arising from financial market volatility and external uncertainties. On the monetary front, Hong Kong's foreign exchange reserves are substantial, exceeding US$430 billion, which is about 1.7 times the size of the Hong Kong monetary base, ensuring the smooth functioning of the Linked Exchange Rate System at all times. Hong Kong's money market continues to operate in an orderly manner, and the Hong Kong dollar exchange rate has been maintained within the convertibility zone of 7.75 to 7.85 against the US dollar.
+
+ The SFC has also been closely monitoring the operation of the local stock market, exchanges and the over-the-counter derivatives market. The SFC conducts regular stress tests based on the financial information reported by brokers to assess their financial resilience. During periods of relative market volatility, the SFC also pays particular attention by inquiring with major investment banks and hedge funds about their short positions in heavyweight stocks, as well as seeking to understand the trading strategies, overall positions and risk management measures of market participants. The SFC has not detected any significant risks relating to the recent situation in the Middle East.
+
+ The Government and financial regulators will continue to closely monitor market changes to maintain the stability of Hong Kong's monetary and financial markets.
+
+(4) In response to the recent developments, the Government has strengthened communication with the two power companies and major energy companies, closely monitoring the inventory levels and supply status of major fuels. The Government has in place a mechanism that sets minimum stockpile requirements for major fuels and contingency plans to deal with potential supply tightness. The Government will remain vigilant, closely monitoring geopolitical developments, international energy price trends and the local fuel supply situation to ensure the stability of Hong Kong's energy supply.
+
+ The financial market is operating smoothly with regard to the trading of other commodities. The Government and financial regulators will continue to closely monitor the situation to ensure its effective functioning.
+
+(5) and (6) The Government has been actively promoting enhanced co-operation between Hong Kong and emerging markets in the Global South, including the Middle East and ASEAN, in areas such as finance and trade, and is committed to developing and providing products and services that meet the needs of these markets to seize relevant opportunities.
+
+ In the area of finance, as an international financial centre, Hong Kong is dedicated to providing investors and issuers with a diverse range of products and services. Islamic financial products, in particular, can offer issuers additional financing channels and broaden their investor base. The Government amended the laws in 2013 and 2014 to provide a tax framework for issuing sukuk that is comparable to that for conventional bonds, and to allow the issuance of sukuk under the Government Bond Programme. Thereafter, the Government issued three sukuk, totalling US$3 billion, under the Government Bond Programme, demonstrating that Hong Kong's legal, regulatory and taxation framework can readily support sukuk issuances of different structures, making it a suitable platform for raising funds through sukuk.
+
+ In addition, an array of Islamic financial products and services have been rolled out in Hong Kong, including the listing of global sukuk on the Hong Kong Exchanges and Clearing Limited (HKEX), Shariah-compliant equity indices tracking Hong Kong stocks, and Islamic banking windows. Hong Kong and Saudi Arabia have also achieved continuous breakthroughs in developing new financial products in recent years. Following the listing of Asia's first exchange-traded fund (ETF) investing in Saudi-listed stocks on the HKEX in November 2023, two ETFs tracking Hong Kong stock indices were listed on the Saudi Exchange via master-feeder structure in October 2024. Asia's first government sukuk ETF was also listed on the HKEX in May 2025.
+
+ At the same time, financial regulators are actively promoting the strengths of Hong Kong's financial system and market through market development efforts, with a view to further strengthening co-operation with Islamic markets such as the Middle East and ASEAN.
+
+ In recent years, the HKMA has held multiple bilateral meetings and signed Memoranda of Understanding (MOUs) with central banks in the United Arab Emirates (UAE), Saudi Arabia, Qatar, etc., discussing topics of financial infrastructure development, sustainable finance, fintech, market connectivity and Islamic finance, etc. Notably, the Central Bank of the UAE officially joined the HKMA's Central Moneymarkets Unit in February 2026, enabling the Central Bank of the UAE and investors in the UAE to fully utilise Hong Kong's mature financial infrastructure to access the Mainland Chinese capital market and invest in related financial assets. Furthermore, the HKMA and the Dubai Financial Services Authority have co-organised the Joint Climate Finance Conference for two consecutive years since 2024 and, in 2025, initiated a joint study exploring the role of sustainable debt instruments in scaling up climate finance for the emerging markets in the Global South, subsequently publishing a research report titled Scaling Sustainable Debt in Emerging Markets.
+
+ In addition, the SFC has also been actively forging greater connectivity with the Middle East region to further reinforce Hong Kong's role as Asia's premier capital intermediary. In 2025, the SFC has signed four MOUs with financial regulators in the Middle East region, strengthening co-operation between Hong Kong and the Middle East on the areas of market regulatory oversight, supervision of collective investment scheme managers, cross-border regulatory co-operation on digital assets and the establishment of Mutual Recognition of Funds arrangement.
+
+ The Government and financial regulators will continue to advance relevant market development efforts, seeking further co-operation with emerging markets in the Global South, including the Middle East and ASEAN, in the financial field. This will better leverage Hong Kong's advantages as an international financial centre to connect markets and capital between China and the Global South.
+
+ In the area of trade, the Government has been actively seeking to conclude free trade agreements and investment agreements (IAs) with economies in the Middle East and the Global South. The Government has concluded negotiations of IAs with Qatar, Bangladesh and Peru respectively, and is exploring new IAs with Saudi Arabia and Egypt. These agreements require long-term negotiations and have consistently received support from the governments of both sides. The recent situation in the Middle East does not affect the authorities' intentions regarding these agreements. The Government will continue to actively advance this work. At the same time, the Government will strengthen its role as the functional node for the Belt and Road Initiative, collaborating with industry players to further develop the ASEAN, Middle East and Global South markets, and explore the potential of markets in Central Asia, South Asia and North Africa."
 二零二五年十二月至二零二六年二月失業及就業不足統計數字,2026-03-18 16:30,2026-03-18 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800322.htm,"​根據政府統計處今日（三月十八日）發表的最新勞動人口統計數字（即二零二五年十二月至二零二六年二月的臨時數字），經季節性調整的失業率由二零二五年十一月至二零二六年一月的3.9%下跌至二零二五年十二月至二零二六年二月的3.8%。就業不足率在該兩段期間則保持不變，維持於1.7%的水平。
 
 與二零二五年十一月至二零二六年一月比較，在二零二五年十二月至二零二六年二月期間，許多主要經濟行業的失業率（不經季節性調整）均見下跌，其中零售業、住宿服務業，以及地基及上蓋工程業有較明顯的跌幅。各行業的就業不足率則變動不一，但幅度普遍不大。
@@ -1493,17 +1514,6 @@ Data on labour force characteristics were obtained from the survey by interviewi
 Statistical tables on the latest labour force statistics can be downloaded at the website of the C&SD (www.censtatd.gov.hk/en/scode200.html). More detailed analysis of the labour force characteristics is given in the ""Quarterly Report on General Household Survey"" which is published four times a year. The latest issue of the report contains statistics for the quarter October - December 2025 while the next issue covering the quarter January - March 2026 will be available by end May 2026. Users can also browse and download this publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1050001&scode=200).
 
 For enquiries about labour force statistics, please contact the General Household Survey Section (3) of the C&SD (Tel: 2887 5508 or email: ghs@censtatd.gov.hk)."
-香港郵政發行「老夫子II」特別郵票 （附圖）,2026-03-18 16:15,2026-03-18 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800491.htm,"​香港郵政今日（三月十八日）宣布，以「老夫子II」為題的特別郵票及相關郵品將於四月二日（星期四）推出發售。
-
-《老夫子》漫畫陪伴了幾代香港人成長。第一代《老夫子》漫畫作者王家禧（一九二五至二○一七）自一九六二年起，以長子的名字王澤為筆名，在香港的報刊發表作品。一九九五年，王澤本人見父親年邁，毅然接棒繪畫《老夫子》漫畫，繼續發揚老夫子精神，至今仍創作不輟。《老夫子》漫畫內容簡單易明，情節詼諧，每每令讀者會心微笑。老夫子、大番薯、秦先生和陳小姐等漫畫角色更是深入人心。
-
-繼二○一九年發行「老夫子」特別郵票後，香港郵政將以「老夫子II」為題推出新一套特別郵票。郵票以不同的節慶為主題，包括農曆新年、情人節、復活節、端午節、中秋節和聖誕節，讓《老夫子》的漫畫角色置身在濃厚的節日氛圍，展現香港的獨特魅力及活力。香港郵政今次更特別推出一款以隱形油墨印製的紀念套摺，內有一張小全張、一張十元郵票小型張、一張二十元郵票小型張及一支紫外光燈電筒。在紫外光燈電筒照射下，紀念套摺上的隱藏圖案即會顯現—《老夫子》迷絕對不能錯過。
-
-全線郵政局和香港郵政網上購物平台「郵購網」（shopthrupost.hongkongpost.hk）由明日（三月十九日）起發售「老夫子II」正式首日封。這套特別郵票及相關郵品將於四月二日起在各郵政局及「郵購網」發售，而貼有特別郵票的已蓋銷首日封、郵資已付圖片卡（空郵郵資）及紀念套摺只限在集郵局發售。
-
-各郵政局將於四月二日為所有正式首日封／紀念封／註明首日字樣和本地地址的自製封，提供即時人手蓋印服務。
-
-有關這套特別郵票及相關郵品的詳情，可瀏覽香港郵政郵票策劃及拓展處網頁（stamps.hongkongpost.hk）。"
 "Hongkong Post to issue ""Old Master Q II"" special stamps (with photos)",2026-03-18 16:15,2026-03-18 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800490.htm,"​Hongkong Post announced today (March 18) that a set of special stamps and associated philatelic products on the theme of ""Old Master Q II"" will be released for sale on April 2 (Thursday).
 
   Old Master Q comics have entertained generations in Hong Kong. Mr Alfonso Wong Chak (1925–2017), creator of the first edition of the Old Master Q comics, started publishing his works in local newspaper columns in 1962 under the pen name Wong Chak, the name of his eldest son. Seeing his father getting on in years, Mr Joseph Wong Chak resolutely took up the baton of the Old Master Q comics in 1995 to carry forward the spirit of Old Master Q. He continues to produce the comics to this day. Simple and easy to understand, Old Master Q comics often feature humorous plot lines that bring knowing smiles to readers. The comic characters, such as Old Master Q, Big Potato, Mr Chin and Miss Chen, have all taken root in people's hearts.
@@ -1515,30 +1525,14 @@ Official first day covers for ""Old Master Q II"" will be on sale at all post of
 A hand-back date-stamping service will be provided on April 2 at all post offices for official first day covers/souvenir covers/privately made covers bearing the first day of issue indication and a local address.
 
 Information about this set of special stamps and associated philatelic products is available on the Hongkong Post Stamps website (stamps.hongkongpost.hk)."
-香港海關偵破兩宗毒品案件並檢獲約三千六百五十萬元懷疑毒品（附圖）,2026-03-18 16:10,2026-03-18 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800540.htm,"香港海關三月十日偵破兩宗毒品案件，共檢獲約一百零六公斤懷疑大麻花和約三十六公斤懷疑氯胺酮，估計市值共約三千六百五十萬元，並拘捕三名懷疑涉案人士。
+香港郵政發行「老夫子II」特別郵票 （附圖）,2026-03-18 16:15,2026-03-18 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800491.htm,"​香港郵政今日（三月十八日）宣布，以「老夫子II」為題的特別郵票及相關郵品將於四月二日（星期四）推出發售。
 
-首宗案件中，海關三月十日在葵涌海關大樓驗貨場查驗一件由加拿大抵港、報稱載有家居用品的海運貨物。經檢查後，海關人員發現該批懷疑大麻花被收藏在桌球枱暗格內，市值約二千二百萬元。跟進調查後，海關人員同日在葵涌拘捕一名五十五歲的懷疑涉案本地男子。
+《老夫子》漫畫陪伴了幾代香港人成長。第一代《老夫子》漫畫作者王家禧（一九二五至二○一七）自一九六二年起，以長子的名字王澤為筆名，在香港的報刊發表作品。一九九五年，王澤本人見父親年邁，毅然接棒繪畫《老夫子》漫畫，繼續發揚老夫子精神，至今仍創作不輟。《老夫子》漫畫內容簡單易明，情節詼諧，每每令讀者會心微笑。老夫子、大番薯、秦先生和陳小姐等漫畫角色更是深入人心。
 
-第二宗案件中，香港海關與內地海關緝私部門進行聯合執法行動，根據情報分析於同日截查一件由法國經內地寄到香港，報稱水族底砂的包裹。經檢查後，在二十四包火山礦物中發現該批懷疑氯胺酮，估計市值約一千四百五十萬元。
+繼二○一九年發行「老夫子」特別郵票後，香港郵政將以「老夫子II」為題推出新一套特別郵票。郵票以不同的節慶為主題，包括農曆新年、情人節、復活節、端午節、中秋節和聖誕節，讓《老夫子》的漫畫角色置身在濃厚的節日氛圍，展現香港的獨特魅力及活力。香港郵政今次更特別推出一款以隱形油墨印製的紀念套摺，內有一張小全張、一張十元郵票小型張、一張二十元郵票小型張及一支紫外光燈電筒。在紫外光燈電筒照射下，紀念套摺上的隱藏圖案即會顯現—《老夫子》迷絕對不能錯過。
 
-跟進調查後，海關人員於三月十六日採取監控遞送行動，並在流浮山及元朗拘捕兩名分別五十八歲及四十四歲本地男子。
+全線郵政局和香港郵政網上購物平台「郵購網」（shopthrupost.hongkongpost.hk）由明日（三月十九日）起發售「老夫子II」正式首日封。這套特別郵票及相關郵品將於四月二日起在各郵政局及「郵購網」發售，而貼有特別郵票的已蓋銷首日封、郵資已付圖片卡（空郵郵資）及紀念套摺只限在集郵局發售。
 
-三名被捕男子暫獲准保釋候查。案件仍在調查中。
+各郵政局將於四月二日為所有正式首日封／紀念封／註明首日字樣和本地地址的自製封，提供即時人手蓋印服務。
 
-根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。
-"
-Hong Kong Customs detects two dangerous drug cases and seizes suspected drugs worth about $36.5 million (with photos),2026-03-18 16:10,2026-03-18 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/18/P2026031800541.htm,"​Hong Kong Customs detected two dangerous drug cases on March 10 and seized a total of about 106 kilograms of suspected cannabis buds and about 36kg of suspected ketamine, with a total estimated market value of about $36.5 million. Three persons suspected to be connected with the cases were arrested.
-
-In the first case, Customs on March 10 inspected a seaborne consignment, declared as carrying household goods and arriving in Hong Kong from Canada, at the Kwai Chung Customhouse Cargo Examination Compound. Upon inspection, Customs officers found the batch of suspected cannabis buds, with an estimated market value of about $22 million, concealed in the compartment of a pool table. After a follow-up investigation, Customs officers on the same day arrested a 55-year-old local man suspected to be connected with the case in Kwai Chung.
-
-In the second case, Hong Kong Customs and anti-smuggling departments of the Mainland Customs conducted a joint operation. Through intelligence analysis, Customs on the same day intercepted a parcel from France, declared as aquarium substrates and sent to Hong Kong via the Chinese Mainland, and discovered the batch of suspected ketamine, with an estimated market value of about $14.5 million, in 24 bags of volcano minerals.
-
-Upon follow-up investigations, Customs officers conducted a controlled delivery operation on March 16 and arrested two local men, aged 58 and 44, in Lau Fau Shan and Yuen Long respectively.
-
-The three arrested men have been released on bail pending further investigation. An investigation is ongoing.
-
-Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
-
-Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account(crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+有關這套特別郵票及相關郵品的詳情，可瀏覽香港郵政郵票策劃及拓展處網頁（stamps.hongkongpost.hk）。"
