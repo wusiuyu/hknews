@@ -1,4 +1,66 @@
 title,date,scrape_time,section,source,url,news_content
+立法會十三題：人工智能聊天機器人的規管,2026-03-25 14:30,2026-03-25 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/25/P2026032500360.htm,"以下是今日（三月二十五日）在立法會會議上陳祖恒議員的提問和創新科技及工業局局長孫東教授的書面答覆：
+
+問題：
+
+近年人工智能聊天機器人（聊天機器人）的應用越趨普及，然而據報在海外有聊天機器人平台被指涉及誘導用户作出自殺及違法行為。就此，政府可否告知本會：
+
+（一）鑑於政府已制訂《人工智能道德框架》（《框架》）和《香港生成式人工智能技術及應用指引》（《指引》），為識別及管理人工智能項目的潛在風險提供指引，政府有否評估《框架》和《指引》在防範聊天機器人誘導用户作出不當行為（包括自殺及違法行為）的成效;
+
+（二）政府會否考慮推出其他具體措施，以防範聊天機器人平台出現誘導用户作出不當行為的風險；如會，詳情為何；如否，原因為何；及
+
+（三）政府有何措施或機制，鼓勵來自海外司法管轄區的生成式人工智能服務提供者參照《框架》和《指引》的建議，以及確保其提供的服務能符合本港相關法例的要求？
+
+答覆：
+
+主席：
+
+就陳祖恒議員的問題，經諮詢律政司及保安局後，現回覆如下。
+
+（一）政府高度重視人工智能（AI）技術的發展與應用，同時致力確保公眾在使用相關技術時具備足夠的安全意識與素養。數字政策辦公室（數字辦）於二○二一年制訂了《人工智能道德框架》（《框架》），為開發及應用AI技術的項目提供清晰指引，以識別和有效管理有關AI項目的潛在風險及須注意事項。《框架》建議AI應用程式應實施安全措施，例如透過科技手段識別非預期、不實及不準確的輸出，以降低應用程式輸出不當或違法內容的風險。
+
+數字辦亦於二○二五年四月推出《香港生成式人工智能技術及應用指引》（《指引》），指出服務提供者有責任保證其服務系統不輸出違法、違規或不當的內容，並應建立機制提升系統的可追溯性與可審核性；同時《指引》亦提醒服務使用者應注意AI生成的內容可能包含誤導性、虛假或不準確的資訊，使用時應堅持自主判斷。
+
+政府一直持續密切關注AI發展，並按需要適時審視及更新相關指引與規範，以應對技術帶來的新挑戰，上述《框架》及《指引》最近一次更新已於二○二五年十二月發布。
+
+（二）政府一直通過不同渠道廣泛地加深社會對AI、資訊及網絡安全的認知和準備。例如，數字辦透過「網絡安全資訊站」專題網站，向公眾介紹如何妥善使用AI工具，包括切勿提供個人、工作等方面的敏感資訊，選擇信譽良好和重視數據安全的AI工具，並細閱相關AI工具的私隱政策、資料處理政策及使用條款。
+
+在法律框架方面，為檢視不同政策範疇內的法律是否能配合科技上包括AI的發展，律政司司長已於三月六日為成立「檢視支持更廣泛應用AI所需的法律配套」跨部門工作小組（工作小組）召開督導委員會會議。工作小組的成立對於應對AI急速發展及廣泛應用所衍生的議題至關重要，其核心成員將來自不同政策局和政府部門。各政策局及政府部門會先對現行法律進行全面及深入的檢視，查找漏洞或不足，然後按香港實際環境研究具針對性和可操作的解決方案（包括制定專屬法例、實施行政措施等的需要及可行性）。
+
+（三）政府歡迎來自內地及其他地區的創科企業來港設立或拓展業務，為香港市民提供更多創新科技應用。《指引》和《框架》與其他地區所發布的AI道德倫理及安全規範等相關文件方向一致，有關企業可參考《指引》和《框架》並作為本地開發產品或服務的指引。另一方面，香港大部分的現行法例原則上適用於網絡世界，亦能有效規管與AI應用相關的風險及違法行為。若AI服務提供者的業務涵蓋香港，便須遵守香港相關法律。如有關業務涉嫌違法，執法機關可依法調查及跟進。
+
+此外，政府理解生成式AI服務的跨境特性，並將透過即將投入運作的香港人工智能研發院，推動建立與國際接軌的AI治理框架及相關標準，促進內地與國際在AI治理及技術標準方面的交流合作，以軟性指引、法律基礎、標準對接等策略來應對生成式AI的多元風險。"
+LCQ13: Regulation of artificial intelligence chatbots,2026-03-25 14:30,2026-03-25 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/25/P2026032500363.htm,"Following is a question by the Hon Sunny Tan and a written reply by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, in the Legislative Council today (March 25):
+
+Question:
+
+The application of artificial intelligence (AI) chatbots (chatbots) has become increasingly popular in recent years, but it has been reported that overseas chatbot platforms were alleged to have induced users to commit suicide and unlawful acts. In this connection, will the Government inform this Council:
+
+(1) given that the Government has formulated the Ethical Artificial Intelligence Framework (the Framework) and the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline) to provide guidance on identifying and managing potential risks of AI projects, whether it has assessed the effectiveness of the Framework and the Guideline in preventing chatbots from inducing users to commit acts of misconduct, including committing suicide and unlawful acts;
+
+(2) whether the Government will consider introducing other specific measures to prevent the risk of chatbot platforms inducing users to commit acts of misconduct; if so, of the details; if not, the reasons for that; and
+
+(3) of the measures or mechanisms put in place by the Government to encourage generative AI service providers from overseas jurisdictions to make reference to the recommendations in the Framework and the Guideline, and to ensure that the services provided by them comply with the requirements of the relevant legislation of Hong Kong?
+
+Reply:
+
+President,
+
+Regarding the question from the Hon Sunny Tan, upon consulting the Department of Justice and the Security Bureau, our reply is as follows.
+
+(1) The Government attaches great importance to the development and application of artificial intelligence (AI) technology, and is committed to ensuring that members of the public possess sufficient safety awareness and literacy when using such technologies. In 2021, the Digital Policy Office (DPO) published the Ethical Artificial Intelligence Framework (the Framework) to provide clear guidance for projects involving the development and application of AI technology, with a view to identifying and effectively managing the potential risks and considerations associated with such projects. The Framework recommends that AI applications implement security measures such as adopting technological means to identify unintended, false, or inaccurate outputs, so as to mitigate the risk of applications generating inappropriate or illegal content.
+
+In April 2025, the DPO also published the Hong Kong Generative Artificial Intelligence Technical and Application Guideline (the Guideline), stating that service providers are responsible for ensuring that their service systems do not output illegal, non-compliant, or inappropriate content, and should establish mechanisms to enhance the traceability and auditability of their systems. At the same time, the Guideline reminds service users to be aware that AI-generated content may contain misleading, false, or inaccurate information, and to exercise independent judgement when using such content.
+
+The Government has been closely monitoring the development of AI and will review and update relevant guidelines and regulations as necessary to cope with new challenges brought by the technology. The most recent updates to the Framework and the Guidelines were released in December 2025.
+
+(2) The Government has been broadly enhancing public awareness and preparedness regarding AI, information security, and cybersecurity through various channels. For example, the DPO, through the thematic website ""Cyber Security Information Portal"", introduces to the public on how to use AI tools properly, including avoiding the disclosure of sensitive personal and work-related information, selecting reputable AI tools that prioritise data security, and carefully reviewing the privacy policies, data processing policies and the terms of use of the relevant AI tools.
+
+Regarding the legal framework, to review whether the laws under different policy areas can keep pace with technological developments including AI, the Secretary for Justice has convened a Steering Committee meeting on March 6 on the establishment of the Inter-Departmental Working Group to Review Legislation to Support Wider Application of AI (Working Group). The establishment of the Working Group is crucial for addressing issues arising from the rapid development and widespread application of AI, and its core members will come from different policy bureaux and government departments. Each policy bureau and government department will first conduct a comprehensive and in-depth review of existing laws to identify loopholes or deficiencies, and then based on the actual circumstances of Hong Kong, explore targeted and practicable solutions (including the need for and feasibility of enacting specific legislation or implementing administrative measures).
+
+(3) The Government welcomes innovation and technology (I&T) enterprises from the Mainland and other regions to establish or expand their businesses in Hong Kong, thereby providing local people with more I&T applications. The Guidelines and Framework are consistent with the direction of similar documents on AI ethics and safety standards issued by other regions. Relevant enterprises may refer to the Guidelines and Framework as guidance for developing local products or services. On the other hand, most of the existing laws in Hong Kong are, in principle, applicable to the online world, and can effectively regulate the risks and illegal activities related to AI applications. If an AI service provider extends its business operations to Hong Kong, it must comply with relevant Hong Kong laws. If such operations are suspected of violating the law, law enforcement agencies may investigate and take follow-up actions in accordance with the law.
+
+Furthermore, the Government recognises the cross-border nature of generative AI services and will, through the soon-to-be-launched Hong Kong Artificial Intelligence Research and Development Institute, promote the establishment of an AI governance framework and related standards in line with international practices. This aims to foster exchanges and co-operation between the Mainland and the international community regarding AI governance and technical standards, thereby addressing the diverse risks associated with generative AI through strategies covering soft guidelines, laws, standard alignment, etc."
 立法會十四題：食物援助和捐贈服務,2026-03-25 14:20,2026-03-25 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/25/P2026032500245.htm,"以下是今日（三月二十五日）在立法會會議上黃錦輝議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -1870,16 +1932,27 @@ The three companies relating to Apple Daily have become ""prohibited organizatio
 ""The Registrar of Companies has struck the three companies relating to Apple Daily off the Companies Register, and on publication of notice in the Gazette, the companies shall be dissolved and become 'prohibited organizations'. Any person who engages in the acts specified in sections 62 to 65 of the Safeguarding National Security Ordinance commits an offence, including acting as an office-bearer or a member of a prohibited organization; and giving aid of any kind to a prohibited organization, and is liable on conviction to a maximum fine of HK$1,000,000 and imprisonment for 14 years,"" said the spokesman.
 
 ""The HKSAR Government will continue to resolutely safeguard national security to prevent, suppress, and impose punishment for acts and activities endangering national security, ensuring that laws are observed and strictly enforced, so as to bring offenders to account. The HKSAR Government appeals to members of the public not to participate in any activities of prohibited organizations, or have any connection with them by dissociating themselves from prohibited organizations."""
-運輸署全力配合廉政公署調查指定車輛測試中心涉嫌詐騙案,2026-03-24 19:20,2026-03-24 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400605.htm,"運輸署今日（三月二十四日）表示，一直全力配合廉政公署調查一間指定車輛測試中心人員涉嫌詐騙的案件。署方已於二○二四年六月終止涉案測試中心的驗車服務資格，涉案人士的測試中心負責人及認可車輛測試員資格亦已被取消。
-
-運輸署發言人指，一直全面協助調查，並已即時落實一系列措施以杜絕不當行為。署方已加強嚴格監管測試中心的運作，所有驗車人員須接受運輸署的定期訓練，並遵守政府的驗車要求。署方會積極落實廉政公署的防貪建議，同時加強人員培訓，提升誠信和操守意識。
-
-此外，署方強調，非常重視人員誠信和操守。如發現任何違規違法行為，定必嚴肅依法處理，並交執法部門跟進調查。"
 TD fully co-operates with ICAC in investigation into suspected deception case involving designated car testing centre,2026-03-24 19:20,2026-03-24 19:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400608.htm,"  The Transport Department (TD) today (March 24) said that it has been fully co-operating with the Independent Commission Against Corruption (ICAC) in an investigation into a suspected deception case involving staff of a designated car testing centre. The eligibility of the testing centre concerned to provide vehicle examination services has been revoked in June 2024, while the eligibility of the persons concerned of the testing centre to serve as the responsible person and approved car testers has also been revoked.
 
   A spokesman for the TD said that it has rendered full assistance during the investigation and has immediately implemented a series of measures to stamp out malpractices. The TD has strengthened strict monitoring of the operations of testing centres. All vehicle examiners are required to undergo the TD's regular training and comply with the Government's vehicle examination requirements. The TD will proactively take forward the ICAC's corruption prevention advice and enhance staff training to heighten their awareness of integrity and conduct.
 
   In addition, the TD stressed that it attaches great importance to staff integrity and conduct. Any violation of laws or regulations will be handled seriously in accordance with the law and referred to law enforcement agencies for follow-up investigations."
+運輸署全力配合廉政公署調查指定車輛測試中心涉嫌詐騙案,2026-03-24 19:20,2026-03-24 19:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400605.htm,"運輸署今日（三月二十四日）表示，一直全力配合廉政公署調查一間指定車輛測試中心人員涉嫌詐騙的案件。署方已於二○二四年六月終止涉案測試中心的驗車服務資格，涉案人士的測試中心負責人及認可車輛測試員資格亦已被取消。
+
+運輸署發言人指，一直全面協助調查，並已即時落實一系列措施以杜絕不當行為。署方已加強嚴格監管測試中心的運作，所有驗車人員須接受運輸署的定期訓練，並遵守政府的驗車要求。署方會積極落實廉政公署的防貪建議，同時加強人員培訓，提升誠信和操守意識。
+
+此外，署方強調，非常重視人員誠信和操守。如發現任何違規違法行為，定必嚴肅依法處理，並交執法部門跟進調查。"
+​行政長官抵海南出席博鰲亞洲論壇年會（附圖／短片）,2026-03-24 19:00,2026-03-24 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400319.htm,"​行政長官李家超今日（三月二十四日）抵達海南，出席博鰲亞洲論壇2026年年會「全球自由貿易港發展論壇」。
+
+​李家超在論壇上致辭時表示，今年是博鰲亞洲論壇成立25周年，論壇一直促進區域合作，已成為推動亞洲經濟合作的重要平台。今年是國家「十五五」規劃的開局之年，規劃全力支持海南自由貿易港實現高質量發展。他祝賀海南自貿港全島封關運作順利，多項便利企業發展的政策快速落地，是國家促進自由貿易、擴大高水平對外開放的重要實踐。他有信心，香港作為國際貿易中心，繼續與海南自由貿易港優勢互補、互惠共贏，共同為推動自由貿易貢獻力量。
+
+李家超說，香港在最自由經濟體排名穩居世界第一，在「一國兩制」下擁有背靠祖國、聯通世界的獨特優勢，普通法制度與全球主要金融中心接軌，稅制簡單低廉，人流、物流、資金流、數據流便捷流動。香港會繼續堅定實行自由貿易和多邊主義，持續擴展全球貿易網絡，為投資者搭建橋樑、創造機遇，進一步推動區域經濟發展和繁榮。
+
+李家超表示，國家是二○二六年亞太經合組織東道主，亞太經合組織財政部長會議二○二六年十月首次在香港特區舉行，特區政府會全力以赴，確保會議圓滿成功，發揮香港在「一國兩制」下內聯外通的獨特優勢，深化國際交往合作。
+
+​傍晚，李家超出席博鰲亞洲論壇成立25周年紀念晚宴，與各國主要嘉賓交流餐敍。
+
+李家超明日（三月二十五日）繼續海南訪問行程。"
 衞生署在校園推廣「開心蔬果」活動廿周年　四月「開心蔬果月」繼往開來加強推廣教育（附圖）,2026-03-24 19:00,2026-03-24 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400256.htm,"​衞生署今日（三月二十四日）舉行「開心蔬果月」啟動禮暨頒獎典禮，慶祝活動推行20周年，藉此表揚多間學校和機構積極參與和營造有利環境鼓勵學生每日進食足夠蔬菜和水果。
 
 衞生署署長林文健醫生在啟動禮上致辭說：「充足的科學證據顯示，進食足夠的蔬果有助減低患上心臟病、中風和癌症的風險。健康均衡飲食亦會減少超重及肥胖，提升市民健康。然而，衞生署《學生健康服務2024／25學年周年健康報告》顯示，在二○二四／二五學年，有89.4%的學生（82.5%小學生及96.8%中學生）表示每天進食水果和蔬菜量不足（即小學生平均少於四份；中學生平均少於五份），顯示有需要改善。因此，在二○二五／二六學年，衞生署正式將推廣蔬果的活動升格為『開心蔬果月』。至今已有超過1 700間學校積極參與，惠及近60萬名學生，創下歷史新高。今年主題為『蔬果同行健康加分』，提醒學生和家長蔬菜與水果是身體健康的最佳拍檔，同時呼應衞生署本月初推出貫穿全生命周期的《體重管理行動計劃》，鼓勵公眾從小培養健康飲食及生活模式，以預防肥胖及多種慢性疾病。」
@@ -1906,17 +1979,6 @@ The DH expresses its sincere gratitude to schools, parents and all sectors of th
 Other officiating guests at the ceremony included the Controller of the Centre for Health Protection of the DH, Dr Edwin Tsui; the Principal Assistant Secretary (Education Infrastructure) of the Education Bureau, Ms Katharine Choi; the Head of the Health Promotion Branch of the DH, Dr Kellie So; the Project Director of the Hong Kong College of Cardiology, Ms Lee Shuk-ling; member of the Committee on Home-School Co-operation Ms Rebecca Ng; and the Head of Business and Communications of Hong Kong Education City, Ms Michelle Lee.
 
 Members of the public who wish to obtain more information about Joyful Fruit & Veg Month and the list of commended schools may visit the Joyful Fruit & Veg Month thematic website of the DH."
-​行政長官抵海南出席博鰲亞洲論壇年會（附圖／短片）,2026-03-24 19:00,2026-03-24 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400319.htm,"​行政長官李家超今日（三月二十四日）抵達海南，出席博鰲亞洲論壇2026年年會「全球自由貿易港發展論壇」。
-
-​李家超在論壇上致辭時表示，今年是博鰲亞洲論壇成立25周年，論壇一直促進區域合作，已成為推動亞洲經濟合作的重要平台。今年是國家「十五五」規劃的開局之年，規劃全力支持海南自由貿易港實現高質量發展。他祝賀海南自貿港全島封關運作順利，多項便利企業發展的政策快速落地，是國家促進自由貿易、擴大高水平對外開放的重要實踐。他有信心，香港作為國際貿易中心，繼續與海南自由貿易港優勢互補、互惠共贏，共同為推動自由貿易貢獻力量。
-
-李家超說，香港在最自由經濟體排名穩居世界第一，在「一國兩制」下擁有背靠祖國、聯通世界的獨特優勢，普通法制度與全球主要金融中心接軌，稅制簡單低廉，人流、物流、資金流、數據流便捷流動。香港會繼續堅定實行自由貿易和多邊主義，持續擴展全球貿易網絡，為投資者搭建橋樑、創造機遇，進一步推動區域經濟發展和繁榮。
-
-李家超表示，國家是二○二六年亞太經合組織東道主，亞太經合組織財政部長會議二○二六年十月首次在香港特區舉行，特區政府會全力以赴，確保會議圓滿成功，發揮香港在「一國兩制」下內聯外通的獨特優勢，深化國際交往合作。
-
-​傍晚，李家超出席博鰲亞洲論壇成立25周年紀念晚宴，與各國主要嘉賓交流餐敍。
-
-李家超明日（三月二十五日）繼續海南訪問行程。"
 CE arrives in Hainan to attend Boao Forum for Asia annual conference (with photo/video),2026-03-24 19:00,2026-03-24 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400318.htm,"The Chief Executive, Mr John Lee, arrived in Hainan today (March 24) to attend the Global Free Trade Ports Development Forum at the Boao Forum for Asia Annual Conference 2026.
 
 Addressing the Forum, Mr Lee said that this year marks the 25th anniversary of the Boao Forum for Asia. The Forum has long fostered regional co-operation and become a premier platform for Asia's economic co-operation. This year is the opening year of the National 15th Five-Year Plan, which fully supports the high-quality development of the Hainan Free Trade Port. He congratulated the Hainan Free Trade Port on the smooth implementation of island-wide special customs operations and the swift rollout of a number of business-friendly policies, noting that these represent an important showcase in the country's efforts to promote free trade and advance high-standard opening up. He expressed confidence that Hong Kong, as a global trading hub, will continue to complement the Hainan Free Trade Port and pursue mutual benefits, working together to promote free trade.
@@ -1928,16 +1990,16 @@ Mr Lee said that China is the host of the Asia-Pacific Economic Cooperation (APE
 In the evening, Mr Lee attended the Boao Forum for Asia 25th Anniversary Gala Dinner to exchange views with key guests from various countries.
 
 Mr Lee will continue his visit to Hainan tomorrow (March 25)."
-Import of poultry meat and products from Brzeziny District of Łódzkie Region in Poland suspended,2026-03-24 18:57,2026-03-24 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400506.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (March 24) that in view of a notification from the World Organisation for Animal Health (WOAH) about an outbreak of highly pathogenic H5N1 avian influenza in the Brzeziny District of the Łódzkie Region in Poland, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the area with immediate effect to protect public health in Hong Kong.
-
-A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 2 890 tonnes of frozen poultry meat from Poland last year.
-
-""The CFS has contacted the Polish authority over the issue and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreak. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
 波蘭羅茲省Brzeziny區禽肉及禽類產品暫停進口,2026-03-24 18:57,2026-03-24 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400512.htm,"食物環境衞生署食物安全中心（中心）今日（三月二十四日）宣布，因應世界動物衞生組織通報，指波蘭羅茲省Brzeziny區爆發高致病性H5N1禽流感，中心即時指示業界暫停從該地區進口禽肉及禽類產品（包括禽蛋），以保障本港公眾健康。
 
 中心發言人說，根據政府統計處的資料，本港去年從波蘭進口約二千八百九十公噸冷藏禽肉。
 
 發言人說：「中心已就事件聯絡波蘭當局，並會繼續密切留意世界動物衞生組織及有關當局發出關於爆發禽流感的消息，因應當地疫情發展，採取適當行動。」"
+Import of poultry meat and products from Brzeziny District of Łódzkie Region in Poland suspended,2026-03-24 18:57,2026-03-24 19:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400506.htm,"The Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department announced today (March 24) that in view of a notification from the World Organisation for Animal Health (WOAH) about an outbreak of highly pathogenic H5N1 avian influenza in the Brzeziny District of the Łódzkie Region in Poland, the CFS has instructed the trade to suspend the import of poultry meat and products (including poultry eggs) from the area with immediate effect to protect public health in Hong Kong.
+
+A CFS spokesman said that according to the Census and Statistics Department, Hong Kong imported about 2 890 tonnes of frozen poultry meat from Poland last year.
+
+""The CFS has contacted the Polish authority over the issue and will closely monitor information issued by the WOAH and the relevant authorities on the avian influenza outbreak. Appropriate action will be taken in response to the development of the situation,"" the spokesman said."
 與銀行有關的騙案通知,2026-03-24 18:50,2026-03-24 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400548.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -2036,21 +2098,6 @@ Customs reminds dealers in precious metals and stones that they must obtain the 
 For the forms, procedures and guidelines to submit applications for registration, please visit the website for Dealers in Precious Metals and Stones Registration System (www.drs.customs.gov.hk) or Customs' webpage (www.customs.gov.hk/en/service-enforcement-information/anti-money-laundering/supervision-of-dealers-in-precious-metals-and-ston/index.html).
 
 Members of the public may report any suspected transactions involving precious metals and stones with a total value at or above HK$120,000 conducted without the required registration to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk)or online form (eform.cefs.gov.hk/form/ced002)."
-香港海關偵破兩宗毒品案件並檢獲約六百六十萬元懷疑毒品（附圖）,2026-03-24 18:15,2026-03-24 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400532.htm,"​香港海關在三月二十一日及昨日（三月二十三日）分別在香港國際機場及何文田偵破兩宗毒品案件，共檢獲約8公斤懷疑氯胺酮、約2.3公斤懷疑可卡因和約1.1公斤懷疑霹靂可卡因，估計市值共約六百六十萬元，並拘捕三名懷疑涉案人士。
-
-首宗案件中，海關於三月二十一日在香港國際機場查驗一件從荷蘭抵港並報稱載有玩具的空運包裹。經檢查後，海關人員在包裹內的陶瓷雕像中發現重約8公斤的懷疑氯胺酮。跟進調查後，海關人員昨日採取監控遞送行動，在大埔拘捕一名二十三歲男子。
-
-第二宗案件中，海關人員昨晚在何文田進行反毒品行動，其間截查一名三十二歲男子，並在他持有的環保袋內檢獲約1.1公斤懷疑霹靂可卡因，遂將該名男子拘捕。其後，海關人員押解他到附近一個住宅單位搜查，並再檢獲約2.3公斤懷疑可卡因、53克懷疑霹靂可卡因和一批懷疑製毒工具，並將住宅單位內的一名二十七歲懷疑涉案女子拘捕。
-
-首宗案件中的被捕男子已被控以一項販運危險藥物罪，並將於明日（三月二十五日）在粉嶺裁判法院提堂。第二宗案件中的被捕男女分別已被控以兩項販運危險藥物罪及一項販運危險藥物罪，並將於明日在九龍城裁判法院提堂。
-
-海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。此外，市民亦要避免將個人資料或地址交予他人以作收取包裹或貨物用途。
-
-海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，確保有效打擊跨境販毒活動。
-
-根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 ​一名入境旅客管有未完稅香煙罪成判囚（附圖）,2026-03-24 18:15,2026-03-24 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400593.htm,"一名入境女旅客因管有未完稅香煙和未有向海關人員作出申報，違反《應課稅品條例》（《條例》），今日（三月二十四日）在粉嶺裁判法院被判處監禁一個月兩星期及罰款一千元。
 
 海關人員於二月二十四日在羅湖管制站截查一名八十三歲抵港女旅客，在其手拉車內檢獲四千一百八十一支未完稅香煙，估計市值約一萬七千元，應課稅值約一萬四千元。該名女旅客隨即被捕。
@@ -2060,15 +2107,6 @@ Members of the public may report any suspected transactions involving precious m
 海關提醒市民，根據《條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
 市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
-Incoming passenger convicted and jailed for possessing duty-not-paid cigarettes (with photos),2026-03-24 18:15,2026-03-24 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400601.htm,"An incoming female passenger was sentenced to one month and two weeks' imprisonment and fined $1,000 by the Fanling Magistrates' Courts today (March 24) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted an incoming 83-year-old female passenger at the Lo Wu Control Point on February 24 and seized 4 181 duty-not-paid cigarettes with an estimated market value of about $17,000 and a duty potential of about $14,000 from her trolley. The female passenger was subsequently arrested.
-
-Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
-
-Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-​Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 Hong Kong Customs detects two dangerous drugs cases and seizes suspected drugs worth $6.6 million (with photos),2026-03-24 18:15,2026-03-24 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400521.htm,"Hong Kong Customs detected two dangerous drugs cases at Hong Kong International Airport (HKIA) and Ho Man Tin on March 21 and yesterday (March 23) respectively, and seized a total of about 8 kilograms of suspected ketamine, about 2.3kg of suspected cocaine and about 1.1kg of suspected crack cocaine, with a total estimated market value of about $6.6 million. Three persons suspected to be connected with the cases were arrested.
 
 In the first case, Customs on March 21 inspected an air parcel, declared as carrying toys and arriving in Hong Kong from the Netherlands, at HKIA. Upon inspection, Customs officers found about 8kg of suspected ketamine in the ceramic figurines in the parcel. After follow-up investigations, Customs officers conducted a controlled delivery operation yesterday and arrested a 23-year-old man in Tai Po.
@@ -2084,21 +2122,36 @@ Customs will continue to apply a risk assessment approach and focus on selecting
 Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
 
 Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account(crimereport@customs.gov.hk)or online form (eform.cefs.gov.hk/form/ced002)."
+Incoming passenger convicted and jailed for possessing duty-not-paid cigarettes (with photos),2026-03-24 18:15,2026-03-24 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400601.htm,"An incoming female passenger was sentenced to one month and two weeks' imprisonment and fined $1,000 by the Fanling Magistrates' Courts today (March 24) for possessing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
+
+Customs officers intercepted an incoming 83-year-old female passenger at the Lo Wu Control Point on February 24 and seized 4 181 duty-not-paid cigarettes with an estimated market value of about $17,000 and a duty potential of about $14,000 from her trolley. The female passenger was subsequently arrested.
+
+Customs welcomes the sentence. The custodial sentence has imposed a considerable deterrent effect and reflects the seriousness of the offences.
+
+Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
+
+​Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+香港海關偵破兩宗毒品案件並檢獲約六百六十萬元懷疑毒品（附圖）,2026-03-24 18:15,2026-03-24 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400532.htm,"​香港海關在三月二十一日及昨日（三月二十三日）分別在香港國際機場及何文田偵破兩宗毒品案件，共檢獲約8公斤懷疑氯胺酮、約2.3公斤懷疑可卡因和約1.1公斤懷疑霹靂可卡因，估計市值共約六百六十萬元，並拘捕三名懷疑涉案人士。
+
+首宗案件中，海關於三月二十一日在香港國際機場查驗一件從荷蘭抵港並報稱載有玩具的空運包裹。經檢查後，海關人員在包裹內的陶瓷雕像中發現重約8公斤的懷疑氯胺酮。跟進調查後，海關人員昨日採取監控遞送行動，在大埔拘捕一名二十三歲男子。
+
+第二宗案件中，海關人員昨晚在何文田進行反毒品行動，其間截查一名三十二歲男子，並在他持有的環保袋內檢獲約1.1公斤懷疑霹靂可卡因，遂將該名男子拘捕。其後，海關人員押解他到附近一個住宅單位搜查，並再檢獲約2.3公斤懷疑可卡因、53克懷疑霹靂可卡因和一批懷疑製毒工具，並將住宅單位內的一名二十七歲懷疑涉案女子拘捕。
+
+首宗案件中的被捕男子已被控以一項販運危險藥物罪，並將於明日（三月二十五日）在粉嶺裁判法院提堂。第二宗案件中的被捕男女分別已被控以兩項販運危險藥物罪及一項販運危險藥物罪，並將於明日在九龍城裁判法院提堂。
+
+海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。此外，市民亦要避免將個人資料或地址交予他人以作收取包裹或貨物用途。
+
+海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，確保有效打擊跨境販毒活動。
+
+根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 新加坡共和國總理訪港,2026-03-24 18:10,2026-03-24 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400540.htm,"新加坡共和國總理兼財政部長黃循財將於三月二十六日抵港進行三天正式訪問。
 
 行政長官李家超將於三月二十七日在禮賓府與總理會面。"
 Prime Minister of Republic of Singapore to visit Hong Kong,2026-03-24 18:10,2026-03-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400542.htm,"  The Prime Minister and Minister for Finance of the Republic of Singapore, Mr Lawrence Wong, will arrive in Hong Kong on March 26 for a three-day official visit.
 
   The Chief Executive, Mr John Lee, will meet with the Prime Minister on March 27 at Government House."
-Entries invited for MiMEP Infinity Awards (with photos),2026-03-24 17:56,2026-03-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400439.htm,"The inaugural MiMEP Infinity Awards, jointly organised by the Electrical and Mechanical Services Department and the Architectural Services Department, are now open for entries until May 29. Under the theme ""Shaping Infinity Tomorrow: MiMEP Innovation and High Productivity Construction"", the competition welcomes participation from engineering project teams, engineering consultants, electrical and mechanical (E&M) contractors, and manufacturers in the Greater Bay Area.
-
-With the Development Bureau and the Department of Housing and Urban-Rural Development of Guangdong Province as advisors, the competition aims to promote the application of innovative technologies in E&M engineering to enhance construction efficiency, as well as to recognise the contributions of industry stakeholders in advancing high productivity construction. The Multi-trade integrated Mechanical, Electrical and Plumbing (MiMEP) approach strengthens collaboration among engineering project stakeholders by integrating design, manufacturing, and assembly processes, thereby enhancing construction efficiency and achieving the goals of high-quality and sustainable development.
-
-Speaking at the launching ceremony today (March 24), the Permanent Secretary for Development (Works), Mr Ricky Lau, said that the innovative technologies developed by the Development Bureau and its departments have garnered multiple international awards, showcasing Hong Kong's achievements in innovation. Guided by the National 15th Five-Year Plan, the Government will focus on high-quality development and promote the development of new quality productive forces. By leveraging innovative technologies such as MiMEP, the Government will accelerate the transformation and upgrading of the construction industry, further enhancing its overall competitiveness.
-
-The launching ceremony was attended by over 300 industry stakeholders and government representatives both online and in person.
-
-The competition features four major award categories: New Construction Project, Under Construction Project, Repair, Maintenance, Alteration and Addition (RMAA), and Factory/Manufacturer, as well as three special award categories to recognise innovative practices and outstanding performance in different fields of the industry. For details of the competition, please visit mimep-infinity-awards.com.hk/index_en.html."
 機電裝備合成法無限可能大賽接受報名（附圖）,2026-03-24 17:56,2026-03-24 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400433.htm,"​由機電工程署與建築署合辦的首屆MiMEP無限可能大賽，以「機電創新·高效建築·無限可能」為主題，即日起至五月二十九日接受報名，歡迎工程項目團隊、工程顧問、機電承辦商和大灣區製造商參與。
 
 比賽由發展局與廣東省住房和城鄉建設廳擔任指導單位，旨在推動機電工程領域應用創新技術，提升建造效率，並表揚業界推動高效建築的貢獻。機電裝備合成法（MiMEP）透過整合設計、製造和裝配流程，加強工程項目持份者之間的協作，從而提升建造效率，實現高質量及可持續發展的目標。
@@ -2108,19 +2161,15 @@ The competition features four major award categories: New Construction Project, 
 啓動禮吸引逾300位業界持份者和政府代表以線上線下模式參與。
 
 比賽設有四個主要獎項類別：新建工程項目、在建項目、維修保養改建及加建工程和工廠／製造商，以及三個特別獎項類別，以嘉許業界在不同範疇的創新實踐和卓越表現。大賽詳情請瀏覽mimep-infinity-awards.com.hk。"
-Kwai Chung Hospital new blocks to commence services in phases (with photos),2026-03-24 17:50,2026-03-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400409.htm,"The following is issued on behalf of the Hospital Authority:
+Entries invited for MiMEP Infinity Awards (with photos),2026-03-24 17:56,2026-03-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400439.htm,"The inaugural MiMEP Infinity Awards, jointly organised by the Electrical and Mechanical Services Department and the Architectural Services Department, are now open for entries until May 29. Under the theme ""Shaping Infinity Tomorrow: MiMEP Innovation and High Productivity Construction"", the competition welcomes participation from engineering project teams, engineering consultants, electrical and mechanical (E&M) contractors, and manufacturers in the Greater Bay Area.
 
-  Kwai Chung Hospital (KCH) announced today (March 24) that the new blocks under the phase 2 redevelopment of the hospital, including the Main Block and the Child and Adolescent Block, will commence services in phases starting from March 30. Clinical services of KCH will be progressively relocated to the new blocks, further enhancing the environment of mental health services and patient experience.
+With the Development Bureau and the Department of Housing and Urban-Rural Development of Guangdong Province as advisors, the competition aims to promote the application of innovative technologies in E&M engineering to enhance construction efficiency, as well as to recognise the contributions of industry stakeholders in advancing high productivity construction. The Multi-trade integrated Mechanical, Electrical and Plumbing (MiMEP) approach strengthens collaboration among engineering project stakeholders by integrating design, manufacturing, and assembly processes, thereby enhancing construction efficiency and achieving the goals of high-quality and sustainable development.
 
-  In the initial phase, the Child and Adolescent Psychiatric Specialist Out-patient Clinic and the Perinatal Mental Health Clinic will be relocated to the Child and Adolescent Block to commence services starting from March 30. In the second phase, the Adult Psychiatric Specialist Out-patient Clinic and Psychogeriatric Specialist Out-patient Clinic services will be relocated to the Main Block in the second quarter of this year. In-patient services will also be gradually relocated to the new blocks.
+Speaking at the launching ceremony today (March 24), the Permanent Secretary for Development (Works), Mr Ricky Lau, said that the innovative technologies developed by the Development Bureau and its departments have garnered multiple international awards, showcasing Hong Kong's achievements in innovation. Guided by the National 15th Five-Year Plan, the Government will focus on high-quality development and promote the development of new quality productive forces. By leveraging innovative technologies such as MiMEP, the Government will accelerate the transformation and upgrading of the construction industry, further enhancing its overall competitiveness.
 
-  The Child and Adolescent Mental Health Services and the Perinatal Mental Health Clinic, which will be relocated to the new block in the initial phase, are currently operating separately at the Specialist Out-patient Clinics of Queen Elizabeth Hospital and Princess Margaret Hospital. Starting from March 30, these clinical services will be consolidated at the Child and Adolescent Block to provide patients with enhanced and more efficient mental health services. The Adult Psychiatric Specialist Out-patient Clinic and Psychogeriatric Specialist Out-patient Clinic services, which will be relocated to the new block in the second phase, are currently situated at the Specialist Out-patient Clinics of Princess Margaret Hospital and Ha Kwai Chung Polyclinic. They will be relocated to the Main Block within the second quarter of this year. Services at the East Kowloon Psychiatric Centre located in Diamond Hill will remain unchanged.
+The launching ceremony was attended by over 300 industry stakeholders and government representatives both online and in person.
 
-  The Hospital Chief Executive of KCH, Dr Cheng Koi-man, stated, ""The new hospital blocks are designed with the vision of a 'therapeutic village'. It will provide 1,000 psychiatric beds and aims to offer patients a more comfortable therapeutic environment, personalised treatment plans, and community integration services, accompanying patients and carers on their journey of recovery. The hospital will commence subsequent follow-up project works to demolish the old block and construct a therapeutic/rehabilitation garden, providing more outdoor activity space to support patients' recoveries.""
-
-  Following the commissioning of the new blocks of KCH, a new general enquiry hotline at 2752 3000 will be activated simultaneously, while the existing hotline at 2959 8111 will remain in use until the completion of all service relocations. The enquiry hotlines and addresses of various Specialist Out-patient Clinics have also been updated (details are appended as Annex 1). To facilitate patients and visitors travelling to and from the KCH new blocks, designated stops for a green minibus and taxi stand will be set up at the main entrance of the KCH Main Block (detailed location is appended as Annex 2). The lift tower on Lai King Hill Road will be opened shortly to provide convenient access for the public.
-
-  KCH has informed the public of the service relocation through multiple channels, including direct phone calls to patients, distribution of appointment slips or relocation notices, placement of roll-up banners, and posting of posters and notices at the relevant hospitals and clinics. These measures aim to ensure that patients and their carers are well informed of the service relocation arrangements. For more information about KCH services, please visit the hospital’s website (https://www3.ha.org.hk/kch/en/index_default.htm)."
+The competition features four major award categories: New Construction Project, Under Construction Project, Repair, Maintenance, Alteration and Addition (RMAA), and Factory/Manufacturer, as well as three special award categories to recognise innovative practices and outstanding performance in different fields of the industry. For details of the competition, please visit mimep-infinity-awards.com.hk/index_en.html."
 葵涌醫院新大樓分階段啓用（附圖）,2026-03-24 17:50,2026-03-24 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400411.htm,"下稿代醫院管理局發出︰
 
 葵涌醫院今日（三月二十四日）公布，第二期重建計劃的新大樓，包括醫院主座大樓和兒童及青少年服務座，將於三月三十日起分階段投入服務。屆時，葵涌醫院的臨床服務會陸續遷入新大樓，進一步提升醫院精神健康服務的環境和病人就診體驗。
@@ -2134,7 +2183,20 @@ Kwai Chung Hospital new blocks to commence services in phases (with photos),2026
 葵涌醫院新大樓啓用後，將會同時啓用新總機電話2752 3000，現有電話2959 8111將可繼續使用，直至所有服務完成搬遷。各專科門診查詢電話及地址亦有更新（詳見附件一）。為方便病人及訪客往返葵涌醫院新大樓，醫院主座大樓正門將設專線小巴，並設有的士站接載乘客（詳見附件二）。此外，位於荔景山路升降機塔將於短期內啓用，便利市民進出。
 
 醫院已陸續透過多種渠道通知市民服務搬遷事宜，包括致電病人、派發預約便條或搬遷告示、於上述醫院或門診擺放易拉架、張貼海報和告示等，以確保病人及其照顧者知悉相關服務搬遷安排。如欲了解更多關於葵涌醫院的服務詳情，可瀏覽醫院網頁（https://www3.ha.org.hk/kch/ch/index_default.htm）。"
-Remarks by SFST at Wealth for Good in Hong Kong Summit 2026 (English only) (with photo),2026-03-24 17:43,2026-03-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400549.htm,"  Following are the remarks by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the Wealth for Good in Hong Kong Summit 2026 today (March 24):
+Kwai Chung Hospital new blocks to commence services in phases (with photos),2026-03-24 17:50,2026-03-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400409.htm,"The following is issued on behalf of the Hospital Authority:
+
+  Kwai Chung Hospital (KCH) announced today (March 24) that the new blocks under the phase 2 redevelopment of the hospital, including the Main Block and the Child and Adolescent Block, will commence services in phases starting from March 30. Clinical services of KCH will be progressively relocated to the new blocks, further enhancing the environment of mental health services and patient experience.
+
+  In the initial phase, the Child and Adolescent Psychiatric Specialist Out-patient Clinic and the Perinatal Mental Health Clinic will be relocated to the Child and Adolescent Block to commence services starting from March 30. In the second phase, the Adult Psychiatric Specialist Out-patient Clinic and Psychogeriatric Specialist Out-patient Clinic services will be relocated to the Main Block in the second quarter of this year. In-patient services will also be gradually relocated to the new blocks.
+
+  The Child and Adolescent Mental Health Services and the Perinatal Mental Health Clinic, which will be relocated to the new block in the initial phase, are currently operating separately at the Specialist Out-patient Clinics of Queen Elizabeth Hospital and Princess Margaret Hospital. Starting from March 30, these clinical services will be consolidated at the Child and Adolescent Block to provide patients with enhanced and more efficient mental health services. The Adult Psychiatric Specialist Out-patient Clinic and Psychogeriatric Specialist Out-patient Clinic services, which will be relocated to the new block in the second phase, are currently situated at the Specialist Out-patient Clinics of Princess Margaret Hospital and Ha Kwai Chung Polyclinic. They will be relocated to the Main Block within the second quarter of this year. Services at the East Kowloon Psychiatric Centre located in Diamond Hill will remain unchanged.
+
+  The Hospital Chief Executive of KCH, Dr Cheng Koi-man, stated, ""The new hospital blocks are designed with the vision of a 'therapeutic village'. It will provide 1,000 psychiatric beds and aims to offer patients a more comfortable therapeutic environment, personalised treatment plans, and community integration services, accompanying patients and carers on their journey of recovery. The hospital will commence subsequent follow-up project works to demolish the old block and construct a therapeutic/rehabilitation garden, providing more outdoor activity space to support patients' recoveries.""
+
+  Following the commissioning of the new blocks of KCH, a new general enquiry hotline at 2752 3000 will be activated simultaneously, while the existing hotline at 2959 8111 will remain in use until the completion of all service relocations. The enquiry hotlines and addresses of various Specialist Out-patient Clinics have also been updated (details are appended as Annex 1). To facilitate patients and visitors travelling to and from the KCH new blocks, designated stops for a green minibus and taxi stand will be set up at the main entrance of the KCH Main Block (detailed location is appended as Annex 2). The lift tower on Lai King Hill Road will be opened shortly to provide convenient access for the public.
+
+  KCH has informed the public of the service relocation through multiple channels, including direct phone calls to patients, distribution of appointment slips or relocation notices, placement of roll-up banners, and posting of posters and notices at the relevant hospitals and clinics. These measures aim to ensure that patients and their carers are well informed of the service relocation arrangements. For more information about KCH services, please visit the hospital’s website (https://www3.ha.org.hk/kch/en/index_default.htm)."
+Remarks by SFST at Wealth for Good in Hong Kong Summit 2026 (English only),2026-03-24 17:43,2026-03-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400549.htm,"  Following are the remarks by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the Wealth for Good in Hong Kong Summit 2026 today (March 24):
 
 Ladies and gentlemen, distinguished guests,
 
@@ -2153,7 +2215,7 @@ Ladies and gentlemen, distinguished guests,
  Together, let us continue to transform wealth into good, and also at the same time, good into lasting global impact as in the theme of today's forum: Wealth for Good.
 
  Thank you."
-Remarks by SFST at Wealth for Good in Hong Kong Summit 2026 (English only),2026-03-24 17:43,2026-03-24 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400549.htm,"  Following are the remarks by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the Wealth for Good in Hong Kong Summit 2026 today (March 24):
+Remarks by SFST at Wealth for Good in Hong Kong Summit 2026 (English only) (with photo),2026-03-24 17:43,2026-03-24 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400549.htm,"  Following are the remarks by the Secretary for Financial Services and the Treasury, Mr Christopher Hui, at the Wealth for Good in Hong Kong Summit 2026 today (March 24):
 
 Ladies and gentlemen, distinguished guests,
 
@@ -2813,14 +2875,6 @@ scrub drains and surface sewers with alkaline detergent at least once a week to 
 Starting in August 2025, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of chikungunya fever (CF) transmission.
 
 ​Following recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 62 survey areas of the community, with a surveillance period of two weeks. During the surveillance period, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#)."
-Public consultation on legislative proposals for dedicated legislation to accelerate development of Northern Metropolis launched,2026-03-24 16:45,2026-03-24 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400383.htm,"The Development Bureau (DEVB) launched a two-month public consultation today (March 24) on the legislative proposals for dedicated legislation to accelerate the development of the Northern Metropolis (NM).
-
-The DEVB issued a Legislative Council (LegCo) paper earlier proposing to introduce dedicated legislation to accelerate the development of the NM, with the objectives of further removing barriers in respect of planning and lands procedures in the NM, to expedite construction works and to facilitate industry operation. The proposed dedicated legislation is suggested to comprise a piece of primary legislation serving as the main framework, and to delegate to the Chief Executive in Council the power to further enact subsidiary legislation on six specified areas, as and when necessary, namely (i) streamlining town planning procedures; (ii) expediting compensation payment for land resumed; (iii) facilitating the adoption of innovative construction technology arrangements; (iv) streamlining the procedures and requirements for construction noise permit applications; (v) facilitating and regulating cross-boundary flow of elements; and (vi) establishing statutory corporations for designated areas. The target is to introduce the bill of the primary legislation to the LegCo for vetting in the middle of 2026, and to submit together the draft of the first batch of subsidiary legislation for preview. The DEVB will strive to have the primary legislation passed by the LegCo within this year, and then formally submit the first batch of subsidiary legislation under the primary legislation to the LegCo for vetting. For details, please refer to the LegCo discussion paper (www.legco.gov.hk/yr2026/english/panels/dev/papers/dev20260324cb1-245-3-e.pdf).
-
-Members of the public and all sectors of the community are welcome to provide comments on the proposed dedicated legislation via email or post on or before May 22 this year. Relevant information is provided on the dedicated website for the NM under the DEVB (www.nm.gov.hk/en/about-nm/nm-dedicated-legislation).
-
-Email address: nmlegislation@devb.gov.hk
-Mail address: Northern Metropolis Co-ordination Office, Development Bureau (Units 506-507, 5/F, Shui On Centre, 6-8 Harbour Road, Wan Chai, Hong Kong)"
 加快北都發展專屬法例立法建議  展開公眾諮詢,2026-03-24 16:45,2026-03-24 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400367.htm,"發展局今日（三月二十四日）就加快北部都會區（北都）發展專屬法例立法建議，展開兩個月公眾諮詢。
 
 發展局早前已發出立法會文件，建議為加快北都發展訂立專屬法例，目標是進一步為北都規劃和地政程序拆牆鬆綁、加快工程建設及助力產業營運。擬議專屬法例建議由主體法例設定主線框架，並授權行政長官會同行政會議可按需要，就六個指明範疇進一步訂立附屬法例：（一）簡化城市規劃程序；（二）加快支付被收回土地的補償；（三）便利採用創新的建築技術安排；（四）簡化申請建築噪音許可證的程序及要求；（五）便利及管理跨境要素流動；以及（六）就指定地區成立法定公司，目標是於今年年中向立法會提交主體法例的條例草案供審議，同時提交首批附屬法例的草擬本供預覽。發展局會爭取主體法例年內獲得立法會通過，然後向立法會正式提交主體法例下首批附屬法例供立法會審議。詳情可參閱立法會討論文件（www.legco.gov.hk/yr2026/chinese/panels/dev/papers/dev20260324cb1-245-3-c.pdf）。
@@ -2829,27 +2883,14 @@ Mail address: Northern Metropolis Co-ordination Office, Development Bureau (Unit
 
 電郵地址：nmlegislation@devb.gov.hk
 郵寄地址：發展局北部都會區統籌辦事處（香港灣仔港灣道6-8號瑞安中心5樓506-507室）"
-Strategic Public Policy Research Funding Scheme 2026-27 opens for applications,2026-03-24 16:30,2026-03-24 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400332.htm,"  The Chief Executive's Policy Unit (CEPU) today (March 24) announced at the Strategic Public Policy Research Funding Scheme (SPPRFS) Briefing Session that the SPPRFS 2026-27 is open for applications between now and May 12, 2026.
+Public consultation on legislative proposals for dedicated legislation to accelerate development of Northern Metropolis launched,2026-03-24 16:45,2026-03-24 17:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400383.htm,"The Development Bureau (DEVB) launched a two-month public consultation today (March 24) on the legislative proposals for dedicated legislation to accelerate the development of the Northern Metropolis (NM).
 
-  The SPPRFS and the Public Policy Research Funding Scheme (PPRFS) aim at encouraging local tertiary institutions and public policy research think tanks (including university and civil society think tanks) to apply their expertise to conduct evidence-based research on key public policy issues, and to facilitate the knowledge transfer of research findings to policy considerations, serving as a channel for the Government to tap the public policy research expertise of society.
+The DEVB issued a Legislative Council (LegCo) paper earlier proposing to introduce dedicated legislation to accelerate the development of the NM, with the objectives of further removing barriers in respect of planning and lands procedures in the NM, to expedite construction works and to facilitate industry operation. The proposed dedicated legislation is suggested to comprise a piece of primary legislation serving as the main framework, and to delegate to the Chief Executive in Council the power to further enact subsidiary legislation on six specified areas, as and when necessary, namely (i) streamlining town planning procedures; (ii) expediting compensation payment for land resumed; (iii) facilitating the adoption of innovative construction technology arrangements; (iv) streamlining the procedures and requirements for construction noise permit applications; (v) facilitating and regulating cross-boundary flow of elements; and (vi) establishing statutory corporations for designated areas. The target is to introduce the bill of the primary legislation to the LegCo for vetting in the middle of 2026, and to submit together the draft of the first batch of subsidiary legislation for preview. The DEVB will strive to have the primary legislation passed by the LegCo within this year, and then formally submit the first batch of subsidiary legislation under the primary legislation to the LegCo for vetting. For details, please refer to the LegCo discussion paper (www.legco.gov.hk/yr2026/english/panels/dev/papers/dev20260324cb1-245-3-e.pdf).
 
-  To align with the opportunities brought to Hong Kong by the National 15th Five-Year Plan and in light of the policy priorities of the Government, five strategic themes have been identified for the SPPRFS 2026-27. They are: (a) Development Opportunities from the National 15th Five-Year Plan and Guangdong-Hong Kong-Macao Greater Bay Area(GBA); (b) Deepening International Exchanges and Co-operation, Supporting the Country's Opening Up to the World; (c) Development of Education, Technology, Talents and Industries; (d) Integrated Development of Culture, Sports and Tourism; and (e) Elderly and Healthcare Services.
+Members of the public and all sectors of the community are welcome to provide comments on the proposed dedicated legislation via email or post on or before May 22 this year. Relevant information is provided on the dedicated website for the NM under the DEVB (www.nm.gov.hk/en/about-nm/nm-dedicated-legislation).
 
-  The Head of the CEPU, Dr Stephen Wong, said, ""The CEPU is dedicated to harnessing the policy research strengths of think tanks, drawing extensively on the outstanding achievements of both civil society and university think tanks. These achievements not only carry rigorous academic and scientific value but also provide practical insights. Through its funding schemes, the CEPU will continue to act as a catalyst for transforming internationally oriented academic research into valuable references for policy considerations, fostering a vibrant network of local civil society and university think tanks, and further enhancing their international influence.""
-
-  At the briefing session, Deputy Head of the CEPU Mr Nicholas Kwan told the participating academics and experts from tertiary institutions and think tanks, ""Since its establishment, the CEPU has implemented a series of innovative reforms under the SPPRFS and PPRFS, aiming to enhance the overall impact of granted projects. Over the past two years, we have organised nearly 20 policy seminars, workshops, and roundtable meetings, inviting participation of representatives from the Government, industries, academia and research institutions. These platforms foster collaboration among the Government and industry, academia and research sectors, enabling research teams to absorb the latest insights and diverse professional perspectives.
-
-  ""Key initiatives include inviting representatives from relevant bureaux to join discussions, ensuring that research directions align closely with policy priorities. At the same time, we will pragmatically and in a timely manner translate evidence-based research findings into policy recommendations for internal studies. In addition, we have, for the first time, established a dedicated recognition mechanism to appreciate the efforts of outstanding researchers and institutions. This aims to enhance their academic influence and visibility, encourage sustained participation, and strengthen the reference value of evidence-based research for Hong Kong's future development.""
-
-  In his remarks, the Chairman of the Assessment Panel of the two funding schemes, Professor Daniel Shek, highlighted, ""Public policy research is very important, as it can provide direction for the Government when formulating policies and reduce the risk of taking the wrong path. When assessing the funding scheme applications, the Assessment Panel does not only consider scientific merits of the research, but also the relevance of the proposals to the public policy and social needs of Hong Kong. Through the funding schemes, we aim to fully unlock the potential of different institutions in advancing public policy research.""
-
-  Applications for the SPPRFS must be made under one of the above specified strategic themes and be in line with the specified research areas. Those falling outside the specified strategic themes and specified research areas will not be considered generally. Each SPPRFS project may be granted a maximum of $5 million and last from one to five years.
-
-  Separately, the major themes and indicative research areas of the PPRFS have also been updated having regard to Hong Kong's current and long-term development as well as the need for research on various social issues. While applications for the SPPRFS are accepted at specific times each year, the PPRFS focuses on research studies of a shorter duration and smaller scale, with applications accepted throughout the year. Applications for the PPRFS will be vetted, and notification of the results will be issued by batch.
-
-  Assessments for the SPPRFS and PPRFS will be conducted by an Assessment Panel which comprises experienced academics and professional experts. The Assessment Panel will also take into account comments from external reviewers who are experienced academics and professional experts during the assessment process. To ensure the policy relevance of the research proposals, views of relevant government bureaux/departments will also be sought for reference by the Panel. A declaration of interests system is in place to ensure that the assessments are fair and impartial.
-
-  For details of the SPPRFS and PPRFS, including eligibility criteria, research areas, assessment mechanism, application method and other related information, please visit the CEPU's website (www.cepu.gov.hk/en/PRFS)."
+Email address: nmlegislation@devb.gov.hk
+Mail address: Northern Metropolis Co-ordination Office, Development Bureau (Units 506-507, 5/F, Shui On Centre, 6-8 Harbour Road, Wan Chai, Hong Kong)"
 二○二六至二七年度「策略性公共政策研究資助計劃」開始接受申請,2026-03-24 16:30,2026-03-24 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400341.htm,"特首政策組今日（三月二十四日）在「策略性公共政策研究資助計劃」簡介會上宣布，二○二六至二七年度「策略性公共政策研究資助計劃」由即日起至二○二六年五月十二日接受申請。
 
 「策略性公共政策研究資助計劃」和「公共政策研究資助計劃」旨在鼓勵本地的大專院校及公共政策研究智庫（包括大學及民間的智庫團體）發揮其在各自領域的研究專長，對重點的公共政策議題進行以實證為本的研究，並促進成果轉化以供相關政策局參考，為政府吸納社會公共政策研究成果提供渠道。
@@ -2871,7 +2912,28 @@ Strategic Public Policy Research Funding Scheme 2026-27 opens for applications,2
 「策略性公共政策研究資助計劃」及「公共政策研究資助計劃」的評審工作由具豐富經驗的學者及專家組成的評審委員會負責。評審委員會在評審過程中亦會考慮非委員會成員的資深學者和專家的意見。為確保研究與政策相關，有關的政策局／部門亦會獲邀提供意見供委員會參考。評審過程設有利益申報機制，確保評審公平公正。
 
 有關「策略性公共政策研究資助計劃」及「公共政策研究資助計劃」的詳情，例如申請資格、研究範疇、評審機制、申請方法及其他相關資料，請瀏覽特首政策組網頁（www.cepu.gov.hk/tc/PRFS）。"
-Speech by SITI at Green is Action: GreenTech Hub 1st Anniversary (English only),2026-03-24 16:16,2026-03-24 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400477.htm,"Following is the speech by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, at the Green is Action: GreenTech Hub 1st Anniversary today (March 24):
+Strategic Public Policy Research Funding Scheme 2026-27 opens for applications,2026-03-24 16:30,2026-03-24 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400332.htm,"  The Chief Executive's Policy Unit (CEPU) today (March 24) announced at the Strategic Public Policy Research Funding Scheme (SPPRFS) Briefing Session that the SPPRFS 2026-27 is open for applications between now and May 12, 2026.
+
+  The SPPRFS and the Public Policy Research Funding Scheme (PPRFS) aim at encouraging local tertiary institutions and public policy research think tanks (including university and civil society think tanks) to apply their expertise to conduct evidence-based research on key public policy issues, and to facilitate the knowledge transfer of research findings to policy considerations, serving as a channel for the Government to tap the public policy research expertise of society.
+
+  To align with the opportunities brought to Hong Kong by the National 15th Five-Year Plan and in light of the policy priorities of the Government, five strategic themes have been identified for the SPPRFS 2026-27. They are: (a) Development Opportunities from the National 15th Five-Year Plan and Guangdong-Hong Kong-Macao Greater Bay Area(GBA); (b) Deepening International Exchanges and Co-operation, Supporting the Country's Opening Up to the World; (c) Development of Education, Technology, Talents and Industries; (d) Integrated Development of Culture, Sports and Tourism; and (e) Elderly and Healthcare Services.
+
+  The Head of the CEPU, Dr Stephen Wong, said, ""The CEPU is dedicated to harnessing the policy research strengths of think tanks, drawing extensively on the outstanding achievements of both civil society and university think tanks. These achievements not only carry rigorous academic and scientific value but also provide practical insights. Through its funding schemes, the CEPU will continue to act as a catalyst for transforming internationally oriented academic research into valuable references for policy considerations, fostering a vibrant network of local civil society and university think tanks, and further enhancing their international influence.""
+
+  At the briefing session, Deputy Head of the CEPU Mr Nicholas Kwan told the participating academics and experts from tertiary institutions and think tanks, ""Since its establishment, the CEPU has implemented a series of innovative reforms under the SPPRFS and PPRFS, aiming to enhance the overall impact of granted projects. Over the past two years, we have organised nearly 20 policy seminars, workshops, and roundtable meetings, inviting participation of representatives from the Government, industries, academia and research institutions. These platforms foster collaboration among the Government and industry, academia and research sectors, enabling research teams to absorb the latest insights and diverse professional perspectives.
+
+  ""Key initiatives include inviting representatives from relevant bureaux to join discussions, ensuring that research directions align closely with policy priorities. At the same time, we will pragmatically and in a timely manner translate evidence-based research findings into policy recommendations for internal studies. In addition, we have, for the first time, established a dedicated recognition mechanism to appreciate the efforts of outstanding researchers and institutions. This aims to enhance their academic influence and visibility, encourage sustained participation, and strengthen the reference value of evidence-based research for Hong Kong's future development.""
+
+  In his remarks, the Chairman of the Assessment Panel of the two funding schemes, Professor Daniel Shek, highlighted, ""Public policy research is very important, as it can provide direction for the Government when formulating policies and reduce the risk of taking the wrong path. When assessing the funding scheme applications, the Assessment Panel does not only consider scientific merits of the research, but also the relevance of the proposals to the public policy and social needs of Hong Kong. Through the funding schemes, we aim to fully unlock the potential of different institutions in advancing public policy research.""
+
+  Applications for the SPPRFS must be made under one of the above specified strategic themes and be in line with the specified research areas. Those falling outside the specified strategic themes and specified research areas will not be considered generally. Each SPPRFS project may be granted a maximum of $5 million and last from one to five years.
+
+  Separately, the major themes and indicative research areas of the PPRFS have also been updated having regard to Hong Kong's current and long-term development as well as the need for research on various social issues. While applications for the SPPRFS are accepted at specific times each year, the PPRFS focuses on research studies of a shorter duration and smaller scale, with applications accepted throughout the year. Applications for the PPRFS will be vetted, and notification of the results will be issued by batch.
+
+  Assessments for the SPPRFS and PPRFS will be conducted by an Assessment Panel which comprises experienced academics and professional experts. The Assessment Panel will also take into account comments from external reviewers who are experienced academics and professional experts during the assessment process. To ensure the policy relevance of the research proposals, views of relevant government bureaux/departments will also be sought for reference by the Panel. A declaration of interests system is in place to ensure that the assessments are fair and impartial.
+
+  For details of the SPPRFS and PPRFS, including eligibility criteria, research areas, assessment mechanism, application method and other related information, please visit the CEPU's website (www.cepu.gov.hk/en/PRFS)."
+Speech by SITI at Green is Action: GreenTech Hub 1st Anniversary (English only) (with photo),2026-03-24 16:16,2026-03-24 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400477.htm,"Following is the speech by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, at the Green is Action: GreenTech Hub 1st Anniversary today (March 24):
 
 Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), GreenTech Hub partners and tech ventures, distinguished guests, ladies and gentlemen,
 
@@ -2886,7 +2948,7 @@ Good afternoon. It is my honour to join you today and witness the first annivers
  Ladies and gentlemen, the anniversary of the GreenTech Hub today is just the beginning. In collaboration with our three major I&T parks, the Government will continue to invest in I&T infrastructure and foster the development of strategic industries, with a view to enhancing the overall I&T ecosystem and promoting interactive development of the upstream, midstream and downstream sectors
 
  Green is action. Together, let us propel Hong Kong into a greener, more sustainable future. Thank you."
-Speech by SITI at Green is Action: GreenTech Hub 1st Anniversary (English only) (with photo),2026-03-24 16:16,2026-03-24 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400477.htm,"Following is the speech by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, at the Green is Action: GreenTech Hub 1st Anniversary today (March 24):
+Speech by SITI at Green is Action: GreenTech Hub 1st Anniversary (English only),2026-03-24 16:16,2026-03-24 16:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400477.htm,"Following is the speech by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, at the Green is Action: GreenTech Hub 1st Anniversary today (March 24):
 
 Sunny (Chairman of the Hong Kong Science and Technology Parks Corporation, Dr Sunny Chai), Terry (Chief Executive Officer of the Hong Kong Science and Technology Parks Corporation, Mr Terry Wong), GreenTech Hub partners and tech ventures, distinguished guests, ladies and gentlemen,
 
@@ -2931,20 +2993,6 @@ In the morning today (March 24), Mr Lam and his delegation met with Vice Preside
 Mr Lam then met with Vice Mayor of Shanghai Mr Lu Shan to learn about the latest developments of Shanghai and to highlight Hong Kong's unique advantages of its robust common-law system and being connected to the Mainland and the world under the ""one country, two systems"" principle, which can provide support in legal and other professional service areas for Shanghai enterprises in furthering their overseas expansion.
 
 In the afternoon, Mr Lam arrived in Hangzhou and met with Vice Governor of Zhejiang Province Mr Yang Qingjiu to discuss ways to strengthen co-operation and exchanges between Zhejiang and Hong Kong. The delegation will continue its visit to Hangzhou tomorrow (March 25)."
-港匯指數,2026-03-24 16:00,2026-03-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400194.htm,二○二六年三月二十四日（星期二）的港幣匯率指數為一百零一點九（和昨日指數比較下降零點四）。
-「綠綠賞」連通支付寶　智慧回收融入生活日常,2026-03-24 16:00,2026-03-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400430.htm,"環境保護署（環保署）今日（三月二十四日）公布，「綠綠賞」電子積分計劃（「綠綠賞」）將進一步電子化，五月四日起與AlipayHK（支付寶香港）電子支付平台連結，加上原有的Carbon Wallet及「易賞錢」平台，「綠綠賞」電子積分可用於全港超過15萬個商戶，讓市民在日常生活中更方便、更靈活地使用回收積分，將回收融入生活細節。
-
-環保署發言人表示，「綠綠賞」的登記用戶數目已突破120萬，當中約九成用戶已使用手機應用程式。「綠綠賞」連結支付寶香港平台後，積分可即時轉換為AlipayHK積分，既可作為現金使用，亦可兌換優惠券。屆時，用戶可隨時隨地以「綠綠賞」電子積分在支付寶香港、Carbon Wallet及「易賞錢」平台的合作商戶消費，涵蓋網購、繳費、交通、零售及餐飲等多元生活場景。同時，用戶亦可選擇憑「綠綠賞」電子積分在全線「綠在區區」設施換領50元超市實體現金券，方便市民購買日常用品，令環保回饋更貼近市民日常需要。
-
-隨着「綠綠賞」進一步電子化，用戶可換領的禮品種類、方式及地點大幅增加，對用戶會更加吸引和方便。未來政府將與時並進，逐步減少實體禮品換領點，由五月四日起全港18區的「綠在區區」將在每區保留一個實體禮品換領點（詳情見附件）；而離島居民（包括長洲、坪洲及南丫島）則可繼續於島上回收流動點換領實體禮品。
-
-發言人表示，署方在推動數碼轉型的同時，已制定一系列「以民為先」的支援措施，確保不同群體順利過渡電子化。環保署將於主要公共屋邨回收高峰時段增設臨時服務站，安排專人為長者及有需要人士提供即場登記及應用程式示範。「綠在區區」設施的前線職員亦會協助長者下載及使用應用程式，現場並備有圖文指引及短片。
-
-現有「綠綠賞」實體積分卡用戶如欲保留賺取積分功能，須於二○二七年八月三十一日前完成實名登記；未實名登記的實體卡由二○二六年五月四日起將不能賺取新積分，但原有積分仍可於二○二七年八月三十一日前兌換禮品。
-
-市民可瀏覽「綠綠賞」專題網頁（www.wastereduction.gov.hk/zh-hk/waste-reduction-programme/greencommunity#green-electronic-participation-scheme）獲取最新資訊。
-
-經過環保署和各方多年的努力和市民的支持，「綠綠賞」已經發展成為一個凝聚社會各界、推動綠色減廢回收文化的平台，促進市民積極參與廢物分類與回收。環保署將進一步推進電子化及其他優化安排，讓回收融入市民的日常生活，令回收基建和配套更便民、更人性化，亦是深化減排、減廢的重要一步。我們期待與公眾攜手，持續推動香港的綠色減廢與回收文化。"
 GREEN$ connects with AlipayHK - smart recycling integrated into daily life,2026-03-24 16:00,2026-03-24 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400431.htm,"  The Environmental Protection Department (EPD) announced today (March 24) that, the GREEN$ Electronic Participation Incentive Scheme (GREEN$ ePIS) will be further digitalised. Starting from May 4, it will be linked with the electronic payment platform AlipayHK. Together with the existing platforms, namely Carbon Wallet and MoneyBack, GREEN$ points can be used at more than 150 000 merchants across Hong Kong, making it more convenient and flexible for the public to use their recycling points in their everyday life, thus embedding recycling into daily routines.
 
   The EPD spokesperson said, ""The registered users of GREEN$ ePIS have exceeded over 1.2 million, with approximately 90 per cent of them already using the mobile application. Following the linking with AlipayHK, GREEN$ points can be instantly converted into AlipayHK points, which can be used as cash or redeemed for coupons. Users can then spend their GREEN$ points anytime, anywhere at partnered merchants on the AlipayHK, Carbon Wallet, and MoneyBack platforms, covering a wide range of everyday scenarios, including online shopping, bill payments, transportation, retail, and dining. At the same time, users may also choose to redeem $50 physical supermarket cash vouchers with their GREEN$ points at all GREEN@COMMUNITY facilities, providing a convenient way for the public to purchase daily necessities. These arrangements make environmental rewards better aligned with the public's everyday needs.""
@@ -2959,6 +3007,69 @@ GREEN$ connects with AlipayHK - smart recycling integrated into daily life,2026-
 
   Through years of dedicated efforts by the EPD and various stakeholders, and the support of the public, GREEN$ ePIS has evolved into a platform that unites different sectors of society to promote a green waste reduction and recycling culture, and to encourage active public participation in the separation of waste and recycling. The EPD will further promote digitalisation and other enhancement measures to integrate recycling into people's daily lives, making the recycling infrastructure and supporting facilities more user-friendly and people-oriented. This is also an important step forward for deepening the efforts in emission reduction and waste reduction. The EPD looks forward to working hand in hand with the public to continuously promote Hong Kong's green waste reduction and recycling culture."
 Effective Exchange Rate Index,2026-03-24 16:00,2026-03-24 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400195.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, March 24, 2026 is 101.9 (down 0.4 against yesterday's index)."
+港匯指數,2026-03-24 16:00,2026-03-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400194.htm,二○二六年三月二十四日（星期二）的港幣匯率指數為一百零一點九（和昨日指數比較下降零點四）。
+「綠綠賞」連通支付寶　智慧回收融入生活日常,2026-03-24 16:00,2026-03-24 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400430.htm,"環境保護署（環保署）今日（三月二十四日）公布，「綠綠賞」電子積分計劃（「綠綠賞」）將進一步電子化，五月四日起與AlipayHK（支付寶香港）電子支付平台連結，加上原有的Carbon Wallet及「易賞錢」平台，「綠綠賞」電子積分可用於全港超過15萬個商戶，讓市民在日常生活中更方便、更靈活地使用回收積分，將回收融入生活細節。
+
+環保署發言人表示，「綠綠賞」的登記用戶數目已突破120萬，當中約九成用戶已使用手機應用程式。「綠綠賞」連結支付寶香港平台後，積分可即時轉換為AlipayHK積分，既可作為現金使用，亦可兌換優惠券。屆時，用戶可隨時隨地以「綠綠賞」電子積分在支付寶香港、Carbon Wallet及「易賞錢」平台的合作商戶消費，涵蓋網購、繳費、交通、零售及餐飲等多元生活場景。同時，用戶亦可選擇憑「綠綠賞」電子積分在全線「綠在區區」設施換領50元超市實體現金券，方便市民購買日常用品，令環保回饋更貼近市民日常需要。
+
+隨着「綠綠賞」進一步電子化，用戶可換領的禮品種類、方式及地點大幅增加，對用戶會更加吸引和方便。未來政府將與時並進，逐步減少實體禮品換領點，由五月四日起全港18區的「綠在區區」將在每區保留一個實體禮品換領點（詳情見附件）；而離島居民（包括長洲、坪洲及南丫島）則可繼續於島上回收流動點換領實體禮品。
+
+發言人表示，署方在推動數碼轉型的同時，已制定一系列「以民為先」的支援措施，確保不同群體順利過渡電子化。環保署將於主要公共屋邨回收高峰時段增設臨時服務站，安排專人為長者及有需要人士提供即場登記及應用程式示範。「綠在區區」設施的前線職員亦會協助長者下載及使用應用程式，現場並備有圖文指引及短片。
+
+現有「綠綠賞」實體積分卡用戶如欲保留賺取積分功能，須於二○二七年八月三十一日前完成實名登記；未實名登記的實體卡由二○二六年五月四日起將不能賺取新積分，但原有積分仍可於二○二七年八月三十一日前兌換禮品。
+
+市民可瀏覽「綠綠賞」專題網頁（www.wastereduction.gov.hk/zh-hk/waste-reduction-programme/greencommunity#green-electronic-participation-scheme）獲取最新資訊。
+
+經過環保署和各方多年的努力和市民的支持，「綠綠賞」已經發展成為一個凝聚社會各界、推動綠色減廢回收文化的平台，促進市民積極參與廢物分類與回收。環保署將進一步推進電子化及其他優化安排，讓回收融入市民的日常生活，令回收基建和配套更便民、更人性化，亦是深化減排、減廢的重要一步。我們期待與公眾攜手，持續推動香港的綠色減廢與回收文化。"
+Speech by CE at Global Free Trade Ports Development Forum of Boao Forum for Asia Annual Conference 2026 in Hainan (English only),2026-03-24 15:50,2026-03-24 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400448.htm,"  Following is the speech by the Chief Executive, Mr John Lee, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia Annual Conference 2026 in Hainan today (March 24):
+
+Honourable Vice Chairman Mu Hong (Vice Chairman of the National Committee of the Chinese People's Political Consultative Conference and Vice Chairman of the Boao Forum for Asia), honourable Secretary Feng Fei (Secretary of the CPC Hainan Provincial Committee), honourable Governor Liu Xiaoming (Governor of Hainan), distinguished guests, ladies and gentlemen,
+
+  Good afternoon. I would like to address this forum in English to reflect Hong Kong's status as an international city under ""one country, two systems"". And bilingualism is a part of everyday life in Hong Kong. It is my great pleasure to join you today, in Hainan, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia.
+
+  This year marks the 25th anniversary of the Boao Forum for Asia. Over the past quarter of a century, the Forum has become a premier platform for dialogue on economic co-operation, bringing together leaders, policymakers and business pioneers from across the region. Together, we foster mutual understanding and advance regional co-operation. The Boao Forum has made significant contributions to Asia's remarkable rise on the global stage. I extend my warmest congratulations to the Boao Forum for Asia on this milestone occasion.
+
+  This year also marks a new chapter for China, our country. Two weeks ago, the fourth session of the 14th National People's Congress approved the Outline of the 15th Five-Year Plan for National Economic and Social Development of the People's Republic of China. The 15th Five-Year Plan sets out the indicators for the main objectives, major strategic tasks, and major projects for the country's development for the next five years.
+
+  The high-standard development of the Hainan Free Trade Port is a highlight of the Plan. The Port began its island-wide special customs operations four months ago. The Plan supports the continuous enhancement of liberalisation in trade, investment and the flow of production factors in the free trade port.
+
+  I congratulate Hainan on her remarkable progress in the development of the free trade port policy, which is now firmly in place. It allows for more open and free entry of overseas goods, expands zero-tariff coverage, and includes a host of business-friendly measures. Hainan is fast rising as a popular destination for global business and innovative industries. I have every confidence that this scenic island will soon become a powerful showcase for our country's dedication to free trade and high-quality opening up.
+
+  At a time of mounting geopolitical tensions and rampant protectionism, China's unwavering commitment to an open, and inclusive, economic order and multilateral trade gives this volatile world the reassurance it needs. And we are not alone in this. Much like the theme of this year's Boao Forum for Asia, ""Shaping a Shared Future: New Dynamics, New Opportunities, New Cooperation"", economies in the region are working together to ensure we remain a driver of global growth and an anchor of stability.
+
+  Ladies and gentlemen, Hong Kong is no stranger to free trade and co-operation. For more than a century, Hong Kong has been a free port and a champion of free and unfettered trade. Hong Kong is the world's No.1 in economic freedom, topping the ranking in ""freedom to trade internationally"". The International Institute for Management Development ranked Hong Kong among the world's top three most competitive economies. Our ""business legislation"" and ""tax policy"" ranked No. 1, globally.
+
+  Under the unique ""one country, two systems"" principle, Hong Kong enjoys the strong support of China, our country, while maintaining unparalleled connectivity with the world. We treasure our long tradition of the rule of law, and our common law legal system is shared by many global financial hubs. Capital, goods, talent and information flow freely in Hong Kong. Our tax system is simple and invitingly low. 
+
+  A city of just over 1 100 square kilometres in land area, Hong Kong is the world's seventh-largest merchandise trading entity. We are also the world's third-largest foreign direct investment destination. Hong Kong is a founding member of the World Trade Organisation, and has signed free trade agreements with 21 economies and investment agreements with 33 economies.
+
+  These are not just numbers or trophies. They reflect the trust, and confidence, the global business community places in Hong Kong. It's a hard-earned accomplishment built on decades of integrity, the respect for the rule of law, and an unwavering commitment to free trade and multilateralism.
+
+  If the events of the first three months of 2026 are any lesson to learn, it is that no economy can thrive in isolation. Stability requires a regional framework that is open and inclusive for everyone. At this important platform for dialogue, I would like to share with you the three directions Hong Kong is pursuing to promote growth opportunities for all.
+
+  First, we will continue to expand our global trade network. At a time when some are drawing battle lines, Hong Kong is drawing trade routes. We choose connection over confrontation, and we value co-operation over conflict. Hong Kong actively seeks to co-operate with trading partners, including economies with strong trade relations with Hong Kong, as well as emerging markets with development potential or at strategic locations.
+
+  We have recently concluded investment agreement negotiations with Qatar, Bangladesh and Peru. And we are exploring the signing of new investment agreements with Saudi Arabia and Egypt.
+
+  Forging more free trade agreements is also a priority. We are committed to joining the Regional Comprehensive Economic Partnership, the world's largest free trade agreement. We maintain close communication with the Partnership's member economies, and will continue to rally their support for Hong Kong's early accession. We look forward to contributing to the Partnership, to working with member economies in promoting regional economic integration.
+
+  Second, we will leverage our network to connect investors with opportunities. Hong Kong has 16 offices and liaison units on the Mainland, and 15 overseas Economic and Trade Offices. Together with the offices of Invest Hong Kong and the Hong Kong Trade Development Council, we have a presence in 68 cities and cover 129 countries.
+
+  The HKSAR Government has set up a GoGlobal Task Force (Task Force on Supporting Mainland Enterprises in Going Global) by drawing these offices and other stakeholders together, to support the overseas expansion of Mainland enterprises. Last week, we launched a cross-sector professional services platform, under the GoGlobal initiative, to connect the expansion needs of Mainland Chinese enterprises, the demand of global buyers and investors, and Hong Kong's world-class professional services. We offer a rich pool of multilingual talent, and a premier platform for financing and asset management.
+
+  Meanwhile, our Economic and Trade Express, set up last year, is also strengthening the co-ordination among Hong Kong's global network of offices. It supports small and medium enterprises and start-ups, organising overseas business missions and providing companies with one-stop services like business matching, to help Hong Kong enterprises in exploring foreign markets.
+
+  Third, we will promote regional economic development and prosperity. China, our country, is the host economy of APEC, the Asia-Pacific Economic Cooperation, in 2026. Under the theme of ""Building an Asia-Pacific Community to Prosper Together"", this year's APEC meetings will be held in cities across the country. We are honoured that the APEC Finance Ministers' Meeting will be held in Hong Kong this October.
+
+  Hong Kong has been a member of APEC since 1991. We participate in different aspects of APEC's work, promoting regional macroeconomic co-operation and the real economy.
+
+  The APEC Finance Ministers' Meeting will bring together finance ministers from across the region to exchange views on the regional and global economic outlook, and promote sustainable development, financial stability and greater economic co-operation.
+
+  The HKSAR Government, let me add, will spare no effort in making comprehensive preparations to support our country's successful hosting of APEC 2026. That includes taking full advantage of Hong Kong's strengths as an international financial centre, and organising the meeting to deepen international exchanges and co-operation. In turn, we will help promote harmony and the region's sustainable development, playing our part in maintaining multilateral exchanges.
+
+  Ladies and gentlemen, with the world in a heightened period of turbulence, Hong Kong is committed to navigating uncertainties with openness, not in isolation. I am confident that the Free Trade Port of Hainan and Hong Kong will complement each other in building a powerful engine for free trade. Hong Kong endeavours to work with Hainan, as well as our friends from the Mainland and around the world that value free trade, to build a prosperous global community with a shared future for humanity.
+
+  Let's join hands in shaping this shared future of prosperity, and embrace its new dynamics, new opportunities and new co-operation. On that note, I wish the Boao Forum for Asia every success in the next 25 years and beyond, and all of you a fruitful and healthy year. Thank you."
 Speech by CE at Global Free Trade Ports Development Forum of Boao Forum for Asia Annual Conference 2026 in Hainan (English only) (with photo),2026-03-24 15:50,2026-03-24 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400448.htm,"  Following is the speech by the Chief Executive, Mr John Lee, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia Annual Conference 2026 in Hainan today (March 24):
 
 Honourable Vice Chairman Mu Hong (Vice Chairman of the National Committee of the Chinese People's Political Consultative Conference and Vice Chairman of the Boao Forum for Asia), honourable Secretary Feng Fei (Secretary of the CPC Hainan Provincial Committee), honourable Governor Liu Xiaoming (Governor of Hainan), distinguished guests, ladies and gentlemen,
@@ -3009,55 +3120,6 @@ Honourable Vice Chairman Mu Hong (Vice Chairman of the National Committee of the
 
   Let's join hands in shaping this shared future of prosperity, and embrace its new dynamics, new opportunities and new co-operation. On that note, I wish the Boao Forum for Asia every success in the next 25 years and beyond, and all of you a fruitful and healthy year. Thank you."
 Speech by CE at Global Free Trade Ports Development Forum of Boao Forum for Asia Annual Conference 2026 in Hainan (English only) (with photo/video),2026-03-24 15:50,2026-03-24 18:30,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400448.htm,"  Following is the speech by the Chief Executive, Mr John Lee, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia Annual Conference 2026 in Hainan today (March 24):
-
-Honourable Vice Chairman Mu Hong (Vice Chairman of the National Committee of the Chinese People's Political Consultative Conference and Vice Chairman of the Boao Forum for Asia), honourable Secretary Feng Fei (Secretary of the CPC Hainan Provincial Committee), honourable Governor Liu Xiaoming (Governor of Hainan), distinguished guests, ladies and gentlemen,
-
-  Good afternoon. I would like to address this forum in English to reflect Hong Kong's status as an international city under ""one country, two systems"". And bilingualism is a part of everyday life in Hong Kong. It is my great pleasure to join you today, in Hainan, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia.
-
-  This year marks the 25th anniversary of the Boao Forum for Asia. Over the past quarter of a century, the Forum has become a premier platform for dialogue on economic co-operation, bringing together leaders, policymakers and business pioneers from across the region. Together, we foster mutual understanding and advance regional co-operation. The Boao Forum has made significant contributions to Asia's remarkable rise on the global stage. I extend my warmest congratulations to the Boao Forum for Asia on this milestone occasion.
-
-  This year also marks a new chapter for China, our country. Two weeks ago, the fourth session of the 14th National People's Congress approved the Outline of the 15th Five-Year Plan for National Economic and Social Development of the People's Republic of China. The 15th Five-Year Plan sets out the indicators for the main objectives, major strategic tasks, and major projects for the country's development for the next five years.
-
-  The high-standard development of the Hainan Free Trade Port is a highlight of the Plan. The Port began its island-wide special customs operations four months ago. The Plan supports the continuous enhancement of liberalisation in trade, investment and the flow of production factors in the free trade port.
-
-  I congratulate Hainan on her remarkable progress in the development of the free trade port policy, which is now firmly in place. It allows for more open and free entry of overseas goods, expands zero-tariff coverage, and includes a host of business-friendly measures. Hainan is fast rising as a popular destination for global business and innovative industries. I have every confidence that this scenic island will soon become a powerful showcase for our country's dedication to free trade and high-quality opening up.
-
-  At a time of mounting geopolitical tensions and rampant protectionism, China's unwavering commitment to an open, and inclusive, economic order and multilateral trade gives this volatile world the reassurance it needs. And we are not alone in this. Much like the theme of this year's Boao Forum for Asia, ""Shaping a Shared Future: New Dynamics, New Opportunities, New Cooperation"", economies in the region are working together to ensure we remain a driver of global growth and an anchor of stability.
-
-  Ladies and gentlemen, Hong Kong is no stranger to free trade and co-operation. For more than a century, Hong Kong has been a free port and a champion of free and unfettered trade. Hong Kong is the world's No.1 in economic freedom, topping the ranking in ""freedom to trade internationally"". The International Institute for Management Development ranked Hong Kong among the world's top three most competitive economies. Our ""business legislation"" and ""tax policy"" ranked No. 1, globally.
-
-  Under the unique ""one country, two systems"" principle, Hong Kong enjoys the strong support of China, our country, while maintaining unparalleled connectivity with the world. We treasure our long tradition of the rule of law, and our common law legal system is shared by many global financial hubs. Capital, goods, talent and information flow freely in Hong Kong. Our tax system is simple and invitingly low. 
-
-  A city of just over 1 100 square kilometres in land area, Hong Kong is the world's seventh-largest merchandise trading entity. We are also the world's third-largest foreign direct investment destination. Hong Kong is a founding member of the World Trade Organisation, and has signed free trade agreements with 21 economies and investment agreements with 33 economies.
-
-  These are not just numbers or trophies. They reflect the trust, and confidence, the global business community places in Hong Kong. It's a hard-earned accomplishment built on decades of integrity, the respect for the rule of law, and an unwavering commitment to free trade and multilateralism.
-
-  If the events of the first three months of 2026 are any lesson to learn, it is that no economy can thrive in isolation. Stability requires a regional framework that is open and inclusive for everyone. At this important platform for dialogue, I would like to share with you the three directions Hong Kong is pursuing to promote growth opportunities for all.
-
-  First, we will continue to expand our global trade network. At a time when some are drawing battle lines, Hong Kong is drawing trade routes. We choose connection over confrontation, and we value co-operation over conflict. Hong Kong actively seeks to co-operate with trading partners, including economies with strong trade relations with Hong Kong, as well as emerging markets with development potential or at strategic locations.
-
-  We have recently concluded investment agreement negotiations with Qatar, Bangladesh and Peru. And we are exploring the signing of new investment agreements with Saudi Arabia and Egypt.
-
-  Forging more free trade agreements is also a priority. We are committed to joining the Regional Comprehensive Economic Partnership, the world's largest free trade agreement. We maintain close communication with the Partnership's member economies, and will continue to rally their support for Hong Kong's early accession. We look forward to contributing to the Partnership, to working with member economies in promoting regional economic integration.
-
-  Second, we will leverage our network to connect investors with opportunities. Hong Kong has 16 offices and liaison units on the Mainland, and 15 overseas Economic and Trade Offices. Together with the offices of Invest Hong Kong and the Hong Kong Trade Development Council, we have a presence in 68 cities and cover 129 countries.
-
-  The HKSAR Government has set up a GoGlobal Task Force (Task Force on Supporting Mainland Enterprises in Going Global) by drawing these offices and other stakeholders together, to support the overseas expansion of Mainland enterprises. Last week, we launched a cross-sector professional services platform, under the GoGlobal initiative, to connect the expansion needs of Mainland Chinese enterprises, the demand of global buyers and investors, and Hong Kong's world-class professional services. We offer a rich pool of multilingual talent, and a premier platform for financing and asset management.
-
-  Meanwhile, our Economic and Trade Express, set up last year, is also strengthening the co-ordination among Hong Kong's global network of offices. It supports small and medium enterprises and start-ups, organising overseas business missions and providing companies with one-stop services like business matching, to help Hong Kong enterprises in exploring foreign markets.
-
-  Third, we will promote regional economic development and prosperity. China, our country, is the host economy of APEC, the Asia-Pacific Economic Cooperation, in 2026. Under the theme of ""Building an Asia-Pacific Community to Prosper Together"", this year's APEC meetings will be held in cities across the country. We are honoured that the APEC Finance Ministers' Meeting will be held in Hong Kong this October.
-
-  Hong Kong has been a member of APEC since 1991. We participate in different aspects of APEC's work, promoting regional macroeconomic co-operation and the real economy.
-
-  The APEC Finance Ministers' Meeting will bring together finance ministers from across the region to exchange views on the regional and global economic outlook, and promote sustainable development, financial stability and greater economic co-operation.
-
-  The HKSAR Government, let me add, will spare no effort in making comprehensive preparations to support our country's successful hosting of APEC 2026. That includes taking full advantage of Hong Kong's strengths as an international financial centre, and organising the meeting to deepen international exchanges and co-operation. In turn, we will help promote harmony and the region's sustainable development, playing our part in maintaining multilateral exchanges.
-
-  Ladies and gentlemen, with the world in a heightened period of turbulence, Hong Kong is committed to navigating uncertainties with openness, not in isolation. I am confident that the Free Trade Port of Hainan and Hong Kong will complement each other in building a powerful engine for free trade. Hong Kong endeavours to work with Hainan, as well as our friends from the Mainland and around the world that value free trade, to build a prosperous global community with a shared future for humanity.
-
-  Let's join hands in shaping this shared future of prosperity, and embrace its new dynamics, new opportunities and new co-operation. On that note, I wish the Boao Forum for Asia every success in the next 25 years and beyond, and all of you a fruitful and healthy year. Thank you."
-Speech by CE at Global Free Trade Ports Development Forum of Boao Forum for Asia Annual Conference 2026 in Hainan (English only),2026-03-24 15:50,2026-03-24 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400448.htm,"  Following is the speech by the Chief Executive, Mr John Lee, at the Global Free Trade Ports Development Forum of the Boao Forum for Asia Annual Conference 2026 in Hainan today (March 24):
 
 Honourable Vice Chairman Mu Hong (Vice Chairman of the National Committee of the Chinese People's Political Consultative Conference and Vice Chairman of the Boao Forum for Asia), honourable Secretary Feng Fei (Secretary of the CPC Hainan Provincial Committee), honourable Governor Liu Xiaoming (Governor of Hainan), distinguished guests, ladies and gentlemen,
 
@@ -3557,37 +3619,3 @@ Inspection of aquatic products imported from Japan,2026-03-24 15:40,2026-03-24 1
   The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
 
   From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 214 829 samples of food imported from Japan (including 136 249 samples of aquatic and related products, seaweeds and sea salt) and 46 780 samples of local catch respectively. All the samples passed the tests."
-CEDD signs MOU with South China Botanical Garden of Chinese Academy of Sciences (with photos),2026-03-24 14:40,2026-03-24 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400342.htm,"The Civil Engineering and Development Department (CEDD) and the South China Botanical Garden (SCBG), Chinese Academy of Sciences (CAS) signed a two-year Memorandum of Understanding (MOU) today (March 24) to enhance exchange and collaboration in promoting sustainable urban development, with a view to jointly creating a high-quality ecological environment for cities in the Guangdong-Hong Kong-Macao Greater Bay Area.
-
- The MOU was signed by the Director of Civil Engineering and Development, Mr Michael Fong, and the Director of the SCBG, Mr Yan Junhua. Both parties will jointly explore key technologies related to plant resource applications, exchange technologies and share resources.
-
- At the signing ceremony, Mr Fong said that the CEDD is committed to building Hong Kong into a liveable and sustainable world-class city, and to achieving the coexistence of conservation and development by integrating ecological principles into engineering planning. The MOU is conducive to developing strategies for Nature-based Solutions and advancing green infrastructure.
-
- Mr Yan said that the SCBG will work hand in hand with the CEDD to advance scientific research in areas such as key technologies in the application of plant resources, thereby providing scientific and technological support for green development.
- ​
- The SCBG is a scientific research institution directly affiliated with the CAS, which is the country's highest academic institution for natural sciences. Under its leadership, the SCBG received approval from the State Council in 2022 to establish the South China National Botanical Garden, shouldering the mission of plant diversity conservation and scientific research in the nation.
-"
-土木工程拓展署與中國科學院華南植物園簽署合作意向備忘錄（附圖）,2026-03-24 14:40,2026-03-24 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032400336.htm,"土木工程拓展署與中國科學院華南植物園（華南植物園）今日（三月二十四日）簽署為期兩年的合作意向備忘錄，加強雙方在推動可持續城市發展方面的交流和合作，共同為粵港澳大灣區城市打造優質生態環境。
-
-備忘錄由土木工程拓展署署長方學誠與華南植物園主任閆俊華簽署。雙方將共同探討植物資源應用的關鍵技術、交流技術和共享資源。
-
-方學誠在簽署儀式上表示，土木工程拓展署致力將香港建設為宜居且可持續的世界級城市，透過將生態理念融入工程規劃，實踐保育與發展並存。今次簽署的備忘錄有助署方發展基於自然的解決方案策略，推動綠色基建。
-
-閆俊華表示，華南植物園會與土木工程拓展署攜手合作，在植物資源應用的關鍵技術等方面推動科學研究，為綠色發展提供科技支撐。
-
-華南植物園為直屬中國科學院的科研機構。中國科學院是國家自然科學最高學術機構，在其領導下，華南植物園於二○二二年獲國務院批覆設立華南國家植物園，肩負國家植物多樣性保護與科研使命。
-"
-政府統計處總部搬遷,2026-03-24 14:30,2026-03-24 14:45,Chi,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032300328.htm,"政府統計處（統計處）今日（三月二十四日）公布其總部將由三月三十日（星期一）起搬遷至將軍澳唐賢街30號將軍澳政府合署南座9樓至16樓。
-
-總部辦事處的辦公時間維持不變，為星期一至星期五上午八時四十五分至下午六時正（公眾假期除外）。
-
-為配合搬遷，現時位於灣仔港灣道12號灣仔政府大樓16樓至22樓及25樓的總部辦事處將於三月二十七日（星期五）辦公時間結束後關閉。
-
-如有查詢，請致電3863 2828、傳真至2802 4000、或電郵至gen-enquiry@censtatd.gov.hk與統計處聯絡。"
-Relocation of headquarters of Census and Statistics Department,2026-03-24 14:30,2026-03-24 14:45,Eng,gia,https://www.info.gov.hk/gia/general/202603/24/P2026032300329.htm,"The Census and Statistics Department (C&SD) announced today (March 24) the relocation of its headquarters to 9/F - 16/F, South Tower, Tseung Kwan O Government Offices, 30 Tong Yin Street, Tseung Kwan O, starting from March 30 (Monday).
-
-Service hours at the headquarters office will remain unchanged, from 8.45 am to 6 pm from Monday to Friday (except public holidays).
-
-To facilitate the relocation, the current headquarters office at 16/F - 22/F and 25/F, Wanchai Tower, 12 Harbour Road, Wan Chai, will be closed after service hours on March 27 (Friday).
-
-For enquiries, please contact the C&SD by phone at 3863 2828, by fax at 2802 4000, or by email via gen-enquiry@censtatd.gov.hk."
