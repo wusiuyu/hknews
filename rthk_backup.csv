@@ -1,4 +1,35 @@
 title,date,summary,scrape_time,section,source,url,news_content
+HK stocks up amid swelling data and earnings hopes,2026-04-16 10:48,,2026-04-16 11:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1851292-20260416.htm,"Stocks pushed higher in early Asia trading on Thursday as optimism grew about a deal to end the Iran war with the United States ratcheting up pressure on Tehran, while traders ⁠prepared for a raft of economic data and critical earnings reports.
+
+In Hong Kong, the benchmark Hang Seng Index opened 175 points, or 0.68 percent, up at 26,122. 
+
+The China enterprises index was up 61 points, or 0.7 percent, at 8,779 while the tech index was up 64 points, or 1.3 percent, at 4,976.
+
+On the mainland, the benchmark Shanghai Composite Index was little changed at 4,030, an uptick of three points, or 0.07 percent.
+
+The Shenzhen Component Index was almost 48 points, or 0.33 percent, up at 14,546 while the ChiNext Index, tracking China's Nasdaq-style board of growth enterprises, was up 0.46 percent at 3,531.
+
+In Tokyo, the Nikkei Stock Average opened up 345 points, or 0.59 percent, at 58,479. The gains accelerated to 1,267 points, or 2.18 percent, at one point before noon.
+
+In Seoul, the Korea Composite Stock Price Index (Kospi) opened up 58 points, or 0.95 percent, at 6,149, with the rally widening to 2.25 percent later.
+
+MSCI's broadest index of Asia-Pacific shares outside Japan was up 0.3 percent, putting the benchmark on track for a third consecutive day of gains.
+
+Overnight, the S&P 500 was up 0.8 percent and the Nasdaq Composite gained 1.6 percent, ⁠as strong quarterly earnings from Bank of America and ⁠Morgan Stanley lifted the ⁠indexes to record highs. 
+
+With around 6 percent of companies reporting earnings for the quarter, 84 percent have beaten analysts' expectations.
+
+""We ⁠remain constructive overall"" on ‌emerging market stocks as ""underlying profit growth is likely to be strong,"" analysts from Goldman Sachs wrote ‌in a research report.
+
+Earnings in the region will be ""driven by AI-related demand, which ⁠should be relatively insulated from the direct impacts of the oil shock.""
+
+Economic data due for release include Australian jobs numbers and Chinese GDP. 
+
+Taiwan Semiconductor Manufacturing Co (TSMC), ‌a linchpin of the AI sector, is set to post quarterly earnings, with a 50 percent surge in net profit expected as demand for its advanced chips soars. (Reuters & Xinhua)
+
+
+
+Edited by Raymond Yeung"
 內地首季固定資產投資按年轉升1.7%　工業及零售增幅加快,2026-04-16 10:35,,2026-04-16 10:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851296-20260416.htm,"內地公布首季多項經濟指標，其中固定資產投資回復增長，工業和零售按年增長都較前一季度加快，但3月零售升幅低過預期，工業增幅好過預期。
 
 國家統計局公布，內地首季固定資產投資按年增長1.7%，扭轉去年全年下跌3.8%的走勢，略低過市場預期的1.9%。扣除房地產開發投資，全國固定資產投資增長4.8%。
@@ -190,13 +221,11 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 
 編輯：張詩民"
-油價靠穩　上周美國原油淨進口量創新低,2026-04-16 06:39,,2026-04-16 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851267-20260416.htm,"國際油價靠穩，市場正權衡美國庫存減少和美伊談判前景。
+美元變動不大,2026-04-16 06:39,,2026-04-16 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851269-20260416.htm,"美元變動不大，市場評估美伊局勢和美國經濟前景。在紐約尾市，美元指數於98附近。
 
-倫敦布蘭特期油收市報每桶94.93美元，升14美仙，升幅0.1%。
+歐元和英鎊兌美元都變動不大，較早時歐元兌美元報1.1797美元，英鎊兌美元報1.3562美元。
 
-紐約期油報每桶91.29美元，升1美仙。
-
-美國能源信息署（EIA）表示，上星期美國原油庫存減少逾91萬桶，市場原先預計增加逾15萬桶。期內，美國原油淨進口量跌至每日只有6.6萬桶，創歷史新低，受霍爾木茲海峽關閉拖累。
+美元兌日圓微升0.1%，報158.96日圓。
 
 
 
@@ -210,11 +239,13 @@ title,date,summary,scrape_time,section,source,url,news_content
 
 
 編輯：張詩民"
-美元變動不大,2026-04-16 06:39,,2026-04-16 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851269-20260416.htm,"美元變動不大，市場評估美伊局勢和美國經濟前景。在紐約尾市，美元指數於98附近。
+油價靠穩　上周美國原油淨進口量創新低,2026-04-16 06:39,,2026-04-16 06:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851267-20260416.htm,"國際油價靠穩，市場正權衡美國庫存減少和美伊談判前景。
 
-歐元和英鎊兌美元都變動不大，較早時歐元兌美元報1.1797美元，英鎊兌美元報1.3562美元。
+倫敦布蘭特期油收市報每桶94.93美元，升14美仙，升幅0.1%。
 
-美元兌日圓微升0.1%，報158.96日圓。
+紐約期油報每桶91.29美元，升1美仙。
+
+美國能源信息署（EIA）表示，上星期美國原油庫存減少逾91萬桶，市場原先預計增加逾15萬桶。期內，美國原油淨進口量跌至每日只有6.6萬桶，創歷史新低，受霍爾木茲海峽關閉拖累。
 
 
 
@@ -755,6 +786,16 @@ Edited by Tony Sabine"
 
 
 編輯：譚佩貞"
+陳茂波：國際形勢複雜多變　須以發展促安全、以安全保發展,2026-04-15 17:34,,2026-04-15 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851210-20260415.htm,"中央港澳辦主任、國務院港澳辦主任夏寶龍在「全民國家安全教育日」開幕典禮暨主題講座上發表主旨講話。財政司司長陳茂波表示，夏寶龍提到國家主席習近平就「十五五」時期須更加注重統籌發展與安全、以新安全格局保障新發展格局的重要論述，以及特區政府要主動對接「十五五」規劃、扎實推動經濟高質量發展、更好融入和服務國家發展大局的明確要求。這些都為香港的未來發展、為「一國兩制」的行穩致遠提供根本遵循。
+
+陳茂波說，在當前百年變局加速演進，國際形勢複雜多變的環境下，須更好立足全局、著眼未來，以發展促安全、以安全保發展，做到以新安全格局保障新發展格局 ，把握國家發展帶來的新機遇，為香港發展打開新篇章。
+
+陳茂波又說，要守好安全也不能只是被動防守，更在於主動作為，加快發展。國家正加快構建新發展格局，推動高水平對外開放和高質量發展，香港作為國家最國際化的城市之一，完全可以在金融、貿易、航運、創科、專業服務和國際聯繫等方面發揮更大作用。
+
+他說，在行政長官領導下，特區政府正全力全速制定香港首份的五年規劃，把香港自身發展更好融入和服務國家發展大局，其中鞏固提升國際金融中心的地位與功能、全力加快推動北部都會區建設、發展創新科技產業、匯聚海內外高端人才，助力內地企業出海佈局全球等重要任務，既進一步提升和豐富優勢產業的內涵，也為香港積極開創新興和未來產業，讓香港在融入和服務國家發展大局中，為自身取得更廣闊高質量的發展。
+
+
+編輯：譚佩貞"
 陳茂波：國際形勢複雜多變　須以發展促安全並以安全保發展,2026-04-15 17:34,,2026-04-15 18:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851210-20260415.htm,"中央港澳辦主任、國務院港澳辦主任夏寶龍在「全民國家安全教育日」開幕典禮暨主題講座上發表主旨講話。財政司司長陳茂波表示，夏寶龍提到國家主席習近平就「十五五」時期須更加注重統籌發展與安全、以新安全格局保障新發展格局的重要論述，以及特區政府要主動對接「十五五」規劃、扎實推動經濟高質量發展、更好融入和服務國家發展大局的明確要求。這些都為香港的未來發展、為「一國兩制」的行穩致遠提供根本遵循。
 
 陳茂波說，在當前百年變局加速演進，國際形勢複雜多變的環境下，須更好立足全局、著眼未來，以發展促安全、以安全保發展，做到以新安全格局保障新發展格局 ，把握國家發展帶來的新機遇，為香港發展打開新篇章。
@@ -763,16 +804,6 @@ Edited by Tony Sabine"
 
 他說，在行政長官領導下，特區政府正全力全速制定香港首份五年規劃，把香港自身發展更好融入和服務國家發展大局，其中鞏固提升國際金融中心的地位與功能、全力加快推動北部都會區建設、發展創新科技產業、匯聚海內外高端人才，助力內地企業出海佈局全球等重要任務，既進一步提升和豐富優勢產業的內涵，也為香港積極開創新興和未來產業，讓香港在融入和服務國家發展大局中，為自身取得更廣闊高質量的發展。
 
-
-
-編輯：譚佩貞"
-陳茂波：國際形勢複雜多變　須以發展促安全、以安全保發展,2026-04-15 17:34,,2026-04-15 17:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851210-20260415.htm,"中央港澳辦主任、國務院港澳辦主任夏寶龍在「全民國家安全教育日」開幕典禮暨主題講座上發表主旨講話。財政司司長陳茂波表示，夏寶龍提到國家主席習近平就「十五五」時期須更加注重統籌發展與安全、以新安全格局保障新發展格局的重要論述，以及特區政府要主動對接「十五五」規劃、扎實推動經濟高質量發展、更好融入和服務國家發展大局的明確要求。這些都為香港的未來發展、為「一國兩制」的行穩致遠提供根本遵循。
-
-陳茂波說，在當前百年變局加速演進，國際形勢複雜多變的環境下，須更好立足全局、著眼未來，以發展促安全、以安全保發展，做到以新安全格局保障新發展格局 ，把握國家發展帶來的新機遇，為香港發展打開新篇章。
-
-陳茂波又說，要守好安全也不能只是被動防守，更在於主動作為，加快發展。國家正加快構建新發展格局，推動高水平對外開放和高質量發展，香港作為國家最國際化的城市之一，完全可以在金融、貿易、航運、創科、專業服務和國際聯繫等方面發揮更大作用。
-
-他說，在行政長官領導下，特區政府正全力全速制定香港首份的五年規劃，把香港自身發展更好融入和服務國家發展大局，其中鞏固提升國際金融中心的地位與功能、全力加快推動北部都會區建設、發展創新科技產業、匯聚海內外高端人才，助力內地企業出海佈局全球等重要任務，既進一步提升和豐富優勢產業的內涵，也為香港積極開創新興和未來產業，讓香港在融入和服務國家發展大局中，為自身取得更廣闊高質量的發展。
 
 
 編輯：譚佩貞"
@@ -999,7 +1030,7 @@ Edited by Tony Sabine"
 
 
 編輯：譚佩貞"
-關婉儀指港台新媒體工作主要於線上進行　不涉新地方需要,2026-04-15 16:12,,2026-04-15 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851195-20260415.htm,"在立法會財務委員會特別會議上，新界東南議員方國珊詢問，香港電台在工作綱領3的新媒體預算開支增加，涵蓋視像新聞職位和第三方線上平台的宣傳費用等，當中的第三方平台是哪些平台，又關注香港電台增加資源時，會否投放資源予現時的廣播大樓，將軍澳的新廣播大樓又有何發展計劃。
+關婉儀指新媒體工作主要於線上進行　不涉新地方需要,2026-04-15 16:12,,2026-04-15 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851195-20260415.htm,"在立法會財務委員會特別會議上，新界東南議員方國珊詢問，香港電台在工作綱領3的新媒體預算開支增加，涵蓋視像新聞職位和第三方線上平台的宣傳費用等，當中的第三方平台是哪些平台，又關注香港電台增加資源時，會否投放資源予現時的廣播大樓，將軍澳的新廣播大樓又有何發展計劃。
 
 廣播處長關婉儀表示，有意見認為在工作綱領3的新媒體開支，比例較另外兩個關於電台和公共事務及綜合電視節目的綱領為小，港台重新檢視資源分配，將部分以往投放在兩個綱領的開支資源，調撥至綱領3的新媒體，令2026至27年度相關預算開支較上年度有顯著升幅，並非代表增加很多人手和器材。
 
@@ -1008,7 +1039,7 @@ Edited by Tony Sabine"
 
 
 編輯：譚佩貞"
-關婉儀指新媒體工作主要於線上進行　不涉新地方需要,2026-04-15 16:12,,2026-04-15 16:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851195-20260415.htm,"在立法會財務委員會特別會議上，新界東南議員方國珊詢問，香港電台在工作綱領3的新媒體預算開支增加，涵蓋視像新聞職位和第三方線上平台的宣傳費用等，當中的第三方平台是哪些平台，又關注香港電台增加資源時，會否投放資源予現時的廣播大樓，將軍澳的新廣播大樓又有何發展計劃。
+關婉儀指港台新媒體工作主要於線上進行　不涉新地方需要,2026-04-15 16:12,,2026-04-15 17:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851195-20260415.htm,"在立法會財務委員會特別會議上，新界東南議員方國珊詢問，香港電台在工作綱領3的新媒體預算開支增加，涵蓋視像新聞職位和第三方線上平台的宣傳費用等，當中的第三方平台是哪些平台，又關注香港電台增加資源時，會否投放資源予現時的廣播大樓，將軍澳的新廣播大樓又有何發展計劃。
 
 廣播處長關婉儀表示，有意見認為在工作綱領3的新媒體開支，比例較另外兩個關於電台和公共事務及綜合電視節目的綱領為小，港台重新檢視資源分配，將部分以往投放在兩個綱領的開支資源，調撥至綱領3的新媒體，令2026至27年度相關預算開支較上年度有顯著升幅，並非代表增加很多人手和器材。
 
@@ -1485,26 +1516,3 @@ Edited by Thomas McAlinden"
 
 
 編輯：譚佩貞"
-夏寶龍：相信特區政府履行好當家人職責　編制實施好首個五年規劃,2026-04-15 10:58,,2026-04-15 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851151-20260415.htm,"中央港澳辦主任、國務院港澳辦主任夏寶龍表示，以高水平安全護航香港由治及興，需要搶抓百年變局下的戰略機遇，主動對接國家十五五規劃，加快推動香港高質量發展。
-
-夏寶龍以視頻方式出席「全民國家安全教育日」開幕典禮暨主題講座，並發表主旨致辭。他指出，國家十五五規劃擘畫中國未來發展藍圖，也向世界提供一份機遇清單。國家戰略加持與粵港澳大灣區融合提速，為香港提供重大機遇，打開發展的新空間。特區政府主動對接國家十五五規劃，將制定首個五年規劃很有意義，規劃應具有科學性和前瞻性，突出北部都會區這個重點，以教育和科技為引擎，推動產學研協同和教育科技人才一體化發展，注重項目支撐，積極培育發展新平台新動能，要著力鞏固提升傳統優勢。 
-
-夏寶龍又說，要以高水平安全護航香港由治及興，需要全社會共同努力和守護，匯聚共建美好香港的磅礡力量。相信特區政府一定會切實履行好當家人和第一責任人的職責，更好統籌發展第一要務和安全頭等大事，集眾人之智，編制實施好首個五年規劃，將高效市場和有為政府更好地結合起來，切實解決改革發展中的矛盾和問題，以更有力的舉措推動香港由治及興。他相信立法司法機關一定會自覺尊重和維護行政主導，與行政機關各司其職，各負其責，協作配合。
-
-他希望各大高校主動對接國家戰略，聚焦前沿科技研發，引進和培養國家和香港急需的各類人才，打造國際高端人才聚集高地；希望工商界和企業家當好推動香港經濟發展的主力軍，積極做好香港五年規劃的支持者、實踐者，在大力投資創新科技，推動北部都會區建設等方面走在前面，勇擔社會責任，主動將自身發展融入美好香港建設，融入國家發展大局，以實際行動全是愛國愛港；希望廣大青年把握十五五時期國家和香港發展的重大機遇等。
-
-
-編輯：譚佩貞"
-智慧交通基金資助研發貨櫃車智能駕駛訓練系統　提升司機駕駛技術,2026-04-15 10:54,,2026-04-15 11:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851150-20260415.htm,"運輸署表示，智慧交通基金資助大學研發貨櫃車智能駕駛訓練系統，利用延展實境技術及動態模擬平台，為貨櫃車司機提供虛擬真實場景的訓練，促進個人化培訓以提升駕駛技術。
-
-運輸署在社交網頁表示，這個系統採用延展實境（XR）技術，結合人工智能及六自由度動態模擬平台，提供沉浸式的駕駛環境，真實還原狹窄道路、盲點風險及車輛突發切線等情況。系統可即時捕捉油門、轉向及駕駛者動態，透過 AI進行數據分析和客觀評分，為受訓司機提供個人化改進建議。司機可在安全可控的環境中反覆模擬訓練高風險場景，提升判斷與應變能力。
-
-發言人又說，貨櫃車體積大，視野盲點相對較多，司機一旦判斷失誤或缺乏應變，對道路使用者的影響尤大，真實的駕駛體驗對訓練職業司機事半功倍。
-
-
-編輯：譚佩貞"
-日股半日升約0.5%,2026-04-15 10:46,,2026-04-15 11:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1851149-20260415.htm,"日本股市半日升幅收窄，日經平均指數高見58585點，上午收市報58162點，升285點，升幅0.49%。
-
-
-
-編輯：宋家樑"
