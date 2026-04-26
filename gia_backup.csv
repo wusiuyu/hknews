@@ -1,9 +1,4 @@
 title,date,scrape_time,section,source,url,news_content
-Yellow fire danger warning,2026-04-26 06:02,2026-04-26 06:15,Eng,gia,https://www.info.gov.hk/gia/general/202604/26/P2026042600127.htm,"Attention duty announcers, radio and TV stations:
-
-Yellow fire danger warning
-
-The fire danger situation today (April 26) is yellow and the risk of fire is high. People are urged to prevent fires breaking out and hikers should also be vigilant."
 黃色火災危險警告,2026-04-26 06:02,2026-04-26 06:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/26/P2026042600128.htm,"電台、電視台當值宣布員注意：
 
 為大眾安全起見，請播放下列警告：
@@ -11,6 +6,11 @@ The fire danger situation today (April 26) is yellow and the risk of fire is hig
 火災危險警告
 
 天文台今日（四月二十六日）已發出黃色火災危險警告，表示火警容易發生，市民應小心防火，郊遊人士亦應小心防止山火。"
+Yellow fire danger warning,2026-04-26 06:02,2026-04-26 06:15,Eng,gia,https://www.info.gov.hk/gia/general/202604/26/P2026042600127.htm,"Attention duty announcers, radio and TV stations:
+
+Yellow fire danger warning
+
+The fire danger situation today (April 26) is yellow and the risk of fire is high. People are urged to prevent fires breaking out and hikers should also be vigilant."
 ​懲教人員制止還押在囚人士打鬥,2026-04-25 21:00,2026-04-25 21:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500716.htm,"東頭懲教所懲教人員今日（四月二十五日）制止還押在囚人士打鬥。
 
 今日下午十二時五十八分，九名年齡介乎二十四歲至四十六歲男性還押在囚人士在飯堂內打鬥。懲教人員見狀立即上前制止及召喚支援人員到場。
@@ -109,16 +109,16 @@ At the ceremony, the Commissioner of Police, Mr Chow Yat-ming, stated that promo
 The scheme aims to enable youths to acquire AI knowledge, broaden their horizons, and explore innovative thinking through AI courses and competitions. It attracted over 500 JPC members from Primary Four to Secondary Six. The scheme comprised three stages: face-to-face courses, online courses, and a hackathon. More than 90 JPC members who completed the first two stages formed 27 teams to participate in the hackathon today. The competing teams were required to apply the AI skills learned in previous courses to design four-panel comics and games, showcasing their creativity. A total of 10 awards were presented at the ceremony, including the awards for outstanding performance teams and the Best Team Spirit Award selected by the judging panel, as well as the Most Popular Award voted for by the guests in attendance.
 
 Officiating guests at the ceremony also included the Deputy Commissioner of Police (Operations), Mr Yip Wan-lung; the Director of Operations, Mr Lui Kam-ho; and the Assistant Commissioner of Police (Public Relations), Mr Chan Sze-tat."
-尋回馬鞍山失蹤女子,2026-04-25 17:04,2026-04-25 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500506.htm,"一名在馬鞍山失蹤的女子已被尋回。
-
-三十七歲女子吳穎衡四月二十一日下午在恆錦街一商場最後露面後便告失蹤，其家人遂向警方報案。
-
-該名女子今日（四月二十五日）下午在旺角砵蘭街被尋回。她沒有受傷，案件沒有可疑。"
 Missing woman in Ma On Shan located,2026-04-25 17:04,2026-04-25 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500505.htm,"  A woman who went missing in Ma On Shan has been located.
 
   Ng Wing-hang, aged 37, went missing after she was last seen in a shopping mall on Hang Kam Street on April 21 afternoon. Her family then made a report to Police.
 
   The woman was located on Portland Street, Mong Kok this afternoon (April 25). She sustained no injuries and no suspicious circumstances were detected."
+尋回馬鞍山失蹤女子,2026-04-25 17:04,2026-04-25 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500506.htm,"一名在馬鞍山失蹤的女子已被尋回。
+
+三十七歲女子吳穎衡四月二十一日下午在恆錦街一商場最後露面後便告失蹤，其家人遂向警方報案。
+
+該名女子今日（四月二十五日）下午在旺角砵蘭街被尋回。她沒有受傷，案件沒有可疑。"
 勞工及福利局局長出席新城廣播全方位新領袖論壇暨嘉許禮致辭（只有中文）,2026-04-25 16:35,2026-04-25 16:45,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500482.htm,"​以下是勞工及福利局局長孫玉菡今日（四月二十五日）下午出席新城廣播全方位新領袖論壇暨嘉許禮的致辭全文：
 
 Alice（新城廣播有限公司署理首席營運總監及總編輯郭艷明）、鄺教授（香港都會大學副校長（行政及機構發展）鄺志良教授）、陳海勁總監（香港人才服務辦公室總監陳海勁）、Gary（智慧交通聯盟理事長張欣宇）、阮先生（香港優才及專才協會常務副主席阮健銘）、Jane（團結香港基金總裁李正儀博士）：
@@ -134,6 +134,11 @@ Alice（新城廣播有限公司署理首席營運總監及總編輯郭艷明）
 經過差不多四年的努力，經過各種不同的人才政策，大約28萬人來到香港，有些打算在香港長期奮鬥，當然有些可能來香港數年，然後他們另有打算，這是很合理的。在政府看來，香港和人才的關係是雙向的，既是我們選擇人才，人才亦選擇香港，最終要成功令雙方都能留住對方，雙方都見到對方的好處，我覺得這會令一個城市發光發亮。
 
 我希望今日獲獎的全方位領袖會分享你們的看法。在我看來，輸入的人才其實在不斷演變，因為香港這個城市都在變，我們除了傳統優勢產業會繼續發展，比如金融、貿易、航運、航空等，接下來我們一個很大的發揮領域就是創科。我參考一些數據也看得到，在各項人才政策中，比如以高才通（高端人才通行證計劃）為例，當中大概佔六分之一表示之前從事創科行業。但是大家都知道，香港創科佔GDP（本地生產總值）其實沒有那麼大份額，這表示因為政府政策，現在很多人才看好香港的創科未來，都紛紛匯聚香港，令香港在發展創科方面多一分力氣。所以在這裏我要再一次感謝新城廣播，也感謝各贊助商、團結香港基金，以及今日場地的贊助人，當然也要多謝人才辦（香港人才服務辦公室），因為我負責做政策，而Felix（香港人才服務辦公室總監陳海勁）負責跑在前面，所以大家應該多機會見到他，我就站在後台多一點。但是大家多點互相溝通，因為如果在前台工作的過程中發現有些政策需要微調，通過Felix或大家都可以向我反映，我們是很有彈性的，亦都很願意因應環境的變化去微調人才政策，一切都是為香港好、為國家好。在這裏再一次恭賀大家，亦希望大家有一個愉快的下午。"
+赤柱正灘泳灘懸掛紅旗,2026-04-25 16:10,2026-04-25 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500471.htm,"電台及電視台當值宣布員注意：
+
+請盡快播出下列特別報告：
+
+游泳人士請注意：康樂及文化事務署今日（四月二十五日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 Red flag hoisted at Stanley Main Beach,2026-04-25 16:10,2026-04-25 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500469.htm,"Attention TV/radio announcers:
 
 Please broadcast the following as soon as possible:
@@ -141,11 +146,6 @@ Please broadcast the following as soon as possible:
 Here is an item of interest to swimmers.
 
 The Leisure and Cultural Services Department announced today (April 25) that due to big waves, the red flag has been hoisted at Stanley Main Beachin Southern District, Hong Kong Island. Beachgoers are advised not to swim at the beach."
-赤柱正灘泳灘懸掛紅旗,2026-04-25 16:10,2026-04-25 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500471.htm,"電台及電視台當值宣布員注意：
-
-請盡快播出下列特別報告：
-
-游泳人士請注意：康樂及文化事務署今日（四月二十五日）宣布，由於大浪關係，港島南區的赤柱正灘泳灘已懸掛紅旗，顯示在該處游泳會有危險，市民請勿在該處游泳。"
 特區政府常任秘書長及部門首長研修班啓程返港（附圖）,2026-04-25 15:15,2026-04-25 15:30,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042500333.htm,"​公務員事務局局長楊何蓓茵率領香港特區政府常任秘書長及部門首長研修班今日（四月二十五日）上午在成都的川港青年創新創業社區參觀。
 
 該社區位於一職業學院校園內，其中一個特色是融合產業與教育，連結多所香港大專院校，協助香港青年在四川創業，也為香港青年提供學習和到四川企業實習的機會。
@@ -248,17 +248,6 @@ The beach was closed earlier on after an oil spill."
 各位結業學員，你們是警隊的未來，亦是香港的未來。在你們面前是一條充滿意義的道路。請帶着你們的理想和抱負，踏出堅定的步伐，為維護國家安全、為香港的繁榮穩定，貢獻你們的力量。
 
 最後，我再次衷心祝賀各位順利結業，祝願你們工作順利，前程似錦！多謝大家。"
-自動車測試大致暢順　體現香港推動自動駕駛穩健發展（附圖）,2026-04-25 10:00,2026-04-25 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042400642.htm,"運輸署今日（四月二十五日）表示，本港的自動駕駛車輛（自動車）測試一直大致暢順，顯示香港在推動自動駕駛的穩健發展，與海內外各地水平相若。
-
-運輸署署長謝詠誼視察其中一個於機場島進行的測試項目，並試乘自動私家車，了解項目進度。項目獲署方批准自今年二月下旬起由機場延伸到東涌以至欣澳，以及增加機場島載客測試中同時運行的自動車數目由10輛倍增至20輛，東涌的測試則由三輛增至八輛。機場島測試在車上配置後備操作員以外，首次加入遙距後備操作員在遙距控制中心操作自動車，為有序邁向無人化（即以遙距後備操作員代替車上後備操作員）進行測試。機場島的測試里程至今達約14萬公里。
-
-謝詠誼欣悉各路段的測試表現穩定、安全、暢順，自動車與其他車輛共用道路，亦遵守讓路予行人、按交通燈號指示停車等道路安全規則。
-
-署方至今發出六個自動駕駛先導牌照，涉及共62輛自動車在六個地點進行測試。機場島的測試路線途徑機場、航天城、亞洲國際博覽館、酒店及飛機維修區附近多條道路、交匯處和停車場。新增路段途徑港鐵東涌站、酒店、商場以至經翔東路延至欣澳公共運輸交匯處附近。其餘測試地點為西九文化區、南區數碼港、九龍東啟德發展區一帶、機場航天走廊，以及港珠澳大橋香港口岸「轉機停車場」。
-
-由署長主持的「自動駕駛車輛應用促進工作組」會聯同業界跨部門逐一審視自動車項目的進度；就測試地點、車輛類別，以及為配合自動車邁向商業發展所需的牌證安排提供督導；及研究合適的規管安排，准許自動車以個別試點形式於特定範圍內提供一定程度的商業服務。
-
-謝詠誼說：「我們會加快推動自動駕駛技術，由研發測試階段順利過渡至實際營運，全速引進和帶動業界在不同社區展開自動車測試與應用，讓更多市民接觸及體驗自動駕駛的便利。」"
 Hong Kong steadily promotes autonomous driving following largely smooth trials (with photos),2026-04-25 10:00,2026-04-25 10:15,Eng,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042400645.htm,"The Transport Department (TD) today (April 25) said that the trials of autonomous vehicles (AVs) in Hong Kong have largely been smooth, demonstrating the city's steady progress in promoting autonomous driving, which is on par with developments on the Mainland and overseas.
 
   The Commissioner for Transport, Miss Winnie Tse, observed one of the trials on Airport Island and took a ride in an autonomous private car to learn more about its progress. Upon approval by the TD, since late February 2026, the trial has extended from Airport Island to Tung Chung and Sunny Bay, and has increased the number of AVs operating simultaneously from 10 to 20 for the passenger-carrying trial on Airport Island, and from three to eight for the Tung Chung trial. During the Airport Island trial, apart from onboard backup operators, remote backup operators have been introduced for the first time, operating the AVs from the remote control centre, with a view to testing the orderly transition to driverless operations, i.e. replacing in-vehicle backup operators with remote backup operators. The Airport Island trial's cumulative mileage has reached about 140 000 kilometres.
@@ -270,3 +259,14 @@ Hong Kong steadily promotes autonomous driving following largely smooth trials (
   Chaired by the Commissioner, the Autonomous Vehicle Applications Promotion Working Group will, in collaboration with relevant departments and the industry, review the progress of each AV project; provide steer on the trial locations, vehicle types and licensing arrangements required to support the commercial development of AVs; and explore appropriate regulatory arrangements to allow AVs to provide a certain degree of commercial services in specific areas on an individual pilot basis.
 
   Miss Tse said, ""We will accelerate the smooth transition of autonomous driving technology from the research and development testing phase to actual operation, and introduce and drive the industry to commence trials and applications in the community at full speed, so that more members of the public may access and experience the convenience of autonomous driving."""
+自動車測試大致暢順　體現香港推動自動駕駛穩健發展（附圖）,2026-04-25 10:00,2026-04-25 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202604/25/P2026042400642.htm,"運輸署今日（四月二十五日）表示，本港的自動駕駛車輛（自動車）測試一直大致暢順，顯示香港在推動自動駕駛的穩健發展，與海內外各地水平相若。
+
+運輸署署長謝詠誼視察其中一個於機場島進行的測試項目，並試乘自動私家車，了解項目進度。項目獲署方批准自今年二月下旬起由機場延伸到東涌以至欣澳，以及增加機場島載客測試中同時運行的自動車數目由10輛倍增至20輛，東涌的測試則由三輛增至八輛。機場島測試在車上配置後備操作員以外，首次加入遙距後備操作員在遙距控制中心操作自動車，為有序邁向無人化（即以遙距後備操作員代替車上後備操作員）進行測試。機場島的測試里程至今達約14萬公里。
+
+謝詠誼欣悉各路段的測試表現穩定、安全、暢順，自動車與其他車輛共用道路，亦遵守讓路予行人、按交通燈號指示停車等道路安全規則。
+
+署方至今發出六個自動駕駛先導牌照，涉及共62輛自動車在六個地點進行測試。機場島的測試路線途徑機場、航天城、亞洲國際博覽館、酒店及飛機維修區附近多條道路、交匯處和停車場。新增路段途徑港鐵東涌站、酒店、商場以至經翔東路延至欣澳公共運輸交匯處附近。其餘測試地點為西九文化區、南區數碼港、九龍東啟德發展區一帶、機場航天走廊，以及港珠澳大橋香港口岸「轉機停車場」。
+
+由署長主持的「自動駕駛車輛應用促進工作組」會聯同業界跨部門逐一審視自動車項目的進度；就測試地點、車輛類別，以及為配合自動車邁向商業發展所需的牌證安排提供督導；及研究合適的規管安排，准許自動車以個別試點形式於特定範圍內提供一定程度的商業服務。
+
+謝詠誼說：「我們會加快推動自動駕駛技術，由研發測試階段順利過渡至實際營運，全速引進和帶動業界在不同社區展開自動車測試與應用，讓更多市民接觸及體驗自動駕駛的便利。」"
