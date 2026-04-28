@@ -1,4 +1,15 @@
 title,date,summary,scrape_time,section,source,url,news_content
+內地股市半日偏軟,2026-04-28 11:45,,2026-04-28 12:00,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852699-20260428.htm,"內地股市偏軟，旅遊及酒店、人工智能應用等股份下跌；醫藥、煤炭及證券股造好。
+
+上證綜合指數半日收市報4083點，跌2點。
+
+深證成份指數報14934點，跌60點，跌幅0.41%。
+
+創業板指數報3629點，跌19點，跌幅0.54%。
+
+
+
+編輯：李意琴"
 CATL prices shares at low end of range at HK$628,2026-04-28 11:33,,2026-04-28 11:45,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1852688-20260428.htm,"China's Contemporary Amperex Technology Company Limited (CATL) has priced its Hong Kong share sale at the lower end of the indicated range, ⁠raising HK$39.19 billion, according to an exchange filing on Tuesday.
 
 CATL, the world's largest EV battery maker, is offering 62.4 million new H shares at HK$628.20 each, representing a seven percent discount to the ⁠stock's last close.
@@ -288,9 +299,9 @@ Edited by Altis Wong"
 
 
 編輯：譚佩貞"
-日本3月失業率升至2.7%,2026-04-28 08:12,,2026-04-28 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852670-20260428.htm,"日本3月失業率升至2.7%，按月回升0.1個百分點。市場原先估計維持於2.6%。
+日股初段跌逾300點,2026-04-28 08:12,,2026-04-28 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852671-20260428.htm,"東京股市初段由高位回吐。
 
-3月求才求職比跌至1.18，符合市場預期。數據反映每100名求職者，有118個職位空缺。
+日經指數較早時報60210點，跌326點，跌幅0.54%。
 
 
 
@@ -302,9 +313,9 @@ Edited by Altis Wong"
 
 
 編輯：李意琴"
-日股初段跌逾300點,2026-04-28 08:12,,2026-04-28 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852671-20260428.htm,"東京股市初段由高位回吐。
+日本3月失業率升至2.7%,2026-04-28 08:12,,2026-04-28 08:30,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852670-20260428.htm,"日本3月失業率升至2.7%，按月回升0.1個百分點。市場原先估計維持於2.6%。
 
-日經指數較早時報60210點，跌326點，跌幅0.54%。
+3月求才求職比跌至1.18，符合市場預期。數據反映每100名求職者，有118個職位空缺。
 
 
 
@@ -430,17 +441,6 @@ Edited by Cecil Wong"
 
 
 編輯：李意琴"
-歐洲3大指數偏軟,2026-04-28 05:38,,2026-04-28 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852654-20260428.htm,"歐洲3大指數偏軟。
-
-英國富時100指數收報10321點，跌57點，跌幅0.56%。
-
-法國CAC指數收報8141點，跌15點，跌幅0.19%。
-
-德國DAX指數收報24083點，跌45點，跌幅0.19%。
-
-
-
-編輯：李意琴"
 道指偏軟　納指及標普500指數創新高,2026-04-28 05:38,,2026-04-28 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852655-20260428.htm,"美股收市個別發展。道指偏軟，納指及標普500指數創新高，但升幅有限。美伊談判陷入停滯，霍爾木茲海峽局勢再度升溫推高油價。另外市場關注本周多隻科技股公布業績及聯儲局議息。
 
 道瓊斯指數收報49167點，跌62點，跌幅0.13%。
@@ -450,6 +450,17 @@ Edited by Cecil Wong"
 標準普爾500指數收報7173點，升8點，升幅0.12%。
 
 Nvidia升4%創新高，市值重返5萬億美元以上。其他大型科技股走勢不一。
+
+
+
+編輯：李意琴"
+歐洲3大指數偏軟,2026-04-28 05:38,,2026-04-28 05:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852654-20260428.htm,"歐洲3大指數偏軟。
+
+英國富時100指數收報10321點，跌57點，跌幅0.56%。
+
+法國CAC指數收報8141點，跌15點，跌幅0.19%。
+
+德國DAX指數收報24083點，跌45點，跌幅0.19%。
 
 
 
@@ -669,13 +680,6 @@ Edited by Edmond Fong"
 
 
 編輯：鄭皓璟"
-陳茂波：香港首份五年規劃需定優先次序和落地方案,2026-04-27 19:10,,2026-04-27 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852618-20260427.htm,"財政司司長陳茂波指，地緣政治的重塑，對香港貿易中心不是威脅，而是進化的信號。當全球供應鏈趨於區域化，香港作為超級聯繫人的價值，反而更加突顯。
-
-陳茂波出席「『十五五』規劃與香港的新機遇」高峰論壇時指，香港首份五年規劃仍在編制之中，需要更深刻的思考方向與目標，定優先次序和落地的方向。具體的路線圖、時間表、項目清單，均需要政府、商界及社會各界共同探索，在實踐中不斷校準。
-
-
-
-編輯：朱鍚君"
 宏昌閣宏道閣居民繼續上樓執拾　有居民冀政府再次安排上樓,2026-04-27 19:10,,2026-04-27 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852619-20260427.htm,"大埔宏福苑宏昌閣及宏道閣的居民，今日繼續獲安排上樓執拾。
 
 有宏昌閣居民表示，火災當日被困單位15小時，最終由消防員救出，今天特意穿了逃生時所穿著的衣服，重回宏福苑。不過他腳部在火災中受傷未痊癒，無法行上單位，希望政府能再次安排居民上樓。
@@ -685,6 +689,13 @@ Edited by Edmond Fong"
 
 
 編輯：朱錫君"
+陳茂波：香港首份五年規劃需定優先次序和落地方案,2026-04-27 19:10,,2026-04-27 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852618-20260427.htm,"財政司司長陳茂波指，地緣政治的重塑，對香港貿易中心不是威脅，而是進化的信號。當全球供應鏈趨於區域化，香港作為超級聯繫人的價值，反而更加突顯。
+
+陳茂波出席「『十五五』規劃與香港的新機遇」高峰論壇時指，香港首份五年規劃仍在編制之中，需要更深刻的思考方向與目標，定優先次序和落地的方向。具體的路線圖、時間表、項目清單，均需要政府、商界及社會各界共同探索，在實踐中不斷校準。
+
+
+
+編輯：朱鍚君"
 李家超與比利時副首相會面　鼓勵當地創科企業落戶北都,2026-04-27 19:10,,2026-04-27 19:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852627-20260427.htm,"行政長官李家超與比利時副首相兼外交大臣普雷沃會面，就深化香港和比利時合作交流意見。署理財經事務及庫務局局長陳浩濂亦有出席。
  
 李家超歡迎普雷沃率團訪港。他表示，比利時是香港在歐盟的主要貿易夥伴之一，多家比利時企業在香港設立業務據點，今年更適逢比利時駐港總領事館成立100周年，體現兩地往來、合作頻繁。香港作為國際貿易中心，在最自由經濟體排名穩居世界第一，是全球第五大商品貿易經濟體。他有信心雙方會在經貿投資、創新科技和人文交流等領域進一步加強合作，開創更廣闊的合作空間。
@@ -859,13 +870,6 @@ Officers called on parents to help prevent cybercrimes by building relationships
 
 
 Edited by Edmond Fong"
-中方稱反對缺乏國際法依據非法單邊制裁　促美方停止濫施制裁,2026-04-27 17:32,,2026-04-27 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852608-20260427.htm,"在北京，外交部發言人林劍表示，中方一貫反對缺乏國際法依據的非法單邊制裁，敦促美方停止濫施制裁和「長臂管轄」的錯誤做法。
-
-美國日前以與伊朗存在關聯為由，宣布制裁一間中國企業。林劍在例行記者會回應有關提問時說，中方將堅決維護本國企業的合法權益。
-
-
-
-編輯：羅宇光"
 調查：即使地緣政局緊張　大灣區內企業營商情緒仍然穩定,2026-04-27 17:32,,2026-04-27 17:45,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852611-20260427.htm,"渣打銀行及貿發局聯合公布，首季渣打大灣區營商景氣指數，其中「現狀」指數按季跌0.4，跌至49.9，「預期」指數按季跌0.6，跌至50.4。
 
 調查在2月23日至上月23日期間進行，訪問逾1000間區內企業。調查結果顯示，儘管油價急升和中東衝突持續，增加地緣政治風險及對貿易造成不利影響，大灣區內企業整體的營商情緒仍然保持穩定。
@@ -890,6 +894,13 @@ Edited by Edmond Fong"
 
 
 編輯：譚佩貞"
+中方稱反對缺乏國際法依據非法單邊制裁　促美方停止濫施制裁,2026-04-27 17:32,,2026-04-27 17:45,greater_china,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852608-20260427.htm,"在北京，外交部發言人林劍表示，中方一貫反對缺乏國際法依據的非法單邊制裁，敦促美方停止濫施制裁和「長臂管轄」的錯誤做法。
+
+美國日前以與伊朗存在關聯為由，宣布制裁一間中國企業。林劍在例行記者會回應有關提問時說，中方將堅決維護本國企業的合法權益。
+
+
+
+編輯：羅宇光"
 時任大埔民政事務專員供稱　如有業主投訴被騙取授權必交執法部門,2026-04-27 17:32,,2026-04-27 19:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852612-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，下午有民政事務總署人員作供。時任民政事務總署大埔民政事務專員陳巧敏表示，區議員需要跟進各方面的地區事務，了解區內屋苑大維修的事宜，亦屬工作的一部分。
 
 委員會資深大律師杜淦堃關注，區議員是否應保持中立。陳巧敏說，區議員長時間在地區工作，有一定的人脈及對區情有所掌握，就大廈管理事務上，區議員對於哪些人適合參與法團管委會，或會有個人意見，她對此表示尊重。
@@ -1056,7 +1067,7 @@ However, Cheung testified that the Buildings Department would not follow the sam
 
 
 Edited by Tony Sabine"
-屋宇署前高級屋宇測量師作供指　沒看過宏福苑發泡膠封窗投訴內容,2026-04-27 16:28,,2026-04-27 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852603-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，下午由在宏福苑大維修工程期間，被借調到房屋局獨立審查組的屋宇署前高級屋宇測量師謝錦明作供。
+屋宇署前高級屋宇測量師作供　否認曾被諮詢宏福苑發泡膠封窗事宜,2026-04-27 16:28,,2026-04-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852603-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，下午由在宏福苑大維修工程期間，被借調到房屋局獨立審查組的屋宇署前高級屋宇測量師謝錦明作供。
 
 委員會資深大律師杜淦堃引述房屋局獨立審查組高級屋宇保養測量師古小平的書面供詞，指2024年9月，就發泡膠封窗的投訴到宏福苑實地視察後，曾口頭諮詢謝錦明，獲告知使用發泡膠板封窗不屬於建築工程，毋須符合阻燃要求，亦不算是僭建物，不可以採取行動。
 
@@ -1066,7 +1077,7 @@ Edited by Tony Sabine"
 
 
 編輯：譚佩貞"
-屋宇署前高級屋宇測量師作供　否認曾被諮詢宏福苑發泡膠封窗事宜,2026-04-27 16:28,,2026-04-27 18:30,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852603-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，下午由在宏福苑大維修工程期間，被借調到房屋局獨立審查組的屋宇署前高級屋宇測量師謝錦明作供。
+屋宇署前高級屋宇測量師作供指　沒看過宏福苑發泡膠封窗投訴內容,2026-04-27 16:28,,2026-04-27 16:45,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852603-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，下午由在宏福苑大維修工程期間，被借調到房屋局獨立審查組的屋宇署前高級屋宇測量師謝錦明作供。
 
 委員會資深大律師杜淦堃引述房屋局獨立審查組高級屋宇保養測量師古小平的書面供詞，指2024年9月，就發泡膠封窗的投訴到宏福苑實地視察後，曾口頭諮詢謝錦明，獲告知使用發泡膠板封窗不屬於建築工程，毋須符合阻燃要求，亦不算是僭建物，不可以採取行動。
 
@@ -1121,13 +1132,13 @@ Edited by Tony Sabine"
 
 
 編輯：羅宇光"
-屋宇署助理署長作供稱一般巡查不會事先通知承建商或檢驗人員,2026-04-27 15:28,,2026-04-27 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852594-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，屋宇署助理署長張玉清作供時說，署方一般到場巡查，不會事先通知承建商或工程顧問的註冊檢驗人員，有需要跟進才會聯絡相關人士，舉例如巡查涉及棚網，需要有人剪網，都是先視察後通知。
+屋宇署代表供稱　一般巡查不會事先通知承建商或檢驗人員　,2026-04-27 15:28,,2026-04-27 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852594-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，屋宇署助理署長張玉清作供時說，署方一般到場巡查，不會事先通知承建商或工程顧問的註冊檢驗人員，有需要跟進才會聯絡相關人士，舉例如巡查涉及棚網，需要有人剪網，都是先視察後通知。
 
 委員會資深大律師杜淦堃引述房屋局獨立審查組人員的書面供詞，指根據獨立審查組的慣例，實際巡查需提早預約，以便有註冊檢驗人員在場回應諮詢。杜淦堃關注明顯與屋宇署的做法不同，張玉清確認他們一般不會這樣做。
 
 杜淦堃在聽證會上，展示屋宇署與房屋局獨立審查組於2022年7月簽訂的合作備忘錄，列明屋宇署在必要時，可以審查獨立審查組的工作。張玉清說，就她負責的強制驗樓工作，屋宇署於大火前並無審查獨立審查組的工作。
 
-張玉清又確認發泡膠封窗及「生口」均屬違規，如署方知道會執法。但她說，「生口」並非慣常做法，署方在大火後巡查400多幢私人樓宇的維修工程，只有8座有「生口」。
+張玉清又確認發泡膠封窗及「生口」均屬違規，如署方知道，會執法。但她說，「生口」並非慣常做法，署方在大火後巡查400多幢私人樓宇的維修工程，只有8座有「生口」。
 
 委員會主席陸啟康表示，理解小型工程監管制度的原意是好，但今次大火揭示，有人居住的樓宇維修工程監管較新建樓宇還要少。張玉清同意現有樓宇維修的消防風險高，但相關的維修工作一般簡單，不會改變樓宇的逃生途徑，如有按署方要求做足措施，風險是可控。她又說，今次事件是有不合規的人，用了不合規的方法，署方會收緊註冊要求及加強巡查。
 
@@ -1136,13 +1147,13 @@ Edited by Tony Sabine"
 
 
 編輯：譚佩貞"
-屋宇署代表供稱　一般巡查不會事先通知承建商或檢驗人員　,2026-04-27 15:28,,2026-04-27 16:00,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852594-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，屋宇署助理署長張玉清作供時說，署方一般到場巡查，不會事先通知承建商或工程顧問的註冊檢驗人員，有需要跟進才會聯絡相關人士，舉例如巡查涉及棚網，需要有人剪網，都是先視察後通知。
+屋宇署助理署長作供稱一般巡查不會事先通知承建商或檢驗人員,2026-04-27 15:28,,2026-04-27 16:15,local,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852594-20260427.htm,"大埔宏福苑火災獨立委員會繼續舉行聽證會，屋宇署助理署長張玉清作供時說，署方一般到場巡查，不會事先通知承建商或工程顧問的註冊檢驗人員，有需要跟進才會聯絡相關人士，舉例如巡查涉及棚網，需要有人剪網，都是先視察後通知。
 
 委員會資深大律師杜淦堃引述房屋局獨立審查組人員的書面供詞，指根據獨立審查組的慣例，實際巡查需提早預約，以便有註冊檢驗人員在場回應諮詢。杜淦堃關注明顯與屋宇署的做法不同，張玉清確認他們一般不會這樣做。
 
 杜淦堃在聽證會上，展示屋宇署與房屋局獨立審查組於2022年7月簽訂的合作備忘錄，列明屋宇署在必要時，可以審查獨立審查組的工作。張玉清說，就她負責的強制驗樓工作，屋宇署於大火前並無審查獨立審查組的工作。
 
-張玉清又確認發泡膠封窗及「生口」均屬違規，如署方知道，會執法。但她說，「生口」並非慣常做法，署方在大火後巡查400多幢私人樓宇的維修工程，只有8座有「生口」。
+張玉清又確認發泡膠封窗及「生口」均屬違規，如署方知道會執法。但她說，「生口」並非慣常做法，署方在大火後巡查400多幢私人樓宇的維修工程，只有8座有「生口」。
 
 委員會主席陸啟康表示，理解小型工程監管制度的原意是好，但今次大火揭示，有人居住的樓宇維修工程監管較新建樓宇還要少。張玉清同意現有樓宇維修的消防風險高，但相關的維修工作一般簡單，不會改變樓宇的逃生途徑，如有按署方要求做足措施，風險是可控。她又說，今次事件是有不合規的人，用了不合規的方法，署方會收緊註冊要求及加強巡查。
 
@@ -1381,58 +1392,3 @@ ATMXJ走勢不一，騰訊跌逾2%，阿里巴巴靠穩。
 
 
 編輯：方嘉莉"
-內地股市個別發展,2026-04-27 11:58,,2026-04-27 12:15,cfinance,rthk,https://news.rthk.hk/rthk/ch/component/k2/1852572-20260427.htm,"滬深股市個別發展。半導體晶片概念股、算力硬件股、機械人概念股都上升，白酒、農業相關股份下跌。
-
-上證指數半日收報4085點，升5點，升幅0.15%。
-
-深證成份指數升穿15000點，報15018點，升78點，升幅0.52%。
-
-創業板指數報3660點，跌7點，跌幅0.2%。
-
-
-
-編輯：宋家樑"
-'Free beach access guaranteed under commercial model',2026-04-27 11:54,,2026-04-27 12:15,elocal,rthk,https://news.rthk.hk/rthk/en/component/k2/1852565-20260427.htm,"Director of Leisure and Cultural Services Manda Chan on Monday said the government is open to expanding a proposed pilot scheme which would involve the private sector managing certain public beaches. 
-
-Her remarks came after the Leisure and Cultural Services Department invited businesses’ expression of interest in operating three public beaches – Ma Wan Tung Wan Beach in Tsuen Wan, Butterfly Beach in Tuen Mun and Big Wave Bay Beach in Southern District on Hong Kong Island.
-
-Speaking on a RTHK programme, Chan said the three beaches have unique features and business potential to host commercial activities.
-
-Authorities have also invited interested groups to propose other public beaches that could be included in the pilot scheme, she said.
-
-Chan said the government would oversee the operators’ performance to ensure and guarantee people’s continued free access to these beaches, reasonable charges for activities and water safety.
-
-“We have certain expectations of the beach operators. Managing a beach is not an easy task and since this is a pilot scheme that we have never tried before, we hope the operators have experience in management, with strengths in venue management, market promotion and business skills,” she said.
-
-“Also, the operators should have service planning abilities and we will review their proposed target audience, the expected number of participants and plans to engage with local residents and tourists.”
-
-Lawmaker Chan Hok-fung, who represents Hong Kong Island West, also told RTHK that he hoped a commercial operation model could draw visitors to remote and less crowded beaches.
-
-He believes the pilot scheme would be attractive to businesses, adding that market forces can solve a manpower shortage of lifeguards.
-
-“In the past, we have observed that some swimming pools and beaches operated by the LCSD were closed due to a manpower shortage,” he said.
-
-“The salaries [for lifeguards] offered by the LCSD are fixed, and I hope that the commercial operation could raise the income of lifeguards and attract them to provide services at these beaches, improving the overall service efficiency.”
-
-The lawmaker also said he believes more public beaches could embrace commercial operations in the future.
-
-
-
-Edited by Tony Sabine"
-Factory profits grow at quicker pace in China,2026-04-27 11:47,,2026-04-27 12:00,efinance,rthk,https://news.rthk.hk/rthk/en/component/k2/1852569-20260427.htm,"Profits at China's major industrial firms increased 15.5 percent year on year in the first quarter, data from the National Bureau of Statistics showed on Monday, as economic growth accelerated to 5 percent in the first three months of this year.
-
-For March, profits grew at their quickest pace in half a year, adding to broader signs of an economic recovery in the first quarter as policymakers brace for the impact of the Middle East war.
-
-Profits at industrial firms with annual revenue of at least 20 million yuan from main operations, rose 15.8 percent last month from a year ago, picking up from a 15.2 percent jump in the January-February period.
-
-While pockets of the economy tied to artificial intelligence remain buoyant, with Shannon Semiconductor posting a 79-fold surge in ⁠first-quarter net profit on the back of strong AI-related electronics demand, consumer-facing sectors continue to struggle.
-
-Premium liquor maker Kweichow Moutai reported subdued performance as weak domestic demand weighed on pricing and volumes.
-
-""There are many uncertainties in the external environment, and the contradiction between strong domestic supply and weak demand still needs to be resolved,"" said statistician Yu Weining from the bureau.
-
-An economist said external risks ⁠are adding to the pressure.
-
-""The data has likely not reflected the impact of the Iran war yet,"" said Lynn Song, ING's chief economist for Greater China, underscoring growing risks to growth at home and abroad from the conflict.
-
-""Moving forward, the higher energy prices are likely to translate into higher input costs for producers, which will either need to be passed on to consumers or absorbed through thinner margins and weaker profitability,"" ING's Song said. (Reuters & Xinhua)"
