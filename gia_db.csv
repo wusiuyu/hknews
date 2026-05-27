@@ -1,4 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
+港匯指數,2026-05-27 16:00,2026-05-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700205.htm,二○二六年五月二十七日（星期三）的港幣匯率指數為一百零一點一（和昨日指數相同）。
+Effective Exchange Rate Index,2026-05-27 16:00,2026-05-27 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700195.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, May 27, 2026 is 101.1 (same as yesterday's index)."
 香港隊在亞洲物理奧林匹克取得優異成績（附圖）,2026-05-27 15:35,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700503.htm,"八名學生代表香港參加第二十六屆亞洲物理奧林匹克，共奪得一面金牌、六面銅牌及一個優異獎，成績卓越。
 
 亞洲物理奧林匹克旨在推廣物理教育，以培育和激勵在物理學方面具有優越潛能的學生。本屆比賽於五月十七日至二十五日在韓國舉行。賽事共有來自27個國家或地區，超過200位學生參與。
@@ -399,47 +401,6 @@ HA Overall
   If a patient is unable to keep the original appointment for any reason, they should cancel it as early as possible via HA Go mobile application, so that the slot can be released to other patients in need. If a patient gives up an appointment slot (for example, due to failure to complete payment before the deadline or for other reasons) and subsequently requires a new appointment for radiology services, the attending doctor will first assess the patient's clinical condition to determine whether a new referral to radiology is required. The radiology department will then arrange an appointment according to clinical urgency to ensure that the patient receives appropriate care. To ensure that service arrangements align with clinical needs, re-booking of radiology services must be made through clinical assessment and referral by the attending doctor, and should not be made directly by patients through HA Go mobile application.
 
   The HA will continue to review the implementation of the radiology charging arrangements and make appropriate arrangements in accordance with the principles of optimal utilisation of healthcare resources and smooth service operation."
-立法會四題：建設大灣區法律人工智能基座大模型,2026-05-27 15:23,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700491.htm,"以下是今日（五月二十七日）在立法會會議上吳英鵬議員的提問和律政司副司長張國鈞博士的答覆：
-
-問題：
-
-關於構建粵港澳大灣區（大灣區）法律行業的人工智能基座大模型，政府可否告知本會：
-
-（一）因應大灣區「一國兩制三法域」的特殊狀況，政府會否牽頭研究構建上述大模型及主導香港部分的搭建工作，並訂定明確的發展目標、落實路線圖及時間表，以配合國家發展部署；如會，詳情為何；如否，原因為何；
-
-（二）在推動三地法律數據庫互通及算力資源共享的過程中，政府會否聯動粵澳相關部門，建立涵蓋數據安全、關鍵基礎設施安全及合規審查的治理機制對接，以保障跨境法律服務及司法協作的穩健發展；如會，詳情為何；如否，原因為何；及
-
-（三）政府會否盡快完善法律科技相關的法規與道德指引，並將人工智能素養、數據倫理及法律科技應用等內容納入法律專業核心課程體系，以培養德才兼備並具有法學與科技視角的複合型人才；如有，詳情為何；如否，原因為何？
-
-答覆：
-
-主席︰
-
-就吳英鵬議員的提問，經諮詢創新科技及工業局後，現綜合答覆如下：
-
-（一）及（二）政府一向積極推動本地人工智能發展，為業界提供所需的配套支援，促進形成「基座大模型＋行業應用」的生態，推動香港把握AI發展所帶來的升級轉型及機遇。有關構建粵港澳大灣區法律行業的人工智能基座大模型（大灣區大模型）及推動三地法律數據庫互通及算力資源共享的建議，需由粵港澳三地共同研究，並與業界及持份者深入探討，掌握業界的具體需求，以及審慎評估大灣區大模型的目標、可行性以及相關技術等問題。律政司會認真考慮相關建議，同時仔細研究就構建大灣區大模型、大數據訓練及應用大模型過程等各範疇面對的不同挑戰。
-
-（1）資源投入
-
-粵港澳三地各自有不同的法律法規，構建可靠及可持續的大灣區大模型需要利用大量不同類型的資料，以及能應對龐大數據的算力基礎，並具備數據持續更新與輸出內容核實校對功能的訓練技術。而在應用過程中，也須應對合規的問題。因此，構建、應用及維護大灣區大模型，將會涉及龐大財政資源的投入，並需克服多項複雜的技術挑戰。
-
-（2）數據治理的挑戰
-
-粵港澳三地現時就跨境數據治理與管轄、數據流動標準、本地化存儲規則等，均有不同的法律法規和適用標準。如大灣區大模型需應用在跨境法律實務中，往往會涉及商業、財務及其他敏感的資料。因此，在大灣區大模型的構建、應用及維護方面，如何確保數據安全和法律專業保密權獲妥善保障，將會是其中一個重要的考慮因素。
-
-政府致力在符合數據安全法律框架及保障個人私隱的前提下，推動各類數據於大灣區內安全有序地跨境流動。創新科技及工業局與國家互聯網信息辦公室於二○二三年十二月共同發布《粵港澳大灣區（內地、香港）個人信息跨境流動標準合同》的便利措施，促進及簡化內地個人信息跨境流動到香港的合規安排。
-
-就香港法律業界而言，律政司一直透過多元的方式與業界及各方持份者交流，加強了解業界具體需求和法律科技市場的發展，並研究和制訂有關法律科技的政策措施。目前，律政司正積極鼓勵業界更廣泛利用法律科技，例如應用於文件生成、工作程序管理、線上爭議解決及審訊支援等，進一步提升業界的競爭力。
-
-（三）政府採取正視和積極的態度，應對AI的發展和應用可能產生的風險及所需的規範，在促進發展和防範風險之間取得平衡。
-
-就完善法律科技相關的法規與道德指引而言，為檢視不同政策範疇內的法律是否能配合科技上包括AI的發展，律政司已於本年第一季為成立「檢視支持更廣泛應用AI所需的法律配套」跨部門工作小組（工作小組）召開督導委員會會議，協助各政策局和部門以高度聚焦的方式，嚴謹檢視其政策範疇下的法律。工作小組的目標是讓各政策局及部門能按實際環境研究具針對性和可操作的解決方案。
-
-數字政策辦公室亦制訂《人工智能道德框架》及推出《香港生成式人工智能技術及應用指引》，為機構在開發及應用AI技術的項目，提供識別和管理項目的潛在風險的指引，並建構一套符合香港情境、具本地特色的治理框架。
-
-律政司亦非常重視須持續培養兼具法律知識與科技素養的人才。作為法律教育及培訓常設委員會（常委會）的成員，律政司不時於常委會中提出提升香港法律教育質素的建議，包括將法律科技及AI融入法律課程。三所法律學院近年已於法學士及法律博士課程中引入有關法律科技及AI的科目，務求確保畢業生具備足夠能力，應對由科技發展帶來的執業挑戰以及社會需要。
-
-多謝主席。"
 LCQ4: Building AI foundational large model for legal sector in Greater Bay Area,2026-05-27 15:23,2026-05-27 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700493.htm,"  Following is a question by the Hon Wu Ying-peng and a reply by the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, in the Legislative Council today (May 27):
 
 Question:
@@ -481,73 +442,114 @@ President,
  The DoJ also highly recognises the importance on the continuous nurturing of talent with both legal knowledge and technological literacy. As a member of the Standing Committee on Legal Education and Training, the DoJ would put forward proposals to enhance the quality of legal education in Hong Kong from time to time, including integrating lawtech and AI into the legal curriculum. In recent years, the three law schools introduced subjects relating to lawtech and AI into their Bachelor of Laws and Juris Doctor programmes, with a view to ensuring that graduates are well-equipped to meet the challenges to legal practice brought by the technological developments, as well as the needs of the society.
 
  Thank you, President."
-​立法會十三題：跨境使用電子健康系統,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700298.htm,"以下是今日（五月二十七日）在立法會會議上葉傲冬議員的提問和醫務衞生局局長盧寵茂教授的書面答覆︰
+立法會四題：建設大灣區法律人工智能基座大模型,2026-05-27 15:23,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700491.htm,"以下是今日（五月二十七日）在立法會會議上吳英鵬議員的提問和律政司副司長張國鈞博士的答覆：
 
 問題：
 
-政府自二○二四年起推行醫健通流動應用程式的「跨境健康紀錄」及「個人資料夾」兩項功能，便利市民安全地於指定境外醫療機構跨境使用電子健康紀錄，以獲得更連貫的醫療服務。就此，政府可否告知本會：
+關於構建粵港澳大灣區（大灣區）法律行業的人工智能基座大模型，政府可否告知本會：
 
-（一）「跨境健康紀錄」功能自二○二五年十二月二十四日起由只限於合資格使用醫療券的長者，擴展至全港約630萬醫健通用戶至今，每月共有多少名香港市民申請及使用「跨境健康紀錄」功能；
+（一）因應大灣區「一國兩制三法域」的特殊狀況，政府會否牽頭研究構建上述大模型及主導香港部分的搭建工作，並訂定明確的發展目標、落實路線圖及時間表，以配合國家發展部署；如會，詳情為何；如否，原因為何；
 
-（二）於去年七月獲立法會通過並於同年十二月一日實施的《2025年電子健康紀錄互通系統（修訂）條例》，賦權電子健康紀錄專員在充分保障資料私隱和系統安全，以及符合指明規定及條件的前提下，認可個別境外的醫護提供者及公共健康紀錄系統，有關推展認可安排的進度及時間表為何；及
+（二）在推動三地法律數據庫互通及算力資源共享的過程中，政府會否聯動粵澳相關部門，建立涵蓋數據安全、關鍵基礎設施安全及合規審查的治理機制對接，以保障跨境法律服務及司法協作的穩健發展；如會，詳情為何；如否，原因為何；及
 
-（三）鑑於本人近日收到投訴，指有市民持指定境外醫療機構發出的檢查報告，讓本地公立醫院醫生作參考，惟據悉該名公立醫院醫生以「看不明報告」為理由，拒絕接受有關報告，並要求投訴人再在香港排期進行同樣的檢查，並鑑於政府曾在二○二六年二月二十五日答覆本會議員的質詢時表示，會透過醫健通進一步深化跨境醫療紀錄互通，政府目前有否計劃優化現行的做法，讓香港公立醫院接受指定境外醫療機構發出的健康檢查報告，以免市民重複進行相同的檢查；如有，詳情為何；如否，原因為何？
+（三）政府會否盡快完善法律科技相關的法規與道德指引，並將人工智能素養、數據倫理及法律科技應用等內容納入法律專業核心課程體系，以培養德才兼備並具有法學與科技視角的複合型人才；如有，詳情為何；如否，原因為何？
 
 答覆：
 
-主席：
+主席︰
 
-醫健通是政府二○一六年推出的全港性電子健康紀錄互通系統，讓市民可授權公私營醫護機構取覽和互通他們的電子健康紀錄作醫護用途。為充分利用醫健通的優良條件，政府在二○二三年《施政報告》公布推出「醫健通+」五年發展計劃，將醫健通提升為集醫療數據互通、服務提供及流程管理於一身的綜合醫療資訊基建。「醫健通+」旨在促進護理協調、跨界別協作及健康管理和監測，讓市民獲得更優質的醫護服務，同時更有效地支援醫療改革及各項醫療政策，包括基層醫療和跨境醫療服務。政府現正根據病人為本原則及「統一電子病歷」、「統一治理流程」、「統一健康工具」及「統一數據平台」四大策略方向，分階段推展「醫健通+」計劃。
+就吳英鵬議員的提問，經諮詢創新科技及工業局後，現綜合答覆如下：
 
-為配合跨境醫療協作，政府自二○二四年起逐步在香港大學深圳醫院（港大深圳醫院）和「長者醫療券大灣區試點計劃」下合共20間醫療機構，推行醫健通流動應用程式「跨境健康紀錄」及「個人資料夾」兩項功能，在自攜病歷的原則下，便利香港市民透過醫健通安全地跨境使用電子健康紀錄，從而獲取更連貫的醫療服務。「跨境健康紀錄」功能讓醫健通用戶申請過去三年存放在醫健通的電子健康紀錄，並授權指定境外醫療機構的醫護人員在用戶就診時瀏覽，以助診斷和治療。此外，用戶可利用「個人資料夾」功能將境外求醫時取得的醫療紀錄存入個人醫健通戶口，方便集中保存和運用，包括供獲授權的香港醫護提供者在跟進護理時，通過醫健通取覽。
+（一）及（二）政府一向積極推動本地人工智能發展，為業界提供所需的配套支援，促進形成「基座大模型＋行業應用」的生態，推動香港把握AI發展所帶來的升級轉型及機遇。有關構建粵港澳大灣區法律行業的人工智能基座大模型（大灣區大模型）及推動三地法律數據庫互通及算力資源共享的建議，需由粵港澳三地共同研究，並與業界及持份者深入探討，掌握業界的具體需求，以及審慎評估大灣區大模型的目標、可行性以及相關技術等問題。律政司會認真考慮相關建議，同時仔細研究就構建大灣區大模型、大數據訓練及應用大模型過程等各範疇面對的不同挑戰。
 
-政府於二○二五年十二月將「跨境健康紀錄」功能的受惠對象由原本限於合資格使用長者醫療券的長者，擴展至全港醫健通用戶。政府亦在二○二六年一月提升「個人資料夾」功能，市民每次前往三間指定境外醫療機構（即港大深圳醫院、中山陳星海中西醫結合醫院和深圳新風和睦家醫院）接受放射科服務前，可授權機構為他們存入較難自行上傳的高解像度放射檢查報告及影像至個人醫健通戶口。
+（1）資源投入
 
-政府會繼續與內地相關部門及醫療機構緊密溝通，透過醫健通有序地擴大及深化跨境醫療紀錄互通，務求更有效地支援市民的跨境醫療需求及提升跨境醫療服務的質量安全。
+粵港澳三地各自有不同的法律法規，構建可靠及可持續的大灣區大模型需要利用大量不同類型的資料，以及能應對龐大數據的算力基礎，並具備數據持續更新與輸出內容核實校對功能的訓練技術。而在應用過程中，也須應對合規的問題。因此，構建、應用及維護大灣區大模型，將會涉及龐大財政資源的投入，並需克服多項複雜的技術挑戰。
 
-就葉傲冬議員的提問，經諮詢醫院管理局（醫管局）後，現答覆如下：
+（2）數據治理的挑戰
 
-（一）截至二○二六年四月，超過32 500名市民曾使用醫健通流動應用程式「跨境健康紀錄」及「個人資料夾」兩項功能，詳細統計數字如下：
+粵港澳三地現時就跨境數據治理與管轄、數據流動標準、本地化存儲規則等，均有不同的法律法規和適用標準。如大灣區大模型需應用在跨境法律實務中，往往會涉及商業、財務及其他敏感的資料。因此，在大灣區大模型的構建、應用及維護方面，如何確保數據安全和法律專業保密權獲妥善保障，將會是其中一個重要的考慮因素。
+
+政府致力在符合數據安全法律框架及保障個人私隱的前提下，推動各類數據於大灣區內安全有序地跨境流動。創新科技及工業局與國家互聯網信息辦公室於二○二三年十二月共同發布《粵港澳大灣區（內地、香港）個人信息跨境流動標準合同》的便利措施，促進及簡化內地個人信息跨境流動到香港的合規安排。
+
+就香港法律業界而言，律政司一直透過多元的方式與業界及各方持份者交流，加強了解業界具體需求和法律科技市場的發展，並研究和制訂有關法律科技的政策措施。目前，律政司正積極鼓勵業界更廣泛利用法律科技，例如應用於文件生成、工作程序管理、線上爭議解決及審訊支援等，進一步提升業界的競爭力。
+
+（三）政府採取正視和積極的態度，應對AI的發展和應用可能產生的風險及所需的規範，在促進發展和防範風險之間取得平衡。
+
+就完善法律科技相關的法規與道德指引而言，為檢視不同政策範疇內的法律是否能配合科技上包括AI的發展，律政司已於本年第一季為成立「檢視支持更廣泛應用AI所需的法律配套」跨部門工作小組（工作小組）召開督導委員會會議，協助各政策局和部門以高度聚焦的方式，嚴謹檢視其政策範疇下的法律。工作小組的目標是讓各政策局及部門能按實際環境研究具針對性和可操作的解決方案。
+
+數字政策辦公室亦制訂《人工智能道德框架》及推出《香港生成式人工智能技術及應用指引》，為機構在開發及應用AI技術的項目，提供識別和管理項目的潛在風險的指引，並建構一套符合香港情境、具本地特色的治理框架。
+
+律政司亦非常重視須持續培養兼具法律知識與科技素養的人才。作為法律教育及培訓常設委員會（常委會）的成員，律政司不時於常委會中提出提升香港法律教育質素的建議，包括將法律科技及AI融入法律課程。三所法律學院近年已於法學士及法律博士課程中引入有關法律科技及AI的科目，務求確保畢業生具備足夠能力，應對由科技發展帶來的執業挑戰以及社會需要。
+
+多謝主席。"
+LCQ17: Regulating online sale of liquor,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700304.htm,"  Following is a question by the Hon Chan Pui-leung and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
+
+Question:
+
+  It is prohibited under the existing legislation to sell and supply intoxicating liquor to persons under the age of 18 (minors) in the course of business. There are views pointing out that, given the growing popularity of online shopping, minors can easily circumvent the law to purchase liquor by sending private messages to sellers and arranging delivery through courier services. This may give rise to regulatory loopholes since some individual sellers operate online liquor trading businesses without business registration and age verification with buyers. In this connection, will the Government inform this Council:
+
+(1) whether the Inland Revenue Department has issued advisory letters to and instituted prosecutions against persons operating online liquor trading businesses without business registration in accordance with the requirements under the Business Registration Ordinance (Cap. 310) over the past five years; if so, of the numbers concerned and the effectiveness thereof;
+
+(2) given that in its reply to a question raised by a Member of this Council on February 25 this year, the Government indicated that, over the past five years, the Tobacco and Alcohol Control Office (TACO) of the Department of Health had carried out over 2 600 online inspections targeting online shopping platforms and issued more than 600 advisory letters to these platforms pursuant to Part 5 of the Dutiable Commodities (Liquor) Regulations (Cap. 109B), whether it involved repeated non-compliances among these cases; if so, of the numbers and percentages concerned; of the Government's follow-up measures against online shopping platforms or holders of social media accounts not responding to advice repeatedly;
+
+(3) given that it does not require a liquor licence for selling liquor online at present, whether TACO has established mechanisms to proactively monitor online trading platforms and online stores and investigate if reasonable steps have been taken for age verification with buyers when selling liquor; whether studies have been conducted on the use of big data or artificial intelligence systems to proactively monitor non-compliances involving liquor advertisements or suspicious transactions on social media and online platforms, with a view to stepping up efforts in combating illegal sale of liquor to minors; if so, of the effectiveness of these efforts; if not, the reasons for that; and
+
+(4) quite a number of countries have formulated strict regulations on online sale of liquor as an effort to protect youth health and regulate the supply of alcohol, for instance, Singapore mandates that individuals and commercial enterprises, including e-commerce platforms, are required to obtain a licence before supplying alcoholic beverages online or through telecommunications services and that these platforms should take the initiative to remove non-compliant products and be jointly and severally liable for non-compliances, whether the Government will make reference to the experience of other places and formulate relevant regulations; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+  According to the World Health Organization (WHO), harmful use of alcohol is a significant risk factor for more than 200 diseases, injuries and other health conditions. Harmful use of alcohol is associated with the risk of developing a range of health problems such as mental and behavioural disorders (including alcohol dependence), and major non-communicable diseases (NCDs) (e.g. liver cirrhosis and certain cancers). In addition to health effects, harmful use of alcohol can place a heavy burden on individuals, families and the society. The WHO recommends that governments of various places should strengthen their responses to reduce alcohol-related harm for prevention and control of NCDs. Reducing alcohol-related harm is an important priority action area in the prevention and control of NCDs locally. In 2018, the Government promulgated the Strategy and Action Plan to Prevent and Control Non-communicable Diseases in Hong Kong (SAP). To this end, the Government adopts a multi-pronged approach, comprising publicity and education, law enforcement, and promotion of alcohol screening, and more. The Department of Health (DH) has been enforcing the Dutiable Commodities (Amendment) Ordinance 2018 (the Amendment Ordinance) since 2018 to further prevent youth access to alcohol. In response to the Hon Chan Pui-leung's question, the reply after consultation with the Financial Services and the Treasury Bureau and the DH is as follows:
+
+(1) Any person who carries on a business in Hong Kong, regardless of whether through a brick-and-mortar presence or the internet, is required to apply for business registration under the Business Registration Ordinance (Cap. 310). If the Inland Revenue Department (IRD) is aware that any person carrying on a business in Hong Kong has not applied for business registration, it would advise the relevant person to apply for business registration as soon as possible, and would consider initiating prosecution against the relevant person where necessary.
+
+  As the IRD does not maintain statistics on cases involving issuance of advice, the relevant figures are not available. According to the IRD's experience, most of those who received advice would apply for business registration promptly. In the past five years, the IRD did not institute prosecution in respect of businesses selling alcoholic products online without business registration.
+
+(2) to (4) Through the Amendment Ordinance, the Government adds a new Part 5 and a Schedule to the Dutiable Commodities (Liquor) Regulations (Cap. 109B) (the Regulations). The Regulations aims to prevent minors from accessing and obtaining alcoholic beverages in order to protect the health of young people and have been in force since 2018. The Regulations prohibit any persons from selling or supplying intoxicating liquor to a minor in the course of business (including face-to-face and remote distribution). For remote distribution, the seller must display or broadcast the prescribed notice stating that, under the law of Hong Kong, intoxicating liquor must not be sold or supplied to minors in the course of business. The seller must also obtain an age declaration from the buyer confirming that he/she is 18 years of age or above prior to the sale or supply, and there must be no circumstances that would give the seller reasonable grounds to suspect that the declaration is false.
+
+  Having drawn reference from the experience of other jurisdictions and striking a balance between protecting public health and the degree of regulation, the Regulations adopt a strategy that focuses on the regulation of the transaction, including making it an offence to complete each remote transaction without first receiving an age declaration. Compared with a licensing regime imposed on sellers, this approach enable the Tobacco and Alcohol Control Office (TACO) of the DH to directly investigate and take enforcement action against suspected illegal selling of liquor to minors, regardless of whether the seller holds a licence. This approach also covers covert sales.
+
+  The TACO has established a mechanism to continuously and proactively engage with the trade, including online platforms, to provide guidelines which are respectively applicable to the sellers, the delivery staff employed by the sellers, and more. The guidelines sets out the reasonable steps when delivering the liquor, so as to assist the trade in understanding and complying with the relevant requirements. For example, where delivery services are required to complete the remote distribution order after the sale of liquor, the delivery staff who is employed by the company selling the alcoholic beverages have a legal obligation to verify that the recipient is 18 years of age or above before handing over the liquor.
+
+  Between 2021 and 2025, the TACO conducted more than 2 600 online inspections and issued more than 600 advisory letters in response to cases where websites were found not to have properly implemented the requirements regarding the prescribed notice or age declaration. All relevant websites co-operated and took follow-up action after receiving the advisory letters, with no cases involving repeated disregard of the advice.
+
+  The Government is also committed to leveraging technology to enhance enforcement efficiency at various levels. The TACO is exploring the use of big data or artificial intelligence technology to assist in online inspection work and will introduce appropriate tools in a timely manner in light of the development of relevant technologies.
+
+  In addition, the TACO places great importance on public education to more effectively regulate the unlawful sale of alcoholic beverages to minors under the Regulations. The DH has launched the ""Young and Alcohol Free"" campaign since 2016, with the development of health education resources, Announcements in the Public Interest, and collaboration with groups and non-governmental organisations serving youth, to disseminate relevant messages. The latest round of the promotional campaign was launched in 2025 and was promoted through social media, residential building lobby TV display network, public transport, venues under the DH and other Government departments.
+
+  Regular surveys conducted by the Narcotics Division of the Security Bureau collect information on alcohol drinking, smoking and drug use among young people. According to the Survey of Drug Use among Students, since the Amendment Ordinance took effect, the prevalence of ever drinking, 12-month drinking and 30-day drinking among youth shows a downward trend, meeting the relevant target as stated in the SAP, which aims to achieve a relative reduction of at least 10 per cent in the prevalence of drinking among youth from the 2011/12 level by 2025. The relevant figures are tabulated below:
 
 
 
 
-功能
-總使用人數
-過去三個月平均每月使用人數（註）
+
+Year 2011/12
+Year 2023/24
+Change
 
 
-「跨境健康紀錄」
-21 170
-3 703
+The prevalence of ever drinking among youth
+56.0%
+40.4%
+-27.9%
 
 
-「個人資料夾」
-自行存入健康紀錄
-10 457
-1 169
+The prevalence of 12-month drinking among youth
+41.0%
+27.9%
+-32.0%
 
 
-授權指定醫療機構存入放射影像報告
-6 789
-2 062
+The prevalence of 30-day drinking among youth
+18.4%
+14.3%
+-22.3%
 
 
 
-
-註：過去三個月，平均每月約有10 000名合資格長者曾在20間指定粵港澳大灣區（大灣區）醫療機構使用醫療券。
-
-（二）《2025年電子健康紀錄互通系統（修訂）條例》（《修訂條例》）於二○二五年十二月一日實施，旨在擴展和優化醫健通的資料收集、互通、使用及保障機制，更有效配合「醫健通+」五年發展計劃。其中，《修訂條例》增設條文，在充分保障資料私隱和系統安全，以及符合指明規定及條件的前提下，電子健康紀錄專員（專員）可認可個別境外的醫療機構及公共健康紀錄系統。若市民到訪已獲認可的境外醫療機構使用服務，可選擇授權該醫療機構取覽其醫健通紀錄，及將其使用服務後的健康紀錄直接存入個人醫健通戶口。
-
-政府會根據推展上述醫健通跨境功能的經驗，並配合各項跨境醫療協作措施及市民的跨境醫療需求，逐步落實認可安排。其中，政府會按《修訂條例》、其他相關法律法規及數字政策辦公室的《政府資訊科技保安政策及指引》制定《實務守則》，以訂明認可安排及條件，涵蓋技術要求、保安及私隱標準、監管及事故應變機制，以有效保障醫健通系統安全及資料私隱。若獲認可的非香港醫護機構或公共健康紀錄系統違反認可條件，或該項認可可能損害醫健通的保安或危害其完整性，專員可暫時撤銷或撤銷有關認可。
-
-為確保專員所施加的條件有足夠約束力和在相關司法管轄區的合規性，政府亦會通過與獲認可的非香港醫護機構或公共健康紀錄系統營運機構簽訂合約或協議等方式，為跨境電子健康紀錄互通和使用安排提供法律基礎，以確保跨境數據傳輸的合法性及保護個人資料安全。
-
-（三）現時，市民透過「個人資料夾」功能將境外醫療紀錄存入個人醫健通戶口後，香港醫護機構（包括醫管局）在獲得市民授權後，可按「病人正接受其護理」及「有需要知道」的原則，透過醫健通取覽相關紀錄，以輔助臨床診治。
-
-一般而言，病人在醫管局轄下醫院或診所就診時，醫生會根據病人的臨床情況及醫療紀錄，為病人提供適切治療、安排檢查或轉介服務等。過程中，醫生會行使專業判斷，評估是否需要參考病人的相關醫健通紀錄及由病人提供的其他醫療資料，包括由本地或境外醫護機構發出的診斷或醫療報告，以確保診療決策的全面性和準確性。不論報告來源為本地或境外醫護機構，醫生在參考相關報告後，基於多種臨床原因，仍可能建議病人再次進行檢測。舉例而言，影像檢查或需採用不同技術（如電腦斷層容積測量或三維重建）；血液測試（如腫瘤標誌物測試）或需重新檢測以便對比；而超聲波檢查結果則可能因操作人員不同而有所差異。
-
-截至二○二六年四月，香港醫護機構查閱市民透過醫健通「個人資料夾」功能自行存入的健康紀錄超過4 500次，其中約三分之一來自醫管局。此外，香港醫護機構查閱「個人資料夾」內經市民授權指定大灣區醫療機構存入放射影像報告超過600次，當中醫管局佔逾八成。醫管局會加強向前線醫生宣傳善用醫健通平台，協助他們更全面掌握病人狀況，務求更有效回應病人健康需求，同時盡量減少病人重複檢測，並節省護理成本。"
+"
 LCQ13: Cross-boundary use of Electronic Health System,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700299.htm,"  Following is a question by the Hon Chris Ip and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
 
 Question:
@@ -690,97 +692,30 @@ Note: During the period of May and June 2023, the spreading of quite a number of
 (4) With the strong support and assistance of the Central Government and relevant Mainland authorities, there were two cases of successful cross-boundary organ donation from the Mainland to Hong Kong in December 2022 and February 2025. On the basis of the two successful cases, Hong Kong and the Mainland have currently established standing channels and standardised co-operation procedures for handling emergency cross-boundary organ transplant. When a patient in moribund condition is confirmed to be in need of urgent organ transplantation to extend his/her life and no suitable organ is available in Hong Kong, subject to the fulfilment of relevant clinical criteria as assessed by the medical team and the consent of his/her family members, the Government will seek assistance from the country. The operational procedures for handling emergency cross-boundary organ transplant adopt a second-tier allocation mechanism, which will be activated only when local matching is unsuccessful for a donated cadaveric organ. Each case will be notified to the relevant government departments and an application will be made. The relevant departments will then vet the application and implement the arrangements in accordance with the established mechanism to ensure that the transportation and transplant processes are in compliance with the laws and regulations of both places.
 
   In addition, the HA has formulated and implemented a set of standardised clinical protocols in terms of technical requirements, criteria and procedures for handling emergency cross-boundary organ transplant cases in a consistent approach. This is to ensure that organ donation is conducted in a legal, fair, equitable and safe manner to benefit patients with the greatest need. The Government will continue to seek assistance from the country for patients in urgent need of organ transplant in accordance with the mechanism, and improve the cross-boundary organ transplant mutual assistance mechanism based on the experience gained from handling more successful cases."
-LCQ17: Regulating online sale of liquor,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700304.htm,"  Following is a question by the Hon Chan Pui-leung and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
+車輛登記號碼網上拍賣於六月十一日至十五日舉行,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700282.htm,"運輸署今日（五月二十七日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於六月十一日（星期四）中午十二時至六月十五日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
 
-Question:
+運輸署發言人說：「是次網上競投會公開拍賣二百二十個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以『HK』或『XX』為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
 
-  It is prohibited under the existing legislation to sell and supply intoxicating liquor to persons under the age of 18 (minors) in the course of business. There are views pointing out that, given the growing popularity of online shopping, minors can easily circumvent the law to purchase liquor by sending private messages to sellers and arranging delivery through courier services. This may give rise to regulatory loopholes since some individual sellers operate online liquor trading businesses without business registration and age verification with buyers. In this connection, will the Government inform this Council:
+參與網上競投的人士應留意以下重點：
 
-(1) whether the Inland Revenue Department has issued advisory letters to and instituted prosecutions against persons operating online liquor trading businesses without business registration in accordance with the requirements under the Business Registration Ordinance (Cap. 310) over the past five years; if so, of the numbers concerned and the effectiveness thereof;
+（一）競投人士需預先以具有數碼簽署功能的「智方便+」，或以有效電子證書和電郵地址註冊，完成身分驗證後成為「拍牌易」用戶。已登記「智方便」用戶在註冊「拍牌易」用戶時需提供香港身份證號碼，非本港居民而沒有「智方便」戶口的人士則需提供護照或其他身分證明文件號碼。
 
-(2) given that in its reply to a question raised by a Member of this Council on February 25 this year, the Government indicated that, over the past five years, the Tobacco and Alcohol Control Office (TACO) of the Department of Health had carried out over 2 600 online inspections targeting online shopping platforms and issued more than 600 advisory letters to these platforms pursuant to Part 5 of the Dutiable Commodities (Liquor) Regulations (Cap. 109B), whether it involved repeated non-compliances among these cases; if so, of the numbers and percentages concerned; of the Government's follow-up measures against online shopping platforms or holders of social media accounts not responding to advice repeatedly;
+（二）競投人士在每一場網上拍賣作第一次出價時（包括在拍賣開始前預設自動出價），必須使用「智方便+」或有效電子證書提供數碼簽署以確認提出競價和競價金額，以符合《電子交易條例》的要求。
 
-(3) given that it does not require a liquor licence for selling liquor online at present, whether TACO has established mechanisms to proactively monitor online trading platforms and online stores and investigate if reasonable steps have been taken for age verification with buyers when selling liquor; whether studies have been conducted on the use of big data or artificial intelligence systems to proactively monitor non-compliances involving liquor advertisements or suspicious transactions on social media and online platforms, with a view to stepping up efforts in combating illegal sale of liquor to minors; if so, of the effectiveness of these efforts; if not, the reasons for that; and
+（三）如果在拍賣結束前的最後10分鐘內就某個車牌號碼仍有競投出價，則該車牌號碼的拍賣結束時間將自動再延長10分鐘，該車牌號碼的拍賣時間最多可延長24小時。
 
-(4) quite a number of countries have formulated strict regulations on online sale of liquor as an effort to protect youth health and regulate the supply of alcohol, for instance, Singapore mandates that individuals and commercial enterprises, including e-commerce platforms, are required to obtain a licence before supplying alcoholic beverages online or through telecommunications services and that these platforms should take the initiative to remove non-compliant products and be jointly and severally liable for non-compliances, whether the Government will make reference to the experience of other places and formulate relevant regulations; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
-  According to the World Health Organization (WHO), harmful use of alcohol is a significant risk factor for more than 200 diseases, injuries and other health conditions. Harmful use of alcohol is associated with the risk of developing a range of health problems such as mental and behavioural disorders (including alcohol dependence), and major non-communicable diseases (NCDs) (e.g. liver cirrhosis and certain cancers). In addition to health effects, harmful use of alcohol can place a heavy burden on individuals, families and the society. The WHO recommends that governments of various places should strengthen their responses to reduce alcohol-related harm for prevention and control of NCDs. Reducing alcohol-related harm is an important priority action area in the prevention and control of NCDs locally. In 2018, the Government promulgated the Strategy and Action Plan to Prevent and Control Non-communicable Diseases in Hong Kong (SAP). To this end, the Government adopts a multi-pronged approach, comprising publicity and education, law enforcement, and promotion of alcohol screening, and more. The Department of Health (DH) has been enforcing the Dutiable Commodities (Amendment) Ordinance 2018 (the Amendment Ordinance) since 2018 to further prevent youth access to alcohol. In response to the Hon Chan Pui-leung's question, the reply after consultation with the Financial Services and the Treasury Bureau and the DH is as follows:
-
-(1) Any person who carries on a business in Hong Kong, regardless of whether through a brick-and-mortar presence or the internet, is required to apply for business registration under the Business Registration Ordinance (Cap. 310). If the Inland Revenue Department (IRD) is aware that any person carrying on a business in Hong Kong has not applied for business registration, it would advise the relevant person to apply for business registration as soon as possible, and would consider initiating prosecution against the relevant person where necessary.
-
-  As the IRD does not maintain statistics on cases involving issuance of advice, the relevant figures are not available. According to the IRD's experience, most of those who received advice would apply for business registration promptly. In the past five years, the IRD did not institute prosecution in respect of businesses selling alcoholic products online without business registration.
-
-(2) to (4) Through the Amendment Ordinance, the Government adds a new Part 5 and a Schedule to the Dutiable Commodities (Liquor) Regulations (Cap. 109B) (the Regulations). The Regulations aims to prevent minors from accessing and obtaining alcoholic beverages in order to protect the health of young people and have been in force since 2018. The Regulations prohibit any persons from selling or supplying intoxicating liquor to a minor in the course of business (including face-to-face and remote distribution). For remote distribution, the seller must display or broadcast the prescribed notice stating that, under the law of Hong Kong, intoxicating liquor must not be sold or supplied to minors in the course of business. The seller must also obtain an age declaration from the buyer confirming that he/she is 18 years of age or above prior to the sale or supply, and there must be no circumstances that would give the seller reasonable grounds to suspect that the declaration is false.
-
-  Having drawn reference from the experience of other jurisdictions and striking a balance between protecting public health and the degree of regulation, the Regulations adopt a strategy that focuses on the regulation of the transaction, including making it an offence to complete each remote transaction without first receiving an age declaration. Compared with a licensing regime imposed on sellers, this approach enable the Tobacco and Alcohol Control Office (TACO) of the DH to directly investigate and take enforcement action against suspected illegal selling of liquor to minors, regardless of whether the seller holds a licence. This approach also covers covert sales.
-
-  The TACO has established a mechanism to continuously and proactively engage with the trade, including online platforms, to provide guidelines which are respectively applicable to the sellers, the delivery staff employed by the sellers, and more. The guidelines sets out the reasonable steps when delivering the liquor, so as to assist the trade in understanding and complying with the relevant requirements. For example, where delivery services are required to complete the remote distribution order after the sale of liquor, the delivery staff who is employed by the company selling the alcoholic beverages have a legal obligation to verify that the recipient is 18 years of age or above before handing over the liquor.
-
-  Between 2021 and 2025, the TACO conducted more than 2 600 online inspections and issued more than 600 advisory letters in response to cases where websites were found not to have properly implemented the requirements regarding the prescribed notice or age declaration. All relevant websites co-operated and took follow-up action after receiving the advisory letters, with no cases involving repeated disregard of the advice.
-
-  The Government is also committed to leveraging technology to enhance enforcement efficiency at various levels. The TACO is exploring the use of big data or artificial intelligence technology to assist in online inspection work and will introduce appropriate tools in a timely manner in light of the development of relevant technologies.
-
-  In addition, the TACO places great importance on public education to more effectively regulate the unlawful sale of alcoholic beverages to minors under the Regulations. The DH has launched the ""Young and Alcohol Free"" campaign since 2016, with the development of health education resources, Announcements in the Public Interest, and collaboration with groups and non-governmental organisations serving youth, to disseminate relevant messages. The latest round of the promotional campaign was launched in 2025 and was promoted through social media, residential building lobby TV display network, public transport, venues under the DH and other Government departments.
-
-  Regular surveys conducted by the Narcotics Division of the Security Bureau collect information on alcohol drinking, smoking and drug use among young people. According to the Survey of Drug Use among Students, since the Amendment Ordinance took effect, the prevalence of ever drinking, 12-month drinking and 30-day drinking among youth shows a downward trend, meeting the relevant target as stated in the SAP, which aims to achieve a relative reduction of at least 10 per cent in the prevalence of drinking among youth from the 2011/12 level by 2025. The relevant figures are tabulated below:
+（四）成功競投人士須根據由運輸署發出的通知電郵內的指示，在電郵發出的48小時內登入「拍牌易」辦理後續手續，包括：
 
 
+填妥「車輛登記號碼發售備忘錄」（「發售備忘錄」）上有關買主的資料；及
+透過信用卡、「轉數快」（FPS）或「繳費靈」（PPS）於網上繳付有關車牌號碼的買價。「拍牌易」不接受支票或現金付款。
 
+​
+（五）車牌號碼只能配予以買主名義登記的汽車。任何車牌號碼如需以有限公司名義登記，成功競投人士必須在「發售備忘錄」買主資料中填妥該公司註冊證明書內的有關資料。
 
+（六）成功競投人士會在付款獲確認後約七個工作天收到通知電郵，並可在「拍牌易」下載「發售備忘錄」。他們須於「發售備忘錄」發出後十二個月內，申請將有關車牌號碼配予以買主名義登記的車輛。如未能如期於十二個月內完成，運輸署將根據法例取消該車牌號碼的分配並安排另行分配，而不會事先通知買主。
 
-Year 2011/12
-Year 2023/24
-Change
-
-
-The prevalence of ever drinking among youth
-56.0%
-40.4%
--27.9%
-
-
-The prevalence of 12-month drinking among youth
-41.0%
-27.9%
--32.0%
-
-
-The prevalence of 30-day drinking among youth
-18.4%
-14.3%
--22.3%
-
-
-
-"
-Online auction of vehicle registration marks to be held from June 11 to 15,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700305.htm,"  The Transport Department (TD) today (May 27) said that the next online auction of vehicle registration marks (VRMs) will be held from noon on June 11 (Thursday) to noon on June 15 (Monday) through the auction platform E-Auction (e-auction.td.gov.hk). Interested bidders can participate in the online auction only after they have successfully registered as E-Auction users.
-
- A spokesman for the TD said, ""A total of 220 Ordinary VRMs will be available at this online public auction. The list of VRMs (see Annex) has been uploaded to the E-Auction website. Applicants who have paid a $1,000 deposit to reserve an Ordinary VRM for auction should also register as an E-Auction user in advance in order to participate in the online bidding, including placing the first bid at the opening price of $1,000. Otherwise, the VRMs reserved by them may be bid on by other interested bidders at or above the opening price. Auctions for VRMs with 'HK' or 'XX' as a prefix, special VRMs and personalised VRMs will continue to be carried out through physical auctions by bidding paddles and their announcement arrangements remain unchanged.""
-
- Members of the public participating in the online bidding should take note of the following important points:
-
-(1) Bidders should register in advance as an E-Auction user by ""iAM Smart+"" equipped with the digital signing function; or by using a valid digital certificate and an email address upon completion of identity verification. Registered ""iAM Smart"" users should provide their Hong Kong identity card number, while non-Hong Kong residents who are not ""iAM Smart"" users should provide the number of their passport or other identification documents when registering as E-Auction users.
-
-(2) Bidders are required to provide a digital signature to confirm the submission and amount of the bid by using ""iAM Smart+"" or a valid digital certificate at the time of the first bid of each online bidding session (including setting automatic bids before the auction begins) to comply with the requirements of the Electronic Transactions Ordinance.
-
-(3) If a bid is made in respect of a VRM within the last 10 minutes before the end of the auction, the auction end time for that particular VRM will be automatically extended by another 10 minutes, up to a maximum of 24 hours.
-
-(4) Successful bidders must follow the instructions in the notification email issued by the TD to log in to the E-Auction within 48 hours from the issuance of email and complete the follow-up procedures, including:
-
-
-completing the Purchaser Information for the issuance of the Memorandum of Sale of Registration Mark (Memorandum of Sale); and
-making the auction payment online by credit card, Faster Payment System (FPS) or Payment by Phone Service (PPS). Cheque or cash payment is not accepted in the E-Auction.
-
-
-(5) A VRM can only be assigned to a motor vehicle registered in the name of the purchaser. Relevant information on the Certificate of Incorporation must be provided by the successful bidder in the Purchaser Information of the Memorandum of Sale if the VRM purchased is to be registered under the name of a body corporate.
-
-(6) Successful bidders will receive a notification email around seven working days after payment has been confirmed and can download the Memorandum of Sale from the E-Auction. The purchaser must apply for the VRM to be assigned to a motor vehicle registered in the name of the purchaser within 12 months from the date of issue of the Memorandum of Sale. If the purchaser fails to do so within the 12-month period, in accordance with the statutory provision, the allocation of the VRM will be cancelled and a new allocation will be arranged by the TD without prior notice to the purchaser.
-
- The TD has informed all applicants who have reserved Ordinary VRMs for this round of auction of the E-Auction arrangements in detail by post. Members of the public may refer to the E-Auction website or watch the tutorial videos for more information. Please call the E-Auction hotline (3583 3980) or email (e-auction-enquiry@td.gov.hk) for enquiries."
+運輸署已發信予是次預留普通車牌號碼待拍賣的申請人，詳細介紹「拍牌易」的運作。市民亦可參閱「拍牌易」網頁及觀看教學短片了解詳情。如有查詢，可致電「拍牌易」熱線（3583 3980）或以電郵（e-auction-enquiry@td.gov.hk）查詢。"
 立法會十四題：器官捐贈及跨境器官移植互助機制,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700306.htm,"以下是今日（五月二十七日）在立法會會議上管浩鳴議員的提問和醫務衞生局局長盧寵茂教授的書面答覆︰
 
 問題：
@@ -921,30 +856,97 @@ making the auction payment online by credit card, Faster Payment System (FPS) or
 
 
 "
-車輛登記號碼網上拍賣於六月十一日至十五日舉行,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700282.htm,"運輸署今日（五月二十七日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於六月十一日（星期四）中午十二時至六月十五日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
+​立法會十三題：跨境使用電子健康系統,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700298.htm,"以下是今日（五月二十七日）在立法會會議上葉傲冬議員的提問和醫務衞生局局長盧寵茂教授的書面答覆︰
 
-運輸署發言人說：「是次網上競投會公開拍賣二百二十個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以『HK』或『XX』為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
+問題：
 
-參與網上競投的人士應留意以下重點：
+政府自二○二四年起推行醫健通流動應用程式的「跨境健康紀錄」及「個人資料夾」兩項功能，便利市民安全地於指定境外醫療機構跨境使用電子健康紀錄，以獲得更連貫的醫療服務。就此，政府可否告知本會：
 
-（一）競投人士需預先以具有數碼簽署功能的「智方便+」，或以有效電子證書和電郵地址註冊，完成身分驗證後成為「拍牌易」用戶。已登記「智方便」用戶在註冊「拍牌易」用戶時需提供香港身份證號碼，非本港居民而沒有「智方便」戶口的人士則需提供護照或其他身分證明文件號碼。
+（一）「跨境健康紀錄」功能自二○二五年十二月二十四日起由只限於合資格使用醫療券的長者，擴展至全港約630萬醫健通用戶至今，每月共有多少名香港市民申請及使用「跨境健康紀錄」功能；
 
-（二）競投人士在每一場網上拍賣作第一次出價時（包括在拍賣開始前預設自動出價），必須使用「智方便+」或有效電子證書提供數碼簽署以確認提出競價和競價金額，以符合《電子交易條例》的要求。
+（二）於去年七月獲立法會通過並於同年十二月一日實施的《2025年電子健康紀錄互通系統（修訂）條例》，賦權電子健康紀錄專員在充分保障資料私隱和系統安全，以及符合指明規定及條件的前提下，認可個別境外的醫護提供者及公共健康紀錄系統，有關推展認可安排的進度及時間表為何；及
 
-（三）如果在拍賣結束前的最後10分鐘內就某個車牌號碼仍有競投出價，則該車牌號碼的拍賣結束時間將自動再延長10分鐘，該車牌號碼的拍賣時間最多可延長24小時。
+（三）鑑於本人近日收到投訴，指有市民持指定境外醫療機構發出的檢查報告，讓本地公立醫院醫生作參考，惟據悉該名公立醫院醫生以「看不明報告」為理由，拒絕接受有關報告，並要求投訴人再在香港排期進行同樣的檢查，並鑑於政府曾在二○二六年二月二十五日答覆本會議員的質詢時表示，會透過醫健通進一步深化跨境醫療紀錄互通，政府目前有否計劃優化現行的做法，讓香港公立醫院接受指定境外醫療機構發出的健康檢查報告，以免市民重複進行相同的檢查；如有，詳情為何；如否，原因為何？
 
-（四）成功競投人士須根據由運輸署發出的通知電郵內的指示，在電郵發出的48小時內登入「拍牌易」辦理後續手續，包括：
+答覆：
+
+主席：
+
+醫健通是政府二○一六年推出的全港性電子健康紀錄互通系統，讓市民可授權公私營醫護機構取覽和互通他們的電子健康紀錄作醫護用途。為充分利用醫健通的優良條件，政府在二○二三年《施政報告》公布推出「醫健通+」五年發展計劃，將醫健通提升為集醫療數據互通、服務提供及流程管理於一身的綜合醫療資訊基建。「醫健通+」旨在促進護理協調、跨界別協作及健康管理和監測，讓市民獲得更優質的醫護服務，同時更有效地支援醫療改革及各項醫療政策，包括基層醫療和跨境醫療服務。政府現正根據病人為本原則及「統一電子病歷」、「統一治理流程」、「統一健康工具」及「統一數據平台」四大策略方向，分階段推展「醫健通+」計劃。
+
+為配合跨境醫療協作，政府自二○二四年起逐步在香港大學深圳醫院（港大深圳醫院）和「長者醫療券大灣區試點計劃」下合共20間醫療機構，推行醫健通流動應用程式「跨境健康紀錄」及「個人資料夾」兩項功能，在自攜病歷的原則下，便利香港市民透過醫健通安全地跨境使用電子健康紀錄，從而獲取更連貫的醫療服務。「跨境健康紀錄」功能讓醫健通用戶申請過去三年存放在醫健通的電子健康紀錄，並授權指定境外醫療機構的醫護人員在用戶就診時瀏覽，以助診斷和治療。此外，用戶可利用「個人資料夾」功能將境外求醫時取得的醫療紀錄存入個人醫健通戶口，方便集中保存和運用，包括供獲授權的香港醫護提供者在跟進護理時，通過醫健通取覽。
+
+政府於二○二五年十二月將「跨境健康紀錄」功能的受惠對象由原本限於合資格使用長者醫療券的長者，擴展至全港醫健通用戶。政府亦在二○二六年一月提升「個人資料夾」功能，市民每次前往三間指定境外醫療機構（即港大深圳醫院、中山陳星海中西醫結合醫院和深圳新風和睦家醫院）接受放射科服務前，可授權機構為他們存入較難自行上傳的高解像度放射檢查報告及影像至個人醫健通戶口。
+
+政府會繼續與內地相關部門及醫療機構緊密溝通，透過醫健通有序地擴大及深化跨境醫療紀錄互通，務求更有效地支援市民的跨境醫療需求及提升跨境醫療服務的質量安全。
+
+就葉傲冬議員的提問，經諮詢醫院管理局（醫管局）後，現答覆如下：
+
+（一）截至二○二六年四月，超過32 500名市民曾使用醫健通流動應用程式「跨境健康紀錄」及「個人資料夾」兩項功能，詳細統計數字如下：
 
 
-填妥「車輛登記號碼發售備忘錄」（「發售備忘錄」）上有關買主的資料；及
-透過信用卡、「轉數快」（FPS）或「繳費靈」（PPS）於網上繳付有關車牌號碼的買價。「拍牌易」不接受支票或現金付款。
 
-​
-（五）車牌號碼只能配予以買主名義登記的汽車。任何車牌號碼如需以有限公司名義登記，成功競投人士必須在「發售備忘錄」買主資料中填妥該公司註冊證明書內的有關資料。
 
-（六）成功競投人士會在付款獲確認後約七個工作天收到通知電郵，並可在「拍牌易」下載「發售備忘錄」。他們須於「發售備忘錄」發出後十二個月內，申請將有關車牌號碼配予以買主名義登記的車輛。如未能如期於十二個月內完成，運輸署將根據法例取消該車牌號碼的分配並安排另行分配，而不會事先通知買主。
+功能
+總使用人數
+過去三個月平均每月使用人數（註）
 
-運輸署已發信予是次預留普通車牌號碼待拍賣的申請人，詳細介紹「拍牌易」的運作。市民亦可參閱「拍牌易」網頁及觀看教學短片了解詳情。如有查詢，可致電「拍牌易」熱線（3583 3980）或以電郵（e-auction-enquiry@td.gov.hk）查詢。"
+
+「跨境健康紀錄」
+21 170
+3 703
+
+
+「個人資料夾」
+自行存入健康紀錄
+10 457
+1 169
+
+
+授權指定醫療機構存入放射影像報告
+6 789
+2 062
+
+
+
+
+註：過去三個月，平均每月約有10 000名合資格長者曾在20間指定粵港澳大灣區（大灣區）醫療機構使用醫療券。
+
+（二）《2025年電子健康紀錄互通系統（修訂）條例》（《修訂條例》）於二○二五年十二月一日實施，旨在擴展和優化醫健通的資料收集、互通、使用及保障機制，更有效配合「醫健通+」五年發展計劃。其中，《修訂條例》增設條文，在充分保障資料私隱和系統安全，以及符合指明規定及條件的前提下，電子健康紀錄專員（專員）可認可個別境外的醫療機構及公共健康紀錄系統。若市民到訪已獲認可的境外醫療機構使用服務，可選擇授權該醫療機構取覽其醫健通紀錄，及將其使用服務後的健康紀錄直接存入個人醫健通戶口。
+
+政府會根據推展上述醫健通跨境功能的經驗，並配合各項跨境醫療協作措施及市民的跨境醫療需求，逐步落實認可安排。其中，政府會按《修訂條例》、其他相關法律法規及數字政策辦公室的《政府資訊科技保安政策及指引》制定《實務守則》，以訂明認可安排及條件，涵蓋技術要求、保安及私隱標準、監管及事故應變機制，以有效保障醫健通系統安全及資料私隱。若獲認可的非香港醫護機構或公共健康紀錄系統違反認可條件，或該項認可可能損害醫健通的保安或危害其完整性，專員可暫時撤銷或撤銷有關認可。
+
+為確保專員所施加的條件有足夠約束力和在相關司法管轄區的合規性，政府亦會通過與獲認可的非香港醫護機構或公共健康紀錄系統營運機構簽訂合約或協議等方式，為跨境電子健康紀錄互通和使用安排提供法律基礎，以確保跨境數據傳輸的合法性及保護個人資料安全。
+
+（三）現時，市民透過「個人資料夾」功能將境外醫療紀錄存入個人醫健通戶口後，香港醫護機構（包括醫管局）在獲得市民授權後，可按「病人正接受其護理」及「有需要知道」的原則，透過醫健通取覽相關紀錄，以輔助臨床診治。
+
+一般而言，病人在醫管局轄下醫院或診所就診時，醫生會根據病人的臨床情況及醫療紀錄，為病人提供適切治療、安排檢查或轉介服務等。過程中，醫生會行使專業判斷，評估是否需要參考病人的相關醫健通紀錄及由病人提供的其他醫療資料，包括由本地或境外醫護機構發出的診斷或醫療報告，以確保診療決策的全面性和準確性。不論報告來源為本地或境外醫護機構，醫生在參考相關報告後，基於多種臨床原因，仍可能建議病人再次進行檢測。舉例而言，影像檢查或需採用不同技術（如電腦斷層容積測量或三維重建）；血液測試（如腫瘤標誌物測試）或需重新檢測以便對比；而超聲波檢查結果則可能因操作人員不同而有所差異。
+
+截至二○二六年四月，香港醫護機構查閱市民透過醫健通「個人資料夾」功能自行存入的健康紀錄超過4 500次，其中約三分之一來自醫管局。此外，香港醫護機構查閱「個人資料夾」內經市民授權指定大灣區醫療機構存入放射影像報告超過600次，當中醫管局佔逾八成。醫管局會加強向前線醫生宣傳善用醫健通平台，協助他們更全面掌握病人狀況，務求更有效回應病人健康需求，同時盡量減少病人重複檢測，並節省護理成本。"
+Online auction of vehicle registration marks to be held from June 11 to 15,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700305.htm,"  The Transport Department (TD) today (May 27) said that the next online auction of vehicle registration marks (VRMs) will be held from noon on June 11 (Thursday) to noon on June 15 (Monday) through the auction platform E-Auction (e-auction.td.gov.hk). Interested bidders can participate in the online auction only after they have successfully registered as E-Auction users.
+
+ A spokesman for the TD said, ""A total of 220 Ordinary VRMs will be available at this online public auction. The list of VRMs (see Annex) has been uploaded to the E-Auction website. Applicants who have paid a $1,000 deposit to reserve an Ordinary VRM for auction should also register as an E-Auction user in advance in order to participate in the online bidding, including placing the first bid at the opening price of $1,000. Otherwise, the VRMs reserved by them may be bid on by other interested bidders at or above the opening price. Auctions for VRMs with 'HK' or 'XX' as a prefix, special VRMs and personalised VRMs will continue to be carried out through physical auctions by bidding paddles and their announcement arrangements remain unchanged.""
+
+ Members of the public participating in the online bidding should take note of the following important points:
+
+(1) Bidders should register in advance as an E-Auction user by ""iAM Smart+"" equipped with the digital signing function; or by using a valid digital certificate and an email address upon completion of identity verification. Registered ""iAM Smart"" users should provide their Hong Kong identity card number, while non-Hong Kong residents who are not ""iAM Smart"" users should provide the number of their passport or other identification documents when registering as E-Auction users.
+
+(2) Bidders are required to provide a digital signature to confirm the submission and amount of the bid by using ""iAM Smart+"" or a valid digital certificate at the time of the first bid of each online bidding session (including setting automatic bids before the auction begins) to comply with the requirements of the Electronic Transactions Ordinance.
+
+(3) If a bid is made in respect of a VRM within the last 10 minutes before the end of the auction, the auction end time for that particular VRM will be automatically extended by another 10 minutes, up to a maximum of 24 hours.
+
+(4) Successful bidders must follow the instructions in the notification email issued by the TD to log in to the E-Auction within 48 hours from the issuance of email and complete the follow-up procedures, including:
+
+
+completing the Purchaser Information for the issuance of the Memorandum of Sale of Registration Mark (Memorandum of Sale); and
+making the auction payment online by credit card, Faster Payment System (FPS) or Payment by Phone Service (PPS). Cheque or cash payment is not accepted in the E-Auction.
+
+
+(5) A VRM can only be assigned to a motor vehicle registered in the name of the purchaser. Relevant information on the Certificate of Incorporation must be provided by the successful bidder in the Purchaser Information of the Memorandum of Sale if the VRM purchased is to be registered under the name of a body corporate.
+
+(6) Successful bidders will receive a notification email around seven working days after payment has been confirmed and can download the Memorandum of Sale from the E-Auction. The purchaser must apply for the VRM to be assigned to a motor vehicle registered in the name of the purchaser within 12 months from the date of issue of the Memorandum of Sale. If the purchaser fails to do so within the 12-month period, in accordance with the statutory provision, the allocation of the VRM will be cancelled and a new allocation will be arranged by the TD without prior notice to the purchaser.
+
+ The TD has informed all applicants who have reserved Ordinary VRMs for this round of auction of the E-Auction arrangements in detail by post. Members of the public may refer to the E-Auction website or watch the tutorial videos for more information. Please call the E-Auction hotline (3583 3980) or email (e-auction-enquiry@td.gov.hk) for enquiries."
 立法會一題：推動粵港澳遊艇自由行,2026-05-27 14:50,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700348.htm,"以下是今日（五月二十七日）在立法會會議上朱立威議員的提問和運輸及物流局局長陳美寶的答覆：
 
 問題：
@@ -1608,53 +1610,6 @@ An example is last year's exhibition ""The Great Unity - Civilisation of the Qin
 To enable sustained learning of Chinese culture among the public, the CCPO has set up a dedicated website and social media platforms to pool together online resources relating to Chinese culture from various museums, along with accessible short videos covering Chinese literature, history, philosophy, music, art, folklore and intangible cultural heritage, etc. The videos introduced, for example, Tang poetry, classical Chinese texts and ancient thinkers in an ""edutainment"" format with a view to transforming traditional cultural content into learning resources that are easier for the public to comprehend and absorb. To date, the short videos have nearly 800 000 cumulative views, providing a sustained learning resource for both the public and schools. To deepen public understanding of the Lingnan culture, the CCPO conducts on-campus lectures and workshops using resources from local and Guangzhou museums, and integrates the Lingnan music activities into school music lessons. Additionally, the ""Chinese Culture in Hong Kong Gardens"" series guides the public through the Lingnan Garden within Lai Chi Kok Park, offering an immersive experience of Qing-era Lingnan architecture and landscape design.
 
 The CCPO has absolutely gone beyond organising mega exhibitions, performing arts events, and carnivals, and developed layered cultural learning pathways through carriers of culture in diverse formats. Indeed, these works are echoing President Xi Jinping's call for an effort to bring back to life artefacts in museums, visible heritage across the land, and words in ancient books in order to transform the static preservation of Chinese culture into its living transmission in daily life. The LCSD will continue to expand its programme portfolio and strategies, and incorporate a more extensive range of themes and contemporary elements so as to enable the public to experience the enduring vitality of Chinese culture and therefore further strengthen their sense of national identity and cultural confidence."
-立法會十九題：支援工商專業界開拓新興市場,2026-05-27 12:48,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700367.htm,"以下是今日（五月二十七日）在立法會會議上黃永威議員的提問和署理商務及經濟發展局局長陳百里博士的書面答覆：
-
-問題：
-
-有意見認為，在全球供應鏈重組及當前複雜的地緣政治局勢下，香港作為「超級聯繫人」及「超級增值人」的角色越發重要，而民間工商專業界的對外聯繫、實地考察及業務配對，對於業界在「一帶一路」及《區域全面經濟夥伴關係協定》成員國等市場開拓實質商機亦同樣重要。然而，有業界反映，現有支援計劃在資助比例及行政程序上仍有優化空間，且在開拓「一帶一路」、東南亞國家聯盟及中東等新興市場時，缺乏官方機構的深度統籌與落地支援。就此，政府可否告知本會：
-
-（一）當局有否擬定未來一年，由政府、香港貿易發展局（香港貿發局）、投資推廣署及相關官方機構率領工商專業界代表團外訪的具體計劃（包括目的地、主要目標產業、預計參與的業界規模，以及預期的具體成果績效指標）；如有，詳情及時間表為何；如否，原因為何；
-
-（二）鑑於現時已有工商機構支援基金及專業服務協進支援計劃等措施資助非營利機構的對外推廣工作，政府有否評估該等措施在協助業界進入新興市場（如中東、中亞或東南亞）的成效；過去三年，相關計劃下涉及外訪考察或境外推廣的申請及獲批宗數分別為何；
-
-（三）政府會否進一步優化現有的支援計劃（例如：調高資助比例、簡化跨地域合作項目的申請手續等）或研究推出全新的專項資助計劃，以加強支持民間商會、專業團體及工商支援機構開展更具深度及持續性的對外聯繫工作；如會，詳情為何；如否，原因為何；及
-
-（四）當局會否研究強化駐海外經濟貿易辦事處及香港貿發局駐海外辦事處為民間機構及企業提供的一站式支援平台「經貿一站通」，一併提供法律規管、簽證便利及外匯政策諮詢服務，以解決業界在「落地」新興市場時遇到的實務障礙；如會，詳情及時間表為何；如否，原因為何？
-
-答覆：
-
-主席：
-
-全球貿易格局和地緣政治不斷變化，「一帶一路」沿線國家、東南亞國家聯盟及中東等新興市場的崛起為企業帶來新的商機。政府致力發揮香港作為「超級聯繫人」和「超級增值人」的優勢，深化國際經貿合作，同時亦十分重視與工商業界的聯繫和合作，鼓勵業界透過外訪、推廣等不同形式的活動，對外宣傳香港的最新發展，以期結合民間力量協助香港企業開拓新興市場。
-
-就提問的四個部分，現回覆如下：
-
-（一）及（四）由商務及經濟發局局長督導的內地企業出海專班作為一站式平台，積極招攬內地企業經香港到海外拓展業務，並為它們提供量身訂造的出海支援服務。專班正在推展一系列的工作，當中包括籌備由香港特別行政區政府官員率領的外訪考察團，讓香港及內地企業到訪海外市場，當中包括「一帶一路」沿線國家和《區域全面經濟夥伴關係協定》成員國等高潛力市場，讓它們了解當地市場環境。
-
-其中，行政長官將於二○二六年六月初帶同超過60位高級別的內地和香港商貿代表到訪哈薩克斯坦和烏茲別克斯坦，為企業開拓中亞新商機。當中，內地企業代表有共約30位，來自10多個省、市和自治區，行業包括能源、礦業、天然資源與化工、創新科技與製藥、高端製造、汽車產業、投資與貿易服務等不同範疇。外訪期間，商貿代表會在當地進行交流和商業考察等活動，探索新的合作機遇，推展合作項目。這次外訪考察團是專班自二○二五年十月成立以來，首次由行政長官率領的外訪考察團，亦是本屆政府規模最大、人數最多、涵蓋企業範圍最廣的外訪團。
-
-除了以上出海工作，作為二○二五年《施政報告》的措施，我們亦已設立「經貿一站通」的功能平台，強化駐海外經濟貿易辦事處（經貿辦）、投資推廣署及香港貿易發展局（香港貿發局）三位一體的協作，發揮互補優勢，共同於海外推廣香港的經貿及投資，並為企業開拓新市場。
-
-「經貿一站通」聚焦支援本地中小企業及初創企業，組織企業進行海外商務考察，並為其提供一站式的支援服務（包括安排商貿配對等活動），協助港商尋找海外商機。我們自二○二六年第一季起已陸續籌辦到外地的商務考察圑，包括於二○二六年一月參與美國拉斯維加斯的國際消費電子展並出席「經貿一站通」下的活動，以促進香港初創企業與當地公司的交流和拓展人脈，以及於二○二六年三月到泰國曼谷考察並參加由「經貿一站通」籌辦的「GreenBiz HK綠色營商‧香港營造」活動。除了支持本地企業到海外發展業務，投資推廣署也會物色海外企業來港與本地業界對接，促成更多外來企業落戶香港，從而帶動企業和投資雙向流動。在籌劃海外考察團時，我們會綜合考慮本地企業的需要和意願，以及其他相關因素（例如目標市場的相應安排、考察的合適時間等），以確保考察團的成效。
-
-經貿辦、投資推廣署及香港貿發局會繼續在「經貿一站通」功能平台下加強協作，三位一體地於海外推廣香港的經貿及投資，並透過各自於當地的網絡協助港商於海外市場尋找商機及了解當地市場的運作。
-
-（二）及（三）工商機構支援基金（TSF）資助工商組織、專業團體以及研究機關等非分配利潤組織推行項目，以提升香港整體或個別行業的企業的競爭力，包括協助它們拓展新興市場（包括中東、中亞或東南亞等）。TSF資助的項目活動類型多元化，包括研討會、工作坊、會議、展覽會、調查研究、獎勵計劃、最佳營運守則、數據庫、服務中心、支援設施和科技應用示範等。業界可利用TSF在外地推廣香港品牌，也可舉辦考察團協助企業了解新興市場的商機。每個獲批項目最高可獲TSF資助項目總核准開支的90%，上限為500萬元。
-
-由二○二三年至二○二五年，TSF涉及外訪考察或境外推廣的申請及獲批宗數分別為32宗（註一）和28宗，相關獲批申請涉及的總資助額約為5,700萬元（註二）。根據秘書處進行的問卷調查，約99%的獲資助機構表示TSF對提升香港整體或個別行業的企業的競爭力很有幫助。
-
-另一方面，專業服務協進支援計劃（PASS）旨在支持香港專業服務行業推行有價值非牟利項目，以加強與境外同業的交流和合作、推動相關宣傳活動，以及提升本港專業服務水平和對外競爭力。在PASS的主計劃下，過去三年共收到17宗涉及外訪考察或境外推廣的申請，其中七宗經評審後獲批，涉及資助總額逾350萬元。由獲資助機構進行的意見調查顯示，已完成的項目均取得滿意結果。
-
-為鼓勵本港專業服務業界在疫情穩定後加強向海外（包括「一帶一路」沿線國家）及內地市場推廣香港的競爭優勢和專業服務，政府於二○二○年在PASS下成立專業人士參與活動津貼計劃，資助本港主要專業團體參加由政府及香港貿發局舉辦的相關活動。過去三年計劃共收到26項活動申請，並已全數獲批。出訪地點包括中東、東南亞及歐洲不同國家，以及多個內地城市，涉及承擔津貼總額逾750萬元。
-
-因應業界提出的意見，政府近年推行了一系列優化措施，包括改善PASS的運作、加強對申請機構的支援、增加運用資助的彈性，以及加快申請的處理等。
-
-政府會繼續與業界密切溝通，持續檢視各項支援工商業界開拓市場的計劃的運作情況，並在有需要時作出調整和優化，以提升計劃的整體成效和為業界提供適切支援。
-
-註一：接獲的申請不一定於同年進行審批。數字並不包含機構及後主動撤回的申請。
-
-註二：由於一宗申請通常涉及多個項目成果，相關獲批申請的總資助額包含但不限於外訪考察或境外推廣的開支。"
 "LCQ19: Supporting industrial, commercial and professional sectors in exploring emerging markets",2026-05-27 12:48,2026-05-27 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700366.htm,"  Following is a question by the Hon Ray Wong and a written reply by the Acting Secretary for Commerce and Economic Development, Dr Bernard Chan, in the Legislative Council today (May 27):
 
 Question:
@@ -1702,6 +1657,53 @@ President,
 Note 1: Applications received may not be processed in the same year. The figure excludes applications that were withdrawn voluntarily by organisations afterwards.
 
 Note 2: As an application usually covers several deliverables, the total amount of funding approved for the concerned applications includes but not limited to expenditures on study missions or promotions outside Hong Kong."
+立法會十九題：支援工商專業界開拓新興市場,2026-05-27 12:48,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700367.htm,"以下是今日（五月二十七日）在立法會會議上黃永威議員的提問和署理商務及經濟發展局局長陳百里博士的書面答覆：
+
+問題：
+
+有意見認為，在全球供應鏈重組及當前複雜的地緣政治局勢下，香港作為「超級聯繫人」及「超級增值人」的角色越發重要，而民間工商專業界的對外聯繫、實地考察及業務配對，對於業界在「一帶一路」及《區域全面經濟夥伴關係協定》成員國等市場開拓實質商機亦同樣重要。然而，有業界反映，現有支援計劃在資助比例及行政程序上仍有優化空間，且在開拓「一帶一路」、東南亞國家聯盟及中東等新興市場時，缺乏官方機構的深度統籌與落地支援。就此，政府可否告知本會：
+
+（一）當局有否擬定未來一年，由政府、香港貿易發展局（香港貿發局）、投資推廣署及相關官方機構率領工商專業界代表團外訪的具體計劃（包括目的地、主要目標產業、預計參與的業界規模，以及預期的具體成果績效指標）；如有，詳情及時間表為何；如否，原因為何；
+
+（二）鑑於現時已有工商機構支援基金及專業服務協進支援計劃等措施資助非營利機構的對外推廣工作，政府有否評估該等措施在協助業界進入新興市場（如中東、中亞或東南亞）的成效；過去三年，相關計劃下涉及外訪考察或境外推廣的申請及獲批宗數分別為何；
+
+（三）政府會否進一步優化現有的支援計劃（例如：調高資助比例、簡化跨地域合作項目的申請手續等）或研究推出全新的專項資助計劃，以加強支持民間商會、專業團體及工商支援機構開展更具深度及持續性的對外聯繫工作；如會，詳情為何；如否，原因為何；及
+
+（四）當局會否研究強化駐海外經濟貿易辦事處及香港貿發局駐海外辦事處為民間機構及企業提供的一站式支援平台「經貿一站通」，一併提供法律規管、簽證便利及外匯政策諮詢服務，以解決業界在「落地」新興市場時遇到的實務障礙；如會，詳情及時間表為何；如否，原因為何？
+
+答覆：
+
+主席：
+
+全球貿易格局和地緣政治不斷變化，「一帶一路」沿線國家、東南亞國家聯盟及中東等新興市場的崛起為企業帶來新的商機。政府致力發揮香港作為「超級聯繫人」和「超級增值人」的優勢，深化國際經貿合作，同時亦十分重視與工商業界的聯繫和合作，鼓勵業界透過外訪、推廣等不同形式的活動，對外宣傳香港的最新發展，以期結合民間力量協助香港企業開拓新興市場。
+
+就提問的四個部分，現回覆如下：
+
+（一）及（四）由商務及經濟發局局長督導的內地企業出海專班作為一站式平台，積極招攬內地企業經香港到海外拓展業務，並為它們提供量身訂造的出海支援服務。專班正在推展一系列的工作，當中包括籌備由香港特別行政區政府官員率領的外訪考察團，讓香港及內地企業到訪海外市場，當中包括「一帶一路」沿線國家和《區域全面經濟夥伴關係協定》成員國等高潛力市場，讓它們了解當地市場環境。
+
+其中，行政長官將於二○二六年六月初帶同超過60位高級別的內地和香港商貿代表到訪哈薩克斯坦和烏茲別克斯坦，為企業開拓中亞新商機。當中，內地企業代表有共約30位，來自10多個省、市和自治區，行業包括能源、礦業、天然資源與化工、創新科技與製藥、高端製造、汽車產業、投資與貿易服務等不同範疇。外訪期間，商貿代表會在當地進行交流和商業考察等活動，探索新的合作機遇，推展合作項目。這次外訪考察團是專班自二○二五年十月成立以來，首次由行政長官率領的外訪考察團，亦是本屆政府規模最大、人數最多、涵蓋企業範圍最廣的外訪團。
+
+除了以上出海工作，作為二○二五年《施政報告》的措施，我們亦已設立「經貿一站通」的功能平台，強化駐海外經濟貿易辦事處（經貿辦）、投資推廣署及香港貿易發展局（香港貿發局）三位一體的協作，發揮互補優勢，共同於海外推廣香港的經貿及投資，並為企業開拓新市場。
+
+「經貿一站通」聚焦支援本地中小企業及初創企業，組織企業進行海外商務考察，並為其提供一站式的支援服務（包括安排商貿配對等活動），協助港商尋找海外商機。我們自二○二六年第一季起已陸續籌辦到外地的商務考察圑，包括於二○二六年一月參與美國拉斯維加斯的國際消費電子展並出席「經貿一站通」下的活動，以促進香港初創企業與當地公司的交流和拓展人脈，以及於二○二六年三月到泰國曼谷考察並參加由「經貿一站通」籌辦的「GreenBiz HK綠色營商‧香港營造」活動。除了支持本地企業到海外發展業務，投資推廣署也會物色海外企業來港與本地業界對接，促成更多外來企業落戶香港，從而帶動企業和投資雙向流動。在籌劃海外考察團時，我們會綜合考慮本地企業的需要和意願，以及其他相關因素（例如目標市場的相應安排、考察的合適時間等），以確保考察團的成效。
+
+經貿辦、投資推廣署及香港貿發局會繼續在「經貿一站通」功能平台下加強協作，三位一體地於海外推廣香港的經貿及投資，並透過各自於當地的網絡協助港商於海外市場尋找商機及了解當地市場的運作。
+
+（二）及（三）工商機構支援基金（TSF）資助工商組織、專業團體以及研究機關等非分配利潤組織推行項目，以提升香港整體或個別行業的企業的競爭力，包括協助它們拓展新興市場（包括中東、中亞或東南亞等）。TSF資助的項目活動類型多元化，包括研討會、工作坊、會議、展覽會、調查研究、獎勵計劃、最佳營運守則、數據庫、服務中心、支援設施和科技應用示範等。業界可利用TSF在外地推廣香港品牌，也可舉辦考察團協助企業了解新興市場的商機。每個獲批項目最高可獲TSF資助項目總核准開支的90%，上限為500萬元。
+
+由二○二三年至二○二五年，TSF涉及外訪考察或境外推廣的申請及獲批宗數分別為32宗（註一）和28宗，相關獲批申請涉及的總資助額約為5,700萬元（註二）。根據秘書處進行的問卷調查，約99%的獲資助機構表示TSF對提升香港整體或個別行業的企業的競爭力很有幫助。
+
+另一方面，專業服務協進支援計劃（PASS）旨在支持香港專業服務行業推行有價值非牟利項目，以加強與境外同業的交流和合作、推動相關宣傳活動，以及提升本港專業服務水平和對外競爭力。在PASS的主計劃下，過去三年共收到17宗涉及外訪考察或境外推廣的申請，其中七宗經評審後獲批，涉及資助總額逾350萬元。由獲資助機構進行的意見調查顯示，已完成的項目均取得滿意結果。
+
+為鼓勵本港專業服務業界在疫情穩定後加強向海外（包括「一帶一路」沿線國家）及內地市場推廣香港的競爭優勢和專業服務，政府於二○二○年在PASS下成立專業人士參與活動津貼計劃，資助本港主要專業團體參加由政府及香港貿發局舉辦的相關活動。過去三年計劃共收到26項活動申請，並已全數獲批。出訪地點包括中東、東南亞及歐洲不同國家，以及多個內地城市，涉及承擔津貼總額逾750萬元。
+
+因應業界提出的意見，政府近年推行了一系列優化措施，包括改善PASS的運作、加強對申請機構的支援、增加運用資助的彈性，以及加快申請的處理等。
+
+政府會繼續與業界密切溝通，持續檢視各項支援工商業界開拓市場的計劃的運作情況，並在有需要時作出調整和優化，以提升計劃的整體成效和為業界提供適切支援。
+
+註一：接獲的申請不一定於同年進行審批。數字並不包含機構及後主動撤回的申請。
+
+註二：由於一宗申請通常涉及多個項目成果，相關獲批申請的總資助額包含但不限於外訪考察或境外推廣的開支。"
 立法會十六題：珀麗灣的公共交通服務,2026-05-27 12:46,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700244.htm,"以下是今日（五月二十七日）在立法會會議上陳穎欣議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
 問題：
@@ -1800,161 +1802,6 @@ Besides, during the COVID-19 pandemic, the Government provided the local public 
 As for the Government Public Transport Fare Concession Scheme for the Elderly and Eligible Persons with Disabilities (the $2 Scheme), it aims to enable the elderly and eligible persons with disabilities to travel on designated public transport services at a concessionary fare. The Government will reimburse participating operators on an accountable basis for the fare revenue forgone as a result of the implementation of the $2 Scheme. Under the $2 Scheme, thePITCL was reimbursed about $6.14 million every year on average between 2019 and 2025 for the difference in bus/ ferry fare.
 
 Before disbursing the subsidies, the Government would comprehensively consider the operators' situations, including verifying their eligibility and the operational information submitted."
-LCQ10: Effectiveness and regulation of Kai Tak Sports Park in promoting sports development,2026-05-27 12:40,2026-05-27 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700240.htm,"Following is a question by the Hon Kenneth Fok and a written reply by the Secretary for Culture, Sports and Tourism, Miss Rosanna Law, in the Legislative Council today (May 27):
-
-Question:
-
-In December 2018, the Government awarded a 25-year contract (the Contract) for the operation of the Kai Tak Sports Park (KTSP) to Kai Tak Sports Park Limited (the operator). The Contract sets out a number of requirements, including key performance indicators (KPIs). In this connection, will the Government inform this Council:
-
-(1) of the details of sporting events held at (i) the Kai Tak Stadium, (ii) the Kai Tak Arena and (iii) the Kai Tak Youth Sports Ground over the past year (set out in Table 1); whether the Government has assessed if the number of sporting events held at these venues meets the requirements of KPIs (e.g. the number of events held, the number of event days and the number of participants, etc);
-
-Table 1
-
-
-
-Name of venue
-Name of sporting event
-Organiser
-Date of event
-Number of event days
-Number of participants
-
-
-(i)
-......
-
-
-
-
-
-
-
-
-
-
-
-
-
-(ii)
-......
-
-
-
-
-
-
-
-
-
-
-
-
-
-(iii)
-......
-
-
-
-
-
-
-Total
-
-
-
-
-
-
-
-
-
-(2) given that, as stipulated in the Contract, the operator is required to ensure that the venue hiring charges for public bookings and the holding of sporting events are comparable to those charged by the Leisure and Cultural Services Department for similar facilities, yet the industry has relayed that hiring KTSP venues involves a large number of supplementary service charges (such as cleaning, security and technical support fees), resulting in the overall charges being on the high side, whether the Government has established a mechanism to review the reasonableness of overall charging levels set by the operator and to require the operator to publish a schedule of fees for the various supplementary services so as to enhance transparency; if not, the reasons for that;
-
-(3) given that, as stipulated in the Contract, the operator has committed to implementing the Raising the Game Scheme (formerly known as the Sports Events Support Scheme) with a total commitment of $1.583 billion to support major sporting events, of the details of the operator's sponsorship of sporting events in the first operating year (set out in Table 2); and
-
-Table 2
-
-
-
-Name of project supported by the Raising the Game Scheme
-Beneficiary sports organisation
-Name of project
-Date of event
-Purpose of sponsorship (e.g. waiver of venue hiring charges, direct sponsorship, event collaboration and promotion, etc)
-Amount of sponsorship
-
-
-......
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Total
-
-
-
-
-
-
-
-
-
-(4) given that the Contract stipulates that if the operator fails to fully realise the commitment for the relevant operating year, the outstanding commitment shall be paid to the entities nominated by the authorities (such as national sports associations), how the Government will specifically handle such funds, and how it will ensure that, under the existing vetting and approval mechanism, the subsidies allocated to nominated entities will precisely deliver on the five major policy objectives of promoting sports in the community, supporting elite sports, maintaining Hong Kong as a centre for major international sports events, enhancing professionalism and developing sports as an industry;
-
-(5) given that the Government has undertaken to establish a Joint Review Committee (the Committee) with the operator to review the operational effectiveness of KTSP and the operator's performance in fulfilling its contractual obligations, and that the Committee is to meet on a quarterly basis, with its subordinate monitoring subcommittee(s) meeting on a monthly basis, in respect of the aforementioned structure over the past year, of its (i) actual operation; (ii) progress of agenda items; (iii) accountability functions; and (iv) future plans; and
-
-(6) as the industry has relayed that the operator's charging lacks transparency and that the priority accorded to sporting events in venue scheduling has been squeezed, in the event that conflicts arise in the venue booking schedules between cultural and entertainment performances (such as concerts) and sporting events, what mechanism the authorities have in place to effect a rational allocation, so as to ensure that KTSP does not deviate from its role and positioning as Hong Kong's landmark sports venue?
-
-Reply:
-
-President,
-
-Since its official commissioning in March last year, the Kai Tak Sports Park (KTSP), has successfully hosted numerous mega events and its promising achievements in advancing sports development and mega-event economy have been evident to all. The Kai Tak Stadium, in merely nine months after its opening, achieved the third-highest ticket sales and the fifth-largest gross revenue among major global venues in 2025. It was also ranked eighth globally and first in Asia out of 28 shortlisted venues in the Stadium of the Year 2025 awards organised by StadiumDB.com, an authoritative international stadium database. Furthermore, the KTSP was named by Time magazine as one of the World's Greatest Places of 2026, the only attraction in Hong Kong on the list. These accomplishments clearly demonstrate the complementary effect generated by hosting both sports events and mega entertainment events at the KTSP in the past year. Through their synergistic effect, the KTSP has successfully established itself as a new hub for sports, leisure and entertainment. Building on the strong momentum since its opening, the Government will continue to work closely with the Kai Tak Sports Park Limited (the Operator) to maintain Hong Kong as a centre for major international sports events, promote sports in the community, support elite sports, develop sports as an industry, and enhance professionalism in sports, with a view to fostering the holistic development of sports on all fronts. Our reply to the question raised by the Hon Kenneth Fok is as follows:
-
-(1) The KTSP is a world-class integrated sports, leisure and entertainment landmark. It also serves as a key platform for promoting the market-oriented development of sports infrastructure project and advancing the development of sports activities in Hong Kong into mega sports events while promoting sports in the community.
-
-Since the opening of the KTSP on March 1, 2025 and up to April 30, 2026, the Kai Tak Stadium staged a number of international, regional and national sports competitions. They included two editions of the Hong Kong Sevens, three qualifying matches for the Asian Cup featuring the Hong Kong, China football team on home turf, three exhibition matches by world-class football powerhouses, and the rugby sevens competition of the 15th National Games, representing a total of 19 sports event days (excluding the time required for venue setup and dismantling), with a cumulative attendance of over 583000.
-
-During the same period, the Kai Tak Arena (Grand Hall and Sports Hall) also hosted numerous sports competitions ranging from local to international levels, as well as community sports events. They included two stagings of the World Grand Prix (snooker), the Hong Kong leg of Volleyball Nations League, the semi-finals and grand final of the top global esports event – the League of Legends Champions Korea Cup, the men's handball and fencing competitions of the 15th National Games, and five home games of Hong Kong's professional basketball team in the National Basketball League, etc, representing a total of 96 sports event days (excluding the time required for venue setup and dismantling), with a cumulative attendance of over 262000.
-
-The Kai Tak Youth Sports Ground and other indoor and outdoor spaces within the precinct also accommodated a large number of football and rugby matches, athletics meets and bowling tournaments during the same period. They included competitions organised by various National Sports Associations (NSAs), such as the rugby championship match between Hong Kong, China and Sri Lanka, the international friendly match between the women's football teams of Hong Kong, China and Malaysia, and the HKGX 2025 IBF World Championships (bowling), etc, representing a total of 138 sports event days (excluding time required for venue setup and dismantling), with a cumulative attendance of over 126000.
-
-In addition to hosting major sports events, the three aforementioned major venues, together with a variety of other venues and spaces (e.g. the bowling centre, outdoor sports facilities and open spaces), are open to the public for hire or for organising community sports activities at affordable prices when no event or group booking is scheduled. In the past year, a series of All Hong Kong Schools Jing Ying Tournaments, as well as a range of flagship community sports competitions and activities (such as the Standard Chartered Hong Kong Marathon 2026 Youth Run, Kai Tak Run, and Kai Tak Get Set Go!) were held at various venues and spaces within the precinct. From March last year to the end of April this year, the total number of days on which sports events were held across the entire KTSP exceeded 250 days (excluding time required for venue setup and dismantling), with a cumulative attendance of over 970000, demonstrating the Operator's effective utilisation of the venues.
-
-As highlighted by the Culture, Sports and Tourism Bureau (CSTB) at this year's Budget press conference as well as the special meeting of the Legislative Council Finance Committee, the Operator is required to operate the KTSP in accordance with the provisions stipulated in the contract signed with the Government, and its performance is evaluated periodically against a set of key performance indicators (KPIs). The first year of the KTSP's operation marked the initial stage of its business development. When drawing up the contract, the Government included a ramping up arrangement, under which certain KPIs relating to venue utilisation (including the number of days on which sports events are held at each venue and the total attendance at such events) only took effect from the second operating year (i.e. the year ending March 31, 2027).
-
-According to the contract signed between the Government and the Operator, the Kai Tak Stadium, the Kai Tak Arena (Grand Hall), and the Kai Tak Youth Sports Ground together with other venues within the precinct are required to accommodate 40, 76 and 69 sports event days respectively in the year ending March 31,2027, with a total annual attendance of 600000 at sports events. These indicators were set before the construction of the KTSP (i.e. in 2018), and are no longer fully suited to the current operational realities of the venues. For example, only the event day of competitions is currently counted towards sports event days while pre-event preparation works, such as turf conversion taking around two to three weeks as well as venue setup and dismantling taking around five to ten days, are not taken into account. Moreover, the indicators do not factor in the importance of events to sports development, their economic impact and benefits, etc. Given that the relevant indicators are currently unable to fully reflect the changes in the operational model of the KTSP, and as mentioned by the CSTB at the said press conference and the special meeting of the Finance Committee, we are reviewing the relevant indicators to ensure that the assessment mechanism can keep pace with the times and remain practical. This ensures that the Operator, with the enhanced performance indicators, meets the performance standards while maintaining operational efficiency and supporting the development of sports as an industry and the host city economy.
-
-(2) The Government adopts a ""Design, Build and Operate"" model to take forward the KTSP project, with the aim of enabling the KTSP to operate on a market-oriented and self-financing basis. As such, the positioning and operational model of the KTSP cannot and should not be compared with government venues. Taking the 50000-seat Kai Tak Stadium as an example, the stadium is equipped with a retractable roof and a flexible, modern pitch system. In addition, air-conditioning vents are installed beneath each seat and alongside the pitch to ensure an all-weather comfortable experience for spectators, athletes and performers. Each facility at the KTSP, being Hong Kong's landmark flagship venue, is of world-class standard and therefore entails higher requirements for operation, security and technical support as well as certain supplementary service charges. As a key base for the sports events industry, the KTSP has since its opening attracted multiple commercially viable large-scale sports events as well as cultural and entertainment events, bringing in substantial ticket revenues from organising mega events. Running the KTSP in a market-oriented model facilitates the establishment of a comprehensive ecosystem for developing sports as an industry. Regarding the requirements for supplementary services (including security and cleaning), the Operator and event organisers will discuss and agree on the required level of such services and the associated charges which may vary depending on the scale and nature of each event. Drawing on the experience gained over the past year, the KTSP will further streamline the required level of supplementary services and manpower to an optimal level, thereby enhancing the cost-effectiveness of these services.
-
-In addition to hosting major sports events, the Operator continuously opens the KTSP's indoor and outdoor sports and recreational facilities for public booking. Under the contract, the charging standards for these facilities, apart from making reference to the rates of the Leisure and Cultural Services Department, also comprehensively consider the charges of similar facilities provided by educational institutions and other non-profit making organisations, with a view to setting reasonable fees that are acceptable to the public. For example, the current hourly charges for community casual hire are $75 for an indoor badminton court, $50 for an indoor table tennis studio, and $160 for an outdoor tennis court during peak hours. These rates are broadly comparable to those charged by other non-profit making organisations in the community.
-
-Over the past year or so, more than 68000 people made bookings and used the facilities at the KTSP. The pickleball courts, in particular, have been extremely popular with the public, with utilisation rate peaked. In addition, various sports programmes have together recorded over 190000 community sports hours. These figures demonstrate that the charging levels of the KTSP are in line with public expectations and its infrastructure has been effective in promoting sports in the community.
-
-(3) and (4) The Operator has been implementing the Sports Events Support Scheme (now known as the Raising the Game Scheme) to support major sports events and provide funding for sports and related projects with potentials. Its total financial commitment under the Raising the Game Scheme (the Scheme) is $1.583 billion, spreading across approximately 20 years. From the commencement of operation of the KTSP to the end of its first operating year (i.e. from March 1, 2025 to March 31, 2026), the Operator's contractual commitment under the Scheme is $44 million.
-
-According to the information provided by the Operator, during the above period, a total of 46 sports events were supported by the Scheme, involving an estimated total funding amount of nearly $52 million. The events supported by the Scheme covered a wide range of sports, such as various competitions hosted by different NSAs (including three Asian Cup qualifying matches organised by the Football Association of Hong Kong, China, featuring the Hong Kong, China team on home turf, and a friendly match of the Hong Kong China Men's XVs against an Asian team organised by the Hong Kong China Rugby); multiple All Hong Kong Schools Jing Ying Tournaments aimed at identifying young athletes with potential (covering sports such as handball, athletics, basketball and football); as well as community sports activities open to the public free of charge (such as the Hong Kong Paralympic Day 2025). Through various forms of support, including priority venue booking, rental concessions, event collaboration and promotion, the Scheme significantly promotes the five key policy objectives of sports development.
-
-As the spending of the Operator under the Scheme has already exceeded its contractual commitment, there is currently no need to address any shortfall. In the second operating year, the Operator contractual commitment is $50million. The Operator will continue to consider each application having regard to factors such as diversity and experiential value of the event as well as the organiser's financial plan, with a view to attracting more major local and international sports events to the KTSP.
-
-(5) As the largest sports infrastructure and first integrated sports, leisure and entertainment landmark in Hong Kong's history, the KTSP holds an important strategic position. To monitor the Operator's performance and ensure the smooth daily operation of the KTSP, the Government and the Operator convene meetings of the Joint Review Committee on a regular basis. In addition to providing steer on the Sports Park's efforts in promoting sports development, these meetings offer advice on fostering the synergistic development of major sports events, innovative entertainment, dining, conventions and exhibitions, as well as tourism activities. Meanwhile, the Committee also draws up thorough plans for daily operations and major events on security deployment, crowd management, emergency response and other areas. A total of 19 meetings have been conducted since the commissioning of the KTSP 15 months ago. For each major event, the CSTB and relevant government departments together with the Operator and event organisers convene at least two to three working-level co-ordination meetings to ensure smooth operation.
-
-The Government will continue to closely monitor the actual operation of the KTSP, taking into consideration factors such as market demand for sports events, cultural and performing arts activities, development trends of sports activities, and the KTSP's business model and daily operation, while providing the Operator with enhancement recommendations as appropriate to meet the long-term development needs of the precinct.
-
-(6) Pursuant to the contract signed between the Operator and the Government, organisers of sports events may book venues at any time, whereas reservations for non-sports events (such as cultural and entertainment activities) can only be made up to no more than 24 months ahead of the event dates. In other words, organisers of sports events enjoy priority in venue booking. This arrangement enables sports event organisers to secure timeslots well in advance, thereby providing them with greater flexibility in bidding to host major international or regional sports events as well as accommodating the need to confirm competition schedules for large-scale tour events at an earlier stage.
-
-In addition, the contract stipulates a set of KPIs that are related to areas pivotal to the promotion of sports development, including the opening of facilities to the public for sports use, facility utilisation rates, number of sports event days and attendance at those sports events, and sports programme enrolment hours, etc. The contractual and institutional design incentivises the Operator to allocate sufficient venues for sports use. This ensures that the operation of the KTSP remains centred on sports activities, thereby achieving its objective of promoting sports development."
 立法會十題：啟德體育園推動體育發展的效能及監管,2026-05-27 12:40,2026-05-27 12:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700232.htm,"​以下是今日（五月二十七日）在立法會會議上霍啟剛議員的提問和文化體育及旅遊局局長羅淑佩的書面答覆：
 
 問題：
@@ -2111,6 +1958,161 @@ In addition, the contract stipulates a set of KPIs that are related to areas piv
 （六）根據營運公司與政府簽訂的合約，體育活動主辦單位可在任何時間預約場地，而非體育活動（如文化娛樂活動）則僅限於活動舉辦前24個月內方可預約場地。換句話說，體育活動主辦單位在場地預約上享有優先權，此安排便利體育活動主辦單位能更早鎖定時段，以在申辦大型國際或區域性賽事上更具彈性和配合大型巡迴賽事須在更早的時間確定賽事時間表的需要。
 
 此外，合約亦訂明多項與推動體育發展相關的績效指標，包括設施需開放予公眾作體育用途、設施使用率、體育活動舉辦日數與出席人次、體育課程參與時數等。從合約和制度的設計上，營運公司有誘因編配足夠場地予體育活動，以確保啟德體育園的營運以體育活動為主軸，發揮啟德體育園推動體育發展的目標。"
+LCQ10: Effectiveness and regulation of Kai Tak Sports Park in promoting sports development,2026-05-27 12:40,2026-05-27 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700240.htm,"Following is a question by the Hon Kenneth Fok and a written reply by the Secretary for Culture, Sports and Tourism, Miss Rosanna Law, in the Legislative Council today (May 27):
+
+Question:
+
+In December 2018, the Government awarded a 25-year contract (the Contract) for the operation of the Kai Tak Sports Park (KTSP) to Kai Tak Sports Park Limited (the operator). The Contract sets out a number of requirements, including key performance indicators (KPIs). In this connection, will the Government inform this Council:
+
+(1) of the details of sporting events held at (i) the Kai Tak Stadium, (ii) the Kai Tak Arena and (iii) the Kai Tak Youth Sports Ground over the past year (set out in Table 1); whether the Government has assessed if the number of sporting events held at these venues meets the requirements of KPIs (e.g. the number of events held, the number of event days and the number of participants, etc);
+
+Table 1
+
+
+
+Name of venue
+Name of sporting event
+Organiser
+Date of event
+Number of event days
+Number of participants
+
+
+(i)
+......
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii)
+......
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii)
+......
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+(2) given that, as stipulated in the Contract, the operator is required to ensure that the venue hiring charges for public bookings and the holding of sporting events are comparable to those charged by the Leisure and Cultural Services Department for similar facilities, yet the industry has relayed that hiring KTSP venues involves a large number of supplementary service charges (such as cleaning, security and technical support fees), resulting in the overall charges being on the high side, whether the Government has established a mechanism to review the reasonableness of overall charging levels set by the operator and to require the operator to publish a schedule of fees for the various supplementary services so as to enhance transparency; if not, the reasons for that;
+
+(3) given that, as stipulated in the Contract, the operator has committed to implementing the Raising the Game Scheme (formerly known as the Sports Events Support Scheme) with a total commitment of $1.583 billion to support major sporting events, of the details of the operator's sponsorship of sporting events in the first operating year (set out in Table 2); and
+
+Table 2
+
+
+
+Name of project supported by the Raising the Game Scheme
+Beneficiary sports organisation
+Name of project
+Date of event
+Purpose of sponsorship (e.g. waiver of venue hiring charges, direct sponsorship, event collaboration and promotion, etc)
+Amount of sponsorship
+
+
+......
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+(4) given that the Contract stipulates that if the operator fails to fully realise the commitment for the relevant operating year, the outstanding commitment shall be paid to the entities nominated by the authorities (such as national sports associations), how the Government will specifically handle such funds, and how it will ensure that, under the existing vetting and approval mechanism, the subsidies allocated to nominated entities will precisely deliver on the five major policy objectives of promoting sports in the community, supporting elite sports, maintaining Hong Kong as a centre for major international sports events, enhancing professionalism and developing sports as an industry;
+
+(5) given that the Government has undertaken to establish a Joint Review Committee (the Committee) with the operator to review the operational effectiveness of KTSP and the operator's performance in fulfilling its contractual obligations, and that the Committee is to meet on a quarterly basis, with its subordinate monitoring subcommittee(s) meeting on a monthly basis, in respect of the aforementioned structure over the past year, of its (i) actual operation; (ii) progress of agenda items; (iii) accountability functions; and (iv) future plans; and
+
+(6) as the industry has relayed that the operator's charging lacks transparency and that the priority accorded to sporting events in venue scheduling has been squeezed, in the event that conflicts arise in the venue booking schedules between cultural and entertainment performances (such as concerts) and sporting events, what mechanism the authorities have in place to effect a rational allocation, so as to ensure that KTSP does not deviate from its role and positioning as Hong Kong's landmark sports venue?
+
+Reply:
+
+President,
+
+Since its official commissioning in March last year, the Kai Tak Sports Park (KTSP), has successfully hosted numerous mega events and its promising achievements in advancing sports development and mega-event economy have been evident to all. The Kai Tak Stadium, in merely nine months after its opening, achieved the third-highest ticket sales and the fifth-largest gross revenue among major global venues in 2025. It was also ranked eighth globally and first in Asia out of 28 shortlisted venues in the Stadium of the Year 2025 awards organised by StadiumDB.com, an authoritative international stadium database. Furthermore, the KTSP was named by Time magazine as one of the World's Greatest Places of 2026, the only attraction in Hong Kong on the list. These accomplishments clearly demonstrate the complementary effect generated by hosting both sports events and mega entertainment events at the KTSP in the past year. Through their synergistic effect, the KTSP has successfully established itself as a new hub for sports, leisure and entertainment. Building on the strong momentum since its opening, the Government will continue to work closely with the Kai Tak Sports Park Limited (the Operator) to maintain Hong Kong as a centre for major international sports events, promote sports in the community, support elite sports, develop sports as an industry, and enhance professionalism in sports, with a view to fostering the holistic development of sports on all fronts. Our reply to the question raised by the Hon Kenneth Fok is as follows:
+
+(1) The KTSP is a world-class integrated sports, leisure and entertainment landmark. It also serves as a key platform for promoting the market-oriented development of sports infrastructure project and advancing the development of sports activities in Hong Kong into mega sports events while promoting sports in the community.
+
+Since the opening of the KTSP on March 1, 2025 and up to April 30, 2026, the Kai Tak Stadium staged a number of international, regional and national sports competitions. They included two editions of the Hong Kong Sevens, three qualifying matches for the Asian Cup featuring the Hong Kong, China football team on home turf, three exhibition matches by world-class football powerhouses, and the rugby sevens competition of the 15th National Games, representing a total of 19 sports event days (excluding the time required for venue setup and dismantling), with a cumulative attendance of over 583000.
+
+During the same period, the Kai Tak Arena (Grand Hall and Sports Hall) also hosted numerous sports competitions ranging from local to international levels, as well as community sports events. They included two stagings of the World Grand Prix (snooker), the Hong Kong leg of Volleyball Nations League, the semi-finals and grand final of the top global esports event – the League of Legends Champions Korea Cup, the men's handball and fencing competitions of the 15th National Games, and five home games of Hong Kong's professional basketball team in the National Basketball League, etc, representing a total of 96 sports event days (excluding the time required for venue setup and dismantling), with a cumulative attendance of over 262000.
+
+The Kai Tak Youth Sports Ground and other indoor and outdoor spaces within the precinct also accommodated a large number of football and rugby matches, athletics meets and bowling tournaments during the same period. They included competitions organised by various National Sports Associations (NSAs), such as the rugby championship match between Hong Kong, China and Sri Lanka, the international friendly match between the women's football teams of Hong Kong, China and Malaysia, and the HKGX 2025 IBF World Championships (bowling), etc, representing a total of 138 sports event days (excluding time required for venue setup and dismantling), with a cumulative attendance of over 126000.
+
+In addition to hosting major sports events, the three aforementioned major venues, together with a variety of other venues and spaces (e.g. the bowling centre, outdoor sports facilities and open spaces), are open to the public for hire or for organising community sports activities at affordable prices when no event or group booking is scheduled. In the past year, a series of All Hong Kong Schools Jing Ying Tournaments, as well as a range of flagship community sports competitions and activities (such as the Standard Chartered Hong Kong Marathon 2026 Youth Run, Kai Tak Run, and Kai Tak Get Set Go!) were held at various venues and spaces within the precinct. From March last year to the end of April this year, the total number of days on which sports events were held across the entire KTSP exceeded 250 days (excluding time required for venue setup and dismantling), with a cumulative attendance of over 970000, demonstrating the Operator's effective utilisation of the venues.
+
+As highlighted by the Culture, Sports and Tourism Bureau (CSTB) at this year's Budget press conference as well as the special meeting of the Legislative Council Finance Committee, the Operator is required to operate the KTSP in accordance with the provisions stipulated in the contract signed with the Government, and its performance is evaluated periodically against a set of key performance indicators (KPIs). The first year of the KTSP's operation marked the initial stage of its business development. When drawing up the contract, the Government included a ramping up arrangement, under which certain KPIs relating to venue utilisation (including the number of days on which sports events are held at each venue and the total attendance at such events) only took effect from the second operating year (i.e. the year ending March 31, 2027).
+
+According to the contract signed between the Government and the Operator, the Kai Tak Stadium, the Kai Tak Arena (Grand Hall), and the Kai Tak Youth Sports Ground together with other venues within the precinct are required to accommodate 40, 76 and 69 sports event days respectively in the year ending March 31,2027, with a total annual attendance of 600000 at sports events. These indicators were set before the construction of the KTSP (i.e. in 2018), and are no longer fully suited to the current operational realities of the venues. For example, only the event day of competitions is currently counted towards sports event days while pre-event preparation works, such as turf conversion taking around two to three weeks as well as venue setup and dismantling taking around five to ten days, are not taken into account. Moreover, the indicators do not factor in the importance of events to sports development, their economic impact and benefits, etc. Given that the relevant indicators are currently unable to fully reflect the changes in the operational model of the KTSP, and as mentioned by the CSTB at the said press conference and the special meeting of the Finance Committee, we are reviewing the relevant indicators to ensure that the assessment mechanism can keep pace with the times and remain practical. This ensures that the Operator, with the enhanced performance indicators, meets the performance standards while maintaining operational efficiency and supporting the development of sports as an industry and the host city economy.
+
+(2) The Government adopts a ""Design, Build and Operate"" model to take forward the KTSP project, with the aim of enabling the KTSP to operate on a market-oriented and self-financing basis. As such, the positioning and operational model of the KTSP cannot and should not be compared with government venues. Taking the 50000-seat Kai Tak Stadium as an example, the stadium is equipped with a retractable roof and a flexible, modern pitch system. In addition, air-conditioning vents are installed beneath each seat and alongside the pitch to ensure an all-weather comfortable experience for spectators, athletes and performers. Each facility at the KTSP, being Hong Kong's landmark flagship venue, is of world-class standard and therefore entails higher requirements for operation, security and technical support as well as certain supplementary service charges. As a key base for the sports events industry, the KTSP has since its opening attracted multiple commercially viable large-scale sports events as well as cultural and entertainment events, bringing in substantial ticket revenues from organising mega events. Running the KTSP in a market-oriented model facilitates the establishment of a comprehensive ecosystem for developing sports as an industry. Regarding the requirements for supplementary services (including security and cleaning), the Operator and event organisers will discuss and agree on the required level of such services and the associated charges which may vary depending on the scale and nature of each event. Drawing on the experience gained over the past year, the KTSP will further streamline the required level of supplementary services and manpower to an optimal level, thereby enhancing the cost-effectiveness of these services.
+
+In addition to hosting major sports events, the Operator continuously opens the KTSP's indoor and outdoor sports and recreational facilities for public booking. Under the contract, the charging standards for these facilities, apart from making reference to the rates of the Leisure and Cultural Services Department, also comprehensively consider the charges of similar facilities provided by educational institutions and other non-profit making organisations, with a view to setting reasonable fees that are acceptable to the public. For example, the current hourly charges for community casual hire are $75 for an indoor badminton court, $50 for an indoor table tennis studio, and $160 for an outdoor tennis court during peak hours. These rates are broadly comparable to those charged by other non-profit making organisations in the community.
+
+Over the past year or so, more than 68000 people made bookings and used the facilities at the KTSP. The pickleball courts, in particular, have been extremely popular with the public, with utilisation rate peaked. In addition, various sports programmes have together recorded over 190000 community sports hours. These figures demonstrate that the charging levels of the KTSP are in line with public expectations and its infrastructure has been effective in promoting sports in the community.
+
+(3) and (4) The Operator has been implementing the Sports Events Support Scheme (now known as the Raising the Game Scheme) to support major sports events and provide funding for sports and related projects with potentials. Its total financial commitment under the Raising the Game Scheme (the Scheme) is $1.583 billion, spreading across approximately 20 years. From the commencement of operation of the KTSP to the end of its first operating year (i.e. from March 1, 2025 to March 31, 2026), the Operator's contractual commitment under the Scheme is $44 million.
+
+According to the information provided by the Operator, during the above period, a total of 46 sports events were supported by the Scheme, involving an estimated total funding amount of nearly $52 million. The events supported by the Scheme covered a wide range of sports, such as various competitions hosted by different NSAs (including three Asian Cup qualifying matches organised by the Football Association of Hong Kong, China, featuring the Hong Kong, China team on home turf, and a friendly match of the Hong Kong China Men's XVs against an Asian team organised by the Hong Kong China Rugby); multiple All Hong Kong Schools Jing Ying Tournaments aimed at identifying young athletes with potential (covering sports such as handball, athletics, basketball and football); as well as community sports activities open to the public free of charge (such as the Hong Kong Paralympic Day 2025). Through various forms of support, including priority venue booking, rental concessions, event collaboration and promotion, the Scheme significantly promotes the five key policy objectives of sports development.
+
+As the spending of the Operator under the Scheme has already exceeded its contractual commitment, there is currently no need to address any shortfall. In the second operating year, the Operator contractual commitment is $50million. The Operator will continue to consider each application having regard to factors such as diversity and experiential value of the event as well as the organiser's financial plan, with a view to attracting more major local and international sports events to the KTSP.
+
+(5) As the largest sports infrastructure and first integrated sports, leisure and entertainment landmark in Hong Kong's history, the KTSP holds an important strategic position. To monitor the Operator's performance and ensure the smooth daily operation of the KTSP, the Government and the Operator convene meetings of the Joint Review Committee on a regular basis. In addition to providing steer on the Sports Park's efforts in promoting sports development, these meetings offer advice on fostering the synergistic development of major sports events, innovative entertainment, dining, conventions and exhibitions, as well as tourism activities. Meanwhile, the Committee also draws up thorough plans for daily operations and major events on security deployment, crowd management, emergency response and other areas. A total of 19 meetings have been conducted since the commissioning of the KTSP 15 months ago. For each major event, the CSTB and relevant government departments together with the Operator and event organisers convene at least two to three working-level co-ordination meetings to ensure smooth operation.
+
+The Government will continue to closely monitor the actual operation of the KTSP, taking into consideration factors such as market demand for sports events, cultural and performing arts activities, development trends of sports activities, and the KTSP's business model and daily operation, while providing the Operator with enhancement recommendations as appropriate to meet the long-term development needs of the precinct.
+
+(6) Pursuant to the contract signed between the Operator and the Government, organisers of sports events may book venues at any time, whereas reservations for non-sports events (such as cultural and entertainment activities) can only be made up to no more than 24 months ahead of the event dates. In other words, organisers of sports events enjoy priority in venue booking. This arrangement enables sports event organisers to secure timeslots well in advance, thereby providing them with greater flexibility in bidding to host major international or regional sports events as well as accommodating the need to confirm competition schedules for large-scale tour events at an earlier stage.
+
+In addition, the contract stipulates a set of KPIs that are related to areas pivotal to the promotion of sports development, including the opening of facilities to the public for sports use, facility utilisation rates, number of sports event days and attendance at those sports events, and sports programme enrolment hours, etc. The contractual and institutional design incentivises the Operator to allocate sufficient venues for sports use. This ensures that the operation of the KTSP remains centred on sports activities, thereby achieving its objective of promoting sports development."
 "DH announces latest smoking situation in Hong Kong and ""Quit in June"" campaign",2026-05-27 12:30,2026-05-27 12:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700294.htm,"​The Department of Health (DH) today (May 27) announced that Hong Kong's smoking rate has continued to decline from 23.3 per cent in the early 1980s to 8.5 per cent in 2025, hitting a record low. At the same time, the number of people who habitually use alternative smoking products such as e-cigarettes and heated tobacco products on a daily basis has also dropped, reflecting the remarkable effectiveness of the Government's tobacco control strategies in safeguarding public health. To encourage and assist smokers to quit, the DH launched the ""Quit in June"" campaign today, which will, among other means, use artificial intelligence (AI) to provide personalised smoking cessation counselling services.
 
 Survey results
@@ -2173,37 +2175,6 @@ Dr Lam emphasised that smokers of any age can reap immediate and long-term healt
 衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
 
 林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
-衞生署公布本港最新吸煙情況及「六月．戒煙月」活動（附圖／短片）,2026-05-27 12:30,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700292.htm,"衞生署今日（五月二十七日）公布，香港吸煙率由八十年代初的23.3%持續下降至二○二五年的8.5%，創歷史新低。與此同時，習慣每日使用電子煙或加熱煙等另類吸煙產品的人數亦有所下跌，反映政府推行的控煙策略成效卓著，切實有效保障公眾健康。衞生署今日起推出「六月．戒煙月」的活動，透過多元途徑鼓勵和協助吸煙人士嘗試戒煙，包括運用人工智能（AI）提供個人化的戒煙輔導服務。
-
-調查結果
-————
-政府統計處今日出版最新一期《主題性住戶統計調查報告書》。根據去年七月至十月就吸煙情況進行的主題性住戶統計調查顯示，約54萬名香港巿民在統計時有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的比率為8.5%。二○二三年的相關比率為9.1%。
-
-另類吸煙產品方面，二○二五年習慣每日使用電子煙的15歲及以上人士佔人口比率0.1%，而二○二三年的相應比率為0.2%。而每日使用加熱煙的人口比率則由二○二三年的0.1%降低至無法準確估算的水平。
-
-衞生署控煙酒辦公室（控煙酒辦）主任林民聰醫生說：「本港吸煙率下降至歷史新低，是社會各界和市民大眾多年共同努力的成果，令香港成為國際上成功控煙的典範。而另類吸煙產品禁令自二○二二年四月生效以來，使用人數持續減少，反映實施禁令的成效及重要性。衞生署會繼續密切留意吸煙趨勢，嚴防新型吸煙產品在香港流行。」
-
-隨着《2025年控煙法例（修訂）條例》於去年刊憲，政府正逐步落實新一階段控煙措施，當中已落實的措施包括加強打擊私煙的法律框架、擴大法定禁煙區、進一步全面禁止在公眾地方管有另類吸煙產品等，並持續加強公眾教育和戒煙服務。政府計劃於明年十二月全面落實傳統吸煙產品統一包裝設計和完稅標籤制度，進一步減低煙草產品的吸引力，以及加強打擊私煙。
-
-林民聰醫生補充，政府「控煙十招」的核心要義之一，是減低煙草產品的吸引力，包括另類煙和五花八門的加味煙，以防止新世代染上煙癮。今次的調查結果亦顯示，年輕組別的吸煙率持續處於極低的水平，反映年輕一代已不再接受吸煙行為，與政府的目標和社會期望高度契合。
-
-香港吸煙與健康委員會主席湯修齊表示，委員會一如以往繼續全力支持政府推行下一步的控煙措施，並指出實施傳統吸煙產品統一包裝和禁止加味煙將有效減低煙草產品的推廣效果和吸引力，是抗衡煙草商向市民，特別是年輕一代，營銷的重要措施。
-
-六月．戒煙月
-——————
-林民聰醫生說：「政府一直以多管齊下及循序漸進的方式，減低吸煙產品對市民和社會造成的禍害，在立法、徵稅、宣傳、教育和執法以外，提供完善戒煙服務亦是不可或缺的重要一環。為協助吸煙者成功戒煙，衞生署一直資助多個非政府機構，提供多元化而免費的戒煙服務及支援。為響應世界衞生組織定於每年五月三十一日的『世界無煙日』，衞生署自二○二一年推出『六月．戒煙月』活動，鼓勵吸煙人士嘗試戒煙，以降低患上吸煙相關疾病和死亡的風險。過去數年，每年參與人數逐年遞增，活動成效理想。」
-
-今年，衞生署會繼續透過全港超過300間社區藥房、戒煙診所、地區康健中心／地區康健站，以及衞生署診所免費派發一星期戒煙藥物試用裝，及透過指定中醫診所免費派發中醫戒煙耳穴貼，以協助有意欲戒煙人士紓緩退癮徵狀。
-
-林民聰醫生表示，因應政府將推行建築地盤全面禁煙，衞生署已加強對建築業界的戒煙宣傳和支援力度，衞生署資助的非政府機構透過外展活動，積極向建築業界人士提供免費戒煙藥物試用裝和中藥耳穴貼。
-
-另外，衞生署今年與香港大學護理學院合作推出AI戒煙輔導服務先導計劃——「智聊戒」，由AI即時提供精準和適切的戒煙資訊，並根據使用者的吸煙史和戒煙偏好，給予個人化戒煙輔導，還能為使用者提供情緒支援，協助使用者練習拒煙技巧。有意戒煙的人士只需掃描二維碼（見附件）即可隨時隨地接通服務，費用全免。若使用者需要真人輔導服務、戒煙藥物支援或中醫針灸戒煙服務，「智聊戒」亦會根據需求進行轉介。
-
-衞生署已開始播放「全世界睇好你．戒！」電視及電台政府宣傳片，並在公共運輸交通網絡和社交媒體加強宣傳廣告，鼓勵吸煙人士戒煙，陪伴吸煙人士渡過無煙月。
-
-衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
-
-林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
 "DH announces latest smoking situation in Hong Kong and ""Quit in June"" campaign (with photo/video)",2026-05-27 12:30,2026-05-27 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700294.htm,"​The Department of Health (DH) today (May 27) announced that Hong Kong's smoking rate has continued to decline from 23.3 per cent in the early 1980s to 8.5 per cent in 2025, hitting a record low. At the same time, the number of people who habitually use alternative smoking products such as e-cigarettes and heated tobacco products on a daily basis has also dropped, reflecting the remarkable effectiveness of the Government's tobacco control strategies in safeguarding public health. To encourage and assist smokers to quit, the DH launched the ""Quit in June"" campaign today, which will, among other means, use artificial intelligence (AI) to provide personalised smoking cessation counselling services.
 
 Survey results
@@ -2236,6 +2207,37 @@ The DH also operates an integrated Smoking Cessation Hotline (1833 183) to handl
 
 Dr Lam emphasised that smokers of any age can reap immediate and long-term health benefits from quitting smoking. For the sake of their own health and that of their families, he urged smokers not to hesitate, but to act now and quit smoking in June. They should also adopt a healthy lifestyle and help build a tobacco-free Hong Kong."
 衞生署公布本港最新吸煙情況及「六月．戒煙月」活動（附圖）,2026-05-27 12:30,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700292.htm,"衞生署今日（五月二十七日）公布，香港吸煙率由八十年代初的23.3%持續下降至二○二五年的8.5%，創歷史新低。與此同時，習慣每日使用電子煙或加熱煙等另類吸煙產品的人數亦有所下跌，反映政府推行的控煙策略成效卓著，切實有效保障公眾健康。衞生署今日起推出「六月．戒煙月」的活動，透過多元途徑鼓勵和協助吸煙人士嘗試戒煙，包括運用人工智能（AI）提供個人化的戒煙輔導服務。
+
+調查結果
+————
+政府統計處今日出版最新一期《主題性住戶統計調查報告書》。根據去年七月至十月就吸煙情況進行的主題性住戶統計調查顯示，約54萬名香港巿民在統計時有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的比率為8.5%。二○二三年的相關比率為9.1%。
+
+另類吸煙產品方面，二○二五年習慣每日使用電子煙的15歲及以上人士佔人口比率0.1%，而二○二三年的相應比率為0.2%。而每日使用加熱煙的人口比率則由二○二三年的0.1%降低至無法準確估算的水平。
+
+衞生署控煙酒辦公室（控煙酒辦）主任林民聰醫生說：「本港吸煙率下降至歷史新低，是社會各界和市民大眾多年共同努力的成果，令香港成為國際上成功控煙的典範。而另類吸煙產品禁令自二○二二年四月生效以來，使用人數持續減少，反映實施禁令的成效及重要性。衞生署會繼續密切留意吸煙趨勢，嚴防新型吸煙產品在香港流行。」
+
+隨着《2025年控煙法例（修訂）條例》於去年刊憲，政府正逐步落實新一階段控煙措施，當中已落實的措施包括加強打擊私煙的法律框架、擴大法定禁煙區、進一步全面禁止在公眾地方管有另類吸煙產品等，並持續加強公眾教育和戒煙服務。政府計劃於明年十二月全面落實傳統吸煙產品統一包裝設計和完稅標籤制度，進一步減低煙草產品的吸引力，以及加強打擊私煙。
+
+林民聰醫生補充，政府「控煙十招」的核心要義之一，是減低煙草產品的吸引力，包括另類煙和五花八門的加味煙，以防止新世代染上煙癮。今次的調查結果亦顯示，年輕組別的吸煙率持續處於極低的水平，反映年輕一代已不再接受吸煙行為，與政府的目標和社會期望高度契合。
+
+香港吸煙與健康委員會主席湯修齊表示，委員會一如以往繼續全力支持政府推行下一步的控煙措施，並指出實施傳統吸煙產品統一包裝和禁止加味煙將有效減低煙草產品的推廣效果和吸引力，是抗衡煙草商向市民，特別是年輕一代，營銷的重要措施。
+
+六月．戒煙月
+——————
+林民聰醫生說：「政府一直以多管齊下及循序漸進的方式，減低吸煙產品對市民和社會造成的禍害，在立法、徵稅、宣傳、教育和執法以外，提供完善戒煙服務亦是不可或缺的重要一環。為協助吸煙者成功戒煙，衞生署一直資助多個非政府機構，提供多元化而免費的戒煙服務及支援。為響應世界衞生組織定於每年五月三十一日的『世界無煙日』，衞生署自二○二一年推出『六月．戒煙月』活動，鼓勵吸煙人士嘗試戒煙，以降低患上吸煙相關疾病和死亡的風險。過去數年，每年參與人數逐年遞增，活動成效理想。」
+
+今年，衞生署會繼續透過全港超過300間社區藥房、戒煙診所、地區康健中心／地區康健站，以及衞生署診所免費派發一星期戒煙藥物試用裝，及透過指定中醫診所免費派發中醫戒煙耳穴貼，以協助有意欲戒煙人士紓緩退癮徵狀。
+
+林民聰醫生表示，因應政府將推行建築地盤全面禁煙，衞生署已加強對建築業界的戒煙宣傳和支援力度，衞生署資助的非政府機構透過外展活動，積極向建築業界人士提供免費戒煙藥物試用裝和中藥耳穴貼。
+
+另外，衞生署今年與香港大學護理學院合作推出AI戒煙輔導服務先導計劃——「智聊戒」，由AI即時提供精準和適切的戒煙資訊，並根據使用者的吸煙史和戒煙偏好，給予個人化戒煙輔導，還能為使用者提供情緒支援，協助使用者練習拒煙技巧。有意戒煙的人士只需掃描二維碼（見附件）即可隨時隨地接通服務，費用全免。若使用者需要真人輔導服務、戒煙藥物支援或中醫針灸戒煙服務，「智聊戒」亦會根據需求進行轉介。
+
+衞生署已開始播放「全世界睇好你．戒！」電視及電台政府宣傳片，並在公共運輸交通網絡和社交媒體加強宣傳廣告，鼓勵吸煙人士戒煙，陪伴吸煙人士渡過無煙月。
+
+衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
+
+林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
+衞生署公布本港最新吸煙情況及「六月．戒煙月」活動（附圖／短片）,2026-05-27 12:30,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700292.htm,"衞生署今日（五月二十七日）公布，香港吸煙率由八十年代初的23.3%持續下降至二○二五年的8.5%，創歷史新低。與此同時，習慣每日使用電子煙或加熱煙等另類吸煙產品的人數亦有所下跌，反映政府推行的控煙策略成效卓著，切實有效保障公眾健康。衞生署今日起推出「六月．戒煙月」的活動，透過多元途徑鼓勵和協助吸煙人士嘗試戒煙，包括運用人工智能（AI）提供個人化的戒煙輔導服務。
 
 調查結果
 ————
@@ -2649,54 +2651,6 @@ President,
  At the same time, the Government is also committed to deepening co-operation with Belt and Road countries and other international market participants, promoting Hong Kong's gold storage, clearing and risk management services through overseas visits, organising events, and exploring the signing of co-operation agreements. For instance, during his earlier attendance to the Annual Meeting of the Board of Governors of the Asian Development Bank in Uzbekistan, the Secretary for Financial Services and the Treasury took the opportunity to introduce the latest developments and opportunities in Hong Kong's gold market to participating finance ministers and central bank representatives. We will also make good use of the network of our Economic and Trade Offices in the Mainland and overseas to promote Hong Kong's direction and specific measures for gold market development.
 
 (4) At present, Hong Kong does not impose any customs duty or import/export control on passengers bringing gold products into/out of Hong Kong. The Government will, in response to market demand and when necessary, explore with the relevant Mainland authorities the feasibility of providing more convenient arrangements for passengers, with a view to promoting the development of Hong Kong's retail gold market."
-立法會七題：鐵路工程的成本管控,2026-05-27 11:40,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700206.htm,"以下是今日（五月二十七日）在立法會會議上何君堯議員的提問和運輸及物流局局長陳美寶的書面答覆：
-
-問題：
-
-政府於二○二三年十二月公布《香港主要運輸基建發展藍圖》，為香港未來的運輸基建發展提供規劃框架。有意見認為，目前香港的鐵路工程與內地相比，存在造價過高、建造時間過長的問題。就此，政府可否告知本會：
-
-（一）過去五年，香港已開展的鐵路工程項目資料，並按下表列出分項數字：
-
-
-
-工程開展年份
-項目名稱
-鐵路長度
-項目造價
-每公里造價
-完工年份／預計完工
-			所需時間（按月計算）
-
-
-
-
-
-
-
-
-
-
-
-
-（二）就第（一）項所述的鐵路工程項目，政府採取了哪些措施以控制工程的成本，並提升鐵路的建造效率；及
-
-（三）政府將如何與內地部門就連接內地的鐵路工程項目溝通協調（特別是港深西部鐵路（洪水橋至前海）及北環線支線項目），以促進本港鐵路工程降本增效？
-
-答覆：
-
-主席：
-
-在「八縱八橫」的運輸基建布局下，政府正全力有序推動和落實一系列運輸基建項目。政府理解社會期望香港基建工程進一步提速提效，致力降低造價和縮短工期。我們秉持「敢於破局」的精神，積極在政策和技術上「雙創新」，探討優化及精簡程序，並汲取其他國內外大型基建發展的經驗，務求提升推展運輸基建項目的效率。就何君堯議員提問的各部分，現回覆如下：
-
-（一）政府正全力推展一系列運輸基建項目，在過去五年內已有多項鐵路項目動工。東鐵線古洞站、東涌線延線、屯門南延線、小蠔灣站和洪水橋站明年起陸續在數年內落成啓用。同時，北環線主線和支線工程以新思維合併同步推展，爭取在二○三四年或之前同步開通。相關項目資料載於附件。
-
-（二）及（三）如上所述，政府致力引入創新思維、技術和工序，推動鐵路建設更高效、更具前瞻性和更具成本效益。同時，我們和香港鐵路有限公司（港鐵公司）檢視其新鐵路項目當中的規劃、設計和施工等不同環節，探討優化及精簡程序的空間，以盡量節省工程團隊的人手需求，減低成本。我們亦鼓勵港鐵公司積極廣納內地及海外的嶄新科技及技術，探討不同策略性成本管控措施於鐵路項目上的應用。舉例而言，港鐵公司於東鐵線古洞站工程中，應用擴增實境技術配合建築信息模擬技術，實時比對設計與現場安裝情況，可及早修正誤差，提升施工質素和進度。
-
-路政署今年二月發布《香港鐵路標準》，全面就鐵路項目的整個項目周期訂立技術依據和指引，便利新鐵路項目應用更多不同創新技術、物料、裝備和系統等，並提供清晰規範作為監管部門的審批依據，同時便利業界制定及優化施工工序，為香港鐵路發展提速提效奠定了重要基礎。配合《香港鐵路標準》的推出，路政署同步成立鐵路審批組，整合屋宇測量、結構工程及土木工程等專業範疇的力量，專責處理新鐵路項目的圖則審批工作，並配以新的電子審批平台，為安全和質量嚴格把關之餘，同時提升審批流程效率，將處理圖則時間大幅減少百分之三十至五十，有助節省資源和減省成本。
-
-我們有信心《香港鐵路標準》及精簡審批流程可顯著提升香港鐵路項目的推展效率和成本效益。個別項目的效益會因應實際情況和性質而有所不同。以北環線項目為例，粗略估算，通過採用《香港鐵路標準》並由鐵路審批組進行專責審批，加上合併推展北環線主線及支線所產生的協同效應，有望為北環線項目節省約兩成建造成本，並將支線的時間表提前兩年與主線在二○三四年或之前同步開通。
-
-與內地就跨境鐵路項目的溝通協調方面，香港特別行政區政府與深圳當局一直透過港深跨界軌道基礎設施建設專班以及旗下的「跨界軌道項目推展辦公室」和「法務小組」緊密對接，共同推展港深西部鐵路和北環線支線兩個跨境鐵路項目，包括推進可行性研究、勘測、設計、建設及營運等工作。兩地政府一直積極共同探討優化跨境鐵路項目的施工方案，以達致最大的效益。舉例而言，雙方已同意採用單向掘進的施工方法建造港深西部鐵路的海底鐵路隧道，並由深圳一方掘進施工，提升整體效率和成本效益，同時確保香港段和內地段海底鐵路隧道的設計互相兼容和工序順暢銜接。"
 LCQ7: Cost management and control for railway works,2026-05-27 11:40,2026-05-27 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700217.htm,"Following is a question by Dr the Hon Junius Ho and a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (May 27):
 
 Question:
@@ -2747,6 +2701,54 @@ In February this year, the Highways Department (HyD) promulgated the Hong Kong R
 We are confident that the Standards and the streamlined approval process would be able to substantially enhance the implementation efficiency and cost-effectiveness of railway projects in Hong Kong. The benefits for each individual project would vary depending on actual circumstances and nature of the project concerned. Taking the NOL Project as an example, as a rough estimate, the adoption of the Standards together with dedicated approval process by the RCU, coupled with the synergies generated by implementing the NOL Main Line in combination with the NOL Spur Line as one project, the construction cost of the NOL Project is expected to be reduced by about 20 per cent and the programme of the NOL Spur Line could also be advanced by two years to achieve simultaneous commissioning with the NOL Main Line by 2034 or earlier.
 
 Regarding communication and liaison with the Mainland authorities on cross-boundary railway projects, the Government of Hong Kong Special Administrative Region and Shenzhen authorities have been working closely through the Task Force for Hong Kong-Shenzhen Co-operation on Cross-Boundary Railway Infrastructure as well as the Office for Implementing Cross-Boundary Railway Projects and the Legal Group under the framework of the Task Force to jointly take forward the two cross-boundary railway projects, namely the Hong Kong-Shenzhen Western Rail Link (HSWRL) and the NOL Spur Line projects, including taking forward work on feasibility study, investigation, design, construction and operation, etc. The governments of the two places have been working actively together to explore improvements to the construction scheme of cross-boundary railway projects with a view to achieving optimal effectiveness. For example, both sides agreed to adopt a unidirectional tunnelling method to construct the subsea railway tunnel of the HSWRL and also carry out the excavation from the Shenzhen side, so as to enhance the overall efficiency and cost effectiveness as well as ensure design compatibility and seamless coordination of construction works between the Hong Kong and Mainland sections of the subsea railway tunnel."
+立法會七題：鐵路工程的成本管控,2026-05-27 11:40,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700206.htm,"以下是今日（五月二十七日）在立法會會議上何君堯議員的提問和運輸及物流局局長陳美寶的書面答覆：
+
+問題：
+
+政府於二○二三年十二月公布《香港主要運輸基建發展藍圖》，為香港未來的運輸基建發展提供規劃框架。有意見認為，目前香港的鐵路工程與內地相比，存在造價過高、建造時間過長的問題。就此，政府可否告知本會：
+
+（一）過去五年，香港已開展的鐵路工程項目資料，並按下表列出分項數字：
+
+
+
+工程開展年份
+項目名稱
+鐵路長度
+項目造價
+每公里造價
+完工年份／預計完工
+			所需時間（按月計算）
+
+
+
+
+
+
+
+
+
+
+
+
+（二）就第（一）項所述的鐵路工程項目，政府採取了哪些措施以控制工程的成本，並提升鐵路的建造效率；及
+
+（三）政府將如何與內地部門就連接內地的鐵路工程項目溝通協調（特別是港深西部鐵路（洪水橋至前海）及北環線支線項目），以促進本港鐵路工程降本增效？
+
+答覆：
+
+主席：
+
+在「八縱八橫」的運輸基建布局下，政府正全力有序推動和落實一系列運輸基建項目。政府理解社會期望香港基建工程進一步提速提效，致力降低造價和縮短工期。我們秉持「敢於破局」的精神，積極在政策和技術上「雙創新」，探討優化及精簡程序，並汲取其他國內外大型基建發展的經驗，務求提升推展運輸基建項目的效率。就何君堯議員提問的各部分，現回覆如下：
+
+（一）政府正全力推展一系列運輸基建項目，在過去五年內已有多項鐵路項目動工。東鐵線古洞站、東涌線延線、屯門南延線、小蠔灣站和洪水橋站明年起陸續在數年內落成啓用。同時，北環線主線和支線工程以新思維合併同步推展，爭取在二○三四年或之前同步開通。相關項目資料載於附件。
+
+（二）及（三）如上所述，政府致力引入創新思維、技術和工序，推動鐵路建設更高效、更具前瞻性和更具成本效益。同時，我們和香港鐵路有限公司（港鐵公司）檢視其新鐵路項目當中的規劃、設計和施工等不同環節，探討優化及精簡程序的空間，以盡量節省工程團隊的人手需求，減低成本。我們亦鼓勵港鐵公司積極廣納內地及海外的嶄新科技及技術，探討不同策略性成本管控措施於鐵路項目上的應用。舉例而言，港鐵公司於東鐵線古洞站工程中，應用擴增實境技術配合建築信息模擬技術，實時比對設計與現場安裝情況，可及早修正誤差，提升施工質素和進度。
+
+路政署今年二月發布《香港鐵路標準》，全面就鐵路項目的整個項目周期訂立技術依據和指引，便利新鐵路項目應用更多不同創新技術、物料、裝備和系統等，並提供清晰規範作為監管部門的審批依據，同時便利業界制定及優化施工工序，為香港鐵路發展提速提效奠定了重要基礎。配合《香港鐵路標準》的推出，路政署同步成立鐵路審批組，整合屋宇測量、結構工程及土木工程等專業範疇的力量，專責處理新鐵路項目的圖則審批工作，並配以新的電子審批平台，為安全和質量嚴格把關之餘，同時提升審批流程效率，將處理圖則時間大幅減少百分之三十至五十，有助節省資源和減省成本。
+
+我們有信心《香港鐵路標準》及精簡審批流程可顯著提升香港鐵路項目的推展效率和成本效益。個別項目的效益會因應實際情況和性質而有所不同。以北環線項目為例，粗略估算，通過採用《香港鐵路標準》並由鐵路審批組進行專責審批，加上合併推展北環線主線及支線所產生的協同效應，有望為北環線項目節省約兩成建造成本，並將支線的時間表提前兩年與主線在二○三四年或之前同步開通。
+
+與內地就跨境鐵路項目的溝通協調方面，香港特別行政區政府與深圳當局一直透過港深跨界軌道基礎設施建設專班以及旗下的「跨界軌道項目推展辦公室」和「法務小組」緊密對接，共同推展港深西部鐵路和北環線支線兩個跨境鐵路項目，包括推進可行性研究、勘測、設計、建設及營運等工作。兩地政府一直積極共同探討優化跨境鐵路項目的施工方案，以達致最大的效益。舉例而言，雙方已同意採用單向掘進的施工方法建造港深西部鐵路的海底鐵路隧道，並由深圳一方掘進施工，提升整體效率和成本效益，同時確保香港段和內地段海底鐵路隧道的設計互相兼容和工序順暢銜接。"
 立法會九題：推動飲食業可持續發展的措施,2026-05-27 11:33,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700276.htm,"以下是今日（五月二十七日）在立法會會議上梁進議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -3214,44 +3216,6 @@ D. Suspension of parking spaces
   All vehicles parked illegally during the implementation of the above special traffic arrangements will be towed away without prior warning, and may be subject to multiple ticketing.
 
   Actual implementation of road closure and traffic diversion will be made by the Police at the time depending on traffic conditions in the areas. Motorists should exercise tolerance and patience, and follow the instructions of police officers on site."
-DH reminds public to take precautions against heat-related illnesses during very hot weather,2026-05-27 06:46,2026-05-27 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700010.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (May 27) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke, during very hot weather.
-
-In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
-
-
-Hydrate in a timely manner to prevent dehydration;
-Wear light-coloured, loose-fitting and breathable clothing to minimise heat absorption and facilitate perspiration and heat dissipation;
-Keep indoor areas well ventilated and maintain appropriate temperature and humidity, e.g. by opening windows or using a fan or air-conditioning;
-Avoid strenuous exercise and prolonged activities such as hiking or trekking;
-Arrange outdoor activities in the morning or the late afternoon, if possible, and bring enough water; and
-Avoid beverages containing caffeine, such as coffee and tea, as well as alcoholic beverages, which may speed up water loss through the urinary system.
-
-
-​In addition, infants and children, the elderly, pregnant women, individuals with chronic illnesses such as heart disease or high blood pressure, overweight people and outdoor/manual workers are more susceptible to heat stroke. These groups should pay special attention to the following:
-
-
-Infants and young children: Avoid going outside when the temperature is high. If they must go outside, adults should ensure they stay in places with moderate temperatures and good ventilation or air-conditioning. Infants and young children should never be left unattended in a confined space such as a vehicle;
-The elderly, pregnant women, individuals with chronic illnesses and overweight people: Pay close attention to health conditions and seek help as soon as possible if experiencing any abnormalities in health indicators such as blood pressure, heart rate, etc or if there are fluctuations in health conditions. Avoid going out when the temperature is high. Make sure there is good ventilation, or turn on a fan or air-conditioner to keep an appropriate temperature indoors. High temperatures can also worsen the condition of people with chronic illnesses (such as cardiovascular and respiratory diseases). Therefore, they should have an ample supply of their usual medication and keep in contact with family members, neighbours and the community. People should seek immediate help if they feel unwell.
-Outdoor/manual workers: Reschedule work to cooler hours as far as feasible. If working in a hot environment is unavoidable, provide shade where practicable and use ventilation and heat dissipation equipment. Once work has begun, gradually adjust the pace of work and take breaks in the shade to regain strength.
-
-
-​The DH reminded the public that heat stroke is one of the most common health risks in hot weather. Over the past five years, there have been over 200 hospital admissions due to heat stroke each year in Hong Kong, with two to five fatal cases occurring mainly during the summer months from May to September. Vulnerable groups are more susceptible to heat stroke. Symptoms include dizziness, headache, nausea, shortness of breath or confusion. In severe cases, patients may suffer from convulsions or become unconscious, which can be life-threatening if they are not cooled down and resuscitated in a timely manner.
-
-Members of the public are also advised to pay attention to the latest weather, as well as the real-time and forecasted ultraviolet (UV) index released by the Hong Kong Observatory (HKO). When the UV index is high (6 or above), the public should note the following:
-
-
-Avoid direct sunlight exposure to the skin and the eyes;
-Apply broad-spectrum, water-resistant sunscreen liberally, with a sun protection factor (SPF) of at least 30 or higher, when participating in outdoor activities. Reapply every two hours if staying outdoors for long periods, or after swimming, sweating or towelling off;
-While using DEET-containing insect repellents for personal protection against mosquito-borne diseases, apply sunscreen before insect repellent;
-Seek shade;
-Wear UV-blocking sunglasses;
-Wear loose-fitting clothing with long-sleeves; and
-Wear a wide-brimmed hat or use an umbrella.
-
-
-​If symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
-
-​For more health information, the public may visit theCHP's heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast,UV Indexand weather information forhiking and mountaineering; andpress releasesof the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
 天氣酷熱　衞生署提醒市民預防高溫引發的疾病,2026-05-27 06:46,2026-05-27 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700012.htm,"天氣酷熱，衞生署衞生防護中心（中心）今日（五月二十七日）提醒市民，應採取適當措施預防高溫引發的疾病，例如熱痙攣、熱衰竭和中暑。
 
 在高溫環境下，大量出汗及散熱困難，均會導致身體不勝負荷，市民應採取以下預防措施：
@@ -3290,6 +3254,44 @@ Wear a wide-brimmed hat or use an umbrella.
 若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
 
 有關更多健康資訊，可參閱衞生防護中心中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
+DH reminds public to take precautions against heat-related illnesses during very hot weather,2026-05-27 06:46,2026-05-27 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700010.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (May 27) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke, during very hot weather.
+
+In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
+
+
+Hydrate in a timely manner to prevent dehydration;
+Wear light-coloured, loose-fitting and breathable clothing to minimise heat absorption and facilitate perspiration and heat dissipation;
+Keep indoor areas well ventilated and maintain appropriate temperature and humidity, e.g. by opening windows or using a fan or air-conditioning;
+Avoid strenuous exercise and prolonged activities such as hiking or trekking;
+Arrange outdoor activities in the morning or the late afternoon, if possible, and bring enough water; and
+Avoid beverages containing caffeine, such as coffee and tea, as well as alcoholic beverages, which may speed up water loss through the urinary system.
+
+
+​In addition, infants and children, the elderly, pregnant women, individuals with chronic illnesses such as heart disease or high blood pressure, overweight people and outdoor/manual workers are more susceptible to heat stroke. These groups should pay special attention to the following:
+
+
+Infants and young children: Avoid going outside when the temperature is high. If they must go outside, adults should ensure they stay in places with moderate temperatures and good ventilation or air-conditioning. Infants and young children should never be left unattended in a confined space such as a vehicle;
+The elderly, pregnant women, individuals with chronic illnesses and overweight people: Pay close attention to health conditions and seek help as soon as possible if experiencing any abnormalities in health indicators such as blood pressure, heart rate, etc or if there are fluctuations in health conditions. Avoid going out when the temperature is high. Make sure there is good ventilation, or turn on a fan or air-conditioner to keep an appropriate temperature indoors. High temperatures can also worsen the condition of people with chronic illnesses (such as cardiovascular and respiratory diseases). Therefore, they should have an ample supply of their usual medication and keep in contact with family members, neighbours and the community. People should seek immediate help if they feel unwell.
+Outdoor/manual workers: Reschedule work to cooler hours as far as feasible. If working in a hot environment is unavoidable, provide shade where practicable and use ventilation and heat dissipation equipment. Once work has begun, gradually adjust the pace of work and take breaks in the shade to regain strength.
+
+
+​The DH reminded the public that heat stroke is one of the most common health risks in hot weather. Over the past five years, there have been over 200 hospital admissions due to heat stroke each year in Hong Kong, with two to five fatal cases occurring mainly during the summer months from May to September. Vulnerable groups are more susceptible to heat stroke. Symptoms include dizziness, headache, nausea, shortness of breath or confusion. In severe cases, patients may suffer from convulsions or become unconscious, which can be life-threatening if they are not cooled down and resuscitated in a timely manner.
+
+Members of the public are also advised to pay attention to the latest weather, as well as the real-time and forecasted ultraviolet (UV) index released by the Hong Kong Observatory (HKO). When the UV index is high (6 or above), the public should note the following:
+
+
+Avoid direct sunlight exposure to the skin and the eyes;
+Apply broad-spectrum, water-resistant sunscreen liberally, with a sun protection factor (SPF) of at least 30 or higher, when participating in outdoor activities. Reapply every two hours if staying outdoors for long periods, or after swimming, sweating or towelling off;
+While using DEET-containing insect repellents for personal protection against mosquito-borne diseases, apply sunscreen before insect repellent;
+Seek shade;
+Wear UV-blocking sunglasses;
+Wear loose-fitting clothing with long-sleeves; and
+Wear a wide-brimmed hat or use an umbrella.
+
+
+​If symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
+
+​For more health information, the public may visit theCHP's heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast,UV Indexand weather information forhiking and mountaineering; andpress releasesof the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
 酷熱天氣警告已發出,2026-05-27 06:45,2026-05-27 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700006.htm,"電台及電視台當值宣布員注意：
 
 請盡速播出下列特別報告：
@@ -3972,7 +3974,7 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 ​The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD.
 
   ​Additionally, as smokers and alcoholics are more susceptible to LD, the Government urgesmembers of the public to quit smoking and avoid drinking. Members of the public may call the DH Integrated Smoking Cessation Hotline at 1833 183, which is answered by registered nurses who provide professional counselling and referral to a wide range of free smoking cessation services. The public may also visit the smoking cessation thematic website (www.livetobaccofree.hk) for more information on smoking cessation. The DH has also developed and promulgated the Alcohol Screening and Brief Intervention tool to primary healthcare service providers to facilitate the early identification and management of at-risk drinkers. For information on alcohol-related harm, please visit the DH'sChange for Health website."
-Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photo),2026-05-26 18:35,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
+Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photos),2026-05-26 18:35,2026-05-26 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
 
   The Chief Executive's 2025 Policy Address announced that the Government would support people-oriented scientific research through the Innovation and Technology (I&T) Fund to introduce prostheses built with new research and development technologies. Qiangnao Technology is a leading global enterprise in the field of brain-computer interfaces and is also one of ""Hangzhou's Six Little Dragons"", representing China's breakthrough development in this cutting-edge field. PolyU, meanwhile, has a strong research foundation and international influence in prosthetics and orthotics, rehabilitation sciences and biomedical engineering. With funding support from the I&T Fund, the two sides earlier launched a collaborative project. In the first phase of the programme, 60 amputees in Hong Kong will be provided with the new high-tech prostheses free of charge, together with professional assessment and rehabilitation support services by a PolyU team to help recipients gradually adapt to and master the use of prosthetics, thereby comprehensively improving their daily living abilities and quality of life.
 
@@ -3994,7 +3996,7 @@ Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology
 滕錦光教授表示：「科學研究最終都要造福社會。行政長官《施政報告》裏提出的惠民科技發展思路，和理大『開物成務勵學利民』的校訓精神完全一致。這個項目意義重大：強腦科技帶來了世界領先的智能仿生義肢核心技術，理大負責提供技術落地推廣與科研保障工作，團隊將結合臨床使用場景檢驗技術成效，收集使用者的意見，及時調整優化，持續改善使用體驗。這項計劃得到了特區政府創科基金的大力支持，讓前沿科技真正服務民生、造福社會。」
 
 在啟動禮上，受惠於計劃而獲安裝智能仿生手及智能仿生腿的人士分享其體驗。這次合作計劃所採用的智能義肢無需進行任何體內植入，透過非侵入式腦機接口技術，利用佩戴者的肌電神經電信號，即可實現自然、精準及靈活的動作控制，為復康科技發展開創嶄新方向。"
-Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photos),2026-05-26 18:35,2026-05-26 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
+Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photo),2026-05-26 18:35,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
 
   The Chief Executive's 2025 Policy Address announced that the Government would support people-oriented scientific research through the Innovation and Technology (I&T) Fund to introduce prostheses built with new research and development technologies. Qiangnao Technology is a leading global enterprise in the field of brain-computer interfaces and is also one of ""Hangzhou's Six Little Dragons"", representing China's breakthrough development in this cutting-edge field. PolyU, meanwhile, has a strong research foundation and international influence in prosthetics and orthotics, rehabilitation sciences and biomedical engineering. With funding support from the I&T Fund, the two sides earlier launched a collaborative project. In the first phase of the programme, 60 amputees in Hong Kong will be provided with the new high-tech prostheses free of charge, together with professional assessment and rehabilitation support services by a PolyU team to help recipients gradually adapt to and master the use of prosthetics, thereby comprehensively improving their daily living abilities and quality of life.
 
@@ -4005,19 +4007,6 @@ Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology
   Professor Teng said, ""Advanced scientific research must ultimately benefit society. The vision for developing people-oriented technology, as outlined in the Chief Executive's Policy Address, aligns perfectly with PolyU's motto, 'To learn and to apply, for the benefit of mankind'. This Programme holds immense significance: Qiangnao brings world-leading core technologies in intelligent bionic prostheses, while PolyU provides local implementation, promotion, and scientific research support. The team will evaluate the effectiveness of the technology based on clinical application scenarios, collect user feedback for timely adjustments and optimisations, and continuously improve the overall user experience. With the support of the I&T Fund, this initiative ensures that cutting-edge technology truly serves public livelihood and benefits society.""
 
   At the ceremony, amputees who had been fitted with the high-tech prostheses under the programme shared their experience and stories. The high-tech prostheses used in this collaboration do not require any implantation. Through non-invasive brain-computer interface technology, they use the wearer's myoelectric and neural signals to enable natural, precise, and flexible motion control, opening up a new direction for the development of rehabilitation technology."
-財庫局和證監會發表有關規管就虛擬資產提供意見及管理服務的立法建議的諮詢總結,2026-05-26 18:30,2026-05-26 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600572.htm,"財經事務及庫務局（財庫局）和證券及期貨事務監察委員會（證監會）今日（五月二十六日）就設立就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者監管制度的立法建議，聯合發表諮詢總結。
-
-為期一個月的公眾諮詢在今年一月底完成，其間就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者的擬議監管制度收到51份意見書，來自市場參與者、行業組織、商會和專業團體等。大部分回應者均明確支持以傳統證券市場的監管制度為藍本，就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者分別設立監管制度。此外，回應者普遍支持擬議的涵蓋範圍和豁免情況，同時在某些方面提出優化建議及尋求釐清。
-
-秉持「相同業務、相同風險、相同規則」的原則，就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者擬議監管制度的涵蓋範圍，將分別與《證券及期貨條例》下第4類（就證券提供意見）及第9類（提供資產管理）受規管活動的涵蓋範圍保持一致。
-
-財庫局局長許正宇表示：「財庫局去年六月發表《香港數字資產發展政策宣言2.0》（《政策宣言2.0》），闡明我們在加強風險管理與投資者保障的同時，促進負責任金融創新並將香港發展成為全球領先數字資產中心的願景。擬議的監管制度涵蓋就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者，是拓展香港數字資產法律框架的重要部分。連同現行的虛擬資產交易平台及穩定幣發行人發牌制度，以及擬議的虛擬資產交易和託管服務的制度，我們的法律框架將貫通整個數字資產生態圈的主要節點，形成與傳統金融同樣值得信賴、可持續的體系，引領我們邁向《政策宣言2.0》闡明的願景。」
-
-證監會行政總裁梁鳳儀表示：「是次進一步諮詢的總結，標誌着我們完善數字資產監管框架的最後一步，為我們生態圈的長遠擴展鋪平了道路。市場廣泛的支持反映建立穩健而全面的監管的必要性。新的制度與傳統金融服務的標準接軌，將不僅提升投資者保障，亦促進負責任的創新。」
-
-在市場廣泛支持下，財庫局和證監會正參照諮詢所收集到的意見，敲定虛擬資產交易服務、虛擬資產託管服務、就虛擬資產提供意見的服務及虛擬資產管理服務提供者監管制度的立法建議，目標於今年內向立法會提交相關條例草案。
-
-有關規管就虛擬資產提供意見的服務提供者和虛擬資產管理服務提供者的立法建議的諮詢總結，已上載至財庫局（www.fstb.gov.hk/fsb/tc/publication/consult/doc/VASPVAMSP_consultation_conclusion_c.pdf）及證監會（apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=TC&refNo=25CP12）的網頁。"
 FSTB and SFC publish consultation conclusions on legislative proposals for regulating virtual asset advisory and management services,2026-05-26 18:30,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600567.htm,"The Financial Services and the Treasury Bureau (FSTB) and the Securities and Futures Commission (SFC) today (May 26) jointly published the consultation conclusions on the legislative proposals for establishing regulatory regimes for virtual asset (VA) advisory and management service providers.
 
 During the one-month public consultation completed in late January this year, 51 submissions were received on the proposed regulatory regimes for VA advisory service providers and VA management service providers. The majority of respondents, including market participants, industry associations, business and professional organisations, expressed clear support for establishing separate licensing regimes for VA advisory and management service providers, which model on the regulatory framework applicable to the conventional securities market. The respondents also generally indicated support for the proposed regulatory scope and exemptions, while suggesting enhancements and seeking clarifications on certain aspects.
@@ -4031,6 +4020,19 @@ The Chief Executive Officer of the SFC, Ms Julia Leung, said, ""The conclusion o
 With broad market support, and taking into account the feedback received in the consultations, the FSTB and the SFC are finalising the legislative proposals for the regulatory regimes for VA dealing, custodian, advisory and management service providers, with a target of introducing the relevant bill into the Legislative Council within this year.
 
 The Consultation Conclusions on Legislative Proposal to Regulate Virtual Asset Advisory Service Providers and Virtual Asset Management Service Providers are available on the webpages of the FSTB (www.fstb.gov.hk/fsb/en/publication/consult/doc/VASPVAMSP_consultation_conclusion_e.pdf) and the SFC (apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=EN&refNo=25CP12)."
+財庫局和證監會發表有關規管就虛擬資產提供意見及管理服務的立法建議的諮詢總結,2026-05-26 18:30,2026-05-26 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600572.htm,"財經事務及庫務局（財庫局）和證券及期貨事務監察委員會（證監會）今日（五月二十六日）就設立就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者監管制度的立法建議，聯合發表諮詢總結。
+
+為期一個月的公眾諮詢在今年一月底完成，其間就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者的擬議監管制度收到51份意見書，來自市場參與者、行業組織、商會和專業團體等。大部分回應者均明確支持以傳統證券市場的監管制度為藍本，就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者分別設立監管制度。此外，回應者普遍支持擬議的涵蓋範圍和豁免情況，同時在某些方面提出優化建議及尋求釐清。
+
+秉持「相同業務、相同風險、相同規則」的原則，就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者擬議監管制度的涵蓋範圍，將分別與《證券及期貨條例》下第4類（就證券提供意見）及第9類（提供資產管理）受規管活動的涵蓋範圍保持一致。
+
+財庫局局長許正宇表示：「財庫局去年六月發表《香港數字資產發展政策宣言2.0》（《政策宣言2.0》），闡明我們在加強風險管理與投資者保障的同時，促進負責任金融創新並將香港發展成為全球領先數字資產中心的願景。擬議的監管制度涵蓋就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者，是拓展香港數字資產法律框架的重要部分。連同現行的虛擬資產交易平台及穩定幣發行人發牌制度，以及擬議的虛擬資產交易和託管服務的制度，我們的法律框架將貫通整個數字資產生態圈的主要節點，形成與傳統金融同樣值得信賴、可持續的體系，引領我們邁向《政策宣言2.0》闡明的願景。」
+
+證監會行政總裁梁鳳儀表示：「是次進一步諮詢的總結，標誌着我們完善數字資產監管框架的最後一步，為我們生態圈的長遠擴展鋪平了道路。市場廣泛的支持反映建立穩健而全面的監管的必要性。新的制度與傳統金融服務的標準接軌，將不僅提升投資者保障，亦促進負責任的創新。」
+
+在市場廣泛支持下，財庫局和證監會正參照諮詢所收集到的意見，敲定虛擬資產交易服務、虛擬資產託管服務、就虛擬資產提供意見的服務及虛擬資產管理服務提供者監管制度的立法建議，目標於今年內向立法會提交相關條例草案。
+
+有關規管就虛擬資產提供意見的服務提供者和虛擬資產管理服務提供者的立法建議的諮詢總結，已上載至財庫局（www.fstb.gov.hk/fsb/tc/publication/consult/doc/VASPVAMSP_consultation_conclusion_c.pdf）及證監會（apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=TC&refNo=25CP12）的網頁。"
 警務處「安全城市大使計劃委任及嘉許典禮2026」今日舉行（附圖）,2026-05-26 18:09,2026-05-26 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600563.htm,"警務處防止罪案科（防罪科）今日（五月二十六日）舉行「安全城市大使計劃委任及嘉許典禮2026」，委任新一批15位「安全城市大使」，與警方攜手推動防罪工作，並表揚過去一年積極宣揚防罪信息的七間機構。
 
 警務處處長周一鳴致辭時表示，警隊將繼續透過「安全城市‧香港」網站及「安全城市大使」的網絡，讓防罪信息更快送達、更易理解、更貼近市民需要。警隊亦會持續深化智慧警政，透過人工智能整合大數據進行分析和預測，及早識別潛在罪案風險。他又指，警隊會加強與創科企業、社區及各持份者的合作，推動更多人工智能的實際應用，並透過多方協作研發人工智能項目，進一步提升警隊效率及打擊罪案能力。
@@ -4127,6 +4129,61 @@ Fraudulent website
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
+民政事務總署開放臨時避暑中心,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600535.htm,"民政事務總署今日（五月二十六日）開放19間社區會堂和社區中心作臨時避暑中心。
+
+臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
+
+如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
+
+臨時避暑中心的地點如下：
+
+香港島：
+———
+中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
+東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區－鴨脷洲利東邨利東社區會堂
+灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
+
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘－藍田啟田道71號藍田（西區）社區中心
+深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
+
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌荔景山路205號荔景社區會堂
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂
+元朗－天水圍天耀邨天耀社區中心
+
+除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
+兩名入境旅客進口未完稅香煙罪成判囚（附圖）,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600521.htm,"兩名入境旅客因進口未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》，今日（五月二十六日）在西九龍裁判法院分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
+
+海關人員昨日（五月二十五日）在香港國際機場截查兩名分別三十六歲及四十四歲的抵港男旅客，在他們攜帶的個人行李內分別檢獲五萬一千支未完稅香煙，估計市值約二十萬九千元，應課稅值約十六萬九千元，以及檢獲約三萬八千五百支未完稅香煙，估計市值約十五萬八千元，應課稅值約十二萬七千元。該兩名旅客隨即被捕。他們今日分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
+
+海關對判刑表示歡迎，監禁判刑具相當阻嚇作用，並充分反映罪行的嚴重性。
+
+海關提醒市民，根據《應課稅品條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
+Two incoming passengers convicted and jailed for importing duty-not-paid cigarettes (with photos),2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600528.htm,"​Two incoming passengers were sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 respectively by the West Kowloon Magistrates' Courts today (May 26) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
+
+Customs officers intercepted two incoming male passengers, aged 36 and 44, at Hong Kong International Airport yesterday (May 25) and seized 51 000 duty-not-paid cigarettes with an estimated market value of about $209,000 and a duty potential of about $169,000, as well as around 38 500 duty-not-paid cigarettes with an estimated market value of about $158,000 and a duty potential of about $127,000, from their personal baggage respectively. The two passengers were subsequently arrested. They were respectively sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 today.
+
+Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflect the seriousness of the offences.
+
+Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
+
+Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 HAD opens temporary heat shelters,2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600534.htm,"  The Home Affairs Department is opening 19 community halls/community centres as temporary heat shelters today (May 26).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -4223,62 +4280,7 @@ Tin Yiu Community Centre
 Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf."
-兩名入境旅客進口未完稅香煙罪成判囚（附圖）,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600521.htm,"兩名入境旅客因進口未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》，今日（五月二十六日）在西九龍裁判法院分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
-
-海關人員昨日（五月二十五日）在香港國際機場截查兩名分別三十六歲及四十四歲的抵港男旅客，在他們攜帶的個人行李內分別檢獲五萬一千支未完稅香煙，估計市值約二十萬九千元，應課稅值約十六萬九千元，以及檢獲約三萬八千五百支未完稅香煙，估計市值約十五萬八千元，應課稅值約十二萬七千元。該兩名旅客隨即被捕。他們今日分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
-
-海關對判刑表示歡迎，監禁判刑具相當阻嚇作用，並充分反映罪行的嚴重性。
-
-海關提醒市民，根據《應課稅品條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
-Two incoming passengers convicted and jailed for importing duty-not-paid cigarettes (with photos),2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600528.htm,"​Two incoming passengers were sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 respectively by the West Kowloon Magistrates' Courts today (May 26) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted two incoming male passengers, aged 36 and 44, at Hong Kong International Airport yesterday (May 25) and seized 51 000 duty-not-paid cigarettes with an estimated market value of about $209,000 and a duty potential of about $169,000, as well as around 38 500 duty-not-paid cigarettes with an estimated market value of about $158,000 and a duty potential of about $127,000, from their personal baggage respectively. The two passengers were subsequently arrested. They were respectively sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 today.
-
-Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflect the seriousness of the offences.
-
-Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
-民政事務總署開放臨時避暑中心,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600535.htm,"民政事務總署今日（五月二十六日）開放19間社區會堂和社區中心作臨時避暑中心。
-
-臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
-
-如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
-
-臨時避暑中心的地點如下：
-
-香港島：
-———
-中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
-東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區－鴨脷洲利東邨利東社區會堂
-灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘－藍田啟田道71號藍田（西區）社區中心
-深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌荔景山路205號荔景社區會堂
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂
-元朗－天水圍天耀邨天耀社區中心
-
-除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
-創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）（附圖）,2026-05-26 16:20,2026-05-26 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
+創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）,2026-05-26 16:20,2026-05-26 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
 
 尊敬的滕錦光校長（香港理工大學校長）、韓璧丞先生（強腦科技創始人兼首席執行官）、各位嘉賓、各位朋友：
 
@@ -4314,7 +4316,7 @@ Members of the public may report any suspected illicit cigarette activities to C
 相關措施旨在增加誘因鼓勵私人發展商在其新建的發展項目興建安老院。
 
 根據計劃，發展商須承擔興建安老院的費用，院舍在落成後屬發展商所有。只要有關物業作安老院用途，發展商可把每家安老院作整體出租或出售，或自行或委聘機構在物業內營辦安老院，收費可按市場情況自行釐定。"
-創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）,2026-05-26 16:20,2026-05-26 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
+創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）（附圖）,2026-05-26 16:20,2026-05-26 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
 
 尊敬的滕錦光校長（香港理工大學校長）、韓璧丞先生（強腦科技創始人兼首席執行官）、各位嘉賓、各位朋友：
 
@@ -4350,23 +4352,3 @@ To leverage market forces in developing high-quality RCHEs to meet the community
   The measures concerned aim at enhancing incentives for private developers to build RCHEs in their new development projects.
 
   According to the Scheme, developers are required to bear the construction cost of the RCHE premises which will be owned by the developers upon completion. As long as the premises are to be used as RCHEs, developers may lease or sell each RCHE as one whole unit, or operate the RCHEs on the premises by themselves or by engaging an organisation whereby they may set the fees on their own with regard to the market situation."
-香港銀行同業結算有限公司提醒公眾慎防偽冒轉數快Facebook廣告,2026-05-26 16:00,2026-05-26 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600410.htm,"下稿代香港金融管理局發出︰
-
-香港銀行同業結算有限公司（結算公司）近日發現虛假的轉數快（FPS）Facebook廣告：（連結：hxxps[:]//www.facebook.com/share/r[/]1FgTworC5Z/，hxxps[:]//www.facebook.com/share/r[/]14g3VB9YrfV/， hxxps[:]//www.facebook.com/share/r[/]1CjZp9skKr/及hxxps[:]//www.facebook.com/share/r[/]17hzKiroCg/）。該偽冒廣告假扮成FPS發布，誘騙用戶掃描香港身份證以提供借貸。
-
-結算公司澄清，該偽冒FPS Facebook廣告與結算公司以及結算公司所有業務，均絕無關係。此外，結算公司並無設立任何對外之Facebook通訊渠道，在一般情況下亦不會主動接觸個別公眾人士。結算公司真正官方網址是www.hkicl.com.hk，及fps.hkicl.com.hk。
-
-結算公司呼籲公眾人士提防可疑Facebook廣告、電話、網站或其他通訊，小心保護個人資料。如接獲任何宣稱來自結算公司成員的可疑通訊，請致電結算公司電話2533 1111核實。如市民懷疑受騙，應盡快向警⽅報案。"
-港匯指數,2026-05-26 16:00,2026-05-26 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600186.htm,"二○二六年五月二十六日（星期二）的港幣匯率指數為一百零一點一（和上星期六指數比較下降零點二）。
-
-​二○二六年五月二十三日（星期六）的港幣匯率指數為一百零一點三（和上星期五指數相同）。"
-HKICL alerts public of fraudulent FPS Facebook Advertisement,2026-05-26 16:00,2026-05-26 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600409.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Interbank Clearing Limited (HKICL) has recently noted a fraudulent Faster Payment System (FPS) Facebook Advertisement (at hxxps[:]//www.facebook.com/share/r[/]1FgTworC5Z/, hxxps[:]//www.facebook.com/share/r[/]14g3VB9YrfV/, hxxps[:]//www.facebook.com/share/r[/]1CjZp9skKr/ and hxxps[:]//www.facebook.com/share/r[/]17hzKiroCg/) purported to be from the FPS. The fraudulent FPS Facebook Advertisement intends to trick user to giving credential via scanning HKID for lending money.
-
-The HKICL advises that such fraudulent FPS Facebook advertisement has no affiliation with the HKICL, or any business of the HKICL. The HKICL does not set up any Facebook channel for communication, and will not contact individual members of the public proactively under usual circumstance. The genuine official website addresses of the HKICL are www.hkicl.com.hk and fps.hkicl.com.hk.
-
-The HKICL urges the public to beware of suspicious Facebook advertisement, calls, websites or other communications, and to remain vigilant in protecting personal information. If members of the public receive any suspicious communication purportedly from the HKICL, please call the HKICL's general line at 2533 1111 to verify. Members of the public who suspect that theyhave become the victim of fraudulent acts should report promptly to the Police."
-Effective Exchange Rate Index,2026-05-26 16:00,2026-05-26 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600185.htm,"The effective exchange rate index for the Hong Kong dollar on Tuesday, May 26, 2026 is 101.1 (down 0.2 against last Saturday's index).
-
-  The effective exchange rate index for the Hong Kong dollar on Saturday, May 23, 2026 was 101.3 (same as last Friday's index)."
