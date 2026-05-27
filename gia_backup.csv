@@ -1,4 +1,26 @@
 title,date,scrape_time,section,source,url,news_content
+日本進口水產的檢測情況,2026-05-27 16:15,2026-05-27 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700550.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
+
+至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
+
+由五月二十六日中午截至今日（五月二十七日）中午，食安中心已對231個日本進口「水產及其製品、海藻及海鹽」的食物樣本作輻射水平檢測，未有發現輻射水平超出安全標準。詳情可參閱食安中心「日本進口食品管制措施」專題網頁（www.cfs.gov.hk/tc_chi/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html）。
+
+同期，漁農自然護理署（漁護署）已對50個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。詳情可參閱漁護署網頁（www.afcd.gov.hk/tc_chi/fisheries/Radiological_testing/Radiological_Test.html）。
+
+香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
+
+由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共230 676個日本進口食物樣本（包括145 309個水產及其製品、海藻及海鹽樣本）及共49 990個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2026-05-27 16:15,2026-05-27 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700551.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on May 26 to noon today (May 27), the CFS conducted tests on the radiological levels of 231 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 230 676 samples of food imported from Japan (including 145 309 samples of aquatic and related products, seaweeds and sea salt) and 49 990 samples of local catch respectively. All the samples passed the tests."
 港匯指數,2026-05-27 16:00,2026-05-27 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700205.htm,二○二六年五月二十七日（星期三）的港幣匯率指數為一百零一點一（和昨日指數相同）。
 Effective Exchange Rate Index,2026-05-27 16:00,2026-05-27 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700195.htm,"The effective exchange rate index for the Hong Kong dollar on Wednesday, May 27, 2026 is 101.1 (same as yesterday's index)."
 香港隊在亞洲物理奧林匹克取得優異成績（附圖）,2026-05-27 15:35,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700503.htm,"八名學生代表香港參加第二十六屆亞洲物理奧林匹克，共奪得一面金牌、六面銅牌及一個優異獎，成績卓越。
@@ -401,47 +423,6 @@ HA Overall
   If a patient is unable to keep the original appointment for any reason, they should cancel it as early as possible via HA Go mobile application, so that the slot can be released to other patients in need. If a patient gives up an appointment slot (for example, due to failure to complete payment before the deadline or for other reasons) and subsequently requires a new appointment for radiology services, the attending doctor will first assess the patient's clinical condition to determine whether a new referral to radiology is required. The radiology department will then arrange an appointment according to clinical urgency to ensure that the patient receives appropriate care. To ensure that service arrangements align with clinical needs, re-booking of radiology services must be made through clinical assessment and referral by the attending doctor, and should not be made directly by patients through HA Go mobile application.
 
   The HA will continue to review the implementation of the radiology charging arrangements and make appropriate arrangements in accordance with the principles of optimal utilisation of healthcare resources and smooth service operation."
-LCQ4: Building AI foundational large model for legal sector in Greater Bay Area,2026-05-27 15:23,2026-05-27 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700493.htm,"  Following is a question by the Hon Wu Ying-peng and a reply by the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, in the Legislative Council today (May 27):
-
-Question:
-
- Regarding the development of an AI foundational large model for the legal sector in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), will the Government inform this Council:
-
-(1) in light of the unique position of ""one country, two systems and three jurisdictions"" in the GBA, whether the Government will take the lead in studying the development of the aforesaid large model and lead the construction of the Hong Kong component, while formulating clear development objectives, an implementation roadmap and a timetable to align with national development plans; if so, of the details; if not, the reasons for that;
-
-(2) in the process of promoting the interoperability of legal databases and the sharing of computing-power resources across the three places, whether the Government will co-operate with relevant departments in Guangdong and Macao to establish a governance mechanism covering data security, critical infrastructure security, and compliance reviews for alignment, so as to safeguard the steady development of cross-boundary legal services and judicial collaboration; if so, of the details; if not, the reasons for that; and
-
-(3) whether the Government will expeditiously enhance regulations and ethical guidelines related to legal technology (lawtech), and incorporate content such as AI literacy, data ethics, and lawtech application into the core curriculum of the legal profession, so as to cultivate virtuous and able interdisciplinary talent who possess a perspective of both law and technology; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
- In response to the questions raised by the Hon Wu Ying-peng, the reply incorporating input from the Innovation, Technology and Industry Bureau (ITIB) is as follows:
-
-(1) and (2) The Government has been actively promoting the local development of AI, providing necessary support to the industries, thereby fostering an ecosystem centred on foundational large language models and industry applications, hence enabling Hong Kong to seize the opportunities of upgrade and transformation arising from the development of AI. The suggestion in question is to build an AI foundational large model for the legal sectors in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA Model), promoting interconnection of legal databases and sharing of computing resources. This suggestion requires joint research by Guangdong, Hong Kong and Macao, alongside with in-depth consultation with the legal sectors and stakeholders to understand their specific needs. The objectives, feasibility and relevant technical aspects of the GBA Model must be carefully assessed. The Department of Justice (DoJ) will give serious consideration to the relevant suggestion and thoroughly examine the various challenges in developing the GBA Model, including big data training, model application and other relevant aspects.
-
-(a) Investment of resources
-
- Guangdong, Hong Kong and Macao each have different legal frameworks. Building a reliable and sustainable GBA Model requires large volumes of diverse data and computing infrastructure capable of handling massive data loads, in addition to training technologies that support continuous data updates and content verification. Compliance issues must also be addressed in the process of application. Therefore, the construction, application and maintenance of the GBA Model will involve significant financial resources and the need to overcome multiple complicated technical challenges.
-
-(b) Challenges in data governance
-
- At present, Guangdong, Hong Kong and Macao have different laws, regulations and applicable standards regarding cross-boundary data governance and jurisdiction, data flow standards, and rules for localisation of data storage. If the GBA Model is to be applied in cross-boundary legal practice, it will often involve commercial, financial and other sensitive information. Therefore, ensuring data security and proper safeguards for legal professional privilege will be one of the paramount considerations in the development, application and maintenance of the GBA Model.
-
- The Government is committed to promoting the safe and orderly cross-boundary flow of various types of data within the GBA, in compliance with the legal framework for data security and safeguards for personal privacy. In December 2023, the ITIB and the Cyberspace Administration of China jointly announced the facilitation measure, the Standard Contract for the Cross-boundary Flow of Personal Information within the Guangdong-Hong Kong-Macao GBA (Mainland, Hong Kong) to promote and simplify compliance arrangements for the cross-boundary flow of personal information from the Mainland to Hong Kong.
-
- As far as the Hong Kong legal sector is concerned, the DoJ has been actively engaging with the sector and various stakeholders through diverse channels to better understand of the sector's specific needs and developments in the lawtech market, as well as to study and formulate policy measures relating to lawtech. Currently, the DoJ is actively encouraging the broader use of lawtech in the legal sector, for example, in document generation, workflow management, online dispute resolution and trial support, so as to further enhance the sector's competitiveness.
-
-(3) The Government adopts a positive and proactive approach to address the potential risks and necessary regulatory requirements that may arise from the development and application of AI, striving to strike a balance between promoting development and mitigating risks.
-
- In respect of enhancing regulations and ethical guidelines related to legal technology, to evaluate whether the laws under different policy areas can keep pace with technological advancements, including AI, the DoJ convened a Steering Committee meeting in the first quarter of this year for the establishment of the Inter-Departmental Working Group to Review Legislation to Support Wider Application of AI (Working Group). The Working Group helps policy bureaux and government departments (B/Ds) keep a sharp focus in conducting a critical review of the areas of law under their policy responsibility. The objective of the Working Group is for B/Ds to explore targeted and practical solutions in light of actual circumstances.
-
- The Digital Policy Office has formulated the Ethical AI Framework and launched the Hong Kong Generative AI Technical and Application Guideline to provide guidance for organisations undertaking projects involving the development and application of AI technologies, helping them identify and manage potential risks associated with AI projects, and to establish a governance framework tailored to the local characteristics and Hong Kong's context.
-
- The DoJ also highly recognises the importance on the continuous nurturing of talent with both legal knowledge and technological literacy. As a member of the Standing Committee on Legal Education and Training, the DoJ would put forward proposals to enhance the quality of legal education in Hong Kong from time to time, including integrating lawtech and AI into the legal curriculum. In recent years, the three law schools introduced subjects relating to lawtech and AI into their Bachelor of Laws and Juris Doctor programmes, with a view to ensuring that graduates are well-equipped to meet the challenges to legal practice brought by the technological developments, as well as the needs of the society.
-
- Thank you, President."
 立法會四題：建設大灣區法律人工智能基座大模型,2026-05-27 15:23,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700491.htm,"以下是今日（五月二十七日）在立法會會議上吳英鵬議員的提問和律政司副司長張國鈞博士的答覆：
 
 問題：
@@ -483,140 +464,47 @@ President,
 律政司亦非常重視須持續培養兼具法律知識與科技素養的人才。作為法律教育及培訓常設委員會（常委會）的成員，律政司不時於常委會中提出提升香港法律教育質素的建議，包括將法律科技及AI融入法律課程。三所法律學院近年已於法學士及法律博士課程中引入有關法律科技及AI的科目，務求確保畢業生具備足夠能力，應對由科技發展帶來的執業挑戰以及社會需要。
 
 多謝主席。"
-LCQ17: Regulating online sale of liquor,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700304.htm,"  Following is a question by the Hon Chan Pui-leung and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
+LCQ4: Building AI foundational large model for legal sector in Greater Bay Area,2026-05-27 15:23,2026-05-27 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700493.htm,"  Following is a question by the Hon Wu Ying-peng and a reply by the Deputy Secretary for Justice, Dr Cheung Kwok-kwan, in the Legislative Council today (May 27):
 
 Question:
 
-  It is prohibited under the existing legislation to sell and supply intoxicating liquor to persons under the age of 18 (minors) in the course of business. There are views pointing out that, given the growing popularity of online shopping, minors can easily circumvent the law to purchase liquor by sending private messages to sellers and arranging delivery through courier services. This may give rise to regulatory loopholes since some individual sellers operate online liquor trading businesses without business registration and age verification with buyers. In this connection, will the Government inform this Council:
+ Regarding the development of an AI foundational large model for the legal sector in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), will the Government inform this Council:
 
-(1) whether the Inland Revenue Department has issued advisory letters to and instituted prosecutions against persons operating online liquor trading businesses without business registration in accordance with the requirements under the Business Registration Ordinance (Cap. 310) over the past five years; if so, of the numbers concerned and the effectiveness thereof;
+(1) in light of the unique position of ""one country, two systems and three jurisdictions"" in the GBA, whether the Government will take the lead in studying the development of the aforesaid large model and lead the construction of the Hong Kong component, while formulating clear development objectives, an implementation roadmap and a timetable to align with national development plans; if so, of the details; if not, the reasons for that;
 
-(2) given that in its reply to a question raised by a Member of this Council on February 25 this year, the Government indicated that, over the past five years, the Tobacco and Alcohol Control Office (TACO) of the Department of Health had carried out over 2 600 online inspections targeting online shopping platforms and issued more than 600 advisory letters to these platforms pursuant to Part 5 of the Dutiable Commodities (Liquor) Regulations (Cap. 109B), whether it involved repeated non-compliances among these cases; if so, of the numbers and percentages concerned; of the Government's follow-up measures against online shopping platforms or holders of social media accounts not responding to advice repeatedly;
+(2) in the process of promoting the interoperability of legal databases and the sharing of computing-power resources across the three places, whether the Government will co-operate with relevant departments in Guangdong and Macao to establish a governance mechanism covering data security, critical infrastructure security, and compliance reviews for alignment, so as to safeguard the steady development of cross-boundary legal services and judicial collaboration; if so, of the details; if not, the reasons for that; and
 
-(3) given that it does not require a liquor licence for selling liquor online at present, whether TACO has established mechanisms to proactively monitor online trading platforms and online stores and investigate if reasonable steps have been taken for age verification with buyers when selling liquor; whether studies have been conducted on the use of big data or artificial intelligence systems to proactively monitor non-compliances involving liquor advertisements or suspicious transactions on social media and online platforms, with a view to stepping up efforts in combating illegal sale of liquor to minors; if so, of the effectiveness of these efforts; if not, the reasons for that; and
-
-(4) quite a number of countries have formulated strict regulations on online sale of liquor as an effort to protect youth health and regulate the supply of alcohol, for instance, Singapore mandates that individuals and commercial enterprises, including e-commerce platforms, are required to obtain a licence before supplying alcoholic beverages online or through telecommunications services and that these platforms should take the initiative to remove non-compliant products and be jointly and severally liable for non-compliances, whether the Government will make reference to the experience of other places and formulate relevant regulations; if so, of the details; if not, the reasons for that?
+(3) whether the Government will expeditiously enhance regulations and ethical guidelines related to legal technology (lawtech), and incorporate content such as AI literacy, data ethics, and lawtech application into the core curriculum of the legal profession, so as to cultivate virtuous and able interdisciplinary talent who possess a perspective of both law and technology; if so, of the details; if not, the reasons for that?
 
 Reply:
 
 President,
 
-  According to the World Health Organization (WHO), harmful use of alcohol is a significant risk factor for more than 200 diseases, injuries and other health conditions. Harmful use of alcohol is associated with the risk of developing a range of health problems such as mental and behavioural disorders (including alcohol dependence), and major non-communicable diseases (NCDs) (e.g. liver cirrhosis and certain cancers). In addition to health effects, harmful use of alcohol can place a heavy burden on individuals, families and the society. The WHO recommends that governments of various places should strengthen their responses to reduce alcohol-related harm for prevention and control of NCDs. Reducing alcohol-related harm is an important priority action area in the prevention and control of NCDs locally. In 2018, the Government promulgated the Strategy and Action Plan to Prevent and Control Non-communicable Diseases in Hong Kong (SAP). To this end, the Government adopts a multi-pronged approach, comprising publicity and education, law enforcement, and promotion of alcohol screening, and more. The Department of Health (DH) has been enforcing the Dutiable Commodities (Amendment) Ordinance 2018 (the Amendment Ordinance) since 2018 to further prevent youth access to alcohol. In response to the Hon Chan Pui-leung's question, the reply after consultation with the Financial Services and the Treasury Bureau and the DH is as follows:
+ In response to the questions raised by the Hon Wu Ying-peng, the reply incorporating input from the Innovation, Technology and Industry Bureau (ITIB) is as follows:
 
-(1) Any person who carries on a business in Hong Kong, regardless of whether through a brick-and-mortar presence or the internet, is required to apply for business registration under the Business Registration Ordinance (Cap. 310). If the Inland Revenue Department (IRD) is aware that any person carrying on a business in Hong Kong has not applied for business registration, it would advise the relevant person to apply for business registration as soon as possible, and would consider initiating prosecution against the relevant person where necessary.
+(1) and (2) The Government has been actively promoting the local development of AI, providing necessary support to the industries, thereby fostering an ecosystem centred on foundational large language models and industry applications, hence enabling Hong Kong to seize the opportunities of upgrade and transformation arising from the development of AI. The suggestion in question is to build an AI foundational large model for the legal sectors in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA Model), promoting interconnection of legal databases and sharing of computing resources. This suggestion requires joint research by Guangdong, Hong Kong and Macao, alongside with in-depth consultation with the legal sectors and stakeholders to understand their specific needs. The objectives, feasibility and relevant technical aspects of the GBA Model must be carefully assessed. The Department of Justice (DoJ) will give serious consideration to the relevant suggestion and thoroughly examine the various challenges in developing the GBA Model, including big data training, model application and other relevant aspects.
 
-  As the IRD does not maintain statistics on cases involving issuance of advice, the relevant figures are not available. According to the IRD's experience, most of those who received advice would apply for business registration promptly. In the past five years, the IRD did not institute prosecution in respect of businesses selling alcoholic products online without business registration.
+(a) Investment of resources
 
-(2) to (4) Through the Amendment Ordinance, the Government adds a new Part 5 and a Schedule to the Dutiable Commodities (Liquor) Regulations (Cap. 109B) (the Regulations). The Regulations aims to prevent minors from accessing and obtaining alcoholic beverages in order to protect the health of young people and have been in force since 2018. The Regulations prohibit any persons from selling or supplying intoxicating liquor to a minor in the course of business (including face-to-face and remote distribution). For remote distribution, the seller must display or broadcast the prescribed notice stating that, under the law of Hong Kong, intoxicating liquor must not be sold or supplied to minors in the course of business. The seller must also obtain an age declaration from the buyer confirming that he/she is 18 years of age or above prior to the sale or supply, and there must be no circumstances that would give the seller reasonable grounds to suspect that the declaration is false.
+ Guangdong, Hong Kong and Macao each have different legal frameworks. Building a reliable and sustainable GBA Model requires large volumes of diverse data and computing infrastructure capable of handling massive data loads, in addition to training technologies that support continuous data updates and content verification. Compliance issues must also be addressed in the process of application. Therefore, the construction, application and maintenance of the GBA Model will involve significant financial resources and the need to overcome multiple complicated technical challenges.
 
-  Having drawn reference from the experience of other jurisdictions and striking a balance between protecting public health and the degree of regulation, the Regulations adopt a strategy that focuses on the regulation of the transaction, including making it an offence to complete each remote transaction without first receiving an age declaration. Compared with a licensing regime imposed on sellers, this approach enable the Tobacco and Alcohol Control Office (TACO) of the DH to directly investigate and take enforcement action against suspected illegal selling of liquor to minors, regardless of whether the seller holds a licence. This approach also covers covert sales.
+(b) Challenges in data governance
 
-  The TACO has established a mechanism to continuously and proactively engage with the trade, including online platforms, to provide guidelines which are respectively applicable to the sellers, the delivery staff employed by the sellers, and more. The guidelines sets out the reasonable steps when delivering the liquor, so as to assist the trade in understanding and complying with the relevant requirements. For example, where delivery services are required to complete the remote distribution order after the sale of liquor, the delivery staff who is employed by the company selling the alcoholic beverages have a legal obligation to verify that the recipient is 18 years of age or above before handing over the liquor.
+ At present, Guangdong, Hong Kong and Macao have different laws, regulations and applicable standards regarding cross-boundary data governance and jurisdiction, data flow standards, and rules for localisation of data storage. If the GBA Model is to be applied in cross-boundary legal practice, it will often involve commercial, financial and other sensitive information. Therefore, ensuring data security and proper safeguards for legal professional privilege will be one of the paramount considerations in the development, application and maintenance of the GBA Model.
 
-  Between 2021 and 2025, the TACO conducted more than 2 600 online inspections and issued more than 600 advisory letters in response to cases where websites were found not to have properly implemented the requirements regarding the prescribed notice or age declaration. All relevant websites co-operated and took follow-up action after receiving the advisory letters, with no cases involving repeated disregard of the advice.
+ The Government is committed to promoting the safe and orderly cross-boundary flow of various types of data within the GBA, in compliance with the legal framework for data security and safeguards for personal privacy. In December 2023, the ITIB and the Cyberspace Administration of China jointly announced the facilitation measure, the Standard Contract for the Cross-boundary Flow of Personal Information within the Guangdong-Hong Kong-Macao GBA (Mainland, Hong Kong) to promote and simplify compliance arrangements for the cross-boundary flow of personal information from the Mainland to Hong Kong.
 
-  The Government is also committed to leveraging technology to enhance enforcement efficiency at various levels. The TACO is exploring the use of big data or artificial intelligence technology to assist in online inspection work and will introduce appropriate tools in a timely manner in light of the development of relevant technologies.
+ As far as the Hong Kong legal sector is concerned, the DoJ has been actively engaging with the sector and various stakeholders through diverse channels to better understand of the sector's specific needs and developments in the lawtech market, as well as to study and formulate policy measures relating to lawtech. Currently, the DoJ is actively encouraging the broader use of lawtech in the legal sector, for example, in document generation, workflow management, online dispute resolution and trial support, so as to further enhance the sector's competitiveness.
 
-  In addition, the TACO places great importance on public education to more effectively regulate the unlawful sale of alcoholic beverages to minors under the Regulations. The DH has launched the ""Young and Alcohol Free"" campaign since 2016, with the development of health education resources, Announcements in the Public Interest, and collaboration with groups and non-governmental organisations serving youth, to disseminate relevant messages. The latest round of the promotional campaign was launched in 2025 and was promoted through social media, residential building lobby TV display network, public transport, venues under the DH and other Government departments.
+(3) The Government adopts a positive and proactive approach to address the potential risks and necessary regulatory requirements that may arise from the development and application of AI, striving to strike a balance between promoting development and mitigating risks.
 
-  Regular surveys conducted by the Narcotics Division of the Security Bureau collect information on alcohol drinking, smoking and drug use among young people. According to the Survey of Drug Use among Students, since the Amendment Ordinance took effect, the prevalence of ever drinking, 12-month drinking and 30-day drinking among youth shows a downward trend, meeting the relevant target as stated in the SAP, which aims to achieve a relative reduction of at least 10 per cent in the prevalence of drinking among youth from the 2011/12 level by 2025. The relevant figures are tabulated below:
+ In respect of enhancing regulations and ethical guidelines related to legal technology, to evaluate whether the laws under different policy areas can keep pace with technological advancements, including AI, the DoJ convened a Steering Committee meeting in the first quarter of this year for the establishment of the Inter-Departmental Working Group to Review Legislation to Support Wider Application of AI (Working Group). The Working Group helps policy bureaux and government departments (B/Ds) keep a sharp focus in conducting a critical review of the areas of law under their policy responsibility. The objective of the Working Group is for B/Ds to explore targeted and practical solutions in light of actual circumstances.
 
+ The Digital Policy Office has formulated the Ethical AI Framework and launched the Hong Kong Generative AI Technical and Application Guideline to provide guidance for organisations undertaking projects involving the development and application of AI technologies, helping them identify and manage potential risks associated with AI projects, and to establish a governance framework tailored to the local characteristics and Hong Kong's context.
 
+ The DoJ also highly recognises the importance on the continuous nurturing of talent with both legal knowledge and technological literacy. As a member of the Standing Committee on Legal Education and Training, the DoJ would put forward proposals to enhance the quality of legal education in Hong Kong from time to time, including integrating lawtech and AI into the legal curriculum. In recent years, the three law schools introduced subjects relating to lawtech and AI into their Bachelor of Laws and Juris Doctor programmes, with a view to ensuring that graduates are well-equipped to meet the challenges to legal practice brought by the technological developments, as well as the needs of the society.
 
-
-
-Year 2011/12
-Year 2023/24
-Change
-
-
-The prevalence of ever drinking among youth
-56.0%
-40.4%
--27.9%
-
-
-The prevalence of 12-month drinking among youth
-41.0%
-27.9%
--32.0%
-
-
-The prevalence of 30-day drinking among youth
-18.4%
-14.3%
--22.3%
-
-
-
-"
-LCQ13: Cross-boundary use of Electronic Health System,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700299.htm,"  Following is a question by the Hon Chris Ip and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
-
-Question:
-
- Starting in 2024, the Government has rolled out two functions of the eHealth mobile application, namely ""Cross-boundary Health Record"" and ""Personal Folder"", to enable citizens to securely use their electronic health records across the boundary at designated medical institutions outside Hong Kong, thereby enhancing continuity of care. In this connection, will the Government inform this Council:
-
-(1) since December 24, 2025, when the ""Cross-boundary Health Record"" function was expanded from being limited to elderly citizens eligible for health care vouchers to approximately 6.3 million eHealth users in Hong Kong, of the number of Hong Kong citizens who have applied for and used the ""Cross-boundary Health Record"" function each month;
-
-(2) with the Electronic Health Record Sharing System (Amendment) Ordinance 2025 passed by the Legislative Council in July last year and came into effect on December 1 of the same year, the Commissioner for the Electronic Health Record is empowered to recognise individual healthcare providers and public health record systems outside Hong Kong, provided that data privacy and system security are sufficiently protected and specified requirements and conditions are duly complied with, of the progress and timeline for implementing the recognition arrangement; and
-
-(3) as I have recently received a complaint alleging that a member of the public presented a test report issued by a designated medical institution outside Hong Kong to a local public hospital doctor for reference, and that it is understood that the public hospital doctor refused to accept the report, citing it as ""incomprehensible"", and requested the complainant to schedule the same test again in Hong Kong; and as the Government stated in its reply to a question raised by a Member of this Council on February 25, 2026 that it would further deepen cross-boundary medical record sharing through eHealth, whether the Government has any plans currently to optimise the existing practice, so that Hong Kong public hospitals will accept health examination reports issued by designated medical institutions outside Hong Kong, thereby avoiding the need for members of the public to undergo the same examinations repeatedly; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
-eHealth is a territory-wide electronic health record sharing system launched by the Government in 2016 that enables citizens to authorise healthcare providers (HCPs) in the public and private sectors to view and share their electronic health records (eHRs) for healthcare purposes. Building on the strengths of eHealth, the Government announced in the 2023 Policy Address the initiative to roll out a five-year development plan of eHealth+ to transform eHealth into a comprehensive healthcare information infrastructure that integrates multiple functions of data sharing, service delivery and care journey management. eHealth+ aims to facilitate care co-ordination, cross-sector collaboration, as well as active health management and surveillance, thereby better serving citizens in obtaining optimal healthcare services, and supporting the healthcare reform and various healthcare policies more effectively, such as primary healthcare and cross-boundary healthcare services. The Government is taking forward the eHealth+ development in phases in accordance with the patient-centric principle and four strategic directions, namely One Health Record, One Care Journey, One Digital Front Door to Empowering Tool, and One Health Data Repository.
-
-To dovetail with cross-boundary healthcare collaborations, the Government has progressively launched the ""Cross-boundary Health Record"" and ""Personal Folder"" functions of the eHealth App at 20 medical institutions, including the University of Hong Kong-Shenzhen Hospital (HKU-SZH) and medical institutions under the Elderly Health Care Voucher Greater Bay Area Pilot Scheme since 2024. These two functions facilitate Hong Kong citizens to securely use their eHRs across the boundary under the principle of ""bring your own health records"", thereby enhancing continuity of care. The ""Cross-boundary Health Record"" function enables eHealth users to apply for their eHRs deposited in eHealth over the preceding three years and to authorise the healthcare professionals of designated medical institutions outside Hong Kong to access the eHRs during consultations to assist with diagnosis and treatment. In addition, users may deposit the medical records obtained outside Hong Kong in their personal eHealth accounts via the ""Personal Folder"" function to facilitate centralised storage and usage, including allowing authorised HCPs in Hong Kong to access through eHealth during follow-up care.
-
-In December 2025, the Government extended the ""Cross-boundary Health Record"" function, which was previously limited to eligible elderly recipients of the Elderly Health Care Vouchers (EHCVs), to all eHealth users in Hong Kong. Besides, the Government upgraded the ""Personal Folder"" function in January 2026. Before receiving radiology services at the three designated medical institutions outside Hong Kong (namely the HKU-SZH, Zhongshan Chen Xinghai Hospital of Integrated Traditional Chinese and Western Medicine, and Shenzhen New Frontier United Family Hospital), citizens may authorise them to directly deposit high-resolution radiology reports and images, which are often challenging for users to upload themselves, into their personal eHealth accounts.
-
-The Government will continue to maintain close communication with the relevant Mainland authorities and medical institutions in expanding and deepening cross-boundary medical record sharing orderly through eHealth, with a view to supporting the cross-boundary healthcare needs of citizens more effectively as well as enhancing the quality and safety of cross-boundary medical services.
-
-In consultation with the Hospital Authority (HA), the reply to the questions raised by the Hon Chris Ip is as follows:
-
-(1) As at April 2026, over 32 500 citizens have used the ""Cross-boundary Health Record"" and ""Personal Folder"" functions of the eHealth App. Detailed statistics are as follows:
-
-
-
-
-Function
-Total number of users
-Average number of users per month in the past three months (Note)
-
-
-""Cross-boundary Health Record""
-21 170
-3 703
-
-
-""Personal Folder""
-Self-deposit health record
-10 457
-1 169
-
-
-Authorise designated medical institutions to deposit radiology reports and images
-6 789
-2 062
-
-
-
-
-Note: In the past three months, an average of about 10 000 eligible elderly persons have used EHCVs per month across the 20 designated medical institutions in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA).
-
-(2) To more effectively support the five-year development plan of eHealth+, the Electronic Health Record Sharing System (Amendment) Ordinance 2025 (Amendment Ordinance) came into effect on December 1, 2025, expanding and enhancing the data collection, sharing, usage and protection mechanism of eHealth. Among other things, the Amendment Ordinance has introduced provisions that empower the Commissioner for the Electronic Health Record (eHRC) to recognise individual non-Hong Kong HCPs and public health record systems, subject to sufficient protection of data privacy and system security, as well as due compliance with specified requirements and conditions. If a citizen receives services from a recognised non-Hong Kong HCP, he/she may authorise that HCP to access his/her eHealth records and to deposit the post-consultation health records directly into his/her personal eHealth account.
-
-The Government will progressively implement the recognition arrangements drawingon the experience gained from the above-mentioned eHealth cross-boundary functions, while dovetailing with various cross-boundary health collaboration initiatives and the cross-boundary healthcare needs of citizens. In particular, the Government will formulate a set of Code of Practice (COP) to prescribe the recognition arrangements and conditions, in accordance with the Amendment Ordinance, other relevant laws and regulations, as well as the Government Information Technology Security Policy and Guidelines promulgated by the Digital Policy Office. The COP will cover technical requirements, security and privacy standards, as well as supervisory and incident response mechanisms, with a view to effectively safeguarding the system security and data privacy of eHealth. The eHRC may suspend or revoke the relevant recognition of a non-Hong Kong HCP or public health record system in case the recognition conditions are contravened or the recognition may impair the security or compromise the integrity of eHealth.
-
-To ensure that there are sufficient leverages in place for the eHRC to enforce the imposed conditions and the regulatory compliance in the relevant jurisdictions, the Government will, inter alia, enter into contracts or agreements with the recognised non-Hong Kong HCPs or public health record system operators to provide legal basis for the cross-boundary sharing and use of eHRs. This will ensure the legality of cross-boundary data transmission and safeguard the security of personal data.
-
-(3) At present, after citizens have deposited medical records obtained outside Hong Kong in their personal eHealth accounts via the ""Personal Folder"" function, medical institutions in Hong Kong (including the HA) may, in accordance with the principles of ""patient under care"" and ""need-to-know"", access the relevant records through eHealth with the citizens' consent to assist in clinical diagnosis.
-
-Generally speaking, when patients seek consultation at hospitals or clinics under the HA, doctors will provide appropriate treatment, arrange examinations or make referrals based on patients' clinical condition and medical records. During the process, doctors will exercise their professional judgement to assess whether it is necessary to make reference to patients' relevant eHealth records and any other medical information provided by patients, including diagnostic or medical reports issued by local or non-local healthcare institutions, so as to ensure the comprehensiveness and accuracy of their clinical decisions. Regardless of whether the report was issued by a local or non-local healthcare institution, a doctor may, after reviewing the relevant report and based on a variety of clinical reasons, still recommend that the patient undergo the same examination. For example, an imaging examination may require the use of different techniques (such as Computed Tomography volumetry or 3D reconstruction); a blood test (such as a tumour marker test) may need to be repeated for comparison purpose; and the results of an ultrasound examination may vary depending on the operator.
-
-As at April 2026, Hong Kong healthcare institutions have accessed the health records deposited by citizens via the ""Personal Folder"" function over 4 500 times, of which around one-third were made by the HA. Besides, Hong Kong healthcare institutions have made more than 600 accesses of radiology reports deposited by designated GBA medical institutions authorised by citizens, of which more than 80 per cent were from the HA. The HA will step up its efforts to promote the effective use of the eHealth platform among frontline doctors, with a view to assisting them in gaining a more comprehensive understanding of patients' conditions, thereby responding to patients' health needs more effectively, while minimising unnecessary repeated examinations and reducing the cost of care."
+ Thank you, President."
 LCQ14: Organ donation and cross-boundary organ transplant mutual assistance mechanism,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700309.htm,"  Following is a question by Reverend Canon the Hon Peter Douglas Koon and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
 
 Question:
@@ -692,6 +580,73 @@ Note: During the period of May and June 2023, the spreading of quite a number of
 (4) With the strong support and assistance of the Central Government and relevant Mainland authorities, there were two cases of successful cross-boundary organ donation from the Mainland to Hong Kong in December 2022 and February 2025. On the basis of the two successful cases, Hong Kong and the Mainland have currently established standing channels and standardised co-operation procedures for handling emergency cross-boundary organ transplant. When a patient in moribund condition is confirmed to be in need of urgent organ transplantation to extend his/her life and no suitable organ is available in Hong Kong, subject to the fulfilment of relevant clinical criteria as assessed by the medical team and the consent of his/her family members, the Government will seek assistance from the country. The operational procedures for handling emergency cross-boundary organ transplant adopt a second-tier allocation mechanism, which will be activated only when local matching is unsuccessful for a donated cadaveric organ. Each case will be notified to the relevant government departments and an application will be made. The relevant departments will then vet the application and implement the arrangements in accordance with the established mechanism to ensure that the transportation and transplant processes are in compliance with the laws and regulations of both places.
 
   In addition, the HA has formulated and implemented a set of standardised clinical protocols in terms of technical requirements, criteria and procedures for handling emergency cross-boundary organ transplant cases in a consistent approach. This is to ensure that organ donation is conducted in a legal, fair, equitable and safe manner to benefit patients with the greatest need. The Government will continue to seek assistance from the country for patients in urgent need of organ transplant in accordance with the mechanism, and improve the cross-boundary organ transplant mutual assistance mechanism based on the experience gained from handling more successful cases."
+LCQ13: Cross-boundary use of Electronic Health System,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700299.htm,"  Following is a question by the Hon Chris Ip and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
+
+Question:
+
+ Starting in 2024, the Government has rolled out two functions of the eHealth mobile application, namely ""Cross-boundary Health Record"" and ""Personal Folder"", to enable citizens to securely use their electronic health records across the boundary at designated medical institutions outside Hong Kong, thereby enhancing continuity of care. In this connection, will the Government inform this Council:
+
+(1) since December 24, 2025, when the ""Cross-boundary Health Record"" function was expanded from being limited to elderly citizens eligible for health care vouchers to approximately 6.3 million eHealth users in Hong Kong, of the number of Hong Kong citizens who have applied for and used the ""Cross-boundary Health Record"" function each month;
+
+(2) with the Electronic Health Record Sharing System (Amendment) Ordinance 2025 passed by the Legislative Council in July last year and came into effect on December 1 of the same year, the Commissioner for the Electronic Health Record is empowered to recognise individual healthcare providers and public health record systems outside Hong Kong, provided that data privacy and system security are sufficiently protected and specified requirements and conditions are duly complied with, of the progress and timeline for implementing the recognition arrangement; and
+
+(3) as I have recently received a complaint alleging that a member of the public presented a test report issued by a designated medical institution outside Hong Kong to a local public hospital doctor for reference, and that it is understood that the public hospital doctor refused to accept the report, citing it as ""incomprehensible"", and requested the complainant to schedule the same test again in Hong Kong; and as the Government stated in its reply to a question raised by a Member of this Council on February 25, 2026 that it would further deepen cross-boundary medical record sharing through eHealth, whether the Government has any plans currently to optimise the existing practice, so that Hong Kong public hospitals will accept health examination reports issued by designated medical institutions outside Hong Kong, thereby avoiding the need for members of the public to undergo the same examinations repeatedly; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+eHealth is a territory-wide electronic health record sharing system launched by the Government in 2016 that enables citizens to authorise healthcare providers (HCPs) in the public and private sectors to view and share their electronic health records (eHRs) for healthcare purposes. Building on the strengths of eHealth, the Government announced in the 2023 Policy Address the initiative to roll out a five-year development plan of eHealth+ to transform eHealth into a comprehensive healthcare information infrastructure that integrates multiple functions of data sharing, service delivery and care journey management. eHealth+ aims to facilitate care co-ordination, cross-sector collaboration, as well as active health management and surveillance, thereby better serving citizens in obtaining optimal healthcare services, and supporting the healthcare reform and various healthcare policies more effectively, such as primary healthcare and cross-boundary healthcare services. The Government is taking forward the eHealth+ development in phases in accordance with the patient-centric principle and four strategic directions, namely One Health Record, One Care Journey, One Digital Front Door to Empowering Tool, and One Health Data Repository.
+
+To dovetail with cross-boundary healthcare collaborations, the Government has progressively launched the ""Cross-boundary Health Record"" and ""Personal Folder"" functions of the eHealth App at 20 medical institutions, including the University of Hong Kong-Shenzhen Hospital (HKU-SZH) and medical institutions under the Elderly Health Care Voucher Greater Bay Area Pilot Scheme since 2024. These two functions facilitate Hong Kong citizens to securely use their eHRs across the boundary under the principle of ""bring your own health records"", thereby enhancing continuity of care. The ""Cross-boundary Health Record"" function enables eHealth users to apply for their eHRs deposited in eHealth over the preceding three years and to authorise the healthcare professionals of designated medical institutions outside Hong Kong to access the eHRs during consultations to assist with diagnosis and treatment. In addition, users may deposit the medical records obtained outside Hong Kong in their personal eHealth accounts via the ""Personal Folder"" function to facilitate centralised storage and usage, including allowing authorised HCPs in Hong Kong to access through eHealth during follow-up care.
+
+In December 2025, the Government extended the ""Cross-boundary Health Record"" function, which was previously limited to eligible elderly recipients of the Elderly Health Care Vouchers (EHCVs), to all eHealth users in Hong Kong. Besides, the Government upgraded the ""Personal Folder"" function in January 2026. Before receiving radiology services at the three designated medical institutions outside Hong Kong (namely the HKU-SZH, Zhongshan Chen Xinghai Hospital of Integrated Traditional Chinese and Western Medicine, and Shenzhen New Frontier United Family Hospital), citizens may authorise them to directly deposit high-resolution radiology reports and images, which are often challenging for users to upload themselves, into their personal eHealth accounts.
+
+The Government will continue to maintain close communication with the relevant Mainland authorities and medical institutions in expanding and deepening cross-boundary medical record sharing orderly through eHealth, with a view to supporting the cross-boundary healthcare needs of citizens more effectively as well as enhancing the quality and safety of cross-boundary medical services.
+
+In consultation with the Hospital Authority (HA), the reply to the questions raised by the Hon Chris Ip is as follows:
+
+(1) As at April 2026, over 32 500 citizens have used the ""Cross-boundary Health Record"" and ""Personal Folder"" functions of the eHealth App. Detailed statistics are as follows:
+
+
+
+
+Function
+Total number of users
+Average number of users per month in the past three months (Note)
+
+
+""Cross-boundary Health Record""
+21 170
+3 703
+
+
+""Personal Folder""
+Self-deposit health record
+10 457
+1 169
+
+
+Authorise designated medical institutions to deposit radiology reports and images
+6 789
+2 062
+
+
+
+
+Note: In the past three months, an average of about 10 000 eligible elderly persons have used EHCVs per month across the 20 designated medical institutions in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA).
+
+(2) To more effectively support the five-year development plan of eHealth+, the Electronic Health Record Sharing System (Amendment) Ordinance 2025 (Amendment Ordinance) came into effect on December 1, 2025, expanding and enhancing the data collection, sharing, usage and protection mechanism of eHealth. Among other things, the Amendment Ordinance has introduced provisions that empower the Commissioner for the Electronic Health Record (eHRC) to recognise individual non-Hong Kong HCPs and public health record systems, subject to sufficient protection of data privacy and system security, as well as due compliance with specified requirements and conditions. If a citizen receives services from a recognised non-Hong Kong HCP, he/she may authorise that HCP to access his/her eHealth records and to deposit the post-consultation health records directly into his/her personal eHealth account.
+
+The Government will progressively implement the recognition arrangements drawingon the experience gained from the above-mentioned eHealth cross-boundary functions, while dovetailing with various cross-boundary health collaboration initiatives and the cross-boundary healthcare needs of citizens. In particular, the Government will formulate a set of Code of Practice (COP) to prescribe the recognition arrangements and conditions, in accordance with the Amendment Ordinance, other relevant laws and regulations, as well as the Government Information Technology Security Policy and Guidelines promulgated by the Digital Policy Office. The COP will cover technical requirements, security and privacy standards, as well as supervisory and incident response mechanisms, with a view to effectively safeguarding the system security and data privacy of eHealth. The eHRC may suspend or revoke the relevant recognition of a non-Hong Kong HCP or public health record system in case the recognition conditions are contravened or the recognition may impair the security or compromise the integrity of eHealth.
+
+To ensure that there are sufficient leverages in place for the eHRC to enforce the imposed conditions and the regulatory compliance in the relevant jurisdictions, the Government will, inter alia, enter into contracts or agreements with the recognised non-Hong Kong HCPs or public health record system operators to provide legal basis for the cross-boundary sharing and use of eHRs. This will ensure the legality of cross-boundary data transmission and safeguard the security of personal data.
+
+(3) At present, after citizens have deposited medical records obtained outside Hong Kong in their personal eHealth accounts via the ""Personal Folder"" function, medical institutions in Hong Kong (including the HA) may, in accordance with the principles of ""patient under care"" and ""need-to-know"", access the relevant records through eHealth with the citizens' consent to assist in clinical diagnosis.
+
+Generally speaking, when patients seek consultation at hospitals or clinics under the HA, doctors will provide appropriate treatment, arrange examinations or make referrals based on patients' clinical condition and medical records. During the process, doctors will exercise their professional judgement to assess whether it is necessary to make reference to patients' relevant eHealth records and any other medical information provided by patients, including diagnostic or medical reports issued by local or non-local healthcare institutions, so as to ensure the comprehensiveness and accuracy of their clinical decisions. Regardless of whether the report was issued by a local or non-local healthcare institution, a doctor may, after reviewing the relevant report and based on a variety of clinical reasons, still recommend that the patient undergo the same examination. For example, an imaging examination may require the use of different techniques (such as Computed Tomography volumetry or 3D reconstruction); a blood test (such as a tumour marker test) may need to be repeated for comparison purpose; and the results of an ultrasound examination may vary depending on the operator.
+
+As at April 2026, Hong Kong healthcare institutions have accessed the health records deposited by citizens via the ""Personal Folder"" function over 4 500 times, of which around one-third were made by the HA. Besides, Hong Kong healthcare institutions have made more than 600 accesses of radiology reports deposited by designated GBA medical institutions authorised by citizens, of which more than 80 per cent were from the HA. The HA will step up its efforts to promote the effective use of the eHealth platform among frontline doctors, with a view to assisting them in gaining a more comprehensive understanding of patients' conditions, thereby responding to patients' health needs more effectively, while minimising unnecessary repeated examinations and reducing the cost of care."
 車輛登記號碼網上拍賣於六月十一日至十五日舉行,2026-05-27 15:00,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700282.htm,"運輸署今日（五月二十七日）宣布，下一場車輛登記號碼（車牌號碼）網上拍賣將於六月十一日（星期四）中午十二時至六月十五日（星期一）中午十二時，透過拍賣平台「拍牌易」（e-auction.td.gov.hk）舉行。有意競投人士須預先註冊成為「拍牌易」用戶才可參與競投。
 
 運輸署發言人說：「是次網上競投會公開拍賣二百二十個普通車牌號碼，名單（見附件）已上載於『拍牌易』網站。已繳交一千元按金預留車牌號碼以待拍賣的申請人，同樣須先註冊成為『拍牌易』用戶以參與網上競投（包括競投第一口價，其底價為港幣1,000元），否則所預留的車牌號碼可能會被其他人以底價或高於底價投得。至於以『HK』或『XX』為字首的車牌號碼、特殊車牌號碼和自訂車牌號碼，則會繼續沿用現場舉牌競投方式拍賣，相關發布方式維持不變。」
@@ -947,6 +902,73 @@ making the auction payment online by credit card, Faster Payment System (FPS) or
 (6) Successful bidders will receive a notification email around seven working days after payment has been confirmed and can download the Memorandum of Sale from the E-Auction. The purchaser must apply for the VRM to be assigned to a motor vehicle registered in the name of the purchaser within 12 months from the date of issue of the Memorandum of Sale. If the purchaser fails to do so within the 12-month period, in accordance with the statutory provision, the allocation of the VRM will be cancelled and a new allocation will be arranged by the TD without prior notice to the purchaser.
 
  The TD has informed all applicants who have reserved Ordinary VRMs for this round of auction of the E-Auction arrangements in detail by post. Members of the public may refer to the E-Auction website or watch the tutorial videos for more information. Please call the E-Auction hotline (3583 3980) or email (e-auction-enquiry@td.gov.hk) for enquiries."
+LCQ17: Regulating online sale of liquor,2026-05-27 15:00,2026-05-27 15:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700304.htm,"  Following is a question by the Hon Chan Pui-leung and a written reply by the Secretary for Health, Professor Lo Chung-mau, in the Legislative Council today (May 27):
+
+Question:
+
+  It is prohibited under the existing legislation to sell and supply intoxicating liquor to persons under the age of 18 (minors) in the course of business. There are views pointing out that, given the growing popularity of online shopping, minors can easily circumvent the law to purchase liquor by sending private messages to sellers and arranging delivery through courier services. This may give rise to regulatory loopholes since some individual sellers operate online liquor trading businesses without business registration and age verification with buyers. In this connection, will the Government inform this Council:
+
+(1) whether the Inland Revenue Department has issued advisory letters to and instituted prosecutions against persons operating online liquor trading businesses without business registration in accordance with the requirements under the Business Registration Ordinance (Cap. 310) over the past five years; if so, of the numbers concerned and the effectiveness thereof;
+
+(2) given that in its reply to a question raised by a Member of this Council on February 25 this year, the Government indicated that, over the past five years, the Tobacco and Alcohol Control Office (TACO) of the Department of Health had carried out over 2 600 online inspections targeting online shopping platforms and issued more than 600 advisory letters to these platforms pursuant to Part 5 of the Dutiable Commodities (Liquor) Regulations (Cap. 109B), whether it involved repeated non-compliances among these cases; if so, of the numbers and percentages concerned; of the Government's follow-up measures against online shopping platforms or holders of social media accounts not responding to advice repeatedly;
+
+(3) given that it does not require a liquor licence for selling liquor online at present, whether TACO has established mechanisms to proactively monitor online trading platforms and online stores and investigate if reasonable steps have been taken for age verification with buyers when selling liquor; whether studies have been conducted on the use of big data or artificial intelligence systems to proactively monitor non-compliances involving liquor advertisements or suspicious transactions on social media and online platforms, with a view to stepping up efforts in combating illegal sale of liquor to minors; if so, of the effectiveness of these efforts; if not, the reasons for that; and
+
+(4) quite a number of countries have formulated strict regulations on online sale of liquor as an effort to protect youth health and regulate the supply of alcohol, for instance, Singapore mandates that individuals and commercial enterprises, including e-commerce platforms, are required to obtain a licence before supplying alcoholic beverages online or through telecommunications services and that these platforms should take the initiative to remove non-compliant products and be jointly and severally liable for non-compliances, whether the Government will make reference to the experience of other places and formulate relevant regulations; if so, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+  According to the World Health Organization (WHO), harmful use of alcohol is a significant risk factor for more than 200 diseases, injuries and other health conditions. Harmful use of alcohol is associated with the risk of developing a range of health problems such as mental and behavioural disorders (including alcohol dependence), and major non-communicable diseases (NCDs) (e.g. liver cirrhosis and certain cancers). In addition to health effects, harmful use of alcohol can place a heavy burden on individuals, families and the society. The WHO recommends that governments of various places should strengthen their responses to reduce alcohol-related harm for prevention and control of NCDs. Reducing alcohol-related harm is an important priority action area in the prevention and control of NCDs locally. In 2018, the Government promulgated the Strategy and Action Plan to Prevent and Control Non-communicable Diseases in Hong Kong (SAP). To this end, the Government adopts a multi-pronged approach, comprising publicity and education, law enforcement, and promotion of alcohol screening, and more. The Department of Health (DH) has been enforcing the Dutiable Commodities (Amendment) Ordinance 2018 (the Amendment Ordinance) since 2018 to further prevent youth access to alcohol. In response to the Hon Chan Pui-leung's question, the reply after consultation with the Financial Services and the Treasury Bureau and the DH is as follows:
+
+(1) Any person who carries on a business in Hong Kong, regardless of whether through a brick-and-mortar presence or the internet, is required to apply for business registration under the Business Registration Ordinance (Cap. 310). If the Inland Revenue Department (IRD) is aware that any person carrying on a business in Hong Kong has not applied for business registration, it would advise the relevant person to apply for business registration as soon as possible, and would consider initiating prosecution against the relevant person where necessary.
+
+  As the IRD does not maintain statistics on cases involving issuance of advice, the relevant figures are not available. According to the IRD's experience, most of those who received advice would apply for business registration promptly. In the past five years, the IRD did not institute prosecution in respect of businesses selling alcoholic products online without business registration.
+
+(2) to (4) Through the Amendment Ordinance, the Government adds a new Part 5 and a Schedule to the Dutiable Commodities (Liquor) Regulations (Cap. 109B) (the Regulations). The Regulations aims to prevent minors from accessing and obtaining alcoholic beverages in order to protect the health of young people and have been in force since 2018. The Regulations prohibit any persons from selling or supplying intoxicating liquor to a minor in the course of business (including face-to-face and remote distribution). For remote distribution, the seller must display or broadcast the prescribed notice stating that, under the law of Hong Kong, intoxicating liquor must not be sold or supplied to minors in the course of business. The seller must also obtain an age declaration from the buyer confirming that he/she is 18 years of age or above prior to the sale or supply, and there must be no circumstances that would give the seller reasonable grounds to suspect that the declaration is false.
+
+  Having drawn reference from the experience of other jurisdictions and striking a balance between protecting public health and the degree of regulation, the Regulations adopt a strategy that focuses on the regulation of the transaction, including making it an offence to complete each remote transaction without first receiving an age declaration. Compared with a licensing regime imposed on sellers, this approach enable the Tobacco and Alcohol Control Office (TACO) of the DH to directly investigate and take enforcement action against suspected illegal selling of liquor to minors, regardless of whether the seller holds a licence. This approach also covers covert sales.
+
+  The TACO has established a mechanism to continuously and proactively engage with the trade, including online platforms, to provide guidelines which are respectively applicable to the sellers, the delivery staff employed by the sellers, and more. The guidelines sets out the reasonable steps when delivering the liquor, so as to assist the trade in understanding and complying with the relevant requirements. For example, where delivery services are required to complete the remote distribution order after the sale of liquor, the delivery staff who is employed by the company selling the alcoholic beverages have a legal obligation to verify that the recipient is 18 years of age or above before handing over the liquor.
+
+  Between 2021 and 2025, the TACO conducted more than 2 600 online inspections and issued more than 600 advisory letters in response to cases where websites were found not to have properly implemented the requirements regarding the prescribed notice or age declaration. All relevant websites co-operated and took follow-up action after receiving the advisory letters, with no cases involving repeated disregard of the advice.
+
+  The Government is also committed to leveraging technology to enhance enforcement efficiency at various levels. The TACO is exploring the use of big data or artificial intelligence technology to assist in online inspection work and will introduce appropriate tools in a timely manner in light of the development of relevant technologies.
+
+  In addition, the TACO places great importance on public education to more effectively regulate the unlawful sale of alcoholic beverages to minors under the Regulations. The DH has launched the ""Young and Alcohol Free"" campaign since 2016, with the development of health education resources, Announcements in the Public Interest, and collaboration with groups and non-governmental organisations serving youth, to disseminate relevant messages. The latest round of the promotional campaign was launched in 2025 and was promoted through social media, residential building lobby TV display network, public transport, venues under the DH and other Government departments.
+
+  Regular surveys conducted by the Narcotics Division of the Security Bureau collect information on alcohol drinking, smoking and drug use among young people. According to the Survey of Drug Use among Students, since the Amendment Ordinance took effect, the prevalence of ever drinking, 12-month drinking and 30-day drinking among youth shows a downward trend, meeting the relevant target as stated in the SAP, which aims to achieve a relative reduction of at least 10 per cent in the prevalence of drinking among youth from the 2011/12 level by 2025. The relevant figures are tabulated below:
+
+
+
+
+
+Year 2011/12
+Year 2023/24
+Change
+
+
+The prevalence of ever drinking among youth
+56.0%
+40.4%
+-27.9%
+
+
+The prevalence of 12-month drinking among youth
+41.0%
+27.9%
+-32.0%
+
+
+The prevalence of 30-day drinking among youth
+18.4%
+14.3%
+-22.3%
+
+
+
+"
 立法會一題：推動粵港澳遊艇自由行,2026-05-27 14:50,2026-05-27 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700348.htm,"以下是今日（五月二十七日）在立法會會議上朱立威議員的提問和運輸及物流局局長陳美寶的答覆：
 
 問題：
@@ -1496,35 +1518,6 @@ Approximately 27.06per cent
 
 
 "
-​立法會三題：推動家族辦公室和企業參與慈善事業,2026-05-27 14:18,2026-05-27 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700396.htm,"以下是今日（五月二十七日）在立法會會議上陳文宜議員的提問和署理財經事務及庫務局局長陳浩濂的答覆：
-
-問題：
-
-近年「公益創投」和影響力投資逐漸成為新興的慈善及社會投資方式，而去年《施政報告》亦提出推動家族辦公室推行惠澤弱勢社群的項目。就此，政府可否告知本會：
-
-（一）除了慈善捐款的稅務扣減外，政府會否考慮為以其他形式（例如公益創投、投資社會企業或影響力投資等方式）參與慈善事業的企業或家族辦公室提供稅務優惠；若會，詳情為何；若否，原因為何；
-
-（二）除了去年《施政報告》中提出的「共建關愛社會資助計劃」外，政府有何具體措施推動家族辦公室參與慈善事業，並協助其與本地慈善機構對接；若尚未制訂或未有計劃推出相關措施，原因為何；及
-
-（三）鑑於有意見認為，「環境、社會及管治」的議題日益受商界重視，政府會否加強推動與社會服務層面相關的影響力投資、公益創投等多元化慈善事業模式，以及相關人才培訓；若會，詳情為何；若否，原因為何？
-
-答覆：
-
-主席：
-
-社會上對於「公益創投」及影響力投資並沒有統一的定義。根據香港金融發展局（金發局）於二○二四年的相關研究報告，影響力投資是一種可持續投資方式，除投資回報外，亦將產生正面的社會及環境成果放在首位，同時兼具經濟回報與影響力是其一大特色。為支持不同模式的慈善事業發展，政府一直推行一系列措施，包括為合資格慈善團體提供稅務豁免、利便慈善資金在港調配的相關稅務安排、推動多方協作強化社會支援體系以扶助弱勢群體、支持社會創業家以創新方式應對社會需要等，藉以加強社會的凝聚力。就提問的三個部分，經諮詢民政及青年事務局、勞工及福利局、數字政策辦公室、稅務局，以及金發局轄下的香港財富傳承學院（財富傳承學院），現回覆如下。
-
-（一）根據《稅務條例》（第112章）（《條例》）第88條，慈善團體如就經營行業或業務符合特定條件，可獲豁免繳付利得稅，即免稅慈善團體。要成為免稅慈善團體，有關團體的宗旨在法律意義上必須純粹屬慈善用途以及該團體必須是為公眾利益而設立。為方便慈善團體提出按《條例》第88條豁免繳稅的申請，稅務局已於二○二三年六月推出標準申請表格及就撰寫慈善宗旨提供指引，以協助有關慈善團體準備符合規範的申請資料，從而縮短稅務局處理申請所需的時間。納稅人包括家族辦公室及作「公益創投」及影響力投資的公司，捐給免稅慈善團體作慈善用途的款項，即認可慈善捐款，如總額不少於100元，即可就有關捐款在有關課稅年度內，從利得稅應評稅利潤、應課薪俸稅入息實額或個人入息課稅入息總額中作出扣除。可獲扣除的總額在任何年度不得超過捐款人應評稅利潤或入息的百分之三十五。
-
-另一方面，為利便全球資產擁有人、家族辦公室和慈善家在香港調配慈善資金，政府亦推出相應稅務安排，例如現行家族投資控權工具稅務寬減制度下，容許獲豁免慈善團體可於具資格單一家族辦公室及／或其家族投資控權工具享有最多百分之二十五的實益權益。政府亦建議擴闊統一基金免稅制度下「基金」的定義以涵蓋捐款基金，以利便此類基金使用免稅制度。
-
-（二）及（三）財經事務及庫務局於二○二三年三月發表《有關香港發展家族辦公室業務的政策宣言》，就建立全球家族辦公室及資產擁有人的蓬勃生態圈，說明相關政策立場和措施。當中，金發局轄下的財富傳承學院為資產擁有人和財富繼承者、家族辦公室業界提供交流協作、知識分享和人才培訓的平台。財富傳承學院自二○二四年三月推出「Impact Link」旗艦慈善項目平台，推動家族慈善家探索及發展慈善事業，至今已為超過700名家族成員舉辦17場工作坊及研討會。財富傳承學院亦於二○二五年六月進一步推出「Impact Link 線上平台」，為獲邀的家族慈善家提供一個特定資料庫平台探索於香港及其他地區、具備拓展潛力的慈善項目。截至二○二六年三月底，該平台已有55個家族慈善家參與，合共推薦12個非政府機構及慈善項目。
-
-在社會福利方面，政府積極推動政、商、民三方協作，在政府的政策引導下，由商界提供資金、場地、科技和人才等方面的支援，而非政府機構則發揮前線觸覺、服務經驗及地區網絡等優勢，共同推動和落實多個服務項目，攜手建構更具豐富多元及可持續的社會支援體系。過去幾年，政府在上述協作模式下推動精準扶貧項目，包括「共創明『Teen』計劃」、「社區客廳試行計劃」及「在校課後託管服務計劃」，並取得佳績，體現了有為政府與市場力量的有機結合，也使社會上可用於公益事業的資源發揮更大效益。政府會繼續以政、商、民合作方式扶助弱勢群體，包括構建平台推動支援公益事業的家族辦公室提供資源，推行惠澤弱勢社群的項目。
-
-此外，政府於二○一三年成立社會創新及創業發展基金（社創基金），透過與商界、非政府機構、學術界及慈善機構等界別合作，以創新的方案解決貧窮和社會孤立問題，提升社會福祉，加強社會凝聚力。基金支持不同發展階段的創新項目，包括協助醞釀新意念、向原型及初創提供實踐種子資金，以及協助項目擴大營運規模，長遠目標是發展社會創新生態系統，令社會創業家茁壯成長，有能者得以發揮所長，透過他們的創新意念、產品及服務，有效應對社會需要。社創基金共獲10億元撥款，自成立以來已撥款約8億元支持不同計劃。基金共資助了755個項目，總受惠人數約60萬。為了優化資源運用及基金運作，社創基金委聘了顧問公司就基金的資助機制和運作模式進行策略性檢討，該檢討將於二○二六年年底完成。
-
-多謝主席。"
 LCQ3: Promoting engagement in philanthropy by family offices and enterprises,2026-05-27 14:18,2026-05-27 14:30,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700398.htm,"  Following is a question by the Hon Grace Chan and a reply by the Acting Secretary for Financial Services and the Treasury, Mr Joseph Chan, in the Legislative Council today (May 27):
 
 Question:
@@ -1554,6 +1547,35 @@ President,
  In addition, the Government launched the Social Innovation and Entrepreneurship Development Fund (SIE Fund) in 2013, aiming to connect different sectors of the community, including businesses, non-governmental organisations, academics, philanthropies, etc to address poverty and social exclusion as well as foster the well-being and cohesion of society through innovative solutions. The SIE Fund supports the entire life cycle of innovative ventures, from supporting idea incubation, providing seed funding for implementing prototype and start-up projects, to assisting their eventual scale-up. The ultimate goal is to foster the development of the social innovation ecosystem where social entrepreneurs can thrive and potential talents can be unleashed to develop innovative ideas, products and services that can effectively meet social needs. With a total allocation of $1 billion, around $800 million has been earmarked or allocated to take forward various initiatives since its establishment. The SIE Fund has funded 755 projects, benefitting around 600 000 people in need. To optimise the use of resources and operations, the SIE Fund has appointed a consultant to conduct a strategic review on its funding mechanism and operational approach. The review will be completed by end-2026.
 
  Thank you, President."
+​立法會三題：推動家族辦公室和企業參與慈善事業,2026-05-27 14:18,2026-05-27 14:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700396.htm,"以下是今日（五月二十七日）在立法會會議上陳文宜議員的提問和署理財經事務及庫務局局長陳浩濂的答覆：
+
+問題：
+
+近年「公益創投」和影響力投資逐漸成為新興的慈善及社會投資方式，而去年《施政報告》亦提出推動家族辦公室推行惠澤弱勢社群的項目。就此，政府可否告知本會：
+
+（一）除了慈善捐款的稅務扣減外，政府會否考慮為以其他形式（例如公益創投、投資社會企業或影響力投資等方式）參與慈善事業的企業或家族辦公室提供稅務優惠；若會，詳情為何；若否，原因為何；
+
+（二）除了去年《施政報告》中提出的「共建關愛社會資助計劃」外，政府有何具體措施推動家族辦公室參與慈善事業，並協助其與本地慈善機構對接；若尚未制訂或未有計劃推出相關措施，原因為何；及
+
+（三）鑑於有意見認為，「環境、社會及管治」的議題日益受商界重視，政府會否加強推動與社會服務層面相關的影響力投資、公益創投等多元化慈善事業模式，以及相關人才培訓；若會，詳情為何；若否，原因為何？
+
+答覆：
+
+主席：
+
+社會上對於「公益創投」及影響力投資並沒有統一的定義。根據香港金融發展局（金發局）於二○二四年的相關研究報告，影響力投資是一種可持續投資方式，除投資回報外，亦將產生正面的社會及環境成果放在首位，同時兼具經濟回報與影響力是其一大特色。為支持不同模式的慈善事業發展，政府一直推行一系列措施，包括為合資格慈善團體提供稅務豁免、利便慈善資金在港調配的相關稅務安排、推動多方協作強化社會支援體系以扶助弱勢群體、支持社會創業家以創新方式應對社會需要等，藉以加強社會的凝聚力。就提問的三個部分，經諮詢民政及青年事務局、勞工及福利局、數字政策辦公室、稅務局，以及金發局轄下的香港財富傳承學院（財富傳承學院），現回覆如下。
+
+（一）根據《稅務條例》（第112章）（《條例》）第88條，慈善團體如就經營行業或業務符合特定條件，可獲豁免繳付利得稅，即免稅慈善團體。要成為免稅慈善團體，有關團體的宗旨在法律意義上必須純粹屬慈善用途以及該團體必須是為公眾利益而設立。為方便慈善團體提出按《條例》第88條豁免繳稅的申請，稅務局已於二○二三年六月推出標準申請表格及就撰寫慈善宗旨提供指引，以協助有關慈善團體準備符合規範的申請資料，從而縮短稅務局處理申請所需的時間。納稅人包括家族辦公室及作「公益創投」及影響力投資的公司，捐給免稅慈善團體作慈善用途的款項，即認可慈善捐款，如總額不少於100元，即可就有關捐款在有關課稅年度內，從利得稅應評稅利潤、應課薪俸稅入息實額或個人入息課稅入息總額中作出扣除。可獲扣除的總額在任何年度不得超過捐款人應評稅利潤或入息的百分之三十五。
+
+另一方面，為利便全球資產擁有人、家族辦公室和慈善家在香港調配慈善資金，政府亦推出相應稅務安排，例如現行家族投資控權工具稅務寬減制度下，容許獲豁免慈善團體可於具資格單一家族辦公室及／或其家族投資控權工具享有最多百分之二十五的實益權益。政府亦建議擴闊統一基金免稅制度下「基金」的定義以涵蓋捐款基金，以利便此類基金使用免稅制度。
+
+（二）及（三）財經事務及庫務局於二○二三年三月發表《有關香港發展家族辦公室業務的政策宣言》，就建立全球家族辦公室及資產擁有人的蓬勃生態圈，說明相關政策立場和措施。當中，金發局轄下的財富傳承學院為資產擁有人和財富繼承者、家族辦公室業界提供交流協作、知識分享和人才培訓的平台。財富傳承學院自二○二四年三月推出「Impact Link」旗艦慈善項目平台，推動家族慈善家探索及發展慈善事業，至今已為超過700名家族成員舉辦17場工作坊及研討會。財富傳承學院亦於二○二五年六月進一步推出「Impact Link 線上平台」，為獲邀的家族慈善家提供一個特定資料庫平台探索於香港及其他地區、具備拓展潛力的慈善項目。截至二○二六年三月底，該平台已有55個家族慈善家參與，合共推薦12個非政府機構及慈善項目。
+
+在社會福利方面，政府積極推動政、商、民三方協作，在政府的政策引導下，由商界提供資金、場地、科技和人才等方面的支援，而非政府機構則發揮前線觸覺、服務經驗及地區網絡等優勢，共同推動和落實多個服務項目，攜手建構更具豐富多元及可持續的社會支援體系。過去幾年，政府在上述協作模式下推動精準扶貧項目，包括「共創明『Teen』計劃」、「社區客廳試行計劃」及「在校課後託管服務計劃」，並取得佳績，體現了有為政府與市場力量的有機結合，也使社會上可用於公益事業的資源發揮更大效益。政府會繼續以政、商、民合作方式扶助弱勢群體，包括構建平台推動支援公益事業的家族辦公室提供資源，推行惠澤弱勢社群的項目。
+
+此外，政府於二○一三年成立社會創新及創業發展基金（社創基金），透過與商界、非政府機構、學術界及慈善機構等界別合作，以創新的方案解決貧窮和社會孤立問題，提升社會福祉，加強社會凝聚力。基金支持不同發展階段的創新項目，包括協助醞釀新意念、向原型及初創提供實踐種子資金，以及協助項目擴大營運規模，長遠目標是發展社會創新生態系統，令社會創業家茁壯成長，有能者得以發揮所長，透過他們的創新意念、產品及服務，有效應對社會需要。社創基金共獲10億元撥款，自成立以來已撥款約8億元支持不同計劃。基金共資助了755個項目，總受惠人數約60萬。為了優化資源運用及基金運作，社創基金委聘了顧問公司就基金的資助機制和運作模式進行策略性檢討，該檢討將於二○二六年年底完成。
+
+多謝主席。"
 五月三十一日起提供液化石油氣燃料補貼為期兩個月,2026-05-27 13:30,2026-05-27 13:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600674.htm,"跨部門監察燃油供應專責組今日（五月二十七日）公布，政府將由五月三十一日（星期日）零時零分起，向的士、公共小巴及學校私家小巴提供每公升港幣0.5元的液化石油氣燃料補貼。臨時措施為期兩個月，直至七月三十日（星期四）晚上十一時五十九分。
 
 政府發言人表示，臨時措施旨在減輕以液化石油氣為主要燃料的本地客運商用車輛（的士、公共小巴及俗稱「保姆車」的學校私家小巴）的營運成本，以減低其加價壓力，預計措施可惠及約16 900輛液化石油氣（包括液化石油氣混能）的士、約3 440輛石油氣公共小巴（包括綠色專線小巴及紅色小巴），以及約170輛石油氣學校私家小巴。
@@ -1610,53 +1632,6 @@ An example is last year's exhibition ""The Great Unity - Civilisation of the Qin
 To enable sustained learning of Chinese culture among the public, the CCPO has set up a dedicated website and social media platforms to pool together online resources relating to Chinese culture from various museums, along with accessible short videos covering Chinese literature, history, philosophy, music, art, folklore and intangible cultural heritage, etc. The videos introduced, for example, Tang poetry, classical Chinese texts and ancient thinkers in an ""edutainment"" format with a view to transforming traditional cultural content into learning resources that are easier for the public to comprehend and absorb. To date, the short videos have nearly 800 000 cumulative views, providing a sustained learning resource for both the public and schools. To deepen public understanding of the Lingnan culture, the CCPO conducts on-campus lectures and workshops using resources from local and Guangzhou museums, and integrates the Lingnan music activities into school music lessons. Additionally, the ""Chinese Culture in Hong Kong Gardens"" series guides the public through the Lingnan Garden within Lai Chi Kok Park, offering an immersive experience of Qing-era Lingnan architecture and landscape design.
 
 The CCPO has absolutely gone beyond organising mega exhibitions, performing arts events, and carnivals, and developed layered cultural learning pathways through carriers of culture in diverse formats. Indeed, these works are echoing President Xi Jinping's call for an effort to bring back to life artefacts in museums, visible heritage across the land, and words in ancient books in order to transform the static preservation of Chinese culture into its living transmission in daily life. The LCSD will continue to expand its programme portfolio and strategies, and incorporate a more extensive range of themes and contemporary elements so as to enable the public to experience the enduring vitality of Chinese culture and therefore further strengthen their sense of national identity and cultural confidence."
-"LCQ19: Supporting industrial, commercial and professional sectors in exploring emerging markets",2026-05-27 12:48,2026-05-27 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700366.htm,"  Following is a question by the Hon Ray Wong and a written reply by the Acting Secretary for Commerce and Economic Development, Dr Bernard Chan, in the Legislative Council today (May 27):
-
-Question:
-
-  There are views that in view of global supply chain restructuring and the current complex geopolitical landscape, Hong Kong's role as a ""super connector"" and ""super value-adder"" has become increasingly important. Meanwhile, external networking, on-site visits and business matching activities conducted by the industrial, commercial and professional sectors in the community are equally important for these sectors to explore substantive business opportunities in markets such as those along the Belt and Road (B&R) and among the member states of the Regional Comprehensive Economic Partnership. However, some sectors have relayed that the existing support schemes could be improved in terms of funding ratios and administrative procedures, and that there is a lack of in-depth co-ordination and business landing support from official organisations when exploring emerging markets such as those along the B&R, in the Association of Southeast Asian Nations and in the Middle East. In this connection, will the Government inform this Council:
-
-(1) whether the authorities have drawn up specific plans for the coming year for the Government, the Hong Kong Trade Development Council (HKTDC), Invest Hong Kong and relevant official organisations to lead delegations from the industrial, commercial and professional sectors on overseas visits (including destinations, major target industries, expected scale of industry participation and specific anticipated outcome performance indicators); if so, of the details and timetable; if not, the reasons for that;
-
-(2) given that initiatives such as the Trade and Industrial Organisation Support Fund and the Professional Services Advancement Support Scheme are already in place to provide funding support for non-profit organisations' external promotion work, whether the Government has assessed the effectiveness of these initiatives in assisting the sectors in entering emerging markets (such as the Middle East, Central Asia or Southeast Asia); of the respective numbers of applications and approved cases involving overseas visits or external promotion under the relevant schemes in the past three years;
-
-(3) whether the Government will further optimise existing support schemes (e.g. by raising the funding ratios and streamlining application procedures for cross-regional collaboration projects) or study the introduction of new dedicated funding schemes to strengthen support for chambers of commerce, professional bodies, and industrial and commercial support organisations to conduct more in-depth and sustained external networking activities; if so, of the details; if not, the reasons for that; and
-
-(4) whether the authorities will study strengthening the Economic and Trade Express, a one-stop support platform provided by overseas Economic and Trade Offices and the HKTDC's overseas offices for non-governmental organisations and enterprises, by also offering consultancy services on legal and regulatory matters, visa facilitation and foreign exchange policies, so as to address the practical obstacles these sectors encounter when establishing their presence in emerging markets; if so, of the details and timetable; if not, the reasons for that?
-
-Reply:
-
-President,
-
-  The global trade landscape and geopolitics are rapidly changing. The rise of emerging markets, such as the Belt and Road (B&R) countries, the Association of Southeast Asian Nations and the Middle East, etc, has brought new business opportunities to enterprises. The Government is dedicated to leveraging Hong Kong's strengths as a ""super connector"" and ""super value-adder"", thereby deepening international trade and economic co-operation. At the same time, the Government places great importance on connections and co-operation with the industrial and commercial sectors, and encourages the trade to promote Hong Kong's latest development through different activities such as visits and promotional events, etc, with a view to collaborating with the community to help Hong Kong companies develop emerging markets.
-
-  The reply to the four parts of the question is as follows:
-
-(1) and (4) Steered by the Secretary for Commerce and Economic Development, the Task Force on Supporting Mainland Enterprises in Going Global (GoGlobal Task Force) serves as a one-stop platform to proactively attract Mainland enterprises to expand their businesses overseas through Hong Kong, and provides them with customised support services for going global. The GoGlobal Task Force is taking forward a series of work, including organising outbound missions, to be led by officials of the Hong Kong Special Administrative Region Government, to enable Hong Kong and Mainland enterprises to visit overseas markets, including high-potential markets of the B&R countries and Regional Comprehensive Economic Partnership member states, to allow the enterprises to understand the local market situation.
-
-  Among others, the Chief Executive will lead a delegation with over 60 high-level business and trade representatives from the Mainland and Hong Kong to visit Kazakhstan and Uzbekistan in early June 2026 to explore new business opportunities in Central Asia for enterprises. In particular, there will be a total of around 30 representatives of Mainland enterprises from more than 10 provinces, municipalities and autonomous regions, covering sectors including energy, mining, natural resources and chemicals, innovation and technology and pharmaceuticals, high-end manufacturing, automotive industry, as well as investment and trade services, etc. During the visit, the business and trade representatives will conduct activities including exchanges and business visits to explore new co-operation opportunities and take forward collaborative projects. The outbound mission is the first mission led by the Chief Executive since the establishment of the GoGlobal Task Force in October 2025. It is also the largest in scale, with the greatest number of participants and the widest range of enterprises covered, in the current-term Government.
-
-  Apart from the GoGlobal related works mentioned above, as a measure announced in the 2025 Policy Address, we have set up the functional platform of Economic and Trade Express to strengthen trio-coordination among overseas Economic and Trade Offices (ETOs), Invest Hong Kong (InvestHK) and the Hong Kong Trade Development Council (HKTDC), capitalising on their complementary advantages to jointly promote Hong Kong's trade and investment abroad and to explore new markets for enterprises.
-
-  The Economic and Trade Express focuses on supporting local small and medium enterprises and start-ups by proactively organising overseas business missions for them with one-stop supporting services (including arrangement of activities like business matching) to assist Hong Kong enterprises in exploring business opportunities overseas. We have been organising outbound business missions since the first quarter of 2026. These missions include participation in the Consumer Electronics Show in Las Vegas, the United States, in January 2026, along with events under the Economic and Trade Express, with a view to facilitating exchanges and networking between Hong Kong start-ups and local companies. In March 2026, a business mission to Bangkok, Thailand, was organised where participants took part in the ""GreenBiz HK"" promotional activities organised by the Economic and Trade Express. In addition to supporting local enterprises to expand their business overseas, InvestHK will identify overseas enterprises to connect with Hong Kong's business sectors and enable more enterprises to invest and establish operations in Hong Kong, thereby promoting two-way flows of enterprises and investments. When planning overseas missions, we will take into overall consideration local enterprises' needs and interests, as well as other relevant factors (such as corresponding arrangements in the target markets, appropriate timing for the missions, etc) to ensure the effectiveness of the missions.
-
-  The ETOs, InvestHK and the HKTDC will continue to strengthen their collaboration under the functional platform of Economic and Trade Express to promote Hong Kong's trade and investment abroad in a trio-coordinated manner. Leveraging their respective local networks, they will assist Hong Kong enterprises in identifying business opportunities in overseas markets and gaining understanding of the market landscape.
-
-(2) and (3) The Trade and Industrial Organisation Support Fund (TSF) provides financial support to non-profit-distributing organisations, such as trade and industrial organisations, professional bodies and research institutes, etc, to implement projects which aim at enhancing the competitiveness of Hong Kong enterprises in general or in specific sectors, including assisting them in developing emerging markets (including the Middle East, Central Asia and Southeast Asia). A wide range of project activities may be funded under the TSF, including seminars, workshops, conferences, exhibitions, research studies, award schemes, codes of best practices, databases, service centres, support facilities and technology demonstrations, etc. The trade can make use of the TSF to promote Hong Kong brands in other places and organise study missions to assist enterprises in understanding the business opportunities in emerging markets. The maximum amount of funding support for each approved TSF project is 90 per cent of the total approved project expenditure, capped at $5 million.
-
-  From 2023 to 2025, the number of TSF applications involving study missions or promotion outside Hong Kong received and approved were 32 (Note 1) and 28 respectively. The total amount of funding approved for the concerned applications was about $57 million (Note 2). According to the surveys conducted by the Secretariat, around 99 per cent of the grantees indicated that the TSF was very helpful in enhancing the competitiveness of Hong Kong enterprises in general or in specific sectors.
-
-  On the other hand, the Professional Services Advancement Support Scheme (PASS) aims to support Hong Kong's professional services sectors to carry out worthwhile non-profit-making projects, with a view to increasing exchanges and co-operation with their counterparts in external markets, promoting relevant publicity activities, as well as enhancing the standards and external competitiveness of Hong Kong's professional services. In the past three years, a total of 17 applications for outbound visits or external promotion were received under the Main Programme of the PASS, of which seven were approved after vetting with the total grant of over $3.5 million. Surveys conducted by grantees revealed that satisfactory results were achieved in the completed projects.
-
-  To encourage Hong Kong's professional services sectors to step up promotion of Hong Kong's competitive edge and professional services to overseas (including the B&R countries) and the Mainland markets after the pandemic has stabilised, the Government set up the Professionals Participation Subsidy Programme (PSP) under the PASS in 2020 to subsidise the local major professional bodies to participate in relevant activities organised by the Government and the HKTDC. In the past three years, a total of 26 applications for the PSP activities were received and approved. The destinations included different countries in the Middle East, Southeast Asia and Europe, as well as a number of Mainland cities, with the total subsidy committed exceeding $7.5 million.
-
-  In response to the views received from the trade, the Government has implemented a series of enhancement measures in recent years, including improving the operation of the PASS, strengthening the support for applicant bodies, enhancing flexibility in the use of subsidies and expediting the processing of applications.
-
-  The Government will continue to communicate closely with the trade, review constantly the operation of various schemes that support the industrial and commercial sectors in market expansion, and make adjustments and enhancements as necessary, with a view to increasing the overall effectiveness of the schemes and providing appropriate support to the trade.
-
-Note 1: Applications received may not be processed in the same year. The figure excludes applications that were withdrawn voluntarily by organisations afterwards.
-
-Note 2: As an application usually covers several deliverables, the total amount of funding approved for the concerned applications includes but not limited to expenditures on study missions or promotions outside Hong Kong."
 立法會十九題：支援工商專業界開拓新興市場,2026-05-27 12:48,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700367.htm,"以下是今日（五月二十七日）在立法會會議上黃永威議員的提問和署理商務及經濟發展局局長陳百里博士的書面答覆：
 
 問題：
@@ -1704,6 +1679,53 @@ Note 2: As an application usually covers several deliverables, the total amount 
 註一：接獲的申請不一定於同年進行審批。數字並不包含機構及後主動撤回的申請。
 
 註二：由於一宗申請通常涉及多個項目成果，相關獲批申請的總資助額包含但不限於外訪考察或境外推廣的開支。"
+"LCQ19: Supporting industrial, commercial and professional sectors in exploring emerging markets",2026-05-27 12:48,2026-05-27 13:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700366.htm,"  Following is a question by the Hon Ray Wong and a written reply by the Acting Secretary for Commerce and Economic Development, Dr Bernard Chan, in the Legislative Council today (May 27):
+
+Question:
+
+  There are views that in view of global supply chain restructuring and the current complex geopolitical landscape, Hong Kong's role as a ""super connector"" and ""super value-adder"" has become increasingly important. Meanwhile, external networking, on-site visits and business matching activities conducted by the industrial, commercial and professional sectors in the community are equally important for these sectors to explore substantive business opportunities in markets such as those along the Belt and Road (B&R) and among the member states of the Regional Comprehensive Economic Partnership. However, some sectors have relayed that the existing support schemes could be improved in terms of funding ratios and administrative procedures, and that there is a lack of in-depth co-ordination and business landing support from official organisations when exploring emerging markets such as those along the B&R, in the Association of Southeast Asian Nations and in the Middle East. In this connection, will the Government inform this Council:
+
+(1) whether the authorities have drawn up specific plans for the coming year for the Government, the Hong Kong Trade Development Council (HKTDC), Invest Hong Kong and relevant official organisations to lead delegations from the industrial, commercial and professional sectors on overseas visits (including destinations, major target industries, expected scale of industry participation and specific anticipated outcome performance indicators); if so, of the details and timetable; if not, the reasons for that;
+
+(2) given that initiatives such as the Trade and Industrial Organisation Support Fund and the Professional Services Advancement Support Scheme are already in place to provide funding support for non-profit organisations' external promotion work, whether the Government has assessed the effectiveness of these initiatives in assisting the sectors in entering emerging markets (such as the Middle East, Central Asia or Southeast Asia); of the respective numbers of applications and approved cases involving overseas visits or external promotion under the relevant schemes in the past three years;
+
+(3) whether the Government will further optimise existing support schemes (e.g. by raising the funding ratios and streamlining application procedures for cross-regional collaboration projects) or study the introduction of new dedicated funding schemes to strengthen support for chambers of commerce, professional bodies, and industrial and commercial support organisations to conduct more in-depth and sustained external networking activities; if so, of the details; if not, the reasons for that; and
+
+(4) whether the authorities will study strengthening the Economic and Trade Express, a one-stop support platform provided by overseas Economic and Trade Offices and the HKTDC's overseas offices for non-governmental organisations and enterprises, by also offering consultancy services on legal and regulatory matters, visa facilitation and foreign exchange policies, so as to address the practical obstacles these sectors encounter when establishing their presence in emerging markets; if so, of the details and timetable; if not, the reasons for that?
+
+Reply:
+
+President,
+
+  The global trade landscape and geopolitics are rapidly changing. The rise of emerging markets, such as the Belt and Road (B&R) countries, the Association of Southeast Asian Nations and the Middle East, etc, has brought new business opportunities to enterprises. The Government is dedicated to leveraging Hong Kong's strengths as a ""super connector"" and ""super value-adder"", thereby deepening international trade and economic co-operation. At the same time, the Government places great importance on connections and co-operation with the industrial and commercial sectors, and encourages the trade to promote Hong Kong's latest development through different activities such as visits and promotional events, etc, with a view to collaborating with the community to help Hong Kong companies develop emerging markets.
+
+  The reply to the four parts of the question is as follows:
+
+(1) and (4) Steered by the Secretary for Commerce and Economic Development, the Task Force on Supporting Mainland Enterprises in Going Global (GoGlobal Task Force) serves as a one-stop platform to proactively attract Mainland enterprises to expand their businesses overseas through Hong Kong, and provides them with customised support services for going global. The GoGlobal Task Force is taking forward a series of work, including organising outbound missions, to be led by officials of the Hong Kong Special Administrative Region Government, to enable Hong Kong and Mainland enterprises to visit overseas markets, including high-potential markets of the B&R countries and Regional Comprehensive Economic Partnership member states, to allow the enterprises to understand the local market situation.
+
+  Among others, the Chief Executive will lead a delegation with over 60 high-level business and trade representatives from the Mainland and Hong Kong to visit Kazakhstan and Uzbekistan in early June 2026 to explore new business opportunities in Central Asia for enterprises. In particular, there will be a total of around 30 representatives of Mainland enterprises from more than 10 provinces, municipalities and autonomous regions, covering sectors including energy, mining, natural resources and chemicals, innovation and technology and pharmaceuticals, high-end manufacturing, automotive industry, as well as investment and trade services, etc. During the visit, the business and trade representatives will conduct activities including exchanges and business visits to explore new co-operation opportunities and take forward collaborative projects. The outbound mission is the first mission led by the Chief Executive since the establishment of the GoGlobal Task Force in October 2025. It is also the largest in scale, with the greatest number of participants and the widest range of enterprises covered, in the current-term Government.
+
+  Apart from the GoGlobal related works mentioned above, as a measure announced in the 2025 Policy Address, we have set up the functional platform of Economic and Trade Express to strengthen trio-coordination among overseas Economic and Trade Offices (ETOs), Invest Hong Kong (InvestHK) and the Hong Kong Trade Development Council (HKTDC), capitalising on their complementary advantages to jointly promote Hong Kong's trade and investment abroad and to explore new markets for enterprises.
+
+  The Economic and Trade Express focuses on supporting local small and medium enterprises and start-ups by proactively organising overseas business missions for them with one-stop supporting services (including arrangement of activities like business matching) to assist Hong Kong enterprises in exploring business opportunities overseas. We have been organising outbound business missions since the first quarter of 2026. These missions include participation in the Consumer Electronics Show in Las Vegas, the United States, in January 2026, along with events under the Economic and Trade Express, with a view to facilitating exchanges and networking between Hong Kong start-ups and local companies. In March 2026, a business mission to Bangkok, Thailand, was organised where participants took part in the ""GreenBiz HK"" promotional activities organised by the Economic and Trade Express. In addition to supporting local enterprises to expand their business overseas, InvestHK will identify overseas enterprises to connect with Hong Kong's business sectors and enable more enterprises to invest and establish operations in Hong Kong, thereby promoting two-way flows of enterprises and investments. When planning overseas missions, we will take into overall consideration local enterprises' needs and interests, as well as other relevant factors (such as corresponding arrangements in the target markets, appropriate timing for the missions, etc) to ensure the effectiveness of the missions.
+
+  The ETOs, InvestHK and the HKTDC will continue to strengthen their collaboration under the functional platform of Economic and Trade Express to promote Hong Kong's trade and investment abroad in a trio-coordinated manner. Leveraging their respective local networks, they will assist Hong Kong enterprises in identifying business opportunities in overseas markets and gaining understanding of the market landscape.
+
+(2) and (3) The Trade and Industrial Organisation Support Fund (TSF) provides financial support to non-profit-distributing organisations, such as trade and industrial organisations, professional bodies and research institutes, etc, to implement projects which aim at enhancing the competitiveness of Hong Kong enterprises in general or in specific sectors, including assisting them in developing emerging markets (including the Middle East, Central Asia and Southeast Asia). A wide range of project activities may be funded under the TSF, including seminars, workshops, conferences, exhibitions, research studies, award schemes, codes of best practices, databases, service centres, support facilities and technology demonstrations, etc. The trade can make use of the TSF to promote Hong Kong brands in other places and organise study missions to assist enterprises in understanding the business opportunities in emerging markets. The maximum amount of funding support for each approved TSF project is 90 per cent of the total approved project expenditure, capped at $5 million.
+
+  From 2023 to 2025, the number of TSF applications involving study missions or promotion outside Hong Kong received and approved were 32 (Note 1) and 28 respectively. The total amount of funding approved for the concerned applications was about $57 million (Note 2). According to the surveys conducted by the Secretariat, around 99 per cent of the grantees indicated that the TSF was very helpful in enhancing the competitiveness of Hong Kong enterprises in general or in specific sectors.
+
+  On the other hand, the Professional Services Advancement Support Scheme (PASS) aims to support Hong Kong's professional services sectors to carry out worthwhile non-profit-making projects, with a view to increasing exchanges and co-operation with their counterparts in external markets, promoting relevant publicity activities, as well as enhancing the standards and external competitiveness of Hong Kong's professional services. In the past three years, a total of 17 applications for outbound visits or external promotion were received under the Main Programme of the PASS, of which seven were approved after vetting with the total grant of over $3.5 million. Surveys conducted by grantees revealed that satisfactory results were achieved in the completed projects.
+
+  To encourage Hong Kong's professional services sectors to step up promotion of Hong Kong's competitive edge and professional services to overseas (including the B&R countries) and the Mainland markets after the pandemic has stabilised, the Government set up the Professionals Participation Subsidy Programme (PSP) under the PASS in 2020 to subsidise the local major professional bodies to participate in relevant activities organised by the Government and the HKTDC. In the past three years, a total of 26 applications for the PSP activities were received and approved. The destinations included different countries in the Middle East, Southeast Asia and Europe, as well as a number of Mainland cities, with the total subsidy committed exceeding $7.5 million.
+
+  In response to the views received from the trade, the Government has implemented a series of enhancement measures in recent years, including improving the operation of the PASS, strengthening the support for applicant bodies, enhancing flexibility in the use of subsidies and expediting the processing of applications.
+
+  The Government will continue to communicate closely with the trade, review constantly the operation of various schemes that support the industrial and commercial sectors in market expansion, and make adjustments and enhancements as necessary, with a view to increasing the overall effectiveness of the schemes and providing appropriate support to the trade.
+
+Note 1: Applications received may not be processed in the same year. The figure excludes applications that were withdrawn voluntarily by organisations afterwards.
+
+Note 2: As an application usually covers several deliverables, the total amount of funding approved for the concerned applications includes but not limited to expenditures on study missions or promotions outside Hong Kong."
 立法會十六題：珀麗灣的公共交通服務,2026-05-27 12:46,2026-05-27 13:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700244.htm,"以下是今日（五月二十七日）在立法會會議上陳穎欣議員的提問和運輸及物流局局長陳美寶的書面答覆：
 
 問題：
@@ -2237,37 +2259,6 @@ Dr Lam emphasised that smokers of any age can reap immediate and long-term healt
 衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
 
 林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
-衞生署公布本港最新吸煙情況及「六月．戒煙月」活動（附圖／短片）,2026-05-27 12:30,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700292.htm,"衞生署今日（五月二十七日）公布，香港吸煙率由八十年代初的23.3%持續下降至二○二五年的8.5%，創歷史新低。與此同時，習慣每日使用電子煙或加熱煙等另類吸煙產品的人數亦有所下跌，反映政府推行的控煙策略成效卓著，切實有效保障公眾健康。衞生署今日起推出「六月．戒煙月」的活動，透過多元途徑鼓勵和協助吸煙人士嘗試戒煙，包括運用人工智能（AI）提供個人化的戒煙輔導服務。
-
-調查結果
-————
-政府統計處今日出版最新一期《主題性住戶統計調查報告書》。根據去年七月至十月就吸煙情況進行的主題性住戶統計調查顯示，約54萬名香港巿民在統計時有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的比率為8.5%。二○二三年的相關比率為9.1%。
-
-另類吸煙產品方面，二○二五年習慣每日使用電子煙的15歲及以上人士佔人口比率0.1%，而二○二三年的相應比率為0.2%。而每日使用加熱煙的人口比率則由二○二三年的0.1%降低至無法準確估算的水平。
-
-衞生署控煙酒辦公室（控煙酒辦）主任林民聰醫生說：「本港吸煙率下降至歷史新低，是社會各界和市民大眾多年共同努力的成果，令香港成為國際上成功控煙的典範。而另類吸煙產品禁令自二○二二年四月生效以來，使用人數持續減少，反映實施禁令的成效及重要性。衞生署會繼續密切留意吸煙趨勢，嚴防新型吸煙產品在香港流行。」
-
-隨着《2025年控煙法例（修訂）條例》於去年刊憲，政府正逐步落實新一階段控煙措施，當中已落實的措施包括加強打擊私煙的法律框架、擴大法定禁煙區、進一步全面禁止在公眾地方管有另類吸煙產品等，並持續加強公眾教育和戒煙服務。政府計劃於明年十二月全面落實傳統吸煙產品統一包裝設計和完稅標籤制度，進一步減低煙草產品的吸引力，以及加強打擊私煙。
-
-林民聰醫生補充，政府「控煙十招」的核心要義之一，是減低煙草產品的吸引力，包括另類煙和五花八門的加味煙，以防止新世代染上煙癮。今次的調查結果亦顯示，年輕組別的吸煙率持續處於極低的水平，反映年輕一代已不再接受吸煙行為，與政府的目標和社會期望高度契合。
-
-香港吸煙與健康委員會主席湯修齊表示，委員會一如以往繼續全力支持政府推行下一步的控煙措施，並指出實施傳統吸煙產品統一包裝和禁止加味煙將有效減低煙草產品的推廣效果和吸引力，是抗衡煙草商向市民，特別是年輕一代，營銷的重要措施。
-
-六月．戒煙月
-——————
-林民聰醫生說：「政府一直以多管齊下及循序漸進的方式，減低吸煙產品對市民和社會造成的禍害，在立法、徵稅、宣傳、教育和執法以外，提供完善戒煙服務亦是不可或缺的重要一環。為協助吸煙者成功戒煙，衞生署一直資助多個非政府機構，提供多元化而免費的戒煙服務及支援。為響應世界衞生組織定於每年五月三十一日的『世界無煙日』，衞生署自二○二一年推出『六月．戒煙月』活動，鼓勵吸煙人士嘗試戒煙，以降低患上吸煙相關疾病和死亡的風險。過去數年，每年參與人數逐年遞增，活動成效理想。」
-
-今年，衞生署會繼續透過全港超過300間社區藥房、戒煙診所、地區康健中心／地區康健站，以及衞生署診所免費派發一星期戒煙藥物試用裝，及透過指定中醫診所免費派發中醫戒煙耳穴貼，以協助有意欲戒煙人士紓緩退癮徵狀。
-
-林民聰醫生表示，因應政府將推行建築地盤全面禁煙，衞生署已加強對建築業界的戒煙宣傳和支援力度，衞生署資助的非政府機構透過外展活動，積極向建築業界人士提供免費戒煙藥物試用裝和中藥耳穴貼。
-
-另外，衞生署今年與香港大學護理學院合作推出AI戒煙輔導服務先導計劃——「智聊戒」，由AI即時提供精準和適切的戒煙資訊，並根據使用者的吸煙史和戒煙偏好，給予個人化戒煙輔導，還能為使用者提供情緒支援，協助使用者練習拒煙技巧。有意戒煙的人士只需掃描二維碼（見附件）即可隨時隨地接通服務，費用全免。若使用者需要真人輔導服務、戒煙藥物支援或中醫針灸戒煙服務，「智聊戒」亦會根據需求進行轉介。
-
-衞生署已開始播放「全世界睇好你．戒！」電視及電台政府宣傳片，並在公共運輸交通網絡和社交媒體加強宣傳廣告，鼓勵吸煙人士戒煙，陪伴吸煙人士渡過無煙月。
-
-衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
-
-林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
 "DH announces latest smoking situation in Hong Kong and ""Quit in June"" campaign (with photo)",2026-05-27 12:30,2026-05-27 13:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700294.htm,"​The Department of Health (DH) today (May 27) announced that Hong Kong's smoking rate has continued to decline from 23.3 per cent in the early 1980s to 8.5 per cent in 2025, hitting a record low. At the same time, the number of people who habitually use alternative smoking products such as e-cigarettes and heated tobacco products on a daily basis has also dropped, reflecting the remarkable effectiveness of the Government's tobacco control strategies in safeguarding public health. To encourage and assist smokers to quit, the DH launched the ""Quit in June"" campaign today, which will, among other means, use artificial intelligence (AI) to provide personalised smoking cessation counselling services.
 
 Survey results
@@ -2299,6 +2290,37 @@ The DH has started broadcasting the ""We are all in this together. Quit Now"" te
 The DH also operates an integrated Smoking Cessation Hotline (1833 183) to handle general enquiries about smoking cessation, and provide professional counselling and referral services. Members of the public can visit the smoking cessation thematic website (www.livetobaccofree.hk) for more information on smoking cessation and related support tools and services. They can also download the ""Quit Smoking App"" to keep track of their quitting progress and obtain tips on fighting cravings to maintain a tobacco-free life.
 
 Dr Lam emphasised that smokers of any age can reap immediate and long-term health benefits from quitting smoking. For the sake of their own health and that of their families, he urged smokers not to hesitate, but to act now and quit smoking in June. They should also adopt a healthy lifestyle and help build a tobacco-free Hong Kong."
+衞生署公布本港最新吸煙情況及「六月．戒煙月」活動（附圖／短片）,2026-05-27 12:30,2026-05-27 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700292.htm,"衞生署今日（五月二十七日）公布，香港吸煙率由八十年代初的23.3%持續下降至二○二五年的8.5%，創歷史新低。與此同時，習慣每日使用電子煙或加熱煙等另類吸煙產品的人數亦有所下跌，反映政府推行的控煙策略成效卓著，切實有效保障公眾健康。衞生署今日起推出「六月．戒煙月」的活動，透過多元途徑鼓勵和協助吸煙人士嘗試戒煙，包括運用人工智能（AI）提供個人化的戒煙輔導服務。
+
+調查結果
+————
+政府統計處今日出版最新一期《主題性住戶統計調查報告書》。根據去年七月至十月就吸煙情況進行的主題性住戶統計調查顯示，約54萬名香港巿民在統計時有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的比率為8.5%。二○二三年的相關比率為9.1%。
+
+另類吸煙產品方面，二○二五年習慣每日使用電子煙的15歲及以上人士佔人口比率0.1%，而二○二三年的相應比率為0.2%。而每日使用加熱煙的人口比率則由二○二三年的0.1%降低至無法準確估算的水平。
+
+衞生署控煙酒辦公室（控煙酒辦）主任林民聰醫生說：「本港吸煙率下降至歷史新低，是社會各界和市民大眾多年共同努力的成果，令香港成為國際上成功控煙的典範。而另類吸煙產品禁令自二○二二年四月生效以來，使用人數持續減少，反映實施禁令的成效及重要性。衞生署會繼續密切留意吸煙趨勢，嚴防新型吸煙產品在香港流行。」
+
+隨着《2025年控煙法例（修訂）條例》於去年刊憲，政府正逐步落實新一階段控煙措施，當中已落實的措施包括加強打擊私煙的法律框架、擴大法定禁煙區、進一步全面禁止在公眾地方管有另類吸煙產品等，並持續加強公眾教育和戒煙服務。政府計劃於明年十二月全面落實傳統吸煙產品統一包裝設計和完稅標籤制度，進一步減低煙草產品的吸引力，以及加強打擊私煙。
+
+林民聰醫生補充，政府「控煙十招」的核心要義之一，是減低煙草產品的吸引力，包括另類煙和五花八門的加味煙，以防止新世代染上煙癮。今次的調查結果亦顯示，年輕組別的吸煙率持續處於極低的水平，反映年輕一代已不再接受吸煙行為，與政府的目標和社會期望高度契合。
+
+香港吸煙與健康委員會主席湯修齊表示，委員會一如以往繼續全力支持政府推行下一步的控煙措施，並指出實施傳統吸煙產品統一包裝和禁止加味煙將有效減低煙草產品的推廣效果和吸引力，是抗衡煙草商向市民，特別是年輕一代，營銷的重要措施。
+
+六月．戒煙月
+——————
+林民聰醫生說：「政府一直以多管齊下及循序漸進的方式，減低吸煙產品對市民和社會造成的禍害，在立法、徵稅、宣傳、教育和執法以外，提供完善戒煙服務亦是不可或缺的重要一環。為協助吸煙者成功戒煙，衞生署一直資助多個非政府機構，提供多元化而免費的戒煙服務及支援。為響應世界衞生組織定於每年五月三十一日的『世界無煙日』，衞生署自二○二一年推出『六月．戒煙月』活動，鼓勵吸煙人士嘗試戒煙，以降低患上吸煙相關疾病和死亡的風險。過去數年，每年參與人數逐年遞增，活動成效理想。」
+
+今年，衞生署會繼續透過全港超過300間社區藥房、戒煙診所、地區康健中心／地區康健站，以及衞生署診所免費派發一星期戒煙藥物試用裝，及透過指定中醫診所免費派發中醫戒煙耳穴貼，以協助有意欲戒煙人士紓緩退癮徵狀。
+
+林民聰醫生表示，因應政府將推行建築地盤全面禁煙，衞生署已加強對建築業界的戒煙宣傳和支援力度，衞生署資助的非政府機構透過外展活動，積極向建築業界人士提供免費戒煙藥物試用裝和中藥耳穴貼。
+
+另外，衞生署今年與香港大學護理學院合作推出AI戒煙輔導服務先導計劃——「智聊戒」，由AI即時提供精準和適切的戒煙資訊，並根據使用者的吸煙史和戒煙偏好，給予個人化戒煙輔導，還能為使用者提供情緒支援，協助使用者練習拒煙技巧。有意戒煙的人士只需掃描二維碼（見附件）即可隨時隨地接通服務，費用全免。若使用者需要真人輔導服務、戒煙藥物支援或中醫針灸戒煙服務，「智聊戒」亦會根據需求進行轉介。
+
+衞生署已開始播放「全世界睇好你．戒！」電視及電台政府宣傳片，並在公共運輸交通網絡和社交媒體加強宣傳廣告，鼓勵吸煙人士戒煙，陪伴吸煙人士渡過無煙月。
+
+衞生署亦設有綜合戒煙熱線（1833 183），處理有關戒煙的一般查詢、提供專業輔導和轉介服務。市民如欲了解更多戒煙及相關支援工具和服務的資訊，可瀏覽戒煙專題網頁（www.livetobaccofree.hk）。市民亦可下載「戒煙達人」應用程式，以跟進戒煙進度和取得對抗煙癮的貼士，維持無煙生活。
+
+林民聰醫生強調，任何年齡的吸煙人士戒煙，都會對其健康帶來即時而長遠的裨益。為了自己、為了家人的身心健康，不要猶豫，決心由六月開始戒煙，邁向健康無煙的新生活，共建無煙香港。"
 立法會十一題：推動跨國跨境合辦課程,2026-05-27 12:03,2026-05-27 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700296.htm,"以下是今日（五月二十七日）在立法會會議上洪錦鉉議員的提問和教育局局長蔡若蓮博士的書面答覆︰
 
 問題：
@@ -2513,6 +2535,41 @@ Total
   To further enrich students' learning experience, the VTC has also invited scholars and industry practitioners from the Chinese Mainland and overseas to visit Hong Kong to share the latest industry developments, including emerging trends, practical insights and professional expertise through thematic seminars and interactive workshops, thereby enhancing students' employability in the Chinese Mainland and overseas.
 
 (4) The Education Bureau (EDB) has always attached importance to promoting co-operation between local post-secondary institutions and institutions from the Chinese Mainland and overseas. The EDB encourages institutions to establish partnerships with high-quality post-secondary education institutions around the world on a mutually beneficial basis, including the joint delivery of cross-border programmes, with a view to facilitating student exchanges and enhancing the quality of teaching. Post-secondary institutions in Hong Kong will negotiate and agree on specific programme arrangements with overseas institutions in accordance with their academic development strategies and curriculum design through establishing various forms of co-operation including student exchange programmes and operating dual-degree programmes, providing students with diverse learning opportunities. The EDB will continue to maintain communication with relevant Government departments and organisations from the Chinese Mainland and overseas and provide support measures (e.g. the Task Force on Study in Hong Kong and the UGC's funding in the 2022-25 triennium for the Heads of Universities Committee's Standing Committee on Internationalisation jointly set up by the eight UGC-funded universities), with a view to supporting institutions in expanding their international networks to promote Hong Kong's strengths as an international post-secondary education hub to their partners from the Chinese Mainland and abroad, and to jointly exploring models for cross-regional co-operation and areas for exchange, thereby laying a solid foundation for continuously enhancing international collaboration and promoting broader academic co-operation among institutions."
+LCQ21: Nutrition labelling scheme for packaged food,2026-05-27 11:58,2026-05-27 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700277.htm,"Following is a question by the Hon Chan Hoi-yan and a written reply by the Secretary for Environment and Ecology, Mr Tse Chin-wan, in the Legislative Council today (May 27):
+
+Under the existing Nutrition Labelling Scheme (the Scheme), prepackaged food products are required to label the energy and seven core nutrients (i.e. total fat, saturated fat, trans fat, sugars, sodium, protein and carbohydrates) ""per package"" or ""per serving"". It has been more than 15 years since the Scheme was fully implemented in 2010. In recent years, there have been notable changes in the dietary pattern of the public and the types of prepackaged food products, and cases of discrepancies between nutrition labels and actual ingredients have aroused public concern about the effectiveness of the Scheme and the monitoring work. In this connection, will the Government inform this Council:
+
+(1) of the number of complaints, sample tests or investigations received by the Government in the past five years involving discrepancies between nutrition labels and actual ingredients (with a breakdown by type of food products); among such cases, the most common food products which contravened the nutrition labelling requirements and the circumstances under which they contravened such requirements, as well as the number of food manufacturers or sellers prosecuted and convicted as a result;
+
+(2) whether the Government has conducted regular or phased reviews on the effectiveness of the Scheme, including the public's understanding of nutrition labelling, its actual use, as well as its impact on improving dietary choices and promoting public health; if it has, of the details; if not, the reasons for that; whether the Government will commence a comprehensive review of the entire existing Scheme; if it will, of the details; if not, the reasons for that;
+
+(3) whether the Government has ascertained the current number of prepackaged food products on the market which use ""0"" labels (including ""0 sugars"", ""0 sodium"", ""0 cholesterol"", ""0 trans fat"", etc.); if so, broken down by food type and nutrients involved; whether the Government will review the threshold of the relevant ""0"" labelling or the way of labelling; if it will, of the details; if not, the reasons for that;
+
+(4) at present, the labelling of dietary fibre is voluntary, whether the Government will review the nutrient labelling requirements under the Scheme and include dietary fibre as a mandatory labelled item, so as to tie in with the promotion of ""3 Low, 1 High"" dietary policy and facilitate the public's choice of high-fibre food products; if it will, of the details; if not, the reasons for that; and
+
+(5) whether the Government will consider making it mandatory for prepackaged food products to label the nutrition information of both ""per package"" and ""per serving"" under specific conditions, so as to facilitate consumers to compare similar food products; if it will, of the details; if not, the reasons for that?
+
+Reply:
+
+President,
+
+The Nutrition Labelling Scheme in Hong Kong aims at assisting consumers to make informed food choices, encouraging food manufacturers to supply food in compliance with nutrition standard, and regulating misleading or deceptive labels and claims. Given that most of the food is imported and taking into account the need for diverse categories of food in pluralistic society, the Government prioritises the interests of citizens and consumers, as well as their rights to information in formulating the Scheme. At the same time, it is also necessary to take into account industry practices and market conditions.
+
+The reply to the questions raised by the Hon Chan Hoi-yan is as follows:
+
+(1) Since the implementation of the Scheme, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department has been conducting surveillance on pre-packaged food products and checking nutrition labels on a risk-based approach. The CFS has also been testing pre-packaged food samples to check if the contents of energy and seven nutrients specified for labelling are consistent with the labelled nutrient content on their nutrition labels.
+
+In the past five years (from 2021 to 2025), the CFS received a total of 87 complaints involving suspected discrepancies between nutrition labels and actual compositions of pre-packaged food products. In response to the complaints and as part of routine surveillance, the CFS tested over 4 200 pre-packaged food samples. Among them, 148 samples showed discrepancies between their labelled nutrient content and the results of chemical analyses. They mainly involved bakery products as well as cereal and grain products. Please see Table for the figures. During the same period, the CFS initiated 28 cases of prosecution against contravention of relevant labelling legislation on pre-packaged food products whereby there were discrepancies between their labelled nutrient content and the results of chemical analyses. All these cases were convicted and involved 24 food retailers.
+
+(2) The Government reviews the Scheme from time to time and has been keeping in view the up-to-date guidelines and standards domestically and abroad, such as the practices and the latest recommendations of the Codex Alimentarius Commission (CAC), the Chinese Mainland and other countries/jurisdictions. The current requirements (including the numbers and types of nutrients to be listed in nutrition labels) under the Scheme in Hong Kong are in line with the CAC's recommendations and are similar to the requirements of the Chinese Mainland and the majority of other countries/jurisdictions.
+
+The CFS has been promoting nutrition labels through a variety of channels with a view to enhancing public understanding from various perspectives and driving behavioural change among consumers, such that they could make good use of the information on the nutrition labels to make informed food choices. For instance, the CFS held a total of 33 health talks and eight roving exhibitions related to nutrition labels from January to May this year. The CFS also gauges public understanding of nutrition labels during the promotion activities. As shown in the survey results in the past five consecutive years, over 90 per cent of respondents ""strongly agree"" or ""agree"" that they have gained better knowledge and understanding of nutrition labels.
+
+(3) With regard to the threshold or format of labelling, according to international practices, insignificant amounts of nutrients are generally regarded as negligible and may be labelled as ""0"". However, the definition of ""0"" labelling for different nutrients vary among countries/jurisdictions. At present, Hong Kong has made reference to the practices of the Chinese Mainland and other places in respect of the expression unit, rounding rules and the definition of ""0"" for certain nutrients. The CFS will continue to keep in view the latest developments domestically and abroad. The CFS does not maintain information on the number of pre-packaged food products on the market that use ""0"" labels.
+
+(4) The CAC, the Chinese Mainland and most countries/jurisdictions have categorised ""dietary fibre"" as a voluntarily labelled nutrient under ""recommended labelling"" or ""conditional labelling (e.g. nutrition claims)"". In Hong Kong, the Food and Drugs (Composition and Labelling) Regulations (Cap. 132W) stipulates that the food trade is required to label the dietary fibre content of pre-packaged food products under the following two conditions: i.e., if the content of carbohydrates is labelled as ""Total Carbohydrates"" instead of ""Available Carbohydrates""; and if nutrition claims related to ""dietary fibre"" are shown on the product packaging or in advertisements.
+
+(5) According to the Regulations, the energy value and nutrient content on nutrition labels of pre-packaged food products must be labelled in one of the three formats predominantly adopted worldwide: per 100 grams or 100 milliliters, per serving or per package. The Government will continue to strike a balance between citizens' interests and rights to information, and industry practices and market conditions ,including industry compliance costs and feasibility in actual operation, and will closely monitor the latest developments in the implementation of the Scheme."
 立法會二十一題：包裝食品的營養資料標籤制度,2026-05-27 11:58,2026-05-27 12:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700275.htm,"​以下是今日（五月二十七日日）在立法會會議上陳凱欣議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -2550,41 +2607,6 @@ Total
 （四）食品法典委員會、內地及大部分國家／司法管轄區均將「膳食纖維」分類為按「建議標示」或「條件性（例如營養聲稱）」而自願標示的營養素。在香港，《食物及藥物（成分組合及標籤）規例》（第132W章）（《規例》）已規定食物業界在以下兩種情況下必須標示預先包裝食品的膳食纖維：即碳水化合物含量以「總碳水化合物」而非「可獲得的碳水化合物」標示；以及產品包裝或廣告宣傳中出現與「膳食纖維」相關的營養聲稱。
 
 （五）根據《規例》，預先包裝食物營養標籤所標示的能量值及營養素含量須以國際上主要使用的三種基本標示方式的其中一種標示：即每100克或100毫升、每食用分量或每包裝字眼標示。政府會繼續平衡市民的權益和知情權以及業界操作和市場情況，包括業界循規成本及實際操作可行性等，密切留意標籤制度執行的最新情況。"
-LCQ21: Nutrition labelling scheme for packaged food,2026-05-27 11:58,2026-05-27 12:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700277.htm,"Following is a question by the Hon Chan Hoi-yan and a written reply by the Secretary for Environment and Ecology, Mr Tse Chin-wan, in the Legislative Council today (May 27):
-
-Under the existing Nutrition Labelling Scheme (the Scheme), prepackaged food products are required to label the energy and seven core nutrients (i.e. total fat, saturated fat, trans fat, sugars, sodium, protein and carbohydrates) ""per package"" or ""per serving"". It has been more than 15 years since the Scheme was fully implemented in 2010. In recent years, there have been notable changes in the dietary pattern of the public and the types of prepackaged food products, and cases of discrepancies between nutrition labels and actual ingredients have aroused public concern about the effectiveness of the Scheme and the monitoring work. In this connection, will the Government inform this Council:
-
-(1) of the number of complaints, sample tests or investigations received by the Government in the past five years involving discrepancies between nutrition labels and actual ingredients (with a breakdown by type of food products); among such cases, the most common food products which contravened the nutrition labelling requirements and the circumstances under which they contravened such requirements, as well as the number of food manufacturers or sellers prosecuted and convicted as a result;
-
-(2) whether the Government has conducted regular or phased reviews on the effectiveness of the Scheme, including the public's understanding of nutrition labelling, its actual use, as well as its impact on improving dietary choices and promoting public health; if it has, of the details; if not, the reasons for that; whether the Government will commence a comprehensive review of the entire existing Scheme; if it will, of the details; if not, the reasons for that;
-
-(3) whether the Government has ascertained the current number of prepackaged food products on the market which use ""0"" labels (including ""0 sugars"", ""0 sodium"", ""0 cholesterol"", ""0 trans fat"", etc.); if so, broken down by food type and nutrients involved; whether the Government will review the threshold of the relevant ""0"" labelling or the way of labelling; if it will, of the details; if not, the reasons for that;
-
-(4) at present, the labelling of dietary fibre is voluntary, whether the Government will review the nutrient labelling requirements under the Scheme and include dietary fibre as a mandatory labelled item, so as to tie in with the promotion of ""3 Low, 1 High"" dietary policy and facilitate the public's choice of high-fibre food products; if it will, of the details; if not, the reasons for that; and
-
-(5) whether the Government will consider making it mandatory for prepackaged food products to label the nutrition information of both ""per package"" and ""per serving"" under specific conditions, so as to facilitate consumers to compare similar food products; if it will, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
-The Nutrition Labelling Scheme in Hong Kong aims at assisting consumers to make informed food choices, encouraging food manufacturers to supply food in compliance with nutrition standard, and regulating misleading or deceptive labels and claims. Given that most of the food is imported and taking into account the need for diverse categories of food in pluralistic society, the Government prioritises the interests of citizens and consumers, as well as their rights to information in formulating the Scheme. At the same time, it is also necessary to take into account industry practices and market conditions.
-
-The reply to the questions raised by the Hon Chan Hoi-yan is as follows:
-
-(1) Since the implementation of the Scheme, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department has been conducting surveillance on pre-packaged food products and checking nutrition labels on a risk-based approach. The CFS has also been testing pre-packaged food samples to check if the contents of energy and seven nutrients specified for labelling are consistent with the labelled nutrient content on their nutrition labels.
-
-In the past five years (from 2021 to 2025), the CFS received a total of 87 complaints involving suspected discrepancies between nutrition labels and actual compositions of pre-packaged food products. In response to the complaints and as part of routine surveillance, the CFS tested over 4 200 pre-packaged food samples. Among them, 148 samples showed discrepancies between their labelled nutrient content and the results of chemical analyses. They mainly involved bakery products as well as cereal and grain products. Please see Table for the figures. During the same period, the CFS initiated 28 cases of prosecution against contravention of relevant labelling legislation on pre-packaged food products whereby there were discrepancies between their labelled nutrient content and the results of chemical analyses. All these cases were convicted and involved 24 food retailers.
-
-(2) The Government reviews the Scheme from time to time and has been keeping in view the up-to-date guidelines and standards domestically and abroad, such as the practices and the latest recommendations of the Codex Alimentarius Commission (CAC), the Chinese Mainland and other countries/jurisdictions. The current requirements (including the numbers and types of nutrients to be listed in nutrition labels) under the Scheme in Hong Kong are in line with the CAC's recommendations and are similar to the requirements of the Chinese Mainland and the majority of other countries/jurisdictions.
-
-The CFS has been promoting nutrition labels through a variety of channels with a view to enhancing public understanding from various perspectives and driving behavioural change among consumers, such that they could make good use of the information on the nutrition labels to make informed food choices. For instance, the CFS held a total of 33 health talks and eight roving exhibitions related to nutrition labels from January to May this year. The CFS also gauges public understanding of nutrition labels during the promotion activities. As shown in the survey results in the past five consecutive years, over 90 per cent of respondents ""strongly agree"" or ""agree"" that they have gained better knowledge and understanding of nutrition labels.
-
-(3) With regard to the threshold or format of labelling, according to international practices, insignificant amounts of nutrients are generally regarded as negligible and may be labelled as ""0"". However, the definition of ""0"" labelling for different nutrients vary among countries/jurisdictions. At present, Hong Kong has made reference to the practices of the Chinese Mainland and other places in respect of the expression unit, rounding rules and the definition of ""0"" for certain nutrients. The CFS will continue to keep in view the latest developments domestically and abroad. The CFS does not maintain information on the number of pre-packaged food products on the market that use ""0"" labels.
-
-(4) The CAC, the Chinese Mainland and most countries/jurisdictions have categorised ""dietary fibre"" as a voluntarily labelled nutrient under ""recommended labelling"" or ""conditional labelling (e.g. nutrition claims)"". In Hong Kong, the Food and Drugs (Composition and Labelling) Regulations (Cap. 132W) stipulates that the food trade is required to label the dietary fibre content of pre-packaged food products under the following two conditions: i.e., if the content of carbohydrates is labelled as ""Total Carbohydrates"" instead of ""Available Carbohydrates""; and if nutrition claims related to ""dietary fibre"" are shown on the product packaging or in advertisements.
-
-(5) According to the Regulations, the energy value and nutrient content on nutrition labels of pre-packaged food products must be labelled in one of the three formats predominantly adopted worldwide: per 100 grams or 100 milliliters, per serving or per package. The Government will continue to strike a balance between citizens' interests and rights to information, and industry practices and market conditions ,including industry compliance costs and feasibility in actual operation, and will closely monitor the latest developments in the implementation of the Scheme."
 立法會八題：建設香港成為國際黃金交易中心,2026-05-27 11:45,2026-05-27 12:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600501.htm,"以下是今日（五月二十七日）在立法會會議上姚祖輝議員的提問和署理財經事務及庫務局局長陳浩濂的書面答覆：
 
 問題：
@@ -2651,6 +2673,54 @@ President,
  At the same time, the Government is also committed to deepening co-operation with Belt and Road countries and other international market participants, promoting Hong Kong's gold storage, clearing and risk management services through overseas visits, organising events, and exploring the signing of co-operation agreements. For instance, during his earlier attendance to the Annual Meeting of the Board of Governors of the Asian Development Bank in Uzbekistan, the Secretary for Financial Services and the Treasury took the opportunity to introduce the latest developments and opportunities in Hong Kong's gold market to participating finance ministers and central bank representatives. We will also make good use of the network of our Economic and Trade Offices in the Mainland and overseas to promote Hong Kong's direction and specific measures for gold market development.
 
 (4) At present, Hong Kong does not impose any customs duty or import/export control on passengers bringing gold products into/out of Hong Kong. The Government will, in response to market demand and when necessary, explore with the relevant Mainland authorities the feasibility of providing more convenient arrangements for passengers, with a view to promoting the development of Hong Kong's retail gold market."
+立法會七題：鐵路工程的成本管控,2026-05-27 11:40,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700206.htm,"以下是今日（五月二十七日）在立法會會議上何君堯議員的提問和運輸及物流局局長陳美寶的書面答覆：
+
+問題：
+
+政府於二○二三年十二月公布《香港主要運輸基建發展藍圖》，為香港未來的運輸基建發展提供規劃框架。有意見認為，目前香港的鐵路工程與內地相比，存在造價過高、建造時間過長的問題。就此，政府可否告知本會：
+
+（一）過去五年，香港已開展的鐵路工程項目資料，並按下表列出分項數字：
+
+
+
+工程開展年份
+項目名稱
+鐵路長度
+項目造價
+每公里造價
+完工年份／預計完工
+			所需時間（按月計算）
+
+
+
+
+
+
+
+
+
+
+
+
+（二）就第（一）項所述的鐵路工程項目，政府採取了哪些措施以控制工程的成本，並提升鐵路的建造效率；及
+
+（三）政府將如何與內地部門就連接內地的鐵路工程項目溝通協調（特別是港深西部鐵路（洪水橋至前海）及北環線支線項目），以促進本港鐵路工程降本增效？
+
+答覆：
+
+主席：
+
+在「八縱八橫」的運輸基建布局下，政府正全力有序推動和落實一系列運輸基建項目。政府理解社會期望香港基建工程進一步提速提效，致力降低造價和縮短工期。我們秉持「敢於破局」的精神，積極在政策和技術上「雙創新」，探討優化及精簡程序，並汲取其他國內外大型基建發展的經驗，務求提升推展運輸基建項目的效率。就何君堯議員提問的各部分，現回覆如下：
+
+（一）政府正全力推展一系列運輸基建項目，在過去五年內已有多項鐵路項目動工。東鐵線古洞站、東涌線延線、屯門南延線、小蠔灣站和洪水橋站明年起陸續在數年內落成啓用。同時，北環線主線和支線工程以新思維合併同步推展，爭取在二○三四年或之前同步開通。相關項目資料載於附件。
+
+（二）及（三）如上所述，政府致力引入創新思維、技術和工序，推動鐵路建設更高效、更具前瞻性和更具成本效益。同時，我們和香港鐵路有限公司（港鐵公司）檢視其新鐵路項目當中的規劃、設計和施工等不同環節，探討優化及精簡程序的空間，以盡量節省工程團隊的人手需求，減低成本。我們亦鼓勵港鐵公司積極廣納內地及海外的嶄新科技及技術，探討不同策略性成本管控措施於鐵路項目上的應用。舉例而言，港鐵公司於東鐵線古洞站工程中，應用擴增實境技術配合建築信息模擬技術，實時比對設計與現場安裝情況，可及早修正誤差，提升施工質素和進度。
+
+路政署今年二月發布《香港鐵路標準》，全面就鐵路項目的整個項目周期訂立技術依據和指引，便利新鐵路項目應用更多不同創新技術、物料、裝備和系統等，並提供清晰規範作為監管部門的審批依據，同時便利業界制定及優化施工工序，為香港鐵路發展提速提效奠定了重要基礎。配合《香港鐵路標準》的推出，路政署同步成立鐵路審批組，整合屋宇測量、結構工程及土木工程等專業範疇的力量，專責處理新鐵路項目的圖則審批工作，並配以新的電子審批平台，為安全和質量嚴格把關之餘，同時提升審批流程效率，將處理圖則時間大幅減少百分之三十至五十，有助節省資源和減省成本。
+
+我們有信心《香港鐵路標準》及精簡審批流程可顯著提升香港鐵路項目的推展效率和成本效益。個別項目的效益會因應實際情況和性質而有所不同。以北環線項目為例，粗略估算，通過採用《香港鐵路標準》並由鐵路審批組進行專責審批，加上合併推展北環線主線及支線所產生的協同效應，有望為北環線項目節省約兩成建造成本，並將支線的時間表提前兩年與主線在二○三四年或之前同步開通。
+
+與內地就跨境鐵路項目的溝通協調方面，香港特別行政區政府與深圳當局一直透過港深跨界軌道基礎設施建設專班以及旗下的「跨界軌道項目推展辦公室」和「法務小組」緊密對接，共同推展港深西部鐵路和北環線支線兩個跨境鐵路項目，包括推進可行性研究、勘測、設計、建設及營運等工作。兩地政府一直積極共同探討優化跨境鐵路項目的施工方案，以達致最大的效益。舉例而言，雙方已同意採用單向掘進的施工方法建造港深西部鐵路的海底鐵路隧道，並由深圳一方掘進施工，提升整體效率和成本效益，同時確保香港段和內地段海底鐵路隧道的設計互相兼容和工序順暢銜接。"
 LCQ7: Cost management and control for railway works,2026-05-27 11:40,2026-05-27 11:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700217.htm,"Following is a question by Dr the Hon Junius Ho and a written reply by the Secretary for Transport and Logistics, Ms Mable Chan, in the Legislative Council today (May 27):
 
 Question:
@@ -2701,54 +2771,6 @@ In February this year, the Highways Department (HyD) promulgated the Hong Kong R
 We are confident that the Standards and the streamlined approval process would be able to substantially enhance the implementation efficiency and cost-effectiveness of railway projects in Hong Kong. The benefits for each individual project would vary depending on actual circumstances and nature of the project concerned. Taking the NOL Project as an example, as a rough estimate, the adoption of the Standards together with dedicated approval process by the RCU, coupled with the synergies generated by implementing the NOL Main Line in combination with the NOL Spur Line as one project, the construction cost of the NOL Project is expected to be reduced by about 20 per cent and the programme of the NOL Spur Line could also be advanced by two years to achieve simultaneous commissioning with the NOL Main Line by 2034 or earlier.
 
 Regarding communication and liaison with the Mainland authorities on cross-boundary railway projects, the Government of Hong Kong Special Administrative Region and Shenzhen authorities have been working closely through the Task Force for Hong Kong-Shenzhen Co-operation on Cross-Boundary Railway Infrastructure as well as the Office for Implementing Cross-Boundary Railway Projects and the Legal Group under the framework of the Task Force to jointly take forward the two cross-boundary railway projects, namely the Hong Kong-Shenzhen Western Rail Link (HSWRL) and the NOL Spur Line projects, including taking forward work on feasibility study, investigation, design, construction and operation, etc. The governments of the two places have been working actively together to explore improvements to the construction scheme of cross-boundary railway projects with a view to achieving optimal effectiveness. For example, both sides agreed to adopt a unidirectional tunnelling method to construct the subsea railway tunnel of the HSWRL and also carry out the excavation from the Shenzhen side, so as to enhance the overall efficiency and cost effectiveness as well as ensure design compatibility and seamless coordination of construction works between the Hong Kong and Mainland sections of the subsea railway tunnel."
-立法會七題：鐵路工程的成本管控,2026-05-27 11:40,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700206.htm,"以下是今日（五月二十七日）在立法會會議上何君堯議員的提問和運輸及物流局局長陳美寶的書面答覆：
-
-問題：
-
-政府於二○二三年十二月公布《香港主要運輸基建發展藍圖》，為香港未來的運輸基建發展提供規劃框架。有意見認為，目前香港的鐵路工程與內地相比，存在造價過高、建造時間過長的問題。就此，政府可否告知本會：
-
-（一）過去五年，香港已開展的鐵路工程項目資料，並按下表列出分項數字：
-
-
-
-工程開展年份
-項目名稱
-鐵路長度
-項目造價
-每公里造價
-完工年份／預計完工
-			所需時間（按月計算）
-
-
-
-
-
-
-
-
-
-
-
-
-（二）就第（一）項所述的鐵路工程項目，政府採取了哪些措施以控制工程的成本，並提升鐵路的建造效率；及
-
-（三）政府將如何與內地部門就連接內地的鐵路工程項目溝通協調（特別是港深西部鐵路（洪水橋至前海）及北環線支線項目），以促進本港鐵路工程降本增效？
-
-答覆：
-
-主席：
-
-在「八縱八橫」的運輸基建布局下，政府正全力有序推動和落實一系列運輸基建項目。政府理解社會期望香港基建工程進一步提速提效，致力降低造價和縮短工期。我們秉持「敢於破局」的精神，積極在政策和技術上「雙創新」，探討優化及精簡程序，並汲取其他國內外大型基建發展的經驗，務求提升推展運輸基建項目的效率。就何君堯議員提問的各部分，現回覆如下：
-
-（一）政府正全力推展一系列運輸基建項目，在過去五年內已有多項鐵路項目動工。東鐵線古洞站、東涌線延線、屯門南延線、小蠔灣站和洪水橋站明年起陸續在數年內落成啓用。同時，北環線主線和支線工程以新思維合併同步推展，爭取在二○三四年或之前同步開通。相關項目資料載於附件。
-
-（二）及（三）如上所述，政府致力引入創新思維、技術和工序，推動鐵路建設更高效、更具前瞻性和更具成本效益。同時，我們和香港鐵路有限公司（港鐵公司）檢視其新鐵路項目當中的規劃、設計和施工等不同環節，探討優化及精簡程序的空間，以盡量節省工程團隊的人手需求，減低成本。我們亦鼓勵港鐵公司積極廣納內地及海外的嶄新科技及技術，探討不同策略性成本管控措施於鐵路項目上的應用。舉例而言，港鐵公司於東鐵線古洞站工程中，應用擴增實境技術配合建築信息模擬技術，實時比對設計與現場安裝情況，可及早修正誤差，提升施工質素和進度。
-
-路政署今年二月發布《香港鐵路標準》，全面就鐵路項目的整個項目周期訂立技術依據和指引，便利新鐵路項目應用更多不同創新技術、物料、裝備和系統等，並提供清晰規範作為監管部門的審批依據，同時便利業界制定及優化施工工序，為香港鐵路發展提速提效奠定了重要基礎。配合《香港鐵路標準》的推出，路政署同步成立鐵路審批組，整合屋宇測量、結構工程及土木工程等專業範疇的力量，專責處理新鐵路項目的圖則審批工作，並配以新的電子審批平台，為安全和質量嚴格把關之餘，同時提升審批流程效率，將處理圖則時間大幅減少百分之三十至五十，有助節省資源和減省成本。
-
-我們有信心《香港鐵路標準》及精簡審批流程可顯著提升香港鐵路項目的推展效率和成本效益。個別項目的效益會因應實際情況和性質而有所不同。以北環線項目為例，粗略估算，通過採用《香港鐵路標準》並由鐵路審批組進行專責審批，加上合併推展北環線主線及支線所產生的協同效應，有望為北環線項目節省約兩成建造成本，並將支線的時間表提前兩年與主線在二○三四年或之前同步開通。
-
-與內地就跨境鐵路項目的溝通協調方面，香港特別行政區政府與深圳當局一直透過港深跨界軌道基礎設施建設專班以及旗下的「跨界軌道項目推展辦公室」和「法務小組」緊密對接，共同推展港深西部鐵路和北環線支線兩個跨境鐵路項目，包括推進可行性研究、勘測、設計、建設及營運等工作。兩地政府一直積極共同探討優化跨境鐵路項目的施工方案，以達致最大的效益。舉例而言，雙方已同意採用單向掘進的施工方法建造港深西部鐵路的海底鐵路隧道，並由深圳一方掘進施工，提升整體效率和成本效益，同時確保香港段和內地段海底鐵路隧道的設計互相兼容和工序順暢銜接。"
 立法會九題：推動飲食業可持續發展的措施,2026-05-27 11:33,2026-05-27 11:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700276.htm,"以下是今日（五月二十七日）在立法會會議上梁進議員的提問和環境及生態局局長謝展寰的書面答覆︰
 
 問題：
@@ -2969,6 +2991,36 @@ President,
 (2) To ensure the early completion of the Kai Tak Project, the Government will take forward the project based on the current alignment running along the former Kai Tak runway area with the termini connecting to the Kai Tak Cruise Terminal and the existing MTR Kai Tak Station, with a view to commencing construction works as soon as possible. After finalising the system and design adopted for the basic alignment of the Kai Tak Project, the Government will review the technical and financial feasibility of extending the system to other areas, such as Kwun Tong, in the future, and co-ordinate with the bridge project across the KTTS.
 
 (3) The waterfront of the KTTS has been developed into a continuous promenade, parks, and event spaces, complemented by diversified recreational and public facilities. With the progressive implementation of works to connect the promenade and further enhance the waterfront sites, various organisations have successfully held a wide range of activities along the KTTS waterfront in recent years. While the DEVB has been developing high-quality waterfront spaces in Kowloon East for public enjoyment, it has also focused on providing ancillary facilities to transform the waterfront into a vibrant and dynamic public space, offering locals and visitors a more diverse and unique experience, valuing both quality and quantity. To encourage and facilitate diversified activities organised by various organisations so as to introduce new waterfront experiences to the public, the Energizing Kowloon East Office (EKEO) is committed to establishing direct communication channels between event organisers and relevant Government departments, with a view to continuously co-ordinating and streamlining the detailed arrangements of activities. Looking ahead, if events are planned to take place at the proposed bridge across the KTTS (such as a waterfront marathon), the EKEO will also provide assistance to the organisers to ensure smooth implementation and effective co-ordination."
+《主題性住戶統計調查第85號報告書》出版,2026-05-27 11:00,2026-05-27 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600585.htm,"政府統計處今日（五月二十七日）出版《主題性住戶統計調查第85號報告書》。
+
+該刊物載列於二零二五年七月至十月期間進行的主題性住戶統計調查所得，關於香港人口的吸煙情況的主要結果。
+
+統計調查結果顯示，在二零二五年，約有538 100人有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的8.5%，而二零二三年的相應百分比為9.1%。習慣每日吸食傳統煙的人士在二零二五年每日平均吸食10.9支傳統煙，而二零二三年的相應數字為12.1支。
+
+若包括有吸食其他煙草或相關產品（如加熱煙、電子煙、雪茄、手捲煙、使用煙斗吸煙、鼻煙／口含煙及水煙）的人士，在二零二五年，約有548 100人有每日吸煙的習慣，佔全港所有15歲及以上人士的8.6%，而二零二三年的相應百分比為9.4%。
+
+其他資料
+
+該項統計調查根據一個以科學方法設計的抽樣系統，成功訪問約10 100個住戶內的目標訪問對象，以代表本港人口的情況。
+
+有關統計調查的詳細結果，以及人口範圍和主要名詞的概念／定義，可參閱該刊物。用戶可在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1130201&scode=453）瀏覽及下載該刊物。
+
+有關統計調查結果的查詢，請聯絡政府統計處社會統計調查組（一）（電話：3863 2622或電郵：thematic@censtatd.gov.hk）。"
+Thematic Household Survey Report No. 85 published,2026-05-27 11:00,2026-05-27 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600587.htm,"The Thematic Household Survey Report No. 85 is published by the Census and Statistics Department (C&SD) today (May 27).
+
+This publication contains key findings on Hong Kong population’s pattern of smoking based on the Thematic Household Survey conducted from July to October 2025.
+
+The survey results showed that there were some 538 100 daily conventional cigarette smokers in 2025, accounting for 8.5% of all persons aged 15 and over in Hong Kong, compared with the corresponding percentage of 9.1% in 2023. Daily conventional cigarette smokers consumed on average 10.9 sticks of conventional cigarettes a day in 2025, while the corresponding figure in 2023 was 12.1 sticks.
+
+Including persons who consumed other forms of tobacco or related products (e.g. heated tobacco product, e-cigarette, cigar, hand-rolled cigarette, pipe-smoking, snuff/snus and water pipe), there were some 548 100 daily smokers in 2025, accounting for 8.6% of all persons aged 15 and over in Hong Kong, whereas the corresponding percentage in 2023 was 9.4%.
+
+Other information
+
+The survey successfully enumerated target respondents in some 10 100 households in accordance with a scientific sampling scheme to represent the population of Hong Kong.
+
+Detailed findings of the survey, together with the population coverage and concepts/definitions of key terms, are presented in the publication. Users can browse and download the publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1130201&scode=453).
+
+Enquiries about the survey findings can be directed to the Social Surveys Section (1) of the C&SD (Tel: 3863 2622 or email: thematic@censtatd.gov.hk)."
 財經事務及庫務局局長在深圳出席第二十屆深圳國際金融博覽會開幕式致辭全文（只有中文）（附圖）,2026-05-27 11:00,2026-05-27 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052700283.htm,"以下是財經事務及庫務局局長許正宇今日（五月二十七日）在第二十屆深圳國際金融博覽會（金博會）開幕式的致辭全文：
 
 尊敬的李省長（廣東省人民政府副省長李運）、羅市長（深圳市人民政府副市長、深圳市委金融委員會辦公室主任羅晃浩）、各位領導、各位嘉賓、金融界的各位朋友：
@@ -3004,36 +3056,6 @@ President,
 而且，今年既是第二十屆深圳國際金融博覽會圓滿召開，同樣深港之間也是盛事連連，因為今年是我們國家的APEC（亞太區經濟合作組織）年，香港在十月會承辦財長會議（亞太區經濟合作組織財政部長會議）。十一月，深圳也會舉辦領導人非正式會議。以上盛事一連串的召開更體現我們深港之間的緊密合作。
 
 我也預祝第二十屆深圳國際金融博覽會取得圓滿成功！祝願各位身體健康、事業興旺、萬事如意！謝謝大家！"
-《主題性住戶統計調查第85號報告書》出版,2026-05-27 11:00,2026-05-27 11:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600585.htm,"政府統計處今日（五月二十七日）出版《主題性住戶統計調查第85號報告書》。
-
-該刊物載列於二零二五年七月至十月期間進行的主題性住戶統計調查所得，關於香港人口的吸煙情況的主要結果。
-
-統計調查結果顯示，在二零二五年，約有538 100人有每日吸食傳統煙的習慣，佔全港所有15歲及以上人士的8.5%，而二零二三年的相應百分比為9.1%。習慣每日吸食傳統煙的人士在二零二五年每日平均吸食10.9支傳統煙，而二零二三年的相應數字為12.1支。
-
-若包括有吸食其他煙草或相關產品（如加熱煙、電子煙、雪茄、手捲煙、使用煙斗吸煙、鼻煙／口含煙及水煙）的人士，在二零二五年，約有548 100人有每日吸煙的習慣，佔全港所有15歲及以上人士的8.6%，而二零二三年的相應百分比為9.4%。
-
-其他資料
-
-該項統計調查根據一個以科學方法設計的抽樣系統，成功訪問約10 100個住戶內的目標訪問對象，以代表本港人口的情況。
-
-有關統計調查的詳細結果，以及人口範圍和主要名詞的概念／定義，可參閱該刊物。用戶可在政府統計處網站（www.censtatd.gov.hk/tc/EIndexbySubject.html?pcode=B1130201&scode=453）瀏覽及下載該刊物。
-
-有關統計調查結果的查詢，請聯絡政府統計處社會統計調查組（一）（電話：3863 2622或電郵：thematic@censtatd.gov.hk）。"
-Thematic Household Survey Report No. 85 published,2026-05-27 11:00,2026-05-27 11:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600587.htm,"The Thematic Household Survey Report No. 85 is published by the Census and Statistics Department (C&SD) today (May 27).
-
-This publication contains key findings on Hong Kong population’s pattern of smoking based on the Thematic Household Survey conducted from July to October 2025.
-
-The survey results showed that there were some 538 100 daily conventional cigarette smokers in 2025, accounting for 8.5% of all persons aged 15 and over in Hong Kong, compared with the corresponding percentage of 9.1% in 2023. Daily conventional cigarette smokers consumed on average 10.9 sticks of conventional cigarettes a day in 2025, while the corresponding figure in 2023 was 12.1 sticks.
-
-Including persons who consumed other forms of tobacco or related products (e.g. heated tobacco product, e-cigarette, cigar, hand-rolled cigarette, pipe-smoking, snuff/snus and water pipe), there were some 548 100 daily smokers in 2025, accounting for 8.6% of all persons aged 15 and over in Hong Kong, whereas the corresponding percentage in 2023 was 9.4%.
-
-Other information
-
-The survey successfully enumerated target respondents in some 10 100 households in accordance with a scientific sampling scheme to represent the population of Hong Kong.
-
-Detailed findings of the survey, together with the population coverage and concepts/definitions of key terms, are presented in the publication. Users can browse and download the publication at the website of the C&SD (www.censtatd.gov.hk/en/EIndexbySubject.html?pcode=B1130201&scode=453).
-
-Enquiries about the survey findings can be directed to the Social Surveys Section (1) of the C&SD (Tel: 3863 2622 or email: thematic@censtatd.gov.hk)."
 新田科技城有限公司董事局主席任命,2026-05-27 10:02,2026-05-27 10:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/27/P2026052600631.htm," 政府今日（五月二十七日）公布將於今年上半年成立新田科技城有限公司（新田科技城公司），全力推動新田科技城210公頃創科用地發展。同時，經獲行政長官批准，政府委任查毅超博士為新田科技城公司董事局主席，由二○二六年七月一日起生效，任期三年。
 
  為全力推動新田科技城發展，二零二六至二七年度《財政預算案》公布，政府將於今年內成立專屬公司，並建議注資100億元起始資金，帶動市場資源提速發展，推動開發相關用地。創新科技及工業局將於今年上半年內向財政司司長尋求批准註冊成立一間非法定、由財政司司長法團全資擁有的有限公司，定名為新田科技城有限公司。
@@ -3318,21 +3340,6 @@ If engaged in outdoor work or activities, wear a wide-brimmed hat and light-colo
 Drink plenty of water, and avoid beverages containing caffeine or alcohol.
 
 If you feel sick, consult a doctor right away."
-香港海關於機場偵破兩宗旅客販毒案件（附圖）,2026-05-26 23:41,2026-05-27 00:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600589.htm,"香港海關今日（五月二十六日）在香港國際機場偵破兩宗旅客販運毒品的案件，共檢獲約十一公斤懷疑大麻花及約十八公斤懷疑氯胺酮，估計市值共約八百八十五萬元，並拘捕兩名男子。
-
-首宗案件涉及一名今日從泰國曼谷飛抵本港的六十二歲男旅客。海關人員清關時，在他的寄艙行李內檢獲約十一公斤懷疑大麻花，估計市值共約二百萬元，遂把他拘捕。
-
-第二宗案件涉及一名今日從法國巴黎飛抵本港的五十八歲男旅客。海關人員清關時，在他的寄艙行李內發現約十八公斤懷疑氯胺酮，估計市值共約六百八十五萬元，遂把他拘捕。
-
-首宗案件的被捕人士已被控以一項販運危險藥物罪，案件將於明日（五月二十七日）在西九龍裁判法院提堂，而第二宗案件仍在調查中。
-
-海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。
-
-海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，確保有效打擊跨境販毒活動。
-
-根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 Hong Kong Customs detects two drug trafficking cases involving passengers at airport (with photos),2026-05-26 23:41,2026-05-27 00:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600591.htm,"Hong Kong Customs today (May 26) detected two drug trafficking cases involving passengers at Hong Kong International Airport and seized about 11 kilograms of suspected cannabis buds and 18kg of suspected ketamine, with a total estimated market value of about $8.85 million. Two men were arrested.
 
 The first case involved a 62-year-old male passenger arriving in Hong Kong from Bangkok, Thailand, today. During customs clearance, Customs officers found about 11kg of suspected cannabis buds, with an estimated market of about $2 million, inside his check-in baggage. The man was subsequently arrested.
@@ -3348,6 +3355,21 @@ Customs will continue to apply a risk assessment approach and focus on selecting
 Under the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a serious offence. The maximum penalty upon conviction is a fine of $5 million and life imprisonment.
 
 Members of the public may report any suspected drug trafficking activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account(crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
+香港海關於機場偵破兩宗旅客販毒案件（附圖）,2026-05-26 23:41,2026-05-27 00:00,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600589.htm,"香港海關今日（五月二十六日）在香港國際機場偵破兩宗旅客販運毒品的案件，共檢獲約十一公斤懷疑大麻花及約十八公斤懷疑氯胺酮，估計市值共約八百八十五萬元，並拘捕兩名男子。
+
+首宗案件涉及一名今日從泰國曼谷飛抵本港的六十二歲男旅客。海關人員清關時，在他的寄艙行李內檢獲約十一公斤懷疑大麻花，估計市值共約二百萬元，遂把他拘捕。
+
+第二宗案件涉及一名今日從法國巴黎飛抵本港的五十八歲男旅客。海關人員清關時，在他的寄艙行李內發現約十八公斤懷疑氯胺酮，估計市值共約六百八十五萬元，遂把他拘捕。
+
+首宗案件的被捕人士已被控以一項販運危險藥物罪，案件將於明日（五月二十七日）在西九龍裁判法院提堂，而第二宗案件仍在調查中。
+
+海關會繼續根據情報分析，加強打擊販運毒品活動，同時呼籲市民提高警覺，切勿貪圖金錢利益而參與販毒活動，不要接受任何人士聘請或委託運送受管制物品進出香港，亦切勿於未確定物品屬性的情況下，貿然協助他人運送。
+
+海關會繼續根據風險管理的原則，重點揀選來自高風險地區的旅客作清關檢查，確保有效打擊跨境販毒活動。
+
+根據《危險藥物條例》，販運危險藥物屬嚴重罪行，一經定罪，最高可被判罰款五百萬元及終身監禁。
+
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑販毒活動。"
 FEHD releases fifth batch of gravidtrap indexes for Aedes albopictus in May and stepped up mosquito control work across districts (with photos),2026-05-26 22:41,2026-05-26 23:00,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600768.htm,"The Food and Environmental Hygiene Department (FEHD) today (May 26) released the fifth batch of gravidtrap indexes for Aedes albopictus in May, which includes First Phase Gravidtrap Indexes covering 16 survey areas and Area Gravidtrap Indexes covering 10 survey areas. In response to the rise in gravidtrap indexes in recent months, the FEHD has stepped up mosquito prevention and control work across all districts in Hong Kong.
 
 The Director of Food and Environmental Hygiene, Mr Donald Ng, visited Tai Wai in Sha Tin District this afternoon to inspect the enhanced mosquito prevention and control work in the area, including using drones to identify potential mosquito breeding grounds, conducting fogging operations by large ultra-low volume fogger to eradicate adult mosquitoes, and installing new mosquito traps. He also visited local schools and public housing estates, together with Legislative Council member Hon Chan Hak-kan and some local District Council members. While the First Phase Gravidtrap Index of Tai Wai in May had reached 46 per cent, the latest Area Gravidtrap Index has significantly dropped to 24.2 per cent following intensive mosquito control work. The FEHD will remain vigilant and continue to work closely with relevant government departments and stakeholders to sustain effective mosquito prevention and control work.
@@ -3974,6 +3996,17 @@ Avoid working in poorly ventilated places such as enclosed greenhouses.
 ​The public may visit the CHP'sLD page, theCode of Practice for Prevention of LDand theHousekeeping Guidelines for Cold and Hot Water Systems for Building Managementof the Prevention of LD Committee, and the CHP'srisk-based strategyfor prevention and control of LD.
 
   ​Additionally, as smokers and alcoholics are more susceptible to LD, the Government urgesmembers of the public to quit smoking and avoid drinking. Members of the public may call the DH Integrated Smoking Cessation Hotline at 1833 183, which is answered by registered nurses who provide professional counselling and referral to a wide range of free smoking cessation services. The public may also visit the smoking cessation thematic website (www.livetobaccofree.hk) for more information on smoking cessation. The DH has also developed and promulgated the Alcohol Screening and Brief Intervention tool to primary healthcare service providers to facilitate the early identification and management of at-risk drinkers. For information on alcohol-related harm, please visit the DH'sChange for Health website."
+Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photo),2026-05-26 18:35,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
+
+  The Chief Executive's 2025 Policy Address announced that the Government would support people-oriented scientific research through the Innovation and Technology (I&T) Fund to introduce prostheses built with new research and development technologies. Qiangnao Technology is a leading global enterprise in the field of brain-computer interfaces and is also one of ""Hangzhou's Six Little Dragons"", representing China's breakthrough development in this cutting-edge field. PolyU, meanwhile, has a strong research foundation and international influence in prosthetics and orthotics, rehabilitation sciences and biomedical engineering. With funding support from the I&T Fund, the two sides earlier launched a collaborative project. In the first phase of the programme, 60 amputees in Hong Kong will be provided with the new high-tech prostheses free of charge, together with professional assessment and rehabilitation support services by a PolyU team to help recipients gradually adapt to and master the use of prosthetics, thereby comprehensively improving their daily living abilities and quality of life.
+
+  In his speech, Professor Sun said that today's I&T initiatives respond to the National 15th Five-Year Plan, which calls for the full implementation of the ""AI+"" action plan to empower public well-being through AI. Hong Kong possesses strong research capabilities, with five universities ranked among the world's top 100 and two medical schools in the global top 40. It has a solid foundation in life and health technology, AI, and robotics, and is well positioned to put into practice the principle of technology for the benefit of people. The launch of the programme also embodies the original intent of using technology for good and being people-oriented, bringing cutting-edge technologies into real-world applications, to the lives of citizens in need.
+
+  Mr Han said: ""Over the next two years, with the support of the Hong Kong Special Administrative Region Government, Qiangnao will work with PolyU and partners from all sectors of society to diligently implement the project and provide service support, so that more eligible amputees in Hong Kong can receive high-tech prostheses free of charge. We will also continue to enhance product experience and rehabilitation support services.""
+
+  Professor Teng said, ""Advanced scientific research must ultimately benefit society. The vision for developing people-oriented technology, as outlined in the Chief Executive's Policy Address, aligns perfectly with PolyU's motto, 'To learn and to apply, for the benefit of mankind'. This Programme holds immense significance: Qiangnao brings world-leading core technologies in intelligent bionic prostheses, while PolyU provides local implementation, promotion, and scientific research support. The team will evaluate the effectiveness of the technology based on clinical application scenarios, collect user feedback for timely adjustments and optimisations, and continuously improve the overall user experience. With the support of the I&T Fund, this initiative ensures that cutting-edge technology truly serves public livelihood and benefits society.""
+
+  At the ceremony, amputees who had been fitted with the high-tech prostheses under the programme shared their experience and stories. The high-tech prostheses used in this collaboration do not require any implantation. Through non-invasive brain-computer interface technology, they use the wearer's myoelectric and neural signals to enable natural, precise, and flexible motion control, opening up a new direction for the development of rehabilitation technology."
 Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photos),2026-05-26 18:35,2026-05-26 19:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
 
   The Chief Executive's 2025 Policy Address announced that the Government would support people-oriented scientific research through the Innovation and Technology (I&T) Fund to introduce prostheses built with new research and development technologies. Qiangnao Technology is a leading global enterprise in the field of brain-computer interfaces and is also one of ""Hangzhou's Six Little Dragons"", representing China's breakthrough development in this cutting-edge field. PolyU, meanwhile, has a strong research foundation and international influence in prosthetics and orthotics, rehabilitation sciences and biomedical engineering. With funding support from the I&T Fund, the two sides earlier launched a collaborative project. In the first phase of the programme, 60 amputees in Hong Kong will be provided with the new high-tech prostheses free of charge, together with professional assessment and rehabilitation support services by a PolyU team to help recipients gradually adapt to and master the use of prosthetics, thereby comprehensively improving their daily living abilities and quality of life.
@@ -3996,30 +4029,6 @@ Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology
 滕錦光教授表示：「科學研究最終都要造福社會。行政長官《施政報告》裏提出的惠民科技發展思路，和理大『開物成務勵學利民』的校訓精神完全一致。這個項目意義重大：強腦科技帶來了世界領先的智能仿生義肢核心技術，理大負責提供技術落地推廣與科研保障工作，團隊將結合臨床使用場景檢驗技術成效，收集使用者的意見，及時調整優化，持續改善使用體驗。這項計劃得到了特區政府創科基金的大力支持，讓前沿科技真正服務民生、造福社會。」
 
 在啟動禮上，受惠於計劃而獲安裝智能仿生手及智能仿生腿的人士分享其體驗。這次合作計劃所採用的智能義肢無需進行任何體內植入，透過非侵入式腦機接口技術，利用佩戴者的肌電神經電信號，即可實現自然、精準及靈活的動作控制，為復康科技發展開創嶄新方向。"
-Kick-off Ceremony of People-oriented Technology Programme by Qiangnao Technology and Hong Kong Polytechnic University marks implementation of smart prosthetic technology (with photo),2026-05-26 18:35,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600254.htm,"  The Secretary for Innovation, Technology and Industry, Professor Sun Dong; the Permanent Secretary for Innovation, Technology and Industry, Mr Kevin Choi; and the Commissioner for Innovation and Technology, Mr Ivan Lee, attended the Kick-off Ceremony of the People-oriented Technology Programme by Qiangnao Technology and the Hong Kong Polytechnic University (PolyU) today (May 26) to witness a major milestone in the application of intelligent bionic hands and smart bionic knee joints in Hong Kong, through the collaboration between Qiangnao Technology and PolyU. The ceremony also marked another innovative technological achievement to benefit the public. The Founder and Chief Executive Officer of Qiangnao Technology, Mr Han Bicheng; representative of Qiangnao Technology Ms Sienna Xu; the President of PolyU, Professor Teng Jin-Guang; the Senior Vice President (Research and Innovation) of PolyU, Professor Christopher Chao; and the Henry G Leong Professor in Biomedical Engineering, Chair Professor of Biomedical Engineering of PolyU, Professor Zheng Yongping, also attended the ceremony.
-
-  The Chief Executive's 2025 Policy Address announced that the Government would support people-oriented scientific research through the Innovation and Technology (I&T) Fund to introduce prostheses built with new research and development technologies. Qiangnao Technology is a leading global enterprise in the field of brain-computer interfaces and is also one of ""Hangzhou's Six Little Dragons"", representing China's breakthrough development in this cutting-edge field. PolyU, meanwhile, has a strong research foundation and international influence in prosthetics and orthotics, rehabilitation sciences and biomedical engineering. With funding support from the I&T Fund, the two sides earlier launched a collaborative project. In the first phase of the programme, 60 amputees in Hong Kong will be provided with the new high-tech prostheses free of charge, together with professional assessment and rehabilitation support services by a PolyU team to help recipients gradually adapt to and master the use of prosthetics, thereby comprehensively improving their daily living abilities and quality of life.
-
-  In his speech, Professor Sun said that today's I&T initiatives respond to the National 15th Five-Year Plan, which calls for the full implementation of the ""AI+"" action plan to empower public well-being through AI. Hong Kong possesses strong research capabilities, with five universities ranked among the world's top 100 and two medical schools in the global top 40. It has a solid foundation in life and health technology, AI, and robotics, and is well positioned to put into practice the principle of technology for the benefit of people. The launch of the programme also embodies the original intent of using technology for good and being people-oriented, bringing cutting-edge technologies into real-world applications, to the lives of citizens in need.
-
-  Mr Han said: ""Over the next two years, with the support of the Hong Kong Special Administrative Region Government, Qiangnao will work with PolyU and partners from all sectors of society to diligently implement the project and provide service support, so that more eligible amputees in Hong Kong can receive high-tech prostheses free of charge. We will also continue to enhance product experience and rehabilitation support services.""
-
-  Professor Teng said, ""Advanced scientific research must ultimately benefit society. The vision for developing people-oriented technology, as outlined in the Chief Executive's Policy Address, aligns perfectly with PolyU's motto, 'To learn and to apply, for the benefit of mankind'. This Programme holds immense significance: Qiangnao brings world-leading core technologies in intelligent bionic prostheses, while PolyU provides local implementation, promotion, and scientific research support. The team will evaluate the effectiveness of the technology based on clinical application scenarios, collect user feedback for timely adjustments and optimisations, and continuously improve the overall user experience. With the support of the I&T Fund, this initiative ensures that cutting-edge technology truly serves public livelihood and benefits society.""
-
-  At the ceremony, amputees who had been fitted with the high-tech prostheses under the programme shared their experience and stories. The high-tech prostheses used in this collaboration do not require any implantation. Through non-invasive brain-computer interface technology, they use the wearer's myoelectric and neural signals to enable natural, precise, and flexible motion control, opening up a new direction for the development of rehabilitation technology."
-FSTB and SFC publish consultation conclusions on legislative proposals for regulating virtual asset advisory and management services,2026-05-26 18:30,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600567.htm,"The Financial Services and the Treasury Bureau (FSTB) and the Securities and Futures Commission (SFC) today (May 26) jointly published the consultation conclusions on the legislative proposals for establishing regulatory regimes for virtual asset (VA) advisory and management service providers.
-
-During the one-month public consultation completed in late January this year, 51 submissions were received on the proposed regulatory regimes for VA advisory service providers and VA management service providers. The majority of respondents, including market participants, industry associations, business and professional organisations, expressed clear support for establishing separate licensing regimes for VA advisory and management service providers, which model on the regulatory framework applicable to the conventional securities market. The respondents also generally indicated support for the proposed regulatory scope and exemptions, while suggesting enhancements and seeking clarifications on certain aspects.
-
-Adhering to the ""same activity, same risks, same regulation"" principle, the scopes of the proposed regulatory regimes for VA advisory service providers and VA management service providers will be aligned with that for Type 4 (advising on securities) and Type 9 (asset management) regulated activities under the Securities and Futures Ordinance (Cap. 571), respectively.
-
-The Secretary for Financial Services and the Treasury, Mr Christopher Hui, said, ""The FSTB released in last June the Policy Statement 2.0 on the Development of Digital Assets in Hong Kong, setting out our vision in strengthening risk management and investor protection while promoting responsible financial innovation in the development of Hong Kong as a premier global hub for digital assets. The proposed regulatory regimes for VA advisory and management service providers are integral parts to broaden the coverage of the legal framework for digital assets in Hong Kong. Together with the existing licensing regimes for VA trading platforms and stablecoin issuers, as well as the proposed regimes for VA dealing and custodian service providers, our legal framework will span across the key nodes of the digital asset ecosystem, building a trusted and sustainable system comparable to that of conventional finance, thereby leading us towards the vision set out in the Policy Statement 2.0.""
-
-The Chief Executive Officer of the SFC, Ms Julia Leung, said, ""The conclusion of further consultation marks the final leg of our journey to complete the regulatory framework for digital assets, paving the way for the long-term scaling of our ecosystem. The broad market support demonstrates the strong need for robust and comprehensive regulation. Aligning with the standards for traditional financial services, the new regimes will bolster investor protection while fostering responsible innovation.""
-
-With broad market support, and taking into account the feedback received in the consultations, the FSTB and the SFC are finalising the legislative proposals for the regulatory regimes for VA dealing, custodian, advisory and management service providers, with a target of introducing the relevant bill into the Legislative Council within this year.
-
-The Consultation Conclusions on Legislative Proposal to Regulate Virtual Asset Advisory Service Providers and Virtual Asset Management Service Providers are available on the webpages of the FSTB (www.fstb.gov.hk/fsb/en/publication/consult/doc/VASPVAMSP_consultation_conclusion_e.pdf) and the SFC (apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=EN&refNo=25CP12)."
 財庫局和證監會發表有關規管就虛擬資產提供意見及管理服務的立法建議的諮詢總結,2026-05-26 18:30,2026-05-26 18:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600572.htm,"財經事務及庫務局（財庫局）和證券及期貨事務監察委員會（證監會）今日（五月二十六日）就設立就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者監管制度的立法建議，聯合發表諮詢總結。
 
 為期一個月的公眾諮詢在今年一月底完成，其間就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者的擬議監管制度收到51份意見書，來自市場參與者、行業組織、商會和專業團體等。大部分回應者均明確支持以傳統證券市場的監管制度為藍本，就虛擬資產提供意見的服務提供者及虛擬資產管理服務提供者分別設立監管制度。此外，回應者普遍支持擬議的涵蓋範圍和豁免情況，同時在某些方面提出優化建議及尋求釐清。
@@ -4033,6 +4042,19 @@ The Consultation Conclusions on Legislative Proposal to Regulate Virtual Asset A
 在市場廣泛支持下，財庫局和證監會正參照諮詢所收集到的意見，敲定虛擬資產交易服務、虛擬資產託管服務、就虛擬資產提供意見的服務及虛擬資產管理服務提供者監管制度的立法建議，目標於今年內向立法會提交相關條例草案。
 
 有關規管就虛擬資產提供意見的服務提供者和虛擬資產管理服務提供者的立法建議的諮詢總結，已上載至財庫局（www.fstb.gov.hk/fsb/tc/publication/consult/doc/VASPVAMSP_consultation_conclusion_c.pdf）及證監會（apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=TC&refNo=25CP12）的網頁。"
+FSTB and SFC publish consultation conclusions on legislative proposals for regulating virtual asset advisory and management services,2026-05-26 18:30,2026-05-26 18:45,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600567.htm,"The Financial Services and the Treasury Bureau (FSTB) and the Securities and Futures Commission (SFC) today (May 26) jointly published the consultation conclusions on the legislative proposals for establishing regulatory regimes for virtual asset (VA) advisory and management service providers.
+
+During the one-month public consultation completed in late January this year, 51 submissions were received on the proposed regulatory regimes for VA advisory service providers and VA management service providers. The majority of respondents, including market participants, industry associations, business and professional organisations, expressed clear support for establishing separate licensing regimes for VA advisory and management service providers, which model on the regulatory framework applicable to the conventional securities market. The respondents also generally indicated support for the proposed regulatory scope and exemptions, while suggesting enhancements and seeking clarifications on certain aspects.
+
+Adhering to the ""same activity, same risks, same regulation"" principle, the scopes of the proposed regulatory regimes for VA advisory service providers and VA management service providers will be aligned with that for Type 4 (advising on securities) and Type 9 (asset management) regulated activities under the Securities and Futures Ordinance (Cap. 571), respectively.
+
+The Secretary for Financial Services and the Treasury, Mr Christopher Hui, said, ""The FSTB released in last June the Policy Statement 2.0 on the Development of Digital Assets in Hong Kong, setting out our vision in strengthening risk management and investor protection while promoting responsible financial innovation in the development of Hong Kong as a premier global hub for digital assets. The proposed regulatory regimes for VA advisory and management service providers are integral parts to broaden the coverage of the legal framework for digital assets in Hong Kong. Together with the existing licensing regimes for VA trading platforms and stablecoin issuers, as well as the proposed regimes for VA dealing and custodian service providers, our legal framework will span across the key nodes of the digital asset ecosystem, building a trusted and sustainable system comparable to that of conventional finance, thereby leading us towards the vision set out in the Policy Statement 2.0.""
+
+The Chief Executive Officer of the SFC, Ms Julia Leung, said, ""The conclusion of further consultation marks the final leg of our journey to complete the regulatory framework for digital assets, paving the way for the long-term scaling of our ecosystem. The broad market support demonstrates the strong need for robust and comprehensive regulation. Aligning with the standards for traditional financial services, the new regimes will bolster investor protection while fostering responsible innovation.""
+
+With broad market support, and taking into account the feedback received in the consultations, the FSTB and the SFC are finalising the legislative proposals for the regulatory regimes for VA dealing, custodian, advisory and management service providers, with a target of introducing the relevant bill into the Legislative Council within this year.
+
+The Consultation Conclusions on Legislative Proposal to Regulate Virtual Asset Advisory Service Providers and Virtual Asset Management Service Providers are available on the webpages of the FSTB (www.fstb.gov.hk/fsb/en/publication/consult/doc/VASPVAMSP_consultation_conclusion_e.pdf) and the SFC (apps.sfc.hk/edistributionWeb/api/consultation/conclusion?lang=EN&refNo=25CP12)."
 警務處「安全城市大使計劃委任及嘉許典禮2026」今日舉行（附圖）,2026-05-26 18:09,2026-05-26 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600563.htm,"警務處防止罪案科（防罪科）今日（五月二十六日）舉行「安全城市大使計劃委任及嘉許典禮2026」，委任新一批15位「安全城市大使」，與警方攜手推動防罪工作，並表揚過去一年積極宣揚防罪信息的七間機構。
 
 警務處處長周一鳴致辭時表示，警隊將繼續透過「安全城市‧香港」網站及「安全城市大使」的網絡，讓防罪信息更快送達、更易理解、更貼近市民需要。警隊亦會持續深化智慧警政，透過人工智能整合大數據進行分析和預測，及早識別潛在罪案風險。他又指，警隊會加強與創科企業、社區及各持份者的合作，推動更多人工智能的實際應用，並透過多方協作研發人工智能項目，進一步提升警隊效率及打擊罪案能力。
@@ -4129,61 +4151,6 @@ Fraudulent website
 The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
 
 Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
-民政事務總署開放臨時避暑中心,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600535.htm,"民政事務總署今日（五月二十六日）開放19間社區會堂和社區中心作臨時避暑中心。
-
-臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
-
-如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
-
-臨時避暑中心的地點如下：
-
-香港島：
-———
-中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
-東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區－鴨脷洲利東邨利東社區會堂
-灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘－藍田啟田道71號藍田（西區）社區中心
-深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌荔景山路205號荔景社區會堂
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂
-元朗－天水圍天耀邨天耀社區中心
-
-除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
-兩名入境旅客進口未完稅香煙罪成判囚（附圖）,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600521.htm,"兩名入境旅客因進口未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》，今日（五月二十六日）在西九龍裁判法院分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
-
-海關人員昨日（五月二十五日）在香港國際機場截查兩名分別三十六歲及四十四歲的抵港男旅客，在他們攜帶的個人行李內分別檢獲五萬一千支未完稅香煙，估計市值約二十萬九千元，應課稅值約十六萬九千元，以及檢獲約三萬八千五百支未完稅香煙，估計市值約十五萬八千元，應課稅值約十二萬七千元。該兩名旅客隨即被捕。他們今日分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
-
-海關對判刑表示歡迎，監禁判刑具相當阻嚇作用，並充分反映罪行的嚴重性。
-
-海關提醒市民，根據《應課稅品條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
-
-市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
-Two incoming passengers convicted and jailed for importing duty-not-paid cigarettes (with photos),2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600528.htm,"​Two incoming passengers were sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 respectively by the West Kowloon Magistrates' Courts today (May 26) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
-
-Customs officers intercepted two incoming male passengers, aged 36 and 44, at Hong Kong International Airport yesterday (May 25) and seized 51 000 duty-not-paid cigarettes with an estimated market value of about $209,000 and a duty potential of about $169,000, as well as around 38 500 duty-not-paid cigarettes with an estimated market value of about $158,000 and a duty potential of about $127,000, from their personal baggage respectively. The two passengers were subsequently arrested. They were respectively sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 today.
-
-Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflect the seriousness of the offences.
-
-Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
-
-Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
 HAD opens temporary heat shelters,2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600534.htm,"  The Home Affairs Department is opening 19 community halls/community centres as temporary heat shelters today (May 26).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -4280,75 +4247,58 @@ Tin Yiu Community Centre
 Tin Yiu Estate, Tin Shui Wai
 
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf."
-創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）,2026-05-26 16:20,2026-05-26 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
+民政事務總署開放臨時避暑中心,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600535.htm,"民政事務總署今日（五月二十六日）開放19間社區會堂和社區中心作臨時避暑中心。
 
-尊敬的滕錦光校長（香港理工大學校長）、韓璧丞先生（強腦科技創始人兼首席執行官）、各位嘉賓、各位朋友：
+臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
 
-大家下午好。我很高興出席「強腦科技—香港理工大學惠民科技計劃」啟動禮，與大家一同見證這項別具意義的創科項目正式啟動。
+如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
 
-行政長官在二○二五年《施政報告》中提出支持惠民科研的方針。去年四月，行政長官率團考察杭州科技企業，看到強腦科技示範其智能義肢如何幫助截肢人士重拾生活技能，甚至重新書寫、彈琴等。我當時也在現場，親身感受到科技提升人類生活品質的強大力量，令人鼓舞。我很高興在多方協調下促成了這個「政、產、學、研、用」的創科項目──由特區政府透過創新及科技基金全額資助，並由強腦科技與香港理工大學攜手執行，將全球領先的智能義肢技術引入香港，為本港截肢人士免費配置及應用新科技義肢，幫助他們提升日常活動能力及生活品質。
+臨時避暑中心的地點如下：
 
-強腦科技是「杭州六小龍」之一，是國內乃至全球腦機接口領域的領軍企業，早前已落戶數碼港設立亞太研發基地；而香港理工大學則有在康復治療科學、生物醫學工程方面深耕數十年，擁有世界級的科研團隊和臨床網絡，兩者的合作可謂強強聯手。這項計劃將在未來兩年為本港截肢人士免費配置新科技義肢──透過非侵入式腦機接口技術，無須植入任何體內設備，僅憑佩戴者肌電神經電信號就能夠指揮義肢完成靈活並自然的動作。這不單是一項科技應用，更是一項有溫度、提升市民幸福感的民生工程。
+香港島：
+———
+中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
+東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區－鴨脷洲利東邨利東社區會堂
+灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
 
-今天的創科項目亦響應了國家「十五五」規劃提出要全面實施「人工智能+」行動，以人工智能賦能民生福祉。香港科研實力雄厚，擁有五所世界百強大學及兩間全球前40的醫學院，在生命健康科技、人工智能及機械人技術方面根基深厚，具備足夠條件實踐「科技惠民」的理念。
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘－藍田啟田道71號藍田（西區）社區中心
+深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
 
-特區政府一直以多管齊下的方式推動更多惠及市民的創新科技。我們的國際科研旗艦項目InnoHK創新香港研發平台下設有兩個分別聚焦醫療科技、人工智能與機械人的平台，當中不少科研成果已成功轉化落地；我們亦即將在河套香港園區（河套深港科技創新合作區香港園區）成立生命健康研發院總院，聚焦「人工智能+生命科學」，充分發揮香港在生命健康輔以人工智能的研發優勢。
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌荔景山路205號荔景社區會堂
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂
+元朗－天水圍天耀邨天耀社區中心
 
-各位，科技的誕生來自人類對更美好生活的追求和推動社會進步的渴望。今天這個計劃的啓動，體現了科技向善、以人為本的初衷，讓前沿科技走出實驗室，走進有需要的市民生活當中。我們希望以此為起點，推動更多惠民科研項目在香港落地，讓科技發展的紅利惠及每一位市民。
+除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。"
+兩名入境旅客進口未完稅香煙罪成判囚（附圖）,2026-05-26 17:00,2026-05-26 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600521.htm,"兩名入境旅客因進口未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》，今日（五月二十六日）在西九龍裁判法院分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
 
-前天神舟二十三號勝利升空，展現了國家科技實力的進一步躍升，而當中就有一位來自香港的載荷專家黎家盈博士作為香港首位港產宇航員。我們為國家航天事業的飛速發展感到振奮，也為香港能夠以實際行動親身參與這一偉大進程深受鼓舞。我希望香港全社會能夠以同樣的航天精神緊密對接國家「十五五」規劃，加速建設香港成為國際創新科技中心以及國際高端人才集聚高地。
+海關人員昨日（五月二十五日）在香港國際機場截查兩名分別三十六歲及四十四歲的抵港男旅客，在他們攜帶的個人行李內分別檢獲五萬一千支未完稅香煙，估計市值約二十萬九千元，應課稅值約十六萬九千元，以及檢獲約三萬八千五百支未完稅香煙，估計市值約十五萬八千元，應課稅值約十二萬七千元。該兩名旅客隨即被捕。他們今日分別被判處監禁六個月和罰款一千元，以及監禁五個月和罰款一千元。
 
-我祝願計劃圓滿順利。謝謝大家！"
-鼓勵在新私人發展物業內提供安老院舍院址計劃的優化措施將恆常推行,2026-05-26 16:20,2026-05-26 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600246.htm,"​勞工及福利局（勞福局）今日（五月二十六日）宣布，「鼓勵在新私人發展物業內提供安老院舍院址計劃」（安老院舍鼓勵計劃）的試行優化措施將由六月二十日起恆常推行，計劃下的所有現行安排維持不變。
+海關對判刑表示歡迎，監禁判刑具相當阻嚇作用，並充分反映罪行的嚴重性。
 
-勞福局發言人表示：「試行優化措施獲業界歡迎和支持。政府收到的項目申請由二○二三年優化措施推出前的八宗大幅增至本年三月底25宗，成效顯著。因此，政府會由六月二十日起，將優化措施成為安老院舍鼓勵計劃的恆常措施，以繼續推動市場提供優質安老宿位。我們期望為市場創造有利條件，持續鼓勵私人發展商在其發展項目中興建安老院，以增加本港整體安老宿位供應。」
+海關提醒市民，根據《應課稅品條例》，香煙屬應課稅品。任何人士若進口、處理、管有、售賣或購買私煙，即屬違法，一經定罪，最高可被判罰款二百萬元及監禁七年。
 
-地政總署和社會福利署（社署）將分別更新作業備考及指引，供業界遵循。
+市民可致電海關二十四小時熱線182 8080，或透過舉報罪案專用電郵帳戶（crimereport@customs.gov.hk）或網上表格（eform.cefs.gov.hk/form/ced002）舉報懷疑私煙活動。"
+Two incoming passengers convicted and jailed for importing duty-not-paid cigarettes (with photos),2026-05-26 17:00,2026-05-26 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600528.htm,"​Two incoming passengers were sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 respectively by the West Kowloon Magistrates' Courts today (May 26) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO).
 
-為結合市場力量發展優質安老院，滿足社會對安老宿位的殷切需求，政府二○○三年推出安老院舍鼓勵計劃，容許發展商在進行契約修訂、換地或私人協約方式批地時，在遵守特定契約條款和獲得社署支持的前提下，豁免繳付合資格安老院的地價。
+Customs officers intercepted two incoming male passengers, aged 36 and 44, at Hong Kong International Airport yesterday (May 25) and seized 51 000 duty-not-paid cigarettes with an estimated market value of about $209,000 and a duty potential of about $169,000, as well as around 38 500 duty-not-paid cigarettes with an estimated market value of about $158,000 and a duty potential of about $127,000, from their personal baggage respectively. The two passengers were subsequently arrested. They were respectively sentenced to six months' imprisonment with a fine of $1,000, and five months' imprisonment with a fine of $1,000 today.
 
-政府於二○二三年六月推出為期三年的試行優化措施，包括：
+Customs welcomes the sentences. The custodial sentences have imposed a considerable deterrent effect and reflect the seriousness of the offences.
 
-（一）放寬每幅用地獲豁免地價的合資格安老院舍數目和總樓面面積上限，由只限一家不超過5 400平方米的安老院舍，改為數目可多於一家，總樓面面積上限放寬至12 000平方米或按地契訂明最高樓面面積的10%，以較高者為準；以及
+Customs reminds members of the public that under the DCO, cigarettes are dutiable goods to which the DCO applies. Any person who imports, deals with, possesses, sells or buys illicit cigarettes commits an offence. The maximum penalty upon conviction is a fine of $2 million and imprisonment for seven years.
 
-（二）在計算整個項目的總樓面面積時，私人發展項目內合資格安老院舍的總樓面面積將獲豁免，不會計入地契內整個項目的總樓面面積，讓發展商可利用原樓面面積作其他用途。
-
-相關措施旨在增加誘因鼓勵私人發展商在其新建的發展項目興建安老院。
-
-根據計劃，發展商須承擔興建安老院的費用，院舍在落成後屬發展商所有。只要有關物業作安老院用途，發展商可把每家安老院作整體出租或出售，或自行或委聘機構在物業內營辦安老院，收費可按市場情況自行釐定。"
-創新科技及工業局局長於「強腦科技—香港理工大學惠民科技計劃」啟動禮致辭（只有中文）（附圖）,2026-05-26 16:20,2026-05-26 17:45,Chi,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600470.htm,"以下是創新科技及工業局局長孫東教授今日（五月二十六日）在「強腦科技—香港理工大學惠民科技計劃」啟動禮的致辭：
-
-尊敬的滕錦光校長（香港理工大學校長）、韓璧丞先生（強腦科技創始人兼首席執行官）、各位嘉賓、各位朋友：
-
-大家下午好。我很高興出席「強腦科技—香港理工大學惠民科技計劃」啟動禮，與大家一同見證這項別具意義的創科項目正式啟動。
-
-行政長官在二○二五年《施政報告》中提出支持惠民科研的方針。去年四月，行政長官率團考察杭州科技企業，看到強腦科技示範其智能義肢如何幫助截肢人士重拾生活技能，甚至重新書寫、彈琴等。我當時也在現場，親身感受到科技提升人類生活品質的強大力量，令人鼓舞。我很高興在多方協調下促成了這個「政、產、學、研、用」的創科項目──由特區政府透過創新及科技基金全額資助，並由強腦科技與香港理工大學攜手執行，將全球領先的智能義肢技術引入香港，為本港截肢人士免費配置及應用新科技義肢，幫助他們提升日常活動能力及生活品質。
-
-強腦科技是「杭州六小龍」之一，是國內乃至全球腦機接口領域的領軍企業，早前已落戶數碼港設立亞太研發基地；而香港理工大學則有在康復治療科學、生物醫學工程方面深耕數十年，擁有世界級的科研團隊和臨床網絡，兩者的合作可謂強強聯手。這項計劃將在未來兩年為本港截肢人士免費配置新科技義肢──透過非侵入式腦機接口技術，無須植入任何體內設備，僅憑佩戴者肌電神經電信號就能夠指揮義肢完成靈活並自然的動作。這不單是一項科技應用，更是一項有溫度、提升市民幸福感的民生工程。
-
-今天的創科項目亦響應了國家「十五五」規劃提出要全面實施「人工智能+」行動，以人工智能賦能民生福祉。香港科研實力雄厚，擁有五所世界百強大學及兩間全球前40的醫學院，在生命健康科技、人工智能及機械人技術方面根基深厚，具備足夠條件實踐「科技惠民」的理念。
-
-特區政府一直以多管齊下的方式推動更多惠及市民的創新科技。我們的國際科研旗艦項目InnoHK創新香港研發平台下設有兩個分別聚焦醫療科技、人工智能與機械人的平台，當中不少科研成果已成功轉化落地；我們亦即將在河套香港園區（河套深港科技創新合作區香港園區）成立生命健康研發院總院，聚焦「人工智能+生命科學」，充分發揮香港在生命健康輔以人工智能的研發優勢。
-
-各位，科技的誕生來自人類對更美好生活的追求和推動社會進步的渴望。今天這個計劃的啓動，體現了科技向善、以人為本的初衷，讓前沿科技走出實驗室，走進有需要的市民生活當中。我們希望以此為起點，推動更多惠民科研項目在香港落地，讓科技發展的紅利惠及每一位市民。
-
-前天神舟二十三號勝利升空，展現了國家科技實力的進一步躍升，而當中就有一位來自香港的載荷專家黎家盈博士作為香港首位港產宇航員。我們為國家航天事業的飛速發展感到振奮，也為香港能夠以實際行動親身參與這一偉大進程深受鼓舞。我希望香港全社會能夠以同樣的航天精神緊密對接國家「十五五」規劃，加速建設香港成為國際創新科技中心以及國際高端人才集聚高地。
-
-我祝願計劃圓滿順利。謝謝大家！"
-Enhancement measures under Incentive Scheme to Encourage Provision of Residential Care Home for the Elderly Premises in New Private Developments to be made permanent,2026-05-26 16:20,2026-05-26 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202605/26/P2026052600249.htm,"​The Labour and Welfare Bureau (LWB) announced today (May 26) that the pilot enhancement measures of the Incentive Scheme to Encourage Provision of Residential Care Home for the Elderly (RCHE) Premises in New Private Developments (RCHE Incentive Scheme) will be made permanent starting from June 20. All existing arrangements of the Scheme will remain unchanged.
-
-A spokesperson for the LWB said, ""The pilot enhancement measures have been welcomed and supported by the industry. The number of applications received by the Government has significantly increased from eight before the enhancement measures were introduced in 2023 to 25 by the end of March this year, achieving remarkable results. In view of this, the Government will make the enhancement measures permanent under the RCHE Incentive Scheme starting from June 20 to keep on driving the market to provide high-quality residential care service places. We hope to create favourable conditions for the market and continue to encourage private developers to construct RCHEs in their development projects, thereby increasing the overall supply of elderly residential care service places in Hong Kong.""
-
-The Lands Department and Social Welfare Department (SWD) will update their Practice Note and Guidance Note respectively to facilitate the industry's compliance.
-
-To leverage market forces in developing high-quality RCHEs to meet the community's acute demand for elderly residential care service places, the Government launched the RCHE Incentive Scheme in 2003, allowing developers to be exempted from payment of land premiums for eligible RCHEs when undertaking lease modifications, land exchanges or private treaty grants, on condition that they comply with specific lease conditions and obtain support from the SWD.
-
-  In June 2023, the Government introduced the three-year pilot enhancement measures, including:
-
-(a) relaxing the number, and maximum total gross floor area (GFA), of RCHE premises eligible for premium payment exemption in each site from one RCHE premises not exceeding 5 400 square metres to more than one RCHE premises with maximum total GFA of 12 000 sq m or 10 per cent of the total GFA permissible under lease, whichever is the greater; and
-
-(b) when calculating the total GFA of the entire project, the total GFA of the eligible RCHE premises in the private development project will be exempted from being counted in the total GFA of the entire project under lease, thus enabling developers to use the original permissible GFA for other purposes.
-
-  The measures concerned aim at enhancing incentives for private developers to build RCHEs in their new development projects.
-
-  According to the Scheme, developers are required to bear the construction cost of the RCHE premises which will be owned by the developers upon completion. As long as the premises are to be used as RCHEs, developers may lease or sell each RCHE as one whole unit, or operate the RCHEs on the premises by themselves or by engaging an organisation whereby they may set the fees on their own with regard to the market situation."
+Members of the public may report any suspected illicit cigarette activities to Customs' 24-hour hotline 182 8080 or its dedicated crime-reporting email account (crimereport@customs.gov.hk) or online form (eform.cefs.gov.hk/form/ced002)."
