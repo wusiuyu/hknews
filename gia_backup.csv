@@ -1,17 +1,6 @@
 title,date,scrape_time,section,source,url,news_content
 港匯指數,2026-06-04 16:00,2026-06-04 16:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400213.htm,二○二六年六月四日（星期四）的港幣匯率指數為一百零一點五（和昨日指數比較上升零點一）。
 Effective Exchange Rate Index,2026-06-04 16:00,2026-06-04 16:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400212.htm,"The effective exchange rate index for the Hong Kong dollar on Thursday, June 4, 2026 is 101.5 (up 0.1 against yesterday's index)."
-Inspection of aquatic products imported from Japan,2026-06-04 15:45,2026-06-04 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400522.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
-
-  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
-
-  From noon on June 3 to noon today (June 4), the CFS conducted tests on the radiological levels of 122 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
-
-  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
-
-  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
-
-  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 232 734 samples of food imported from Japan (including 146 431 samples of aquatic and related products, seaweeds and sea salt) and 50 390 samples of local catch respectively. All the samples passed the tests."
 日本進口水產的檢測情況,2026-06-04 15:45,2026-06-04 16:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400521.htm,"因應日本政府單方面決定把福島核電站核污水排放大海，食物環境衞生署署長已發出《食物安全命令》，禁止源自日本10（都）縣的水產、海鹽和海藻食品進口本港，受禁（都）縣包括東京、福島、茨城、宮城、千葉、群馬、栃木、新潟、長野和埼玉。
 
 至於其他未有被禁止輸入香港的日本水產、海鹽和海藻，為確保食物安全，食物環境衞生署轄下食物安全中心（食安中心）正全面進行輻射水平測試；在確認相關產品沒有超出輻射水平的情況下，才放行於市場供應。
@@ -23,6 +12,42 @@ Inspection of aquatic products imported from Japan,2026-06-04 15:45,2026-06-04 1
 香港天文台亦已加強監測本港水域的環境輻射水平。至目前為止，並沒有發現異常情況。詳情可參閱香港天文台的網頁（www.hko.gov.hk/tc/radiation/monitoring/seawater.html）。
 
 由二○二三年八月二十四日起至今日中午，食安中心及漁護署分別檢測了共232 734個日本進口食物樣本（包括146 431個水產及其製品、海藻及海鹽樣本）及共50 390個本地漁產品樣本作輻射水平檢測，全部樣本檢測合格。"
+Inspection of aquatic products imported from Japan,2026-06-04 15:45,2026-06-04 16:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400522.htm,"  In response to the Japanese Government's plan to discharge nuclear-contaminated water at the Fukushima Nuclear Power Station, the Director of Food and Environmental Hygiene issued a Food Safety Order which prohibits all aquatic products, sea salt and seaweeds originating from the 10 metropolis/prefectures, namely Tokyo, Fukushima, Ibaraki, Miyagi, Chiba, Gunma, Tochigi, Niigata, Nagano and Saitama, from being imported into and supplied in Hong Kong.
+
+  For other Japanese aquatic products, sea salt and seaweeds that are not prohibited from being imported into Hong Kong, the Centre for Food Safety (CFS) of the Food and Environmental Hygiene Department is conducting comprehensive radiological tests to verify that the radiation levels of these products do not exceed the guideline levels before they are allowed to be supplied in the market.
+
+  From noon on June 3 to noon today (June 4), the CFS conducted tests on the radiological levels of 122 food samples imported from Japan, which were of the ""aquatic and related products, seaweeds and sea salt"" category. No sample was found to have exceeded the safety limit. Details can be found on the CFS's thematic website titled ""Control Measures on Foods Imported from Japan"" (www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fc_01_30_Nuclear_Event_and_Food_Safety.html).
+
+  In parallel, the Agriculture, Fisheries and Conservation Department (AFCD) has also tested 50 samples of local catch for radiological levels. All the samples passed the tests. Details can be found on the AFCD's website (www.afcd.gov.hk/english/fisheries/Radiological_testing/Radiological_Test.html).
+
+  The Hong Kong Observatory (HKO) has also enhanced the environmental monitoring of the local waters. No anomaly has been detected so far. For details, please refer to the HKO's website (www.hko.gov.hk/en/radiation/monitoring/seawater.html).
+
+  From August 24, 2023, to noon today, the CFS and the AFCD have conducted tests on the radiological levels of 232 734 samples of food imported from Japan (including 146 431 samples of aquatic and related products, seaweeds and sea salt) and 50 390 samples of local catch respectively. All the samples passed the tests."
+立法會：運輸及物流局副局長就「推動香港發展海洋經濟」議員議案總結發言（只有中文）,2026-06-04 15:38,2026-06-04 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400497.htm,"​以下是運輸及物流局副局長廖振新今日（六月四日）在立法會會議上就范駿華議員動議的「推動香港發展海洋經濟」議案的總結發言：
+
+主席：
+
+再次感謝范駿華議員提出動議，以及何俊賢議員及林偉江議員提出修正案，亦衷心感謝40多位議員提出的寶貴意見。海洋經濟覆蓋極廣，剛才環境及生態局副局長和文化體育及旅遊局副局長已就其負責範疇作了回應。接下來，我會聚焦回應與運輸及物流局政策範疇相關的政策措施，並綜合回應議員在辯論期間提出的關注及意見。
+
+香港在推動航運高質量發展上，確實具備多項其他航運中心難以複製的核心優勢。首先是高度國際化的制度環境，香港實行雙語普通法制度，法律體系完善透明，與國際航運社區全面接軌，加上資金、資訊及人員自由流動，使香港成為全球航運企業理想的營商地點。此外，香港作為全球三大國際金融中心之一，為船東提供成熟且多元的資本市場，尤其在支持航運業綠色轉型方面，具備無可替代的資本優勢。
+
+更重要的是，在「一國兩制」的獨特優勢下，香港既背靠國家龐大的市場與產業體系，同時保持高度對外開放，完美發揮「超級聯繫人」及「超級增值人」的雙重功能。作為國家唯一「國內境外」的國際航運中心和自由港，香港可發揮重要的國家戰略功能，在當前地緣政治局勢充滿不確定性的環境下，既能有效保障企業資產與供應鏈的安全，亦能為國家提供一個制度穩定、運作高效、與國際接軌的資金及物流樞紐，支持國家在全球供應鏈中的韌性與安全性，為實現海洋強國建設貢獻香港力量。
+
+在國家《十五五規劃綱要》中，中央明確支持香港鞏固提升國際航運中心地位，運輸及物流局正全力對接國家戰略，推動香港發展成為高端、智慧與綠色的全球航運之都。就議員提出的多項意見，我們認同高質量的航運樞紐功能有助推動海洋經濟發展。為此，我們正採取「提升港口競爭力」與「完善高增值海運服務生態圈」雙核心策略，全力推進推動國際航運中心建設。
+
+在港口發展方面，我們正致力推動港口由「量」的提升邁向「價值」的創造。政府正積極發展「鐵海陸江」的立體多式聯運，開拓內陸腹地貨源，並全力聚焦冷鏈物流，以最大化香港港口的競爭優勢。與此同時，我們將持續推動大灣區港口協作，錯位發展，實現互利共贏，共建粵港澳大灣區世界級港口群，從而全面提升香港在全球航運格局中的影響力與整體競爭力。
+
+在完善高增值海運服務生態圈方面，特區政府正持續優化稅務及制度安排，積極吸引更多船舶租賃、海事保險、航運商業主導人及大宗商品貿易商落戶香港，並進一步鞏固香港作為國際海事仲裁中心的地位。同時，我們正推進船舶註冊制度改革，引入更具彈性的註冊安排，以全面提升香港船旗的國際吸引力與競爭力。
+
+不論是港口升級或是高端服務轉型，充足的人才是不可或缺。我們持續優化「海運及空運人才培訓基金」，加強海事人才培育，為年青一代提供多元的實習與在職培訓機會，確保基金能夠配合及支援整個航運業由航海以至高增值海運行業的專業發展。因應行業趨勢，我們更聚焦培育具備綠色船用燃料操作、海事專業服務等人才，為香港國際航運中心的長遠發展提供堅實支撐。
+
+基金在二○二四年完成全面評估在吸引人才和推動行業人力發展方面的影響和成效，並根據檢討的結果提出建議及作出跟進。例如，我們已在二○二五年分階段優化相關的計劃的資助範圍及提高資助金額，以提升基金在培養香港海運人才方面的效率、靈活性和精準度，以支援整個航運業由航海以至高增值海運行業的專業發展。
+
+就推進粵港澳大灣區遊艇自由行，尤其是促進「港艇北上」及「北艇南下」方面，粵港兩地就有關的準備工作已取得積極進展，包括在廣東省指定口岸辦理港艇北上的手續及相關安排，並將於適當時候推出一系列便利措施。政府會不斷檢視並優化便利措施，包括設立遊艇動態監察系統及訪港遊艇錨泊位、提升電子業務系統一站式向海事處、入境事務處和衞生署提交所需文件，及授權內地相關機構提供短期香港水域本地交通培訓課程及考試。政府會與內地及香港相關單位保持緊密合作，為本地遊艇經濟的發展構建一個健康、可持續且具競爭力的環境。政府有關當局及業界亦會保持緊密聯繫，共同探討如何把握契機，從硬件及軟件多方面加強配套，推動旅遊及產業的發展。
+
+主席，運輸及物流局會繼續透過多管齊下的措施，緊扣國家規劃，推動航運、金融與貿易深度聯動，加快構建面向未來的現代航運體系，以高質量的航運業協同各相關政策局的政策措施，賦能海洋經濟發展。
+
+主席，本人謹此陳辭。多謝主席。"
 勞工處聯同食物環境衞生署推廣預防工作時中暑及預先訂立惡劣天氣及極端情況下的工作安排（附圖）,2026-06-04 15:38,2026-06-04 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400315.htm,"勞工處今日（六月四日）聯同食物環境衞生署代表到訪筲箕灣一個公眾垃圾收集站，向前線清潔工友派發清涼用品，推廣《預防工作時中暑指引》（指引）及工作暑熱警告生效期間的預防措施，以提升他們的預防中暑意識，並呼籲各僱主及僱員預先訂立惡劣天氣及極端情況下的工作安排。
 
 勞工處副處長（職業安全及健康）馮浩賢聯同食物環境衞生署副署長（環境衞生）姚繼卓，向前線清潔工友送上消暑用品，並提醒他們在夏季高溫環境下工作時，必須採取適當措施預防中暑。馮浩賢及姚繼卓亦視察了站內為前線工人所設置的福利及防暑設施。該垃圾收集站於去年完成翻新，設有更衣及個人貯物空間、員工休息及用膳設施，並提供空氣調節系統、冷熱水飲水機、微波爐、雪櫃及電風扇等設備，為前線員工提供合適的休息環境。此外，馮浩賢及姚繼卓亦深入了解為前線清潔工人提供的各項防護裝備，包括具備更佳排汗、透氣及反光功能的新款工作制服、便攜式掛腰風扇、防曬帽、具備調節溫度功能的新款雨衣，以及採用人體工學設計並具良好透氣性的新款工鞋，以進一步提升工作安全。
@@ -49,31 +74,6 @@ LD works with FEHD to promote prevention of heat stroke at work and prior work a
   In addition, Mr Fung appealed to the employers and employees to make prior work arrangements in times of adverse weather and extreme conditions by taking reference to the ""Code of Practice in Times of Adverse Weather and 'Extreme Conditions'"" (CoP) issued by the LD.
 
   For detailed information of the GN and other heatstroke prevention measures, employers and employees can visit the dedicated webpage launched by the LD at www.labour.gov.hk/eng/news/prevention_of_heat_stroke_at_work.htm or the Occupational Safety and Health Council at www.noheatstress.hk. The LD's latest revised CoP can be downloaded from the department's webpage www.labour.gov.hk/eng/public/wcp/Rainstorm.pdf."
-立法會：運輸及物流局副局長就「推動香港發展海洋經濟」議員議案總結發言（只有中文）,2026-06-04 15:38,2026-06-04 15:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400497.htm,"​以下是運輸及物流局副局長廖振新今日（六月四日）在立法會會議上就范駿華議員動議的「推動香港發展海洋經濟」議案的總結發言：
-
-主席：
-
-再次感謝范駿華議員提出動議，以及何俊賢議員及林偉江議員提出修正案，亦衷心感謝40多位議員提出的寶貴意見。海洋經濟覆蓋極廣，剛才環境及生態局副局長和文化體育及旅遊局副局長已就其負責範疇作了回應。接下來，我會聚焦回應與運輸及物流局政策範疇相關的政策措施，並綜合回應議員在辯論期間提出的關注及意見。
-
-香港在推動航運高質量發展上，確實具備多項其他航運中心難以複製的核心優勢。首先是高度國際化的制度環境，香港實行雙語普通法制度，法律體系完善透明，與國際航運社區全面接軌，加上資金、資訊及人員自由流動，使香港成為全球航運企業理想的營商地點。此外，香港作為全球三大國際金融中心之一，為船東提供成熟且多元的資本市場，尤其在支持航運業綠色轉型方面，具備無可替代的資本優勢。
-
-更重要的是，在「一國兩制」的獨特優勢下，香港既背靠國家龐大的市場與產業體系，同時保持高度對外開放，完美發揮「超級聯繫人」及「超級增值人」的雙重功能。作為國家唯一「國內境外」的國際航運中心和自由港，香港可發揮重要的國家戰略功能，在當前地緣政治局勢充滿不確定性的環境下，既能有效保障企業資產與供應鏈的安全，亦能為國家提供一個制度穩定、運作高效、與國際接軌的資金及物流樞紐，支持國家在全球供應鏈中的韌性與安全性，為實現海洋強國建設貢獻香港力量。
-
-在國家《十五五規劃綱要》中，中央明確支持香港鞏固提升國際航運中心地位，運輸及物流局正全力對接國家戰略，推動香港發展成為高端、智慧與綠色的全球航運之都。就議員提出的多項意見，我們認同高質量的航運樞紐功能有助推動海洋經濟發展。為此，我們正採取「提升港口競爭力」與「完善高增值海運服務生態圈」雙核心策略，全力推進推動國際航運中心建設。
-
-在港口發展方面，我們正致力推動港口由「量」的提升邁向「價值」的創造。政府正積極發展「鐵海陸江」的立體多式聯運，開拓內陸腹地貨源，並全力聚焦冷鏈物流，以最大化香港港口的競爭優勢。與此同時，我們將持續推動大灣區港口協作，錯位發展，實現互利共贏，共建粵港澳大灣區世界級港口群，從而全面提升香港在全球航運格局中的影響力與整體競爭力。
-
-在完善高增值海運服務生態圈方面，特區政府正持續優化稅務及制度安排，積極吸引更多船舶租賃、海事保險、航運商業主導人及大宗商品貿易商落戶香港，並進一步鞏固香港作為國際海事仲裁中心的地位。同時，我們正推進船舶註冊制度改革，引入更具彈性的註冊安排，以全面提升香港船旗的國際吸引力與競爭力。
-
-不論是港口升級或是高端服務轉型，充足的人才是不可或缺。我們持續優化「海運及空運人才培訓基金」，加強海事人才培育，為年青一代提供多元的實習與在職培訓機會，確保基金能夠配合及支援整個航運業由航海以至高增值海運行業的專業發展。因應行業趨勢，我們更聚焦培育具備綠色船用燃料操作、海事專業服務等人才，為香港國際航運中心的長遠發展提供堅實支撐。
-
-基金在二○二四年完成全面評估在吸引人才和推動行業人力發展方面的影響和成效，並根據檢討的結果提出建議及作出跟進。例如，我們已在二○二五年分階段優化相關的計劃的資助範圍及提高資助金額，以提升基金在培養香港海運人才方面的效率、靈活性和精準度，以支援整個航運業由航海以至高增值海運行業的專業發展。
-
-就推進粵港澳大灣區遊艇自由行，尤其是促進「港艇北上」及「北艇南下」方面，粵港兩地就有關的準備工作已取得積極進展，包括在廣東省指定口岸辦理港艇北上的手續及相關安排，並將於適當時候推出一系列便利措施。政府會不斷檢視並優化便利措施，包括設立遊艇動態監察系統及訪港遊艇錨泊位、提升電子業務系統一站式向海事處、入境事務處和衞生署提交所需文件，及授權內地相關機構提供短期香港水域本地交通培訓課程及考試。政府會與內地及香港相關單位保持緊密合作，為本地遊艇經濟的發展構建一個健康、可持續且具競爭力的環境。政府有關當局及業界亦會保持緊密聯繫，共同探討如何把握契機，從硬件及軟件多方面加強配套，推動旅遊及產業的發展。
-
-主席，運輸及物流局會繼續透過多管齊下的措施，緊扣國家規劃，推動航運、金融與貿易深度聯動，加快構建面向未來的現代航運體系，以高質量的航運業協同各相關政策局的政策措施，賦能海洋經濟發展。
-
-主席，本人謹此陳辭。多謝主席。"
 一名入境旅客進口未完稅香煙罪成判囚（附圖）,2026-06-04 15:00,2026-06-04 15:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400483.htm,"一名入境旅客因進口未完稅香煙及未有向海關人員作出申報，違反《應課稅品條例》，今日（六月四日）在西九龍裁判法院被判處監禁七個月和罰款一千元。
 
 海關人員昨日（六月三日）在香港國際機場截查一名六十五歲抵港男旅客，在其個人行李內檢獲三萬五千支未完稅香煙，估計市值約十七萬五千元，應課稅值約十一萬六千元。該名旅客隨即被捕。
@@ -176,44 +176,6 @@ LD reminds employers and employees to take heat stroke preventive measures in ti
   Employees must also follow instructions to rest on time. Whenever there are any symptoms of heat-related illnesses, such as headache, dizziness, thirst, and nausea, they should rest in a cool and shady place, drink water, and inform employers/supervisors to take appropriate action immediately.
   
   The LD issued the ""Guidance Notes on Prevention of Heat Stroke at Work"", detailing the various risk factors that should be considered when conducting heat stress risk assessments and recommending corresponding control measures for identified risk factors for employers' and employees' reference. For the Heat Stress at Work Warning and related guidelines, please refer to the department's thematic webpage: www.labour.gov.hk/eng/news/prevention_of_heat_stroke_at_work.htm."
-DH reminds public to take precautions against heat-related illnesses during very hot weather,2026-06-04 06:46,2026-06-04 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400011.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (June 4) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke, during very hot weather.
-
-In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
-
-
-Hydrate in a timely manner to prevent dehydration;
-Wear light-coloured, loose-fitting and breathable clothing to minimise heat absorption and facilitate perspiration and heat dissipation;
-Keep indoor areas well ventilated and maintain appropriate temperature and humidity, e.g. by opening windows or using a fan or air-conditioning;
-Avoid strenuous exercise and prolonged activities such as hiking or trekking;
-Arrange outdoor activities in the morning or the late afternoon, if possible, and bring enough water; and
-Avoid beverages containing caffeine, such as coffee and tea, as well as alcoholic beverages, which may speed up water loss through the urinary system.
-
-
-​In addition, infants and children, the elderly, pregnant women, individuals with chronic illnesses such as heart disease or high blood pressure, overweight people and outdoor/manual workers are more susceptible to heat stroke. These groups should pay special attention to the following:
-
-
-Infants and young children: Avoid going outside when the temperature is high. If they must go outside, adults should ensure they stay in places with moderate temperatures and good ventilation or air-conditioning. Infants and young children should never be left unattended in a confined space such as a vehicle;
-The elderly, pregnant women, individuals with chronic illnesses and overweight people: Pay close attention to health conditions and seek help as soon as possible if experiencing any abnormalities in health indicators such as blood pressure, heart rate, etc or if there are fluctuations in health conditions. Avoid going out when the temperature is high. Make sure there is good ventilation, or turn on a fan or air-conditioner to keep an appropriate temperature indoors. High temperatures can also worsen the condition of people with chronic illnesses (such as cardiovascular and respiratory diseases). Therefore, they should have an ample supply of their usual medication and keep in contact with family members, neighbours and the community. People should seek immediate help if they feel unwell.
-Outdoor/manual workers: Reschedule work to cooler hours as far as feasible. If working in a hot environment is unavoidable, provide shade where practicable and use ventilation and heat dissipation equipment. Once work has begun, gradually adjust the pace of work and take breaks in the shade to regain strength.
-
-
-​The DH reminded the public that heat stroke is one of the most common health risks in hot weather. Over the past five years, there have been over 200 hospital admissions due to heat stroke each year in Hong Kong, with two to five fatal cases occurring mainly during the summer months from May to September. Vulnerable groups are more susceptible to heat stroke. Symptoms include dizziness, headache, nausea, shortness of breath or confusion. In severe cases, patients may suffer from convulsions or become unconscious, which can be life-threatening if they are not cooled down and resuscitated in a timely manner.
-
-Members of the public are also advised to pay attention to the latest weather, as well as the real-time and forecasted ultraviolet (UV) index released by the Hong Kong Observatory (HKO). When the UV index is high (6 or above), the public should note the following:
-
-
-Avoid direct sunlight exposure to the skin and the eyes;
-Apply broad-spectrum, water-resistant sunscreen liberally, with a sun protection factor (SPF) of at least 30 or higher, when participating in outdoor activities. Reapply every two hours if staying outdoors for long periods, or after swimming, sweating or towelling off;
-While using DEET-containing insect repellents for personal protection against mosquito-borne diseases, apply sunscreen before insect repellent;
-Seek shade;
-Wear UV-blocking sunglasses;
-Wear loose-fitting clothing with long-sleeves; and
-Wear a wide-brimmed hat or use an umbrella.
-
-
-​If symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
-
-​For more health information, the public may visit theCHP's heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast,UV Indexand weather information forhiking and mountaineering; andpress releasesof the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
 天氣酷熱　衞生署提醒市民預防高溫引發的疾病,2026-06-04 06:46,2026-06-04 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400009.htm,"天氣酷熱，衞生署衞生防護中心（中心）今日（六月四日）提醒市民，應採取適當措施預防高溫引發的疾病，例如熱痙攣、熱衰竭和中暑。
 
 在高溫環境下，大量出汗及散熱困難，均會導致身體不勝負荷，市民應採取以下預防措施：
@@ -252,6 +214,44 @@ Wear a wide-brimmed hat or use an umbrella.
 若出現頭暈、頭痛、噁心、氣促、神志不清等病徵，應立刻休息和求助，並盡快求醫。
 
 有關更多健康資訊，可參閱衞生防護中心中暑專頁、紫外線專頁；天文台「打電話問天氣」（1878 200）、最新天氣報告及預報、紫外線指​數、遠足及攀山天氣資訊；及勞工處於工作暑熱警告生效期間，對戶外工作的僱員和其僱主發布有關預防中暑措施的新聞公報。"
+DH reminds public to take precautions against heat-related illnesses during very hot weather,2026-06-04 06:46,2026-06-04 07:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400011.htm,"The Centre for Health Protection (CHP) of the Department of Health (DH) today (June 4) reminded members of the public to take appropriate precautions against heat-related illnesses, such as heat cramps, heat exhaustion and heat stroke, during very hot weather.
+
+In a high-temperature environment, excessive sweating and difficulty in heat dissipation can cause stress to the body. Members of the public should take the following precautions:
+
+
+Hydrate in a timely manner to prevent dehydration;
+Wear light-coloured, loose-fitting and breathable clothing to minimise heat absorption and facilitate perspiration and heat dissipation;
+Keep indoor areas well ventilated and maintain appropriate temperature and humidity, e.g. by opening windows or using a fan or air-conditioning;
+Avoid strenuous exercise and prolonged activities such as hiking or trekking;
+Arrange outdoor activities in the morning or the late afternoon, if possible, and bring enough water; and
+Avoid beverages containing caffeine, such as coffee and tea, as well as alcoholic beverages, which may speed up water loss through the urinary system.
+
+
+​In addition, infants and children, the elderly, pregnant women, individuals with chronic illnesses such as heart disease or high blood pressure, overweight people and outdoor/manual workers are more susceptible to heat stroke. These groups should pay special attention to the following:
+
+
+Infants and young children: Avoid going outside when the temperature is high. If they must go outside, adults should ensure they stay in places with moderate temperatures and good ventilation or air-conditioning. Infants and young children should never be left unattended in a confined space such as a vehicle;
+The elderly, pregnant women, individuals with chronic illnesses and overweight people: Pay close attention to health conditions and seek help as soon as possible if experiencing any abnormalities in health indicators such as blood pressure, heart rate, etc or if there are fluctuations in health conditions. Avoid going out when the temperature is high. Make sure there is good ventilation, or turn on a fan or air-conditioner to keep an appropriate temperature indoors. High temperatures can also worsen the condition of people with chronic illnesses (such as cardiovascular and respiratory diseases). Therefore, they should have an ample supply of their usual medication and keep in contact with family members, neighbours and the community. People should seek immediate help if they feel unwell.
+Outdoor/manual workers: Reschedule work to cooler hours as far as feasible. If working in a hot environment is unavoidable, provide shade where practicable and use ventilation and heat dissipation equipment. Once work has begun, gradually adjust the pace of work and take breaks in the shade to regain strength.
+
+
+​The DH reminded the public that heat stroke is one of the most common health risks in hot weather. Over the past five years, there have been over 200 hospital admissions due to heat stroke each year in Hong Kong, with two to five fatal cases occurring mainly during the summer months from May to September. Vulnerable groups are more susceptible to heat stroke. Symptoms include dizziness, headache, nausea, shortness of breath or confusion. In severe cases, patients may suffer from convulsions or become unconscious, which can be life-threatening if they are not cooled down and resuscitated in a timely manner.
+
+Members of the public are also advised to pay attention to the latest weather, as well as the real-time and forecasted ultraviolet (UV) index released by the Hong Kong Observatory (HKO). When the UV index is high (6 or above), the public should note the following:
+
+
+Avoid direct sunlight exposure to the skin and the eyes;
+Apply broad-spectrum, water-resistant sunscreen liberally, with a sun protection factor (SPF) of at least 30 or higher, when participating in outdoor activities. Reapply every two hours if staying outdoors for long periods, or after swimming, sweating or towelling off;
+While using DEET-containing insect repellents for personal protection against mosquito-borne diseases, apply sunscreen before insect repellent;
+Seek shade;
+Wear UV-blocking sunglasses;
+Wear loose-fitting clothing with long-sleeves; and
+Wear a wide-brimmed hat or use an umbrella.
+
+
+​If symptoms develop, such as dizziness, headache, nausea, shortness of breath or confusion, rest and seek help immediately, and seek medical advice as soon as possible.
+
+​For more health information, the public may visit theCHP's heat strokepage andUV radiation page; the HKO's Dial-a-Weather (1878 200),latestweather report and forecast,UV Indexand weather information forhiking and mountaineering; andpress releasesof the Labour Departmenton precautions against heat stroke for outdoor workers and their employers when the Heat Stress at Work Warning is in force."
 酷熱天氣警告已發出,2026-06-04 06:45,2026-06-04 07:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/04/P2026060400003.htm,"電台及電視台當值宣布員注意：
 
 請盡速播出下列特別報告：
@@ -306,129 +306,6 @@ The spokeman for the Food and Environmental Hygiene Department (FEHD) said that 
 ​Under the Slaughterhouses Regulation and the Food Business Regulation, operating an unlicensed slaughterhouse, illegally slaughtering food animals, or sale of prohibited food are serious offences. Upon conviction, offenders are liable to a maximum fine of $50,000 and imprisonment up to six months.
 
 The spokesman emphasised the FEHD's deep concern and strong commitment to combating the illegal slaughtering of food animals and the sale of prohibited food through stringent enforcement actions against violations. Anyone who discovers suspected illegal slaughtering activities or has doubts about the origin of meat being sold by retailers can report it by calling 1823."
-FEHD releases seventh batch of gravidtrap indexes for Aedes albopictus in May (with photos) ,2026-06-03 21:47,2026-06-03 22:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300777.htm,"The Food and Environmental Hygiene Department (FEHD) today (June 3) released the seventh batch of gravidtrap indexes and density indexes for Aedes albopictus in May, covering 15 survey areas, as follows:
-
-
-
-
-District
-Survey Area
-May 2026
-
-
-Area Gravidtrap Index
-Area Density Index
-
-
-Southern
-Deep Water Bay and Repulse Bay
-12.5%
-1.3
-
-
-Wan Chai
-Happy Valley and Tai Hang
-16.7%
-1.4
-
-
-Kowloon City
-Kai Tak
-12.8%
-1.1
-
-
-Sham Shui Po
-Cheung Sha Wan
-25.7%
-1.3
-
-
-Lai Chi Kok
-9.0%
-2.3
-
-
-Sham Shui Po and Shek Kip Mei
-26.2%
-1.3
-
-
-North
-Sheung Shui
-29.3%
-1.5
-
-
-Sai Kung
-Tseung Kwan O East
-27.0%
-1.1
-
-
-Tseung Kwan O North
-35.3%
-1.4
-
-
-Tseung Kwan O West
-8.4%
-1.9
-
-
-Sha Tin
-Ma On Shan
-31.0%
-1.3
-
-
-Sha Tin East
-19.0%
-1.2
-
-
-Kwai Tsing
-Kwai Chung East
-7.2%
-1.7
-
-
-Tsuen Wan
-Tsuen Wan West
-28.6%
-1.1
-
-
-Yuen Long
-Yuen Long Town
-18.1%
-1.4
-
-
-
-
-With reference to the data from the past few years, the gravidtrap indexes start to rise from April or May every year. The indexes are higher from April to June. The actual timing and extent of the rise are affected by factors like weather conditions and rainfall. As compared with last year, the temperature began to climb earlier this year and the rainfall in April and May increased substantially, creating favourable conditions for mosquito growth and breeding. As a result, the rise in gravidtrap indexes occurred earlier this year. Depending on factors like rainfall, the indexes may rise further but the overall trend of gravidtrap indexes this year is similar to those of previous years.
-
-In response to the rise in gravidtrap indexes in recent months, the FEHD has stepped up mosquito prevention and control work across all districts in Hong Kong, including inspecting construction sites, parks, public and private housing estates, and locations with higher mosquito infestations. Between Apr 1 and June 2 this year, the FEHD has initiated 71 prosecutions against the management companies or responsible persons-in-charge of these venues following the discovery of mosquito breeding, and issued 183 statutory notices requiring the clearance of stagnant water or stagnant water containers.
- 
-Furthermore, for survey areas which recorded indexes exceeding 10 per cent, in accordance with the mechanism implemented by the FEHD in response to the chikungunya fever (CF) situation (i.e. strengthening mosquito control work in areas with a gravidtrap index between 10 per cent and 20 per cent, instead of 20 per cent or above under the original mechanism), the FEHD is collaborating with relevant departments and stakeholders to identify locations with high mosquito infestations and carry out intensive and targeted mosquito control measures, including eliminating mosquito breeding grounds, applying larvicides, conducting fogging operations to eradicate adult mosquitoes, and ensuring that mosquito trapping devices at appropriate locations are operating properly. The FEHD, the relevant departments and stakeholders also strengthen efforts in publicity and education, including organising exhibitions, distributing leaflets and posters, and notifying residential estates that have subscribed to the gravidtrap Rapid Alert System, advising property management agents and residents to stay vigilant and work together in taking mosquito prevention and elimination measures.
-
-The FEHD is actively adopting and piloting innovative technologies. At present, an intelligent mosquito trapping device imported from the Mainland, which uses specially formulated mosquito attractants to lure and capture adult mosquitoes, is undergoing a field trial. The device also features artificial intelligence to assist in identifying the species and number of mosquitoes collected in order to provide real-time data to assist in continuous monitoring of mosquito infestation. The FEHD will review the operation of the device to assess the feasibility of its widespread application.
-
-Public participation is crucial to the effective control of mosquito problems. The FEHD appeals to members of the public to continue to work together in strengthening personal mosquito control measures, including:
-
-tidy up their premises and check for any accumulation of water inside the premises;
-remove all unnecessary water collections and eliminate the sources;
-check household items (those placed in outdoor and open areas in particular), such as refuse containers, vases, air conditioner drip trays, and laundry racks to prevent stagnant water;
-change water in flower vases and scrub their inner surfaces thoroughly, and remove water in saucers under potted plants at least once a week;
-properly cover all containers that hold water to prevent mosquitoes from accessing the water;
-properly dispose of articles that can contain water, such as disposable meal boxes and empty cans; and
-scrub drains and surface sewers with alkaline detergent at least once a week to remove any mosquito eggs.
-
-
-Starting in August 2025, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of CF transmission.
- 
-Following recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 62 survey areas of the community, with a surveillance period of two weeks. During the surveillance period, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#). "
 食環署公布五月份第七批白紋伊蚊誘蚊器指數（附圖）,2026-06-03 21:47,2026-06-03 22:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300764.htm,"食物環境衞生署（食環署）今日（六月三日）公布，五月份第七批涵蓋15個監察地區的白紋伊蚊誘蚊器指數及密度指數如下：
 
 
@@ -552,13 +429,129 @@ Following recommendations from the World Health Organization and taking into acc
 食環署自二○二五年八月起，每當個別監察地區完成調查並得出最新的誘蚊器指數和密度指數，食環署會通過新聞公報、網頁及社交媒體發放相關資訊，目的是為了讓市民可以更快掌握蚊患情況，一同加強控蚊工作，降低基孔肯雅熱的傳播風險。
 
 食環署是按照世界衞生組織的建議及因應本港的情況，在過去曾經出現本地蚊傳疾病的地區，以及屋邨／屋苑、醫院和學校等人口密集的地方，設置誘蚊器以監察可傳播基孔肯雅熱和登革熱的白紋伊蚊的滋生和分布情況。現時，食環署在社區62個監察地區放置誘蚊器，監察期為兩星期。在監察期間，食環署每周會收集誘蚊器一次。第一星期監察期完結後，食環署會立刻檢視收回的誘蚊器內的黏膠板上是否有伊蚊成蚊，以計算誘蚊器指數（第一階段）和密度指數（第一階段）。第二星期的監察期完結後，食環署會即時檢視黏膠板上是否有伊蚊成蚊，結合兩個星期的監察數據，從而計算分區誘蚊器指數和分區密度指數。有關各區的白紋伊蚊誘蚊器指數、密度指數及防蚊措施資料，請瀏覽食環署網頁（www.fehd.gov.hk/tc_chi/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#）。"
-駐倫敦經貿辦推廣香港作為國際金融中心的領先地位（附圖）,2026-06-03 21:29,2026-06-03 21:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300746.htm,"香港駐倫敦經濟貿易辦事處聯同投資推廣署和香港貿易發展局，透過「經貿一站通」平台，於六月二日（倫敦時間）支持香港工商協會在倫敦舉辦午宴，以推廣香港作為國際金融中心的領先優勢及促進兩地金融合作。香港金融管理局總裁余偉文為主題演講嘉賓。
+FEHD releases seventh batch of gravidtrap indexes for Aedes albopictus in May (with photos) ,2026-06-03 21:47,2026-06-03 22:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300777.htm,"The Food and Environmental Hygiene Department (FEHD) today (June 3) released the seventh batch of gravidtrap indexes and density indexes for Aedes albopictus in May, covering 15 survey areas, as follows:
 
-余偉文在演講中介紹香港在金融創新和可持續金融方面的最新發展，並指出香港延續去年的強勁復蘇勢頭，資金持續流入，首季經濟全面增長。他強調在全球企業和投資者越趨透過多元配置以分散風險的背景下，香港可發揮「超級聯繫人」角色，並闡述有關趨勢如何為深化香港與英國金融合作帶來機遇。
 
-余偉文其後回應現場提問，就聯繫匯率制度和完善監管制度等議題與出席者交流意見。
 
-是次活動共有超過90人出席，包括政府官員，以及金融界、商界和法律界的高層代表。"
+
+District
+Survey Area
+May 2026
+
+
+Area Gravidtrap Index
+Area Density Index
+
+
+Southern
+Deep Water Bay and Repulse Bay
+12.5%
+1.3
+
+
+Wan Chai
+Happy Valley and Tai Hang
+16.7%
+1.4
+
+
+Kowloon City
+Kai Tak
+12.8%
+1.1
+
+
+Sham Shui Po
+Cheung Sha Wan
+25.7%
+1.3
+
+
+Lai Chi Kok
+9.0%
+2.3
+
+
+Sham Shui Po and Shek Kip Mei
+26.2%
+1.3
+
+
+North
+Sheung Shui
+29.3%
+1.5
+
+
+Sai Kung
+Tseung Kwan O East
+27.0%
+1.1
+
+
+Tseung Kwan O North
+35.3%
+1.4
+
+
+Tseung Kwan O West
+8.4%
+1.9
+
+
+Sha Tin
+Ma On Shan
+31.0%
+1.3
+
+
+Sha Tin East
+19.0%
+1.2
+
+
+Kwai Tsing
+Kwai Chung East
+7.2%
+1.7
+
+
+Tsuen Wan
+Tsuen Wan West
+28.6%
+1.1
+
+
+Yuen Long
+Yuen Long Town
+18.1%
+1.4
+
+
+
+
+With reference to the data from the past few years, the gravidtrap indexes start to rise from April or May every year. The indexes are higher from April to June. The actual timing and extent of the rise are affected by factors like weather conditions and rainfall. As compared with last year, the temperature began to climb earlier this year and the rainfall in April and May increased substantially, creating favourable conditions for mosquito growth and breeding. As a result, the rise in gravidtrap indexes occurred earlier this year. Depending on factors like rainfall, the indexes may rise further but the overall trend of gravidtrap indexes this year is similar to those of previous years.
+
+In response to the rise in gravidtrap indexes in recent months, the FEHD has stepped up mosquito prevention and control work across all districts in Hong Kong, including inspecting construction sites, parks, public and private housing estates, and locations with higher mosquito infestations. Between Apr 1 and June 2 this year, the FEHD has initiated 71 prosecutions against the management companies or responsible persons-in-charge of these venues following the discovery of mosquito breeding, and issued 183 statutory notices requiring the clearance of stagnant water or stagnant water containers.
+ 
+Furthermore, for survey areas which recorded indexes exceeding 10 per cent, in accordance with the mechanism implemented by the FEHD in response to the chikungunya fever (CF) situation (i.e. strengthening mosquito control work in areas with a gravidtrap index between 10 per cent and 20 per cent, instead of 20 per cent or above under the original mechanism), the FEHD is collaborating with relevant departments and stakeholders to identify locations with high mosquito infestations and carry out intensive and targeted mosquito control measures, including eliminating mosquito breeding grounds, applying larvicides, conducting fogging operations to eradicate adult mosquitoes, and ensuring that mosquito trapping devices at appropriate locations are operating properly. The FEHD, the relevant departments and stakeholders also strengthen efforts in publicity and education, including organising exhibitions, distributing leaflets and posters, and notifying residential estates that have subscribed to the gravidtrap Rapid Alert System, advising property management agents and residents to stay vigilant and work together in taking mosquito prevention and elimination measures.
+
+The FEHD is actively adopting and piloting innovative technologies. At present, an intelligent mosquito trapping device imported from the Mainland, which uses specially formulated mosquito attractants to lure and capture adult mosquitoes, is undergoing a field trial. The device also features artificial intelligence to assist in identifying the species and number of mosquitoes collected in order to provide real-time data to assist in continuous monitoring of mosquito infestation. The FEHD will review the operation of the device to assess the feasibility of its widespread application.
+
+Public participation is crucial to the effective control of mosquito problems. The FEHD appeals to members of the public to continue to work together in strengthening personal mosquito control measures, including:
+
+tidy up their premises and check for any accumulation of water inside the premises;
+remove all unnecessary water collections and eliminate the sources;
+check household items (those placed in outdoor and open areas in particular), such as refuse containers, vases, air conditioner drip trays, and laundry racks to prevent stagnant water;
+change water in flower vases and scrub their inner surfaces thoroughly, and remove water in saucers under potted plants at least once a week;
+properly cover all containers that hold water to prevent mosquitoes from accessing the water;
+properly dispose of articles that can contain water, such as disposable meal boxes and empty cans; and
+scrub drains and surface sewers with alkaline detergent at least once a week to remove any mosquito eggs.
+
+
+Starting in August 2025, following the completion of the surveillance of individual survey areas, and once the latest gravidtrap index and the density index are available, the FEHD has been disseminating relevant information through press releases, its website and social media. It aims to allow members of the public to quickly grasp the mosquito infestation situation and strengthen mosquito control efforts, thereby reducing the risk of CF transmission.
+ 
+Following recommendations from the World Health Organization and taking into account the local situation in Hong Kong, the FEHD sets up gravidtraps in districts where mosquito-borne diseases have been recorded in the past, as well as in densely populated places such as housing estates, hospitals and schools to monitor the breeding and distribution of Aedes albopictus mosquitoes, which can transmit CF and dengue fever. At present, the FEHD has set up gravidtraps in 62 survey areas of the community, with a surveillance period of two weeks. During the surveillance period, the FEHD will collect the gravidtraps once a week. After the first week of surveillance, the FEHD will immediately examine the glue boards inside the retrieved gravidtraps for the presence of adult Aedine mosquitoes to compile the Gravidtrap Index (First Phase) and Density Index (First Phase). At the end of the second week of surveillance, the FEHD will instantly check the glue boards for the presence of adult Aedine mosquitoes. Data from the two weeks of surveillance will be combined to obtain the Area Gravidtrap Index and the Area Density Index. The gravidtrap and density indexes for Aedes albopictus in different survey areas, as well as information on mosquito prevention and control measures, are available on the department's webpage (www.fehd.gov.hk/english/pestcontrol/dengue_fever/Dengue_Fever_Gravidtrap_Index_Update.html#). "
 London ETO promotes Hong Kong as leading international financial centre (with photos),2026-06-03 21:29,2026-06-03 21:45,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300750.htm,"  The Hong Kong Economic and Trade Office in London, together with Invest Hong Kong and the Hong Kong Trade Development Council, under the Economic and Trade Express platform, supported the Hong Kong Association in hosting a luncheon in London on June 2 (London time) to promote Hong Kong's value proposition as a leading international financial centre and foster financial collaboration with the United Kingdom (UK). The Chief Executive of the Hong Kong Monetary Authority, Mr Eddie Yue, was the keynote speaker.
 
   In his address, Mr Yue highlighted Hong Kong's latest developments in financial innovation and sustainable finance, noting that the city's strong rebound has continued into this year, with vibrant capital inflows and broad-based first-quarter economic growth. Against the backdrop of global businesses and investors progressively seeking greater diversification to mitigate risks, he emphasised Hong Kong's role as a ""super-connector"" and the opportunities this presents for deepening Hong Kong-UK financial collaboration.
@@ -566,6 +559,13 @@ London ETO promotes Hong Kong as leading international financial centre (with ph
   Following his speech, Mr Yue took questions from the audience and exchanged views on topics including the Linked Exchange Rate System and the modernisation of regulatory regimes.
 
   The event was attended by over 90 participants, including government officials and senior representatives from the financial, business and legal sectors."
+駐倫敦經貿辦推廣香港作為國際金融中心的領先地位（附圖）,2026-06-03 21:29,2026-06-03 21:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300746.htm,"香港駐倫敦經濟貿易辦事處聯同投資推廣署和香港貿易發展局，透過「經貿一站通」平台，於六月二日（倫敦時間）支持香港工商協會在倫敦舉辦午宴，以推廣香港作為國際金融中心的領先優勢及促進兩地金融合作。香港金融管理局總裁余偉文為主題演講嘉賓。
+
+余偉文在演講中介紹香港在金融創新和可持續金融方面的最新發展，並指出香港延續去年的強勁復蘇勢頭，資金持續流入，首季經濟全面增長。他強調在全球企業和投資者越趨透過多元配置以分散風險的背景下，香港可發揮「超級聯繫人」角色，並闡述有關趨勢如何為深化香港與英國金融合作帶來機遇。
+
+余偉文其後回應現場提問，就聯繫匯率制度和完善監管制度等議題與出席者交流意見。
+
+是次活動共有超過90人出席，包括政府官員，以及金融界、商界和法律界的高層代表。"
 立法會：教育局局長就「推動香港中小學數字教育，培育未來數字人才」議員議案總結發言（只有中文）,2026-06-03 20:29,2026-06-03 20:45,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300820.htm,"以下是教育局局長蔡若蓮博士今日（六月三日）在立法會會議就「推動香港中小學數字教育，培育未來數字人才」議員議案的總結發言全文：
 
 主席：
@@ -668,21 +668,6 @@ London ETO promotes Hong Kong as leading international financial centre (with ph
 就大家近日很關注的粵港澳遊艇自由行方面，特區政府歡迎國務院上周公布同意對經大灣區內地九市指定口岸暫時入出內地且僅限在大灣區內地九市自由行的港澳遊艇，實行免擔保和臨時船舶國籍登記政策。與此同時，海事處正積極與廣東海事局協調「港艇北上」和「北艇南下」的便利措施。細節兩地政府待確定後適時公布。
 
 因時間所限，我會待總結發言分享剛才有議員關注的培育海事人才方面的工作。我和各相關政策局的同事會細心聆聽各位議員的發言，在總結發言時再作回應。我謹此陳辭，多謝主席。"
-Update on Clusters of Candida auris cases in Kwong Wah Hospital,2026-06-03 18:50,2026-06-03 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300730.htm,"The following is issued on behalf of the Hospital Authority.
-
-Regarding an earlier announcement on Candida auris carrier cases, the spokesperson for Kwong Wah Hospital (KWH) made the following announcement today (June 3):
-
-An 82-year-old male patient who had previously been admitted to the relevant Department of Medicine and Geriatrics in April this year, was readmitted on May 25 due to his underlying condition. Based on infection control and risk management considerations, KWH conducted admission screening for the patient concerned, and the patient was subsequently found to be a carrier of Candida auris.The patient concerned showed no signs of infection and remainedin stable condition. He has since been discharged.
-
-The hospital will continue the contact tracing investigation of close contacts of the patient in accordance with the prevailing guidelines. A series of enhanced infection control measures has already been adopted to prevent the spread of Candida auris:
-
-
-enhanced patient and environmental screening procedures;
-applied stringent contact precautions and enhanced hand hygiene of staff; and
-thorough cleaning and disinfection of the wards, including the environment and medical equipment.
-
-
-The cases have been reported to the Hospital Authority Head Office and the Centre for Health Protection for necessary follow-up."
 廣華醫院耳念珠菌個案組群最新情況,2026-06-03 18:50,2026-06-03 19:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300729.htm,"下稿代醫院管理局發出：
 
 ​廣華醫院發言人就早前公布有病人帶有耳念珠菌，今日（六月三日）有以下公布：
@@ -699,20 +684,26 @@ The cases have been reported to the Hospital Authority Head Office and the Centr
 
 本院已將有關個案呈報醫院管理局總辦事處及衞生署衞生防護中心作出跟進。
 "
+Update on Clusters of Candida auris cases in Kwong Wah Hospital,2026-06-03 18:50,2026-06-03 19:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300730.htm,"The following is issued on behalf of the Hospital Authority.
+
+Regarding an earlier announcement on Candida auris carrier cases, the spokesperson for Kwong Wah Hospital (KWH) made the following announcement today (June 3):
+
+An 82-year-old male patient who had previously been admitted to the relevant Department of Medicine and Geriatrics in April this year, was readmitted on May 25 due to his underlying condition. Based on infection control and risk management considerations, KWH conducted admission screening for the patient concerned, and the patient was subsequently found to be a carrier of Candida auris.The patient concerned showed no signs of infection and remainedin stable condition. He has since been discharged.
+
+The hospital will continue the contact tracing investigation of close contacts of the patient in accordance with the prevailing guidelines. A series of enhanced infection control measures has already been adopted to prevent the spread of Candida auris:
+
+
+enhanced patient and environmental screening procedures;
+applied stringent contact precautions and enhanced hand hygiene of staff; and
+thorough cleaning and disinfection of the wards, including the environment and medical equipment.
+
+
+The cases have been reported to the Hospital Authority Head Office and the Centre for Health Protection for necessary follow-up."
 SCST expresses sorrow over passing of Dr Chung King-fai,2026-06-03 18:08,2026-06-03 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300575.htm,"The Secretary for Culture, Sports and Tourism, Miss Rosanna Law, expressed sorrow at the passing of Hong Kong theatre veteran Dr Chung King-fai and extended her deepest condolences to his family.
 
 Dr Chung dedicated his life to the performing arts and directed numerous productions. He was committed to promoting the development of theatrical arts in Hong Kong and made remarkable achievements. Drawing on his extensive experience and professional knowledge, Dr Chung served as a member of the Committee on Performing Arts under the then Home Affairs Bureau, a member of an Art Form Panel (now known as the Art Form Sub-committee) under the Programme and Development Committee of the Leisure and Cultural Services Department, and Arts Advisor (Drama) to the Hong Kong Arts Development Council. In these roles, he provided the Government with valuable advice on theatre programming. In 2013, he was awarded the Silver Bauhinia Star.
 ​
 Miss Law said, ""King Sir directed and performed in many classic stage productions over the years, including 'West Side Story', 'A Sentimental Journey', 'Death of a Salesman' and 'Tuesdays with Morrie'. He also appeared in a number of films, leaving us with cherished collective memories. As a teacher at the Hong Kong Academy for Performing Arts, he nurtured numerous renowned artists. His passing is a tremendous loss to Hong Kong's performing arts sector. We will always treasure the memory of this stage veteran and remain deeply grateful for his distinguished contributions to the performing arts in Hong Kong."""
-行政長官率團考察哈薩克斯坦高等教育發展（附圖／短片）,2026-06-03 18:00,2026-06-03 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300589.htm,"行政長官李家超今日（六月三日）率領代表團繼續哈薩克斯坦訪問行程，到訪當地大學，了解哈薩克斯坦高等教育發展。
-
-上午，李家超參觀納扎爾巴耶夫大學，與校長瓦卡爾教授會面，就加強兩地高等教育合作交流意見，隨後出席納扎爾巴耶夫大學和香港高等院校簽署合作備忘錄的儀式。他表示，香港是全球唯一擁有五所百強大學的城市，在《2025年世界人才排名》中位列亞洲第一、全球第四，正積極發展成為國際專上教育樞紐和國際高端人才集聚高地，全力建設北部都會區大學城，推廣「留學香港」品牌，並設有「一帶一路獎學金」。目前約500名哈薩克斯坦學生在港就讀，成為香港最大的「一帶一路」學生群體之一，他歡迎更多哈薩克斯坦學生來港升學和發展事業，進一步加強兩地人文交流。
-
-李家超說，納扎爾巴耶夫大學是中亞排名第一的大學，習近平主席二○一三年正是在納扎爾巴耶夫大學首次提出共建「絲綢之路經濟帶」，為「一帶一路」倡議奠下基石，別具意義。繼去年與香港科技大學簽署合作備忘錄、開辦工商管理學士（歐亞商業管理）課程後，納扎爾巴耶夫大學今日與香港教育大學和香港理工大學簽署合作備忘錄，持續深化學術交流和研究協作。李家超表示，今日的夥伴協作只是開始，香港和哈薩克斯坦未來會有更多教育合作，共同培育具備國際視野的人才，為「一帶一路」人才庫建設作出貢獻。
-
-中午，李家超出席中華人民共和國駐哈薩克斯坦共和國特命全權大使韓春霖所設的交流餐敍。他感謝大使館為此行所作的悉心安排，以及一直對香港特別行政區政府工作的支持。
-
-李家超今日稍後將轉往烏茲別克斯坦訪問。"
 CE leads delegation to explore higher education development in Kazakhstan (with photos/videos),2026-06-03 18:00,2026-06-03 18:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300591.htm,"The Chief Executive, Mr John Lee, today (June 3) led his delegation to continue its visit programme to Kazakhstan, touring a local university to learn about the development of higher education in the country.
 
 In the morning, Mr Lee visited Nazarbayev University and met with its President, Professor Waqar Ahmad, to exchange views on strengthening higher education collaboration between the two places. He then attended a signing ceremony for Memoranda of Understanding (MOUs) between Nazarbayev University and Hong Kong higher education institutions. Mr Lee said that Hong Kong is the only city in the world with five universities ranked among the world's top 100. Hong Kong ranks first in Asia and fourth globally in the World Talent Ranking 2025. Mr Lee noted that Hong Kong is actively developing into an international post-secondary education hub and an international hub for high-calibre talent. The city is pressing ahead with building the Northern Metropolis University Town, promoting the ""Study in Hong Kong"" brand, and offering the Belt and Road (B&R) Scholarship. Currently, about 500 Kazakhstani students are studying in Hong Kong, making them one of the largest groups among Hong Kong's B&R student community. He welcomed more Kazakhstani students to come to Hong Kong for study and career development, and further promote people-to-people and cultural exchanges between the two places.
@@ -722,6 +713,38 @@ Mr Lee noted that Nazarbayev University is Central Asia's No. 1 university, and 
 At noon, Mr Lee attended a luncheon hosted by the Ambassador Extraordinary and Plenipotentiary of the People's Republic of China to the Republic of Kazakhstan, Mr Han Chunlin. He expressed his gratitude to the Embassy for making meticulous arrangements for the visit and for its continued support to the work of the Hong Kong Special Administrative Region Government.
 
 Mr Lee will depart later today for Uzbekistan."
+行政長官率團考察哈薩克斯坦高等教育發展（附圖／短片）,2026-06-03 18:00,2026-06-03 18:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300589.htm,"行政長官李家超今日（六月三日）率領代表團繼續哈薩克斯坦訪問行程，到訪當地大學，了解哈薩克斯坦高等教育發展。
+
+上午，李家超參觀納扎爾巴耶夫大學，與校長瓦卡爾教授會面，就加強兩地高等教育合作交流意見，隨後出席納扎爾巴耶夫大學和香港高等院校簽署合作備忘錄的儀式。他表示，香港是全球唯一擁有五所百強大學的城市，在《2025年世界人才排名》中位列亞洲第一、全球第四，正積極發展成為國際專上教育樞紐和國際高端人才集聚高地，全力建設北部都會區大學城，推廣「留學香港」品牌，並設有「一帶一路獎學金」。目前約500名哈薩克斯坦學生在港就讀，成為香港最大的「一帶一路」學生群體之一，他歡迎更多哈薩克斯坦學生來港升學和發展事業，進一步加強兩地人文交流。
+
+李家超說，納扎爾巴耶夫大學是中亞排名第一的大學，習近平主席二○一三年正是在納扎爾巴耶夫大學首次提出共建「絲綢之路經濟帶」，為「一帶一路」倡議奠下基石，別具意義。繼去年與香港科技大學簽署合作備忘錄、開辦工商管理學士（歐亞商業管理）課程後，納扎爾巴耶夫大學今日與香港教育大學和香港理工大學簽署合作備忘錄，持續深化學術交流和研究協作。李家超表示，今日的夥伴協作只是開始，香港和哈薩克斯坦未來會有更多教育合作，共同培育具備國際視野的人才，為「一帶一路」人才庫建設作出貢獻。
+
+中午，李家超出席中華人民共和國駐哈薩克斯坦共和國特命全權大使韓春霖所設的交流餐敍。他感謝大使館為此行所作的悉心安排，以及一直對香港特別行政區政府工作的支持。
+
+李家超今日稍後將轉往烏茲別克斯坦訪問。"
+署理行政長官出席第四屆同鄉社團家鄉市集嘉年華啓動禮致辭（只有中文）,2026-06-03 17:46,2026-06-03 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300703.htm,"以下是署理行政長官陳國基今日（六月三日）出席第四屆同鄉社團家鄉市集嘉年華啓動禮的致辭：
+
+尊敬的羅永綱副主任（中央人民政府駐香港特別行政區聯絡辦公室副主任）、陳楓副署長（中央人民政府駐香港特別行政區維護國家安全公署副署長）、龔俊龍主席（香港廣東社團總會主席）、施清流主席（香港福建社團聯會主席）、文頴怡會長（香港廣西社團總會會長）、李文俊會長（香港海南社團總會會長）、詹洪良會長（香港浙江省同鄉會聯合會會長）、朱新勝會長（香港山東社團總會會長）、鄧清河總指揮（活動籌備委員會總指揮）、各位嘉賓、各位朋友：
+
+大家好！很高興再次來到維園，出席第四屆同鄉社團家鄉市集嘉年華啓動禮。
+
+轉眼間，這個活動已經舉辦到第四屆。我們很多謝，也全賴30個省級同鄉社團全情投入，家鄉市集越辦越好，規模一年比一年大，內容一年比一年豐富。這份成果，全賴各位鄉親群策群力。我衷心感謝大家！
+
+特區政府一直支持同鄉社團推廣家鄉文化。本屆嘉年華繼續獲得「同鄉文化推廣計劃」撥款資助，讓市民認識不同地方的鄉情特色，促進香港與內地的人文交流，提升家國情懷，同時帶動本地消費。可以說，這個活動既是文化盛事，也是經濟動力。我相信今次活動必定廣受市民歡迎，深得旅客喜歡。
+
+今年嘉年華一連五日在維園舉行，設有特產展銷、家鄉美食、文藝演出和創科體驗四大展區，合共超過370個攤位，展銷全國各個省市、自治區約110萬件特產，規模是歷屆之冠。
+
+大會更首次引入鄉村振興農副產品專區，讓市民可以品嚐到全國各地的家鄉風味之餘，也親身感受到國家鄉村振興戰略的豐碩成果。
+
+而創科體驗區就有最新的人工智能、虛擬實景、數字化非遺等技術，還可以跟不同機械人互動。這些體驗，正正展示了國家科技發展的成就。
+
+上星期，神舟二十三號順利升空，香港載荷專家黎家盈博士參與其中，全港市民都引以為傲。這個歷史時刻，標誌着香港具備參與國家航天核心任務的能力與擔當，體現國家對香港創科人才及成就的高度肯定。
+
+今年是國家「十五五」規劃開局之年，將為香港帶來前所未有的機遇。特區政府正制定首份香港五年規劃，主動對接國家規劃，既為香港未來發展指明方向，亦同時推動香港以自身所長，服務國家所需。
+
+要把握好這些機遇，我們需要社會各界共同努力。我深信，各同鄉社團一定會繼續與特區政府攜手並肩，積極傳揚中華文化，悉心栽培愛國愛港青年，引領新一代為國家和香港的未來貢獻智慧、展現擔當。
+
+最後，我祝願國家國富民強，香港百業興旺，各同鄉社團會務昌隆，嘉年華圓滿成功，每位入場的朋友都滿載而歸、盡興而回。多謝各位！"
 署理行政長官出席第四屆同鄉社團家鄉市集嘉年華啓動禮致辭（只有中文）（附圖）,2026-06-03 17:46,2026-06-03 19:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300703.htm,"以下是署理行政長官陳國基今日（六月三日）出席第四屆同鄉社團家鄉市集嘉年華啓動禮的致辭：
 
 尊敬的羅永綱副主任（中央人民政府駐香港特別行政區聯絡辦公室副主任）、陳楓副署長（中央人民政府駐香港特別行政區維護國家安全公署副署長）、龔俊龍主席（香港廣東社團總會主席）、施清流主席（香港福建社團聯會主席）、文頴怡會長（香港廣西社團總會會長）、李文俊會長（香港海南社團總會會長）、詹洪良會長（香港浙江省同鄉會聯合會會長）、朱新勝會長（香港山東社團總會會長）、鄧清河總指揮（活動籌備委員會總指揮）、各位嘉賓、各位朋友：
@@ -768,49 +791,6 @@ Mr Lee will depart later today for Uzbekistan."
 要把握好這些機遇，我們需要社會各界共同努力。我深信，各同鄉社團一定會繼續與特區政府攜手並肩，積極傳揚中華文化，悉心栽培愛國愛港青年，引領新一代為國家和香港的未來貢獻智慧、展現擔當。
 
 最後，我祝願國家國富民強，香港百業興旺，各同鄉社團會務昌隆，嘉年華圓滿成功，每位入場的朋友都滿載而歸、盡興而回。多謝各位！"
-署理行政長官出席第四屆同鄉社團家鄉市集嘉年華啓動禮致辭（只有中文）,2026-06-03 17:46,2026-06-03 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300703.htm,"以下是署理行政長官陳國基今日（六月三日）出席第四屆同鄉社團家鄉市集嘉年華啓動禮的致辭：
-
-尊敬的羅永綱副主任（中央人民政府駐香港特別行政區聯絡辦公室副主任）、陳楓副署長（中央人民政府駐香港特別行政區維護國家安全公署副署長）、龔俊龍主席（香港廣東社團總會主席）、施清流主席（香港福建社團聯會主席）、文頴怡會長（香港廣西社團總會會長）、李文俊會長（香港海南社團總會會長）、詹洪良會長（香港浙江省同鄉會聯合會會長）、朱新勝會長（香港山東社團總會會長）、鄧清河總指揮（活動籌備委員會總指揮）、各位嘉賓、各位朋友：
-
-大家好！很高興再次來到維園，出席第四屆同鄉社團家鄉市集嘉年華啓動禮。
-
-轉眼間，這個活動已經舉辦到第四屆。我們很多謝，也全賴30個省級同鄉社團全情投入，家鄉市集越辦越好，規模一年比一年大，內容一年比一年豐富。這份成果，全賴各位鄉親群策群力。我衷心感謝大家！
-
-特區政府一直支持同鄉社團推廣家鄉文化。本屆嘉年華繼續獲得「同鄉文化推廣計劃」撥款資助，讓市民認識不同地方的鄉情特色，促進香港與內地的人文交流，提升家國情懷，同時帶動本地消費。可以說，這個活動既是文化盛事，也是經濟動力。我相信今次活動必定廣受市民歡迎，深得旅客喜歡。
-
-今年嘉年華一連五日在維園舉行，設有特產展銷、家鄉美食、文藝演出和創科體驗四大展區，合共超過370個攤位，展銷全國各個省市、自治區約110萬件特產，規模是歷屆之冠。
-
-大會更首次引入鄉村振興農副產品專區，讓市民可以品嚐到全國各地的家鄉風味之餘，也親身感受到國家鄉村振興戰略的豐碩成果。
-
-而創科體驗區就有最新的人工智能、虛擬實景、數字化非遺等技術，還可以跟不同機械人互動。這些體驗，正正展示了國家科技發展的成就。
-
-上星期，神舟二十三號順利升空，香港載荷專家黎家盈博士參與其中，全港市民都引以為傲。這個歷史時刻，標誌着香港具備參與國家航天核心任務的能力與擔當，體現國家對香港創科人才及成就的高度肯定。
-
-今年是國家「十五五」規劃開局之年，將為香港帶來前所未有的機遇。特區政府正制定首份香港五年規劃，主動對接國家規劃，既為香港未來發展指明方向，亦同時推動香港以自身所長，服務國家所需。
-
-要把握好這些機遇，我們需要社會各界共同努力。我深信，各同鄉社團一定會繼續與特區政府攜手並肩，積極傳揚中華文化，悉心栽培愛國愛港青年，引領新一代為國家和香港的未來貢獻智慧、展現擔當。
-
-最後，我祝願國家國富民強，香港百業興旺，各同鄉社團會務昌隆，嘉年華圓滿成功，每位入場的朋友都滿載而歸、盡興而回。多謝各位！"
-Scam alert related to banks,2026-06-03 17:45,2026-06-03 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300597.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press release issued by the bank listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which has been reported to the HKMA. Hyperlink to the press release is available on theHKMA website.
-
-
-
-
-Bank
-Type of scam
-
-
-Bank of Singapore Limited
-Fraudulent website and internet banking login screen
-
-
-
-
-The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
-
-Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 與銀行有關的騙案通知,2026-06-03 17:45,2026-06-03 18:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300598.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。
@@ -831,6 +811,26 @@ Anyone who has provided his or her personal information, or who has conducted an
 金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。
 
 任何人士若曾就上述騙案提供其個人資料或進行任何交易，應利用有關新聞稿中的資料聯絡銀行，及致電2860 5012向香港警務處刑事總部資訊中心報案。"
+Scam alert related to banks,2026-06-03 17:45,2026-06-03 18:00,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300597.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+The Hong Kong Monetary Authority (HKMA) wishes to alert members of the public to the press release issued by the bank listed below relating to fraudulent websites, internet banking login screens, phishing emails or other scams, which has been reported to the HKMA. Hyperlink to the press release is available on theHKMA website.
+
+
+
+
+Bank
+Type of scam
+
+
+Bank of Singapore Limited
+Fraudulent website and internet banking login screen
+
+
+
+
+The HKMA wishes to remind the public that banks will not send SMS or emails with embedded hyperlinks which direct them to the banks' websites to carry out transactions. They will not ask customers for sensitive information, such as login passwords or one-time password, by phone, email or SMS (including via embedded hyperlinks).
+
+Anyone who has provided his or her personal information, or who has conducted any financial transactions, through or in response to the scams concerned, should contact the relevant bank with the information provided in the corresponding press release, and report the matter to the Crime Wing Information Centre of the Hong Kong Police Force at 2860 5012."
 LCQ12: Dovetailing with our country's planning to promote development of aerospace science and technology industry,2026-06-03 17:15,2026-06-03 17:30,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300524.htm,"  Following is a question by the Hon Albert Chuang and a written reply by the Secretary for Innovation, Technology and Industry, Professor Sun Dong, in the Legislative Council today (June 3):
 
 Question:
@@ -941,7 +941,7 @@ President:
 教資會以整筆撥款形式向八所教資會資助大學提供經常補助金，一般以三年為一個資助期，讓大學開辦課程，並將學位分配予不同學科。
 
 目前本港有四所教資會資助大學提供航空航天知識培訓的本科課程，即香港城市大學、香港中文大學、香港理工大學（理大）及香港科技大學，而理大亦提供研究生課程。這些課程均可為香港及國家栽培航空工程方面的人才。"
-創新科技及工業局局長出席「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」致辭（只有中文）,2026-06-03 17:08,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300659.htm,"以下是創新科技及工業局局長孫東教授今日（六月三日）在「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」的致辭：
+創新科技及工業局局長出席「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」致辭（只有中文）（附圖）,2026-06-03 17:08,2026-06-03 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300659.htm,"以下是創新科技及工業局局長孫東教授今日（六月三日）在「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」的致辭：
 
 沈向洋教授（香港科技大學校董會主席）、劉懋洲巡視員（中央人民政府駐香港特別行政區聯絡辦公室教育科技部一級巡視員）、郭毅可教授（香港科技大學首席副校長、香港生成式人工智能研發中心（HKGAI）主任）、各位嘉賓、各位朋友：
 
@@ -958,7 +958,7 @@ President:
 各位，人工智能的長遠發展，從來不是靠單一力量，而是有賴社會各界同心協力，共同建立開放、互信、互補的創新生態。HKGAI稍後將發布AI生態合作機制，推動新一代智能體發展，深化產學研用的協作，將科研成果應用於不同界別，推動產業應用，發掘更多應用場景，惠及香港人工智能領域的整體發展。我相信，只要我們堅持以應用推動創新，香港定能在人工智能浪潮中，孕育更多本地原創成果，讓香港研發繼續發熱發亮。
 
 最後，祝願今天的活動圓滿成功，謝謝大家！"
-創新科技及工業局局長出席「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」致辭（只有中文）（附圖）,2026-06-03 17:08,2026-06-03 18:30,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300659.htm,"以下是創新科技及工業局局長孫東教授今日（六月三日）在「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」的致辭：
+創新科技及工業局局長出席「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」致辭（只有中文）,2026-06-03 17:08,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300659.htm,"以下是創新科技及工業局局長孫東教授今日（六月三日）在「Agentic HK：HKGAI V3大模型發佈暨生態合作大會」的致辭：
 
 沈向洋教授（香港科技大學校董會主席）、劉懋洲巡視員（中央人民政府駐香港特別行政區聯絡辦公室教育科技部一級巡視員）、郭毅可教授（香港科技大學首席副校長、香港生成式人工智能研發中心（HKGAI）主任）、各位嘉賓、各位朋友：
 
@@ -1105,6 +1105,62 @@ The EDB has helped the Hong Kong Police Force promote the ""Youth Crime Preventi
 As for kindergartens, pre-service training courses for kindergarten teachers are designed to equip prospective teachers with knowledge, skills, and professional conduct to fulfill their professional responsibilities in education. Tertiary education institutions offering approved pre-service early childhood education training courses should plan and adapt their curriculum content in accordance with the guidelines of the EDB and in response to social concerns, development trends, and children's needs. Currently, pre-service training courses for kindergarten teachers in tertiary education institutions cover topics such as caring for children's physical and mental development, health and safety, preventing and handling suspected child abuse cases, identifying children's needs early, and making effective interventions. These courses aim to empower teachers to foster children's learning in safe environments and provide timely and appropriate care.
 
 To effectively implement sex education, prevent school bullying, cultivate students' proper values and enhance their awareness of self-protection, in addition to school education, the impacts of family education, social atmosphere and cyber culture on children and youth should not be neglected. It certainly requires the concerted efforts among parents, government departments, non-governmental organisations, the media, and all sectors of society to create synergy, so as to build a caring and inclusive learning and living environment with respect and tolerance for promoting physical and psychological wellbeing and whole-person development of students."
+海事處推出優質加注商計劃以提升服務質素和透明度,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300244.htm,"海事處今日（六月三日）推出優質加注商計劃，鼓勵船用燃料加注商在加注船上安裝及使用質量流量計系統，以提升香港的加注服務水平以至港口競爭力，進一步鞏固香港作為國際航運中心及主要加注港口的地位。
+
+海事處發言人表示：「作為國家支持的國際航運中心，香港地理位置優越，毗鄰國際主要航道，加上歷來發展船用燃料加注，擁有豐富的加注經驗和人才，多年來穩居全球第七、全國第二和大灣區內第一大的加注港，為來自世界各地的遠洋船舶提供可靠及具競爭力的燃料加注服務。隨着國際航運業對燃料交收準確度及交易透明度的要求日益提高，加注作業的服務質素及量度準確性已成為全球加注港競爭力的重要指標，是項計劃可提升加注量的準確度和透明度，進一步提升香港的加注服務質素。」
+
+在計劃下，傳統船用燃料及船用生物柴油加注商如在其加注船上安裝及使用質量流量計系統，並由認可機構按照國際標準化組織《ISO 22192》標準或同等要求就質量流量計系統進行檢查及發出認證證書，在符合相關技術及運作要求後，可向海事處申請將該加注船列入計劃下的「優質加注船名單」。成功獲列入名單的加注船資料將上載至海事處專題網頁，供船公司及相關持份者參考。
+
+計劃屬自願參與性質。參與計劃的加注商除可獲海事處認可外，其採用質量流量計系統的安排亦有助提升市場形象及競爭力，增強客戶信心，並有助開拓更多商機。
+
+發言人續說：「完善的港口服務配套是香港作為國際航運中心的主要優勢之一。我們亦會於今年內強制所有甲醇加注船使用質量流量計，以確保香港在綠色船用燃料時代繼續提供優質加注服務。」
+
+計劃的申請表已上載至海事處網站（www.mardep.gov.hk/tc/public-services/one-stop-services-of-green-fuel-bunkering/quality-bunker-operator-scheme/index.html）。有興趣參加計劃的加注商可於網站下載申請表，或透過電郵（greenfuel@mardep.gov.hk）聯絡海事處綠色船用燃料小組查詢詳情。"
+民政事務總署開放臨時避暑中心,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300664.htm,"民政事務總署今日（六月三日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
+
+臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
+
+如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
+
+臨時避暑中心的地點如下：
+
+香港島：
+———
+中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
+東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
+南區－鴨脷洲利東邨利東社區會堂
+灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
+
+九龍：
+———
+九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
+觀塘－藍田啟田道71號藍田（西區）社區中心
+深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
+黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
+油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
+
+新界：
+———
+離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
+葵青－葵涌荔景山路205號荔景社區會堂
+北區－粉嶺祥華邨祥華社區會堂
+西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
+沙田－沙田隆亨邨隆亨社區中心
+大埔－大埔鄉事會街2號大埔社區中心
+荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
+屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
+元朗－元朗朗屏邨朗屏社區會堂
+元朗－天水圍天耀邨天耀社區中心
+
+除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。
+
+
+"
+按揭證券公司二○二五年年報,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300567.htm,"下稿代香港金融管理局發出︰
+
+香港按揭證券有限公司（按揭證券公司）今日（六月三日）刊發《二○二五年年報》。《年報》主要回顧按揭證券公司於二○二五年的業務表現、財務狀況，以及環境、社會及管治的活動。
+
+《年報》現已刊登於按揭證券公司網站（www.hkmc.com.hk）。"
 Marine Department launches Quality Bunker Operator Scheme to enhance service quality and transparency,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300245.htm,"  The Marine Department (MD) today (June 3) launched the Quality Bunker Operator Scheme to encourage bunker operators to install and use mass flow meter systems (MFM systems) on their bunker vessels, with a view to enhancing Hong Kong's bunkering service quality and the competitiveness of Hong Kong ports, thereby further consolidating Hong Kong's position as an international maritime centre and a major bunkering port.
 
   A spokesman for the MD said, ""As an international maritime centre supported by our country, Hong Kong has a strategic location adjacent to major international fairways. Coupled with years of development in marine fuel bunkering, Hong Kong possesses rich experience and talent in the field. For many years, Hong Kong has consistently ranked as the seventh-largest bunkering port globally, the second-largest in our country, and the largest in the Greater Bay Area, providing reliable and competitive fuel bunkering services to ocean-going vessels from around the world. As the international shipping industry has an increasing demand for accuracy and transparency in bunkering services, service quality and measurement precision in bunkering operations have become important indicators of a bunkering port's competitiveness. The Scheme will enhance bunkering accuracy and transparency, further enhancing the quality of Hong Kong's bunkering services.""
@@ -1116,6 +1172,23 @@ Marine Department launches Quality Bunker Operator Scheme to enhance service qua
   ""Comprehensive port services are one of Hong Kong's key advantages as an international maritime centre. We will also mandate the use of MFM systems on all methanol bunker vessels this year to ensure that Hong Kong continues to provide high-quality bunkering services in the era of green maritime fuels,"" the spokesman added.
 
   The application form for the Scheme can be found on the MD's website (www.mardep.gov.hk/en/public-services/one-stop-services-of-green-fuel-bunkering/quality-bunker-operator-scheme/index.html). Interested bunker operators can download the application form from the website or contact the MD's Green Maritime Fuel Team via email (greenfuel@mardep.gov.hk) for details."
+Interest rate of third interest payment for series of retail infrastructure bonds due 2027,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300586.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+  The Hong Kong Monetary Authority, as representative of the Hong Kong Special Administrative Region Government, announced today (June 3) the relevant per annum interest rate for the third interest payment of the series of retail infrastructure bonds due 2027 (Issue Number: 03GB2712R; Stock Code: 4286) (the Retail Infrastructure Bonds) issued under the Infrastructure Bond Programme.
+
+  According to the Issue Circular dated November 26, 2024 for the Retail Infrastructure Bonds, the third interest payment of the Retail Infrastructure Bonds is scheduled to be made on June 17, 2026, and the relevant interest rate is scheduled to be determined and announced on June 3, 2026 as the higher of the prevailing Floating Rate and Fixed Rate.
+
+  On June 3, 2026, the Floating Rate and Fixed Rate are as follows:
+
+Floating Rate: +1.47 per cent (Annex)
+Fixed Rate: +3.50 per cent
+
+  Based on the Floating Rate and Fixed Rate set out above, the relevant interest rate for the third interest payment is determined and announced as 3.50 per cent per annum."
+HKMC Annual Report 2025,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300566.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
+
+  The Hong Kong Mortgage Corporation Limited (HKMC) today (June 3) published its Annual Report for 2025. The Report mainly reviews the business performance, financial position, as well as the environmental, social and governance initiatives of the HKMC in 2025.
+
+The Report is now available on the HKMC website (www.hkmc.com.hk)."
 HAD opens temporary heat shelters,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300661.htm,"  The Home Affairs Department will continue to open 19 community halls/community centres as temporary heat shelters today (June 3).
 
  The temporary heat shelters will remain open for people to take refuge from the heat when the Very Hot Weather Warning is in force. From 10.30pm to 8am the next day, the temporary heat shelters will also provide bedding and a sleeping place for people in need. The shelters are manned by duty attendants.
@@ -1214,28 +1287,6 @@ Tin Yiu Estate, Tin Shui Wai
  In addition to the above heat shelters, a number of community halls/community centres can also be used for taking refuge from the heat during their operating hours. For their address details, please browse the following document: www.had.gov.hk/file_manager/en/documents/public_services/emergency_services/List_CH_CC_Day_E.pdf.
 
 "
-HKMC Annual Report 2025,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300566.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-  The Hong Kong Mortgage Corporation Limited (HKMC) today (June 3) published its Annual Report for 2025. The Report mainly reviews the business performance, financial position, as well as the environmental, social and governance initiatives of the HKMC in 2025.
-
-The Report is now available on the HKMC website (www.hkmc.com.hk)."
-Interest rate of third interest payment for series of retail infrastructure bonds due 2027,2026-06-03 17:00,2026-06-03 17:15,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300586.htm,"The following is issued on behalf of the Hong Kong Monetary Authority:
-
-  The Hong Kong Monetary Authority, as representative of the Hong Kong Special Administrative Region Government, announced today (June 3) the relevant per annum interest rate for the third interest payment of the series of retail infrastructure bonds due 2027 (Issue Number: 03GB2712R; Stock Code: 4286) (the Retail Infrastructure Bonds) issued under the Infrastructure Bond Programme.
-
-  According to the Issue Circular dated November 26, 2024 for the Retail Infrastructure Bonds, the third interest payment of the Retail Infrastructure Bonds is scheduled to be made on June 17, 2026, and the relevant interest rate is scheduled to be determined and announced on June 3, 2026 as the higher of the prevailing Floating Rate and Fixed Rate.
-
-  On June 3, 2026, the Floating Rate and Fixed Rate are as follows:
-
-Floating Rate: +1.47 per cent (Annex)
-Fixed Rate: +3.50 per cent
-
-  Based on the Floating Rate and Fixed Rate set out above, the relevant interest rate for the third interest payment is determined and announced as 3.50 per cent per annum."
-按揭證券公司二○二五年年報,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300567.htm,"下稿代香港金融管理局發出︰
-
-香港按揭證券有限公司（按揭證券公司）今日（六月三日）刊發《二○二五年年報》。《年報》主要回顧按揭證券公司於二○二五年的業務表現、財務狀況，以及環境、社會及管治的活動。
-
-《年報》現已刊登於按揭證券公司網站（www.hkmc.com.hk）。"
 於二○二七年到期的基礎建設零售債券系列的第三個付息日息率,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300590.htm,"下稿代香港金融管理局發出︰
 
 香港金融管理局以香港特別行政區政府代表身分於今日（六月三日）公布，在基礎建設債券計劃下發行，於二○二七年到期的基礎建設零售債券系列（發行編號：03GB2712R；股份代號：4286）（基礎建設零售債券），其第三個付息日之相關年息率。
@@ -1248,57 +1299,6 @@ Fixed Rate: +3.50 per cent
 定息：+3.50%
 
 根據上列之浮息及定息，現釐定及公布債券第三次付息以年息3.50厘計算。"
-民政事務總署開放臨時避暑中心,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300664.htm,"民政事務總署今日（六月三日）繼續開放19間社區會堂和社區中心作臨時避暑中心。
-
-臨時避暑中心會在酷熱天氣警告生效期間全日開放予市民避暑。此外，在晩上十時三十分至翌晨八時，臨時避暑中心亦供應被鋪及睡覺的地方予有需要人士。中心內有人員當值。
-
-如需進一步資料，可於午夜前致電民政事務總署熱線2572 8427查詢。
-
-臨時避暑中心的地點如下：
-
-香港島：
-———
-中西區－西營盤高街2號西營盤社區綜合大樓3樓西營盤社區綜合大樓社區會堂
-東區－銅鑼灣福蔭道7號3樓銅鑼灣社區中心
-南區－鴨脷洲利東邨利東社區會堂
-灣仔－灣仔皇后大道東258號灣仔街市地下低層灣仔活動中心
-
-九龍：
-———
-九龍城－紅磡庇利街42號九龍城政府合署1樓紅磡社區會堂
-觀塘－藍田啟田道71號藍田（西區）社區中心
-深水埗－深水埗石硤尾邨42座地下石硤尾社區會堂
-黃大仙－慈雲山雲華街45號慈雲山（南區）社區中心
-油尖旺－油麻地眾坊街60號梁顯利油麻地社區中心
-
-新界：
-———
-離島－東涌文東路39號東涌市政大樓地下東涌社區會堂
-葵青－葵涌荔景山路205號荔景社區會堂
-北區－粉嶺祥華邨祥華社區會堂
-西貢－將軍澳坑口培成路38號西貢將軍澳政府綜合大樓地下坑口社區會堂
-沙田－沙田隆亨邨隆亨社區中心
-大埔－大埔鄉事會街2號大埔社區中心
-荃灣－荃灣梨木樹邨康樹樓地下梨木樹社區會堂
-屯門－屯門蝴蝶邨（近蝶心樓）蝴蝶灣社區中心
-元朗－元朗朗屏邨朗屏社區會堂
-元朗－天水圍天耀邨天耀社區中心
-
-除以上臨時避暑中心外，部分社區會堂和社區中心亦會於開放時間內供市民作日間避暑之用，詳細地址請參閱以下文件：www.had.gov.hk/file_manager/tc/documents/public_services/emergency_services/List_CH_CC_Day_TC.pdf。
-
-
-"
-海事處推出優質加注商計劃以提升服務質素和透明度,2026-06-03 17:00,2026-06-03 17:15,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300244.htm,"海事處今日（六月三日）推出優質加注商計劃，鼓勵船用燃料加注商在加注船上安裝及使用質量流量計系統，以提升香港的加注服務水平以至港口競爭力，進一步鞏固香港作為國際航運中心及主要加注港口的地位。
-
-海事處發言人表示：「作為國家支持的國際航運中心，香港地理位置優越，毗鄰國際主要航道，加上歷來發展船用燃料加注，擁有豐富的加注經驗和人才，多年來穩居全球第七、全國第二和大灣區內第一大的加注港，為來自世界各地的遠洋船舶提供可靠及具競爭力的燃料加注服務。隨着國際航運業對燃料交收準確度及交易透明度的要求日益提高，加注作業的服務質素及量度準確性已成為全球加注港競爭力的重要指標，是項計劃可提升加注量的準確度和透明度，進一步提升香港的加注服務質素。」
-
-在計劃下，傳統船用燃料及船用生物柴油加注商如在其加注船上安裝及使用質量流量計系統，並由認可機構按照國際標準化組織《ISO 22192》標準或同等要求就質量流量計系統進行檢查及發出認證證書，在符合相關技術及運作要求後，可向海事處申請將該加注船列入計劃下的「優質加注船名單」。成功獲列入名單的加注船資料將上載至海事處專題網頁，供船公司及相關持份者參考。
-
-計劃屬自願參與性質。參與計劃的加注商除可獲海事處認可外，其採用質量流量計系統的安排亦有助提升市場形象及競爭力，增強客戶信心，並有助開拓更多商機。
-
-發言人續說：「完善的港口服務配套是香港作為國際航運中心的主要優勢之一。我們亦會於今年內強制所有甲醇加注船使用質量流量計，以確保香港在綠色船用燃料時代繼續提供優質加注服務。」
-
-計劃的申請表已上載至海事處網站（www.mardep.gov.hk/tc/public-services/one-stop-services-of-green-fuel-bunkering/quality-bunker-operator-scheme/index.html）。有興趣參加計劃的加注商可於網站下載申請表，或透過電郵（greenfuel@mardep.gov.hk）聯絡海事處綠色船用燃料小組查詢詳情。"
 立法會：教育局局長就「推動香港中小學數字教育，培育未來數字人才」議員議案開場發言（只有中文）,2026-06-03 16:33,2026-06-03 17:00,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300617.htm,"以下是教育局局長蔡若蓮博士今日（六月三日）在立法會會議就「推動香港中小學數字教育，培育未來數字人才」議員議案的開場發言全文：
 
 主席：
@@ -1338,195 +1338,3 @@ Fixed Rate: +3.50 per cent
 總括而言，教育局積極配合國家的數字政策及創科發展方向，將人工智能融入教育全要素、全過程、全場景，建立數字教育生態，達致「AI for all schools」、「AI for all students」，以培養年青人成為未來的創科人才，協助他們融入國家發展大局。
 
 多謝主席。"
-立法會十三題：市民身分被盜用的應對措施,2026-06-03 16:22,2026-06-03 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300511.htm,"​以下是今日（六月三日）在立法會會議上簡慧敏議員的提問和署理財經事務及庫務局局長陳浩濂的書面答覆：
-
-問題：
-
-據報近日有市民遺失身份證後遭盜用身分，當不法分子於線上或線下開設銀行户口後，便冒充有關市民的身分申請貸款、電訊服務，甚至進行其他犯罪活動。就此，政府可否告知本會：
-
-（一）過去三年，不法分子盜用市民身分的主要方式（如線下實體冒用證件、遠程數碼盜用身分等），以及因而引發的案件的性質（如網購、借貸）、宗數及涉及金額損失分別為何，並以表列方式提供分項數字；
-
-（二）政府有否掌握過去三年，市民身分被盜用導致信貸評分受損的情況；如有，詳情為何；如否，原因為何；當局會否考慮要求信貸資料平台「信資通」或參與「信資通」的機構提供相關數據予有關監管機構和警方跟進；
-
-（三）鑑於現時市民能透過「智方便」及具備數碼簽署功能的「智方便+」使用涉及不同政府部門或機構的網上服務，政府有否統計「智方便」及「智方便+」的數據應用場景、數據範圍及各類服務的普及率（舉例而言，以所有政府部門提供的公共服務為分母作計算）分別為何；
-
-（四）鑑於市民在使用「智方便」及「智方便+」時授權政府部門及機構讀取用户數據（如身份證號碼、照片、聯絡資料），政府如何在利民便商及防止市民身分被盜用之間取得平衡，並按政府部門及機構類別列出有關措施詳情；
-
-（五）據報在金融科技領域，政府的原始數據可以稱為「權威數據來源」，內地的金融機構可對接公安部的「全國公民身份證號碼查詢服務中心」，當銀行上傳客户的身份證號碼、姓名及照片時，系統能即時比對公安部的數據庫，反饋證件的真偽及人臉匹配度，能更有效防騙，政府會否參照此做法，對於向金融機構提供「權威數據來源」持開放態度（例如容許有關部門和數字政策辦公室向金融機構傳遞可疑訊息情報並進行身分核實）；如會，詳情為何；如否，原因為何；
-
-（六）如政府未有計劃向金融機構全面開放「權威數據來源」，當局有何替代措施協助金融機構進行客户身分核實及客户盡職審查，以及該等措施所涉及的成本為何（例如數字銀行普遍沒有實體分行，不能進行面對面的客户核實，當局會否考慮率先向該類銀行開放「權威數據來源」以助其核實客户身分）；及
-
-（七）政府有否掌握公營機構和金融機構在政府未開放「權威數據來源」的情況下使用哪些科技以防範市民身分被盜用，以及每年投入多少費用研發及維護該等科技；如有，詳情為何；如否，原因為何？
-
-答覆：
-
-主席：
-
-為應對市民身分被盜用的情況，政府一直與金融監管機構及業界密切監察市場和科技的發展趨勢，並緊密溝通和交流情報。在發現涉及製造虛假香港身份證或行使虛假身分有關的罪行時，執法機關會積極採取執法行動。
-
-就問題的七個部分，經諮詢保安局、創新科技及工業局、香港金融管理局（金管局）、證券及期貨事務監察委員會（證監會）及強制性公積金計劃管理局（積金局），現回覆如下：
-
-（一）香港警務處（警務處）在過去一年進行多次涉及製造虛假香港身份證或行使虛假身分的拘捕行動，包括於二○二五年十月展開的「銀殿」行動，成功瓦解一個本地詐騙集團。該集團利用深偽技術更換已報失的香港身份證上的頭像，成功通過網上銀行的臉容識別系統驗證，開立共19個銀行帳戶，並用該些身份證成功申請借貸和信用卡，涉款約22萬港元。警務處在該行動中拘捕23人，包括集團主腦、骨幹成員及傀儡戶口持有人，牽涉的傀儡戶口曾用於清洗或處理犯罪得益合共超過1.9億港元。
-
-目前，警務處沒有備存所有個案中騙徒盜用身分的主要方式的分項數字。
-
-（二）當收到市民發現信貸資料服務機構所持有的個人信貸紀錄有不準確之處的查詢時，相關信貸提供者或個人信貸資料服務機構會按照《個人信貸資料實務守則》第3.19及3.20段訂明的程序處理，包括核實資料、在有需要時向資料提供者跟進，並在資料證實不準確時盡快作出更正。
-
-有關程序可有效防範或應對身分被盜用而影響個人信貸紀錄的情況。市民亦可按個人需要使用個人信貸資料服務機構提供的信貸提示服務，以便及早識別資料不準確或其他可疑情況，適時作出跟進。
-
-就懷疑身分被盜用的個案，相關機構會按照既定的風險管理及合規程序核實資料及跟進個案，並在有需要時配合執法機關作進一步跟進。
-
-金管局及個人信貸資料服務機構沒有備存涉及懷疑身分被盜用而影響個人信貸紀錄的數據。
-
-（三）截至二○二六年五月底，「智方便」已有超過450萬名登記用戶，當中採用「智方便+」的用戶逾八成。現時，「智方便」已實現政府服務「一網通辦」（即所有政府網上服務均已採用「智方便」）的目標，接達超過1400項政府及公私營機構網上服務和政府電子表格。市民可以使用「智方便」／「智方便＋」各項功能，包括身份認證、「填表通」及數碼簽署等，以登入及使用各項有關服務，例如查閱及繳付帳單、註冊及登入「積金易」平台、查閱個人信貸資料、辦理貸款申請，以及網上開立銀行及金融機構帳戶等。
-
-（四）「智方便」平台作為重要的數字基礎建設，一直嚴格按照《個人資料（私隱）條例》保護市民的個人資料。「智方便」只會在獲得用戶授權的情況下，傳送用戶的個人資料至網上服務提供者，所傳送的個人資料會因應網上服務提供者的要求而有所不同，主要包括用戶的香港身份證資料（包括香港身份證號碼、中英文姓名、出生日期、性別等）及用戶在「填表通」自願提供的個人資料，包括住址、電郵地址、電話號碼等。
-
-「智方便」系統內的個人資料使用國際認可和通行的高級加密標準加密，並儲存於政府數據中心設施內。在互聯網上傳送資料時，亦會使用傳輸層安全協議為資料加密，確保數據安全和完整。「智方便」平台已於二○二三年成功取得了ISO/IEC 27001：2022和ISO/IEC 27701：2019的國際標準認證，標誌著「智方便」服務在資訊安全及個人資料保護方面達到了國際水平。
-
-為應對日新月異的安全威脅，數字政策辦公室（數字辦）一直持續提升「智方便」的整體系統安全，包括在容貌辨識過程應用人工智能進行深偽檢測，以確保自拍圖片來自真實人士（而非由人工智能生成的偽造圖像）。我們亦會利用人工智能日誌分析和監控技術進行異常檢測，主動識別並迅速處理潛在的系統問題。此外，為了加強網絡安全及防範身分盜竊，數字辦在「智方便」加入了「多重身分認證」功能，讓網上服務在用戶進行關鍵流程時（如銀行開戶、遙距認證）可以進行額外身分驗證。除了採用人工智能驅動的抗深度偽造技術，「多重身分認證」功能亦支援用戶以個人流動電話的近場通訊（Near Field Communication，即NFC）功能讀取身份證晶片資料，透過將資料與入境事務處的資料庫實時比對，進一步提升身分認證的安全性。同時，我們引入紅隊嘗試找出系統的隱藏安全風險，並定期每年安排獨立第三方顧問進行審計，以防範資訊安全風險。
-
-（五）至（七）在銀行業方面，金管局一直要求銀行採取多重措施認證客戶身分和防範詐騙，包括應用科技方案檢查身份證的真偽及容貌辨識技術核實客戶身分。現行措施一直有效辨識客戶身分，但鑑於詐騙手法不斷演變及科技發展，銀行亦須持續檢視及強化相關管控及身分核實流程。
-
-就此，金管局正與數字辦、銀行以及儲值支付工具業界緊密合作，計劃將「智方便」多重身分認證功能（Step-up Authentication）逐步融入關鍵流程，透過此功能進行容貌辨識和讀取身份證晶片，防止騙徒使用虛假或被盜用的身分證明文件，為客戶身分認證流程提供額外保障。金管局正與業界商討首階段應用於遙距開戶的安排，並計劃於二○二六年內開展測試，按風險為本原則分階段推展有關安排至其他關鍵流程。
-
-在強制性公積金（強積金）方面，由於所有強積金計劃的行政工作是由積金易平台統一處理，因此積金局可有效地識別可疑個案之間的潛在關聯，並及早採取跟進行動。此外，由二○二五年十二月起，所有註冊積金易平台的網上申請均須透過「智方便」提交，以打擊不法分子冒認強積金計劃成員的行為。積金局亦已要求強積金受託人設立健全的風險管理及監察機制，並協助就積金易平台轉介的個案進行盡職審查，以識別及防止欺詐行為，加強保障計劃成員的利益。
-
-在證券業方面，根據證監會所發出的打擊洗錢及恐怖分子資金籌集指引，持牌法團在與客戶建立業務關係之前必須對客戶執行客戶盡職審查措施，其中包括根據由可靠及獨立來源提供的文件、數據或資料，以核實客戶的身分。而在非親身的開立帳戶過程中，持牌法團應採取額外措施，以減低客戶不曾為身分識別的目的而現身所涉及的風險（例如假冒風險）。其中，證監會自「智方便」推出起已接受中介人於開戶的過程中採用「智方便」為客戶核實身分，以防範身分盜用及減低假冒風險。另外，「智方便」就香港居民的身分提供了可靠和獨立的資料來源，因此中介人亦可透過使用「智方便」所提供的身分認證功能核實客戶身分。
-
-然而，「智方便」與內地的「全國公民身份證號碼查詢服務中心」系統性質不同。「智方便」登記屬自願性質，其多重身分認證功能須客戶已登記「智方便」並同意使用才可採用。政府會繼續密切留意科技發展及業界運作需要，在充分保障個人資料私隱及符合香港法律框架的前提下，持續檢視及優化相關政策，包括研究如何進一步善用「智方便」的認證功能，以及探討與不同金融監管機構協作，強化跨行業的身分核實機制，以更有效防範市民身分被盜用。"
-LCQ13: Measures to tackle identity theft of members of public,2026-06-03 16:22,2026-06-03 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300535.htm,"Following is a question by the Hon Carmen Kan and a written reply by the Acting Secretary for Financial Services and the Treasury, Mr Joseph Chan, in the Legislative Council today (June 3):
-
-Question:
-
-  It has been reported that recently, some members of the public who have lost their identity cards have fallen victim to identity theft. After opening bank accounts online or in person, fraudsters have impersonated these members of the public to apply for loans and telecommunications services, or even engage in other criminal activities. In this connection, will the Government inform this Council:
-
-(1) of the fraudsters' major means of identity theft (e.g. fraudulent offline use of physical identity documents and remote digital identity theft), and the nature of cases consequent to such acts (e.g. online shopping and borrowing), their numbers and pecuniary losses incurred over the past three years, with a breakdown in tabular form;
-
-(2) whether the Government has grasped the situation where the credit scores of members of the public have been adversely affected due to identity theft over the past three years; if so, of the details; if not, the reasons for that; whether the authorities will consider requiring the Credit Reference Platform ""Credit Data Smart"" or its participating institutions to provide relevant data to relevant regulatory bodies and the Police for follow-up;
-
-(3) given that members of the public are currently able to access the online services of various government departments or bodies through ""iAM Smart"" and ""iAM Smart+"" which is equipped with a digital signing function, whether the Government has compiled respective statistics on the data application scenarios, data scope and popularization rates of various services of ""iAM Smart"" and ""iAM Smart+"" (e.g. using the public services provided by all government departments as the denominator in the calculation);
-
-(4) given that members of the public will authorize government departments and bodies to retrieve user data (e.g. identity card numbers, photographs and contact information) when using ""iAM Smart"" and ""iAM Smart+"", how the Government will strike a balance between providing facilitation to both the public and businesses and preventing identity theft, with details of relevant measures set out by type of government department and body;
-
-(5) as it has been reported that in the field of fintech, government raw data may be referred to as ""authoritative data sources""; Mainland financial institutions can connect to the Ministry of Public Security's ""National Citizen Identity Information Centre"", and when banks upload customers' identity card numbers, names and photographs, the system can instantly compare such data against the Ministry of Public Security's database, which will provide feedback on the authenticity of identity documents and facial matching results with enhanced effectiveness in fraud prevention, whether the Government will, with reference to this approach, adopt an open attitude towards providing ""authoritative data sources"" to financial institutions (e.g. allowing relevant departments and the Digital Policy Office to share suspicious intelligence with financial institutions and conduct identity verification); if so, of the details; if not, the reasons for that;
-
-(6) if the Government has no plan to fully open up ""authoritative data sources"" to financial institutions, what alternative measures are in place to assist financial institutions in conducting customer identity verification and due diligence, as well as the costs incurred by these measures (e.g. whether the authorities will consider opening up ""authoritative data sources"" first to digital banks that generally have no physical branch for face-to-face customer verification, so as to assist them in verifying customer identities); and
-
-(7) whether the Government has a clear understanding of the technologies used by public bodies and financial institutions to prevent identity theft without its opening up of ""authoritative data sources"", and the annual investment in the research and development as well as maintenance of such technologies; if so, of the details; if not, the reasons for that?
-
-Reply:
-
-President,
-
-To address the issue of identify theft concerning members of the public, the Government, the financial regulators and the industry have been monitoring market and technology trends closely, and have been maintaining close communication and intelligence sharing. If crimes involving the production of counterfeit Hong Kong identity cards (HKIC) or the use of false identities are detected, the law enforcement agencies take proactive enforcement actions.
-
-After consulting the Security Bureau, the Innovation, Technology and Industry Bureau, the Hong Kong Monetary Authority (HKMA), the Securities and Futures Commission (SFC), and the Mandatory Provident Fund Schemes Authority (MPFA), the reply to the seven parts of the question is as follows:
-
-(1)The Hong Kong Police Force carried out multiple arrest operations over the past year related to the making of false HKICs or the use of false identities, including Operation ""SILVERHALL"" launched in October 2025, which successfully dismantled a local fraud syndicate. The syndicate used deepfake technology to replace the portraits on HKICs which had been reported as lost, and successfully passed the facial recognition verification of online banking systems, opened 19 bank accounts, and used those identity cards to apply for loans and credit cards, involving approximately HK$220,000. In that operation, the Police arrested 23 persons, including the mastermind and core members of the syndicate, as well as holders of stooge accounts, which had been used to launder or handle crime proceeds totalling more than HK$190 million.
-
-The Police does not maintain a breakdown of the primary methods by which fraudsters misused identities across all cases.
-
-(2) When members of the public enquire about inaccuracies in their personal credit records held by a credit reference agency, the relevant credit provider or consumer credit reference agency will handle the matter in accordance with the procedures set out in paragraphs 3.19 and 3.20 of the Code of Practice on Consumer Credit Data, including verifying the information, following up with the data provider where necessary, and making corrections as soon as possible if the information is confirmed to be inaccurate.
-
-These procedures effectively prevent or address situations where identity theft affects an individual's credit record. Members of the public may also make use of credit alert services provided by consumer credit reference agencies as needed, to identify any inaccurate information or other suspicious circumstances early, and take follow-up action in a timely manner.
-
-In cases of suspected identity theft, relevant institutions will verify the information and follow up in accordance with established risk management and compliance procedures, and cooperate with law enforcement agencies for further investigation if necessary.
-
-The HKMA and consumer credit reference agencies do not maintain statistics on cases involving suspected identity theft that affect personal credit records.
-
-(3)As of the end of May 2026, ""iAM Smart"" has registered over 4.5 million users, more than 80 per cent of whom use ""iAM Smart+"". Currently, ""iAM Smart"" has achieved the goal of a ""single portal for online government services"" (i.e. all online government services have adopted ""iAM Smart""), enabling access to over 1 400 online services provided by the Government and public and private organisations, as well as government e-forms. Citizens can use various functions of ""iAM Smart""/""iAM Smart+"", including identity authentication, ""e-Me"" form filling and digital signing, etc, to log in to and access various related services, such as viewing and paying bills, registering for and logging in to the eMPF Platform, checking personal credit records, applying for loans, and opening accounts with banks and financial institutions online.
-
-(4)As a critical digital infrastructure, the ""iAM Smart"" platform has consistently adhered to the Personal Data (Privacy) Ordinance to protect citizens' personal data. ""iAM Smart"" will transfer users' personal data to online service providers only with the user's prior consent. The personal data transferred may vary depending on the requirements of online service providers. It mainly includes users' HKIC data (such as HKIC number, Chinese and English names, date of birth, gender, etc) and personal data voluntarily provided by the user in ""e-ME"" profile, including residential address, email address, phone number.
-
-Personal data in the ""iAM Smart"" system are encrypted using prevailing internationally recognised and accepted Advanced Encryption Standard, and stored in government data centre facilities. During transmission of data over the Internet, Transport Layer Security is also adopted to encrypt data to ensure data security and integrity. The ""iAM Smart"" platform was successfully accredited with ISO/IEC 27001:2022 and ISO/IEC 27701:2019 international standard certifications in 2023. This shows that ""iAM Smart"" services have achieved international standards in information security and personal data protection.
-
-To tackle evolving security threats, the Digital Policy Office (DPO) continuously enhances the overall system security of ""iAM Smart"", including adopting AI in deepfake detection during the facial recognition process, to ensure that selfie images are captured from real persons (instead of AI-generated fakes). We also utilise AI log analytics and monitoring techniques for anomaly detection to proactively identify and swiftly address potential system issues. Furthermore, to strengthen cybersecurity and guard against identity theft, the DPO introduced the ""Step-up Authentication"" function in ""iAM Smart"", allowing online services to conduct additional identity verification for their users during key processes (e.g. bank account opening, remote authentication). Apart from the AI-powered anti-deepfake technology, ""Step-up Authentication"" function also supports the use of Near Field Communication (i.e. NFC) function of users' mobile phones to read the identity card's chip data. By cross-referencing data against the records of the Immigration Department in real time, it further enhances the security of identity authentication. Meanwhile, we engage red team to identify hidden security risks of the system, and arrange annual audits by independent third-party consultants to guard against information security risks.
-
-(5) to (7)In the banking sector, the HKMA has all along required banks to adopt multiple layers of controls to authenticate customers' identities and guard against fraud. These include the use of technology solutions to verify the authenticity of identity cards and facial recognition technology to confirm customers' identities. The existing measures have been effective at validating customers' identities. However, in view of evolving fraud tactics and technological developments, banks must also continually review and strengthen the relevant controls and identity verification processes.
-
-In this regard, the HKMA is working closely with the DPO, banks, and the stored value facility industry and plans to progressively integrate ""iAM Smart""'s Step-up Authentication function into critical processes. Through leveraging the function to conduct facial recognition and reading of identity card chips, fraudsters can be prevented from using fake or stolen identity documents. This will provide another layer of protection to the customer identity authentication process. The HKMA is engaging with the industry on the arrangements for the first phase of implementation covering remote account opening. The plan is to commence testing within 2026 and extend relevant arrangements to other critical processes in phases, following a risk-based approach.
-
-With respect to the Mandatory Provident Fund (MPF), since all administration work of MPF schemes is centrally handled by the eMPF Platform, the MPFA is able to identify potential connections among suspicious cases more effectively and take follow-up action as early as possible. Furthermore, since December 2025, all online applications to register for the eMPF Platform must be submitted via ""iAM Smart"" as a measure to combat impersonation of MPF scheme members by criminals. MPFA has also required MPF trustees to put in place robust risk management and monitoring mechanisms, and to assist in conducting due diligence on cases referred by the eMPF Platform, for detecting and preventing fraudulent activities and strengthening the protection of scheme members' interests.
-
-In the securities sector, under the SFC's Guideline on Anti-Money Laundering and Counter-Financing of Terrorism, licensed corporations must conduct customer due diligence before establishing a business relationship, verifying identity using reliable and independent documents, data, or information. For non face to face account opening, licensed corporations must take additional measures to mitigate risks associated with the absence of physical identity verification (e.g. impersonation risk). Since the launch of ""iAM Smart"", the SFC has accepted the use of ""iAM Smart"" by intermediaries for identity verification during account opening, helping to prevent identity theft and reduce impersonation risk. ""iAM Smart"" provides a reliable and independent source of Hong Kong resident identity information, allowing intermediaries to verify customers through its authentication function.
-
-Nevertheless, ""iAM Smart"" is different in nature from the Chinese Mainland's ""National Citizen Identity Information Service Center system"". Registration for ""iAM Smart"" is voluntary, meaning its Step-up Authentication function can only be used where the customer has registered for ""iAM Smart"" and consented to its use. The Government will continue to monitor technological developments and the operational needs of the industry, and will keep reviewing and optimising related policies, while fully protecting personal data privacy and complying with Hong Kong's legal framework. These include exploring the further use of the authentication capabilities of ""iAM Smart"", and collaborating with various financial regulators to strengthen cross industry identity verification mechanisms, thereby more effectively preventing identity theft."
-立法會六題：二○二五年立法會換屆選舉的工作人員,2026-06-03 16:15,2026-06-03 16:30,Chi,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300558.htm,"以下是今日（六月三日）在立法會會議上何君堯議員的提問和政制及內地事務局局長謝小華的答覆：
-
-問題：
-
-根據選舉管理委員會發表的《2025年立法會換屆選舉報告書》，選舉事務處在該次選舉聘用了約共34 000名選舉工作人員，主要由現職公務員及全職退休後服務合約人員擔任。就此，政府可否告知本會：
-
-（一）聘用現職公務員及全職退休後服務合約人員以擔任上述選舉工作人員的開支分別為何；
-
-（二）各個選舉工作人員職位（包括投票站主任、副投票站主任、助理投票站主任、點票主任、助理點票主任，以及其他職位）的人手編制為何；該等工作人員執行選舉相關職務的工作天數和時數為何；及
-
-（三）鑑於有意見認為上述選舉的開支太高，政府會否考慮檢討對參與選舉工作的公務員支付額外報酬的做法，以節省公帑？
-
-答覆：
-
-主席：
-
-特區（香港特別行政區）第八屆立法會換屆選舉於二○二五年十二月七日舉行。該次選舉是特區完善選舉制度、全面落實「愛國者治港」原則下的第二場立法會換屆選舉，對「一國兩制」行穩致遠、特區良政善治、民生福祉及經濟發展至關重要，具有深刻意義。在去年十二月的選舉之中，10個地方選區、28個功能界別，以及選舉委員會（選委會）界別都需要進行投票。為便利選民，該次選舉推出多項先驅性的安排，包括延長投票時間至16小時，並為方便不同群組設立專屬投票站和外展投票站，又增設鄰近邊境投票站。整個選舉過程暢順，由發票、投票、以至點票等各個環節均有序進行，順利選出全部90位議員，組成特區第八屆立法會。
-
-特區政府一直與選舉管理委員會緊密合作，以穩中求進的態度致力優化選舉安排，以期各個選舉流程環節更高效及人性化地進行。為確保選舉有序進行及便利選民投票，選舉事務處籌備每一場選舉的時候，都會作出充分的準備，包括按票站選民人數、場地規模等具體情況，以及參考過往選舉的經驗，就每個流程環節配置合適及充足的選舉工作人員。
-
-在選舉管理委員會的指示之下，選舉事務處為籌辦第八屆立法會換屆選舉，並按照選舉法例，委任了共約34 000名現職公務員及根據退休後服務合約計劃聘用的退休公務員出任選舉工作人員，以確保有足夠人手在全港執行投票日前一天的準備工作，以及在投票日至翌日的投票及點票的工作。全賴各方通力合作，該次選舉在公平、公開、誠實、安全有序以及高效及人性化下順利完成，整體過程十分理想。
-
-就何君堯議員的提問，我現在答覆如下：
-
-（一）選舉事務處在第八屆立法會換屆選舉中委任了約34 000名選舉工作人員的開支合共約2億3,600萬元，所涉及人員當中絕大部分屬現職公務員，退休公務員只佔約400人。大部分選舉工作人員都需執勤三天，即是投票日前一天、投票日當天及翌日。
-
-（二）選舉事務處按照相關選舉法例委任第八屆立法會換屆選舉的選舉工作人員，當中包括投票站主任約810人、副投票站主任約1 980人、助理投票站主任約7 360人、點票主任約90人、助理點票主任約430人，以及投票助理員及點票助理員等其他人員約23 180人。這些選舉工作人員按照他們獲委任的職責及有關選舉法例和程序執行職務，他們分別獲派往選舉事務處在全港設置的一般投票兼點票站、選委會界別投票站、鄰近邊境投票站、專用投票站、專屬投票站、外展投票站、綜合大點票站、中央點票站，以及中央指揮中心及數據資訊中心執勤，當中也有負責提供後勤補給及支援緊急情況的人員等。
-
-選舉工作人員的工作時數根據他們擔任的工作及運作需要而定。一般而言，選舉工作人員需在投票日前一天到有關場地準備，實際時數須視乎現場具體工作需要而定。另外，以在投票兼點票站執勤的選舉工作人員為例，為配合該次選舉共16小時的投票時間，他們由投票日當天上午六時開始執勤，以準備票站在七時三十分開放。至晚上十一時三十分投票時間完結後，繼續執勤至翌日凌晨約四時，以完成運票、點票以及其他後續的工作，投票日當天至翌日整體執勤時間共約22小時，大部分的選舉工作人員的工作時間橫跨三天。
-
-此外，選舉工作人員亦需按照他們獲分派的任務，在籌備選舉期間參與選舉事務處提供的一系列培訓，例如簡介會、實地培訓、模擬情景（演練）等。以在投票站執勤的工作人員為例，他們的實習培訓內容涵蓋電子選民登記冊和發票程序的操練、系統的應急預算方案等，以便他們在使用選民登記冊及發票時能夠有序地進行工作流程。選舉工作人員亦需要熟讀選舉事務處製作的工作手冊和培訓資料，以熟悉其職務的專業知識及工作流程中各個環節的程序及操作，提升其執行及應變能力。
-
-（三）立法會換屆選舉是一場特區高度重視的大型、全港性選舉，其可以在公平、公開、誠實、安全有序以及高效及人性化的情況下舉行，事前離不開要有充分準備。就此，選舉管理委員會必須安排合適及充足的人員，嚴格遵守相關選舉法例及指引，以保障選舉安排的中立性和獨立性。
-
-公務員一直是選舉管理委員會所依賴的穩定、可靠、有經驗的選舉事務工作人員的來源。現行委任選舉工作人員的機制，有助招募合適和有經驗的人員擔任選舉工作，以期可以順利執行選舉過程。
-
-特區政府、選舉管理委員會及選舉事務處將繼續以穩中求進的態度，並秉持審慎理財的原則，繼續檢視及優化選舉安排和資源運用，確保公共資源用得其所。
-
-多謝主席。"
-LCQ6: Staff for 2025 Legislative Council General Election,2026-06-03 16:15,2026-06-03 16:30,Eng,gia,https://www.info.gov.hk/gia/general/202606/03/P2026060300608.htm,"  Following is a question by Dr the Hon Junius Ho and a reply by the Secretary for Constitutional and Mainland Affairs, Miss Janice Tse Siu-wa, in the Legislative Council today (June 3):
-
-Question:
-
-  According to the Report on the 2025 Legislative Council General Election published by the Electoral Affairs Commission, the Registration and Electoral Office recruited a total of around 34 000 electoral staff in this election, who were mainly serving civil servants and full-time post-retirement service contract staff. In this connection, will the Government inform this Council:
-
-(1) of the respective expenditures incurred in recruiting serving civil servants and full-time post-retirement service contract staff to serve as the aforesaid electoral staff;
-
-(2) of the staffing establishment for various electoral staff posts (including Presiding Officers, Deputy Presiding Officers, Assistant Presiding Officers, Counting Supervisors, Assistant Counting Supervisors, and other posts); the numbers of working days and hours for which such staff performed election-related duties; and
-
-(3) given that there are views that the expenditure on the aforesaid election is too high, whether the Government will consider reviewing the practice of paying additional remuneration to civil servants participating in electoral work, so as to save public funds?
-
-Reply:
-
-President,
-
-  The general election for the eighth term Legislative Council (LegCo) of the Hong Kong Special Administrative Region (HKSAR) was held on December 7, 2025. The election is the second LegCo general election after the HKSAR improved the electoral system and fully implemented the principle of ""patriots administering Hong Kong"". It carries profound significance and is important to the steadfast and successful implementation of the ""one country, two systems"", good governance, people's livelihood and economic development in the HKSAR. At the election in December last year, voting was conducted in the 10 geographical constituencies (GCs), 28 functional constituencies, and the Election Committee constituency (ECC). To facilitate electors, various pioneering arrangements were introduced in the election, including extending polling hours to 16 hours, setting up designated polling stations and outreach polling stations for the convenience of various groups, and adding Near Boundary Polling Stations (NBPSs). The overall election process was smooth, with each stage, from issuing ballot papers, voting, and to counting, etc, being carried out in an orderly manner, successfully electing all 90 members to form the eighth term LegCo of the HKSAR.
-
-  The HKSAR Government has all along worked closely with the Electoral Affairs Commission (EAC) to enhance various electoral arrangements with the spirit of steadfastly seeking progress while ensuring stability, with a view to ensuring that all electoral processes would be conducted in a more efficient and user-friendly manner. To ensure the orderly conduct of the election and to facilitate electors in casting votes, the Registration and Electoral Office (REO) would fully prepare for each election, taking into account the actual circumstances including the number of electors at polling stations, venue size, and make reference to the experience in past elections, so to allocate appropriate and sufficient electoral staff for each procedural step.
-
-  As directed by the EAC, to prepare and conduct the general election for the eighth term LegCo, and in accordance with the electoral legislation, the REO appointed a total of approximately 34 000 serving civil servants and retired civil servants under the Post-retirement Service Contract Scheme (PRSC) as electoral staff, so to ensure that there would be sufficient manpower to carry out preparatory work across the territory on the day before the polling day, in addition to polling and counting work from the polling day to the following day. With the concerted efforts of all parties, the election was completed smoothly in a fair, open, honest, safe and orderly, efficient and user-friendly manner. The overall process was highly satisfactory.
-
-  In response to the question raised by Dr the Hon Junius Ho, I reply as follows -
-
-(1) The total expenditure incurred by the REO for the appointment of about 34 000 electoral staff for the general election for the eighth term LegCo was around $236 million, and vast majority of the staff were serving civil servants. Only around 400 of the staff were retired civil servants. Most electoral staff were required to perform duties for three days, which covered the day before polling day, polling day and the day after.
-
-(2) The REO appointed electoral staff for the general election for the eighth term LegCo in accordance with the relevant electoral legislation. These included about 810 Presiding Officers, about 1 980 Deputy Presiding Officers, about 7 360 Assistant Presiding Officers, about 90 Counting Supervisors, about 430 Assistant Counting Supervisors, and about 23 180 other staff such as Polling Officers and Counting Officers. These electoral staff performed duties in accordance with their appointed responsibilities and related electoral legislation and procedures. They were assigned to perform duties at ordinary polling-cum-counting stations, ECC polling station, NBPSs, dedicated polling stations, designated polling stations, outreach polling stations, consolidated main counting station, central counting station, as well as the Central Command Centre and the Statistical Information Centre, among whom there were staff responsible for providing logistical and emergency support, etc.
-
-  The working hours of electoral staff varied according to their assigned tasks and operational needs. In general, electoral staff are required to make preparations at the venue the day before polling day and the actual hours depend on the specific work requirements on site. Besides, taking electoral staff on duty at polling-cum-counting stations as an example, to tie in with the 16-hour polling hours at the election, their duty commenced at 6am on polling day to prepare for the opening of stations at 7.30am. After the close of poll at 11.30pm, they continued their duties until 4am on the following day to complete delivery, counting and other follow-up tasks. The total duty hours from polling day to the following day were about 22 hours, and working hours of most electoral staff spanned a period of three days.
-
-  In addition, electoral staff are required to attend a series of training during the preparation period for the election as provided by the REO in relation to the tasks assigned to them, e.g. briefing sessions, on-site training and simulated drills. Taking the example of staff on duty at polling stations, their practical training include practising ballot paper issuance procedures for the Electronic Poll Register, fallback plan for the system, so as to ensure that they would be able to carry out the ballot paper issuance procedures for the Electronic Poll Register in an orderly manner. The electoral staff were also required to be well-versed with work manuals and training materials prepared by the REO as well as be familiar with the professional knowledge in relation to their duties and various processes and operations in various stages of their work procedures to enhance their execution and response capabilities.
-
-(3) The LegCo general election was a large scale, territory-wide election that the HKSAR placed utmost importance on. Its successful conduct in a fair, open, honest, safe and orderly, as well as efficient and user-friendly manner depended on the thorough preparations beforehand. To this end, the EAC must arrange appropriate and sufficient personnel to be in strict accordance with the electoral legislation and guidelines, so to ensure that electoral arrangements were impartial and independent.
-
-  The EAC has all along relied on civil servants as a source of stable, reliable, and experienced electoral staff. The prevailing appointment mechanism for electoral staff is conducive to the recruitment of suitable and experienced staff for performing electoral duties to ensure the smooth conduct of the electoral process.
-
-  The HKSAR Government, the EAC and the REO, with the spirit of steadfastly seeking progress while ensuring stability and upholding the principle of fiscal prudence, will continue to review and enhance electoral arrangements and resources utilisation, so as to ensure the effective use of public resources.
-
-  Thank you, President."
